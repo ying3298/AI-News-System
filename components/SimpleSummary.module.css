@@ -1,0 +1,21 @@
+.wrapper {
+  background: var(--color-surface);
+  border-radius: 4px;
+  padding: var(--space-lg);
+  margin-bottom: var(--space-xl);
+}
+
+.label {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--color-text-secondary);
+  margin-bottom: var(--space-sm);
+}
+
+.text {
+  font-size: 1.05rem;
+  line-height: 1.7;
+  max-width: 640px;
+}

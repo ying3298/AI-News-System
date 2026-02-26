@@ -1,0 +1,25 @@
+{
+  "name": "ai-news-system",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "generate": "tsx scripts/generate-daily-json.ts"
+  },
+  "dependencies": {
+    "next": "16.1.6",
+    "react": "19.2.3",
+    "react-dom": "19.2.3"
+  },
+  "devDependencies": {
+    "@anthropic-ai/sdk": "^0.78.0",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "rss-parser": "^3.13.0",
+    "tsx": "^4.21.0",
+    "typescript": "^5"
+  }
+}

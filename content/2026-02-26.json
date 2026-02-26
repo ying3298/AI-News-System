@@ -1,0 +1,157 @@
+{
+  "date": "2026-02-26",
+  "dateFormatted": "February 26, 2026",
+  "headline": {
+    "title": "Google DeepMind Unveils Gemini Ultra 2 with Real-Time Video Understanding",
+    "summary": "Google DeepMind has released Gemini Ultra 2, a multimodal AI model capable of understanding and reasoning about live video streams in real time. The model demonstrates unprecedented performance on complex visual reasoning tasks, outperforming previous benchmarks by 23%. Enterprise availability begins next month.",
+    "sourceUrl": "https://blog.google/technology/ai/gemini-ultra-2",
+    "sourceName": "Google AI Blog"
+  },
+  "simpleSummary": "Google made a super smart computer brain that can watch videos and understand what's happening, just like you can. It can answer questions about what it sees, almost like having a really clever friend watching TV with you who never misses a thing.",
+  "sections": {
+    "tools": [
+      {
+        "id": "AI-001",
+        "title": "Cursor 3.0 Launches with Multi-File Agent Mode",
+        "summary": "The AI code editor introduces an autonomous agent that can plan and execute changes across entire codebases, with built-in testing and rollback capabilities.",
+        "sourceUrl": "https://cursor.com/blog/3.0",
+        "sourceName": "Cursor Blog",
+        "tags": ["Developer Tools", "Code Generation", "2026"]
+      },
+      {
+        "id": "AI-002",
+        "title": "Adobe Firefly Video Goes Live for All Creative Cloud Users",
+        "summary": "Adobe rolls out its AI video generation tool to all Creative Cloud subscribers, supporting 4K output and style-consistent generation across clips.",
+        "sourceUrl": "https://news.adobe.com/firefly-video",
+        "sourceName": "Adobe Newsroom",
+        "tags": ["Creative Tools", "Video", "Adobe"]
+      },
+      {
+        "id": "AI-003",
+        "title": "Notion Launches AI-Powered Knowledge Graph",
+        "summary": "Notion's new feature automatically maps relationships between documents, creating a navigable knowledge graph that surfaces relevant context during writing.",
+        "sourceUrl": "https://notion.so/blog/knowledge-graph",
+        "sourceName": "Notion Blog",
+        "tags": ["Productivity", "Knowledge Management"]
+      },
+      {
+        "id": "AI-004",
+        "title": "Perplexity Introduces Deep Research for Enterprise",
+        "summary": "Enterprise teams can now use Perplexity's multi-step research agent that produces 30-page reports with verified citations from proprietary data sources.",
+        "sourceUrl": "https://perplexity.ai/enterprise",
+        "sourceName": "Perplexity",
+        "tags": ["Search", "Enterprise", "Research"]
+      }
+    ],
+    "research": [
+      {
+        "id": "AI-005",
+        "title": "Stanford Researchers Achieve 10x Training Efficiency with Sparse Mixture Architecture",
+        "summary": "A new training approach using dynamic sparsity reduces compute requirements by 90% while maintaining model quality, potentially democratizing large model training.",
+        "sourceUrl": "https://arxiv.org/abs/2026.01234",
+        "sourceName": "ArXiv",
+        "tags": ["Training", "Efficiency", "Stanford"]
+      },
+      {
+        "id": "AI-006",
+        "title": "MIT Paper Proposes Constitutional AI 2.0 Framework",
+        "summary": "Researchers introduce an improved framework for AI alignment that uses multi-agent debate to identify and resolve value conflicts in real time.",
+        "sourceUrl": "https://arxiv.org/abs/2026.05678",
+        "sourceName": "ArXiv",
+        "tags": ["Alignment", "Safety", "MIT"]
+      },
+      {
+        "id": "AI-007",
+        "title": "DeepSeek Open-Sources 671B Parameter MoE Model",
+        "summary": "Chinese AI lab DeepSeek releases its largest model yet as open-source, with performance rivaling GPT-5 on coding and mathematical reasoning benchmarks.",
+        "sourceUrl": "https://github.com/deepseek-ai/deepseek-v4",
+        "sourceName": "GitHub",
+        "tags": ["Open Source", "LLM", "DeepSeek"]
+      }
+    ],
+    "business": [
+      {
+        "id": "AI-008",
+        "title": "NVIDIA Reports $52B Quarterly Revenue, AI Chip Demand 'Insatiable'",
+        "summary": "NVIDIA smashes expectations with record quarterly earnings driven by data center GPU sales. CEO Jensen Huang announces next-generation Blackwell Ultra chips shipping in Q3.",
+        "sourceUrl": "https://nvidianews.nvidia.com/earnings",
+        "sourceName": "NVIDIA Newsroom",
+        "tags": ["NVIDIA", "Earnings", "Hardware"]
+      },
+      {
+        "id": "AI-009",
+        "title": "Anthropic Closes $5B Series E at $80B Valuation",
+        "summary": "The Claude maker secures its largest funding round to date, with investment from Google, Salesforce, and several sovereign wealth funds.",
+        "sourceUrl": "https://techcrunch.com/anthropic-series-e",
+        "sourceName": "TechCrunch",
+        "tags": ["Funding", "Anthropic", "Venture Capital"]
+      },
+      {
+        "id": "AI-010",
+        "title": "Apple Acquires AI Startup for On-Device Language Models",
+        "summary": "Apple reportedly acquires a Paris-based startup specializing in efficient on-device language models, signaling deeper AI integration in upcoming iOS releases.",
+        "sourceUrl": "https://www.theverge.com/apple-ai-acquisition",
+        "sourceName": "The Verge",
+        "tags": ["Apple", "Acquisition", "On-Device AI"]
+      }
+    ],
+    "policy": [
+      {
+        "id": "AI-011",
+        "title": "EU AI Act Enforcement Begins with First Compliance Audits",
+        "summary": "European regulators launch their first round of compliance audits for high-risk AI systems, focusing on hiring algorithms and credit scoring models.",
+        "sourceUrl": "https://www.reuters.com/eu-ai-act-enforcement",
+        "sourceName": "Reuters",
+        "tags": ["EU", "Regulation", "Compliance"]
+      },
+      {
+        "id": "AI-012",
+        "title": "US Senate Introduces Bipartisan AI Licensing Bill",
+        "summary": "A new bill proposes mandatory licensing for AI systems exceeding certain capability thresholds, with annual safety reviews required for frontier models.",
+        "sourceUrl": "https://www.reuters.com/us-ai-licensing",
+        "sourceName": "Reuters",
+        "tags": ["US Policy", "Legislation", "Licensing"]
+      }
+    ],
+    "concerns": [
+      {
+        "id": "AI-013",
+        "title": "Study Finds AI-Generated Misinformation Increasingly Difficult to Detect",
+        "summary": "A Georgetown University study finds that AI-generated fake news articles are now indistinguishable from human-written content by both readers and detection tools in 78% of cases.",
+        "sourceUrl": "https://cset.georgetown.edu/misinformation-study",
+        "sourceName": "Georgetown CSET",
+        "tags": ["Misinformation", "Detection", "Study"]
+      },
+      {
+        "id": "AI-014",
+        "title": "Major Copyright Lawsuit Against AI Training Data Reaches Supreme Court",
+        "summary": "The landmark case over whether AI training on copyrighted works constitutes fair use will be heard by the Supreme Court, with implications for the entire generative AI industry.",
+        "sourceUrl": "https://www.nytimes.com/ai-copyright-scotus",
+        "sourceName": "New York Times",
+        "tags": ["Copyright", "Legal", "Training Data"]
+      },
+      {
+        "id": "AI-015",
+        "title": "Report: AI Automation Could Displace 30% of Knowledge Worker Tasks by 2028",
+        "summary": "McKinsey's latest report estimates that generative AI will automate nearly a third of knowledge work tasks within two years, urging companies to invest in workforce reskilling.",
+        "sourceUrl": "https://www.mckinsey.com/ai-workforce-2028",
+        "sourceName": "McKinsey",
+        "tags": ["Employment", "Automation", "Workforce"]
+      }
+    ]
+  },
+  "quote": {
+    "text": "The question is no longer whether AI will transform every industry, but whether we'll manage that transformation wisely enough to benefit everyone.",
+    "author": "Dario Amodei",
+    "authorTitle": "CEO, Anthropic"
+  },
+  "sources": [
+    "https://blog.google/technology/ai",
+    "https://techcrunch.com/category/artificial-intelligence",
+    "https://www.theverge.com/ai-artificial-intelligence",
+    "https://arxiv.org/list/cs.AI/recent",
+    "https://www.reuters.com/technology/artificial-intelligence",
+    "https://venturebeat.com/category/ai"
+  ],
+  "generatedAt": "2026-02-26T11:00:00Z"
+}

@@ -1,0 +1,9 @@
+.header {
+  font-family: var(--font-sans);
+  font-size: clamp(48px, 10vw, 140px);
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: -0.02em;
+  line-height: 1;
+  margin-bottom: var(--space-lg);
+}
