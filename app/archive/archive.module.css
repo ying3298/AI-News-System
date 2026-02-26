@@ -16,24 +16,74 @@
   gap: 1.5rem;
   padding: var(--space-md) 0;
   border-bottom: 1px solid var(--color-border);
-  transition: padding-left var(--transition);
+  transition: padding-left var(--transition), background var(--transition);
 }
 
 .item:hover {
   padding-left: 0.5rem;
 }
 
+.itemMeta {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  min-width: 100px;
+}
+
 .date {
-  flex: 1;
   font-weight: 500;
-  font-size: 1.05rem;
+  font-size: 0.85rem;
+  color: var(--color-text-secondary);
+}
+
+.itemPreview {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  min-width: 0;
+}
+
+.headline {
+  font-weight: 500;
+  font-size: 1rem;
+  line-height: 1.35;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.storyCount {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  color: var(--color-text-secondary);
 }
 
 .arrow {
   color: var(--color-text-secondary);
   transition: transform var(--transition);
+  flex-shrink: 0;
 }
 
 .item:hover .arrow {
   transform: translateX(4px);
+}
+
+@media (max-width: 640px) {
+  .item {
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+  }
+
+  .itemMeta {
+    flex-direction: row;
+    align-items: center;
+    gap: 0.75rem;
+    min-width: auto;
+  }
+
+  .headline {
+    white-space: normal;
+  }
 }

@@ -1,8 +1,29 @@
 .wrapper {
-  background: var(--color-surface);
-  border-radius: 4px;
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+  border-radius: 6px;
   padding: var(--space-lg);
-  margin-bottom: var(--space-xl);
+  margin: var(--space-lg) 0;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: var(--space-sm);
+}
+
+.icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  background: rgba(255, 255, 255, 0.15);
+  color: rgba(255, 255, 255, 0.9);
+  padding: 0.25rem 0.6rem;
+  border-radius: 4px;
 }
 
 .label {
@@ -10,12 +31,12 @@
   font-size: 0.7rem;
   text-transform: uppercase;
   letter-spacing: 0.1em;
-  color: var(--color-text-secondary);
-  margin-bottom: var(--space-sm);
+  color: rgba(255, 255, 255, 0.5);
 }
 
 .text {
-  font-size: 1.05rem;
+  font-size: 1.1rem;
   line-height: 1.7;
   max-width: 640px;
+  color: rgba(255, 255, 255, 0.85);
 }
