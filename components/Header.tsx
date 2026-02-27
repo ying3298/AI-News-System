@@ -1,7 +1,12 @@
 import Link from "next/link";
+import { getLatestContent } from "@/lib/content";
+import SearchOverlay from "./SearchOverlay";
 import styles from "./Header.module.css";
 
 export default function Header() {
+  const content = getLatestContent();
+  const allItems = Object.values(content.sections).flat();
+
   return (
     <header className={styles.header}>
       <nav className={styles.nav}>
@@ -25,9 +30,7 @@ export default function Header() {
         </Link>
 
         <div className={styles.right}>
-          <span className={styles.navLink} style={{ opacity: 0.4 }}>
-            Search
-          </span>
+          <SearchOverlay items={allItems} />
         </div>
       </nav>
     </header>
