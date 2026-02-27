@@ -1,3 +1,4 @@
+import Link from "next/link";
 import type { NewsItem } from "@/lib/types";
 import TagPill from "./TagPill";
 import styles from "./NewsCard.module.css";
@@ -9,10 +10,8 @@ interface Props {
 
 export default function NewsCard({ item, featured }: Props) {
   return (
-    <a
-      href={item.sourceUrl}
-      target="_blank"
-      rel="noopener noreferrer"
+    <Link
+      href={`/story/${item.id}/`}
       className={`${styles.card} ${featured ? styles.featured : ""}`}
     >
       <div className={styles.top}>
@@ -37,6 +36,6 @@ export default function NewsCard({ item, featured }: Props) {
         </div>
         <span className={styles.readCta}>Read at source &rarr;</span>
       </div>
-    </a>
+    </Link>
   );
 }

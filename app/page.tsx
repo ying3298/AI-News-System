@@ -1,16 +1,14 @@
 import { getLatestContent } from "@/lib/content";
-import { SECTION_META, type SectionSlug } from "@/lib/types";
 import HeroHeadline from "@/components/HeroHeadline";
 import SimpleSummary from "@/components/SimpleSummary";
-import NewsGrid from "@/components/NewsGrid";
+import SectionHeader from "@/components/SectionHeader";
+import FilteredFeed from "@/components/FilteredFeed";
 import QuoteBlock from "@/components/QuoteBlock";
 import Link from "next/link";
 import styles from "./page.module.css";
 
 export default function Home() {
   const content = getLatestContent();
-  const sectionSlugs = Object.keys(content.sections) as SectionSlug[];
-  const totalStories = Object.values(content.sections).flat().length;
 
   return (
     <>
@@ -26,52 +24,12 @@ export default function Home() {
             around the world.
           </p>
           <Link href="/archive/" className="link-arrow">
-            Explore &rarr;
+            Archive &rarr;
           </Link>
         </section>
 
-        {/* Category nav above the feed — lets users jump to what they care about */}
-        <nav className={styles.categoryNav}>
-          <span className={styles.categoryLabel}>
-            {totalStories} stories across {sectionSlugs.length} categories
-          </span>
-          <div className={styles.categoryPills}>
-            {sectionSlugs.map((slug) => (
-              <Link
-                key={slug}
-                href={`/section/${slug}/`}
-                className={styles.categoryPill}
-              >
-                {SECTION_META[slug].label}
-                <span className={styles.pillCount}>
-                  {content.sections[slug].length}
-                </span>
-              </Link>
-            ))}
-          </div>
-        </nav>
-
-        {/* Sectioned feed — grouped by category instead of flat wall */}
-        {sectionSlugs.map((slug) => {
-          const items = content.sections[slug];
-          if (items.length === 0) return null;
-          return (
-            <section key={slug} className={styles.feedSection} id={slug}>
-              <div className={styles.feedSectionHeader}>
-                <h2 className={styles.feedSectionTitle}>
-                  {SECTION_META[slug].label}
-                </h2>
-                <Link
-                  href={`/section/${slug}/`}
-                  className={styles.feedSectionLink}
-                >
-                  View all &rarr;
-                </Link>
-              </div>
-              <NewsGrid items={items} />
-            </section>
-          );
-        })}
+        <SectionHeader title="Feed" />
+        <FilteredFeed sections={content.sections} />
 
         <QuoteBlock quote={content.quote} />
       </div>

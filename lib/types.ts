@@ -2,9 +2,15 @@ export interface NewsItem {
   id: string;
   title: string;
   summary: string;
+  content: string;
+  keyTakeaways: string[];
+  whyItMatters: string;
   sourceUrl: string;
   sourceName: string;
   tags: string[];
+  section: string;
+  readTime: string;
+  publishedAt: string;
 }
 
 export interface DailyContent {

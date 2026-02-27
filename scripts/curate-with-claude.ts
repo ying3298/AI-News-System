@@ -19,7 +19,11 @@ Given a list of raw RSS feed items about AI, you must:
 4. For each section, pick 3-5 of the best stories and write:
    - A concise title (rephrase for clarity, don't just copy the RSS title)
    - A 1-2 sentence summary
+   - A longer content paragraph (3-5 sentences) with more detail
+   - 2-4 key takeaways as an array of strings
+   - A "whyItMatters" sentence explaining significance
    - Assign 2-4 descriptive tags
+   - Estimate a readTime like "3 min"
 5. Pick or compose a relevant quote of the day from an AI leader
 
 Assign sequential IDs starting from AI-001.
@@ -29,7 +33,7 @@ Respond with ONLY valid JSON matching this exact structure (no markdown fencing)
   "headline": { "title": "...", "summary": "...", "sourceUrl": "...", "sourceName": "..." },
   "simpleSummary": "...",
   "sections": {
-    "tools": [{ "id": "AI-001", "title": "...", "summary": "...", "sourceUrl": "...", "sourceName": "...", "tags": ["...", "..."] }],
+    "tools": [{ "id": "AI-001", "title": "...", "summary": "...", "content": "...", "keyTakeaways": ["..."], "whyItMatters": "...", "sourceUrl": "...", "sourceName": "...", "tags": ["..."], "section": "tools", "readTime": "3 min", "publishedAt": "..." }],
     "research": [...],
     "business": [...],
     "policy": [...],
@@ -56,7 +60,7 @@ export async function curateWithClaude(
 
   const message = await client.messages.create({
     model: "claude-haiku-4-5-20241022",
-    max_tokens: 4096,
+    max_tokens: 8192,
     system: SYSTEM_PROMPT,
     messages: [{ role: "user", content: userPrompt }],
   });

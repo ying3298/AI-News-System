@@ -106,6 +106,28 @@
   color: var(--color-text-secondary);
   padding-top: var(--space-md);
   border-top: 1px solid var(--color-border);
+  flex-wrap: wrap;
+}
+
+.status {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.statusFresh {
+  background: #22c55e;
+}
+
+.statusStale {
+  background: #f59e0b;
 }
 
 @media (max-width: 820px) {

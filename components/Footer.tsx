@@ -1,7 +1,35 @@
 import Link from "next/link";
+import { getLatestContent } from "@/lib/content";
 import styles from "./Footer.module.css";
 
 export default function Footer() {
+  let statusLabel = "Auto-updated daily at 6 AM EST";
+  let statusClass = styles.statusFresh;
+
+  try {
+    const content = getLatestContent();
+    if (content.generatedAt) {
+      const genDate = new Date(content.generatedAt);
+      const now = new Date();
+      const hoursAgo = (now.getTime() - genDate.getTime()) / (1000 * 60 * 60);
+
+      const formatted = genDate.toLocaleDateString("en-US", {
+        month: "short",
+        day: "numeric",
+        year: "numeric",
+      });
+
+      if (hoursAgo > 36) {
+        statusLabel = `Last updated ${formatted} — content may be stale`;
+        statusClass = styles.statusStale;
+      } else {
+        statusLabel = `Last updated ${formatted}`;
+      }
+    }
+  } catch {
+    // Content not available yet
+  }
+
   return (
     <footer className={styles.footer}>
       {/* Engagement CTA — give users a reason to come back */}
@@ -35,19 +63,17 @@ export default function Footer() {
             <span className={styles.footerNavLabel}>Navigate</span>
             <Link href="/" className={styles.footerLink}>Today&apos;s Feed</Link>
             <Link href="/archive/" className={styles.footerLink}>Archive</Link>
-            <Link href="/section/tools/" className={styles.footerLink}>Categories</Link>
           </div>
           <div className={styles.footerNav}>
             <span className={styles.footerNavLabel}>Categories</span>
-            <Link href="/section/tools/" className={styles.footerLink}>Tools &amp; Products</Link>
-            <Link href="/section/research/" className={styles.footerLink}>Research</Link>
-            <Link href="/section/business/" className={styles.footerLink}>Industry &amp; Business</Link>
-            <Link href="/section/policy/" className={styles.footerLink}>Government &amp; Policy</Link>
-            <Link href="/section/concerns/" className={styles.footerLink}>Concerns &amp; Ethics</Link>
+            <span className={styles.footerLink}>Use filter buttons on the feed</span>
           </div>
         </div>
         <div className={styles.meta}>
-          <span>Auto-updated daily at 6 AM EST</span>
+          <span className={styles.status}>
+            <span className={`${styles.dot} ${statusClass}`} />
+            {statusLabel}
+          </span>
           <span>Powered by RSS + Claude</span>
         </div>
       </div>

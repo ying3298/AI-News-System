@@ -1,6 +1,7 @@
 import { getAllDates, getDailyContent } from "@/lib/content";
 import { formatDate } from "@/lib/dates";
 import SectionHeader from "@/components/SectionHeader";
+import ArchiveCalendar from "@/components/ArchiveCalendar";
 import Link from "next/link";
 import styles from "./archive.module.css";
 
@@ -9,8 +10,10 @@ export default function ArchivePage() {
 
   return (
     <div className="page-container" style={{ paddingTop: "var(--space-xl)" }}>
-      <SectionHeader title="Index" />
+      <SectionHeader title="Archive" />
       <p className={styles.subtitle}>Browse previous editions of The AI Feed.</p>
+
+      <ArchiveCalendar contentDates={dates} />
 
       <div className={styles.list}>
         {dates.map((date, i) => {

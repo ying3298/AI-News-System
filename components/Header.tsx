@@ -17,11 +17,7 @@ export default function Header() {
           </Link>
           <Link href="/archive/" className={styles.navLink}>
             <span className={styles.dot} />
-            INDEX
-          </Link>
-          <Link href="/section/tools/" className={styles.navLink}>
-            <span className={styles.dot} />
-            CATEGORIES
+            ARCHIVE
           </Link>
         </div>
 

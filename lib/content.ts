@@ -29,3 +29,31 @@ export function getAllDates(): string[] {
 export function getSectionSlugs(): SectionSlug[] {
   return ["tools", "research", "business", "policy", "concerns"];
 }
+
+export function getAllStoryIds(): { id: string; date: string }[] {
+  const index = getContentIndex();
+  const result: { id: string; date: string }[] = [];
+  for (const date of index.dates) {
+    const content = getDailyContent(date);
+    const allItems = Object.values(content.sections).flat();
+    for (const item of allItems) {
+      result.push({ id: item.id, date });
+    }
+  }
+  return result;
+}
+
+export function getStoryById(
+  storyId: string
+): { item: import("./types").NewsItem; date: string; dateFormatted: string } | null {
+  const index = getContentIndex();
+  for (const date of index.dates) {
+    const content = getDailyContent(date);
+    const allItems = Object.values(content.sections).flat();
+    const found = allItems.find((item) => item.id === storyId);
+    if (found) {
+      return { item: found, date: content.date, dateFormatted: content.dateFormatted };
+    }
+  }
+  return null;
+}

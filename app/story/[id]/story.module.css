@@ -1,0 +1,109 @@
+.article {
+  max-width: 720px;
+  padding-bottom: var(--space-2xl);
+}
+
+.meta {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  margin-bottom: var(--space-md);
+}
+
+.separator {
+  color: var(--color-border);
+  font-size: 0.8rem;
+}
+
+.metaText {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  color: var(--color-text-secondary);
+}
+
+.title {
+  font-size: clamp(1.5rem, 4vw, 2.25rem);
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+  margin-bottom: var(--space-md);
+}
+
+.summary {
+  font-size: 1.05rem;
+  line-height: 1.7;
+  color: var(--color-text-secondary);
+  margin-bottom: var(--space-xl);
+}
+
+.takeaways {
+  margin-bottom: var(--space-xl);
+}
+
+.subheading {
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: var(--space-sm);
+}
+
+.takeawayList {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.takeawayList li {
+  position: relative;
+  padding-left: 1.25rem;
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+.takeawayList li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.55rem;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--color-accent);
+}
+
+.matters {
+  margin-bottom: var(--space-xl);
+  padding: var(--space-md);
+  background: var(--color-surface);
+  border-radius: 4px;
+}
+
+.matters p {
+  font-size: 0.95rem;
+  line-height: 1.7;
+}
+
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-bottom: var(--space-xl);
+}
+
+.source {
+  margin-bottom: var(--space-xl);
+}
+
+.back {
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  color: var(--color-text-secondary);
+  transition: color var(--transition);
+}
+
+.back:hover {
+  color: var(--color-text);
+}

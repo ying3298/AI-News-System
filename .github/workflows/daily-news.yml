@@ -2,7 +2,8 @@ name: Daily AI News Update
 
 on:
   schedule:
-    - cron: "0 11 * * *" # 11:00 UTC = ~6-7 AM EST
+    - cron: "0 11 * * *"  # 11:00 UTC = ~6-7 AM EST (morning)
+    - cron: "0 23 * * *"  # 23:00 UTC = ~6-7 PM EST (evening)
   workflow_dispatch: # Manual trigger for testing
 
 permissions:
@@ -22,10 +23,12 @@ jobs:
       - run: npm ci
 
       # Generate today's content JSON
+      # Morning run creates fresh content; evening run updates it
       - name: Generate daily content
         run: npx tsx scripts/generate-daily-json.ts
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          FORCE_UPDATE: ${{ github.event.schedule == '0 23 * * *' && 'true' || 'false' }}
 
       # Commit & push — Vercel auto-deploys on push
       - name: Commit and push content
