@@ -1,4 +1,5 @@
 import Anthropic from "@anthropic-ai/sdk";
+import type { Message } from "@anthropic-ai/sdk/resources/messages";
 import type { RawFeedItem } from "./fetch-rss";
 import type { DailyContent } from "../lib/types";
 
@@ -66,9 +67,9 @@ export async function curateWithClaude(
   const userPrompt = `Today is ${dateStr}. Here are ${items.length} AI news items from today's RSS feeds:\n\n${feedSummary}\n\nCurate these into the daily digest JSON.`;
 
   // Helper: API call with 120s timeout
-  function callWithTimeout(params: Parameters<typeof client.messages.create>[0]) {
+  function callWithTimeout(params: Parameters<typeof client.messages.create>[0]): Promise<Message> {
     return Promise.race([
-      client.messages.create(params),
+      client.messages.create(params) as Promise<Message>,
       new Promise<never>((_, reject) =>
         setTimeout(() => reject(new Error("Claude API call timed out after 120s")), 120_000)
       ),
