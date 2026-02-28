@@ -40,7 +40,7 @@ interface ImageTask {
 async function generateSingleImage(task: ImageTask): Promise<boolean> {
   try {
     const response = await getAI().models.generateContent({
-      model: "gemini-2.5-flash-preview-05-20",
+      model: "gemini-2.5-flash-image",
       contents: task.prompt,
       config: {
         responseModalities: ["TEXT", "IMAGE"],
