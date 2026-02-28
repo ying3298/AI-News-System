@@ -28,7 +28,7 @@ jobs:
         run: npx tsx scripts/generate-daily-json.ts
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          FORCE_UPDATE: ${{ github.event.schedule == '0 23 * * *' && 'true' || 'false' }}
+          FORCE_UPDATE: ${{ (github.event_name == 'workflow_dispatch' || github.event.schedule == '0 23 * * *') && 'true' || 'false' }}
 
       # Commit & push — Vercel auto-deploys on push
       - name: Commit and push content
