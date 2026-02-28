@@ -22,7 +22,7 @@ Given a list of raw RSS feed items about AI, you must:
    - business: Funding, earnings, acquisitions, partnerships, company news
    - policy: Government regulation, legislation, international AI governance
    - concerns: Ethics, safety risks, job displacement, misinformation, legal issues
-4. For each section, pick 3-5 of the best stories and write:
+4. For each section, pick 2-3 of the best stories and write:
    - A concise title (rephrase for clarity, don't just copy the RSS title)
    - A 1-2 sentence summary
    - A longer content paragraph (3-5 sentences) with more detail
@@ -64,15 +64,30 @@ export async function curateWithClaude(
 
   const userPrompt = `Today is ${dateStr}. Here are ${items.length} AI news items from today's RSS feeds:\n\n${feedSummary}\n\nCurate these into the daily digest JSON.`;
 
-  const message = await client.messages.create({
+  // First attempt with full detail
+  let message = await client.messages.create({
     model: "claude-haiku-4-5-20251001",
-    max_tokens: 8192,
+    max_tokens: 16384,
     system: SYSTEM_PROMPT,
     messages: [{ role: "user", content: userPrompt }],
   });
 
-  const responseText =
+  let responseText =
     message.content[0].type === "text" ? message.content[0].text : "";
+
+  // If output was truncated (hit max_tokens), retry asking for fewer stories
+  if (message.stop_reason === "max_tokens") {
+    console.warn("Response truncated, retrying with compact request...");
+    const compactPrompt = `${userPrompt}\n\nIMPORTANT: Keep output concise. Pick only 2-3 stories per section. Keep content fields to 2 sentences max. The JSON must fit within the token limit.`;
+    message = await client.messages.create({
+      model: "claude-haiku-4-5-20251001",
+      max_tokens: 16384,
+      system: SYSTEM_PROMPT,
+      messages: [{ role: "user", content: compactPrompt }],
+    });
+    responseText =
+      message.content[0].type === "text" ? message.content[0].text : "";
+  }
 
   // Try to parse JSON, stripping markdown fences if present
   let jsonStr = responseText.trim();
