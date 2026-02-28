@@ -65,7 +65,7 @@ export async function curateWithClaude(
   const userPrompt = `Today is ${dateStr}. Here are ${items.length} AI news items from today's RSS feeds:\n\n${feedSummary}\n\nCurate these into the daily digest JSON.`;
 
   const message = await client.messages.create({
-    model: "claude-haiku-4-5-20241022",
+    model: "claude-haiku-4-5-20251001",
     max_tokens: 8192,
     system: SYSTEM_PROMPT,
     messages: [{ role: "user", content: userPrompt }],
