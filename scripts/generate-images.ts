@@ -222,6 +222,8 @@ async function main() {
     console.error("All image generations failed.");
     process.exit(1);
   }
+
+  process.exit(0);
 }
 
 main().catch((error) => {

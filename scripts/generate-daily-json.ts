@@ -160,6 +160,7 @@ async function main() {
   console.log(`Updated index: latest = ${index.latest}`);
 
   console.log("Done!");
+  process.exit(0);
 }
 
 main().catch((error) => {
