@@ -1,4 +1,3 @@
-import Link from "next/link";
 import type { DailyContent } from "@/lib/types";
 import styles from "./HeroHeadline.module.css";
 
@@ -9,11 +8,7 @@ interface Props {
 
 export default function HeroHeadline({ headline, date }: Props) {
   return (
-    <section className={styles.hero}>
-      {headline.imageUrl && (
-        <img src={headline.imageUrl} alt="" className={styles.heroImage} />
-      )}
-      <div className={styles.overlay} />
+    <section className={`${styles.hero} ${headline.imageUrl ? styles.hasImage : ""}`}>
       <div className={styles.content}>
         <span className={styles.date}>{date}</span>
         <h1 className={styles.title}>{headline.title}</h1>
@@ -27,6 +22,11 @@ export default function HeroHeadline({ headline, date }: Props) {
           Learn more &rarr;
         </a>
       </div>
+      {headline.imageUrl && (
+        <div className={styles.imageWrapper}>
+          <img src={headline.imageUrl} alt="" className={styles.heroImage} />
+        </div>
+      )}
     </section>
   );
 }
