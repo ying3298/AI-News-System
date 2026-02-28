@@ -12,7 +12,18 @@ import {
 const CONTENT_DIR = path.join(process.cwd(), "content");
 const IMAGES_DIR = path.join(process.cwd(), "public", "images");
 
-const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY! });
+// Defer initialization so the module loads even without the key
+let ai: GoogleGenAI;
+function getAI(): GoogleGenAI {
+  if (!ai) {
+    if (!process.env.GEMINI_API_KEY) {
+      console.error("GEMINI_API_KEY environment variable is required.");
+      process.exit(1);
+    }
+    ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
+  }
+  return ai;
+}
 
 interface ImageTask {
   prompt: string;
@@ -28,7 +39,7 @@ interface ImageTask {
  */
 async function generateSingleImage(task: ImageTask): Promise<boolean> {
   try {
-    const response = await ai.models.generateContent({
+    const response = await getAI().models.generateContent({
       model: "gemini-2.5-flash-preview-05-20",
       contents: task.prompt,
       config: {
@@ -121,11 +132,6 @@ async function main() {
     console.log(`No date provided, using today: ${todayStr}`);
     process.argv[2] = todayStr;
     return main();
-  }
-
-  if (!process.env.GEMINI_API_KEY) {
-    console.error("GEMINI_API_KEY environment variable is required.");
-    process.exit(1);
   }
 
   const contentPath = path.join(CONTENT_DIR, `${dateStr}.json`);
