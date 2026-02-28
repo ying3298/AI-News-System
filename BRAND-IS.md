@@ -54,13 +54,13 @@ AI is reshaping everything. That can feel overwhelming. We exist to make sure it
 
 ### 3.3 Typography
 
-| Role       | Family           | Weight | Usage                                          |
-|------------|------------------|--------|-------------------------------------------------|
-| Headlines  | Source Serif 4   | 700    | Hero titles, section headers — editorial warmth |
-| Body       | Space Grotesk    | 400    | Article text, summaries — clean readability     |
-| Data/Meta  | Space Mono       | 400    | Tags, dates, IDs, captions                      |
+| Role       | Family           | Weight   | Usage                                              |
+|------------|------------------|----------|----------------------------------------------------|
+| Headlines  | Fraunces         | 700–800  | Hero titles, section headers — warm, human, distinctive |
+| Body       | Space Grotesk    | 400–500  | Article text, summaries — clean readability         |
+| Data/Meta  | Space Grotesk    | 400      | Tags, dates, IDs, captions — small size, letter-spaced |
 
-The serif/sans pairing signals **journalism for people** — not a tech dashboard. The serif headlines bring editorial authority and warmth; the sans body keeps everything legible and modern.
+**Fraunces** is an old-style soft serif with genuine personality — slightly wonky, warm, confident. It says "human, not machine" at first glance. Paired with Space Grotesk for body and metadata, it creates a clear hierarchy: **character at the top, clarity everywhere else.** No monospace fonts — we deliberately avoid coder aesthetics to signal "everyone belongs here."
 
 ### 3.4 Graphic Motif: "Ground Forms"
 

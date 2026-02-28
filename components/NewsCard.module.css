@@ -59,7 +59,7 @@
   display: inline-flex;
   align-items: center;
   gap: 0.3rem;
-  font-family: var(--font-mono);
+  font-family: var(--font-meta);
   font-size: 0.7rem;
   color: var(--color-text-secondary);
 }
@@ -108,7 +108,7 @@
 }
 
 .readCta {
-  font-family: var(--font-mono);
+  font-family: var(--font-meta);
   font-size: 0.65rem;
   color: var(--color-text-secondary);
   white-space: nowrap;

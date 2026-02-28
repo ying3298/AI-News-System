@@ -31,7 +31,7 @@
 }
 
 .metaText {
-  font-family: var(--font-mono);
+  font-family: var(--font-meta);
   font-size: 0.75rem;
   color: var(--color-text-secondary);
 }
@@ -113,7 +113,7 @@
 }
 
 .back {
-  font-family: var(--font-mono);
+  font-family: var(--font-meta);
   font-size: 0.8rem;
   color: var(--color-text-secondary);
   transition: color var(--transition);

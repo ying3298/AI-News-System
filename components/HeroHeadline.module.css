@@ -38,7 +38,7 @@
 }
 
 .date {
-  font-family: var(--font-mono);
+  font-family: var(--font-meta);
   font-size: 0.75rem;
   color: var(--color-text-secondary);
   letter-spacing: 0.1em;

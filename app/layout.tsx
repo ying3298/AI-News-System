@@ -1,25 +1,19 @@
 import type { Metadata } from "next";
-import { Space_Grotesk, Space_Mono, Source_Serif_4 } from "next/font/google";
+import { Space_Grotesk, Fraunces } from "next/font/google";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import "./globals.css";
 
-const sourceSerif = Source_Serif_4({
-  variable: "--font-source-serif",
+const fraunces = Fraunces({
+  variable: "--font-fraunces",
   subsets: ["latin"],
-  weight: ["400", "600", "700"],
+  weight: ["400", "600", "700", "800"],
 });
 
 const spaceGrotesk = Space_Grotesk({
   variable: "--font-space-grotesk",
   subsets: ["latin"],
   weight: ["400", "500", "600", "700"],
-});
-
-const spaceMono = Space_Mono({
-  variable: "--font-space-mono",
-  subsets: ["latin"],
-  weight: ["400", "700"],
 });
 
 export const metadata: Metadata = {
@@ -40,7 +34,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${sourceSerif.variable} ${spaceGrotesk.variable} ${spaceMono.variable}`}>
+      <body className={`${fraunces.variable} ${spaceGrotesk.variable}`}>
         <Header />
         <main>{children}</main>
         <Footer />
