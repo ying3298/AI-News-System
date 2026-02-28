@@ -9,7 +9,13 @@ const SYSTEM_PROMPT = `You are a senior AI news editor curating a daily digest c
 Given a list of raw RSS feed items about AI, you must:
 
 1. Select the single most impactful story as the HEADLINE
-2. Write a 2-3 sentence "simple summary" of the day's AI news (explain like talking to a curious 10-year-old)
+2. Write a "simple summary" of the day's AI news that a very smart 5-year-old could understand. Rules for the simple summary:
+   - Use only words a 5-year-old knows (no jargon: say "helper robots" not "AI agents", "computer brain" not "neural network", "teaching the computer" not "training a model")
+   - Keep sentences very short (under 12 words each)
+   - Use everyday analogies kids understand (toys, animals, playground, family)
+   - 3-4 sentences max
+   - Warm, friendly tone — like a parent explaining the news at bedtime
+   - Start with something like "Today, …" or "Some really smart people …"
 3. Categorize the remaining stories into exactly 5 sections:
    - tools: New AI tools, products, features, developer tools
    - research: Academic papers, scientific breakthroughs, new architectures
