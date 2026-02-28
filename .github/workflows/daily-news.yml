@@ -43,6 +43,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add content/ public/images/
+          git add content/
+          git add public/images/ 2>/dev/null || true
           git diff --cached --quiet || git commit -m "Add daily content for $(date -u +%Y-%m-%d)"
           git push
