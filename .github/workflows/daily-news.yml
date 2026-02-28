@@ -29,6 +29,7 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           FORCE_UPDATE: ${{ (github.event_name == 'workflow_dispatch' || github.event.schedule == '0 23 * * *') && 'true' || 'false' }}
+        timeout-minutes: 5
 
       # Generate images for today's content
       - name: Generate images

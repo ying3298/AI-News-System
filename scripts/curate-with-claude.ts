@@ -65,8 +65,18 @@ export async function curateWithClaude(
 
   const userPrompt = `Today is ${dateStr}. Here are ${items.length} AI news items from today's RSS feeds:\n\n${feedSummary}\n\nCurate these into the daily digest JSON.`;
 
+  // Helper: API call with 120s timeout
+  function callWithTimeout(params: Parameters<typeof client.messages.create>[0]) {
+    return Promise.race([
+      client.messages.create(params),
+      new Promise<never>((_, reject) =>
+        setTimeout(() => reject(new Error("Claude API call timed out after 120s")), 120_000)
+      ),
+    ]);
+  }
+
   // First attempt with full detail
-  let message = await client.messages.create({
+  let message = await callWithTimeout({
     model: "claude-haiku-4-5-20251001",
     max_tokens: 16384,
     system: SYSTEM_PROMPT,
@@ -80,7 +90,7 @@ export async function curateWithClaude(
   if (message.stop_reason === "max_tokens") {
     console.warn("Response truncated, retrying with compact request...");
     const compactPrompt = `${userPrompt}\n\nIMPORTANT: Keep output concise. Pick only 2-3 stories per section. Keep content fields to 2 sentences max. The JSON must fit within the token limit.`;
-    message = await client.messages.create({
+    message = await callWithTimeout({
       model: "claude-haiku-4-5-20251001",
       max_tokens: 16384,
       system: SYSTEM_PROMPT,
