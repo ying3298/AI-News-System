@@ -8,7 +8,7 @@
   width: 100%;
   aspect-ratio: 21 / 9;
   overflow: hidden;
-  background: #0d0d0d;
+  background: #1a1614;
 }
 
 .heroImage {
@@ -22,7 +22,7 @@
 .imageFallback {
   width: 100%;
   aspect-ratio: 21 / 9;
-  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 40%, #0f3460 100%);
+  background: linear-gradient(135deg, #1a1614 0%, #2c2420 40%, #3d2e25 100%);
 }
 
 /* Text content below image */
@@ -46,14 +46,14 @@
 }
 
 .title {
-  font-family: var(--font-sans);
+  font-family: var(--font-serif);
   font-size: clamp(28px, 4vw, 52px);
   font-weight: 700;
   color: var(--color-text);
-  line-height: 1.1;
+  line-height: 1.15;
   max-width: 900px;
   margin-bottom: var(--space-md);
-  letter-spacing: -0.02em;
+  letter-spacing: -0.01em;
 }
 
 .summary {

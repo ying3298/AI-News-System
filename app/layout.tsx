@@ -1,8 +1,14 @@
 import type { Metadata } from "next";
-import { Space_Grotesk, Space_Mono } from "next/font/google";
+import { Space_Grotesk, Space_Mono, Source_Serif_4 } from "next/font/google";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import "./globals.css";
+
+const sourceSerif = Source_Serif_4({
+  variable: "--font-source-serif",
+  subsets: ["latin"],
+  weight: ["400", "600", "700"],
+});
 
 const spaceGrotesk = Space_Grotesk({
   variable: "--font-space-grotesk",
@@ -17,12 +23,12 @@ const spaceMono = Space_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "THE AI FEED — Daily AI News",
+  title: "THE AI FEED — Your Ground in the Age of AI",
   description:
-    "A curated daily feed of the most important AI news. Tools, research, business, policy, and more.",
+    "AI news for humans. We translate the noise into understanding, so you can navigate the age of AI with confidence.",
   openGraph: {
     title: "THE AI FEED",
-    description: "Your daily curated AI news digest",
+    description: "Human-first AI literacy. Understand AI, on your terms.",
     type: "website",
   },
 };
@@ -34,7 +40,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${spaceGrotesk.variable} ${spaceMono.variable}`}>
+      <body className={`${sourceSerif.variable} ${spaceGrotesk.variable} ${spaceMono.variable}`}>
         <Header />
         <main>{children}</main>
         <Footer />

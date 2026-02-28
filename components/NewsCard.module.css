@@ -38,11 +38,11 @@
   border-radius: 3px 3px 0 0;
 }
 
-.imageFallback[data-section="tools"]    { background: #015ee8; }
-.imageFallback[data-section="research"] { background: #7c3aed; }
-.imageFallback[data-section="business"] { background: #059669; }
-.imageFallback[data-section="policy"]   { background: #d97706; }
-.imageFallback[data-section="concerns"] { background: #dc2626; }
+.imageFallback[data-section="tools"]    { background: #2b6cb0; }
+.imageFallback[data-section="research"] { background: #6b46a3; }
+.imageFallback[data-section="business"] { background: #2d7a4f; }
+.imageFallback[data-section="policy"]   { background: #b8860b; }
+.imageFallback[data-section="concerns"] { background: #b53d2e; }
 
 .featured {
   grid-column: span 2;

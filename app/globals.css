@@ -1,12 +1,13 @@
 :root {
-  --color-bg: #fff;
-  --color-text: #0d0d0d;
-  --color-text-secondary: #8e8e8e;
-  --color-border: #ececec;
-  --color-surface: #f7f7f7;
-  --color-accent: #015ee8;
-  --color-accent-hover: #0148b5;
+  --color-bg: #faf8f5;
+  --color-text: #1a1614;
+  --color-text-secondary: #9a918a;
+  --color-border: #e8e4df;
+  --color-surface: #f3f0eb;
+  --color-accent: #c06014;
+  --color-accent-hover: #a3510f;
 
+  --font-serif: "Source Serif 4", "Georgia", serif;
   --font-sans: "Space Grotesk", system-ui, -apple-system, sans-serif;
   --font-mono: "Space Mono", "SF Mono", "Fira Code", monospace;
 
@@ -59,9 +60,9 @@ a {
   padding: 0 var(--page-padding);
 }
 
-/* Massive section headers like DE's "LIBRARY" */
+/* Massive section headers — editorial serif for warmth */
 .section-title {
-  font-family: var(--font-sans);
+  font-family: var(--font-serif);
   font-size: clamp(48px, 10vw, 140px);
   font-weight: 700;
   text-transform: uppercase;

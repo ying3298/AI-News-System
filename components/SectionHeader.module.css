@@ -1,5 +1,5 @@
 .header {
-  font-family: var(--font-sans);
+  font-family: var(--font-serif);
   font-size: clamp(48px, 10vw, 140px);
   font-weight: 700;
   text-transform: uppercase;
