@@ -16,7 +16,7 @@ export default function Home() {
 
       <div className="page-container">
         {/* Elevated simple summary — immediately after hero for quick scanners */}
-        <SimpleSummary text={content.simpleSummary} />
+        <SimpleSummary text={content.simpleSummary} imageUrl={content.simpleSummaryImageUrl} />
 
         <section className={styles.intro}>
           <p className={styles.tagline}>

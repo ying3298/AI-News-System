@@ -14,6 +14,36 @@
   transform: translateY(-2px);
 }
 
+/* Image at top of card */
+.imageWrapper {
+  margin: calc(-1 * var(--space-md));
+  margin-bottom: 0;
+  overflow: hidden;
+  border-radius: 3px 3px 0 0;
+}
+
+.image {
+  width: 100%;
+  height: auto;
+  display: block;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
+
+/* Colored top-border fallback when no image */
+.imageFallback {
+  margin: calc(-1 * var(--space-md));
+  margin-bottom: 0;
+  height: 3px;
+  border-radius: 3px 3px 0 0;
+}
+
+.imageFallback[data-section="tools"]    { background: #015ee8; }
+.imageFallback[data-section="research"] { background: #7c3aed; }
+.imageFallback[data-section="business"] { background: #059669; }
+.imageFallback[data-section="policy"]   { background: #d97706; }
+.imageFallback[data-section="concerns"] { background: #dc2626; }
+
 .featured {
   grid-column: span 2;
   grid-row: span 2;

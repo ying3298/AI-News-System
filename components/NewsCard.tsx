@@ -14,6 +14,14 @@ export default function NewsCard({ item, featured }: Props) {
       href={`/story/${item.id}/`}
       className={`${styles.card} ${featured ? styles.featured : ""}`}
     >
+      {item.imageUrl ? (
+        <div className={styles.imageWrapper}>
+          <img src={item.imageUrl} alt="" className={styles.image} loading="lazy" />
+        </div>
+      ) : (
+        <div className={styles.imageFallback} data-section={item.section} />
+      )}
+
       <div className={styles.top}>
         <span className="story-id">{item.id}</span>
         <span className={styles.source}>

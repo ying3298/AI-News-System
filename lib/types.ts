@@ -11,6 +11,7 @@ export interface NewsItem {
   section: string;
   readTime: string;
   publishedAt: string;
+  imageUrl?: string;
 }
 
 export interface DailyContent {
@@ -21,8 +22,10 @@ export interface DailyContent {
     summary: string;
     sourceUrl: string;
     sourceName: string;
+    imageUrl?: string;
   };
   simpleSummary: string;
+  simpleSummaryImageUrl?: string;
   sections: {
     tools: NewsItem[];
     research: NewsItem[];

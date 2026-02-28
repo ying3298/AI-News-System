@@ -1,8 +1,22 @@
 .wrapper {
+  position: relative;
   background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
   border-radius: 6px;
   padding: var(--space-lg);
   margin: var(--space-lg) 0;
+  overflow: hidden;
+}
+
+.imageOverlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(135deg, rgba(26, 26, 46, 0.85) 0%, rgba(15, 52, 96, 0.85) 100%);
+  border-radius: 6px;
+}
+
+.inner {
+  position: relative;
+  z-index: 1;
 }
 
 .header {

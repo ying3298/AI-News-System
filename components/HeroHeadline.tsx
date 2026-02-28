@@ -10,6 +10,9 @@ interface Props {
 export default function HeroHeadline({ headline, date }: Props) {
   return (
     <section className={styles.hero}>
+      {headline.imageUrl && (
+        <img src={headline.imageUrl} alt="" className={styles.heroImage} />
+      )}
       <div className={styles.overlay} />
       <div className={styles.content}>
         <span className={styles.date}>{date}</span>

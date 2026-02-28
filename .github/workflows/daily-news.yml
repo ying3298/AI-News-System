@@ -30,11 +30,19 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           FORCE_UPDATE: ${{ (github.event_name == 'workflow_dispatch' || github.event.schedule == '0 23 * * *') && 'true' || 'false' }}
 
+      # Generate images for today's content
+      - name: Generate images
+        run: npx tsx scripts/generate-images.ts $(date -u +%Y-%m-%d)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        continue-on-error: true
+        timeout-minutes: 5
+
       # Commit & push — Vercel auto-deploys on push
       - name: Commit and push content
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add content/
+          git add content/ public/images/
           git diff --cached --quiet || git commit -m "Add daily content for $(date -u +%Y-%m-%d)"
           git push

@@ -3,6 +3,20 @@
   padding-bottom: var(--space-2xl);
 }
 
+.heroBanner {
+  margin-bottom: var(--space-lg);
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.heroBannerImage {
+  width: 100%;
+  height: auto;
+  display: block;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+}
+
 .meta {
   display: flex;
   align-items: center;

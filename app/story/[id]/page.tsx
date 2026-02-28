@@ -33,6 +33,12 @@ export default async function StoryPage({ params }: Props) {
   return (
     <div className="page-container" style={{ paddingTop: "var(--space-xl)" }}>
       <article className={styles.article}>
+        {item.imageUrl && (
+          <div className={styles.heroBanner}>
+            <img src={item.imageUrl} alt="" className={styles.heroBannerImage} />
+          </div>
+        )}
+
         <div className={styles.meta}>
           <span className="story-id">{item.id}</span>
           <span className={styles.separator}>/</span>
