@@ -8,9 +8,18 @@ interface Props {
 
 export default function HeroHeadline({ headline, date }: Props) {
   return (
-    <section className={`${styles.hero} ${headline.imageUrl ? styles.hasImage : ""}`}>
+    <section className={styles.hero}>
+      {headline.imageUrl ? (
+        <div className={styles.imageWrapper}>
+          <img src={headline.imageUrl} alt="" className={styles.heroImage} />
+        </div>
+      ) : (
+        <div className={styles.imageFallback} />
+      )}
       <div className={styles.content}>
-        <span className={styles.date}>{date}</span>
+        <div className={styles.meta}>
+          <span className={styles.date}>{date}</span>
+        </div>
         <h1 className={styles.title}>{headline.title}</h1>
         <p className={styles.summary}>{headline.summary}</p>
         <a
@@ -22,11 +31,6 @@ export default function HeroHeadline({ headline, date }: Props) {
           Learn more &rarr;
         </a>
       </div>
-      {headline.imageUrl && (
-        <div className={styles.imageWrapper}>
-          <img src={headline.imageUrl} alt="" className={styles.heroImage} />
-        </div>
-      )}
     </section>
   );
 }
