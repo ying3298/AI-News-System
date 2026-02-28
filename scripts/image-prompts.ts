@@ -1,64 +1,40 @@
 import type { SectionSlug } from "../lib/types";
 
 /**
- * Shared art direction — describes the target visual aesthetic.
- * Inspired by modern tech-editorial illustration: vibrant gradients,
- * glowing light, stylized figures, floating UI elements, dreamy mood.
+ * Shared rendering style — HOW the image looks.
+ * The WHAT (scene/subject) comes from each story's headline.
  */
-const ART_STYLE = `
-Art style (MUST follow closely):
+const RENDER_STYLE = `
+Rendering style (apply to whatever scene you create):
 - Vibrant, luminous color gradients blending warm tones (gold, peach, coral, yellow) into cool tones (lavender, sky blue, violet, indigo) across the background
-- Soft, glowing, diffused light — dreamy and radiant, as if light is coming from within the scene itself
+- Soft, glowing, diffused light — dreamy and radiant, light feels like it comes from within the scene
 - Stylized, simplified human figures with smooth rounded forms — NOT realistic, slightly abstract, no detailed facial features, solid color fills
-- Floating rounded rectangles, circles, and app-like UI shapes drifting in the scene as visual metaphors for technology and digital life
+- Floating rounded rectangles, circles, and app-like shapes can appear as props or environmental details
 - Subtle grainy paper texture across the entire image
 - Colors blend and overlap with soft transparency and layering
-- Everything feels warm, optimistic, modern — like a premium tech magazine cover
-- NO flat minimalism, NO sharp geometric edges, NO hard outlines, NO photorealism, NO text, NO words, NO letters, NO logos
+- NO flat minimalism, NO sharp geometric edges, NO hard outlines, NO photorealism
+- NO text, NO words, NO letters, NO logos, NO UI wireframes
 `.trim();
 
 interface SectionImageConfig {
-  gradientWarm: string;
-  gradientCool: string;
   gradientDesc: string;
-  sceneSuggestion: string;
 }
 
 export const SECTION_IMAGE_CONFIG: Record<SectionSlug, SectionImageConfig> = {
   tools: {
-    gradientWarm: "golden yellow, warm peach",
-    gradientCool: "sky blue, soft teal",
     gradientDesc: "golden warmth fading into clear sky blue",
-    sceneSuggestion:
-      "a person reaching toward or interacting with floating app screens and glowing tools, building or creating something digital",
   },
   research: {
-    gradientWarm: "soft pink, coral",
-    gradientCool: "deep violet, purple",
     gradientDesc: "coral pink melting into deep violet",
-    sceneSuggestion:
-      "a figure peering into or surrounded by glowing orbs of light — discovery, magnification, looking deeper into something mysterious",
   },
   business: {
-    gradientWarm: "warm amber, golden orange",
-    gradientCool: "emerald green, teal",
     gradientDesc: "warm amber blending into rich emerald teal",
-    sceneSuggestion:
-      "figures in motion — shaking hands, exchanging glowing objects, or standing before an expanding network of connected nodes",
   },
   policy: {
-    gradientWarm: "peach, warm gold",
-    gradientCool: "deep indigo, navy",
     gradientDesc: "soft peach gold transitioning to deep indigo",
-    sceneSuggestion:
-      "a figure standing at a crossroads or before a large balanced scale, deliberating — conveying authority, governance, or a pivotal decision",
   },
   concerns: {
-    gradientWarm: "warm orange, salmon",
-    gradientCool: "deep blue-gray, slate",
     gradientDesc: "warm orange fading into moody blue-gray",
-    sceneSuggestion:
-      "a figure pausing before a fractured or tilting floating element — something is off-balance, a moment of caution and reflection",
   },
 };
 
@@ -67,15 +43,21 @@ export function buildCardPrompt(
   storyTitle: string
 ): string {
   const cfg = SECTION_IMAGE_CONFIG[section];
-  return `Editorial illustration for a news card about: "${storyTitle}"
+  return `Create an editorial illustration that tells the story of this AI news headline:
+"${storyTitle}"
 
-${ART_STYLE}
+MOST IMPORTANT: The image must visually communicate what this story is about. A reader should look at this illustration and immediately understand the topic. Think about what objects, actions, or metaphors best represent "${storyTitle}" — then illustrate that scene.
 
-Color palette for this image: Background gradient flows from ${cfg.gradientDesc}. Use these as the dominant colors with soft overlapping transparent shapes.
+Examples of good storytelling:
+- A headline about a new AI chatbot → show a figure conversing with a glowing friendly shape
+- A headline about AI regulation → show a figure placing guardrails or holding a scale
+- A headline about a company launching a product → show hands unveiling or presenting a glowing object
+- A headline about AI safety concerns → show a figure stepping carefully, or a cracking surface
 
-Scene: ${cfg.sceneSuggestion}. The visual should help a reader instantly understand what "${storyTitle}" is about — use symbolic, metaphorical imagery connected to the headline.
+${RENDER_STYLE}
 
-Composition: 16:9 landscape. Include 1-2 simplified stylized human figures interacting with 2-3 floating rounded UI/tech elements. Luminous gradient background with soft glow. Subtle grainy texture over everything.`;
+Color palette: Background gradient flows from ${cfg.gradientDesc}.
+Composition: 16:9 landscape. Clear single focal point that tells the story. 1-2 stylized figures acting out the narrative. Luminous gradient background with soft glow and subtle grainy texture.`;
 }
 
 export function buildHeroPrompt(
@@ -83,25 +65,28 @@ export function buildHeroPrompt(
   headlineTitle: string
 ): string {
   const cfg = SECTION_IMAGE_CONFIG[section];
-  return `Hero editorial illustration for today's lead AI news story: "${headlineTitle}"
+  return `Create a bold, cinematic editorial illustration for today's biggest AI news story:
+"${headlineTitle}"
 
-${ART_STYLE}
+MOST IMPORTANT: This is the lead story of the day. The illustration must powerfully and clearly communicate what "${headlineTitle}" is about. A reader should glance at this and instantly grasp the story's significance. Choose the most vivid, specific visual metaphor you can for this particular headline — not a generic tech scene.
 
-Color palette: Bold, dramatic gradient from ${cfg.gradientDesc} — richer and more saturated than usual, this is the hero image. Colors should feel cinematic and immersive.
+Think: What is the core action, conflict, or breakthrough in this headline? Show THAT moment.
 
-Scene: ${cfg.sceneSuggestion}. This illustration must visually capture the essence of "${headlineTitle}" — a reader should glance at it and immediately feel the story's significance. Use larger, bolder floating elements and more dramatic lighting than a regular card image.
+${RENDER_STYLE}
 
-Composition: Wide 16:9 landscape. Dramatic scale — one or two large stylized figures with bold floating UI shapes around them. Luminous, glowing atmosphere. The image should feel like the opening spread of a premium tech magazine. Subtle grainy texture throughout.`;
+Color palette: Bold, dramatic gradient from ${cfg.gradientDesc} — richer and more saturated, cinematic and immersive.
+Composition: Wide 16:9 landscape. Dramatic scale — larger figures and bolder elements than a regular card. This should feel like a premium magazine cover spread. Subtle grainy texture throughout.`;
 }
 
 export function buildSummaryPrompt(): string {
-  return `Gentle editorial illustration for a "daily news recap" banner.
+  return `Create a gentle editorial illustration for a "daily news recap" banner on an AI news site.
 
-${ART_STYLE}
+The image should convey the feeling of "here's your daily catch-up" — someone settling in to read, a cozy moment of catching up on what happened today in the world of AI and technology.
 
-Color palette: Soft, warm gradient from golden peach to gentle lavender blue — calmer and more muted than the other images. This should feel cozy and inviting, not dramatic.
+Scene ideas: A figure sitting with a glowing tablet or newspaper, surrounded by small floating notification bubbles. Or a figure looking out over a landscape of softly glowing data points. The mood is warm, calm, and inviting — like a friendly morning newsletter.
 
-Scene: A simplified figure settling in to read or catch up — perhaps sitting with a glowing tablet, or surrounded by small floating notification bubbles and soft orbs of light. The mood is "let me catch you up on today" — warm, approachable, like a friendly morning newsletter.
+${RENDER_STYLE}
 
-Composition: Wide 3:1 landscape banner ratio. Generous negative space. Fewer elements than other images — just one figure and a few gentle floating shapes. Soft glowing light from the center. Subtle grainy paper texture throughout.`;
+Color palette: Soft, warm gradient from golden peach to gentle lavender blue — calmer and more muted than other images.
+Composition: Wide 3:1 landscape banner. Generous negative space. Just one figure and a few gentle floating shapes. Soft glowing light from center. Subtle grainy paper texture.`;
 }
