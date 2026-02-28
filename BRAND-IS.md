@@ -2,22 +2,24 @@
 
 ## 1. Brand Vision
 
-**THE AI FEED** is a navigation tool for the prosperous AI world. We curate timely, well-organized news so readers feel confident and informed while navigating this extraordinary moment — the thrive of AI.
+In a world racing toward AI, **THE AI FEED** keeps you grounded. We translate the noise into understanding, so you can navigate with confidence — not as a spectator, but as an empowered participant.
 
-**Core promise:** Clarity in a noisy landscape.
-**Tone:** Calm authority. Not hype, not fear — confident orientation.
+AI is reshaping everything. That can feel overwhelming. We exist to make sure it doesn't have to. Every story we curate, every summary we write, is in service of one thing: **you**, standing on solid ground, seeing clearly.
+
+**Core promise:** Human-first AI literacy.
+**Tone:** Grounded warmth — calm, clear, never condescending. You belong in this conversation.
 
 ---
 
 ## 2. Brand Personality
 
-| Trait         | What it means                                                    |
-|---------------|------------------------------------------------------------------|
-| **Navigator** | We guide, not overwhelm. Think compass, not firehose.            |
-| **Grounded**  | Plain language, real substance, no buzzword dressing.             |
-| **Current**   | Always today, always now. Freshness is our currency.             |
-| **Inclusive**  | AI news for everyone — builders, leaders, curious people.        |
-| **Precise**   | Editorial rigor. Every word earns its place.                     |
+| Trait          | What it means                                                       |
+|----------------|---------------------------------------------------------------------|
+| **Grounding**  | We give you a place to stand. The world moves fast; we hold steady. |
+| **Inclusive**   | This isn't just for engineers. Builders, leaders, parents, students — everyone belongs here. |
+| **Warm**       | We speak like a thoughtful friend, not a newswire. Human tone, always. |
+| **Empowering** | You don't just read the news — you understand it. You leave more capable than you arrived. |
+| **Honest**     | No hype, no fear. Real substance, plain language, editorial rigor.  |
 
 ---
 
@@ -25,52 +27,56 @@
 
 ### 3.1 Design Philosophy
 
-Inspired by the LiFI 25 festival identity: **one stripped-back visual system, with individuality expressed through color, behavior, and context.** Each news category gets its own character — same visual DNA, different expression.
+**Human, not machine.** The visual system should feel like a well-made magazine — tactile, warm, editorial. Inspired by the LiFI 25 festival identity: one cohesive system with individuality expressed through color and context. Each news category gets its own character — same DNA, different expression. But the canvas underneath is always warm, natural, and inviting.
 
 ### 3.2 Color System
 
+**Foundation palette** — warm neutrals that feel like natural materials, not screens:
+
 | Token              | Hex       | Usage                                      |
 |--------------------|-----------|---------------------------------------------|
-| `--ink`            | `#0d0d0d` | Primary text, high-contrast elements        |
-| `--paper`          | `#ffffff` | Backgrounds, negative space                 |
-| `--fog`            | `#f7f7f7` | Surface cards, subtle backgrounds           |
-| `--signal`         | `#015ee8` | Accent, links, interactive elements         |
-| `--mute`           | `#8e8e8e` | Secondary text, metadata                    |
-| `--border`         | `#ececec` | Dividers, card outlines                     |
+| `--ink`            | `#1a1614` | Primary text — warm near-black, soft on eyes |
+| `--paper`          | `#faf8f5` | Backgrounds — warm cream, like quality paper |
+| `--fog`            | `#f3f0eb` | Surface cards — warm sand, like linen        |
+| `--signal`         | `#c06014` | Primary accent — terracotta, warm and bold   |
+| `--mute`           | `#9a918a` | Secondary text — warm stone                  |
+| `--border`         | `#e8e4df` | Dividers — subtle, organic edge              |
 
-**Section accent palette** (for AI-generated imagery per category):
+**Section accent palette** — earthier tones that feel natural on the warm canvas:
 
-| Section       | Color Name   | Hex       | Mood                        |
-|---------------|-------------|-----------|------------------------------|
-| `tools`       | Electric     | `#015ee8` | Precision, building          |
-| `research`    | Violet       | `#7c3aed` | Discovery, depth             |
-| `business`    | Emerald      | `#059669` | Growth, momentum             |
-| `policy`      | Amber        | `#d97706` | Caution, governance          |
-| `concerns`    | Crimson      | `#dc2626` | Urgency, attention           |
+| Section       | Color Name   | Hex       | Mood                             |
+|---------------|-------------|-----------|-----------------------------------|
+| `tools`       | Deep Sky     | `#2b6cb0` | Reliable, builder's clarity       |
+| `research`    | Earthy Plum  | `#6b46a3` | Contemplation, intellectual depth |
+| `business`    | Forest       | `#2d7a4f` | Organic growth, grounded ambition |
+| `policy`      | Dark Gold    | `#b8860b` | Deliberate, measured governance   |
+| `concerns`    | Brick        | `#b53d2e` | Serious attention, not alarm      |
 
 ### 3.3 Typography
 
-| Role       | Family           | Weight | Usage                           |
-|------------|------------------|--------|---------------------------------|
-| Headlines  | Space Grotesk    | 700    | Hero titles, section headers    |
-| Body       | Space Grotesk    | 400    | Article text, summaries         |
-| Data/Meta  | Space Mono       | 400    | Tags, dates, IDs, captions      |
+| Role       | Family           | Weight | Usage                                          |
+|------------|------------------|--------|-------------------------------------------------|
+| Headlines  | Source Serif 4   | 700    | Hero titles, section headers — editorial warmth |
+| Body       | Space Grotesk    | 400    | Article text, summaries — clean readability     |
+| Data/Meta  | Space Mono       | 400    | Tags, dates, IDs, captions                      |
 
-### 3.4 Graphic Motif: "Signal Forms"
+The serif/sans pairing signals **journalism for people** — not a tech dashboard. The serif headlines bring editorial authority and warmth; the sans body keeps everything legible and modern.
 
-The core visual motif is **Signal Forms** — abstract, geometric shapes that represent the flow of information through the AI landscape.
+### 3.4 Graphic Motif: "Ground Forms"
 
-**The metaphor:** Each shape is a "signal" — a piece of news traveling through the network. Signals cluster (big stories), drift alone (niche research), or pulse (breaking developments).
+The core visual motif is **Ground Forms** — organic, flowing shapes that represent human understanding growing alongside AI.
 
-| Element          | Description                                                   |
-|------------------|---------------------------------------------------------------|
-| **Nodes**        | Simple circles/dots — individual stories or data points       |
-| **Pathways**     | Flowing lines or arcs — connections between ideas             |
-| **Clusters**     | Grouped nodes — major themes or trending topics               |
-| **Pulse rings**  | Concentric circles radiating outward — breaking/impactful news|
-| **Grid/lattice** | Structured dots or lines — the underlying order we provide    |
+**The metaphor:** Each shape is a living element — seeds of understanding, roots of knowledge, branches of connection. Stories cluster like communities, ideas flow like rivers, and breakthroughs bloom like canopies.
 
-These forms should feel: **precise, calm, slightly futuristic, but never cold.**
+| Element             | Description                                                      |
+|---------------------|------------------------------------------------------------------|
+| **Seeds**           | Small rounded shapes — individual stories, starting points        |
+| **Roots**           | Flowing lines and curves — deep connections between ideas         |
+| **Canopies**        | Overlapping rounded forms — major themes, collective understanding|
+| **Ripples**         | Concentric organic rings — impact spreading outward               |
+| **Terrain/texture** | Subtle dot patterns or topographic lines — the ground we stand on |
+
+These forms should feel: **organic, warm, grounded, and alive — never cold or mechanical.**
 
 ---
 
@@ -78,7 +84,7 @@ These forms should feel: **precise, calm, slightly futuristic, but never cold.**
 
 ### 4.1 Purpose
 
-Every news story or section gets a paired editorial illustration generated by Gemini, creating a cohesive visual layer across the feed. Images serve as **mood anchors** — they set the emotional tone of a story before the reader reads a word.
+Every news story or section gets a paired editorial illustration generated by Gemini, creating a cohesive visual layer across the feed. Images serve as **mood anchors** — they set the emotional tone of a story before the reader reads a word. The imagery should feel **handcrafted and human**, like editorial illustrations in a quality magazine.
 
 ### 4.2 Master Prompt Template
 
@@ -86,60 +92,60 @@ Use this base prompt structure for all image generation. Swap the `{variables}` 
 
 ```
 BASE PROMPT:
-"Minimal editorial illustration for a news publication called THE AI FEED.
-Style: Abstract geometric composition using simple shapes — circles, arcs, flowing lines, and dot clusters.
-Color palette: White background with {section_color} as the dominant accent color, with subtle gray (#f7f7f7) shapes for depth.
-Mood: {mood} — calm, precise, slightly futuristic.
+"Warm editorial illustration for a human-centered news publication called THE AI FEED.
+Style: Organic abstract composition using flowing shapes — rounded forms, smooth curves, natural clusters, and subtle textures.
+Color palette: Warm cream (#faf8f5) background with {section_color} as the dominant accent color, with warm sand (#f3f0eb) shapes for depth.
+Mood: {mood} — warm, grounded, inviting, editorial.
 Subject hint: {subject_hint}
-Composition: Clean negative space, asymmetric balance, shapes suggest {metaphor} without being literal.
-No text, no faces, no photorealism, no gradients. Flat color, sharp edges, print-quality."
+Composition: Generous breathing room, organic balance, shapes suggest {metaphor} without being literal.
+No text, no faces, no photorealism, no harsh edges. Soft geometry, natural feel, print-quality."
 ```
 
 ### 4.3 Section-Specific Prompts
 
-**TOOLS** (`#015ee8` Electric Blue)
+**TOOLS** (`#2b6cb0` Deep Sky)
 ```
-Style: Abstract geometric — interlocking shapes suggesting assembly and construction.
-Color palette: White background, electric blue (#015ee8) dominant, light gray accents.
-Mood: Productive, precise, builder energy.
+Style: Organic abstract — rounded interlocking shapes suggesting hands building and assembling.
+Color palette: Warm cream background, deep sky blue (#2b6cb0) dominant, soft sand accents.
+Mood: Productive, reliable, builder's warmth.
 Subject hint: {story_subject} — e.g., "a new coding assistant", "browser-based AI tool"
-Metaphor: Building blocks clicking together, circuits forming, tools aligning.
+Metaphor: Pieces fitting together naturally, roots connecting, a structure growing from the ground up.
 ```
 
-**RESEARCH** (`#7c3aed` Violet)
+**RESEARCH** (`#6b46a3` Earthy Plum)
 ```
-Style: Abstract geometric — layered circles and spirals suggesting discovery and depth.
-Color palette: White background, deep violet (#7c3aed) dominant, soft lavender accents.
-Mood: Contemplative, deep, intellectually exciting.
+Style: Organic abstract — layered rounded forms and spirals suggesting depth and discovery.
+Color palette: Warm cream background, earthy plum (#6b46a3) dominant, soft lavender and sand accents.
+Mood: Contemplative, deep, quietly exciting.
 Subject hint: {story_subject} — e.g., "new language model architecture", "protein folding breakthrough"
-Metaphor: Layers peeling back, concentric patterns revealing inner structure, magnification.
+Metaphor: Seeds opening, layers of earth revealing something underneath, roots reaching deep.
 ```
 
-**BUSINESS** (`#059669` Emerald)
+**BUSINESS** (`#2d7a4f` Forest)
 ```
-Style: Abstract geometric — ascending lines and expanding shapes suggesting growth.
-Color palette: White background, emerald green (#059669) dominant, mint accents.
-Mood: Confident, forward-moving, opportunity.
+Style: Organic abstract — upward-growing shapes and branching forms suggesting natural growth.
+Color palette: Warm cream background, forest green (#2d7a4f) dominant, soft mint and sand accents.
+Mood: Grounded confidence, organic momentum, steady growth.
 Subject hint: {story_subject} — e.g., "AI startup raises $500M", "tech acquisition"
-Metaphor: Upward trajectories, expanding networks, nodes multiplying.
+Metaphor: Branches extending, canopies expanding, a forest growing from strong roots.
 ```
 
-**POLICY** (`#d97706` Amber)
+**POLICY** (`#b8860b` Dark Gold)
 ```
-Style: Abstract geometric — intersecting grids and boundary lines suggesting structure and governance.
-Color palette: White background, warm amber (#d97706) dominant, soft gold accents.
-Mood: Measured, authoritative, deliberate.
+Style: Organic abstract — interwoven lines and structured curves suggesting frameworks and boundaries.
+Color palette: Warm cream background, dark gold (#b8860b) dominant, soft amber and sand accents.
+Mood: Measured, deliberate, carefully constructed.
 Subject hint: {story_subject} — e.g., "EU AI Act enforcement", "US executive order on AI"
-Metaphor: Frameworks being drawn, grids aligning, boundaries being established.
+Metaphor: Woven patterns, terrain being mapped, contour lines defining the landscape.
 ```
 
-**CONCERNS** (`#dc2626` Crimson)
+**CONCERNS** (`#b53d2e` Brick)
 ```
-Style: Abstract geometric — fractured shapes and disrupted patterns suggesting tension.
-Color palette: White background, crimson red (#dc2626) dominant, dark gray accents.
-Mood: Alert, thought-provoking, serious but not alarmist.
+Style: Organic abstract — disrupted patterns and scattered shapes suggesting tension without panic.
+Color palette: Warm cream background, brick red (#b53d2e) dominant, dark warm gray accents.
+Mood: Thoughtful alertness, serious but not alarmist. A pause, not a scream.
 Subject hint: {story_subject} — e.g., "deepfake detection challenges", "AI job displacement study"
-Metaphor: Patterns breaking, signals diverging, cracks in structure.
+Metaphor: Cracks in terrain, roots disturbed, ripples spreading through still water.
 ```
 
 ### 4.4 Hero Image Prompt
@@ -148,25 +154,25 @@ For the daily headline story, use an amplified version:
 
 ```
 "Bold editorial illustration for the lead story of THE AI FEED.
-Style: Large-scale abstract geometric composition — confident, striking shapes.
-Color palette: Deep navy (#1a1a2e) to dark blue (#0f3460) background with white and {section_color} shapes.
-Mood: Impactful, definitive, this-is-the-story-of-the-day energy.
+Style: Large-scale organic composition — confident, grounded, striking shapes with natural flow.
+Color palette: Deep warm charcoal (#1a1614) to dark brown (#2c2420) background with warm cream and {section_color} shapes.
+Mood: Impactful, definitive, this-is-the-story-of-the-day energy — but grounded, not aggressive.
 Subject hint: {headline_subject}
-Composition: Dramatic scale contrast — one large dominant shape with smaller satellite elements.
-No text, no faces, no photorealism. Flat color, sharp edges, editorial quality."
+Composition: Dramatic scale contrast — one large organic shape with smaller natural satellite elements.
+No text, no faces, no photorealism. Soft geometry, natural textures, editorial quality."
 ```
 
 ### 4.5 Simple Summary Image Prompt
 
-A warm, softer illustration for the "Today in simple words" block:
+A warm, inviting illustration for the "Today in plain words" block:
 
 ```
 "Soft editorial illustration for a daily news summary section.
-Style: Gentle abstract shapes — rounded circles, smooth curves, floating dots.
-Color palette: Deep navy (#1a1a2e) background with soft white and muted blue (#4a90d9) shapes.
-Mood: Approachable, warm, inviting — like a friendly overview.
-Composition: Centered cluster of simple shapes, generous breathing room around edges.
-No text, no faces, no photorealism. Soft edges, subtle depth, calming."
+Style: Gentle organic shapes — rounded forms, smooth flowing curves, scattered seed-like dots.
+Color palette: Deep warm charcoal (#1a1614) background with warm cream (#faf8f5) and muted terracotta (#c06014) shapes.
+Mood: Approachable, cozy, welcoming — like sitting down with a friend who explains the day.
+Composition: Centered cluster of simple organic shapes, generous breathing room around edges.
+No text, no faces, no photorealism. Soft edges, subtle warmth, inviting."
 ```
 
 ### 4.6 Image Specifications
@@ -186,8 +192,8 @@ Before using a generated image, verify:
 - [ ] Dominant color matches the section palette
 - [ ] No text or letterforms accidentally generated
 - [ ] No faces or human figures
-- [ ] Clean white (or dark) background without noise
-- [ ] Shapes feel intentional, not random
+- [ ] Clean warm cream (or dark warm) background without noise
+- [ ] Shapes feel organic, intentional, and warm — not mechanical or random
 - [ ] Works at both card size and full-width
 
 ---
@@ -207,20 +213,26 @@ Before using a generated image, verify:
 
 When images are unavailable, cards display with:
 - A colored top-border (2px) using the section accent color
-- The section's color as a subtle background tint at 5% opacity
+- The section's color as a subtle background tint at 5% opacity on the warm paper base
 - This ensures visual category differentiation without images
 
 ---
 
 ## 6. Voice & Tone Guide
 
-| Context             | Tone                    | Example                                          |
-|---------------------|-------------------------|--------------------------------------------------|
-| Headlines           | Clear, direct, active   | "Google Launches Open-Source Vision Model"        |
-| Summaries           | Informative, concise    | "The model outperforms GPT-4V on three benchmarks"|
-| Simple Summary      | Plain, friendly, specific| "Google made a new AI that can look at pictures and understand them really well." |
-| Tags                | Categorical, lowercase  | `open-source`, `computer-vision`, `benchmark`     |
-| Quote of the day    | Attributed, inspiring   | Keep original voice, add context                  |
+| Context             | Tone                              | Example                                          |
+|---------------------|-----------------------------------|--------------------------------------------------|
+| Headlines           | Clear, direct, active             | "Google Launches Open-Source Vision Model"        |
+| Summaries           | Informative, warm, concise        | "The model outperforms GPT-4V on three benchmarks — here's why it matters." |
+| Simple Summary      | Plain, friendly, you-centered     | "Google made a new AI that understands pictures really well. It's free to use, which means anyone can build with it." |
+| Tags                | Categorical, lowercase            | `open-source`, `computer-vision`, `benchmark`     |
+| Quote of the day    | Attributed, humanizing            | Keep original voice, add context that connects to the reader |
+
+**Voice principles:**
+- **You belong here.** Never assume technical knowledge. Never talk down.
+- **Warm, not cute.** Friendly authority, not corporate friendliness.
+- **The reader is the subject.** Not "AI did X" but "here's what X means for you."
+- **Earn trust through honesty.** If something is uncertain, say so. If something is exciting, say why.
 
 ---
 
