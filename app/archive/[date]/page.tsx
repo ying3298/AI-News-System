@@ -24,7 +24,7 @@ export default async function ArchiveDayPage({ params }: Props) {
       <HeroHeadline headline={content.headline} date={content.dateFormatted} />
 
       <div className="page-container">
-        <SimpleSummary text={content.simpleSummary} />
+        <SimpleSummary stories={allItems} />
         <SectionHeader title="Feed" />
         <NewsGrid items={allItems} />
         <QuoteBlock quote={content.quote} />

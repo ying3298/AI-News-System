@@ -15,8 +15,8 @@ export default function Home() {
       <HeroHeadline headline={content.headline} date={content.dateFormatted} />
 
       <div className="page-container">
-        {/* Elevated simple summary — immediately after hero for quick scanners */}
-        <SimpleSummary text={content.simpleSummary} imageUrl={content.simpleSummaryImageUrl} />
+        {/* Personalized quick scan — top stories matching user interests */}
+        <SimpleSummary stories={Object.values(content.sections).flat()} />
 
         <section className={styles.intro}>
           <p className={styles.tagline}>
