@@ -61,12 +61,43 @@ export const RSS_SOURCES: RSSSource[] = [
     category: "research",
   },
 
-  // ── Policy, Ethics & Breaking ─────────────────────
+  // ── Creative AI ──────────────────────────────────
+  {
+    name: "PetaPixel AI",
+    url: "https://petapixel.com/category/ai/feed/",
+    category: "creative",
+  },
+  {
+    name: "The Decoder",
+    url: "https://the-decoder.com/feed/",
+    category: "creative",
+  },
+
+  // ── Applications (AI in the Wild) ───────────────
+  {
+    name: "IEEE Spectrum AI",
+    url: "https://spectrum.ieee.org/feeds/topic/artificial-intelligence",
+    category: "applications",
+  },
+  {
+    name: "Nature AI",
+    url: "https://www.nature.com/subjects/artificial-intelligence.rss",
+    category: "applications",
+  },
+
+  // ── AI & Society / Culture ──────────────────────
+  {
+    name: "The Guardian AI",
+    url: "https://www.theguardian.com/technology/artificialintelligenceai/rss",
+    category: "culture",
+  },
   {
     name: "Wired AI",
     url: "https://www.wired.com/feed/tag/ai/latest/rss",
-    category: "concerns",
+    category: "culture",
   },
+
+  // ── Policy, Ethics & Breaking ─────────────────────
   {
     name: "AP News AI",
     url: "https://apnews.com/hub/artificial-intelligence.rss",
