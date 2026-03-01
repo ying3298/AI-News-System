@@ -7,13 +7,16 @@ import styles from "./NewsCard.module.css";
 interface Props {
   item: NewsItem;
   featured?: boolean;
+  isFollowing?: boolean;
+  isFollowed?: (tag: string) => boolean;
+  toggleFollow?: (tag: string) => void;
 }
 
-export default function NewsCard({ item, featured }: Props) {
+export default function NewsCard({ item, featured, isFollowing, isFollowed, toggleFollow }: Props) {
   return (
     <Link
       href={`/story/${item.id}/`}
-      className={`${styles.card} ${featured ? styles.featured : ""}`}
+      className={`${styles.card} ${featured ? styles.featured : ""} ${isFollowing ? styles.following : ""}`}
     >
       {item.imageUrl ? (
         <div className={styles.imageWrapper}>
@@ -54,7 +57,12 @@ export default function NewsCard({ item, featured }: Props) {
       <div className={styles.bottom}>
         <div className={styles.tags}>
           {item.tags.map((tag) => (
-            <TagPill key={tag} label={tag} />
+            <TagPill
+              key={tag}
+              label={tag}
+              followed={isFollowed ? isFollowed(tag) : undefined}
+              onToggle={toggleFollow}
+            />
           ))}
         </div>
         <span className={styles.readCta}>Read at source &rarr;</span>

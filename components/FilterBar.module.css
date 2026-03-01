@@ -33,3 +33,25 @@
   background: var(--color-text);
   color: var(--color-bg);
 }
+
+.followingPill {
+  border-color: var(--color-accent);
+  color: var(--color-accent);
+}
+
+.followingPill:hover {
+  border-color: var(--color-accent-hover);
+  color: var(--color-accent-hover);
+}
+
+.activeFollowing {
+  background: var(--color-accent);
+  border-color: var(--color-accent);
+  color: #fff;
+}
+
+.activeFollowing:hover {
+  background: var(--color-accent);
+  border-color: var(--color-accent);
+  color: #fff;
+}

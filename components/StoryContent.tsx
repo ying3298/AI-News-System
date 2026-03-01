@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import type { NewsItem } from "@/lib/types";
+import { useFollowedTopics } from "@/lib/useFollowedTopics";
 import DepthToggle, { type DepthLevel } from "./DepthToggle";
 import TagPill from "./TagPill";
 import StorySaveButton from "./StorySaveButton";
@@ -16,6 +17,7 @@ interface Props {
 
 export default function StoryContent({ item, dateFormatted, sectionLabel }: Props) {
   const [depth, setDepth] = useState<DepthLevel>("standard");
+  const { isFollowed, toggleFollow } = useFollowedTopics();
 
   const hasSimple = !!item.contentSimple;
 
@@ -112,7 +114,12 @@ export default function StoryContent({ item, dateFormatted, sectionLabel }: Prop
 
       <div className={styles.tags}>
         {item.tags.map((tag) => (
-          <TagPill key={tag} label={tag} />
+          <TagPill
+            key={tag}
+            label={tag}
+            followed={isFollowed(tag)}
+            onToggle={toggleFollow}
+          />
         ))}
       </div>
 

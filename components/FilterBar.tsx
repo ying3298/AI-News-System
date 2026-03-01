@@ -5,14 +5,25 @@ import styles from "./FilterBar.module.css";
 
 const SLUGS: SectionSlug[] = ["tools", "research", "business", "policy", "concerns"];
 
+export type FilterValue = SectionSlug | "following" | null;
+
 interface Props {
-  active: SectionSlug | null;
-  onFilter: (slug: SectionSlug | null) => void;
+  active: FilterValue;
+  onFilter: (value: FilterValue) => void;
+  followedCount?: number;
 }
 
-export default function FilterBar({ active, onFilter }: Props) {
+export default function FilterBar({ active, onFilter, followedCount = 0 }: Props) {
   return (
     <div className={styles.bar}>
+      {followedCount > 0 && (
+        <button
+          className={`${styles.pill} ${styles.followingPill} ${active === "following" ? styles.activeFollowing : ""}`}
+          onClick={() => onFilter("following")}
+        >
+          Following
+        </button>
+      )}
       <button
         className={`${styles.pill} ${active === null ? styles.active : ""}`}
         onClick={() => onFilter(null)}

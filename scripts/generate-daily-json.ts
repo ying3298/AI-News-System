@@ -272,7 +272,12 @@ async function main() {
   console.log("Linking related stories...");
   linkRelatedStories(content, index);
 
-  // Step 5: Write content JSON (after threading adds relatedStories)
+  // Step 5: Normalize tags for Follow Topics matching
+  for (const story of allStories(content)) {
+    story.normalizedTags = story.tags.map((t) => t.toLowerCase().trim());
+  }
+
+  // Step 6: Write content JSON (after threading + tag normalization)
   fs.writeFileSync(outputPath, JSON.stringify(content, null, 2));
   console.log(`Written: ${outputPath}`);
 

@@ -20,6 +20,7 @@ export interface NewsItem {
   readTime: string;
   publishedAt: string;
   imageUrl?: string;
+  normalizedTags?: string[];
   relatedStories?: RelatedStory[];
 }
 
