@@ -52,6 +52,12 @@
   margin-bottom: var(--space-xl);
 }
 
+.contentBody {
+  font-size: 0.95rem;
+  line-height: 1.7;
+  margin-bottom: var(--space-xl);
+}
+
 .takeaways {
   margin-bottom: var(--space-xl);
 }

@@ -27,6 +27,7 @@ Given a list of raw RSS feed items about AI, you must:
 4. For each section, pick 2-3 of the best stories and write:
    - A concise title (rephrase for clarity, don't just copy the RSS title)
    - A 1-2 sentence summary
+   - A "contentSimple": a 2-sentence plain-language version of this story, written for a smart 10-year-old. Same tone as the simpleSummary. Use simple words, name the companies/products, explain why it matters in everyday terms.
    - A longer content paragraph (3-5 sentences) with more detail
    - 2-4 key takeaways as an array of strings
    - A "whyItMatters" sentence explaining significance
@@ -41,7 +42,7 @@ Respond with ONLY valid JSON matching this exact structure (no markdown fencing)
   "headline": { "title": "...", "summary": "...", "sourceUrl": "...", "sourceName": "..." },
   "simpleSummary": "...",
   "sections": {
-    "tools": [{ "id": "AI-001", "title": "...", "summary": "...", "content": "...", "keyTakeaways": ["..."], "whyItMatters": "...", "sourceUrl": "...", "sourceName": "...", "tags": ["..."], "section": "tools", "readTime": "3 min", "publishedAt": "..." }],
+    "tools": [{ "id": "AI-001", "title": "...", "summary": "...", "contentSimple": "...", "content": "...", "keyTakeaways": ["..."], "whyItMatters": "...", "sourceUrl": "...", "sourceName": "...", "tags": ["..."], "section": "tools", "readTime": "3 min", "publishedAt": "..." }],
     "research": [...],
     "business": [...],
     "policy": [...],

@@ -1,8 +1,16 @@
+export interface RelatedStory {
+  id: string;
+  date: string;
+  title: string;
+  section: string;
+}
+
 export interface NewsItem {
   id: string;
   title: string;
   summary: string;
   content: string;
+  contentSimple?: string;
   keyTakeaways: string[];
   whyItMatters: string;
   sourceUrl: string;
@@ -12,6 +20,7 @@ export interface NewsItem {
   readTime: string;
   publishedAt: string;
   imageUrl?: string;
+  relatedStories?: RelatedStory[];
 }
 
 export interface DailyContent {

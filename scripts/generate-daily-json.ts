@@ -2,9 +2,12 @@ import fs from "fs";
 import path from "path";
 import { fetchAllFeeds, type RawFeedItem } from "./fetch-rss";
 import { curateWithClaude } from "./curate-with-claude";
-import type { ContentIndex, DailyContent, NewsItem } from "../lib/types";
+import type { ContentIndex, DailyContent, NewsItem, RelatedStory } from "../lib/types";
 
 const CONTENT_DIR = path.join(process.cwd(), "content");
+const THREAD_LOOKBACK_DAYS = 7;
+const MAX_RELATED_PER_STORY = 3;
+const MIN_SHARED_TAGS = 2;
 
 function getTodayDateStr(): string {
   const now = new Date();
@@ -97,6 +100,115 @@ function buildFallbackContent(
   };
 }
 
+/** Get all stories from a DailyContent object as a flat array */
+function allStories(content: DailyContent): NewsItem[] {
+  return Object.values(content.sections).flat();
+}
+
+/**
+ * Link related stories across days by tag overlap.
+ * Mutates the `relatedStories` field on stories in `todayContent`
+ * and backfills links in previous days' content files.
+ */
+function linkRelatedStories(
+  todayContent: DailyContent,
+  index: ContentIndex
+): void {
+  // Load previous days' content (up to THREAD_LOOKBACK_DAYS)
+  const previousDays: DailyContent[] = [];
+  for (const dateStr of index.dates) {
+    if (dateStr === todayContent.date) continue;
+    if (previousDays.length >= THREAD_LOOKBACK_DAYS) break;
+    const filePath = path.join(CONTENT_DIR, `${dateStr}.json`);
+    if (fs.existsSync(filePath)) {
+      try {
+        previousDays.push(JSON.parse(fs.readFileSync(filePath, "utf-8")));
+      } catch {
+        // skip corrupted files
+      }
+    }
+  }
+
+  if (previousDays.length === 0) {
+    console.log("No previous days found for story threading.");
+    return;
+  }
+
+  const todayStories = allStories(todayContent);
+  // Track which previous-day files need to be re-written
+  const dirtyDates = new Set<string>();
+
+  for (const story of todayStories) {
+    const storyTags = new Set(story.tags.map((t) => t.toLowerCase()));
+    const related: (RelatedStory & { score: number })[] = [];
+
+    for (const prevDay of previousDays) {
+      for (const prevStory of allStories(prevDay)) {
+        const prevTags = prevStory.tags.map((t) => t.toLowerCase());
+        const sharedCount = prevTags.filter((t) => storyTags.has(t)).length;
+
+        if (sharedCount >= MIN_SHARED_TAGS) {
+          related.push({
+            id: prevStory.id,
+            date: prevDay.date,
+            title: prevStory.title,
+            section: prevStory.section,
+            score: sharedCount,
+          });
+        }
+      }
+    }
+
+    // Sort by relevance (more shared tags = more related), take top N
+    related.sort((a, b) => b.score - a.score);
+    if (related.length > 0) {
+      story.relatedStories = related
+        .slice(0, MAX_RELATED_PER_STORY)
+        .map(({ score, ...r }) => r);
+    }
+
+    // Backfill: add today's story as a related story in previous days
+    for (const rel of (story.relatedStories || [])) {
+      const prevDay = previousDays.find((d) => d.date === rel.date);
+      if (!prevDay) continue;
+
+      const prevStory = allStories(prevDay).find((s) => s.id === rel.id);
+      if (!prevStory) continue;
+
+      const backlink: RelatedStory = {
+        id: story.id,
+        date: todayContent.date,
+        title: story.title,
+        section: story.section,
+      };
+
+      if (!prevStory.relatedStories) prevStory.relatedStories = [];
+      // Don't duplicate
+      if (!prevStory.relatedStories.some((r) => r.id === backlink.id)) {
+        prevStory.relatedStories.push(backlink);
+        // Trim to max
+        if (prevStory.relatedStories.length > MAX_RELATED_PER_STORY) {
+          prevStory.relatedStories = prevStory.relatedStories.slice(0, MAX_RELATED_PER_STORY);
+        }
+        dirtyDates.add(prevDay.date);
+      }
+    }
+  }
+
+  // Write back updated previous-day files
+  for (const dateStr of dirtyDates) {
+    const prevDay = previousDays.find((d) => d.date === dateStr);
+    if (prevDay) {
+      const filePath = path.join(CONTENT_DIR, `${dateStr}.json`);
+      fs.writeFileSync(filePath, JSON.stringify(prevDay, null, 2));
+      console.log(`Backfilled related stories in ${dateStr}.json`);
+    }
+  }
+
+  const linkedCount = todayStories.filter((s) => s.relatedStories && s.relatedStories.length > 0).length;
+  console.log(`Story threads: ${linkedCount}/${todayStories.length} stories linked to previous coverage.`);
+}
+
 async function main() {
   const dateStr = process.argv[2] || getTodayDateStr();
   const outputPath = path.join(CONTENT_DIR, `${dateStr}.json`);
@@ -137,12 +249,9 @@ async function main() {
     content = buildFallbackContent(rawItems, dateStr);
   }
 
-  // Step 3: Write content JSON
+  // Step 3: Update index (needed before threading)
   fs.mkdirSync(CONTENT_DIR, { recursive: true });
-  fs.writeFileSync(outputPath, JSON.stringify(content, null, 2));
-  console.log(`Written: ${outputPath}`);
 
-  // Step 4: Update index
   let index: ContentIndex;
   if (fs.existsSync(indexPath)) {
     index = JSON.parse(fs.readFileSync(indexPath, "utf-8"));
@@ -158,6 +267,14 @@ async function main() {
 
   fs.writeFileSync(indexPath, JSON.stringify(index, null, 2));
   console.log(`Updated index: latest = ${index.latest}`);
+
+  // Step 4: Link related stories across days (Story Threads)
+  console.log("Linking related stories...");
+  linkRelatedStories(content, index);
+
+  // Step 5: Write content JSON (after threading adds relatedStories)
+  fs.writeFileSync(outputPath, JSON.stringify(content, null, 2));
+  console.log(`Written: ${outputPath}`);
 
   console.log("Done!");
   process.exit(0);

@@ -1,0 +1,93 @@
+.wrapper {
+  margin-bottom: var(--space-xl);
+  padding: var(--space-md);
+  background: var(--color-surface);
+  border-radius: 4px;
+}
+
+.heading {
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: var(--space-sm);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.threadIcon {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  opacity: 0.6;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.threadItem {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.75rem;
+  padding: 0.65rem 0.85rem;
+  background: var(--color-bg);
+  border-radius: 4px;
+  transition: opacity var(--transition);
+}
+
+.threadItem:hover {
+  opacity: 0.75;
+}
+
+.dot {
+  flex-shrink: 0;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--color-accent);
+  margin-top: 0.45rem;
+}
+
+.threadContent {
+  flex: 1;
+  min-width: 0;
+}
+
+.threadTitle {
+  font-size: 0.85rem;
+  font-weight: 500;
+  line-height: 1.4;
+  display: block;
+  margin-bottom: 0.2rem;
+}
+
+.threadMeta {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.metaText {
+  font-family: var(--font-meta);
+  font-size: 0.65rem;
+  color: var(--color-text-secondary);
+}
+
+.sep {
+  color: var(--color-border);
+  font-size: 0.65rem;
+}
+
+@media (max-width: 640px) {
+  .threadItem {
+    padding: 0.5rem 0.65rem;
+  }
+
+  .threadTitle {
+    font-size: 0.8rem;
+  }
+}
