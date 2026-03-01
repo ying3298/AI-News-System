@@ -1,37 +1,19 @@
 .wrapper {
-  position: relative;
-  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
-  border-radius: 6px;
-  padding: var(--space-lg);
+  border: 1px solid var(--color-border);
+  border-radius: 8px;
   margin: var(--space-lg) 0;
   overflow: hidden;
 }
 
-.imageOverlay {
-  position: absolute;
-  inset: 0;
-  background: linear-gradient(135deg, rgba(26, 26, 46, 0.85) 0%, rgba(15, 52, 96, 0.85) 100%);
-  border-radius: 6px;
-}
-
 .inner {
-  position: relative;
-  z-index: 1;
+  padding: var(--space-md) var(--space-md) 0;
 }
 
 .header {
   display: flex;
   align-items: center;
-  gap: 0.75rem;
+  justify-content: space-between;
   margin-bottom: var(--space-sm);
-}
-
-.icon {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 1.25rem;
-  line-height: 1;
 }
 
 .label {
@@ -39,34 +21,55 @@
   font-size: 0.7rem;
   text-transform: uppercase;
   letter-spacing: 0.1em;
-  color: rgba(255, 255, 255, 0.5);
+  color: var(--color-text-secondary);
 }
 
-.bullets {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  max-width: 640px;
+.count {
+  font-family: var(--font-meta);
+  font-size: 0.65rem;
+  color: var(--color-text-secondary);
+}
+
+/* Compact item rows */
+.items {
   display: flex;
   flex-direction: column;
+}
+
+.item {
+  display: flex;
+  align-items: baseline;
   gap: 0.75rem;
+  padding: 0.6rem 0;
+  border-top: 1px solid var(--color-border);
 }
 
-.bullet {
-  font-size: 1.05rem;
-  line-height: 1.5;
-  color: rgba(255, 255, 255, 0.85);
-  padding-left: 1.25rem;
-  position: relative;
+.name {
+  font-family: var(--font-sans);
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--color-text);
+  white-space: nowrap;
+  flex-shrink: 0;
 }
 
-.bullet::before {
-  content: "";
-  position: absolute;
-  left: 0;
-  top: 0.55em;
-  width: 6px;
-  height: 6px;
-  border-radius: 50%;
-  background: rgba(255, 255, 255, 0.4);
+.note {
+  font-size: 0.8rem;
+  color: var(--color-text-secondary);
+  line-height: 1.4;
+}
+
+@media (max-width: 640px) {
+  .item {
+    flex-direction: column;
+    gap: 0.15rem;
+  }
+
+  .name {
+    font-size: 0.8rem;
+  }
+
+  .note {
+    font-size: 0.75rem;
+  }
 }
