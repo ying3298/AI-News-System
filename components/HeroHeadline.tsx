@@ -11,7 +11,6 @@ interface Props {
 
 export default function HeroHeadline({ headline, date }: Props) {
   const heroRef = useRef<HTMLElement>(null);
-  const imageRef = useRef<HTMLDivElement>(null);
   const [scrollY, setScrollY] = useState(0);
   const [isLoaded, setIsLoaded] = useState(false);
 
@@ -37,65 +36,55 @@ export default function HeroHeadline({ headline, date }: Props) {
     return () => window.removeEventListener("scroll", handleScroll);
   }, []);
 
-  const parallaxOffset = scrollY * 0.3;
-  const opacityFade = Math.max(0, 1 - scrollY / 600);
+  const parallaxOffset = scrollY * 0.25;
 
   return (
     <section
       ref={heroRef}
       className={`${styles.hero} ${isLoaded ? styles.loaded : ""}`}
     >
-      {/* Full-bleed background image with parallax */}
-      {headline.imageUrl ? (
-        <div
-          ref={imageRef}
-          className={styles.imageLayer}
-          style={{ transform: `translateY(${parallaxOffset}px)` }}
-        >
-          <img
-            src={headline.imageUrl}
-            alt=""
-            className={styles.heroImage}
-            onLoad={() => setIsLoaded(true)}
-          />
-        </div>
-      ) : (
-        <div className={styles.imageFallback} />
-      )}
-
-      {/* Gradient scrim for text readability */}
-      <div className={styles.scrim} />
-
-      {/* Ambient glow from the image */}
-      <div className={styles.ambientGlow} />
-
-      {/* Content overlay */}
-      <div
-        className={styles.content}
-        style={{ opacity: opacityFade }}
-      >
-        <div className={styles.meta}>
-          <span className={styles.badge}>Lead Story</span>
-          <span className={styles.date}>{date}</span>
-        </div>
-        <h1 className={styles.title}>{headline.title}</h1>
-        <p className={styles.summary}>{headline.summary}</p>
-        <a
-          href={headline.sourceUrl}
-          target="_blank"
-          rel="noopener noreferrer"
-          className={styles.readMore}
-        >
-          <span>Read full story</span>
-          <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true">
-            <path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
-          </svg>
-        </a>
+      {/* Full-bleed image showcase */}
+      <div className={styles.imageSection}>
+        {headline.imageUrl ? (
+          <div
+            className={styles.imageLayer}
+            style={{ transform: `translateY(${parallaxOffset}px)` }}
+          >
+            <img
+              src={headline.imageUrl}
+              alt=""
+              className={styles.heroImage}
+              onLoad={() => setIsLoaded(true)}
+            />
+          </div>
+        ) : (
+          <div className={styles.imageFallback} />
+        )}
+        {/* Bottom fade into content area */}
+        <div className={styles.bottomFade} />
       </div>
 
-      {/* Scroll indicator */}
-      <div className={styles.scrollHint} style={{ opacity: opacityFade }}>
-        <div className={styles.scrollLine} />
+      {/* Content on solid ground — fully readable */}
+      <div className={styles.content}>
+        <div className={styles.inner}>
+          <div className={styles.meta}>
+            <span className={styles.badge}>Lead Story</span>
+            <span className={styles.date}>{date}</span>
+          </div>
+          <h1 className={styles.title}>{headline.title}</h1>
+          <p className={styles.summary}>{headline.summary}</p>
+          <a
+            href={headline.sourceUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className={styles.readMore}
+          >
+            <span>Read full story</span>
+            <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+              <path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+            </svg>
+          </a>
+        </div>
       </div>
     </section>
   );
