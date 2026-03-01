@@ -1,0 +1,59 @@
+.block {
+  margin-bottom: var(--space-xl);
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  margin-bottom: var(--space-md);
+  padding-bottom: 0.6rem;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.dot[data-section="tools"]        { background: #2b6cb0; }
+.dot[data-section="creative"]     { background: #c026d3; }
+.dot[data-section="research"]     { background: #6b46a3; }
+.dot[data-section="applications"] { background: #0d9488; }
+.dot[data-section="business"]     { background: #2d7a4f; }
+.dot[data-section="policy"]       { background: #b8860b; }
+.dot[data-section="concerns"]     { background: #b53d2e; }
+.dot[data-section="culture"]      { background: #7c3aed; }
+
+.label {
+  font-family: var(--font-serif);
+  font-size: 1.1rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+.count {
+  font-family: var(--font-meta);
+  font-size: 0.7rem;
+  color: var(--color-text-secondary);
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.25rem;
+}
+
+@media (max-width: 1080px) {
+  .grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 580px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}
