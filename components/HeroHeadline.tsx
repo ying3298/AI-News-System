@@ -9,13 +9,6 @@ interface Props {
 export default function HeroHeadline({ headline, date }: Props) {
   return (
     <section className={styles.hero}>
-      {headline.imageUrl ? (
-        <div className={styles.imageWrapper}>
-          <img src={headline.imageUrl} alt="" className={styles.heroImage} />
-        </div>
-      ) : (
-        <div className={styles.imageFallback} />
-      )}
       <div className={styles.content}>
         <div className={styles.meta}>
           <span className={styles.date}>{date}</span>
@@ -31,6 +24,13 @@ export default function HeroHeadline({ headline, date }: Props) {
           Learn more &rarr;
         </a>
       </div>
+      {headline.imageUrl ? (
+        <div className={styles.imageWrapper}>
+          <img src={headline.imageUrl} alt="" className={styles.heroImage} />
+        </div>
+      ) : (
+        <div className={styles.imageFallback} />
+      )}
     </section>
   );
 }

@@ -20,6 +20,10 @@ export function getDailyContent(date: string): DailyContent {
     parsed.sections.applications = parsed.sections.applications || [];
     parsed.sections.culture = parsed.sections.culture || [];
   }
+  // Normalize simpleSummary: wrap old string format as single-item array
+  if (typeof parsed.simpleSummary === "string") {
+    parsed.simpleSummary = [parsed.simpleSummary];
+  }
   return parsed;
 }
 

@@ -93,8 +93,10 @@ function buildFallbackContent(
       sourceUrl: headlineItem?.sourceUrl || "",
       sourceName: headlineItem?.sourceName || "",
     },
-    simpleSummary:
-      "Today's edition was assembled directly from RSS feeds without AI curation. Browse the stories below for the latest AI news.",
+    simpleSummary: [
+      "Today's edition was assembled directly from RSS feeds without AI curation.",
+      "Browse the stories below for the latest AI news.",
+    ],
     sections,
     quote: {
       text: "The best way to predict the future is to invent it.",

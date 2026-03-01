@@ -148,17 +148,22 @@ async function main() {
 
   const tasks: ImageTask[] = [];
 
-  // 1. Hero image
+  // 1. Hero image — use source image if available, otherwise generate
   const heroSection = detectHeadlineSection(content);
   const heroFilename = `${dateStr}-hero.webp`;
-  tasks.push({
-    prompt: buildHeroPrompt(heroSection, content.headline.title),
-    outputPath: path.join(dateImagesDir, heroFilename),
-    publicPath: `/images/${dateStr}/${heroFilename}`,
-    aspectRatio: "16:9",
-    width: 1600,
-    height: 900,
-  });
+  if (content.headline.sourceImageUrl) {
+    content.headline.imageUrl = content.headline.sourceImageUrl;
+    console.log(`Using source image for hero: ${content.headline.sourceImageUrl}`);
+  } else {
+    tasks.push({
+      prompt: buildHeroPrompt(heroSection, content.headline.title),
+      outputPath: path.join(dateImagesDir, heroFilename),
+      publicPath: `/images/${dateStr}/${heroFilename}`,
+      aspectRatio: "16:9",
+      width: 1600,
+      height: 900,
+    });
+  }
 
   // 2. Summary banner image
   const summaryFilename = `${dateStr}-summary.webp`;
@@ -171,26 +176,36 @@ async function main() {
     height: 400,
   });
 
-  // 3. Card images for each story
+  // 3. Card images — use source image if available, otherwise generate
+  let sourceImageCount = 0;
   for (const [section, items] of Object.entries(content.sections)) {
     for (const item of items) {
-      const cardFilename = `${dateStr}-${section}-${item.id}.webp`;
-      tasks.push({
-        prompt: buildCardPrompt(section as SectionSlug, item.title),
-        outputPath: path.join(dateImagesDir, cardFilename),
-        publicPath: `/images/${dateStr}/${cardFilename}`,
-        aspectRatio: "16:9",
-        width: 800,
-        height: 450,
-      });
+      if (item.sourceImageUrl) {
+        // Use real source image directly
+        item.imageUrl = item.sourceImageUrl;
+        sourceImageCount++;
+      } else {
+        const cardFilename = `${dateStr}-${section}-${item.id}.webp`;
+        tasks.push({
+          prompt: buildCardPrompt(section as SectionSlug, item.title),
+          outputPath: path.join(dateImagesDir, cardFilename),
+          publicPath: `/images/${dateStr}/${cardFilename}`,
+          aspectRatio: "16:9",
+          width: 800,
+          height: 450,
+        });
+      }
     }
+  }
+  if (sourceImageCount > 0) {
+    console.log(`Using source images for ${sourceImageCount} stories (skipping AI generation)`);
   }
 
   console.log(`Generating ${tasks.length} images for ${dateStr}...`);
   const results = await processInBatches(tasks, 5);
 
   // 4. Update content JSON with image paths for successful generations
-  let updated = false;
+  let updated = sourceImageCount > 0 || !!content.headline.sourceImageUrl;
 
   const heroPath = `/images/${dateStr}/${heroFilename}`;
   if (results.get(heroPath)) {

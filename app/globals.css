@@ -15,10 +15,10 @@
   --space-sm: 1rem;
   --space-md: 1.5rem;
   --space-lg: 2.5rem;
-  --space-xl: 4rem;
+  --space-xl: 5rem;
   --space-2xl: 6rem;
 
-  --page-padding: 1.85vw;
+  --page-padding: max(2rem, 5vw);
   --max-width: 1400px;
   --transition: 0.2s ease-in-out;
 }

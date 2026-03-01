@@ -8,6 +8,7 @@ export interface RawFeedItem {
   pubDate: string;
   sourceName: string;
   sourceCategory?: string;
+  sourceImageUrl?: string;
 }
 
 const parser = new Parser({
@@ -15,7 +16,36 @@ const parser = new Parser({
   headers: {
     "User-Agent": "AI-News-System/1.0 (RSS Aggregator)",
   },
+  customFields: {
+    item: [
+      ["media:content", "media:content", { keepArray: false }],
+      ["media:thumbnail", "media:thumbnail", { keepArray: false }],
+    ],
+  },
 });
+
+/**
+ * Extract the best available image URL from an RSS item.
+ * Priority: media:content → media:thumbnail → enclosure (if image type)
+ */
+function extractImageUrl(item: any): string | undefined {
+  // media:content (used by TechCrunch, The Verge, VentureBeat)
+  const mediaContent =
+    item["media:content"]?.["$"]?.url || item["media:content"]?.url;
+  if (mediaContent && mediaContent.startsWith("http")) return mediaContent;
+
+  // media:thumbnail
+  const mediaThumbnail =
+    item["media:thumbnail"]?.["$"]?.url || item["media:thumbnail"]?.url;
+  if (mediaThumbnail && mediaThumbnail.startsWith("http")) return mediaThumbnail;
+
+  // Standard RSS 2.0 enclosure (only if it's an image)
+  const enclosure = item.enclosure?.url;
+  if (enclosure && /\.(jpg|jpeg|png|webp|gif)/i.test(enclosure))
+    return enclosure;
+
+  return undefined;
+}
 
 async function fetchSingleFeed(
   source: RSSSource
@@ -42,6 +72,7 @@ async function fetchSingleFeed(
         pubDate: item.pubDate || new Date().toISOString(),
         sourceName: source.name,
         sourceCategory: source.category,
+        sourceImageUrl: extractImageUrl(item),
       }));
   } catch (error) {
     console.warn(`Failed to fetch ${source.name}: ${error}`);
@@ -68,8 +99,9 @@ export async function fetchAllFeeds(): Promise<RawFeedItem[]> {
     }
   }
 
+  const withImages = items.filter((i) => i.sourceImageUrl).length;
   console.log(
-    `Fetched ${items.length} unique items from ${RSS_SOURCES.length} sources`
+    `Fetched ${items.length} unique items from ${RSS_SOURCES.length} sources (${withImages} with source images)`
   );
   return items;
 }

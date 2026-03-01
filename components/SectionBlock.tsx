@@ -26,7 +26,7 @@ export default function SectionBlock({ slug, items, isFollowed, toggleFollow, fo
         </span>
       </div>
       <div className={styles.grid}>
-        {items.map((item) => {
+        {items.map((item, index) => {
           const tags = item.normalizedTags || item.tags.map((t) => t.toLowerCase());
           const hasFollowedTag = followedTopics.length > 0 && tags.some((t) => followedTopics.includes(t));
 
@@ -34,6 +34,7 @@ export default function SectionBlock({ slug, items, isFollowed, toggleFollow, fo
             <NewsCard
               key={item.id}
               item={item}
+              featured={index === 0 && items.length > 1}
               isFollowing={hasFollowedTag}
               isFollowed={isFollowed}
               toggleFollow={toggleFollow}

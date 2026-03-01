@@ -20,6 +20,7 @@ export interface NewsItem {
   readTime: string;
   publishedAt: string;
   imageUrl?: string;
+  sourceImageUrl?: string;
   normalizedTags?: string[];
   relatedStories?: RelatedStory[];
 }
@@ -33,8 +34,9 @@ export interface DailyContent {
     sourceUrl: string;
     sourceName: string;
     imageUrl?: string;
+    sourceImageUrl?: string;
   };
-  simpleSummary: string;
+  simpleSummary: string | string[];
   simpleSummaryImageUrl?: string;
   sections: {
     tools: NewsItem[];

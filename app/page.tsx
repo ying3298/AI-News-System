@@ -20,8 +20,7 @@ export default function Home() {
 
         <section className={styles.intro}>
           <p className={styles.tagline}>
-            An ever-growing collection of carefully curated AI developments from
-            around the world.
+            {Object.values(content.sections).flat().length} AI stories curated today
           </p>
           <Link href="/archive/" className="link-arrow">
             Archive &rarr;

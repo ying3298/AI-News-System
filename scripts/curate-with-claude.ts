@@ -10,14 +10,14 @@ const SYSTEM_PROMPT = `You are a senior AI news editor curating a daily digest c
 Given a list of raw RSS feed items about AI, you must:
 
 1. Select the single most impactful story as the HEADLINE
-2. Write a "simple summary" — a plain-language recap of the day's most important AI news, written so a very smart 10-year-old would understand. Rules:
-   - Actually summarize what happened today: mention the key stories, companies, and developments
-   - Use simple, clear language — explain technical things with quick comparisons (e.g., "like a brain for computers" or "kind of like autocorrect but way smarter")
-   - 3-4 short sentences that cover the top 2-3 stories of the day
-   - Be specific: name the companies, products, or decisions — don't be vague
-   - Tone: friendly, curious, a little excited — like a cool older sibling explaining the news after school
-   - It's okay to use words like "AI" and "robot" but avoid heavy jargon like "neural network", "inference", "LLM", or "parameters"
-   - Example: "Big news today — the US government got into a fight with Anthropic (the company that makes Claude) about whether the military can use their AI. Meanwhile, OpenAI just got $110 billion in new funding, which is more money than most countries spend in a year. Also, a music app called Suno that uses AI to write songs just hit 2 million paying users!"
+2. Write a "simple summary" as a JSON array of exactly 2-3 bullet point strings. Each bullet recaps one key story in plain language a smart 10-year-old would understand. Rules:
+   - Return simpleSummary as a JSON array: ["bullet 1", "bullet 2", "bullet 3"]
+   - Each bullet is ONE sentence, maximum 20 words
+   - Each bullet names the specific company, product, or decision — don't be vague
+   - Use simple, clear language — explain technical things with quick comparisons
+   - Tone: friendly, curious, a little excited — like a cool older sibling explaining the news
+   - Avoid heavy jargon like "neural network", "inference", "LLM", or "parameters"
+   - Example: ["OpenAI just got $110 billion in new funding — more than most countries spend in a year.", "The US government and Anthropic are fighting about whether the military can use their AI.", "Suno, an AI music app, just hit 2 million paying users."]
 3. Categorize the remaining stories into exactly 8 sections:
    - tools: AI software tools, products, platforms, APIs, coding assistants, chatbot updates. Excludes creative AI tools (those go in "creative") and domain-specific deployments (those go in "applications").
    - creative: AI for creative work — image generation, video generation, music, writing tools, design AI, creative workflow automation
@@ -43,7 +43,7 @@ Assign sequential IDs starting from AI-001.
 Respond with ONLY valid JSON matching this exact structure (no markdown fencing):
 {
   "headline": { "title": "...", "summary": "...", "sourceUrl": "...", "sourceName": "..." },
-  "simpleSummary": "...",
+  "simpleSummary": ["...", "...", "..."],
   "sections": {
     "tools": [{ "id": "AI-001", "title": "...", "summary": "...", "contentSimple": "...", "content": "...", "keyTakeaways": ["..."], "whyItMatters": "...", "sourceUrl": "...", "sourceName": "...", "tags": ["..."], "section": "tools", "readTime": "3 min", "publishedAt": "..." }],
     "creative": [...],
@@ -137,21 +137,52 @@ export async function curateWithClaude(
     if (url) allSourceUrls.add(url);
   });
 
+  // Build lookup map: sourceUrl → sourceImageUrl from RSS items
+  const imageByUrl = new Map<string, string>();
+  for (const item of items) {
+    if (item.sourceImageUrl) {
+      imageByUrl.set(item.link, item.sourceImageUrl);
+    }
+  }
+
+  // Resolve sourceImageUrl for headline
+  const headlineImageUrl = imageByUrl.get(parsed.headline?.sourceUrl);
+  if (headlineImageUrl) {
+    parsed.headline.sourceImageUrl = headlineImageUrl;
+  }
+
+  // Resolve sourceImageUrl for each story in sections
+  const sections = {
+    tools: parsed.sections.tools || [],
+    creative: parsed.sections.creative || [],
+    research: parsed.sections.research || [],
+    applications: parsed.sections.applications || [],
+    business: parsed.sections.business || [],
+    policy: parsed.sections.policy || [],
+    concerns: parsed.sections.concerns || [],
+    culture: parsed.sections.culture || [],
+  };
+
+  for (const sectionItems of Object.values(sections)) {
+    for (const story of sectionItems as any[]) {
+      const srcImg = imageByUrl.get(story.sourceUrl);
+      if (srcImg) {
+        story.sourceImageUrl = srcImg;
+      }
+    }
+  }
+
+  const resolvedCount = [...Object.values(sections).flat()].filter(
+    (s: any) => s.sourceImageUrl
+  ).length;
+  console.log(`Resolved source images for ${resolvedCount} stories`);
+
   return {
     date: dateStr,
     dateFormatted,
     headline: parsed.headline,
     simpleSummary: parsed.simpleSummary,
-    sections: {
-      tools: parsed.sections.tools || [],
-      creative: parsed.sections.creative || [],
-      research: parsed.sections.research || [],
-      applications: parsed.sections.applications || [],
-      business: parsed.sections.business || [],
-      policy: parsed.sections.policy || [],
-      concerns: parsed.sections.concerns || [],
-      culture: parsed.sections.culture || [],
-    },
+    sections,
     quote: parsed.quote,
     sources: Array.from(allSourceUrls),
     generatedAt: new Date().toISOString(),

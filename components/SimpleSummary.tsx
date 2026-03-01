@@ -1,11 +1,13 @@
 import styles from "./SimpleSummary.module.css";
 
 interface Props {
-  text: string;
+  text: string | string[];
   imageUrl?: string;
 }
 
 export default function SimpleSummary({ text, imageUrl }: Props) {
+  const bullets = Array.isArray(text) ? text : [text];
+
   return (
     <section
       className={styles.wrapper}
@@ -25,7 +27,11 @@ export default function SimpleSummary({ text, imageUrl }: Props) {
           <span className={styles.icon}>💡</span>
           <span className={styles.label}>Today in simple words</span>
         </div>
-        <p className={styles.text}>{text}</p>
+        <ul className={styles.bullets}>
+          {bullets.map((point, i) => (
+            <li key={i} className={styles.bullet}>{point}</li>
+          ))}
+        </ul>
       </div>
     </section>
   );
