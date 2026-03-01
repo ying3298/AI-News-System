@@ -38,11 +38,14 @@
   border-radius: 3px 3px 0 0;
 }
 
-.imageFallback[data-section="tools"]    { background: #2b6cb0; }
-.imageFallback[data-section="research"] { background: #6b46a3; }
-.imageFallback[data-section="business"] { background: #2d7a4f; }
-.imageFallback[data-section="policy"]   { background: #b8860b; }
-.imageFallback[data-section="concerns"] { background: #b53d2e; }
+.imageFallback[data-section="tools"]        { background: #2b6cb0; }
+.imageFallback[data-section="creative"]     { background: #c026d3; }
+.imageFallback[data-section="research"]     { background: #6b46a3; }
+.imageFallback[data-section="applications"] { background: #0d9488; }
+.imageFallback[data-section="business"]     { background: #2d7a4f; }
+.imageFallback[data-section="policy"]       { background: #b8860b; }
+.imageFallback[data-section="concerns"]     { background: #b53d2e; }
+.imageFallback[data-section="culture"]      { background: #7c3aed; }
 
 /* Followed topic visual boost */
 .following {

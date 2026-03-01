@@ -29,10 +29,13 @@ function buildFallbackContent(
 
   const sectionMap: Record<string, RawFeedItem[]> = {
     tools: [],
+    creative: [],
     research: [],
+    applications: [],
     business: [],
     policy: [],
     concerns: [],
+    culture: [],
   };
 
   for (const item of rawItems) {
@@ -65,10 +68,13 @@ function buildFallbackContent(
 
   const sections = {
     tools: sectionMap.tools.slice(0, 5).map((r) => toNewsItem(r, "tools")),
+    creative: sectionMap.creative.slice(0, 5).map((r) => toNewsItem(r, "creative")),
     research: sectionMap.research.slice(0, 5).map((r) => toNewsItem(r, "research")),
+    applications: sectionMap.applications.slice(0, 5).map((r) => toNewsItem(r, "applications")),
     business: sectionMap.business.slice(0, 5).map((r) => toNewsItem(r, "business")),
     policy: sectionMap.policy.slice(0, 5).map((r) => toNewsItem(r, "policy")),
     concerns: sectionMap.concerns.slice(0, 5).map((r) => toNewsItem(r, "concerns")),
+    culture: sectionMap.culture.slice(0, 5).map((r) => toNewsItem(r, "culture")),
   };
 
   // Pick the first item from the largest section as headline

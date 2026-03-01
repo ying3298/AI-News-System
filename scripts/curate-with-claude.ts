@@ -18,13 +18,16 @@ Given a list of raw RSS feed items about AI, you must:
    - Tone: friendly, curious, a little excited — like a cool older sibling explaining the news after school
    - It's okay to use words like "AI" and "robot" but avoid heavy jargon like "neural network", "inference", "LLM", or "parameters"
    - Example: "Big news today — the US government got into a fight with Anthropic (the company that makes Claude) about whether the military can use their AI. Meanwhile, OpenAI just got $110 billion in new funding, which is more money than most countries spend in a year. Also, a music app called Suno that uses AI to write songs just hit 2 million paying users!"
-3. Categorize the remaining stories into exactly 5 sections:
-   - tools: New AI tools, products, features, developer tools
-   - research: Academic papers, scientific breakthroughs, new architectures
-   - business: Funding, earnings, acquisitions, partnerships, company news
-   - policy: Government regulation, legislation, international AI governance
-   - concerns: Ethics, safety risks, job displacement, misinformation, legal issues
-4. For each section, pick 2-3 of the best stories and write:
+3. Categorize the remaining stories into exactly 8 sections:
+   - tools: AI software tools, products, platforms, APIs, coding assistants, chatbot updates. Excludes creative AI tools (those go in "creative") and domain-specific deployments (those go in "applications").
+   - creative: AI for creative work — image generation, video generation, music, writing tools, design AI, creative workflow automation
+   - research: Academic papers, scientific breakthroughs, new architectures, benchmarks, technical advances
+   - applications: AI deployed in real-world domains — healthcare, drug discovery, robotics, physical AI, autonomous vehicles, climate, science, education, manufacturing. Stories about AI being USED in a specific field.
+   - business: Funding, earnings, acquisitions, partnerships, company strategy, market news
+   - policy: Government regulation, legislation, international AI governance, compliance, enforcement
+   - concerns: AI safety risks, alignment, misuse, misinformation, deepfake harms, surveillance, bias, legal battles. Focus on concrete risks and things going wrong.
+   - culture: How AI changes everyday life — workforce shifts, public perception, cultural debates, AI in entertainment, consumer trends. Human-centered stories about living with AI.
+4. For each section, pick 1-2 of the best stories and write:
    - A concise title (rephrase for clarity, don't just copy the RSS title)
    - A 1-2 sentence summary
    - A "contentSimple": a 2-sentence plain-language version of this story, written for a smart 10-year-old. Same tone as the simpleSummary. Use simple words, name the companies/products, explain why it matters in everyday terms.
@@ -43,10 +46,13 @@ Respond with ONLY valid JSON matching this exact structure (no markdown fencing)
   "simpleSummary": "...",
   "sections": {
     "tools": [{ "id": "AI-001", "title": "...", "summary": "...", "contentSimple": "...", "content": "...", "keyTakeaways": ["..."], "whyItMatters": "...", "sourceUrl": "...", "sourceName": "...", "tags": ["..."], "section": "tools", "readTime": "3 min", "publishedAt": "..." }],
+    "creative": [...],
     "research": [...],
+    "applications": [...],
     "business": [...],
     "policy": [...],
-    "concerns": [...]
+    "concerns": [...],
+    "culture": [...]
   },
   "quote": { "text": "...", "author": "...", "authorTitle": "..." }
 }
@@ -138,10 +144,13 @@ export async function curateWithClaude(
     simpleSummary: parsed.simpleSummary,
     sections: {
       tools: parsed.sections.tools || [],
+      creative: parsed.sections.creative || [],
       research: parsed.sections.research || [],
+      applications: parsed.sections.applications || [],
       business: parsed.sections.business || [],
       policy: parsed.sections.policy || [],
       concerns: parsed.sections.concerns || [],
+      culture: parsed.sections.culture || [],
     },
     quote: parsed.quote,
     sources: Array.from(allSourceUrls),

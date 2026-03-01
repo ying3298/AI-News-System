@@ -13,7 +13,14 @@ export function getContentIndex(): ContentIndex {
 export function getDailyContent(date: string): DailyContent {
   const filePath = path.join(CONTENT_DIR, `${date}.json`);
   const raw = fs.readFileSync(filePath, "utf-8");
-  return JSON.parse(raw);
+  const parsed = JSON.parse(raw);
+  // Backfill new sections for older content files that only had 5 categories
+  if (parsed.sections) {
+    parsed.sections.creative = parsed.sections.creative || [];
+    parsed.sections.applications = parsed.sections.applications || [];
+    parsed.sections.culture = parsed.sections.culture || [];
+  }
+  return parsed;
 }
 
 export function getLatestContent(): DailyContent {
@@ -27,7 +34,7 @@ export function getAllDates(): string[] {
 }
 
 export function getSectionSlugs(): SectionSlug[] {
-  return ["tools", "research", "business", "policy", "concerns"];
+  return ["tools", "creative", "research", "applications", "business", "policy", "concerns", "culture"];
 }
 
 export function getAllStoryIds(): { id: string; date: string }[] {

@@ -38,10 +38,13 @@ export interface DailyContent {
   simpleSummaryImageUrl?: string;
   sections: {
     tools: NewsItem[];
+    creative: NewsItem[];
     research: NewsItem[];
+    applications: NewsItem[];
     business: NewsItem[];
     policy: NewsItem[];
     concerns: NewsItem[];
+    culture: NewsItem[];
   };
   quote: {
     text: string;
@@ -61,8 +64,11 @@ export type SectionSlug = keyof DailyContent["sections"];
 
 export const SECTION_META: Record<SectionSlug, { label: string; emoji: string }> = {
   tools: { label: "Tools & Products", emoji: "tools" },
+  creative: { label: "Creative AI", emoji: "creative" },
   research: { label: "Research", emoji: "research" },
+  applications: { label: "AI in the Wild", emoji: "applications" },
   business: { label: "Industry & Business", emoji: "business" },
   policy: { label: "Government & Policy", emoji: "policy" },
-  concerns: { label: "Concerns & Ethics", emoji: "concerns" },
+  concerns: { label: "Safety & Ethics", emoji: "concerns" },
+  culture: { label: "AI & Society", emoji: "culture" },
 };

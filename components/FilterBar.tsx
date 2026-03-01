@@ -3,7 +3,7 @@
 import { SECTION_META, type SectionSlug } from "@/lib/types";
 import styles from "./FilterBar.module.css";
 
-const SLUGS: SectionSlug[] = ["tools", "research", "business", "policy", "concerns"];
+const SLUGS: SectionSlug[] = ["tools", "creative", "research", "applications", "business", "policy", "concerns", "culture"];
 
 export type FilterValue = SectionSlug | "following" | null;
 

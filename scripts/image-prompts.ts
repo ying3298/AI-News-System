@@ -24,8 +24,14 @@ export const SECTION_IMAGE_CONFIG: Record<SectionSlug, SectionImageConfig> = {
   tools: {
     gradientDesc: "golden warmth fading into clear sky blue",
   },
+  creative: {
+    gradientDesc: "vibrant magenta fading into warm golden peach",
+  },
   research: {
     gradientDesc: "coral pink melting into deep violet",
+  },
+  applications: {
+    gradientDesc: "bright teal fading into warm coral pink",
   },
   business: {
     gradientDesc: "warm amber blending into rich emerald teal",
@@ -35,6 +41,9 @@ export const SECTION_IMAGE_CONFIG: Record<SectionSlug, SectionImageConfig> = {
   },
   concerns: {
     gradientDesc: "warm orange fading into moody blue-gray",
+  },
+  culture: {
+    gradientDesc: "soft lavender blending into warm apricot",
   },
 };
 
