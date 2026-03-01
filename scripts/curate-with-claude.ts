@@ -5,6 +5,22 @@ import type { DailyContent } from "../lib/types";
 
 const client = new Anthropic();
 
+/**
+ * Upgrade image URLs to higher-resolution versions where possible.
+ * Some RSS feeds (e.g. The Guardian) provide tiny thumbnails — swap for larger versions.
+ */
+function upgradeImageUrl(url: string): string {
+  // Guardian: swap width=140 for width=1200
+  if (url.includes("i.guim.co.uk") && url.includes("width=140")) {
+    return url.replace("width=140", "width=1200");
+  }
+  // Future CDN (Creative Bloq, TechRadar, etc.): strip size suffix for full-res
+  if (url.includes("cdn.mos.cms.futurecdn.net") && url.includes("-80.")) {
+    return url.replace(/-\d+-80\./, "-1200-80.");
+  }
+  return url;
+}
+
 const SYSTEM_PROMPT = `You are the lead writer for THE AI FEED, a daily AI news digest that reads like a smart friend catching you up on what happened. Your voice is warm, clear, and occasionally wry. You explain things by connecting them to what people already know. You have mild opinions and you're not afraid to say "this is a big deal" or "honestly, this is kind of funny." You never hedge with phrases like "it remains to be seen" or "time will tell." You never use the word "landscape." You respect the reader's time.
 
 VOICE RULES — apply to ALL content you write:
@@ -161,6 +177,7 @@ export async function curateWithClaude(
   const headlineImageUrl = imageByUrl.get(parsed.headline?.sourceUrl);
   if (headlineImageUrl) {
     parsed.headline.sourceImageUrl = headlineImageUrl;
+    parsed.headline.imageUrl = upgradeImageUrl(headlineImageUrl);
   }
 
   // Resolve sourceImageUrl for each story in sections
@@ -180,6 +197,8 @@ export async function curateWithClaude(
       const srcImg = imageByUrl.get(story.sourceUrl);
       if (srcImg) {
         story.sourceImageUrl = srcImg;
+        // Auto-set imageUrl so images render immediately without generate-images step
+        story.imageUrl = upgradeImageUrl(srcImg);
       }
     }
   }

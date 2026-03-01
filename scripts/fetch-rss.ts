@@ -44,6 +44,13 @@ function extractImageUrl(item: any): string | undefined {
   if (enclosure && /\.(jpg|jpeg|png|webp|gif)/i.test(enclosure))
     return enclosure;
 
+  // Try to extract image from HTML content (og:image or <img> src)
+  const htmlContent = item.content || item["content:encoded"] || "";
+  if (htmlContent) {
+    const imgMatch = htmlContent.match(/<img[^>]+src=["']([^"']+)["']/i);
+    if (imgMatch?.[1] && imgMatch[1].startsWith("http")) return imgMatch[1];
+  }
+
   return undefined;
 }
 
