@@ -110,17 +110,18 @@ async function processInBatches(
 }
 
 /**
- * Try to detect which section the headline belongs to.
+ * Try to detect which section the headline belongs to,
+ * and return the matching NewsItem for full story context.
  */
-function detectHeadlineSection(content: DailyContent): SectionSlug {
+function findHeadlineStory(content: DailyContent): { section: SectionSlug; story: any | null } {
   for (const [section, items] of Object.entries(content.sections)) {
     for (const item of items) {
       if (item.sourceUrl === content.headline.sourceUrl) {
-        return section as SectionSlug;
+        return { section: section as SectionSlug, story: item };
       }
     }
   }
-  return "tools"; // fallback
+  return { section: "tools", story: null };
 }
 
 async function main() {
@@ -149,14 +150,20 @@ async function main() {
   const tasks: ImageTask[] = [];
 
   // 1. Hero image — use source image if available, otherwise generate
-  const heroSection = detectHeadlineSection(content);
+  const { section: heroSection, story: heroStory } = findHeadlineStory(content);
   const heroFilename = `${dateStr}-hero.webp`;
   if (content.headline.sourceImageUrl) {
     content.headline.imageUrl = upgradeImageUrl(content.headline.sourceImageUrl);
     console.log(`Using source image for hero: ${content.headline.imageUrl}`);
   } else {
     tasks.push({
-      prompt: buildHeroPrompt(heroSection, content.headline.title),
+      prompt: buildHeroPrompt(
+        heroSection,
+        content.headline.title,
+        heroStory?.summary || content.headline.summary,
+        heroStory?.keyTakeaways?.[0] || content.headline.summary,
+        heroStory?.whyItMatters || content.headline.summary,
+      ),
       outputPath: path.join(dateImagesDir, heroFilename),
       publicPath: `/images/${dateStr}/${heroFilename}`,
       aspectRatio: IMAGE_CONFIG.hero.aspectRatio,
@@ -187,7 +194,13 @@ async function main() {
       } else {
         const cardFilename = `${dateStr}-${section}-${item.id}.webp`;
         tasks.push({
-          prompt: buildCardPrompt(section as SectionSlug, item.title),
+          prompt: buildCardPrompt(
+            section as SectionSlug,
+            item.title,
+            item.summary || "",
+            item.keyTakeaways?.[0] || item.summary || "",
+            item.whyItMatters || item.summary || "",
+          ),
           outputPath: path.join(dateImagesDir, cardFilename),
           publicPath: `/images/${dateStr}/${cardFilename}`,
           aspectRatio: IMAGE_CONFIG.card.aspectRatio,
