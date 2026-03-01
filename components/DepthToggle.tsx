@@ -53,7 +53,7 @@ export default function DepthToggle({ onChange, hasSimple }: Props) {
 
   return (
     <div className={styles.wrapper}>
-      <span className={styles.label}>Reading depth</span>
+      <span className={styles.label}>How much detail?</span>
       <div className={styles.toggleGroup}>
         {availableLevels.map((level) => (
           <button

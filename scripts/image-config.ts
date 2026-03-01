@@ -29,21 +29,4 @@ export const IMAGE_CONFIG = {
   batchDelayMs: 1000,
 };
 
-/**
- * Upgrade RSS image URLs to higher-resolution versions where possible.
- * Some feeds (e.g. The Guardian) provide tiny thumbnails — this swaps them
- * for larger versions using the same CDN parameters.
- */
-export function upgradeImageUrl(url: string): string {
-  // Guardian: force width=1200 regardless of original size
-  if (url.includes("i.guim.co.uk")) {
-    return url.replace(/width=\d+/, "width=1200");
-  }
-
-  // Future CDN (Creative Bloq, TechRadar, etc.): request 1200px wide
-  if (url.includes("cdn.mos.cms.futurecdn.net") && /-\d+-80\./.test(url)) {
-    return url.replace(/-\d+-80\./, "-1200-80.");
-  }
-
-  return url;
-}
+// All images are now AI-generated via Gemini — no RSS source image handling needed.

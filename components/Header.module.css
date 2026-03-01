@@ -1,10 +1,10 @@
 .header {
   position: sticky;
   top: 0;
-  z-index: 100;
-  background: rgba(255, 255, 255, 0.92);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
+  z-index: var(--z-header);
+  background: var(--color-header-bg);
+  backdrop-filter: var(--blur-header);
+  -webkit-backdrop-filter: var(--blur-header);
   border-bottom: 1px solid var(--color-border);
 }
 
@@ -21,7 +21,7 @@
 .right {
   display: flex;
   align-items: center;
-  gap: 1.5rem;
+  gap: var(--space-md);
 }
 
 .left {
@@ -36,11 +36,11 @@
 .navLink {
   display: flex;
   align-items: center;
-  gap: 0.4rem;
+  gap: var(--space-2xs);
   font-family: var(--font-meta);
-  font-size: 0.75rem;
+  font-size: var(--font-size-sm);
   text-transform: uppercase;
-  letter-spacing: 0.05em;
+  letter-spacing: var(--ls-wide);
   color: var(--color-text);
   transition: opacity var(--transition);
   cursor: pointer;
@@ -60,24 +60,24 @@
 
 .badge {
   font-family: var(--font-meta);
-  font-size: 0.6rem;
-  font-weight: 600;
+  font-size: var(--font-size-3xs);
+  font-weight: var(--fw-semibold);
   background: var(--color-accent);
-  color: #fff;
+  color: var(--color-accent-text);
   min-width: 16px;
   height: 16px;
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  border-radius: 8px;
+  border-radius: var(--radius-md);
   padding: 0 4px;
   line-height: 1;
 }
 
 .logo {
-  font-family: var(--font-sans);
-  font-size: 0.9rem;
-  font-weight: 600;
+  font-family: var(--font-body);
+  font-size: var(--font-size-base);
+  font-weight: var(--fw-semibold);
   letter-spacing: 0.15em;
   text-transform: uppercase;
   white-space: nowrap;
@@ -85,14 +85,14 @@
 
 @media (max-width: 640px) {
   .left {
-    gap: 1rem;
+    gap: var(--space-sm);
   }
 
   .navLink {
-    font-size: 0.65rem;
+    font-size: var(--font-size-2xs);
   }
 
   .logo {
-    font-size: 0.75rem;
+    font-size: var(--font-size-sm);
   }
 }

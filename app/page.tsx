@@ -20,14 +20,14 @@ export default function Home() {
 
         <section className={styles.intro}>
           <p className={styles.tagline}>
-            {Object.values(content.sections).flat().length} AI stories curated today
+            Today&apos;s AI news, without the noise. {Object.values(content.sections).flat().length} stories.
           </p>
           <Link href="/archive/" className="link-arrow">
             Archive &rarr;
           </Link>
         </section>
 
-        <SectionHeader title="Feed" />
+        <SectionHeader title="Today" />
         <FilteredFeed sections={content.sections} />
 
         <QuoteBlock quote={content.quote} />

@@ -2,6 +2,7 @@ import Link from "next/link";
 import { getLatestContent } from "@/lib/content";
 import SearchOverlay from "./SearchOverlay";
 import SavedNavLink from "./SavedNavLink";
+import ThemeToggle from "./ThemeToggle";
 import styles from "./Header.module.css";
 
 export default function Header() {
@@ -28,6 +29,7 @@ export default function Header() {
         </Link>
 
         <div className={styles.right}>
+          <ThemeToggle />
           <SearchOverlay items={allItems} />
         </div>
       </nav>

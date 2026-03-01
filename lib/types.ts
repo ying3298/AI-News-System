@@ -22,6 +22,7 @@ export interface NewsItem {
   imageUrl?: string;
   sourceImageUrl?: string;
   toolSubcategory?: "writing" | "image-gen" | "video" | "coding" | "audio" | "multimodal" | "agents" | "other";
+  people?: string[];
   normalizedTags?: string[];
   relatedStories?: RelatedStory[];
 }

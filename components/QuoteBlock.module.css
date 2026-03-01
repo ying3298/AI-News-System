@@ -8,19 +8,19 @@
 }
 
 .mark {
-  font-family: var(--font-serif);
-  font-size: 6rem;
-  font-weight: 700;
+  font-family: var(--font-display);
+  font-size: var(--font-size-quote-mark);
+  font-weight: var(--fw-bold);
   line-height: 0.5;
   color: var(--color-border);
   margin-bottom: var(--space-md);
 }
 
 .text {
-  font-family: var(--font-serif);
+  font-family: var(--font-display);
   font-size: clamp(1.1rem, 1.8vw, 1.4rem);
-  font-weight: 400;
-  line-height: 1.5;
+  font-weight: var(--fw-regular);
+  line-height: var(--lh-caption);
   max-width: 640px;
   margin: 0 auto var(--space-md);
   font-style: italic;
@@ -28,13 +28,13 @@
 
 .author {
   font-family: var(--font-meta);
-  font-size: 0.8rem;
+  font-size: var(--font-size-sm-base);
   color: var(--color-text);
 }
 
 .title {
   display: block;
-  font-size: 0.7rem;
+  font-size: var(--font-size-xs);
   color: var(--color-text-secondary);
-  margin-top: 0.25rem;
+  margin-top: var(--space-2xs);
 }

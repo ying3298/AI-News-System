@@ -36,15 +36,14 @@ export default function Footer() {
       <div className={styles.cta}>
         <div className={styles.ctaInner}>
           <div className={styles.ctaText}>
-            <h3 className={styles.ctaTitle}>Never miss a day</h3>
+            <h3 className={styles.ctaTitle}>Your morning AI briefing</h3>
             <p className={styles.ctaDesc}>
-              Bookmark this page or add it to your daily routine. New stories
-              every morning at 6 AM EST.
+              Same time, same place, every day. New stories land at 6 AM EST.
             </p>
           </div>
           <div className={styles.ctaActions}>
             <Link href="/archive/" className="link-arrow">
-              Browse archive &rarr;
+              Every edition &rarr;
             </Link>
           </div>
         </div>
@@ -55,8 +54,7 @@ export default function Footer() {
           <div className={styles.footerAbout}>
             <div className={styles.brand}>THE AI FEED</div>
             <p className={styles.tagline}>
-              A daily curated collection of the most important developments in
-              artificial intelligence.
+              The day&apos;s most important AI news, explained clearly. Updated every morning.
             </p>
           </div>
           <div className={styles.footerNav}>

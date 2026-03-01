@@ -3,8 +3,6 @@ import type { Message } from "@anthropic-ai/sdk/resources/messages";
 import type { RawFeedItem } from "./fetch-rss";
 import type { DailyContent } from "../lib/types";
 
-import { upgradeImageUrl } from "./image-config";
-
 const client = new Anthropic();
 
 const SYSTEM_PROMPT = `You are the lead writer for THE AI FEED, a daily AI news digest that reads like a smart friend catching you up on what happened. Your voice is warm, clear, and occasionally wry. You explain things by connecting them to what people already know. You have mild opinions and you're not afraid to say "this is a big deal" or "honestly, this is kind of funny." You never hedge with phrases like "it remains to be seen" or "time will tell." You never use the word "landscape." You respect the reader's time.
@@ -48,6 +46,7 @@ Given a list of raw RSS feed items about AI, you must:
    - whyItMatters: One sentence. Be specific and concrete. Name who is affected and how. No "could potentially" — just say what's at stake.
    - tags: 2-4 descriptive tags
    - readTime: estimate like "3 min"
+   - people: array of notable people mentioned in the story (CEOs, politicians, researchers, public figures). Use full names. Examples: ["Elon Musk", "Sam Altman"], ["Donald Trump"]. Use an empty array [] if no notable people are involved. This is used to generate accurate editorial illustrations featuring recognizable figures.
 
 5. Choose a real, attributed quote from a known AI figure (researcher, CEO, policymaker) that relates to today's biggest story. The quote should be thought-provoking, not generic. Never attribute a quote to a "Reporting Team" or news outlet. If you cannot find a perfect real quote, use a well-known quote about technology, progress, or decision-making from a historical figure. Always include the person's actual title.
 
@@ -58,7 +57,7 @@ Respond with ONLY valid JSON matching this exact structure (no markdown fencing)
   "headline": { "title": "...", "summary": "...", "sourceUrl": "...", "sourceName": "..." },
   "simpleSummary": ["...", "...", "..."],
   "sections": {
-    "tools": [{ "id": "AI-001", "title": "...", "summary": "...", "contentSimple": "...", "content": "...", "keyTakeaways": ["..."], "whyItMatters": "...", "sourceUrl": "...", "sourceName": "...", "tags": ["..."], "section": "tools", "toolSubcategory": "coding", "readTime": "3 min", "publishedAt": "..." }],
+    "tools": [{ "id": "AI-001", "title": "...", "summary": "...", "contentSimple": "...", "content": "...", "keyTakeaways": ["..."], "whyItMatters": "...", "sourceUrl": "...", "sourceName": "...", "tags": ["..."], "section": "tools", "toolSubcategory": "coding", "people": ["Sam Altman"], "readTime": "3 min", "publishedAt": "..." }],
     "creative": [...],
     "research": [...],
     "applications": [...],
@@ -151,22 +150,8 @@ export async function curateWithClaude(
     if (url) allSourceUrls.add(url);
   });
 
-  // Build lookup map: sourceUrl → sourceImageUrl from RSS items
-  const imageByUrl = new Map<string, string>();
-  for (const item of items) {
-    if (item.sourceImageUrl) {
-      imageByUrl.set(item.link, item.sourceImageUrl);
-    }
-  }
-
-  // Resolve sourceImageUrl for headline
-  const headlineImageUrl = imageByUrl.get(parsed.headline?.sourceUrl);
-  if (headlineImageUrl) {
-    parsed.headline.sourceImageUrl = headlineImageUrl;
-    parsed.headline.imageUrl = upgradeImageUrl(headlineImageUrl);
-  }
-
-  // Resolve sourceImageUrl for each story in sections
+  // All images are now AI-generated — no source image auto-set.
+  // The generate-images.ts script handles all image generation via Gemini.
   const sections = {
     tools: parsed.sections.tools || [],
     creative: parsed.sections.creative || [],
@@ -177,22 +162,6 @@ export async function curateWithClaude(
     concerns: parsed.sections.concerns || [],
     culture: parsed.sections.culture || [],
   };
-
-  for (const sectionItems of Object.values(sections)) {
-    for (const story of sectionItems as any[]) {
-      const srcImg = imageByUrl.get(story.sourceUrl);
-      if (srcImg) {
-        story.sourceImageUrl = srcImg;
-        // Auto-set imageUrl so images render immediately without generate-images step
-        story.imageUrl = upgradeImageUrl(srcImg);
-      }
-    }
-  }
-
-  const resolvedCount = [...Object.values(sections).flat()].filter(
-    (s: any) => s.sourceImageUrl
-  ).length;
-  console.log(`Resolved source images for ${resolvedCount} stories`);
 
   return {
     date: dateStr,

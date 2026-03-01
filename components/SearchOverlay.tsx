@@ -76,7 +76,7 @@ export default function SearchOverlay({ items }: Props) {
             ref={inputRef}
             type="text"
             className={styles.input}
-            placeholder="Search stories, tags, sources..."
+            placeholder="Search by topic, company, or keyword..."
             value={query}
             onChange={(e) => setQuery(e.target.value)}
           />
@@ -89,7 +89,7 @@ export default function SearchOverlay({ items }: Props) {
           <div className={styles.results}>
             {results.length === 0 ? (
               <div className={styles.empty}>
-                No stories matching &ldquo;{query}&rdquo;
+                Nothing matching &ldquo;{query}&rdquo; today. Try a broader term?
               </div>
             ) : (
               results.map((item) => (
@@ -113,7 +113,7 @@ export default function SearchOverlay({ items }: Props) {
 
         {query.length < 2 && (
           <div className={styles.hint}>
-            Type at least 2 characters to search across all stories
+            Search today&apos;s stories by topic, company, or keyword
           </div>
         )}
       </div>

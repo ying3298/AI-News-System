@@ -8,7 +8,7 @@ import {
   buildHeroPrompt,
   buildSummaryPrompt,
 } from "./image-prompts";
-import { IMAGE_CONFIG, upgradeImageUrl } from "./image-config";
+import { IMAGE_CONFIG } from "./image-config";
 
 const CONTENT_DIR = path.join(process.cwd(), "content");
 const IMAGES_DIR = path.join(process.cwd(), "public", "images");
@@ -149,28 +149,24 @@ async function main() {
 
   const tasks: ImageTask[] = [];
 
-  // 1. Hero image — use source image if available, otherwise generate
+  // 1. Hero image — always AI-generated
   const { section: heroSection, story: heroStory } = findHeadlineStory(content);
   const heroFilename = `${dateStr}-hero.webp`;
-  if (content.headline.sourceImageUrl) {
-    content.headline.imageUrl = upgradeImageUrl(content.headline.sourceImageUrl);
-    console.log(`Using source image for hero: ${content.headline.imageUrl}`);
-  } else {
-    tasks.push({
-      prompt: buildHeroPrompt(
-        heroSection,
-        content.headline.title,
-        heroStory?.summary || content.headline.summary,
-        heroStory?.keyTakeaways?.[0] || content.headline.summary,
-        heroStory?.whyItMatters || content.headline.summary,
-      ),
-      outputPath: path.join(dateImagesDir, heroFilename),
-      publicPath: `/images/${dateStr}/${heroFilename}`,
-      aspectRatio: IMAGE_CONFIG.hero.aspectRatio,
-      width: IMAGE_CONFIG.hero.width,
-      height: IMAGE_CONFIG.hero.height,
-    });
-  }
+  tasks.push({
+    prompt: buildHeroPrompt(
+      heroSection,
+      content.headline.title,
+      heroStory?.summary || content.headline.summary,
+      heroStory?.keyTakeaways?.[0] || content.headline.summary,
+      heroStory?.whyItMatters || content.headline.summary,
+      heroStory?.people || [],
+    ),
+    outputPath: path.join(dateImagesDir, heroFilename),
+    publicPath: `/images/${dateStr}/${heroFilename}`,
+    aspectRatio: IMAGE_CONFIG.hero.aspectRatio,
+    width: IMAGE_CONFIG.hero.width,
+    height: IMAGE_CONFIG.hero.height,
+  });
 
   // 2. Summary banner image
   const summaryFilename = `${dateStr}-summary.webp`;
@@ -183,42 +179,33 @@ async function main() {
     height: IMAGE_CONFIG.summary.height,
   });
 
-  // 3. Card images — use source image if available, otherwise generate
-  let sourceImageCount = 0;
+  // 3. Card images — all AI-generated
   for (const [section, items] of Object.entries(content.sections)) {
     for (const item of items) {
-      if (item.sourceImageUrl) {
-        // Use real source image — upgrade to high-res version
-        item.imageUrl = upgradeImageUrl(item.sourceImageUrl);
-        sourceImageCount++;
-      } else {
-        const cardFilename = `${dateStr}-${section}-${item.id}.webp`;
-        tasks.push({
-          prompt: buildCardPrompt(
-            section as SectionSlug,
-            item.title,
-            item.summary || "",
-            item.keyTakeaways?.[0] || item.summary || "",
-            item.whyItMatters || item.summary || "",
-          ),
-          outputPath: path.join(dateImagesDir, cardFilename),
-          publicPath: `/images/${dateStr}/${cardFilename}`,
-          aspectRatio: IMAGE_CONFIG.card.aspectRatio,
-          width: IMAGE_CONFIG.card.width,
-          height: IMAGE_CONFIG.card.height,
-        });
-      }
+      const cardFilename = `${dateStr}-${section}-${item.id}.webp`;
+      tasks.push({
+        prompt: buildCardPrompt(
+          section as SectionSlug,
+          item.title,
+          item.summary || "",
+          item.keyTakeaways?.[0] || item.summary || "",
+          item.whyItMatters || item.summary || "",
+          item.people || [],
+        ),
+        outputPath: path.join(dateImagesDir, cardFilename),
+        publicPath: `/images/${dateStr}/${cardFilename}`,
+        aspectRatio: IMAGE_CONFIG.card.aspectRatio,
+        width: IMAGE_CONFIG.card.width,
+        height: IMAGE_CONFIG.card.height,
+      });
     }
-  }
-  if (sourceImageCount > 0) {
-    console.log(`Using source images for ${sourceImageCount} stories (skipping AI generation)`);
   }
 
   console.log(`Generating ${tasks.length} images for ${dateStr}...`);
   const results = await processInBatches(tasks);
 
   // 4. Update content JSON with image paths for successful generations
-  let updated = sourceImageCount > 0 || !!content.headline.sourceImageUrl;
+  let updated = false;
 
   const heroPath = `/images/${dateStr}/${heroFilename}`;
   if (results.get(heroPath)) {

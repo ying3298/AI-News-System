@@ -1,5 +1,5 @@
 .subtitle {
-  font-size: 1rem;
+  font-size: var(--font-size-body);
   color: var(--color-text-secondary);
   margin-bottom: var(--space-xl);
 }
@@ -14,26 +14,26 @@
 .item {
   display: flex;
   align-items: center;
-  gap: 1.5rem;
+  gap: var(--space-md);
   padding: var(--space-md) 0;
   border-bottom: 1px solid var(--color-border);
   transition: padding-left var(--transition), background var(--transition);
 }
 
 .item:hover {
-  padding-left: 0.5rem;
+  padding-left: var(--space-xs);
 }
 
 .itemMeta {
   display: flex;
   flex-direction: column;
-  gap: 0.25rem;
+  gap: var(--space-2xs);
   min-width: 100px;
 }
 
 .date {
-  font-weight: 500;
-  font-size: 0.85rem;
+  font-weight: var(--fw-medium);
+  font-size: var(--font-size-base-sm);
   color: var(--color-text-secondary);
 }
 
@@ -41,13 +41,13 @@
   flex: 1;
   display: flex;
   flex-direction: column;
-  gap: 0.25rem;
+  gap: var(--space-2xs);
   min-width: 0;
 }
 
 .headline {
-  font-weight: 500;
-  font-size: 1rem;
+  font-weight: var(--fw-medium);
+  font-size: var(--font-size-body);
   line-height: 1.35;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -56,7 +56,7 @@
 
 .storyCount {
   font-family: var(--font-meta);
-  font-size: 0.7rem;
+  font-size: var(--font-size-xs);
   color: var(--color-text-secondary);
 }
 

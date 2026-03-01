@@ -1,6 +1,6 @@
 .wrapper {
   border: 1px solid var(--color-border);
-  border-radius: 8px;
+  border-radius: var(--radius-md);
   margin: var(--space-lg) 0;
   overflow: hidden;
 }
@@ -18,19 +18,18 @@
 
 .label {
   font-family: var(--font-meta);
-  font-size: 0.7rem;
+  font-size: var(--font-size-xs);
   text-transform: uppercase;
-  letter-spacing: 0.1em;
+  letter-spacing: var(--ls-wider);
   color: var(--color-text-secondary);
 }
 
 .count {
   font-family: var(--font-meta);
-  font-size: 0.65rem;
+  font-size: var(--font-size-2xs);
   color: var(--color-text-secondary);
 }
 
-/* Compact item rows */
 .items {
   display: flex;
   flex-direction: column;
@@ -45,16 +44,16 @@
 }
 
 .name {
-  font-family: var(--font-sans);
-  font-size: 0.85rem;
-  font-weight: 600;
+  font-family: var(--font-body);
+  font-size: var(--font-size-base-sm);
+  font-weight: var(--fw-semibold);
   color: var(--color-text);
   white-space: nowrap;
   flex-shrink: 0;
 }
 
 .note {
-  font-size: 0.8rem;
+  font-size: var(--font-size-sm-base);
   color: var(--color-text-secondary);
   line-height: 1.4;
 }
@@ -62,14 +61,14 @@
 @media (max-width: 640px) {
   .item {
     flex-direction: column;
-    gap: 0.15rem;
+    gap: var(--space-3xs);
   }
 
   .name {
-    font-size: 0.8rem;
+    font-size: var(--font-size-sm-base);
   }
 
   .note {
-    font-size: 0.75rem;
+    font-size: var(--font-size-sm);
   }
 }

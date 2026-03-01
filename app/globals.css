@@ -1,16 +1,122 @@
+/* ============================================
+   THE AI FEED — Design Token System
+   ============================================
+   Typography: Lora (display) + Nunito (body)
+   Palette: Earth tones — warm, editorial, human
+   ============================================ */
+
 :root {
-  --color-bg: #faf8f5;
-  --color-text: #1a1614;
-  --color-text-secondary: #9a918a;
-  --color-border: #e8e4df;
-  --color-surface: #f3f0eb;
-  --color-accent: #c06014;
-  --color-accent-hover: #a3510f;
+  /* ── Typography ── */
+  --font-display: 'Lora', Georgia, serif;
+  --font-body: 'Nunito', 'Helvetica Neue', Arial, sans-serif;
+  --font-meta: 'Nunito', system-ui, sans-serif;
 
-  --font-serif: "Fraunces", "Georgia", serif;
-  --font-sans: "Space Grotesk", system-ui, -apple-system, sans-serif;
-  --font-meta: "Space Grotesk", system-ui, sans-serif;
+  /* Legacy aliases (safe to grep and remove later) */
+  --font-serif: var(--font-display);
+  --font-sans: var(--font-body);
 
+  /* ── Type Scale ── */
+  --text-h1: 3.125rem;       /* 50px */
+  --text-h2: 2.375rem;       /* 38px */
+  --text-h3: 1.75rem;        /* 28px */
+  --text-h4: 1.375rem;       /* 22px */
+  --text-h5: 1.125rem;       /* 18px */
+  --text-h6: 0.9375rem;      /* 15px */
+  --text-body: 1.0625rem;    /* 17px */
+  --text-body-sm: 0.9375rem; /* 15px */
+  --text-caption: 0.8125rem; /* 13px */
+
+  /* Semantic size aliases */
+  --font-size-3xs: 0.6rem;
+  --font-size-2xs: 0.65rem;
+  --font-size-xs: 0.7rem;
+  --font-size-sm: 0.75rem;
+  --font-size-sm-base: 0.8rem;
+  --font-size-base-sm: 0.85rem;
+  --font-size-base: 0.9rem;
+  --font-size-body: 1rem;
+  --font-size-md: 1.1rem;
+  --font-size-lg: 1.25rem;
+  --font-size-xl: 1.5rem;
+  --font-size-section-label: 1.35rem;
+  --font-size-quote-mark: 6rem;
+
+  /* ── Line Heights ── */
+  --lh-h1: 1.15;
+  --lh-h2: 1.2;
+  --lh-h3: 1.28;
+  --lh-h4: 1.32;
+  --lh-h5: 1.4;
+  --lh-h6: 1.45;
+  --lh-body: 1.7;
+  --lh-body-sm: 1.6;
+  --lh-caption: 1.5;
+
+  /* ── Letter Spacing ── */
+  --ls-tight: -0.02em;
+  --ls-snug: -0.01em;
+  --ls-normal: 0em;
+  --ls-wide: 0.05em;
+  --ls-wider: 0.1em;
+
+  /* ── Font Weights ── */
+  --fw-regular: 400;
+  --fw-medium: 500;
+  --fw-semibold: 600;
+  --fw-bold: 700;
+
+  /* ── Surface tokens ── */
+  --color-bg: #FAF6F1;
+  --color-surface: #F0EAE0;
+  --color-surface-raised: #FFFFFF;
+  --color-surface-sunken: #F0EAE0;
+  --color-surface-overlay: #FFFFFF;
+
+  /* ── Text tokens ── */
+  --color-text: #2C2418;
+  --color-text-secondary: #5C5043;
+  --color-text-tertiary: #8A7E72;
+  --color-text-inverse: #FAF6F1;
+  --color-text-link: #A0522D;
+
+  /* ── Accent / Brand ── */
+  --color-accent: #C25B28;
+  --color-accent-hover: #A84B1F;
+  --color-accent-subtle: #FAEEE6;
+  --color-accent-text: #FFFFFF;
+  --color-white: #FFFFFF;
+
+  /* ── Status ── */
+  --color-success: #5A7A3A;
+  --color-warning: #C4882B;
+  --color-error: #B5382A;
+  --color-info: #4A7C8F;
+
+  /* ── Borders ── */
+  --color-border: #D9D0C5;
+  --color-border-subtle: #EBE5DC;
+  --color-border-strong: #B0A496;
+
+  /* ── Category colors ── */
+  --color-category-tools: #B87333;
+  --color-category-creative: #C46A8A;
+  --color-category-research: #4A7C8F;
+  --color-category-applications: #7A6C3C;
+  --color-category-business: #6B7F5E;
+  --color-category-policy: #7B6B8A;
+  --color-category-concerns: #B5382A;
+  --color-category-culture: #C4882B;
+
+  /* ── Overlays ── */
+  --color-overlay-bg: rgba(0, 0, 0, 0.4);
+  --color-header-bg: rgba(250, 246, 241, 0.92);
+
+  /* ── Shadows ── */
+  --shadow-modal: 0 16px 48px rgba(44, 36, 24, 0.15);
+
+  /* ── Spacing ── */
+  --space-3xs: 0.15rem;
+  --space-2xs: 0.25rem;
   --space-xs: 0.5rem;
   --space-sm: 1rem;
   --space-md: 1.5rem;
@@ -18,9 +124,35 @@
   --space-xl: 5rem;
   --space-2xl: 6rem;
 
+  /* ── Border Radius ── */
+  --radius-xs: 3px;
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-pill: 100px;
+
+  /* ── Z-Index ── */
+  --z-header: 100;
+  --z-overlay: 200;
+
+  /* ── Blur ── */
+  --blur-header: blur(12px);
+  --blur-overlay: blur(4px);
+
+  /* ── Layout ── */
   --page-padding: max(2rem, 5vw);
   --max-width: 1400px;
   --transition: 0.2s ease-in-out;
+}
+
+/* ── Responsive type scale ── */
+@media (max-width: 1024px) {
+  :root {
+    --text-h1: 2.5rem;
+    --text-h2: 2rem;
+    --text-h3: 1.5rem;
+    --text-h4: 1.25rem;
+  }
 }
 
 @media (max-width: 820px) {
@@ -29,6 +161,105 @@
   }
 }
 
+@media (max-width: 640px) {
+  :root {
+    --text-h1: 2.125rem;
+    --text-h2: 1.625rem;
+    --text-h3: 1.3125rem;
+    --text-h4: 1.125rem;
+    --text-h5: 1rem;
+    --text-body: 1rem;
+    --text-body-sm: 0.875rem;
+    --text-caption: 0.75rem;
+  }
+}
+
+/* ── Dark mode ── */
+[data-theme="dark"] {
+  --color-bg: #1C1714;
+  --color-surface: #2A231E;
+  --color-surface-raised: #2A231E;
+  --color-surface-sunken: #141010;
+  --color-surface-overlay: #332B25;
+
+  --color-text: #EDE6DC;
+  --color-text-secondary: #B8AEA0;
+  --color-text-tertiary: #8A7E72;
+  --color-text-inverse: #1C1714;
+  --color-text-link: #E8935A;
+
+  --color-accent: #D9774A;
+  --color-accent-hover: #E8935A;
+  --color-accent-subtle: #2E2018;
+  --color-accent-text: #1C1714;
+
+  --color-success: #7FA856;
+  --color-warning: #DBAA4E;
+  --color-error: #D95A4A;
+  --color-info: #6AACBF;
+
+  --color-border: #3D3530;
+  --color-border-subtle: #2E2722;
+  --color-border-strong: #5C5048;
+
+  --color-category-tools: #D4944E;
+  --color-category-creative: #DA8BA5;
+  --color-category-research: #6AACBF;
+  --color-category-applications: #A89A5E;
+  --color-category-business: #8FA87A;
+  --color-category-policy: #A08DAE;
+  --color-category-concerns: #D96A5E;
+  --color-category-culture: #DBAA4E;
+
+  --color-overlay-bg: rgba(0, 0, 0, 0.6);
+  --color-header-bg: rgba(28, 23, 20, 0.92);
+  --shadow-modal: 0 16px 48px rgba(0, 0, 0, 0.3);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --color-bg: #1C1714;
+    --color-surface: #2A231E;
+    --color-surface-raised: #2A231E;
+    --color-surface-sunken: #141010;
+    --color-surface-overlay: #332B25;
+
+    --color-text: #EDE6DC;
+    --color-text-secondary: #B8AEA0;
+    --color-text-tertiary: #8A7E72;
+    --color-text-inverse: #1C1714;
+    --color-text-link: #E8935A;
+
+    --color-accent: #D9774A;
+    --color-accent-hover: #E8935A;
+    --color-accent-subtle: #2E2018;
+    --color-accent-text: #1C1714;
+
+    --color-success: #7FA856;
+    --color-warning: #DBAA4E;
+    --color-error: #D95A4A;
+    --color-info: #6AACBF;
+
+    --color-border: #3D3530;
+    --color-border-subtle: #2E2722;
+    --color-border-strong: #5C5048;
+
+    --color-category-tools: #D4944E;
+    --color-category-creative: #DA8BA5;
+    --color-category-research: #6AACBF;
+    --color-category-applications: #A89A5E;
+    --color-category-business: #8FA87A;
+    --color-category-policy: #A08DAE;
+    --color-category-concerns: #D96A5E;
+    --color-category-culture: #DBAA4E;
+
+    --color-overlay-bg: rgba(0, 0, 0, 0.6);
+    --color-header-bg: rgba(28, 23, 20, 0.92);
+    --shadow-modal: 0 16px 48px rgba(0, 0, 0, 0.3);
+  }
+}
+
+/* ── Base Reset ── */
 * {
   margin: 0;
   padding: 0;
@@ -42,10 +273,10 @@ html {
 }
 
 body {
-  font-family: var(--font-sans);
+  font-family: var(--font-body);
   color: var(--color-text);
   background: var(--color-bg);
-  line-height: 1.6;
+  line-height: var(--lh-body);
 }
 
 a {
@@ -62,11 +293,11 @@ a {
 
 /* Massive section headers — editorial serif for warmth */
 .section-title {
-  font-family: var(--font-serif);
+  font-family: var(--font-display);
   font-size: clamp(48px, 10vw, 140px);
-  font-weight: 700;
+  font-weight: var(--fw-bold);
   text-transform: uppercase;
-  letter-spacing: -0.02em;
+  letter-spacing: var(--ls-tight);
   line-height: 1;
   margin-bottom: var(--space-lg);
 }
@@ -75,10 +306,10 @@ a {
 .tag-pill {
   display: inline-block;
   font-family: var(--font-meta);
-  font-size: 0.7rem;
-  padding: 0.25rem 0.75rem;
+  font-size: var(--font-size-xs);
+  padding: var(--space-2xs) 0.75rem;
   border: 1px solid var(--color-border);
-  border-radius: 100px;
+  border-radius: var(--radius-pill);
   color: var(--color-text-secondary);
   transition: color var(--transition), border-color var(--transition), background var(--transition);
   white-space: nowrap;
@@ -98,33 +329,33 @@ button.tag-pill {
 .tag-pill--followed {
   background: var(--color-accent);
   border-color: var(--color-accent);
-  color: #fff;
+  color: var(--color-accent-text);
 }
 
 .tag-pill--followed:hover {
   background: var(--color-accent-hover);
   border-color: var(--color-accent-hover);
-  color: #fff;
+  color: var(--color-accent-text);
 }
 
 /* Story ID badge */
 .story-id {
   font-family: var(--font-meta);
-  font-size: 0.75rem;
+  font-size: var(--font-size-sm);
   color: var(--color-text-secondary);
-  letter-spacing: 0.05em;
+  letter-spacing: var(--ls-wide);
 }
 
 /* Link arrow button */
 .link-arrow {
   display: inline-flex;
   align-items: center;
-  gap: 0.5rem;
+  gap: var(--space-xs);
   font-family: var(--font-meta);
-  font-size: 0.85rem;
-  padding: 0.5rem 1.25rem;
+  font-size: var(--font-size-base-sm);
+  padding: var(--space-xs) 1.25rem;
   border: 1px solid var(--color-border);
-  border-radius: 100px;
+  border-radius: var(--radius-pill);
   transition: all var(--transition);
   cursor: pointer;
   background: transparent;

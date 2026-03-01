@@ -10,17 +10,17 @@
 }
 
 .monthYear {
-  font-weight: 600;
-  font-size: 1.1rem;
+  font-weight: var(--fw-semibold);
+  font-size: var(--font-size-md);
 }
 
 .navBtn {
   background: none;
   border: 1px solid var(--color-border);
-  border-radius: 4px;
-  padding: 0.35rem 0.75rem;
+  border-radius: var(--radius-sm);
+  padding: var(--space-2xs) 0.75rem;
   font-family: var(--font-meta);
-  font-size: 0.9rem;
+  font-size: var(--font-size-base);
   cursor: pointer;
   color: var(--color-text);
   transition: all var(--transition);
@@ -40,12 +40,12 @@
 
 .dayLabel {
   font-family: var(--font-meta);
-  font-size: 0.7rem;
+  font-size: var(--font-size-xs);
   color: var(--color-text-secondary);
   text-align: center;
-  padding: 0.5rem 0;
+  padding: var(--space-xs) 0;
   text-transform: uppercase;
-  letter-spacing: 0.05em;
+  letter-spacing: var(--ls-wide);
 }
 
 .empty {
@@ -57,8 +57,8 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 0.85rem;
-  border-radius: 4px;
+  font-size: var(--font-size-base-sm);
+  border-radius: var(--radius-sm);
   color: var(--color-text-secondary);
   transition: all var(--transition);
 }
@@ -66,7 +66,7 @@
 .hasContent {
   background: var(--color-text);
   color: var(--color-bg);
-  font-weight: 600;
+  font-weight: var(--fw-semibold);
   cursor: pointer;
 }
 
@@ -82,7 +82,7 @@
 
 .hint {
   font-family: var(--font-meta);
-  font-size: 0.75rem;
+  font-size: var(--font-size-sm);
   color: var(--color-text-secondary);
   margin-top: var(--space-md);
 }

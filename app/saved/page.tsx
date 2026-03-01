@@ -59,16 +59,16 @@ function groupStories(
   return buckets.filter((b) => b.stories.length > 0);
 }
 
-/** Section-colored dot */
+/** Section-colored dot — uses CSS custom properties from globals.css */
 const SECTION_COLORS: Record<string, string> = {
-  tools: "#2b6cb0",
-  creative: "#c026d3",
-  research: "#6b46a3",
-  applications: "#0d9488",
-  business: "#2d7a4f",
-  policy: "#b8860b",
-  concerns: "#b53d2e",
-  culture: "#7c3aed",
+  tools: "var(--color-category-tools)",
+  creative: "var(--color-category-creative)",
+  research: "var(--color-category-research)",
+  applications: "var(--color-category-applications)",
+  business: "var(--color-category-business)",
+  policy: "var(--color-category-policy)",
+  concerns: "var(--color-category-concerns)",
+  culture: "var(--color-category-culture)",
 };
 
 export default function SavedPage() {
@@ -118,12 +118,12 @@ export default function SavedPage() {
         /* ---- SAVED STORIES TAB ---- */
         saved.length === 0 ? (
           <div className={styles.emptyState}>
-            <p className={styles.empty}>No saved stories yet.</p>
+            <p className={styles.empty}>Your library is empty.</p>
             <p className={styles.emptyHint}>
-              Tap the bookmark icon on any story to save it for later.
+              Bookmark stories from the feed to build your reading list.
             </p>
             <Link href="/" className="link-arrow" style={{ marginTop: "var(--space-md)", display: "inline-flex" }}>
-              Browse the feed &rarr;
+              Today&apos;s stories &rarr;
             </Link>
           </div>
         ) : (
@@ -217,12 +217,12 @@ export default function SavedPage() {
         /* ---- FOLLOWED TOPICS TAB ---- */
         followed.length === 0 ? (
           <div className={styles.emptyState}>
-            <p className={styles.empty}>No followed topics yet.</p>
+            <p className={styles.empty}>No topics followed yet.</p>
             <p className={styles.emptyHint}>
-              Tap any tag on a story to follow that topic. Followed stories get highlighted in the feed.
+              Tap a tag on any story to follow it &mdash; matching stories will be highlighted in your feed.
             </p>
             <Link href="/" className="link-arrow" style={{ marginTop: "var(--space-md)", display: "inline-flex" }}>
-              Browse the feed &rarr;
+              Today&apos;s stories &rarr;
             </Link>
           </div>
         ) : (

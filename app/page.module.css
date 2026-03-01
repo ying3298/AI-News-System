@@ -8,13 +8,13 @@
 
 .tagline {
   font-family: var(--font-meta);
-  font-size: 1rem;
-  font-weight: 400;
+  font-size: var(--font-size-body);
+  font-weight: var(--fw-regular);
   color: var(--color-text-secondary);
   line-height: 1.4;
 }
 
-/* Category navigation — above the feed for instant discovery */
+/* Category navigation */
 .categoryNav {
   padding: var(--space-md) 0 var(--space-lg);
   border-bottom: 1px solid var(--color-border);
@@ -24,28 +24,28 @@
 .categoryLabel {
   display: block;
   font-family: var(--font-meta);
-  font-size: 0.7rem;
+  font-size: var(--font-size-xs);
   text-transform: uppercase;
-  letter-spacing: 0.1em;
+  letter-spacing: var(--ls-wider);
   color: var(--color-text-secondary);
   margin-bottom: var(--space-sm);
 }
 
 .categoryPills {
   display: flex;
-  gap: 0.5rem;
+  gap: var(--space-xs);
   flex-wrap: wrap;
 }
 
 .categoryPill {
   display: inline-flex;
   align-items: center;
-  gap: 0.5rem;
+  gap: var(--space-xs);
   font-family: var(--font-meta);
-  font-size: 0.75rem;
-  padding: 0.4rem 1rem;
+  font-size: var(--font-size-sm);
+  padding: var(--space-2xs) var(--space-sm);
   border: 1px solid var(--color-border);
-  border-radius: 100px;
+  border-radius: var(--radius-pill);
   color: var(--color-text);
   transition: all var(--transition);
   white-space: nowrap;
@@ -63,10 +63,10 @@
   justify-content: center;
   background: var(--color-surface);
   color: var(--color-text-secondary);
-  font-size: 0.65rem;
+  font-size: var(--font-size-2xs);
   min-width: 1.25rem;
   height: 1.25rem;
-  border-radius: 100px;
+  border-radius: var(--radius-pill);
   transition: all var(--transition);
 }
 
@@ -75,7 +75,7 @@
   color: var(--color-bg);
 }
 
-/* Sectioned feed — each category gets its own block */
+/* Sectioned feed */
 .feedSection {
   margin-bottom: var(--space-xl);
 }
@@ -90,15 +90,15 @@
 }
 
 .feedSectionTitle {
-  font-family: var(--font-sans);
-  font-size: 1.25rem;
-  font-weight: 600;
-  letter-spacing: -0.01em;
+  font-family: var(--font-body);
+  font-size: var(--font-size-lg);
+  font-weight: var(--fw-semibold);
+  letter-spacing: var(--ls-snug);
 }
 
 .feedSectionLink {
   font-family: var(--font-meta);
-  font-size: 0.7rem;
+  font-size: var(--font-size-xs);
   color: var(--color-text-secondary);
   transition: color var(--transition);
   white-space: nowrap;
@@ -116,11 +116,11 @@
   }
 
   .categoryPills {
-    gap: 0.4rem;
+    gap: var(--space-2xs);
   }
 
   .categoryPill {
-    font-size: 0.65rem;
-    padding: 0.35rem 0.75rem;
+    font-size: var(--font-size-2xs);
+    padding: var(--space-2xs) 0.75rem;
   }
 }

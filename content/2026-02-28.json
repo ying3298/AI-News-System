@@ -67,7 +67,15 @@
         "section": "tools",
         "readTime": "2 min",
         "publishedAt": "2026-02-28",
-        "imageUrl": "/images/2026-02-28/2026-02-28-tools-AI-002.webp"
+        "imageUrl": "/images/2026-02-28/2026-02-28-tools-AI-002.webp",
+        "relatedStories": [
+          {
+            "id": "AI-006",
+            "date": "2026-03-01",
+            "title": "Anthropic's Claude Hits No. 1 App Store Position After Pentagon Rejection",
+            "section": "business"
+          }
+        ]
       }
     ],
     "research": [
@@ -179,6 +187,12 @@
             "date": "2026-03-01",
             "title": "OpenAI's Pentagon Deal Exposed: 'Definitely Rushed' and 'Optics Don't Look Good,' Says Sam Altman",
             "section": "policy"
+          },
+          {
+            "id": "AI-007",
+            "date": "2026-03-01",
+            "title": "OpenAI Acknowledges Pentagon Deal Was 'Rushed' as Details Surface",
+            "section": "business"
           }
         ]
       },
@@ -257,7 +271,15 @@
         "section": "policy",
         "readTime": "4 min",
         "publishedAt": "2026-02-27",
-        "imageUrl": "/images/2026-02-28/2026-02-28-policy-AI-008.webp"
+        "imageUrl": "/images/2026-02-28/2026-02-28-policy-AI-008.webp",
+        "relatedStories": [
+          {
+            "id": "AI-011",
+            "date": "2026-03-01",
+            "title": "Anthropic Faces Its Own Trap: Promised Self-Governance Without Legal Teeth",
+            "section": "concerns"
+          }
+        ]
       },
       {
         "id": "AI-009",
