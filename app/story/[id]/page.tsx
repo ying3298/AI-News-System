@@ -1,6 +1,7 @@
 import { getAllStoryIds, getStoryById } from "@/lib/content";
 import { SECTION_META, type SectionSlug } from "@/lib/types";
 import TagPill from "@/components/TagPill";
+import StorySaveButton from "@/components/StorySaveButton";
 import Link from "next/link";
 import styles from "./story.module.css";
 
@@ -51,6 +52,19 @@ export default async function StoryPage({ params }: Props) {
               <span className={styles.metaText}>{item.readTime} read</span>
             </>
           )}
+          <span className={styles.separator}>/</span>
+          <StorySaveButton
+            story={{
+              id: item.id,
+              title: item.title,
+              summary: item.summary,
+              section: item.section,
+              sourceName: item.sourceName,
+              sourceUrl: item.sourceUrl,
+              imageUrl: item.imageUrl,
+              savedAt: "",
+            }}
+          />
         </div>
 
         <h1 className={styles.title}>{item.title}</h1>

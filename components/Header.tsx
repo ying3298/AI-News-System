@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { getLatestContent } from "@/lib/content";
 import SearchOverlay from "./SearchOverlay";
+import SavedNavLink from "./SavedNavLink";
 import styles from "./Header.module.css";
 
 export default function Header() {
@@ -19,6 +20,7 @@ export default function Header() {
             <span className={styles.dot} />
             ARCHIVE
           </Link>
+          <SavedNavLink />
         </div>
 
         <Link href="/" className={styles.logo}>

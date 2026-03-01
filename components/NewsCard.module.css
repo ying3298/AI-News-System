@@ -55,6 +55,12 @@
   justify-content: space-between;
 }
 
+.topRight {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
 .source {
   display: inline-flex;
   align-items: center;

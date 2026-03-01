@@ -58,6 +58,22 @@
   border-radius: 50%;
 }
 
+.badge {
+  font-family: var(--font-meta);
+  font-size: 0.6rem;
+  font-weight: 600;
+  background: var(--color-accent);
+  color: #fff;
+  min-width: 16px;
+  height: 16px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+  padding: 0 4px;
+  line-height: 1;
+}
+
 .logo {
   font-family: var(--font-sans);
   font-size: 0.9rem;
