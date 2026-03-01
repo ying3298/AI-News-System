@@ -21,9 +21,21 @@ export interface NewsItem {
   publishedAt: string;
   imageUrl?: string;
   sourceImageUrl?: string;
+  toolSubcategory?: "writing" | "image-gen" | "video" | "coding" | "audio" | "multimodal" | "agents" | "other";
   normalizedTags?: string[];
   relatedStories?: RelatedStory[];
 }
+
+export const TOOL_SUB_LABELS: Record<string, string> = {
+  "writing": "Writing",
+  "image-gen": "Image Gen",
+  "video": "Video",
+  "coding": "Coding",
+  "audio": "Audio",
+  "multimodal": "Multimodal",
+  "agents": "Agents",
+  "other": "Tools",
+};
 
 export interface DailyContent {
   date: string;
@@ -66,7 +78,7 @@ export type SectionSlug = keyof DailyContent["sections"];
 
 export const SECTION_META: Record<SectionSlug, { label: string; emoji: string }> = {
   tools: { label: "Tools & Products", emoji: "tools" },
-  creative: { label: "Creative AI", emoji: "creative" },
+  creative: { label: "Creative Breakthroughs", emoji: "creative" },
   research: { label: "Research", emoji: "research" },
   applications: { label: "AI in the Wild", emoji: "applications" },
   business: { label: "Industry & Business", emoji: "business" },

@@ -24,7 +24,11 @@
         "whyItMatters": "This represents a significant leap from autocomplete-style AI coding assistance to truly autonomous software engineering. If the success rates hold up in production, it could fundamentally change how developers approach large-scale code changes and reduce the barrier to major refactoring efforts.",
         "sourceUrl": "https://cursor.com/blog/3.0",
         "sourceName": "Cursor Blog",
-        "tags": ["Developer Tools", "Code Generation", "2026"],
+        "tags": [
+          "Developer Tools",
+          "Code Generation",
+          "2026"
+        ],
         "section": "tools",
         "readTime": "4 min",
         "publishedAt": "2026-02-26T08:00:00Z"
@@ -43,7 +47,11 @@
         "whyItMatters": "By embedding AI video generation directly into the tools professionals already use — and guaranteeing commercial safety — Adobe is positioning itself to own the professional AI creative market. This could accelerate adoption among enterprise creative teams who have been cautious about standalone AI tools.",
         "sourceUrl": "https://news.adobe.com/firefly-video",
         "sourceName": "Adobe Newsroom",
-        "tags": ["Creative Tools", "Video", "Adobe"],
+        "tags": [
+          "Creative Tools",
+          "Video",
+          "Adobe"
+        ],
         "section": "tools",
         "readTime": "4 min",
         "publishedAt": "2026-02-26T09:30:00Z"
@@ -62,7 +70,10 @@
         "whyItMatters": "As organizations accumulate more and more documents, the problem of finding the right context becomes critical. Notion's approach — automatically building a semantic map without manual tagging — could set a new standard for how knowledge management tools surface institutional knowledge.",
         "sourceUrl": "https://notion.so/blog/knowledge-graph",
         "sourceName": "Notion Blog",
-        "tags": ["Productivity", "Knowledge Management"],
+        "tags": [
+          "Productivity",
+          "Knowledge Management"
+        ],
         "section": "tools",
         "readTime": "4 min",
         "publishedAt": "2026-02-26T10:00:00Z"
@@ -81,7 +92,11 @@
         "whyItMatters": "This product could displace a significant portion of the work done by junior analysts and research associates across consulting, finance, and corporate strategy. The integration with proprietary data sources is the critical differentiator that makes this enterprise-ready rather than just a consumer search tool.",
         "sourceUrl": "https://perplexity.ai/enterprise",
         "sourceName": "Perplexity",
-        "tags": ["Search", "Enterprise", "Research"],
+        "tags": [
+          "Search",
+          "Enterprise",
+          "Research"
+        ],
         "section": "tools",
         "readTime": "4 min",
         "publishedAt": "2026-02-26T07:00:00Z"
@@ -102,7 +117,11 @@
         "whyItMatters": "If these results replicate at scale, DSM could democratize frontier model training. Today, only a handful of companies can afford to train state-of-the-art models. A 10x reduction in compute costs would open the field to universities, smaller companies, and research labs worldwide.",
         "sourceUrl": "https://arxiv.org/abs/2026.01234",
         "sourceName": "ArXiv",
-        "tags": ["Training", "Efficiency", "Stanford"],
+        "tags": [
+          "Training",
+          "Efficiency",
+          "Stanford"
+        ],
         "section": "research",
         "readTime": "5 min",
         "publishedAt": "2026-02-26T06:00:00Z"
@@ -121,7 +140,11 @@
         "whyItMatters": "AI alignment remains one of the field's most important unsolved problems. The shift from static rules to dynamic debate could make AI systems more adaptable and culturally aware, while the transparency features address a critical trust gap between AI systems and the humans who rely on them.",
         "sourceUrl": "https://arxiv.org/abs/2026.05678",
         "sourceName": "ArXiv",
-        "tags": ["Alignment", "Safety", "MIT"],
+        "tags": [
+          "Alignment",
+          "Safety",
+          "MIT"
+        ],
         "section": "research",
         "readTime": "5 min",
         "publishedAt": "2026-02-26T06:30:00Z"
@@ -140,7 +163,11 @@
         "whyItMatters": "This release compresses the gap between open-source and proprietary AI models to near-zero on standard benchmarks. If companies can self-host a GPT-5-class model without API costs or data privacy concerns, it could fundamentally reshape the economics of AI deployment and reduce dependence on US-based AI providers.",
         "sourceUrl": "https://github.com/deepseek-ai/deepseek-v4",
         "sourceName": "GitHub",
-        "tags": ["Open Source", "LLM", "DeepSeek"],
+        "tags": [
+          "Open Source",
+          "LLM",
+          "DeepSeek"
+        ],
         "section": "research",
         "readTime": "5 min",
         "publishedAt": "2026-02-26T04:00:00Z"
@@ -161,7 +188,11 @@
         "whyItMatters": "NVIDIA's continued dominance in AI chips means the company effectively controls the pace of AI infrastructure buildout. The Blackwell Ultra announcement and AI Foundry service signal that NVIDIA is defending its moat on multiple fronts — both through better hardware and by moving up the stack into custom design services.",
         "sourceUrl": "https://nvidianews.nvidia.com/earnings",
         "sourceName": "NVIDIA Newsroom",
-        "tags": ["NVIDIA", "Earnings", "Hardware"],
+        "tags": [
+          "NVIDIA",
+          "Earnings",
+          "Hardware"
+        ],
         "section": "business",
         "readTime": "5 min",
         "publishedAt": "2026-02-26T21:00:00Z"
@@ -180,7 +211,11 @@
         "whyItMatters": "Anthropic's funding trajectory reflects the massive capital requirements of the AI arms race. The participation of sovereign wealth funds signals that AI capability is increasingly viewed as a matter of national strategic interest, not just a technology investment.",
         "sourceUrl": "https://techcrunch.com/anthropic-series-e",
         "sourceName": "TechCrunch",
-        "tags": ["Funding", "Anthropic", "Venture Capital"],
+        "tags": [
+          "Funding",
+          "Anthropic",
+          "Venture Capital"
+        ],
         "section": "business",
         "readTime": "4 min",
         "publishedAt": "2026-02-26T14:00:00Z"
@@ -199,7 +234,11 @@
         "whyItMatters": "This acquisition could be the key to Apple delivering genuinely useful AI features that don't compromise user privacy. If LightLM's compression techniques work at scale, Apple could offer AI capabilities comparable to cloud-based services while keeping all processing on-device — a massive competitive advantage.",
         "sourceUrl": "https://www.theverge.com/apple-ai-acquisition",
         "sourceName": "The Verge",
-        "tags": ["Apple", "Acquisition", "On-Device AI"],
+        "tags": [
+          "Apple",
+          "Acquisition",
+          "On-Device AI"
+        ],
         "section": "business",
         "readTime": "4 min",
         "publishedAt": "2026-02-26T16:00:00Z"
@@ -220,7 +259,11 @@
         "whyItMatters": "This is the moment the EU AI Act becomes real. How aggressively regulators enforce — and how companies respond — will set the global precedent for AI regulation. The focus on employment and credit scoring is strategically smart, targeting areas where algorithmic harm is well-documented and public sympathy for regulation is highest.",
         "sourceUrl": "https://www.reuters.com/eu-ai-act-enforcement",
         "sourceName": "Reuters",
-        "tags": ["EU", "Regulation", "Compliance"],
+        "tags": [
+          "EU",
+          "Regulation",
+          "Compliance"
+        ],
         "section": "policy",
         "readTime": "4 min",
         "publishedAt": "2026-02-26T12:00:00Z"
@@ -239,7 +282,11 @@
         "whyItMatters": "The US has lagged behind the EU on AI regulation. This bill, with its rare bipartisan support and industry backing, has a genuine chance of becoming law. The compute-threshold approach is clever but controversial — it creates a clear, measurable standard while raising questions about whether compute alone is the right proxy for risk.",
         "sourceUrl": "https://www.reuters.com/us-ai-licensing",
         "sourceName": "Reuters",
-        "tags": ["US Policy", "Legislation", "Licensing"],
+        "tags": [
+          "US Policy",
+          "Legislation",
+          "Licensing"
+        ],
         "section": "policy",
         "readTime": "5 min",
         "publishedAt": "2026-02-26T15:00:00Z"
@@ -260,7 +307,11 @@
         "whyItMatters": "The detection arms race is effectively over — and detection lost. This study suggests the information ecosystem needs a fundamental shift toward provenance and verification systems rather than attempting to distinguish human from machine writing. The implications for elections, public health, and social cohesion are profound.",
         "sourceUrl": "https://cset.georgetown.edu/misinformation-study",
         "sourceName": "Georgetown CSET",
-        "tags": ["Misinformation", "Detection", "Study"],
+        "tags": [
+          "Misinformation",
+          "Detection",
+          "Study"
+        ],
         "section": "concerns",
         "readTime": "5 min",
         "publishedAt": "2026-02-26T11:00:00Z"
@@ -279,7 +330,11 @@
         "whyItMatters": "This is likely the most consequential legal case for the AI industry. The ruling will determine whether AI companies can continue training on the open internet or must negotiate licensing deals for copyrighted content. Either outcome will fundamentally reshape the economics and development of AI systems.",
         "sourceUrl": "https://www.nytimes.com/ai-copyright-scotus",
         "sourceName": "New York Times",
-        "tags": ["Copyright", "Legal", "Training Data"],
+        "tags": [
+          "Copyright",
+          "Legal",
+          "Training Data"
+        ],
         "section": "concerns",
         "readTime": "5 min",
         "publishedAt": "2026-02-26T13:00:00Z"
@@ -298,10 +353,22 @@
         "whyItMatters": "This report reframes the AI employment discussion from 'will jobs disappear?' to 'how fast will jobs change?' The 30% task automation figure is striking but the 5-7% full displacement number provides important nuance. The real danger is not mass unemployment but a widening skills gap that leaves the most vulnerable workers behind.",
         "sourceUrl": "https://www.mckinsey.com/ai-workforce-2028",
         "sourceName": "McKinsey",
-        "tags": ["Employment", "Automation", "Workforce"],
+        "tags": [
+          "Employment",
+          "Automation",
+          "Workforce"
+        ],
         "section": "concerns",
         "readTime": "5 min",
-        "publishedAt": "2026-02-26T10:00:00Z"
+        "publishedAt": "2026-02-26T10:00:00Z",
+        "relatedStories": [
+          {
+            "id": "AI-005",
+            "date": "2026-03-01",
+            "title": "Cleveland Plain Dealer boosts traffic with AI news writer, unnerves human staff",
+            "section": "applications"
+          }
+        ]
       }
     ]
   },

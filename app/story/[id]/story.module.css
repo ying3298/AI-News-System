@@ -5,7 +5,7 @@
 
 .heroBanner {
   margin-bottom: var(--space-lg);
-  border-radius: 4px;
+  border-radius: var(--radius-sm);
   overflow: hidden;
 }
 
@@ -20,41 +20,54 @@
 .meta {
   display: flex;
   align-items: center;
-  gap: 0.5rem;
+  gap: var(--space-xs);
   flex-wrap: wrap;
   margin-bottom: var(--space-md);
 }
 
 .separator {
   color: var(--color-border);
-  font-size: 0.8rem;
+  font-size: var(--font-size-sm-base);
 }
 
 .metaText {
   font-family: var(--font-meta);
-  font-size: 0.75rem;
+  font-size: var(--font-size-sm);
   color: var(--color-text-secondary);
 }
 
+.subLabel {
+  font-family: var(--font-meta);
+  font-size: 0.65rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--color-category-tools);
+  background: color-mix(in srgb, var(--color-category-tools) 12%, transparent);
+  padding: 0.15rem 0.5rem;
+  border-radius: 3px;
+  white-space: nowrap;
+}
+
 .title {
-  font-family: var(--font-serif);
+  font-family: var(--font-display);
   font-size: clamp(1.5rem, 4vw, 2.25rem);
-  font-weight: 700;
-  line-height: 1.2;
-  letter-spacing: -0.01em;
+  font-weight: var(--fw-bold);
+  line-height: var(--lh-h2);
+  letter-spacing: var(--ls-snug);
   margin-bottom: var(--space-md);
 }
 
 .summary {
   font-size: 1.05rem;
-  line-height: 1.7;
+  line-height: var(--lh-body);
   color: var(--color-text-secondary);
   margin-bottom: var(--space-xl);
 }
 
 .contentBody {
   font-size: 0.95rem;
-  line-height: 1.7;
+  line-height: var(--lh-body);
   margin-bottom: var(--space-xl);
 }
 
@@ -63,10 +76,10 @@
 }
 
 .subheading {
-  font-size: 0.85rem;
-  font-weight: 600;
+  font-size: var(--font-size-base-sm);
+  font-weight: var(--fw-semibold);
   text-transform: uppercase;
-  letter-spacing: 0.05em;
+  letter-spacing: var(--ls-wide);
   margin-bottom: var(--space-sm);
 }
 
@@ -81,7 +94,7 @@
   position: relative;
   padding-left: 1.25rem;
   font-size: 0.95rem;
-  line-height: 1.6;
+  line-height: var(--lh-body-sm);
 }
 
 .takeawayList li::before {
@@ -99,18 +112,18 @@
   margin-bottom: var(--space-xl);
   padding: var(--space-md);
   background: var(--color-surface);
-  border-radius: 4px;
+  border-radius: var(--radius-sm);
 }
 
 .matters p {
   font-size: 0.95rem;
-  line-height: 1.7;
+  line-height: var(--lh-body);
 }
 
 .tags {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.4rem;
+  gap: var(--space-2xs);
   margin-bottom: var(--space-xl);
 }
 
@@ -120,7 +133,7 @@
 
 .back {
   font-family: var(--font-meta);
-  font-size: 0.8rem;
+  font-size: var(--font-size-sm-base);
   color: var(--color-text-secondary);
   transition: color var(--transition);
 }

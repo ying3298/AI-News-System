@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import type { NewsItem } from "@/lib/types";
+import { TOOL_SUB_LABELS } from "@/lib/types";
 import { useFollowedTopics } from "@/lib/useFollowedTopics";
 import DepthToggle, { type DepthLevel } from "./DepthToggle";
 import TagPill from "./TagPill";
@@ -33,6 +34,9 @@ export default function StoryContent({ item, dateFormatted, sectionLabel }: Prop
         <span className="story-id">{item.id}</span>
         <span className={styles.separator}>/</span>
         <span className={styles.metaText}>{sectionLabel}</span>
+        {item.section === "tools" && item.toolSubcategory && TOOL_SUB_LABELS[item.toolSubcategory] && (
+          <span className={styles.subLabel}>{TOOL_SUB_LABELS[item.toolSubcategory]}</span>
+        )}
         <span className={styles.separator}>/</span>
         <span className={styles.metaText}>{dateFormatted}</span>
         {item.readTime && (

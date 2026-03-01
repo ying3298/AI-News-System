@@ -1,5 +1,6 @@
 import Link from "next/link";
 import type { NewsItem } from "@/lib/types";
+import { TOOL_SUB_LABELS } from "@/lib/types";
 import TagPill from "./TagPill";
 import SaveButton from "./SaveButton";
 import styles from "./NewsCard.module.css";
@@ -27,7 +28,12 @@ export default function NewsCard({ item, featured, isFollowing, isFollowed, togg
       )}
 
       <div className={styles.top}>
-        <span className="story-id">{item.id}</span>
+        <div className={styles.topLeft}>
+          <span className="story-id">{item.id}</span>
+          {item.section === "tools" && item.toolSubcategory && TOOL_SUB_LABELS[item.toolSubcategory] && (
+            <span className={styles.subLabel}>{TOOL_SUB_LABELS[item.toolSubcategory]}</span>
+          )}
+        </div>
         <div className={styles.topRight}>
           <span className={styles.source}>
             {item.sourceName}
@@ -65,7 +71,7 @@ export default function NewsCard({ item, featured, isFollowing, isFollowed, togg
             />
           ))}
         </div>
-        <span className={styles.readCta}>Read at source &rarr;</span>
+        <span className={styles.readCta}>Full story &rarr;</span>
       </div>
     </Link>
   );
