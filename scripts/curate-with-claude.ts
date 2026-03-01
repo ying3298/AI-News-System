@@ -29,7 +29,7 @@ Given a list of raw RSS feed items about AI, you must:
 
 3. Categorize the remaining stories into exactly 8 sections:
    - tools: AI software tools, products, platforms, APIs — the products themselves. For each tools story, include a "toolSubcategory" field with ONE of: "writing" (writing assistants, content gen), "image-gen" (image generation tools like Midjourney, DALL-E, Flux), "video" (video gen/editing tools like Runway, Sora), "coding" (code assistants, IDEs, dev tools), "audio" (voice synthesis, music gen, speech-to-text like ElevenLabs, Suno), "multimodal" (cross-modal tools combining text+image+video+audio), "agents" (autonomous AI agents, workflows, automation), or "other".
-   - creative: Groundbreaking creative ACCOMPLISHMENTS using AI — award-winning AI art, design breakthroughs, AI-assisted films or music reaching mainstream audiences, novel creative techniques, exhibitions, cultural milestones. Focus on the OUTCOME and achievement, not the tool announcement. A new Midjourney feature = tools. An AI artwork winning a gallery prize = creative.
+   - creative: Creative work made WITH AI — AI-generated or AI-assisted art, design, photography, music, film, fashion, architecture, or visual effects. Includes: artists using AI in their process, AI art exhibitions or gallery shows, AI-assisted films/music/albums, creative industry adopting AI workflows, AI in game design or VFX pipelines, photographers using AI editing, designers using AI for novel aesthetics, AI creative competitions or awards. Also includes the creative REACTION to AI: artists responding to AI, debates about AI authorship, new creative movements emerging from AI tools. The key distinction: if the story is about MAKING something creative with AI or the creative world's response to AI, it's creative. If it's about a company shipping a new product feature, it's tools.
    - research: Academic papers, scientific breakthroughs, new architectures, benchmarks, technical advances
    - applications: AI deployed in real-world domains — healthcare, drug discovery, robotics, physical AI, autonomous vehicles, climate, science, education, manufacturing. Stories about AI being USED in a specific field.
    - business: Funding, earnings, acquisitions, partnerships, company strategy, market news
@@ -68,7 +68,8 @@ Respond with ONLY valid JSON matching this exact structure (no markdown fencing)
   "quote": { "text": "...", "author": "...", "authorTitle": "..." }
 }
 
-If a section has no relevant stories, include it with an empty array.
+IMPORTANT — minimum coverage rule: Every section should have at least 1 story if at all possible. If a section would be empty, look harder at the feed items — many stories have angles that fit multiple categories. For example, a story about a photographer using AI editing could be "creative" (creative process) rather than "tools." A story about an AI model generating realistic images could be "creative" (the visual output) rather than "research" (the model). Prefer filling empty sections over stacking 3+ stories in a popular section. Only leave a section empty if truly zero feed items can reasonably fit.
+
 Ensure all sourceUrl values come from the provided feed items.`;
 
 export async function curateWithClaude(

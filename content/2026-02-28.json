@@ -128,6 +128,18 @@
             "date": "2026-03-01",
             "title": "Billion-Dollar Infrastructure Deals Power the AI Boom",
             "section": "business"
+          },
+          {
+            "id": "AI-005",
+            "date": "2026-03-01",
+            "title": "Billion-Dollar AI Infrastructure Deals Reshape Tech Investment Priorities",
+            "section": "business"
+          },
+          {
+            "id": "AI-006",
+            "date": "2026-03-01",
+            "title": "The billion-dollar infrastructure race: Meta, Oracle, Microsoft, Google, and OpenAI are all betting huge",
+            "section": "business"
           }
         ]
       },
@@ -161,6 +173,12 @@
             "date": "2026-03-01",
             "title": "OpenAI Seals Pentagon Deal While Anthropic Faces Government Ban",
             "section": "business"
+          },
+          {
+            "id": "AI-008",
+            "date": "2026-03-01",
+            "title": "OpenAI's Pentagon Deal Exposed: 'Definitely Rushed' and 'Optics Don't Look Good,' Says Sam Altman",
+            "section": "policy"
           }
         ]
       },
@@ -297,6 +315,12 @@
             "id": "AI-007",
             "date": "2026-03-01",
             "title": "AI Boom Accelerates Faster Than Regulators Can Govern",
+            "section": "concerns"
+          },
+          {
+            "id": "AI-010",
+            "date": "2026-03-01",
+            "title": "Anthropic's Pentagon rejection exposes the trap of self-governance without rules",
             "section": "concerns"
           }
         ]

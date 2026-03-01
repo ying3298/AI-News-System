@@ -72,6 +72,21 @@ export const RSS_SOURCES: RSSSource[] = [
     url: "https://the-decoder.com/feed/",
     category: "creative",
   },
+  {
+    name: "Creative Bloq",
+    url: "https://www.creativebloq.com/feed",
+    category: "creative",
+  },
+  {
+    name: "Hyperallergic",
+    url: "https://hyperallergic.com/feed/",
+    category: "creative",
+  },
+  {
+    name: "It's Nice That",
+    url: "https://feeds.feedburner.com/itsnicethat/SlXC",
+    category: "creative",
+  },
 
   // ── Applications (AI in the Wild) ───────────────
   {
