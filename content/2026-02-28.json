@@ -34,7 +34,15 @@
         "section": "tools",
         "readTime": "3 min",
         "publishedAt": "2026-02-28",
-        "imageUrl": "/images/2026-02-28/2026-02-28-tools-AI-001.webp"
+        "imageUrl": "/images/2026-02-28/2026-02-28-tools-AI-001.webp",
+        "relatedStories": [
+          {
+            "id": "AI-002",
+            "date": "2026-03-01",
+            "title": "Google Launches Intrinsic as 'Android of Robotics' for Physical AI",
+            "section": "applications"
+          }
+        ]
       },
       {
         "id": "AI-002",
@@ -113,7 +121,15 @@
         "section": "business",
         "readTime": "3 min",
         "publishedAt": "2026-02-28",
-        "imageUrl": "/images/2026-02-28/2026-02-28-business-AI-004.webp"
+        "imageUrl": "/images/2026-02-28/2026-02-28-business-AI-004.webp",
+        "relatedStories": [
+          {
+            "id": "AI-003",
+            "date": "2026-03-01",
+            "title": "Billion-Dollar Infrastructure Deals Power the AI Boom",
+            "section": "business"
+          }
+        ]
       },
       {
         "id": "AI-005",
@@ -138,7 +154,15 @@
         "section": "business",
         "readTime": "3 min",
         "publishedAt": "2026-02-28",
-        "imageUrl": "/images/2026-02-28/2026-02-28-business-AI-005.webp"
+        "imageUrl": "/images/2026-02-28/2026-02-28-business-AI-005.webp",
+        "relatedStories": [
+          {
+            "id": "AI-004",
+            "date": "2026-03-01",
+            "title": "OpenAI Seals Pentagon Deal While Anthropic Faces Government Ban",
+            "section": "business"
+          }
+        ]
       },
       {
         "id": "AI-006",
@@ -267,7 +291,15 @@
         "section": "concerns",
         "readTime": "4 min",
         "publishedAt": "2026-02-28",
-        "imageUrl": "/images/2026-02-28/2026-02-28-concerns-AI-010.webp"
+        "imageUrl": "/images/2026-02-28/2026-02-28-concerns-AI-010.webp",
+        "relatedStories": [
+          {
+            "id": "AI-007",
+            "date": "2026-03-01",
+            "title": "AI Boom Accelerates Faster Than Regulators Can Govern",
+            "section": "concerns"
+          }
+        ]
       },
       {
         "id": "AI-011",
