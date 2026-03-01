@@ -8,6 +8,7 @@ import {
   buildHeroPrompt,
   buildSummaryPrompt,
 } from "./image-prompts";
+import { IMAGE_CONFIG, upgradeImageUrl } from "./image-config";
 
 const CONTENT_DIR = path.join(process.cwd(), "content");
 const IMAGES_DIR = path.join(process.cwd(), "public", "images");
@@ -40,7 +41,7 @@ interface ImageTask {
 async function generateSingleImage(task: ImageTask): Promise<boolean> {
   try {
     const response = await getAI().models.generateContent({
-      model: "gemini-2.5-flash-image",
+      model: IMAGE_CONFIG.model,
       contents: task.prompt,
       config: {
         responseModalities: ["TEXT", "IMAGE"],
@@ -63,7 +64,7 @@ async function generateSingleImage(task: ImageTask): Promise<boolean> {
     // Convert to WebP and resize to target dimensions
     await sharp(pngBuffer)
       .resize(task.width, task.height, { fit: "cover" })
-      .webp({ quality: 85 })
+      .webp({ quality: IMAGE_CONFIG.quality })
       .toFile(task.outputPath);
 
     console.log(`Generated: ${task.publicPath}`);
@@ -78,11 +79,10 @@ async function generateSingleImage(task: ImageTask): Promise<boolean> {
 
 /**
  * Process image tasks in batches to respect rate limits.
- * Concurrency of 5 stays well under 300 RPM.
  */
 async function processInBatches(
   tasks: ImageTask[],
-  concurrency: number = 5
+  concurrency: number = IMAGE_CONFIG.batchConcurrency
 ): Promise<Map<string, boolean>> {
   const results = new Map<string, boolean>();
 
@@ -102,7 +102,7 @@ async function processInBatches(
 
     // Small delay between batches to be polite to the API
     if (i + concurrency < tasks.length) {
-      await new Promise((r) => setTimeout(r, 1000));
+      await new Promise((r) => setTimeout(r, IMAGE_CONFIG.batchDelayMs));
     }
   }
 
@@ -152,16 +152,16 @@ async function main() {
   const heroSection = detectHeadlineSection(content);
   const heroFilename = `${dateStr}-hero.webp`;
   if (content.headline.sourceImageUrl) {
-    content.headline.imageUrl = content.headline.sourceImageUrl;
-    console.log(`Using source image for hero: ${content.headline.sourceImageUrl}`);
+    content.headline.imageUrl = upgradeImageUrl(content.headline.sourceImageUrl);
+    console.log(`Using source image for hero: ${content.headline.imageUrl}`);
   } else {
     tasks.push({
       prompt: buildHeroPrompt(heroSection, content.headline.title),
       outputPath: path.join(dateImagesDir, heroFilename),
       publicPath: `/images/${dateStr}/${heroFilename}`,
-      aspectRatio: "16:9",
-      width: 1600,
-      height: 900,
+      aspectRatio: IMAGE_CONFIG.hero.aspectRatio,
+      width: IMAGE_CONFIG.hero.width,
+      height: IMAGE_CONFIG.hero.height,
     });
   }
 
@@ -171,9 +171,9 @@ async function main() {
     prompt: buildSummaryPrompt(),
     outputPath: path.join(dateImagesDir, summaryFilename),
     publicPath: `/images/${dateStr}/${summaryFilename}`,
-    aspectRatio: "16:9",
-    width: 1200,
-    height: 400,
+    aspectRatio: IMAGE_CONFIG.summary.aspectRatio,
+    width: IMAGE_CONFIG.summary.width,
+    height: IMAGE_CONFIG.summary.height,
   });
 
   // 3. Card images — use source image if available, otherwise generate
@@ -181,8 +181,8 @@ async function main() {
   for (const [section, items] of Object.entries(content.sections)) {
     for (const item of items) {
       if (item.sourceImageUrl) {
-        // Use real source image directly
-        item.imageUrl = item.sourceImageUrl;
+        // Use real source image — upgrade to high-res version
+        item.imageUrl = upgradeImageUrl(item.sourceImageUrl);
         sourceImageCount++;
       } else {
         const cardFilename = `${dateStr}-${section}-${item.id}.webp`;
@@ -190,9 +190,9 @@ async function main() {
           prompt: buildCardPrompt(section as SectionSlug, item.title),
           outputPath: path.join(dateImagesDir, cardFilename),
           publicPath: `/images/${dateStr}/${cardFilename}`,
-          aspectRatio: "16:9",
-          width: 800,
-          height: 450,
+          aspectRatio: IMAGE_CONFIG.card.aspectRatio,
+          width: IMAGE_CONFIG.card.width,
+          height: IMAGE_CONFIG.card.height,
         });
       }
     }
@@ -202,7 +202,7 @@ async function main() {
   }
 
   console.log(`Generating ${tasks.length} images for ${dateStr}...`);
-  const results = await processInBatches(tasks, 5);
+  const results = await processInBatches(tasks);
 
   // 4. Update content JSON with image paths for successful generations
   let updated = sourceImageCount > 0 || !!content.headline.sourceImageUrl;

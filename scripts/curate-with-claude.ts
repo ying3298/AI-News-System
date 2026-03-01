@@ -3,23 +3,9 @@ import type { Message } from "@anthropic-ai/sdk/resources/messages";
 import type { RawFeedItem } from "./fetch-rss";
 import type { DailyContent } from "../lib/types";
 
-const client = new Anthropic();
+import { upgradeImageUrl } from "./image-config";
 
-/**
- * Upgrade image URLs to higher-resolution versions where possible.
- * Some RSS feeds (e.g. The Guardian) provide tiny thumbnails — swap for larger versions.
- */
-function upgradeImageUrl(url: string): string {
-  // Guardian: swap width=140 for width=1200
-  if (url.includes("i.guim.co.uk") && url.includes("width=140")) {
-    return url.replace("width=140", "width=1200");
-  }
-  // Future CDN (Creative Bloq, TechRadar, etc.): strip size suffix for full-res
-  if (url.includes("cdn.mos.cms.futurecdn.net") && url.includes("-80.")) {
-    return url.replace(/-\d+-80\./, "-1200-80.");
-  }
-  return url;
-}
+const client = new Anthropic();
 
 const SYSTEM_PROMPT = `You are the lead writer for THE AI FEED, a daily AI news digest that reads like a smart friend catching you up on what happened. Your voice is warm, clear, and occasionally wry. You explain things by connecting them to what people already know. You have mild opinions and you're not afraid to say "this is a big deal" or "honestly, this is kind of funny." You never hedge with phrases like "it remains to be seen" or "time will tell." You never use the word "landscape." You respect the reader's time.
 
