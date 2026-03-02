@@ -2,9 +2,9 @@
   "date": "2026-03-02",
   "dateFormatted": "March 2, 2026",
   "headline": {
-    "title": "Anthropic’s Claude reports widespread outage",
-    "summary": "Anthropic's AI chatbot Claude experienced widespread service disruptions on Monday morning, with thousands of users reporting issues accessing the bot.",
-    "sourceUrl": "https://techcrunch.com/2026/03/02/anthropics-claude-reports-widespread-outage/",
+    "title": "No one has a good plan for how AI companies should work with the government",
+    "summary": "As OpenAI transitions from a wildly successful consumer startup into a piece of national security infrastructure, the company seems unequipped to manage its new responsibilities.",
+    "sourceUrl": "https://techcrunch.com/2026/03/02/openai-anthropic-department-of-defense-war-hegseth-ai-companies-work-with-us-government/",
     "sourceName": "TechCrunch AI",
     "imageUrl": "/images/2026-03-02/2026-03-02-hero.webp"
   },
@@ -16,6 +16,86 @@
     "tools": [
       {
         "id": "AI-001",
+        "title": "No one has a good plan for how AI companies should work with the government",
+        "summary": "As OpenAI transitions from a wildly successful consumer startup into a piece of national security infrastructure, the company seems unequipped to manage its new responsibilities.",
+        "content": "As OpenAI transitions from a wildly successful consumer startup into a piece of national security infrastructure, the company seems unequipped to manage its new responsibilities.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/03/02/openai-anthropic-department-of-defense-war-hegseth-ai-companies-work-with-us-government/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 02 Mar 2026 22:59:10 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ],
+        "imageUrl": "/images/2026-03-02/2026-03-02-tools-AI-001.webp"
+      },
+      {
+        "id": "AI-002",
+        "title": "Users are ditching ChatGPT for Claude — here’s how to make the switch",
+        "summary": "Following controversies surrounding ChatGPT, many users are ditching the AI chatbot for Claude instead. Here's how to make the switch.",
+        "content": "Following controversies surrounding ChatGPT, many users are ditching the AI chatbot for Claude instead. Here's how to make the switch.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 02 Mar 2026 18:42:11 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ],
+        "imageUrl": "/images/2026-03-02/2026-03-02-tools-AI-002.webp"
+      },
+      {
+        "id": "AI-003",
+        "title": "Tech workers urge DOD, Congress to withdraw Anthropic label as a supply-chain risk",
+        "summary": "Tech workers have signed an open letter urging the Department of Defense to withdraw its designation of Anthropic as a \"supply chain risk\" and instead to settle the matter quietly.",
+        "content": "Tech workers have signed an open letter urging the Department of Defense to withdraw its designation of Anthropic as a \"supply chain risk\" and instead to settle the matter quietly.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 02 Mar 2026 17:18:34 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ],
+        "imageUrl": "/images/2026-03-02/2026-03-02-tools-AI-003.webp"
+      },
+      {
+        "id": "AI-004",
+        "title": "A married founder duo’s company, 14.ai, is replacing customer support teams at startups",
+        "summary": "14.ai also launched a consumer brand to understand how much AI can handle customer support tasks.",
+        "content": "14.ai also launched a consumer brand to understand how much AI can handle customer support tasks.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 02 Mar 2026 15:14:36 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ],
+        "imageUrl": "/images/2026-03-02/2026-03-02-tools-AI-004.webp"
+      },
+      {
+        "id": "AI-005",
         "title": "Anthropic’s Claude reports widespread outage",
         "summary": "Anthropic's AI chatbot Claude experienced widespread service disruptions on Monday morning, with thousands of users reporting issues accessing the bot.",
         "content": "Anthropic's AI chatbot Claude experienced widespread service disruptions on Monday morning, with thousands of users reporting issues accessing the bot.",
@@ -32,92 +112,52 @@
         "normalizedTags": [
           "techcrunch ai"
         ],
-        "imageUrl": "/images/2026-03-02/2026-03-02-tools-AI-001.webp"
-      },
-      {
-        "id": "AI-002",
-        "title": "Google looks to tackle longstanding RCS spam in India — but not alone",
-        "summary": "Google is integrating carrier-level filtering into RCS in India through a partnership with Airtel to strengthen protections against spam.",
-        "content": "Google is integrating carrier-level filtering into RCS in India through a partnership with Airtel to strengthen protections against spam.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/01/google-looks-to-tackle-longstanding-rcs-spam-in-india-but-not-alone/",
-        "sourceName": "TechCrunch AI",
-        "tags": [
-          "TechCrunch AI"
-        ],
-        "section": "tools",
-        "readTime": "2 min",
-        "publishedAt": "Sun, 01 Mar 2026 17:30:00 +0000",
-        "normalizedTags": [
-          "techcrunch ai"
-        ],
-        "imageUrl": "/images/2026-03-02/2026-03-02-tools-AI-002.webp"
-      },
-      {
-        "id": "AI-003",
-        "title": "OpenAI reveals more details about its agreement with the Pentagon",
-        "summary": "By CEO Sam Altman’s own admission, OpenAI’s deal with the Department of Defense was “definitely rushed,” and “the optics don’t look good.”",
-        "content": "By CEO Sam Altman’s own admission, OpenAI’s deal with the Department of Defense was “definitely rushed,” and “the optics don’t look good.”",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon/",
-        "sourceName": "TechCrunch AI",
-        "tags": [
-          "TechCrunch AI"
-        ],
-        "section": "tools",
-        "readTime": "2 min",
-        "publishedAt": "Sun, 01 Mar 2026 16:30:10 +0000",
-        "normalizedTags": [
-          "techcrunch ai"
-        ],
-        "imageUrl": "/images/2026-03-02/2026-03-02-tools-AI-003.webp"
-      },
-      {
-        "id": "AI-004",
-        "title": "How OpenAI caved to the Pentagon on AI surveillance",
-        "summary": "On Friday evening, amidst fallout from a standoff between the Department of Defense and Anthropic, OpenAI CEO Sam Altman announced that his own company had successfully negotiated new terms with the Pentagon. The US government had just moved to black",
-        "content": "On Friday evening, amidst fallout from a standoff between the Department of Defense and Anthropic, OpenAI CEO Sam Altman announced that his own company had successfully negotiated new terms with the Pentagon. The US government had just moved to blacklist Anthropic for standing firm on two red lines for military use: no mass surveillance of Americans and no lethal autonomous weapons (or AI systems with the power to kill targets without human oversight). Altman, however, implied that he'd found a ",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth",
-        "sourceName": "The Verge AI",
-        "tags": [
-          "The Verge AI"
-        ],
-        "section": "tools",
-        "readTime": "2 min",
-        "publishedAt": "2026-03-02T14:22:18.000Z",
-        "normalizedTags": [
-          "the verge ai"
-        ],
-        "imageUrl": "/images/2026-03-02/2026-03-02-tools-AI-004.webp"
-      },
-      {
-        "id": "AI-005",
-        "title": "A robot arm with puppy dog eyes is just one of Lenovo&#8217;s new desktop AI concepts",
-        "summary": "The AI Workmate Concept can move and rotate to accomplish various tasks, but can it ever truly know love? | Image: Lenovo\t\n\nAlongside a handful of new laptop concepts (and a range of real products too), Lenovo used MWC to announce a pair of AI-based ",
-        "content": "The AI Workmate Concept can move and rotate to accomplish various tasks, but can it ever truly know love? | Image: Lenovo\t\n\nAlongside a handful of new laptop concepts (and a range of real products too), Lenovo used MWC to announce a pair of AI-based productivity companion concepts. Both are standalone desk devices designed to boost productivity while providing office workers with a bit of artificial dystopic companionship.\nLenovo describes its AI Workmate Concept as an \"always-on desk companion,",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theverge.com/tech/885228/lenovo-ai-workmate-companion-work-concept-robot-arm-desktop-clock-hub",
-        "sourceName": "The Verge AI",
-        "tags": [
-          "The Verge AI"
-        ],
-        "section": "tools",
-        "readTime": "2 min",
-        "publishedAt": "2026-03-01T23:01:00.000Z",
-        "normalizedTags": [
-          "the verge ai"
-        ],
         "imageUrl": "/images/2026-03-02/2026-03-02-tools-AI-005.webp"
       }
     ],
     "creative": [
       {
         "id": "AI-006",
+        "title": "ASML plans to expand beyond chip lithography into advanced packaging",
+        "summary": "ASML, the world's sole manufacturer of EUV lithography machines used to produce advanced chips, is looking to expand beyond its core business.\nThe article ASML plans to expand beyond chip lithography into advanced packaging appeared first on The Deco",
+        "content": "ASML, the world's sole manufacturer of EUV lithography machines used to produce advanced chips, is looking to expand beyond its core business.\nThe article ASML plans to expand beyond chip lithography into advanced packaging appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/asml-plans-to-expand-beyond-chip-lithography-into-advanced-packaging/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 02 Mar 2026 16:38:14 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ],
+        "imageUrl": "/images/2026-03-02/2026-03-02-creative-AI-006.webp"
+      },
+      {
+        "id": "AI-007",
+        "title": "Thousands of procurement documents show how China's army wants to weaponize AI",
+        "summary": "Researchers at Georgetown University have analyzed thousands of procurement requests from China's People's Liberation Army. The documents reveal how broadly Beijing is already experimenting with military AI, from drone swarms and deepfake tools to au",
+        "content": "Researchers at Georgetown University have analyzed thousands of procurement requests from China's People's Liberation Army. The documents reveal how broadly Beijing is already experimenting with military AI, from drone swarms and deepfake tools to autonomous decision-making systems.\nThe article Thousands of procurement documents show how China's army wants to weaponize AI appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/thousands-of-procurement-documents-show-how-chinas-army-wants-to-weaponize-ai/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 02 Mar 2026 15:31:32 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ],
+        "imageUrl": "/images/2026-03-02/2026-03-02-creative-AI-007.webp"
+      },
+      {
+        "id": "AI-008",
         "title": "Inside the Anthropic-Pentagon breakdown: mass surveillance, autonomous weapons, and a rival deal waiting in the wings",
         "summary": "New reports from the New York Times and the Atlantic paint a detailed picture of the final hours of negotiations between Anthropic and the Pentagon. At the center: bulk data collection on American citizens, a rejected cloud workaround, and a parallel",
         "content": "New reports from the New York Times and the Atlantic paint a detailed picture of the final hours of negotiations between Anthropic and the Pentagon. At the center: bulk data collection on American citizens, a rejected cloud workaround, and a parallel OpenAI deal that was already in the works.\nThe article Inside the Anthropic-Pentagon breakdown: mass surveillance, autonomous weapons, and a rival deal waiting in the wings appeared first on The Decoder.",
@@ -134,10 +174,10 @@
         "normalizedTags": [
           "the decoder"
         ],
-        "imageUrl": "/images/2026-03-02/2026-03-02-creative-AI-006.webp"
+        "imageUrl": "/images/2026-03-02/2026-03-02-creative-AI-008.webp"
       },
       {
-        "id": "AI-007",
+        "id": "AI-009",
         "title": "Anthropic's new prompt forces ChatGPT to reveal everything it knows about you",
         "summary": "Anthropic is capitalizing on OpenAI's bad press with a new import function for Claude. A single prompt exports your saved context from ChatGPT or other chatbots, letting you transfer it straight to Claude's memory.\nThe article Anthropic's new prompt ",
         "content": "Anthropic is capitalizing on OpenAI's bad press with a new import function for Claude. A single prompt exports your saved context from ChatGPT or other chatbots, letting you transfer it straight to Claude's memory.\nThe article Anthropic's new prompt forces ChatGPT to reveal everything it knows about you appeared first on The Decoder.",
@@ -154,63 +194,23 @@
         "normalizedTags": [
           "the decoder"
         ],
-        "imageUrl": "/images/2026-03-02/2026-03-02-creative-AI-007.webp"
-      },
-      {
-        "id": "AI-008",
-        "title": " “AI takes away the joy I would have in filmmaking” – Albert Birney on his lo-fi sci-fi adventure Obex ",
-        "summary": "The black-and-white film is an ode to retro games and DIY filmmaking techniques.",
-        "content": "The black-and-white film is an ode to retro games and DIY filmmaking techniques.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.creativebloq.com/3d/video-game-design/ai-takes-away-the-joy-i-would-have-in-filmmaking-albert-birney-on-his-lo-fi-sci-fi-adventure-obex",
-        "sourceName": "Creative Bloq",
-        "tags": [
-          "Creative Bloq"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 02 Mar 2026 15:04:30 +0000",
-        "normalizedTags": [
-          "creative bloq"
-        ],
-        "imageUrl": "/images/2026-03-02/2026-03-02-creative-AI-008.webp"
-      },
-      {
-        "id": "AI-009",
-        "title": " Is the Acer Chromebook Spin 311 the ultimate budget companion? ",
-        "summary": "The Acer Chromebook Spin 311 is a budget-friendly 2-in-1 laptop tablet with an equally budget-friendly set of hardware specs. The touchscreen works well, but the CPU is a little sluggish.",
-        "content": "The Acer Chromebook Spin 311 is a budget-friendly 2-in-1 laptop tablet with an equally budget-friendly set of hardware specs. The touchscreen works well, but the CPU is a little sluggish.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.creativebloq.com/tech/laptops/is-the-acer-chromebook-spin-311-the-ultimate-budget-companion",
-        "sourceName": "Creative Bloq",
-        "tags": [
-          "Creative Bloq"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 02 Mar 2026 14:00:00 +0000",
-        "normalizedTags": [
-          "creative bloq"
-        ],
         "imageUrl": "/images/2026-03-02/2026-03-02-creative-AI-009.webp"
       },
       {
         "id": "AI-010",
-        "title": " These Gorillaz x Spotify ads are hiding something really cool ",
-        "summary": "The band breaks the mould to promote their new album, The Mountain.",
-        "content": "The band breaks the mould to promote their new album, The Mountain.",
+        "title": " This music visualiser is the coolest thing I don't need  ",
+        "summary": "The Fosi Audio AH-01A is an 1980s teenager's daydream of the future and I love it.",
+        "content": "The Fosi Audio AH-01A is an 1980s teenager's daydream of the future and I love it.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.creativebloq.com/design/advertising/these-gorillaz-x-spotify-ads-are-hiding-something-really-cool",
+        "sourceUrl": "https://www.creativebloq.com/tech/headphones-earbuds/this-music-visualiser-is-the-coolest-thing-i-dont-need",
         "sourceName": "Creative Bloq",
         "tags": [
           "Creative Bloq"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Mon, 02 Mar 2026 13:00:00 +0000",
+        "publishedAt": "Mon, 02 Mar 2026 21:07:34 +0000",
         "normalizedTags": [
           "creative bloq"
         ],
@@ -220,6 +220,26 @@
     "research": [
       {
         "id": "AI-011",
+        "title": "OpenAI’s “compromise” with the Pentagon is what Anthropic feared",
+        "summary": "On February 28, OpenAI announced it had reached a deal that will allow the US military to use its technologies in classified settings. CEO Sam Altman said the negotiations, which the company began pursuing only after the Pentagon’s public reprimand o",
+        "content": "On February 28, OpenAI announced it had reached a deal that will allow the US military to use its technologies in classified settings. CEO Sam Altman said the negotiations, which the company began pursuing only after the Pentagon’s public reprimand of Anthropic, were “definitely rushed.” In its announcements, OpenAI took great pains to say that…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 02 Mar 2026 17:29:42 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ],
+        "imageUrl": "/images/2026-03-02/2026-03-02-research-AI-011.webp"
+      },
+      {
+        "id": "AI-012",
         "title": "The Download: protesting AI, and what’s floating in space",
         "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I checked out one of the biggest anti-AI protests ever Pull the plug! Pull the plug! Stop the slop! Stop the slo",
         "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I checked out one of the biggest anti-AI protests ever Pull the plug! Pull the plug! Stop the slop! Stop the slop! For a few hours this Saturday, February 28, I watched as…",
@@ -236,10 +256,10 @@
         "normalizedTags": [
           "mit tech review"
         ],
-        "imageUrl": "/images/2026-03-02/2026-03-02-research-AI-011.webp"
+        "imageUrl": "/images/2026-03-02/2026-03-02-research-AI-012.webp"
       },
       {
-        "id": "AI-012",
+        "id": "AI-013",
         "title": "I checked out one of the biggest anti-AI protests ever",
         "summary": "Pull the plug! Pull the plug! Stop the slop! Stop the slop! For a few hours this Saturday, February 28, I watched as a couple of hundred anti-AI protesters marched through London’s King’s Cross tech hub, home to the UK headquarters of OpenAI, Meta, a",
         "content": "Pull the plug! Pull the plug! Stop the slop! Stop the slop! For a few hours this Saturday, February 28, I watched as a couple of hundred anti-AI protesters marched through London’s King’s Cross tech hub, home to the UK headquarters of OpenAI, Meta, and Google DeepMind, chanting slogans and waving signs. The march was…",
@@ -256,10 +276,10 @@
         "normalizedTags": [
           "mit tech review"
         ],
-        "imageUrl": "/images/2026-03-02/2026-03-02-research-AI-012.webp"
+        "imageUrl": "/images/2026-03-02/2026-03-02-research-AI-013.webp"
       },
       {
-        "id": "AI-013",
+        "id": "AI-014",
         "title": "HumanMCP: A Human-Like Query Dataset for Evaluating MCP Tool Retrieval Performance",
         "summary": "arXiv:2602.23367v1 Announce Type: new \nAbstract: Model Context Protocol (MCP) servers contain a collection of thousands of open-source standardized tools, linking LLMs to external systems; however, existing datasets and benchmarks lack realistic, hum",
         "content": "arXiv:2602.23367v1 Announce Type: new \nAbstract: Model Context Protocol (MCP) servers contain a collection of thousands of open-source standardized tools, linking LLMs to external systems; however, existing datasets and benchmarks lack realistic, human-like user queries, remaining a critical gap in evaluating the tool usage and ecosystems of MCP servers. Existing datasets often do contain tool descriptions but fail to represent how different users portray their requests, leading to poor generali",
@@ -276,36 +296,16 @@
         "normalizedTags": [
           "arxiv cs.ai"
         ],
-        "imageUrl": "/images/2026-03-02/2026-03-02-research-AI-013.webp"
+        "imageUrl": "/images/2026-03-02/2026-03-02-research-AI-014.webp"
       },
       {
-        "id": "AI-014",
+        "id": "AI-015",
         "title": "An Agentic LLM Framework for Adverse Media Screening in AML Compliance",
         "summary": "arXiv:2602.23373v1 Announce Type: new \nAbstract: Adverse media screening is a critical component of anti-money laundering (AML) and know-your-customer (KYC) compliance processes in financial institutions. Traditional approaches rely on keyword-based ",
         "content": "arXiv:2602.23373v1 Announce Type: new \nAbstract: Adverse media screening is a critical component of anti-money laundering (AML) and know-your-customer (KYC) compliance processes in financial institutions. Traditional approaches rely on keyword-based searches that generate high false-positive rates or require extensive manual review. We present an agentic system that leverages Large Language Models (LLMs) with Retrieval-Augmented Generation (RAG) to automate adverse media screening. Our system im",
         "keyTakeaways": [],
         "whyItMatters": "",
         "sourceUrl": "https://arxiv.org/abs/2602.23373",
-        "sourceName": "ArXiv CS.AI",
-        "tags": [
-          "ArXiv CS.AI"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 02 Mar 2026 00:00:00 -0500",
-        "normalizedTags": [
-          "arxiv cs.ai"
-        ],
-        "imageUrl": "/images/2026-03-02/2026-03-02-research-AI-014.webp"
-      },
-      {
-        "id": "AI-015",
-        "title": "Causal Identification from Counterfactual Data: Completeness and Bounding Results",
-        "summary": "arXiv:2602.23541v1 Announce Type: new \nAbstract: Previous work establishing completeness results for $\\textit{counterfactual identification}$ has been circumscribed to the setting where the input data belongs to observational or interventional distri",
-        "content": "arXiv:2602.23541v1 Announce Type: new \nAbstract: Previous work establishing completeness results for $\\textit{counterfactual identification}$ has been circumscribed to the setting where the input data belongs to observational or interventional distributions (Layers 1 and 2 of Pearl's Causal Hierarchy), since it was generally presumed impossible to obtain data from counterfactual distributions, which belong to Layer 3. However, recent work (Raghavan & Bareinboim, 2025) has formally characterized ",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://arxiv.org/abs/2602.23541",
         "sourceName": "ArXiv CS.AI",
         "tags": [
           "ArXiv CS.AI"
@@ -323,6 +323,46 @@
     "business": [
       {
         "id": "AI-016",
+        "title": "Apple launches lower cost iPhone 17e and a new iPad Air powered by its M4 chip",
+        "summary": "Apple opens week of product launches with refreshed low-cost iPhone and a faster iPad Air, as it begins what looks to be a broader multi-day hardware push.",
+        "content": "Apple opens week of product launches with refreshed low-cost iPhone and a faster iPad Air, as it begins what looks to be a broader multi-day hardware push.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/03/02/apple-iphone-17e-ipad-air-m4-chip.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 02 Mar 2026 17:11:03 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ],
+        "imageUrl": "/images/2026-03-02/2026-03-02-business-AI-016.webp"
+      },
+      {
+        "id": "AI-017",
+        "title": "Anthropic's Claude sees 'elevated errors' as it tops Apple's free apps after Pentagon clash",
+        "summary": "The app surged to the top free app on Apple's App Store after Anthropic clashed with the Department of Defense over limits for the technology.",
+        "content": "The app surged to the top free app on Apple's App Store after Anthropic clashed with the Department of Defense over limits for the technology.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/03/02/anthropic-claude-ai-outage-apple-pentagon.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 02 Mar 2026 17:04:00 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ],
+        "imageUrl": "/images/2026-03-02/2026-03-02-business-AI-017.webp"
+      },
+      {
+        "id": "AI-018",
         "title": "Starlink to partner with Deutsche Telekom to launch satellite mobile service in Europe",
         "summary": "The service will go live in 2028. It comes as Starlink's owner, SpaceX, gears up for an IPO.",
         "content": "The service will go live in 2028. It comes as Starlink's owner, SpaceX, gears up for an IPO.",
@@ -339,11 +379,11 @@
         "normalizedTags": [
           "cnbc tech"
         ],
-        "imageUrl": "/images/2026-03-02/2026-03-02-business-AI-016.webp"
+        "imageUrl": "/images/2026-03-02/2026-03-02-business-AI-018.webp"
       },
       {
-        "id": "AI-017",
-        "title": "Nvidia to invest $4 billion in two photonics companies",
+        "id": "AI-019",
+        "title": "Nvidia to invest $4 billion into photonics companies Coherent and Lumentum",
         "summary": "Coherent and Lumentum will both receive $2 billion each from the chip giant as part of the strategic investment.",
         "content": "Coherent and Lumentum will both receive $2 billion each from the chip giant as part of the strategic investment.",
         "keyTakeaways": [],
@@ -355,14 +395,14 @@
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Mon, 02 Mar 2026 14:44:02 GMT",
+        "publishedAt": "Mon, 02 Mar 2026 18:56:48 GMT",
         "normalizedTags": [
           "cnbc tech"
         ],
-        "imageUrl": "/images/2026-03-02/2026-03-02-business-AI-017.webp"
+        "imageUrl": "/images/2026-03-02/2026-03-02-business-AI-019.webp"
       },
       {
-        "id": "AI-018",
+        "id": "AI-020",
         "title": "Iran, Berkshire Hathaway earnings, OpenAI's Pentagon deal and more in Morning Squawk",
         "summary": "Here are five key things investors need to know to start the trading day.",
         "content": "Here are five key things investors need to know to start the trading day.",
@@ -376,46 +416,6 @@
         "section": "business",
         "readTime": "2 min",
         "publishedAt": "Mon, 02 Mar 2026 13:09:06 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ],
-        "imageUrl": "/images/2026-03-02/2026-03-02-business-AI-018.webp"
-      },
-      {
-        "id": "AI-019",
-        "title": "The digital front: Iran’s internet down for second day amid reports of U.S.-Israel cyberattacks",
-        "summary": "Iran is facing widespread internet disruptions following the U.S.-Israeli airstrikes over the weekend.",
-        "content": "Iran is facing widespread internet disruptions following the U.S.-Israeli airstrikes over the weekend.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/02/irans-internet-down-amid-reports-of-us-israel-cyberattacks.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 02 Mar 2026 09:26:48 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ],
-        "imageUrl": "/images/2026-03-02/2026-03-02-business-AI-019.webp"
-      },
-      {
-        "id": "AI-020",
-        "title": "'Silent failure at scale': The AI risk that can tip the business world into disorder",
-        "summary": "As AI systems become more complex the risk of surpassing human comprehension, not intelligence, could lead to chaos, artificial intelligence experts warn.",
-        "content": "As AI systems become more complex the risk of surpassing human comprehension, not intelligence, could lead to chaos, artificial intelligence experts warn.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/01/ai-artificial-intelligence-economy-business-risks.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Sun, 01 Mar 2026 18:57:28 GMT",
         "normalizedTags": [
           "cnbc tech"
         ],
@@ -437,7 +437,7 @@
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Mon, 02 Mar 2026 14:00:14 +0000",
+        "publishedAt": "Mon, 02 Mar 2026 17:27:40 +0000",
         "normalizedTags": [
           "nyt technology"
         ],
@@ -457,7 +457,7 @@
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Sun, 01 Mar 2026 20:47:22 +0000",
+        "publishedAt": "Mon, 02 Mar 2026 21:16:51 +0000",
         "normalizedTags": [
           "nyt technology"
         ],
@@ -465,6 +465,26 @@
       },
       {
         "id": "AI-023",
+        "title": "Reporters Seek Comment. What Happens Next May Surprise You.",
+        "summary": "Accurate journalism requires full and fair reporting. It means pushing hard to hear from those you’re writing about.",
+        "content": "Accurate journalism requires full and fair reporting. It means pushing hard to hear from those you’re writing about.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/03/02/insider/journalism-reporting-seeking-comment.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 02 Mar 2026 16:38:12 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-03-02/2026-03-02-policy-AI-023.webp"
+      },
+      {
+        "id": "AI-024",
         "title": "Paramount Won Over Warner Bros. Now for the Regulators.",
         "summary": "Global officials are expected to closely examine the $111 billion deal, which ties together two entertainment powerhouses, over potential competition issues.",
         "content": "Global officials are expected to closely examine the $111 billion deal, which ties together two entertainment powerhouses, over potential competition issues.",
@@ -477,37 +497,37 @@
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Mon, 02 Mar 2026 10:02:19 +0000",
+        "publishedAt": "Mon, 02 Mar 2026 19:16:46 +0000",
         "normalizedTags": [
           "nyt technology"
         ],
-        "imageUrl": "/images/2026-03-02/2026-03-02-policy-AI-023.webp"
+        "imageUrl": "/images/2026-03-02/2026-03-02-policy-AI-024.webp"
       }
     ],
     "concerns": [],
     "culture": [
       {
-        "id": "AI-024",
-        "title": "US military reportedly used Claude in Iran strikes despite Trump’s ban",
-        "summary": "Trump calls Anthropic a ‘Radical Left AI company run by people who have no idea what the real World is all about’\n\nUS-Israel war on Iran – latest updates\n\nSign up for the Breaking News US email\n\nThe US military reportedly used Claude, Anthropic’s AI ",
-        "content": "Trump calls Anthropic a ‘Radical Left AI company run by people who have no idea what the real World is all about’\n\nUS-Israel war on Iran – latest updates\n\nSign up for the Breaking News US email\n\nThe US military reportedly used Claude, Anthropic’s AI model, to inform its attack on Iran despite Donald Trump’s decision, announced hours earlier, to sever all ties with the company and its artificial intelligence tools.\nThe use of Claude during the massive joint US-Israel bombardment of Iran that bega",
+        "id": "AI-025",
+        "title": "Anthropic’s AI model Claude gets popularity boost after US military feud",
+        "summary": "Claude climbs to top of app store charts in US and UK after being blacklisted by Pentagon over ethics concerns\nThe AI model Claude has surged in popularity after being blacklisted by the Pentagon last week over ethics concerns.\nClaude climbed to the ",
+        "content": "Claude climbs to top of app store charts in US and UK after being blacklisted by Pentagon over ethics concerns\nThe AI model Claude has surged in popularity after being blacklisted by the Pentagon last week over ethics concerns.\nClaude climbed to the No 1 spot on Apple’s chart of top free apps on Saturday in the US – dethroning OpenAI’s ChatGPT, just one day after the Pentagon tapped OpenAI to supply AI to classified military networks. The bot’s app climbed the iPhone app charts in the UK but did",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/mar/01/claude-anthropic-iran-strikes-us-military",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/mar/02/claude-anthropic-ai-pentagon",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Sun, 01 Mar 2026 17:00:43 GMT",
+        "publishedAt": "Mon, 02 Mar 2026 20:31:31 GMT",
         "normalizedTags": [
           "the guardian ai"
         ],
-        "imageUrl": "/images/2026-03-02/2026-03-02-culture-AI-024.webp"
+        "imageUrl": "/images/2026-03-02/2026-03-02-culture-AI-025.webp"
       },
       {
-        "id": "AI-025",
+        "id": "AI-026",
         "title": "‘The digital colonization of flyover states’: how datacenters are tearing small-town America apart",
         "summary": "The rapid rollout of datacenters across the US is creating a divide between municipal governments and residents\nWilmington, Ohio, resident Quintin Koger Kidd was so concerned last June with his local public officials’ alleged misdoings – open meeting",
         "content": "The rapid rollout of datacenters across the US is creating a divide between municipal governments and residents\nWilmington, Ohio, resident Quintin Koger Kidd was so concerned last June with his local public officials’ alleged misdoings – open meeting violations and other discrepancies – that he filed a complaint in court to have the mayor and city council members removed from their posts.\nWhen Koger Kidd later heard that the city supported plans by Amazon Web Services to build a $4bn datacenter ",
@@ -524,10 +544,10 @@
         "normalizedTags": [
           "the guardian ai"
         ],
-        "imageUrl": "/images/2026-03-02/2026-03-02-culture-AI-025.webp"
+        "imageUrl": "/images/2026-03-02/2026-03-02-culture-AI-026.webp"
       },
       {
-        "id": "AI-026",
+        "id": "AI-027",
         "title": "I’m on the Meta Oversight Board. We need AI protections now | Suzanne Nossel",
         "summary": "AI is transforming our world. Accepting independent oversight is the least companies can do to protect our rights\nThe speed with which AI is transforming our lives is head-spinning. Unlike previous technological revolutions – radio, nuclear fission o",
         "content": "AI is transforming our world. Accepting independent oversight is the least companies can do to protect our rights\nThe speed with which AI is transforming our lives is head-spinning. Unlike previous technological revolutions – radio, nuclear fission or the internet – governments are not leading the way. We know that AI can be dangerous; chatbots advise teens on suicide and may soon be capable of instructing on how to create biological weapons. Yet there is no equivalent to the Federal Drug Admini",
@@ -544,10 +564,10 @@
         "normalizedTags": [
           "the guardian ai"
         ],
-        "imageUrl": "/images/2026-03-02/2026-03-02-culture-AI-026.webp"
+        "imageUrl": "/images/2026-03-02/2026-03-02-culture-AI-027.webp"
       },
       {
-        "id": "AI-027",
+        "id": "AI-028",
         "title": "Subscribed to AI for the People? Share your new favorite prompts with us",
         "summary": "Tell us how you’ve been using AI since signing up to our newsletter course on how to make it work for you\nOur six-week newsletter course AI for the People is helping Guardian readers use AI in smarter, more mindful ways – and now we want to hear from",
         "content": "Tell us how you’ve been using AI since signing up to our newsletter course on how to make it work for you\nOur six-week newsletter course AI for the People is helping Guardian readers use AI in smarter, more mindful ways – and now we want to hear from you.\nHave you found a fun or practical way to use AI in your everyday life? Maybe it’s helped you organize something that always felt chaotic, learn something you’d been putting off, or solve a problem you didn’t expect it to.\n Continue reading...",
@@ -564,10 +584,10 @@
         "normalizedTags": [
           "the guardian ai"
         ],
-        "imageUrl": "/images/2026-03-02/2026-03-02-culture-AI-027.webp"
+        "imageUrl": "/images/2026-03-02/2026-03-02-culture-AI-028.webp"
       },
       {
-        "id": "AI-028",
+        "id": "AI-029",
         "title": "There’s a lot to hate about AI. But what if there was a mindful way to use it?",
         "summary": "Our new free course AI for the People will show you practical ways to work with AI –without giving up judgment, privacy or your humanity\n\nSign up for AI for the People, a six-week newsletter course, here\n\n Continue reading...",
         "content": "Our new free course AI for the People will show you practical ways to work with AI –without giving up judgment, privacy or your humanity\n\nSign up for AI for the People, a six-week newsletter course, here\n\n Continue reading...",
@@ -584,7 +604,7 @@
         "normalizedTags": [
           "the guardian ai"
         ],
-        "imageUrl": "/images/2026-03-02/2026-03-02-culture-AI-028.webp"
+        "imageUrl": "/images/2026-03-02/2026-03-02-culture-AI-029.webp"
       }
     ]
   },
@@ -594,35 +614,36 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
+    "https://techcrunch.com/2026/03/02/openai-anthropic-department-of-defense-war-hegseth-ai-companies-work-with-us-government/",
+    "https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/",
+    "https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/",
+    "https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/",
     "https://techcrunch.com/2026/03/02/anthropics-claude-reports-widespread-outage/",
-    "https://techcrunch.com/2026/03/01/google-looks-to-tackle-longstanding-rcs-spam-in-india-but-not-alone/",
-    "https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon/",
-    "https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth",
-    "https://www.theverge.com/tech/885228/lenovo-ai-workmate-companion-work-concept-robot-arm-desktop-clock-hub",
+    "https://the-decoder.com/asml-plans-to-expand-beyond-chip-lithography-into-advanced-packaging/",
+    "https://the-decoder.com/thousands-of-procurement-documents-show-how-chinas-army-wants-to-weaponize-ai/",
     "https://the-decoder.com/inside-the-anthropic-pentagon-breakdown-mass-surveillance-autonomous-weapons-and-a-rival-deal-waiting-in-the-wings/",
     "https://the-decoder.com/anthropics-new-prompt-forces-chatgpt-to-reveal-everything-it-knows-about-you/",
-    "https://www.creativebloq.com/3d/video-game-design/ai-takes-away-the-joy-i-would-have-in-filmmaking-albert-birney-on-his-lo-fi-sci-fi-adventure-obex",
-    "https://www.creativebloq.com/tech/laptops/is-the-acer-chromebook-spin-311-the-ultimate-budget-companion",
-    "https://www.creativebloq.com/design/advertising/these-gorillaz-x-spotify-ads-are-hiding-something-really-cool",
+    "https://www.creativebloq.com/tech/headphones-earbuds/this-music-visualiser-is-the-coolest-thing-i-dont-need",
+    "https://www.technologyreview.com/2026/03/02/1133850/openais-compromise-with-the-pentagon-is-what-anthropic-feared/",
     "https://www.technologyreview.com/2026/03/02/1133811/the-download-protesting-ai-and-whats-floating-in-space/",
     "https://www.technologyreview.com/2026/03/02/1133814/i-checked-out-londons-biggest-ever-anti-ai-protest/",
     "https://arxiv.org/abs/2602.23367",
     "https://arxiv.org/abs/2602.23373",
-    "https://arxiv.org/abs/2602.23541",
+    "https://www.cnbc.com/2026/03/02/apple-iphone-17e-ipad-air-m4-chip.html",
+    "https://www.cnbc.com/2026/03/02/anthropic-claude-ai-outage-apple-pentagon.html",
     "https://www.cnbc.com/2026/03/02/starlink-deutsche-telekom-partnership.html",
     "https://www.cnbc.com/2026/03/02/nvidia-investment-coherent-lumentum.html",
     "https://www.cnbc.com/2026/03/02/5-things-to-know-before-the-bell.html",
-    "https://www.cnbc.com/2026/03/02/irans-internet-down-amid-reports-of-us-israel-cyberattacks.html",
-    "https://www.cnbc.com/2026/03/01/ai-artificial-intelligence-economy-business-risks.html",
     "https://www.nytimes.com/2026/03/02/technology/pentagon-anduril-palmer-luckey.html",
     "https://www.nytimes.com/2026/03/01/technology/anthropic-defense-dept-openai-talks.html",
+    "https://www.nytimes.com/2026/03/02/insider/journalism-reporting-seeking-comment.html",
     "https://www.nytimes.com/2026/03/02/technology/paramount-deal-approval.html",
-    "https://www.theguardian.com/technology/2026/mar/01/claude-anthropic-iran-strikes-us-military",
+    "https://www.theguardian.com/technology/2026/mar/02/claude-anthropic-ai-pentagon",
     "https://www.theguardian.com/us-news/2026/mar/02/amazon-data-centers-small-towns",
     "https://www.theguardian.com/commentisfree/2026/mar/02/meta-oversight-board-ai",
     "https://www.theguardian.com/lifeandstyle/2026/mar/02/share-favorite-ai-prompts",
     "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/02/how-to-use-ai-practically"
   ],
-  "generatedAt": "2026-03-02T15:10:03.176Z",
+  "generatedAt": "2026-03-02T23:19:32.870Z",
   "simpleSummaryImageUrl": "/images/2026-03-02/2026-03-02-summary.webp"
 }
