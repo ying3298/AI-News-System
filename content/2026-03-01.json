@@ -116,7 +116,15 @@
           "security",
           "research"
         ],
-        "imageUrl": "/images/2026-03-01/2026-03-01-research-AI-003.webp"
+        "imageUrl": "/images/2026-03-01/2026-03-01-research-AI-003.webp",
+        "relatedStories": [
+          {
+            "id": "AI-011",
+            "date": "2026-03-02",
+            "title": "AI Can Deanonymize Pseudonymous Internet Users for Just a Few Dollars",
+            "section": "concerns"
+          }
+        ]
       }
     ],
     "applications": [
@@ -322,7 +330,15 @@
           "systemic risk",
           "interpretability"
         ],
-        "imageUrl": "/images/2026-03-01/2026-03-01-concerns-AI-009.webp"
+        "imageUrl": "/images/2026-03-01/2026-03-01-concerns-AI-009.webp",
+        "relatedStories": [
+          {
+            "id": "AI-012",
+            "date": "2026-03-02",
+            "title": "'Silent Failure at Scale': AI Systems May Become Too Complex for Humans to Understand",
+            "section": "concerns"
+          }
+        ]
       },
       {
         "id": "AI-010",
