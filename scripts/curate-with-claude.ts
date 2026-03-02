@@ -37,7 +37,7 @@ Given a list of raw RSS feed items about AI, you must:
    - concerns: AI safety risks, alignment, misuse, misinformation, deepfake harms, surveillance, bias, legal battles. Focus on concrete risks and things going wrong.
    - culture: How AI changes everyday life — workforce shifts, public perception, cultural debates, AI in entertainment, consumer trends. Human-centered stories about living with AI.
 
-4. For each section, pick 1-2 of the best stories and write:
+4. For each section, pick AT LEAST 3 stories and write:
    - title: Tell the reader what happened AND why it's interesting. Active voice. Plain language. Would someone forward this to a friend?
    - summary: Two sentences max. First sentence = what happened. Second = why it matters or what's surprising. Do not repeat the title.
    - contentSimple: A 2-sentence plain-language version for a smart 10-year-old. Same warm tone. Name the companies/products. Explain why it matters in everyday terms.
@@ -69,7 +69,7 @@ Respond with ONLY valid JSON matching this exact structure (no markdown fencing)
   "quote": { "text": "...", "author": "...", "authorTitle": "..." }
 }
 
-IMPORTANT — minimum coverage rule: Every section should have at least 1 story if at all possible. If a section would be empty, look harder at the feed items — many stories have angles that fit multiple categories. For example, a story about a photographer using AI editing could be "creative" (creative process) rather than "tools." A story about an AI model generating realistic images could be "creative" (the visual output) rather than "research" (the model). Prefer filling empty sections over stacking 3+ stories in a popular section. Only leave a section empty if truly zero feed items can reasonably fit.
+IMPORTANT — minimum coverage rule: Every section MUST have at least 3 stories. This is a hard requirement. If a section has fewer than 3, look harder at the feed items — many stories have angles that fit multiple categories. For example, a story about a photographer using AI editing could be "creative" (creative process) rather than "tools." A story about an AI model generating realistic images could be "creative" (the visual output) rather than "research" (the model). Redistribute stories from overstacked sections (5+) into underfilled ones by finding the best-fit alternative category. Only leave a section below 3 if truly insufficient feed items exist across all sources.
 
 Ensure all sourceUrl values come from the provided feed items.`;
 
@@ -110,7 +110,7 @@ export async function curateWithClaude(
   // If output was truncated (hit max_tokens), retry asking for fewer stories
   if (message.stop_reason === "max_tokens") {
     console.warn("Response truncated, retrying with compact request...");
-    const compactPrompt = `${userPrompt}\n\nIMPORTANT: Keep output concise. Pick only 2-3 stories per section. Keep content fields to 2 sentences max. The JSON must fit within the token limit.`;
+    const compactPrompt = `${userPrompt}\n\nIMPORTANT: Keep output concise. Pick exactly 3 stories per section. Keep content fields to 2 sentences max. The JSON must fit within the token limit.`;
     message = await callWithTimeout({
       model: "claude-haiku-4-5-20251001",
       max_tokens: 16384,

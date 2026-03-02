@@ -122,6 +122,44 @@ Before an image passes, it should satisfy:
 
 ---
 
+## Visual Lexicon: Artist References & Rationale
+
+The image system uses 9 style categories, each anchored by specific artist references. These references guide the AI image generator toward distinct visual signatures rather than generic output.
+
+### Why Artist References Matter
+AI image generators respond powerfully to named artist styles. Rather than describing "grainy black and white photography," referencing "Daido Moriyama" produces images with his specific confrontational framing, blown-out contrast, and urban energy. Each artist below was chosen because their visual signature is distinctive enough for a model to interpret.
+
+### Category Map
+
+| ID | Category | Primary Artists | Visual Signature |
+|----|----------|----------------|-----------------|
+| A | `modern_condition` | Tetsuya Ishida, Pawel Kuczynski, Edward Hopper, **Fan Ho**, **Michael Wolf** | Humans dwarfed by systems — isolation, geometric shadow, claustrophobic density |
+| B | `techno_dystopia` | Beeple, Simon Stalenhag, **Andreas Gursky**, **Ernst Haas** | Monumental scale, god's-eye views, motion-blurred amber city light |
+| C | `psychological` | Magritte, Dali, Rob Gonsalves, **Eikoh Hosoe**, **Hiroshi Sugimoto** | Dream logic + Japanese avant-garde, meditative voids, bodily distortion |
+| D | `environmental` | Jacek Yerka, Vladimir Kush, Erik Johansson, **Hasui Kawase**, **Sebastiao Salgado** | Fantasy landscapes + woodblock atmosphere + epic documentary scale |
+| E | `nostalgic` | Yumeji Takehisa, Arthur Rackham, **Rinko Kawauchi**, **Saul Leiter** | Film-grain intimacy, luminous everyday, rain-streaked painterly warmth |
+| F | `visceral` | Gregory Crewdson, Duane Michals, **Daido Moriyama**, **Todd Hido** | Raw street grain, suburban noir, confrontational and cinematic |
+| G | `analog_documentary` | **Daido Moriyama**, **William Klein**, **Sebastiao Salgado**, **Shomei Tomatsu** | High-contrast B&W, extreme grain, documentary social realism |
+| H | `japanese_minimalism` | **Masao Yamamoto**, **Rinko Kawauchi**, **Ikko Tanaka**, **Hasui Kawase** | Wabi-sabi, negative space, ink-on-paper, Zen stillness |
+| I | `print_materiality` | **Tadanori Yokoo**, **Yusaku Kamekura**, **Gerd Arntz** | Risograph/screen-print, halftone dots, bold typography, limited palette |
+
+**Bold** = added 2025-03-01 based on reference image inspiration session.
+
+### Section-to-Style Mapping
+
+| Section | Primary Style | Fallback |
+|---------|--------------|----------|
+| Tools & Products | `techno_dystopia` | `print_materiality` |
+| Creative AI | `nostalgic` | `japanese_minimalism` |
+| Research | `japanese_minimalism` | `psychological` |
+| AI in the Wild | `modern_condition` | `analog_documentary` |
+| Industry & Business | `print_materiality` | `modern_condition` |
+| Government & Policy | `analog_documentary` | `visceral` |
+| Safety & Ethics | `visceral` | `analog_documentary` |
+| AI & Society | `techno_dystopia` | `nostalgic` |
+
+---
+
 ## Technical Implementation
 
 Image generation is handled by:

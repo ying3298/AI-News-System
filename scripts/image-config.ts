@@ -4,8 +4,12 @@
  */
 
 export const IMAGE_CONFIG = {
-  /** Gemini model for AI image generation (Nano Banana Pro) */
-  model: "gemini-3-pro-image-preview",
+  /** Gemini image models — tries in order until one works */
+  models: [
+    "gemini-3-pro-image-preview",      // Nano Banana Pro (preferred)
+    "nano-banana-pro-preview",          // Nano Banana Pro (alternate ID)
+    "gemini-2.5-flash-image",           // Nano Banana Flash (fallback)
+  ],
 
   /** Output format */
   format: "webp" as const,
@@ -22,11 +26,11 @@ export const IMAGE_CONFIG = {
   /** Card image — story cards in the feed grid */
   card: { width: 800, height: 450, aspectRatio: "16:9" },
 
-  /** Max parallel Gemini requests (stay under 300 RPM) */
-  batchConcurrency: 5,
+  /** Max parallel Gemini requests (Gemini quota: 20 RPM) */
+  batchConcurrency: 4,
 
-  /** Delay between batches in ms */
-  batchDelayMs: 1000,
+  /** Delay between batches in ms (15s × 4 = ~16 RPM, safely under 20 RPM limit) */
+  batchDelayMs: 15000,
 };
 
 // All images are now AI-generated via Gemini — no RSS source image handling needed.

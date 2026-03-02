@@ -26,6 +26,40 @@ function getAI(): GoogleGenAI {
   return ai;
 }
 
+// Resolved at startup by probeModel()
+let activeModel: string = "";
+
+/**
+ * Probe each model in IMAGE_CONFIG.models with a tiny test request.
+ * Returns the first model that responds successfully.
+ */
+async function probeModel(): Promise<string> {
+  for (const model of IMAGE_CONFIG.models) {
+    try {
+      console.log(`Probing model: ${model}...`);
+      const response = await getAI().models.generateContent({
+        model,
+        contents: "A single red dot on a white background",
+        config: { responseModalities: ["TEXT", "IMAGE"] },
+      });
+      const parts = response.candidates?.[0]?.content?.parts || [];
+      const hasImage = parts.some((p: any) =>
+        p.inlineData?.mimeType?.startsWith("image/")
+      );
+      if (hasImage) {
+        console.log(`✓ Using model: ${model}`);
+        return model;
+      }
+      console.warn(`  ${model}: responded but no image data`);
+    } catch (error: any) {
+      const msg = error.message?.substring(0, 100) || "unknown error";
+      console.warn(`  ${model}: unavailable (${msg})`);
+    }
+  }
+  console.error("No image models available. All probes failed.");
+  process.exit(1);
+}
+
 interface ImageTask {
   prompt: string;
   outputPath: string; // absolute filesystem path
@@ -37,44 +71,62 @@ interface ImageTask {
 
 /**
  * Generate a single image via Gemini and save as WebP.
+ * Retries up to maxRetries times with exponential backoff on 503/429 errors.
  */
-async function generateSingleImage(task: ImageTask): Promise<boolean> {
-  try {
-    const response = await getAI().models.generateContent({
-      model: IMAGE_CONFIG.model,
-      contents: task.prompt,
-      config: {
-        responseModalities: ["TEXT", "IMAGE"],
-      },
-    });
+async function generateSingleImage(task: ImageTask, maxRetries = 3): Promise<boolean> {
+  // Skip if image already exists (for incremental retries)
+  if (fs.existsSync(task.outputPath)) {
+    console.log(`Skipped (exists): ${task.publicPath}`);
+    return true;
+  }
 
-    // Find the image part in the response
-    const parts = response.candidates?.[0]?.content?.parts || [];
-    const imagePart = parts.find((p: any) =>
-      p.inlineData?.mimeType?.startsWith("image/")
-    );
+  for (let attempt = 0; attempt <= maxRetries; attempt++) {
+    try {
+      const response = await getAI().models.generateContent({
+        model: activeModel,
+        contents: task.prompt,
+        config: {
+          responseModalities: ["TEXT", "IMAGE"],
+        },
+      });
 
-    if (!imagePart?.inlineData?.data) {
-      console.warn(`No image data returned for: ${task.publicPath}`);
+      // Find the image part in the response
+      const parts = response.candidates?.[0]?.content?.parts || [];
+      const imagePart = parts.find((p: any) =>
+        p.inlineData?.mimeType?.startsWith("image/")
+      );
+
+      if (!imagePart?.inlineData?.data) {
+        console.warn(`No image data returned for: ${task.publicPath}`);
+        return false;
+      }
+
+      const pngBuffer = Buffer.from(imagePart.inlineData.data, "base64");
+
+      // Convert to WebP and resize to target dimensions
+      await sharp(pngBuffer)
+        .resize(task.width, task.height, { fit: "cover" })
+        .webp({ quality: IMAGE_CONFIG.quality })
+        .toFile(task.outputPath);
+
+      console.log(`Generated: ${task.publicPath}`);
+      return true;
+    } catch (error: any) {
+      const msg = error.message || "";
+      const isRetryable = msg.includes("503") || msg.includes("429") || msg.includes("UNAVAILABLE") || msg.includes("RESOURCE_EXHAUSTED") || msg.includes("fetch failed");
+
+      if (isRetryable && attempt < maxRetries) {
+        const delay = Math.pow(2, attempt + 1) * 5000; // 10s, 20s, 40s
+        console.warn(`Retry ${attempt + 1}/${maxRetries} for ${task.publicPath} in ${delay / 1000}s...`);
+        await new Promise((r) => setTimeout(r, delay));
+        continue;
+      }
+
+      console.warn(`Failed to generate image for ${task.publicPath}: ${msg}`);
       return false;
     }
-
-    const pngBuffer = Buffer.from(imagePart.inlineData.data, "base64");
-
-    // Convert to WebP and resize to target dimensions
-    await sharp(pngBuffer)
-      .resize(task.width, task.height, { fit: "cover" })
-      .webp({ quality: IMAGE_CONFIG.quality })
-      .toFile(task.outputPath);
-
-    console.log(`Generated: ${task.publicPath}`);
-    return true;
-  } catch (error: any) {
-    console.warn(
-      `Failed to generate image for ${task.publicPath}: ${error.message}`
-    );
-    return false;
   }
+  return false;
 }
 
 /**
@@ -134,6 +186,9 @@ async function main() {
     process.argv[2] = todayStr;
     return main();
   }
+
+  // Probe models to find the best available one
+  activeModel = await probeModel();
 
   const contentPath = path.join(CONTENT_DIR, `${dateStr}.json`);
   if (!fs.existsSync(contentPath)) {

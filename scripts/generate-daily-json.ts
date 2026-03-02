@@ -257,6 +257,18 @@ async function main() {
     content = buildFallbackContent(rawItems, dateStr);
   }
 
+  // Step 2.5: Validate minimum 3 stories per category
+  const MIN_STORIES_PER_SECTION = 3;
+  const sectionNames = Object.keys(content.sections) as (keyof typeof content.sections)[];
+  for (const section of sectionNames) {
+    const count = content.sections[section].length;
+    if (count < MIN_STORIES_PER_SECTION) {
+      console.warn(
+        `⚠ Section "${section}" has only ${count} stor${count === 1 ? "y" : "ies"} (minimum: ${MIN_STORIES_PER_SECTION})`
+      );
+    }
+  }
+
   // Step 3: Update index (needed before threading)
   fs.mkdirSync(CONTENT_DIR, { recursive: true });
 
