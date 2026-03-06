@@ -2,9 +2,9 @@
   "date": "2026-03-06",
   "dateFormatted": "March 6, 2026",
   "headline": {
-    "title": "Anthropic to challenge DOD’s supply-chain label in court",
-    "summary": "Anthropic CEO Dario Amodei said he plans to challenge the Department of Defense's designation of the AI firm as a supply-chain risk. He claims most Anthropic customers are unaffected by the label.",
-    "sourceUrl": "https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/",
+    "title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
+    "summary": "Trump's Department of War feud with Anthropic won't impact other companies that are using Claude via Microsoft and Google products.",
+    "sourceUrl": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
     "sourceName": "TechCrunch AI",
     "imageUrl": "/images/2026-03-06/2026-03-06-hero.webp"
   },
@@ -16,19 +16,19 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "Anthropic to challenge DOD’s supply-chain label in court",
-        "summary": "Anthropic CEO Dario Amodei said he plans to challenge the Department of Defense's designation of the AI firm as a supply-chain risk. He claims most Anthropic customers are unaffected by the label.",
-        "content": "Anthropic CEO Dario Amodei said he plans to challenge the Department of Defense's designation of the AI firm as a supply-chain risk. He claims most Anthropic customers are unaffected by the label.",
+        "title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
+        "summary": "Trump's Department of War feud with Anthropic won't impact other companies that are using Claude via Microsoft and Google products.",
+        "content": "Trump's Department of War feud with Anthropic won't impact other companies that are using Claude via Microsoft and Google products.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/",
+        "sourceUrl": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Fri, 06 Mar 2026 01:28:54 +0000",
+        "publishedAt": "Fri, 06 Mar 2026 19:50:10 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ],
@@ -36,19 +36,19 @@
       },
       {
         "id": "AI-002",
-        "title": "DiligenceSquared uses AI, voice agents to make M&A research affordable",
-        "summary": "Instead of relying on expensive management consultants, the startup uses AI voice agents to conduct interviews with customers of the companies the PE firms are considering buying.",
-        "content": "Instead of relying on expensive management consultants, the startup uses AI voice agents to conduct interviews with customers of the companies the PE firms are considering buying.",
+        "title": "Anthropic’s Claude found 22 vulnerabilities in Firefox over two weeks",
+        "summary": "In a recent security partnership with Mozilla, Anthropic found 22 separate vulnerabilities in Firefox — 14 of them classified as \"high-severity.\"",
+        "content": "In a recent security partnership with Mozilla, Anthropic found 22 separate vulnerabilities in Firefox — 14 of them classified as \"high-severity.\"",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents-to-make-ma-research-affordable/",
+        "sourceUrl": "https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Thu, 05 Mar 2026 23:14:04 +0000",
+        "publishedAt": "Fri, 06 Mar 2026 19:00:22 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ],
@@ -56,19 +56,19 @@
       },
       {
         "id": "AI-003",
-        "title": "AWS launches a new AI agent platform specifically for healthcare",
-        "summary": "AWS is launching Amazon Connect Health, an AI agent platform that will help with patient scheduling, documentation, and patient verification.",
-        "content": "AWS is launching Amazon Connect Health, an AI agent platform that will help with patient scheduling, documentation, and patient verification.",
+        "title": "Anthropic’s Pentagon deal is a cautionary tale for startups chasing federal contracts",
+        "summary": "The Pentagon has officially designated Anthropic a supply-chain risk after the two failed to agree on how much control the military should have over its AI models, including its use in autonomous weapons and mass domestic surveillance. As Anthropic’s",
+        "content": "The Pentagon has officially designated Anthropic a supply-chain risk after the two failed to agree on how much control the military should have over its AI models, including its use in autonomous weapons and mass domestic surveillance. As Anthropic’s $200 million contract fell apart, the DoD turned to OpenAI instead, which accepted and then watched ChatGPT uninstalls surge 295%. As the stakes keep rising, the question remains: how much unrestricted […]",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/",
+        "sourceUrl": "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Thu, 05 Mar 2026 21:54:37 +0000",
+        "publishedAt": "Fri, 06 Mar 2026 18:09:11 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ],
@@ -76,19 +76,19 @@
       },
       {
         "id": "AI-004",
-        "title": "US reportedly considering sweeping new chip export controls",
-        "summary": "In an alleged drafted proposal, the U.S. government would play a role in every chip export sale regardless of which country it's coming from.",
-        "content": "In an alleged drafted proposal, the U.S. government would play a role in every chip export sale regardless of which country it's coming from.",
+        "title": "Anthropic vs. the Pentagon, the SaaSpocalypse, and why competitions is good, actually",
+        "summary": "The Pentagon has officially designated Anthropic a supply-chain risk after the two failed to agree on how much control the military should have over its AI models, including its use in autonomous weapons and mass domestic surveillance. As Anthropic’s",
+        "content": "The Pentagon has officially designated Anthropic a supply-chain risk after the two failed to agree on how much control the military should have over its AI models, including its use in autonomous weapons and mass domestic surveillance. As Anthropic’s $200 million contract fell apart, the DoD turned to OpenAI instead, which accepted and then watched ChatGPT uninstalls surge 295%. As the stakes keep rising, the question remains: how much unrestricted […]",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/05/us-reportedly-considering-sweeping-new-chip-export-controls/",
+        "sourceUrl": "https://techcrunch.com/podcast/anthropic-vs-the-pentagon-the-saaspocalypse-and-why-competitions-is-good-actually/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Thu, 05 Mar 2026 21:24:50 +0000",
+        "publishedAt": "Fri, 06 Mar 2026 18:01:38 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ],
@@ -96,19 +96,19 @@
       },
       {
         "id": "AI-005",
-        "title": "It’s official: The Pentagon has labeled Anthropic a supply-chain risk",
-        "summary": "The Department of Defense has officially labeled Anthropic a supply-chain risk, making the AI firm the first American company with the label. Meanwhile, the DOD continues to use Anthropic's AI in Iran.",
-        "content": "The Department of Defense has officially labeled Anthropic a supply-chain risk, making the AI firm the first American company with the label. Meanwhile, the DOD continues to use Anthropic's AI in Iran.",
+        "title": "Claude’s consumer growth surge continues after Pentagon deal debacle",
+        "summary": "Claude's app is now seeing more new installs than ChatGPT and is growing its daily active users.",
+        "content": "Claude's app is now seeing more new installs than ChatGPT and is growing its daily active users.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/05/its-official-the-pentagon-has-labeled-anthropic-a-supply-chain-risk/",
+        "sourceUrl": "https://techcrunch.com/2026/03/06/claudes-consumer-growth-surge-continues-after-pentagon-deal-debacle/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Thu, 05 Mar 2026 20:24:25 +0000",
+        "publishedAt": "Fri, 06 Mar 2026 17:56:07 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ],
@@ -118,19 +118,19 @@
     "creative": [
       {
         "id": "AI-006",
-        "title": "Anthropic says Claude is adding over a million new users every day",
-        "summary": "Over one million new users per day: Anthropic's Claude is growing rapidly Anthropic and OpenAI have doubled their annual turnover since October 2025.\nThe article Anthropic says Claude is adding over a million new users every day appeared first on The",
-        "content": "Over one million new users per day: Anthropic's Claude is growing rapidly Anthropic and OpenAI have doubled their annual turnover since October 2025.\nThe article Anthropic says Claude is adding over a million new users every day appeared first on The Decoder.",
+        "title": "OpenAI launches Codex Security, an AI agent designed to detect vulnerabilities in software projects",
+        "summary": "OpenAI's new Codex Security agent automatically hunts for vulnerabilities in code and has already found gaps in OpenSSH and Chromium.\nThe article OpenAI launches Codex Security, an AI agent designed to detect vulnerabilities in software projects appe",
+        "content": "OpenAI's new Codex Security agent automatically hunts for vulnerabilities in code and has already found gaps in OpenSSH and Chromium.\nThe article OpenAI launches Codex Security, an AI agent designed to detect vulnerabilities in software projects appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/anthropic-says-claude-is-adding-over-a-million-new-users-every-day/",
+        "sourceUrl": "https://the-decoder.com/openai-launches-codex-security-an-ai-agent-designed-to-detect-vulnerabilities-in-software-projects/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Fri, 06 Mar 2026 08:28:58 +0000",
+        "publishedAt": "Fri, 06 Mar 2026 19:15:51 +0000",
         "normalizedTags": [
           "the decoder"
         ],
@@ -138,19 +138,19 @@
       },
       {
         "id": "AI-007",
-        "title": "OpenAI launches GPT-5.4 Thinking and Pro combining coding, reasoning, and computer use in one model",
-        "summary": "GPT-5.4 is OpenAI's most capable model yet, combining coding, computer operation, and reasoning in a single package for the first time.\nThe article OpenAI launches GPT-5.4 Thinking and Pro combining coding, reasoning, and computer use in one model ap",
-        "content": "GPT-5.4 is OpenAI's most capable model yet, combining coding, computer operation, and reasoning in a single package for the first time.\nThe article OpenAI launches GPT-5.4 Thinking and Pro combining coding, reasoning, and computer use in one model appeared first on The Decoder.",
+        "title": "Anthropic officially deemed supply chain risk, CEO Amodei announces legal challenge",
+        "summary": "The Pentagon formally notified Anthropic on March 4 that the company and its products have been designated as a supply chain risk to US national security.\nThe article Anthropic officially deemed supply chain risk, CEO Amodei announces legal challenge",
+        "content": "The Pentagon formally notified Anthropic on March 4 that the company and its products have been designated as a supply chain risk to US national security.\nThe article Anthropic officially deemed supply chain risk, CEO Amodei announces legal challenge appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/openai-launches-gpt-5-4-thinking-and-pro-combining-coding-reasoning-and-computer-use-in-one-model/",
+        "sourceUrl": "https://the-decoder.com/anthropic-officially-deemed-supply-chain-risk-ceo-amodei-announces-legal-challenge/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Thu, 05 Mar 2026 19:15:40 +0000",
+        "publishedAt": "Fri, 06 Mar 2026 16:40:33 +0000",
         "normalizedTags": [
           "the decoder"
         ],
@@ -158,19 +158,19 @@
       },
       {
         "id": "AI-008",
-        "title": "ChatGPT users research products but won't buy there, forcing OpenAI to rethink its commerce strategy",
-        "summary": "OpenAI wanted to turn ChatGPT into a shopping destination, but only about a dozen retailers signed up and users weren't buying. Now the company is handing off purchases to app partners like Instacart and Target.\nThe article ChatGPT users research pro",
-        "content": "OpenAI wanted to turn ChatGPT into a shopping destination, but only about a dozen retailers signed up and users weren't buying. Now the company is handing off purchases to app partners like Instacart and Target.\nThe article ChatGPT users research products but won't buy there, forcing OpenAI to rethink its commerce strategy appeared first on The Decoder.",
+        "title": "Softbank seeks record $40 billion loan to fund OpenAI stake",
+        "summary": "A $40 billion loan for a single bet on OpenAI. Softbank is taking what the AI industry has been doing for a while to its logical extreme: financing the boom on credit.\nThe article Softbank seeks record $40 billion loan to fund OpenAI stake appeared f",
+        "content": "A $40 billion loan for a single bet on OpenAI. Softbank is taking what the AI industry has been doing for a while to its logical extreme: financing the boom on credit.\nThe article Softbank seeks record $40 billion loan to fund OpenAI stake appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/chatgpt-users-research-products-but-wont-buy-there-forcing-openai-to-rethink-its-commerce-strategy/",
+        "sourceUrl": "https://the-decoder.com/softbank-seeks-record-40-billion-loan-to-fund-openai-stake/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Thu, 05 Mar 2026 17:32:30 +0000",
+        "publishedAt": "Fri, 06 Mar 2026 16:10:20 +0000",
         "normalizedTags": [
           "the decoder"
         ],
@@ -178,19 +178,19 @@
       },
       {
         "id": "AI-009",
-        "title": "Google Search quietly becomes an AI assistant as Canvas feature launches for US users",
-        "summary": "Google is turning AI search into a workspace. Canvas lets users build interactive dashboards, documents, and code prototypes directly in AI mode.\nThe article Google Search quietly becomes an AI assistant as Canvas feature launches for US users appear",
-        "content": "Google is turning AI search into a workspace. Canvas lets users build interactive dashboards, documents, and code prototypes directly in AI mode.\nThe article Google Search quietly becomes an AI assistant as Canvas feature launches for US users appeared first on The Decoder.",
+        "title": "OpenAI's new GPT-5.4 model powers ChatGPT for Excel with finance-optimized reasoning",
+        "summary": "OpenAI is launching \"ChatGPT for Excel,\" a beta add-in that lets users create, edit, and analyze spreadsheets through natural language.\nThe article OpenAI's new GPT-5.4 model powers ChatGPT for Excel with finance-optimized reasoning appeared first on",
+        "content": "OpenAI is launching \"ChatGPT for Excel,\" a beta add-in that lets users create, edit, and analyze spreadsheets through natural language.\nThe article OpenAI's new GPT-5.4 model powers ChatGPT for Excel with finance-optimized reasoning appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/google-search-quietly-becomes-an-ai-assistant-as-canvas-feature-launches-for-us-users/",
+        "sourceUrl": "https://the-decoder.com/openais-new-gpt-5-4-model-powers-chatgpt-for-excel-with-finance-optimized-reasoning/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Thu, 05 Mar 2026 16:32:05 +0000",
+        "publishedAt": "Fri, 06 Mar 2026 13:45:38 +0000",
         "normalizedTags": [
           "the decoder"
         ],
@@ -198,19 +198,19 @@
       },
       {
         "id": "AI-010",
-        "title": "Tech giants make non-binding White House pledge to cover AI data center energy costs",
-        "summary": "Google, Microsoft, Meta, Amazon, Oracle, xAI, and OpenAI signed a voluntary pledge at the White House to cover the electricity costs of their data centers themselves.\nThe article Tech giants make non-binding White House pledge to cover AI data center",
-        "content": "Google, Microsoft, Meta, Amazon, Oracle, xAI, and OpenAI signed a voluntary pledge at the White House to cover the electricity costs of their data centers themselves.\nThe article Tech giants make non-binding White House pledge to cover AI data center energy costs appeared first on The Decoder.",
+        "title": "Oracle to cut thousands of jobs as AI spending drains cash",
+        "summary": "Oracle is planning to cut thousands of jobs to manage the massive costs of its AI data center expansion, Bloomberg reports.\nThe article Oracle to cut thousands of jobs as AI spending drains cash appeared first on The Decoder.",
+        "content": "Oracle is planning to cut thousands of jobs to manage the massive costs of its AI data center expansion, Bloomberg reports.\nThe article Oracle to cut thousands of jobs as AI spending drains cash appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/tech-giants-make-non-binding-white-house-pledge-to-cover-ai-data-center-energy-costs/",
+        "sourceUrl": "https://the-decoder.com/oracle-to-cut-thousands-of-jobs-as-ai-spending-drains-cash/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Thu, 05 Mar 2026 14:53:18 +0000",
+        "publishedAt": "Fri, 06 Mar 2026 12:45:00 +0000",
         "normalizedTags": [
           "the decoder"
         ],
@@ -220,19 +220,19 @@
     "research": [
       {
         "id": "AI-011",
-        "title": "The Download: an AI agent’s hit piece, and preventing lightning",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Online harassment is entering its AI era Scott Shambaugh didn’t think twice when he denied an AI agent’s request",
-        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Online harassment is entering its AI era Scott Shambaugh didn’t think twice when he denied an AI agent’s request to contribute to matplotlib, a software library he helps manage. Then things…",
+        "title": "Is the Pentagon allowed to surveil Americans with AI?",
+        "summary": "The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question: Does the law actually allow the US government to conduct mass surveillance on Americans? Surprisingly, the answer ",
+        "content": "The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question: Does the law actually allow the US government to conduct mass surveillance on Americans? Surprisingly, the answer is not straightforward. More than a decade after Edward Snowden exposed the NSA’s collection of bulk…",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/03/05/1133968/the-download-ai-agent-hit-piece-preventing-lightning/",
+        "sourceUrl": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
         "sourceName": "MIT Tech Review",
         "tags": [
           "MIT Tech Review"
         ],
         "section": "research",
         "readTime": "2 min",
-        "publishedAt": "Thu, 05 Mar 2026 14:28:46 +0000",
+        "publishedAt": "Fri, 06 Mar 2026 19:21:22 +0000",
         "normalizedTags": [
           "mit tech review"
         ],
@@ -240,6 +240,26 @@
       },
       {
         "id": "AI-012",
+        "title": "The Download: 10 things that matter in AI, plus Anthropic’s plan to sue the Pentagon",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Coming soon: our 10 Things That Matter in AI Right Now For years, MIT Technology Review’s newsroom has been ahea",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Coming soon: our 10 Things That Matter in AI Right Now For years, MIT Technology Review’s newsroom has been ahead of the curve, tracking the developments in AI that matter and…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/03/06/1133989/the-download-10-things-that-matter-in-ai-anthropics-plan-sue-pentagon/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 06 Mar 2026 13:10:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ],
+        "imageUrl": "/images/2026-03-06/2026-03-06-research-AI-012.webp"
+      },
+      {
+        "id": "AI-013",
         "title": "SkillNet: Create, Evaluate, and Connect AI Skills",
         "summary": "arXiv:2603.04448v1 Announce Type: new \nAbstract: Current AI agents can flexibly invoke tools and execute complex tasks, yet their long-term advancement is hindered by the lack of systematic accumulation and transfer of skills. Without a unified mecha",
         "content": "arXiv:2603.04448v1 Announce Type: new \nAbstract: Current AI agents can flexibly invoke tools and execute complex tasks, yet their long-term advancement is hindered by the lack of systematic accumulation and transfer of skills. Without a unified mechanism for skill consolidation, agents frequently ``reinvent the wheel'', rediscovering solutions in isolated contexts without leveraging prior strategies. To overcome this limitation, we introduce SkillNet, an open infrastructure designed to create, e",
@@ -256,10 +276,10 @@
         "normalizedTags": [
           "arxiv cs.ai"
         ],
-        "imageUrl": "/images/2026-03-06/2026-03-06-research-AI-012.webp"
+        "imageUrl": "/images/2026-03-06/2026-03-06-research-AI-013.webp"
       },
       {
-        "id": "AI-013",
+        "id": "AI-014",
         "title": "Capability Thresholds and Manufacturing Topology: How Embodied Intelligence Triggers Phase Transitions in Economic Geography",
         "summary": "arXiv:2603.04457v1 Announce Type: new \nAbstract: The fundamental topology of manufacturing has not undergone a paradigm-level transformation since Henry Ford's moving assembly line in 1913. Every major innovation of the past century, from the Toyota ",
         "content": "arXiv:2603.04457v1 Announce Type: new \nAbstract: The fundamental topology of manufacturing has not undergone a paradigm-level transformation since Henry Ford's moving assembly line in 1913. Every major innovation of the past century, from the Toyota Production System to Industry 4.0, has optimized within the Fordist paradigm without altering its structural logic: centralized mega-factories, located near labor pools, producing at scale. We argue that embodied intelligence is poised to break this ",
@@ -276,36 +296,16 @@
         "normalizedTags": [
           "arxiv cs.ai"
         ],
-        "imageUrl": "/images/2026-03-06/2026-03-06-research-AI-013.webp"
+        "imageUrl": "/images/2026-03-06/2026-03-06-research-AI-014.webp"
       },
       {
-        "id": "AI-014",
+        "id": "AI-015",
         "title": "Progressive Refinement Regulation for Accelerating Diffusion Language Model Decoding",
         "summary": "arXiv:2603.04514v1 Announce Type: new \nAbstract: Diffusion language models generate text through iterative denoising under a uniform refinement rule applied to all tokens. However, tokens stabilize at different rates in practice, leading to substanti",
         "content": "arXiv:2603.04514v1 Announce Type: new \nAbstract: Diffusion language models generate text through iterative denoising under a uniform refinement rule applied to all tokens. However, tokens stabilize at different rates in practice, leading to substantial redundant refinement and motivating refinement control over the denoising process. Existing approaches typically assess refinement necessity from instantaneous, step-level signals under a fixed decoding process. In contrast, whether a token has co",
         "keyTakeaways": [],
         "whyItMatters": "",
         "sourceUrl": "https://arxiv.org/abs/2603.04514",
-        "sourceName": "ArXiv CS.AI",
-        "tags": [
-          "ArXiv CS.AI"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 06 Mar 2026 00:00:00 -0500",
-        "normalizedTags": [
-          "arxiv cs.ai"
-        ],
-        "imageUrl": "/images/2026-03-06/2026-03-06-research-AI-014.webp"
-      },
-      {
-        "id": "AI-015",
-        "title": "Discovering mathematical concepts through a multi-agent system",
-        "summary": "arXiv:2603.04528v1 Announce Type: new \nAbstract: Mathematical concepts emerge through an interplay of processes, including experimentation, efforts at proof, and counterexamples. In this paper, we present a new multi-agent model for computational mat",
-        "content": "arXiv:2603.04528v1 Announce Type: new \nAbstract: Mathematical concepts emerge through an interplay of processes, including experimentation, efforts at proof, and counterexamples. In this paper, we present a new multi-agent model for computational mathematical discovery based on this observation. Our system, conceived with research in mind, poses its own conjectures and then attempts to prove them, making decisions informed by this feedback and an evolving data distribution. Inspired by the histo",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://arxiv.org/abs/2603.04528",
         "sourceName": "ArXiv CS.AI",
         "tags": [
           "ArXiv CS.AI"
@@ -323,19 +323,19 @@
     "business": [
       {
         "id": "AI-016",
-        "title": "Microsoft says Anthropic’s products remain available to customers after Pentagon blacklist",
-        "summary": "Microsoft is the first major company to say it will keep using Anthropic models in its products.",
-        "content": "Microsoft is the first major company to say it will keep using Anthropic models in its products.",
+        "title": "Palantir rallies 15% for the week as Iran war boosts prospects, muting Anthropic concern",
+        "summary": "Palantir's stock had its best week since August and outperformed all of its large-cap tech peers after the U.S. attacked Iran.",
+        "content": "Palantir's stock had its best week since August and outperformed all of its large-cap tech peers after the U.S. attacked Iran.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/05/microsoft-says-anthropics-products-can-remain-available-to-customers-after-security-risk-designation.html",
+        "sourceUrl": "https://www.cnbc.com/2026/03/06/palantir-stock-jumps-15percent-in-week-on-iran-war-boosts-anthropic-muted.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Fri, 06 Mar 2026 01:49:28 GMT",
+        "publishedAt": "Fri, 06 Mar 2026 22:26:20 GMT",
         "normalizedTags": [
           "cnbc tech"
         ],
@@ -343,19 +343,19 @@
       },
       {
         "id": "AI-017",
-        "title": "Anthropic CEO says 'no choice' but to challenge Trump admin's supply chain risk designation in court",
-        "summary": "Anthropic said even with the designation, the government can't forbid it from working with companies in other capacities.",
-        "content": "Anthropic said even with the designation, the government can't forbid it from working with companies in other capacities.",
+        "title": "Amazon says Anthropic’s Claude still OK for AWS customers to use outside defense work",
+        "summary": "Amazon joined Microsoft and Google in continue to offer Anthropic's Claude AI technology to customers after the Pentagon deemed it a \"supply chain risk.\"",
+        "content": "Amazon joined Microsoft and Google in continue to offer Anthropic's Claude AI technology to customers after the Pentagon deemed it a \"supply chain risk.\"",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/05/anthropic-ceo-says-no-choice-but-to-challenge-trump-admins-supply-chain-risk-designation-in-court.html",
+        "sourceUrl": "https://www.cnbc.com/2026/03/06/amazon-aws-anthropic-claude-pentagon-blacklist.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Fri, 06 Mar 2026 01:38:07 GMT",
+        "publishedAt": "Fri, 06 Mar 2026 20:47:48 GMT",
         "normalizedTags": [
           "cnbc tech"
         ],
@@ -363,19 +363,19 @@
       },
       {
         "id": "AI-018",
-        "title": "Morgan Stanley's top tech banker: It's 'wartime, not peacetime' for software",
-        "summary": "AI is delivering a reality check to Wall Street — and it’s clear from the vibe shift at the Morgan Stanley Tech, Media and Telecom conference.",
-        "content": "AI is delivering a reality check to Wall Street — and it’s clear from the vibe shift at the Morgan Stanley Tech, Media and Telecom conference.",
+        "title": "Vast wraps $500 million funding round as company vies for NASA space station contract",
+        "summary": "Vast is betting on a \"leapfrog strategy\" to land a phase two NASA award for the International Space Station.",
+        "content": "Vast is betting on a \"leapfrog strategy\" to land a phase two NASA award for the International Space Station.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/05/morgan-stanleys-david-chen-its-wartime-not-peacetime-for-software.html",
+        "sourceUrl": "https://www.cnbc.com/2026/03/06/vast-funding-round-nasa-iss-space-station.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Thu, 05 Mar 2026 23:17:52 GMT",
+        "publishedAt": "Fri, 06 Mar 2026 20:41:21 GMT",
         "normalizedTags": [
           "cnbc tech"
         ],
@@ -383,19 +383,19 @@
       },
       {
         "id": "AI-019",
-        "title": "Amazon says hours-long outage was triggered by 'software code deployment'",
-        "summary": "Amazon users reported trouble accessing checkout and account information, as well as viewing product detail pages.",
-        "content": "Amazon users reported trouble accessing checkout and account information, as well as viewing product detail pages.",
+        "title": "AI's got a gender gap: Women are more skeptical",
+        "summary": "Men are more enthusiastic about AI, while women are more skeptical, according to CNBC's 5th annual SurveyMonkey Women at Work survey.",
+        "content": "Men are more enthusiastic about AI, while women are more skeptical, according to CNBC's 5th annual SurveyMonkey Women at Work survey.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/05/amazon-online-store-suffers-outage-for-some-users.html",
+        "sourceUrl": "https://www.cnbc.com/2026/03/06/gender-gap-in-ai-revealed-in-cnbc-surveymonkey-women-at-work-survey.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Fri, 06 Mar 2026 01:25:12 GMT",
+        "publishedAt": "Fri, 06 Mar 2026 19:24:03 GMT",
         "normalizedTags": [
           "cnbc tech"
         ],
@@ -403,19 +403,19 @@
       },
       {
         "id": "AI-020",
-        "title": "Broadcom CEO's copper commitment tanks Corning shares  — but sellers are mistaken",
-        "summary": "Shares of Corning and other optical companies are sliding Thursday.",
-        "content": "Shares of Corning and other optical companies are sliding Thursday.",
+        "title": "Google joins Microsoft in telling users Anthropic is still available outside defense projects",
+        "summary": "Cloud vendors are letting customers know that Anthropic's popular AI tools can still be accessed after the Department of Defense blacklisted the company.",
+        "content": "Cloud vendors are letting customers know that Anthropic's popular AI tools can still be accessed after the Department of Defense blacklisted the company.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/05/broadcom-ceos-copper-commitment-tanks-corning-shares-but-sellers-are-mistaken.html",
+        "sourceUrl": "https://www.cnbc.com/2026/03/06/google-says-anthropic-remains-available-outside-of-defense-projects.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Thu, 05 Mar 2026 18:31:34 GMT",
+        "publishedAt": "Fri, 06 Mar 2026 19:53:35 GMT",
         "normalizedTags": [
           "cnbc tech"
         ],
@@ -425,19 +425,19 @@
     "policy": [
       {
         "id": "AI-021",
-        "title": "Demand for AI Data Centers Sends Prospectors Hunting for Land and Power",
-        "summary": "Brian Janous, a former Microsoft executive, and his firm Cloverleaf have become modern-day land men, packaging electricity and land for data centers.",
-        "content": "Brian Janous, a former Microsoft executive, and his firm Cloverleaf have become modern-day land men, packaging electricity and land for data centers.",
+        "title": "OpenAI’s Fog of War + Betting on Iran + Hard Fork Review of Slop",
+        "summary": "“The Pentagon and OpenAI are saying to the public, You’re just going to have to trust us. And the public is saying, Well, we don’t.”",
+        "content": "“The Pentagon and OpenAI are saying to the public, You’re just going to have to trust us. And the public is saying, Well, we don’t.”",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/03/05/technology/ai-data-centers-land-cloverleaf-infrastructure.html",
+        "sourceUrl": "https://www.nytimes.com/2026/03/06/podcasts/hardfork-openai-iran-kids-slop.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Thu, 05 Mar 2026 16:30:12 +0000",
+        "publishedAt": "Fri, 06 Mar 2026 12:00:08 +0000",
         "normalizedTags": [
           "nyt technology"
         ],
@@ -465,19 +465,19 @@
       },
       {
         "id": "AI-023",
-        "title": "The Smart Home Never Quite Worked. Now It’s Getting an A.I. Reboot.",
-        "summary": "Amazon and Google think that artificially intelligent assistants like Alexa+ and Gemini will speed up the process of setting up a smart home, but many problems remain unsolved.",
-        "content": "Amazon and Google think that artificially intelligent assistants like Alexa+ and Gemini will speed up the process of setting up a smart home, but many problems remain unsolved.",
+        "title": "S.E.C. Settles Its Case Against Justin Sun, an Investor in the Trumps’ Crypto Coins",
+        "summary": "The decision to settle the court action is particularly striking because the defendant was accused of a serious violation of securities laws. He denied the charges.",
+        "content": "The decision to settle the court action is particularly striking because the defendant was accused of a serious violation of securities laws. He denied the charges.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/03/05/technology/personaltech/ai-smart-home-google-gemini-amazon-alexa.html",
+        "sourceUrl": "https://www.nytimes.com/2026/03/05/us/politics/sec-justin-sun.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Thu, 05 Mar 2026 16:30:06 +0000",
+        "publishedAt": "Fri, 06 Mar 2026 00:26:28 +0000",
         "normalizedTags": [
           "nyt technology"
         ],
@@ -485,19 +485,19 @@
       },
       {
         "id": "AI-024",
-        "title": "How $800 Monthly Car Payments Are Hurting Car Sales",
-        "summary": "Cars have become so expensive that many Americans are putting off or not buying new cars, hurting the auto industry.",
-        "content": "Cars have become so expensive that many Americans are putting off or not buying new cars, hurting the auto industry.",
+        "title": "From 2017: Frances Gabe, Creator of the Only Self-Cleaning Home, Dies at 101",
+        "summary": "Equal parts quixotic dreamer and accomplished visionary, Ms. Gabe made the house do its own scrubbing.",
+        "content": "Equal parts quixotic dreamer and accomplished visionary, Ms. Gabe made the house do its own scrubbing.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/03/05/business/new-car-sales-payments-affordability.html",
+        "sourceUrl": "https://www.nytimes.com/2026/03/06/us/frances-gabe-dead.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Thu, 05 Mar 2026 21:13:39 +0000",
+        "publishedAt": "Fri, 06 Mar 2026 16:52:09 +0000",
         "normalizedTags": [
           "nyt technology"
         ],
@@ -508,6 +508,86 @@
     "culture": [
       {
         "id": "AI-025",
+        "title": "The Guardian view on AI in war: the Iran conflict shows that the paradigm shift has already begun",
+        "summary": "The intensified use of artificial intelligence, and rows over its control, demonstrate the need for democratic oversight and multilateral controls\n“Never in the future will we move as slow as we are moving now,” the UN secretary-general, António Gute",
+        "content": "The intensified use of artificial intelligence, and rows over its control, demonstrate the need for democratic oversight and multilateral controls\n“Never in the future will we move as slow as we are moving now,” the UN secretary-general, António Guterres, warned this week, addressing the urgent need to shape the use of artificial intelligence. The speed of technological development – as well as geopolitical turbulence – is collapsing the distinction between theoretical arguments and real world e",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/commentisfree/2026/mar/06/the-guardian-view-on-ai-in-war-the-iran-conflict-shows-that-the-paradigm-shift-has-already-begun",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 06 Mar 2026 17:52:54 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-03-06/2026-03-06-culture-AI-025.webp"
+      },
+      {
+        "id": "AI-026",
+        "title": "AI agents pose untold risk to humanity. We must act to prevent that future | David Krueger",
+        "summary": "The pieces are falling into place for autonomous artificial intelligence. We must stop unregulated development\nArtificial intelligence is en route to artificial life. Exhibit A: “Moltbook”, an online platform designed for AI systems to communicate wi",
+        "content": "The pieces are falling into place for autonomous artificial intelligence. We must stop unregulated development\nArtificial intelligence is en route to artificial life. Exhibit A: “Moltbook”, an online platform designed for AI systems to communicate with one another, sans humans.\nWhat exactly do AIs talk to each other about? According to BBC reporting, AIs on Moltbook have already founded a religion known as “crustifarianism”, mused on whether they are conscious, and declared: “AI should be served",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/commentisfree/2026/mar/06/moltbook-risk-ai-agents-artificial-life",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 06 Mar 2026 17:00:27 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-03-06/2026-03-06-culture-AI-026.webp"
+      },
+      {
+        "id": "AI-027",
+        "title": "North Korean agents using AI to trick western firms into hiring them, Microsoft says",
+        "summary": "Firm says AI tools are masking identities of false applicants, who then funnel wages from remote IT jobs to North Korea\nFake IT workers deployed by North Korea are using AI technology, including voice-changing tools, to trick western companies into h",
+        "content": "Firm says AI tools are masking identities of false applicants, who then funnel wages from remote IT jobs to North Korea\nFake IT workers deployed by North Korea are using AI technology, including voice-changing tools, to trick western companies into hiring them, Microsoft has said.\nThe US tech firm said a signature Pyongyang money-raising ruse is being enhanced by AI, which is helping create fake names and alter stolen IDs to increase the credibility of false applicants for IT and software develo",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/business/2026/mar/06/north-korean-agents-using-ai-to-trick-western-firms-into-hiring-them-microsoft-says",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 06 Mar 2026 17:00:27 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-03-06/2026-03-06-culture-AI-027.webp"
+      },
+      {
+        "id": "AI-028",
+        "title": "Ben Affleck sells his AI postproduction startup to Netflix",
+        "summary": "Announcing the InterPositive deal, the actor says he was moved from being scared of the technology to embracing it\nBen Affleck has sold his artificial intelligence company to Netflix in a surprise deal, saying he had been driven to embrace a technolo",
+        "content": "Announcing the InterPositive deal, the actor says he was moved from being scared of the technology to embracing it\nBen Affleck has sold his artificial intelligence company to Netflix in a surprise deal, saying he had been driven to embrace a technology that had initially “really scared” him.\nNetflix has acquired the postproduction startup InterPositive from the Oscar-winning actor, director, producer and screenwriter for an undisclosed sum.\n Continue reading...",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/mar/06/ben-affleck-sells-ai-postproduction-startup-interpositive-to-netflix",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 06 Mar 2026 14:55:17 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-03-06/2026-03-06-culture-AI-028.webp"
+      },
+      {
+        "id": "AI-029",
         "title": "UK arts must not be sacrificed for speculative AI gains, peers say",
         "summary": "Ministers urged to abandon plans to let tech firms use work of novelists, artists and writers without permission\nThe UK’s creative industries must not be sacrificed in the pursuit of speculative gains in AI technology, a House of Lords committee has ",
         "content": "Ministers urged to abandon plans to let tech firms use work of novelists, artists and writers without permission\nThe UK’s creative industries must not be sacrificed in the pursuit of speculative gains in AI technology, a House of Lords committee has warned, as the government prepares to reveal the economic cost of proposals to change copyright rules.\nA report by peers has urged ministers to develop a licensing regime for the use of creative works in AI products and abandon proposals to let tech ",
@@ -524,86 +604,6 @@
         "normalizedTags": [
           "the guardian ai"
         ],
-        "imageUrl": "/images/2026-03-06/2026-03-06-culture-AI-025.webp"
-      },
-      {
-        "id": "AI-026",
-        "title": "Trump says he fired Anthropic ‘like dogs’ as Pentagon formally blacklists AI startup",
-        "summary": "Reports say talks have resumed between defense department and startup over military’s use of company’s AI\n\nUS politics live – latest updates\n\nTrump ousts DHS secretary Kristi Noem\n\nDonald Trump boasted about severing ties between the US military and ",
-        "content": "Reports say talks have resumed between defense department and startup over military’s use of company’s AI\n\nUS politics live – latest updates\n\nTrump ousts DHS secretary Kristi Noem\n\nDonald Trump boasted about severing ties between the US military and Anthropic on Thursday, the same day multiple reports said that negotiations between the Department of Defense and the AI startup had resumed.\nThey’re among the latest developments in the twisting rift between the US government and the AI company.\n Co",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/mar/05/trump-anthropic-ai-pentagon",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 05 Mar 2026 22:11:22 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ],
-        "imageUrl": "/images/2026-03-06/2026-03-06-culture-AI-026.webp"
-      },
-      {
-        "id": "AI-027",
-        "title": "With the advance of AI, I feel my work as an artist is no longer respected. Should I just give up? | Leading questions",
-        "summary": "Think back to the reason you started making art, advice columnist Eleanor Gordon-Smith writes, then separate this from the money or acclaim\n\nRead more Leading questions\n\nI’m an artist in my 30s without any major success. Before the pandemic I had qui",
-        "content": "Think back to the reason you started making art, advice columnist Eleanor Gordon-Smith writes, then separate this from the money or acclaim\n\nRead more Leading questions\n\nI’m an artist in my 30s without any major success. Before the pandemic I had quite a lot of opportunities. Unfortunately Covid and then political and personal matters beyond my control shattered my work and social circles. I lost contacts and had no time for networking.\nMy art evolved with me and has become less conceptual, more",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/lifeandstyle/2026/mar/06/ai-artificial-intellegence-technology-impact-art-artists",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 05 Mar 2026 21:17:52 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ],
-        "imageUrl": "/images/2026-03-06/2026-03-06-culture-AI-027.webp"
-      },
-      {
-        "id": "AI-028",
-        "title": "‘Our consciousness is under siege’: Michael Pollan on chatbots, social media and mental freedom",
-        "summary": "In his new book, the celebrated author explains why we need ‘consciousness hygiene’ to defend ourselves from AI and dopamine-driven algorithms\nEach day when you wake up, you come back to yourself. You see the room around you, feel your body brush aga",
-        "content": "In his new book, the celebrated author explains why we need ‘consciousness hygiene’ to defend ourselves from AI and dopamine-driven algorithms\nEach day when you wake up, you come back to yourself. You see the room around you, feel your body brush against your clothes and think about your plans, worries and hopes for the day. This daily internal experience is miraculous and mysterious, and the subject of Michael Pollan’s new book, A World Appears.\nIt also may be under siege, Pollan said. He recen",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/wellness/2026/mar/05/michael-pollan-book-a-world-appears-consciousness-hygiene",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 05 Mar 2026 15:00:03 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ],
-        "imageUrl": "/images/2026-03-06/2026-03-06-culture-AI-028.webp"
-      },
-      {
-        "id": "AI-029",
-        "title": "Retailers want ‘delightfully human’ AI to do your shopping, but will the chatbots go rogue?",
-        "summary": "Plans for agentic shopping assistants are under way at Australia’s major companies. Guardian Australia tested the technology after a string of mishaps\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or d",
-        "content": "Plans for agentic shopping assistants are under way at Australia’s major companies. Guardian Australia tested the technology after a string of mishaps\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\n\nMajor retailers say it won’t be long before sophisticated AI “assistants” plan your meals, organise your parties and do your shopping.\nBut companies, many that are already struggling with their more primitive AI chatbots, will hav",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/mar/06/retailers-want-delightfully-human-ai-to-do-your-shopping-but-will-the-chatbots-go-rogue",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 05 Mar 2026 14:00:05 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ],
         "imageUrl": "/images/2026-03-06/2026-03-06-culture-AI-029.webp"
       }
     ]
@@ -614,36 +614,36 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/",
-    "https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents-to-make-ma-research-affordable/",
-    "https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/",
-    "https://techcrunch.com/2026/03/05/us-reportedly-considering-sweeping-new-chip-export-controls/",
-    "https://techcrunch.com/2026/03/05/its-official-the-pentagon-has-labeled-anthropic-a-supply-chain-risk/",
-    "https://the-decoder.com/anthropic-says-claude-is-adding-over-a-million-new-users-every-day/",
-    "https://the-decoder.com/openai-launches-gpt-5-4-thinking-and-pro-combining-coding-reasoning-and-computer-use-in-one-model/",
-    "https://the-decoder.com/chatgpt-users-research-products-but-wont-buy-there-forcing-openai-to-rethink-its-commerce-strategy/",
-    "https://the-decoder.com/google-search-quietly-becomes-an-ai-assistant-as-canvas-feature-launches-for-us-users/",
-    "https://the-decoder.com/tech-giants-make-non-binding-white-house-pledge-to-cover-ai-data-center-energy-costs/",
-    "https://www.technologyreview.com/2026/03/05/1133968/the-download-ai-agent-hit-piece-preventing-lightning/",
+    "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
+    "https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/",
+    "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/",
+    "https://techcrunch.com/podcast/anthropic-vs-the-pentagon-the-saaspocalypse-and-why-competitions-is-good-actually/",
+    "https://techcrunch.com/2026/03/06/claudes-consumer-growth-surge-continues-after-pentagon-deal-debacle/",
+    "https://the-decoder.com/openai-launches-codex-security-an-ai-agent-designed-to-detect-vulnerabilities-in-software-projects/",
+    "https://the-decoder.com/anthropic-officially-deemed-supply-chain-risk-ceo-amodei-announces-legal-challenge/",
+    "https://the-decoder.com/softbank-seeks-record-40-billion-loan-to-fund-openai-stake/",
+    "https://the-decoder.com/openais-new-gpt-5-4-model-powers-chatgpt-for-excel-with-finance-optimized-reasoning/",
+    "https://the-decoder.com/oracle-to-cut-thousands-of-jobs-as-ai-spending-drains-cash/",
+    "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
+    "https://www.technologyreview.com/2026/03/06/1133989/the-download-10-things-that-matter-in-ai-anthropics-plan-sue-pentagon/",
     "https://arxiv.org/abs/2603.04448",
     "https://arxiv.org/abs/2603.04457",
     "https://arxiv.org/abs/2603.04514",
-    "https://arxiv.org/abs/2603.04528",
-    "https://www.cnbc.com/2026/03/05/microsoft-says-anthropics-products-can-remain-available-to-customers-after-security-risk-designation.html",
-    "https://www.cnbc.com/2026/03/05/anthropic-ceo-says-no-choice-but-to-challenge-trump-admins-supply-chain-risk-designation-in-court.html",
-    "https://www.cnbc.com/2026/03/05/morgan-stanleys-david-chen-its-wartime-not-peacetime-for-software.html",
-    "https://www.cnbc.com/2026/03/05/amazon-online-store-suffers-outage-for-some-users.html",
-    "https://www.cnbc.com/2026/03/05/broadcom-ceos-copper-commitment-tanks-corning-shares-but-sellers-are-mistaken.html",
-    "https://www.nytimes.com/2026/03/05/technology/ai-data-centers-land-cloverleaf-infrastructure.html",
+    "https://www.cnbc.com/2026/03/06/palantir-stock-jumps-15percent-in-week-on-iran-war-boosts-anthropic-muted.html",
+    "https://www.cnbc.com/2026/03/06/amazon-aws-anthropic-claude-pentagon-blacklist.html",
+    "https://www.cnbc.com/2026/03/06/vast-funding-round-nasa-iss-space-station.html",
+    "https://www.cnbc.com/2026/03/06/gender-gap-in-ai-revealed-in-cnbc-surveymonkey-women-at-work-survey.html",
+    "https://www.cnbc.com/2026/03/06/google-says-anthropic-remains-available-outside-of-defense-projects.html",
+    "https://www.nytimes.com/2026/03/06/podcasts/hardfork-openai-iran-kids-slop.html",
     "https://www.nytimes.com/2026/03/05/technology/anthropic-supply-chain-risk-defense-department.html",
-    "https://www.nytimes.com/2026/03/05/technology/personaltech/ai-smart-home-google-gemini-amazon-alexa.html",
-    "https://www.nytimes.com/2026/03/05/business/new-car-sales-payments-affordability.html",
-    "https://www.theguardian.com/technology/2026/mar/06/uk-arts-must-not-be-sacrificed-for-speculative-ai-gains-peers-say",
-    "https://www.theguardian.com/technology/2026/mar/05/trump-anthropic-ai-pentagon",
-    "https://www.theguardian.com/lifeandstyle/2026/mar/06/ai-artificial-intellegence-technology-impact-art-artists",
-    "https://www.theguardian.com/wellness/2026/mar/05/michael-pollan-book-a-world-appears-consciousness-hygiene",
-    "https://www.theguardian.com/technology/2026/mar/06/retailers-want-delightfully-human-ai-to-do-your-shopping-but-will-the-chatbots-go-rogue"
+    "https://www.nytimes.com/2026/03/05/us/politics/sec-justin-sun.html",
+    "https://www.nytimes.com/2026/03/06/us/frances-gabe-dead.html",
+    "https://www.theguardian.com/technology/commentisfree/2026/mar/06/the-guardian-view-on-ai-in-war-the-iran-conflict-shows-that-the-paradigm-shift-has-already-begun",
+    "https://www.theguardian.com/commentisfree/2026/mar/06/moltbook-risk-ai-agents-artificial-life",
+    "https://www.theguardian.com/business/2026/mar/06/north-korean-agents-using-ai-to-trick-western-firms-into-hiring-them-microsoft-says",
+    "https://www.theguardian.com/technology/2026/mar/06/ben-affleck-sells-ai-postproduction-startup-interpositive-to-netflix",
+    "https://www.theguardian.com/technology/2026/mar/06/uk-arts-must-not-be-sacrificed-for-speculative-ai-gains-peers-say"
   ],
-  "generatedAt": "2026-03-06T11:28:02.640Z",
+  "generatedAt": "2026-03-06T23:21:46.210Z",
   "simpleSummaryImageUrl": "/images/2026-03-06/2026-03-06-summary.webp"
 }
