@@ -1,0 +1,598 @@
+{
+  "date": "2026-03-07",
+  "dateFormatted": "March 7, 2026",
+  "headline": {
+    "title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
+    "summary": "Trump's Department of War feud with Anthropic won't impact other companies that are using Claude via Microsoft and Google products.",
+    "sourceUrl": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
+    "sourceName": "TechCrunch AI"
+  },
+  "simpleSummary": [
+    "Today's edition was assembled directly from RSS feeds without AI curation.",
+    "Browse the stories below for the latest AI news."
+  ],
+  "sections": {
+    "tools": [
+      {
+        "id": "AI-001",
+        "title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
+        "summary": "Trump's Department of War feud with Anthropic won't impact other companies that are using Claude via Microsoft and Google products.",
+        "content": "Trump's Department of War feud with Anthropic won't impact other companies that are using Claude via Microsoft and Google products.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 06 Mar 2026 19:50:10 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-002",
+        "title": "Anthropic’s Claude found 22 vulnerabilities in Firefox over two weeks",
+        "summary": "In a recent security partnership with Mozilla, Anthropic found 22 separate vulnerabilities in Firefox — 14 of them classified as \"high-severity.\"",
+        "content": "In a recent security partnership with Mozilla, Anthropic found 22 separate vulnerabilities in Firefox — 14 of them classified as \"high-severity.\"",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 06 Mar 2026 19:00:22 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-003",
+        "title": "Anthropic’s Pentagon deal is a cautionary tale for startups chasing federal contracts",
+        "summary": "The Pentagon has officially designated Anthropic a supply-chain risk after the two failed to agree on how much control the military should have over its AI models, including its use in autonomous weapons and mass domestic surveillance. As Anthropic’s",
+        "content": "The Pentagon has officially designated Anthropic a supply-chain risk after the two failed to agree on how much control the military should have over its AI models, including its use in autonomous weapons and mass domestic surveillance. As Anthropic’s $200 million contract fell apart, the DoD turned to OpenAI instead, which accepted and then watched ChatGPT uninstalls surge 295%. As the stakes keep rising, the question remains: how much unrestricted […]",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 06 Mar 2026 18:09:11 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-004",
+        "title": "Anthropic vs. the Pentagon, the SaaSpocalypse, and why competitions is good, actually",
+        "summary": "The Pentagon has officially designated Anthropic a supply-chain risk after the two failed to agree on how much control the military should have over its AI models, including its use in autonomous weapons and mass domestic surveillance. As Anthropic’s",
+        "content": "The Pentagon has officially designated Anthropic a supply-chain risk after the two failed to agree on how much control the military should have over its AI models, including its use in autonomous weapons and mass domestic surveillance. As Anthropic’s $200 million contract fell apart, the DoD turned to OpenAI instead, which accepted and then watched ChatGPT uninstalls surge 295%. As the stakes keep rising, the question remains: how much unrestricted […]",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/podcast/anthropic-vs-the-pentagon-the-saaspocalypse-and-why-competitions-is-good-actually/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 06 Mar 2026 18:01:38 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-005",
+        "title": "Claude’s consumer growth surge continues after Pentagon deal debacle",
+        "summary": "Claude's app is now seeing more new installs than ChatGPT and is growing its daily active users.",
+        "content": "Claude's app is now seeing more new installs than ChatGPT and is growing its daily active users.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/03/06/claudes-consumer-growth-surge-continues-after-pentagon-deal-debacle/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 06 Mar 2026 17:56:07 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      }
+    ],
+    "creative": [
+      {
+        "id": "AI-006",
+        "title": "Bytedance's open-weight Helios model brings minute-long AI video generation close to real time",
+        "summary": "Bytedance researchers say Helios is the first 14-billion-parameter video model to hit 19.5 FPS on a single GPU while generating minute-long clips. Code and weights are publicly available.\nThe article Bytedance's open-weight Helios model brings minute",
+        "content": "Bytedance researchers say Helios is the first 14-billion-parameter video model to hit 19.5 FPS on a single GPU while generating minute-long clips. Code and weights are publicly available.\nThe article Bytedance's open-weight Helios model brings minute-long AI video generation close to real time appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/bytedances-open-weight-helios-model-brings-minute-long-ai-video-generation-close-to-real-time/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 07 Mar 2026 11:00:47 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-007",
+        "title": "OpenAI and Oracle stop expanding their flagship data center in Texas over power supply delays",
+        "summary": "OpenAI and Oracle are halting the expansion of their Stargate data center in Texas. Instead, OpenAI plans to invest in Nvidia's next-gen Vera Rubin chips at new locations.\nThe article OpenAI and Oracle stop expanding their flagship data center in Tex",
+        "content": "OpenAI and Oracle are halting the expansion of their Stargate data center in Texas. Instead, OpenAI plans to invest in Nvidia's next-gen Vera Rubin chips at new locations.\nThe article OpenAI and Oracle stop expanding their flagship data center in Texas over power supply delays appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/openai-and-oracle-stop-expanding-their-flagship-data-center-in-texas-over-power-supply-delays/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 07 Mar 2026 10:15:39 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-008",
+        "title": "Anthropic turns Claude Code into a background worker with local scheduled tasks",
+        "summary": "Claude Code Desktop now lets users schedule recurring tasks that run automatically, like checking error logs and creating pull requests for fixable bugs every few hours.\nThe article Anthropic turns Claude Code into a background worker with local sche",
+        "content": "Claude Code Desktop now lets users schedule recurring tasks that run automatically, like checking error logs and creating pull requests for fixable bugs every few hours.\nThe article Anthropic turns Claude Code into a background worker with local scheduled tasks appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/anthropic-turns-claude-code-into-a-background-worker-with-local-scheduled-tasks/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 07 Mar 2026 09:42:58 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-009",
+        "title": "Despite Pentagon ban, Google, AWS, and Microsoft stick with Anthropic's AI models",
+        "summary": "Anthropic in a clinch with the Pentagon: Google, Amazon and Microsoft are backing their AI partner, at least outside the military.\nThe article Despite Pentagon ban, Google, AWS, and Microsoft stick with Anthropic's AI models appeared first on The Dec",
+        "content": "Anthropic in a clinch with the Pentagon: Google, Amazon and Microsoft are backing their AI partner, at least outside the military.\nThe article Despite Pentagon ban, Google, AWS, and Microsoft stick with Anthropic's AI models appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/despite-pentagon-ban-google-aws-and-microsoft-stick-with-anthropics-ai-models/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 07 Mar 2026 09:21:48 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-010",
+        "title": "Anthropic's new marketplace lets enterprise customers spend their existing AI budget on third-party tools",
+        "summary": "Anthropic is launching the Anthropic Marketplace, a storefront where corporate customers can buy third-party software built on Anthropic's AI models.\nThe article Anthropic's new marketplace lets enterprise customers spend their existing AI budget on ",
+        "content": "Anthropic is launching the Anthropic Marketplace, a storefront where corporate customers can buy third-party software built on Anthropic's AI models.\nThe article Anthropic's new marketplace lets enterprise customers spend their existing AI budget on third-party tools appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/anthropics-new-marketplace-lets-enterprise-customers-spend-their-existing-ai-budget-on-third-party-tools/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 07 Mar 2026 08:56:14 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      }
+    ],
+    "research": [
+      {
+        "id": "AI-011",
+        "title": "Is the Pentagon allowed to surveil Americans with AI?",
+        "summary": "The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question: Does the law actually allow the US government to conduct mass surveillance on Americans? Surprisingly, the answer ",
+        "content": "The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question: Does the law actually allow the US government to conduct mass surveillance on Americans? Surprisingly, the answer is not straightforward. More than a decade after Edward Snowden exposed the NSA’s collection of bulk…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 06 Mar 2026 19:21:22 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-012",
+        "title": "The Download: 10 things that matter in AI, plus Anthropic’s plan to sue the Pentagon",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Coming soon: our 10 Things That Matter in AI Right Now For years, MIT Technology Review’s newsroom has been ahea",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Coming soon: our 10 Things That Matter in AI Right Now For years, MIT Technology Review’s newsroom has been ahead of the curve, tracking the developments in AI that matter and…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/03/06/1133989/the-download-10-things-that-matter-in-ai-anthropics-plan-sue-pentagon/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 06 Mar 2026 13:10:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-013",
+        "title": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation",
+        "summary": "An overview of SpeciesNet, our open-source AI model that is helping people around the world protect and conserve wildlife.",
+        "content": "An overview of SpeciesNet, our open-source AI model that is helping people around the world protect and conserve wildlife.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/",
+        "sourceName": "Google AI Blog",
+        "tags": [
+          "Google AI Blog"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 06 Mar 2026 18:00:00 +0000",
+        "normalizedTags": [
+          "google ai blog"
+        ]
+      }
+    ],
+    "applications": [],
+    "business": [
+      {
+        "id": "AI-014",
+        "title": "Palantir rallies 15% for the week as Iran war boosts prospects, muting Anthropic concern",
+        "summary": "Palantir's stock had its best week since August and outperformed all of its large-cap tech peers after the U.S. attacked Iran.",
+        "content": "Palantir's stock had its best week since August and outperformed all of its large-cap tech peers after the U.S. attacked Iran.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/03/06/palantir-stock-jumps-15percent-in-week-on-iran-war-boosts-anthropic-muted.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 07 Mar 2026 00:07:18 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-015",
+        "title": "Amazon says Anthropic’s Claude still OK for AWS customers to use outside defense work",
+        "summary": "Amazon joined Microsoft and Google in continue to offer Anthropic's Claude AI technology to customers after the Pentagon deemed it a \"supply chain risk.\"",
+        "content": "Amazon joined Microsoft and Google in continue to offer Anthropic's Claude AI technology to customers after the Pentagon deemed it a \"supply chain risk.\"",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/03/06/amazon-aws-anthropic-claude-pentagon-blacklist.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 07 Mar 2026 00:02:47 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-016",
+        "title": "Vast wraps $500 million funding round as company vies for NASA space station contract",
+        "summary": "Vast is betting on a \"leapfrog strategy\" to land a phase two NASA award for the International Space Station.",
+        "content": "Vast is betting on a \"leapfrog strategy\" to land a phase two NASA award for the International Space Station.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/03/06/vast-funding-round-nasa-iss-space-station.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 06 Mar 2026 20:41:21 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-017",
+        "title": "AI's got a gender gap: Women are more skeptical",
+        "summary": "Men are more enthusiastic about AI, while women are more skeptical, according to CNBC's 5th annual SurveyMonkey Women at Work survey.",
+        "content": "Men are more enthusiastic about AI, while women are more skeptical, according to CNBC's 5th annual SurveyMonkey Women at Work survey.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/03/06/gender-gap-in-ai-revealed-in-cnbc-surveymonkey-women-at-work-survey.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 06 Mar 2026 19:24:03 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-018",
+        "title": "Google joins Microsoft in telling users Anthropic is still available outside defense projects",
+        "summary": "Cloud vendors are letting customers know that Anthropic's popular AI tools can still be accessed after the Department of Defense blacklisted the company.",
+        "content": "Cloud vendors are letting customers know that Anthropic's popular AI tools can still be accessed after the Department of Defense blacklisted the company.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/03/06/google-says-anthropic-remains-available-outside-of-defense-projects.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 06 Mar 2026 19:53:35 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      }
+    ],
+    "policy": [
+      {
+        "id": "AI-019",
+        "title": "OpenAI’s Fog of War + Betting on Iran + Hard Fork Review of Slop",
+        "summary": "“The Pentagon and OpenAI are saying to the public, You’re just going to have to trust us. And the public is saying, Well, we don’t.”",
+        "content": "“The Pentagon and OpenAI are saying to the public, You’re just going to have to trust us. And the public is saying, Well, we don’t.”",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/03/06/podcasts/hardfork-openai-iran-kids-slop.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 06 Mar 2026 12:00:08 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-020",
+        "title": "For OpenAI and Anthropic, the Competition Is Deeply Personal",
+        "summary": "A fight over Pentagon contracts shows how the leaders of Silicon Valley’s two most important A.I. start-ups are feuding over the future of the tech industry.",
+        "content": "A fight over Pentagon contracts shows how the leaders of Silicon Valley’s two most important A.I. start-ups are feuding over the future of the tech industry.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/03/07/technology/openai-anthropic-pentagon-rivalry.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 07 Mar 2026 10:01:24 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-021",
+        "title": "Anthropic’s and OpenAI’s Dance With the Pentagon: What to Know",
+        "summary": "Negotiations, threats and amended contracts have left plenty of questions. Here are some answers.",
+        "content": "Negotiations, threats and amended contracts have left plenty of questions. Here are some answers.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/03/07/technology/anthropic-openai-pentagon-dario-amodei-sam-altman.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 07 Mar 2026 10:01:21 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-022",
+        "title": "‘Designed to Wreak Havoc’: The Cheap Drones Shaping the War With Iran",
+        "summary": "Iran has launched waves of Shahed drones to menace Persian Gulf nations. The U.S. has unleashed its own copycat on Iran. It’s a sign of how war is changing.",
+        "content": "Iran has launched waves of Shahed drones to menace Persian Gulf nations. The U.S. has unleashed its own copycat on Iran. It’s a sign of how war is changing.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/03/07/technology/iran-shahed-drones-us-war.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 07 Mar 2026 10:01:11 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-023",
+        "title": "Are A.I.-Generated Videos Changing How We See Animals?",
+        "summary": "By manipulating animals to do wonderful things, we may become numb to their real wonder.",
+        "content": "By manipulating animals to do wonderful things, we may become numb to their real wonder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/03/07/magazine/ai-generated-videos-animals.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 07 Mar 2026 10:00:56 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      }
+    ],
+    "concerns": [],
+    "culture": [
+      {
+        "id": "AI-024",
+        "title": "The Guardian view on AI in war: the Iran conflict shows that the paradigm shift has already begun",
+        "summary": "The intensified use of artificial intelligence, and rows over its control, demonstrate the need for democratic oversight and multilateral controls\n“Never in the future will we move as slow as we are moving now,” the UN secretary-general, António Gute",
+        "content": "The intensified use of artificial intelligence, and rows over its control, demonstrate the need for democratic oversight and multilateral controls\n“Never in the future will we move as slow as we are moving now,” the UN secretary-general, António Guterres, warned this week, addressing the urgent need to shape the use of artificial intelligence. The speed of technological development – as well as geopolitical turbulence – is collapsing the distinction between theoretical arguments and real world e",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/commentisfree/2026/mar/06/the-guardian-view-on-ai-in-war-the-iran-conflict-shows-that-the-paradigm-shift-has-already-begun",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 06 Mar 2026 17:52:54 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-025",
+        "title": "‘It means missile defence on data centres’: drone strikes raises doubts over Gulf as AI superpower",
+        "summary": "Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a new frontier in asymmetric warfare\nIt is believed to be a first: the deliberate targeting of a commercial datacentre by the armed forces of a country at war.\nAt 4.30am on Sun",
+        "content": "Iran’s targeting of commercial datacentres in the UAE and Bahrain signals a new frontier in asymmetric warfare\nIt is believed to be a first: the deliberate targeting of a commercial datacentre by the armed forces of a country at war.\nAt 4.30am on Sunday morning, an Iranian Shahed 136 drone struck an Amazon Web Services datacentre in the United Arab Emirates, setting off a devastating fire and forcing a shutdown of the power supply. Further damage was inflicted as attempts were made to suppress t",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 07 Mar 2026 11:00:48 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-026",
+        "title": "Six great reads: how to get a pay rise, Catherine Opie’s images of queer America, and the influencers saving pubs",
+        "summary": "Need something brilliant to read this weekend? Here are six of our favourite pieces from the last seven days\n Continue reading...",
+        "content": "Need something brilliant to read this weekend? Here are six of our favourite pieces from the last seven days\n Continue reading...",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/news/2026/mar/07/six-great-reads-how-to-pay-rise-catherine-opie-queer-america-influencers-saving-pubs",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 07 Mar 2026 06:00:43 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-027",
+        "title": "North Korean agents using AI to trick western firms into hiring them, Microsoft says",
+        "summary": "Firm says AI tools are masking identities of false applicants, who then funnel wages from remote IT jobs to North Korea\nFake IT workers deployed by North Korea are using AI technology, including voice-changing tools, to trick western companies into h",
+        "content": "Firm says AI tools are masking identities of false applicants, who then funnel wages from remote IT jobs to North Korea\nFake IT workers deployed by North Korea are using AI technology, including voice-changing tools, to trick western companies into hiring them, Microsoft has said.\nThe US tech firm said a signature Pyongyang money-raising ruse is being enhanced by AI, which is helping create fake names and alter stolen IDs to increase the credibility of false applicants for IT and software develo",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/business/2026/mar/06/north-korean-agents-using-ai-to-trick-western-firms-into-hiring-them-microsoft-says",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 06 Mar 2026 17:00:27 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-028",
+        "title": "AI agents pose untold risk to humanity. We must act to prevent that future | David Krueger",
+        "summary": "The pieces are falling into place for autonomous artificial intelligence. We must stop unregulated development\nArtificial intelligence is en route to artificial life. Exhibit A: “Moltbook”, an online platform designed for AI systems to communicate wi",
+        "content": "The pieces are falling into place for autonomous artificial intelligence. We must stop unregulated development\nArtificial intelligence is en route to artificial life. Exhibit A: “Moltbook”, an online platform designed for AI systems to communicate with one another, sans humans.\nWhat exactly do AIs talk to each other about? According to BBC reporting, AIs on Moltbook have already founded a religion known as “crustifarianism”, mused on whether they are conscious, and declared: “AI should be served",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/commentisfree/2026/mar/06/moltbook-risk-ai-agents-artificial-life",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 06 Mar 2026 17:00:27 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      }
+    ]
+  },
+  "quote": {
+    "text": "The best way to predict the future is to invent it.",
+    "author": "Alan Kay",
+    "authorTitle": "Computer Scientist"
+  },
+  "sources": [
+    "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
+    "https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/",
+    "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/",
+    "https://techcrunch.com/podcast/anthropic-vs-the-pentagon-the-saaspocalypse-and-why-competitions-is-good-actually/",
+    "https://techcrunch.com/2026/03/06/claudes-consumer-growth-surge-continues-after-pentagon-deal-debacle/",
+    "https://the-decoder.com/bytedances-open-weight-helios-model-brings-minute-long-ai-video-generation-close-to-real-time/",
+    "https://the-decoder.com/openai-and-oracle-stop-expanding-their-flagship-data-center-in-texas-over-power-supply-delays/",
+    "https://the-decoder.com/anthropic-turns-claude-code-into-a-background-worker-with-local-scheduled-tasks/",
+    "https://the-decoder.com/despite-pentagon-ban-google-aws-and-microsoft-stick-with-anthropics-ai-models/",
+    "https://the-decoder.com/anthropics-new-marketplace-lets-enterprise-customers-spend-their-existing-ai-budget-on-third-party-tools/",
+    "https://www.technologyreview.com/2026/03/06/1134012/is-the-pentagon-allowed-to-surveil-americans-with-ai/",
+    "https://www.technologyreview.com/2026/03/06/1133989/the-download-10-things-that-matter-in-ai-anthropics-plan-sue-pentagon/",
+    "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/",
+    "https://www.cnbc.com/2026/03/06/palantir-stock-jumps-15percent-in-week-on-iran-war-boosts-anthropic-muted.html",
+    "https://www.cnbc.com/2026/03/06/amazon-aws-anthropic-claude-pentagon-blacklist.html",
+    "https://www.cnbc.com/2026/03/06/vast-funding-round-nasa-iss-space-station.html",
+    "https://www.cnbc.com/2026/03/06/gender-gap-in-ai-revealed-in-cnbc-surveymonkey-women-at-work-survey.html",
+    "https://www.cnbc.com/2026/03/06/google-says-anthropic-remains-available-outside-of-defense-projects.html",
+    "https://www.nytimes.com/2026/03/06/podcasts/hardfork-openai-iran-kids-slop.html",
+    "https://www.nytimes.com/2026/03/07/technology/openai-anthropic-pentagon-rivalry.html",
+    "https://www.nytimes.com/2026/03/07/technology/anthropic-openai-pentagon-dario-amodei-sam-altman.html",
+    "https://www.nytimes.com/2026/03/07/technology/iran-shahed-drones-us-war.html",
+    "https://www.nytimes.com/2026/03/07/magazine/ai-generated-videos-animals.html",
+    "https://www.theguardian.com/technology/commentisfree/2026/mar/06/the-guardian-view-on-ai-in-war-the-iran-conflict-shows-that-the-paradigm-shift-has-already-begun",
+    "https://www.theguardian.com/world/2026/mar/07/it-means-missile-defence-on-data-centres-drone-strikes-raises-doubts-over-gulf-as-ai-superpower",
+    "https://www.theguardian.com/news/2026/mar/07/six-great-reads-how-to-pay-rise-catherine-opie-queer-america-influencers-saving-pubs",
+    "https://www.theguardian.com/business/2026/mar/06/north-korean-agents-using-ai-to-trick-western-firms-into-hiring-them-microsoft-says",
+    "https://www.theguardian.com/commentisfree/2026/mar/06/moltbook-risk-ai-agents-artificial-life"
+  ],
+  "generatedAt": "2026-03-07T11:19:37.919Z"
+}
