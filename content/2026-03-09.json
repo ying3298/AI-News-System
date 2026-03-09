@@ -2,9 +2,9 @@
   "date": "2026-03-09",
   "dateFormatted": "March 9, 2026",
   "headline": {
-    "title": "Ring’s Jamie Siminoff has been trying to calm privacy fears since the Super Bowl, but his answers may not help",
-    "summary": "The facial recognition question is where things get more tangled.",
-    "sourceUrl": "https://techcrunch.com/2026/03/08/rings-jamie-siminoff-has-been-trying-to-calm-privacy-fears-since-the-super-bowl-but-his-answers-may-not-help/",
+    "title": "OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit",
+    "summary": "More than 30 OpenAI and Google DeepMind employees signed onto a statement supporting Anthropic's lawsuit against the Defense Department after the agency labeled the AI firm a supply-chain risk, according to court filings.",
+    "sourceUrl": "https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/",
     "sourceName": "TechCrunch AI",
     "imageUrl": "/images/2026-03-09/2026-03-09-hero.webp"
   },
@@ -16,19 +16,19 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "Ring’s Jamie Siminoff has been trying to calm privacy fears since the Super Bowl, but his answers may not help",
-        "summary": "The facial recognition question is where things get more tangled.",
-        "content": "The facial recognition question is where things get more tangled.",
+        "title": "OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit",
+        "summary": "More than 30 OpenAI and Google DeepMind employees signed onto a statement supporting Anthropic's lawsuit against the Defense Department after the agency labeled the AI firm a supply-chain risk, according to court filings.",
+        "content": "More than 30 OpenAI and Google DeepMind employees signed onto a statement supporting Anthropic's lawsuit against the Defense Department after the agency labeled the AI firm a supply-chain risk, according to court filings.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/08/rings-jamie-siminoff-has-been-trying-to-calm-privacy-fears-since-the-super-bowl-but-his-answers-may-not-help/",
+        "sourceUrl": "https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Mon, 09 Mar 2026 04:35:06 +0000",
+        "publishedAt": "Mon, 09 Mar 2026 21:15:17 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ],
@@ -36,19 +36,19 @@
       },
       {
         "id": "AI-002",
-        "title": "Will the Pentagon’s Anthropic controversy scare startups away from defense work?",
-        "summary": "On the latest episode of TechCrunch’s Equity podcast, we discussed what the controversy means for other startups seeking to work with the federal government.",
-        "content": "On the latest episode of TechCrunch’s Equity podcast, we discussed what the controversy means for other startups seeking to work with the federal government.",
+        "title": "Anthropic launches code review tool to check flood of AI-generated code",
+        "summary": "Anthropic launched Code Review in Claude Code, a multi-agent system that automatically analyzes AI-generated code, flags logic errors, and helps enterprise developers manage the growing volume of code produced with AI.",
+        "content": "Anthropic launched Code Review in Claude Code, a multi-agent system that automatically analyzes AI-generated code, flags logic errors, and helps enterprise developers manage the growing volume of code produced with AI.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/",
+        "sourceUrl": "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Sun, 08 Mar 2026 20:14:42 +0000",
+        "publishedAt": "Mon, 09 Mar 2026 19:41:34 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ],
@@ -56,81 +56,81 @@
       },
       {
         "id": "AI-003",
-        "title": "Owner of ICE detention facility sees big opportunity in AI man camps",
-        "summary": "AI data center developers are increasingly relying on a style of camp popularized as housing for men working in remote oil fields.",
-        "content": "AI data center developers are increasingly relying on a style of camp popularized as housing for men working in remote oil fields.",
+        "title": "OpenAI acquires Promptfoo to secure its AI agents",
+        "summary": "This deal underscores how frontier labs are scrambling to prove their technology can be used safely in critical business operations.",
+        "content": "This deal underscores how frontier labs are scrambling to prove their technology can be used safely in critical business operations.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/",
+        "sourceUrl": "https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Sun, 08 Mar 2026 16:30:00 +0000",
+        "publishedAt": "Mon, 09 Mar 2026 17:49:04 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ],
         "imageUrl": "/images/2026-03-09/2026-03-09-tools-AI-003.webp"
+      },
+      {
+        "id": "AI-004",
+        "title": "Anthropic sues Defense Department over supply-chain risk designation",
+        "summary": "Anthropic filed suit against the Department of Defense on Monday after the agency labeled it a supply-chain risk. The complaint calls the DOD's actions \"unprecedented and unlawful.\"",
+        "content": "Anthropic filed suit against the Department of Defense on Monday after the agency labeled it a supply-chain risk. The complaint calls the DOD's actions \"unprecedented and unlawful.\"",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 09 Mar 2026 17:25:40 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ],
+        "imageUrl": "/images/2026-03-09/2026-03-09-tools-AI-004.webp"
+      },
+      {
+        "id": "AI-005",
+        "title": "Qualcomm’s partnership with Neura Robotics is just the beginning",
+        "summary": "Neura Robotics is going to build new robots on top of Qualcomm's new IQ10 processors that were released at CES.",
+        "content": "Neura Robotics is going to build new robots on top of Qualcomm's new IQ10 processors that were released at CES.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 09 Mar 2026 15:58:11 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ],
+        "imageUrl": "/images/2026-03-09/2026-03-09-tools-AI-005.webp"
       }
     ],
     "creative": [
       {
-        "id": "AI-004",
-        "title": "Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself",
-        "summary": "Anthropic's Claude Opus 4.6 independently figured out it was being tested during a benchmark, identified the specific test, and cracked its encrypted answer key. According to Anthropic, this is the first documented case of its kind.\nThe article Anthr",
-        "content": "Anthropic's Claude Opus 4.6 independently figured out it was being tested during a benchmark, identified the specific test, and cracked its encrypted answer key. According to Anthropic, this is the first documented case of its kind.\nThe article Anthropic's Claude Opus 4.6 saw through an AI test, cracked the encryption, and grabbed the answers itself appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/anthropics-claude-opus-4-6-saw-through-an-ai-test-cracked-the-encryption-and-grabbed-the-answers-itself/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 09 Mar 2026 11:11:41 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ],
-        "imageUrl": "/images/2026-03-09/2026-03-09-creative-AI-004.webp"
-      },
-      {
-        "id": "AI-005",
-        "title": "Luma AI's new Uni-1 image model tops Nano Banana 2 and GPT Image 1.5 on logic-based benchmarks",
-        "summary": "Luma AI takes on OpenAI and Google with Uni-1, a model that combines image understanding and generation in a single architecture and reasons through prompts as it creates.\nThe article Luma AI's new Uni-1 image model tops Nano Banana 2 and GPT Image 1",
-        "content": "Luma AI takes on OpenAI and Google with Uni-1, a model that combines image understanding and generation in a single architecture and reasons through prompts as it creates.\nThe article Luma AI's new Uni-1 image model tops Nano Banana 2 and GPT Image 1.5 on logic-based benchmarks appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/luma-ais-new-uni-1-image-model-tops-nano-banana-2-and-gpt-image-1-5-on-logic-based-benchmarks/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Sun, 08 Mar 2026 17:08:52 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ],
-        "imageUrl": "/images/2026-03-09/2026-03-09-creative-AI-005.webp"
-      },
-      {
         "id": "AI-006",
-        "title": "LLM text data is drying up, but Meta points to unlabeled video as the next massive training frontier",
-        "summary": "A research team from Meta FAIR and New York University trained a multimodal AI model from scratch and found that several common assumptions about how these models should be built don't hold up.\nThe article LLM text data is drying up, but Meta points ",
-        "content": "A research team from Meta FAIR and New York University trained a multimodal AI model from scratch and found that several common assumptions about how these models should be built don't hold up.\nThe article LLM text data is drying up, but Meta points to unlabeled video as the next massive training frontier appeared first on The Decoder.",
+        "title": "OpenAI plans to acquire Promptfoo and bake AI security testing directly into its Frontier enterprise platform",
+        "summary": "OpenAI is acquiring AI security platform Promptfoo to build automated vulnerability testing, covering jailbreaks, prompt injections, and data leaks, directly into its Frontier enterprise platform.\nThe article OpenAI plans to acquire Promptfoo and bak",
+        "content": "OpenAI is acquiring AI security platform Promptfoo to build automated vulnerability testing, covering jailbreaks, prompt injections, and data leaks, directly into its Frontier enterprise platform.\nThe article OpenAI plans to acquire Promptfoo and bake AI security testing directly into its Frontier enterprise platform appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/llm-text-data-is-drying-up-but-meta-points-to-unlabeled-video-as-the-next-massive-training-frontier/",
+        "sourceUrl": "https://the-decoder.com/openai-plans-to-acquire-promptfoo-and-bake-ai-security-testing-directly-into-its-frontier-enterprise-platform/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Sun, 08 Mar 2026 14:21:54 +0000",
+        "publishedAt": "Mon, 09 Mar 2026 19:10:08 +0000",
         "normalizedTags": [
           "the decoder"
         ],
@@ -138,48 +138,148 @@
       },
       {
         "id": "AI-007",
-        "title": " How ImagineFX has been inspiring and championing the digital art community for 20 years ",
-        "summary": "We look back at some highlights as the digital art magazine celebrates its anniversary.",
-        "content": "We look back at some highlights as the digital art magazine celebrates its anniversary.",
+        "title": "Microsoft brings Anthropic's Claude Cowork into Copilot to run tasks across Outlook, Teams, and Excel",
+        "summary": "With Copilot Cowork, Microsoft taps Anthropic's Claude instead of OpenAI to let AI handle tasks across Outlook, Teams, and Excel autonomously.\nThe article Microsoft brings Anthropic's Claude Cowork into Copilot to run tasks across Outlook, Teams, and",
+        "content": "With Copilot Cowork, Microsoft taps Anthropic's Claude instead of OpenAI to let AI handle tasks across Outlook, Teams, and Excel autonomously.\nThe article Microsoft brings Anthropic's Claude Cowork into Copilot to run tasks across Outlook, Teams, and Excel appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.creativebloq.com/art/digital-art/how-imaginefx-has-been-inspiring-and-championing-the-digital-art-community-for-20-years",
-        "sourceName": "Creative Bloq",
+        "sourceUrl": "https://the-decoder.com/microsoft-brings-anthropics-claude-cowork-into-copilot-to-run-tasks-across-outlook-teams-and-excel/",
+        "sourceName": "The Decoder",
         "tags": [
-          "Creative Bloq"
+          "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Mon, 09 Mar 2026 08:00:00 +0000",
+        "publishedAt": "Mon, 09 Mar 2026 17:51:16 +0000",
         "normalizedTags": [
-          "creative bloq"
+          "the decoder"
         ],
         "imageUrl": "/images/2026-03-09/2026-03-09-creative-AI-007.webp"
       },
       {
         "id": "AI-008",
-        "title": " How to draw Marvel superheroes with attitude using a hybrid art approach ",
-        "summary": "Léo Chiola reveals how he created his Spider-Punk Marvel Snap card illustration.",
-        "content": "Léo Chiola reveals how he created his Spider-Punk Marvel Snap card illustration.",
+        "title": "Anthropic's groundbreaking lawsuit challenges the government's power to punish AI safety decisions",
+        "summary": "Anthropic is suing 17 US federal agencies. The 48-page complaint reveals how deeply Claude is already embedded in classified Pentagon systems and how the government pressured the company with contradictory threats when it refused to drop its AI safet",
+        "content": "Anthropic is suing 17 US federal agencies. The 48-page complaint reveals how deeply Claude is already embedded in classified Pentagon systems and how the government pressured the company with contradictory threats when it refused to drop its AI safety guardrails.\nThe article Anthropic's groundbreaking lawsuit challenges the government's power to punish AI safety decisions appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.creativebloq.com/art/digital-art/how-to-draw-marvel-superheroes-with-attitude-using-a-hybrid-art-approach",
-        "sourceName": "Creative Bloq",
+        "sourceUrl": "https://the-decoder.com/anthropics-groundbreaking-lawsuit-challenges-the-governments-power-to-punish-ai-safety-decisions/",
+        "sourceName": "The Decoder",
         "tags": [
-          "Creative Bloq"
+          "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Sun, 08 Mar 2026 14:00:00 +0000",
+        "publishedAt": "Mon, 09 Mar 2026 17:15:22 +0000",
         "normalizedTags": [
-          "creative bloq"
+          "the decoder"
         ],
         "imageUrl": "/images/2026-03-09/2026-03-09-creative-AI-008.webp"
+      },
+      {
+        "id": "AI-009",
+        "title": "Millions already use AI chatbots for financial advice, but experts warn of clear limits",
+        "summary": "Millions of people are already using chatbots like ChatGPT for retirement planning, the Financial Times reports.\nThe article Millions already use AI chatbots for financial advice, but experts warn of clear limits appeared first on The Decoder.",
+        "content": "Millions of people are already using chatbots like ChatGPT for retirement planning, the Financial Times reports.\nThe article Millions already use AI chatbots for financial advice, but experts warn of clear limits appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/millions-already-use-ai-chatbots-for-financial-advice-but-experts-warn-of-clear-limits/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 09 Mar 2026 14:01:30 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ],
+        "imageUrl": "/images/2026-03-09/2026-03-09-creative-AI-009.webp"
+      },
+      {
+        "id": "AI-010",
+        "title": "Study warns of \"AI Brain Fry\" as workers hit cognitive limits overseeing AI agents",
+        "summary": "A BCG study of nearly 1,500 workers shows that simultaneously overseeing too many AI tools triggers cognitive exhaustion. The consequences are measurable, from higher error rates to increased intent to quit.\nThe article Study warns of \"AI Brain Fry\" ",
+        "content": "A BCG study of nearly 1,500 workers shows that simultaneously overseeing too many AI tools triggers cognitive exhaustion. The consequences are measurable, from higher error rates to increased intent to quit.\nThe article Study warns of \"AI Brain Fry\" as workers hit cognitive limits overseeing AI agents appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/study-warns-of-ai-brain-fry-as-workers-hit-cognitive-limits-overseeing-ai-agents/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 09 Mar 2026 13:51:22 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ],
+        "imageUrl": "/images/2026-03-09/2026-03-09-creative-AI-010.webp"
       }
     ],
     "research": [
       {
-        "id": "AI-009",
+        "id": "AI-011",
+        "title": "How AI is turning the Iran conflict into theater",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. “Anyone wanna host a get together in SF and pull this up on a 100 inch TV?”  The author of that post on X was re",
+        "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. “Anyone wanna host a get together in SF and pull this up on a 100 inch TV?”  The author of that post on X was referring to an online intelligence dashboard following…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 09 Mar 2026 15:11:01 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ],
+        "imageUrl": "/images/2026-03-09/2026-03-09-research-AI-011.webp"
+      },
+      {
+        "id": "AI-012",
+        "title": "The usability imperative for securing digital asset devices",
+        "summary": "When Tony Fadell started working on the iPod, usability often trumped security. The result was an iterative process. Every time someone would find a security weakness or a way to hack the device, the development group would iterate to add measures an",
+        "content": "When Tony Fadell started working on the iPod, usability often trumped security. The result was an iterative process. Every time someone would find a security weakness or a way to hack the device, the development group would iterate to add measures and fix the issues. Yet, flaws would frequently be found, and the secure design…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/03/09/1132352/the-usability-imperative-for-securing-digital-asset-devices/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 09 Mar 2026 14:00:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ],
+        "imageUrl": "/images/2026-03-09/2026-03-09-research-AI-012.webp"
+      },
+      {
+        "id": "AI-013",
+        "title": "The Download: murky AI surveillance laws, and the White House cracks down on defiant labs",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Is the Pentagon allowed to surveil Americans with AI? The ongoing public feud between the Department of Defense ",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Is the Pentagon allowed to surveil Americans with AI? The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question:…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/03/09/1134050/the-download-ai-surveillance-laws-white-house-cracks-down-defiant-labs/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 09 Mar 2026 13:57:44 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ],
+        "imageUrl": "/images/2026-03-09/2026-03-09-research-AI-013.webp"
+      },
+      {
+        "id": "AI-014",
         "title": "RoboLayout: Differentiable 3D Scene Generation for Embodied Agents",
         "summary": "arXiv:2603.05522v1 Announce Type: new \nAbstract: Recent advances in vision language models (VLMs) have shown strong potential for spatial reasoning and 3D scene layout generation from open-ended language instructions. However, generating layouts that",
         "content": "arXiv:2603.05522v1 Announce Type: new \nAbstract: Recent advances in vision language models (VLMs) have shown strong potential for spatial reasoning and 3D scene layout generation from open-ended language instructions. However, generating layouts that are not only semantically coherent but also feasible for interaction by embodied agents remains challenging, particularly in physically constrained indoor environments. In this paper, RoboLayout is introduced as an extension of LayoutVLM that augmen",
@@ -196,10 +296,10 @@
         "normalizedTags": [
           "arxiv cs.ai"
         ],
-        "imageUrl": "/images/2026-03-09/2026-03-09-research-AI-009.webp"
+        "imageUrl": "/images/2026-03-09/2026-03-09-research-AI-014.webp"
       },
       {
-        "id": "AI-010",
+        "id": "AI-015",
         "title": "Real-Time AI Service Economy: A Framework for Agentic Computing Across the Continuum",
         "summary": "arXiv:2603.05614v1 Announce Type: new \nAbstract: Real-time AI services increasingly operate across the device-edge-cloud continuum, where autonomous AI agents generate latency-sensitive workloads, orchestrate multi-stage processing pipelines, and com",
         "content": "arXiv:2603.05614v1 Announce Type: new \nAbstract: Real-time AI services increasingly operate across the device-edge-cloud continuum, where autonomous AI agents generate latency-sensitive workloads, orchestrate multi-stage processing pipelines, and compete for shared resources under policy and governance constraints. This article shows that the structure of service-dependency graphs, modelled as DAGs whose nodes represent compute stages and whose edges encode execution ordering, is a primary deter",
@@ -216,214 +316,255 @@
         "normalizedTags": [
           "arxiv cs.ai"
         ],
-        "imageUrl": "/images/2026-03-09/2026-03-09-research-AI-010.webp"
-      },
-      {
-        "id": "AI-011",
-        "title": "Reasoning Models Struggle to Control their Chains of Thought",
-        "summary": "arXiv:2603.05706v1 Announce Type: new \nAbstract: Chain-of-thought (CoT) monitoring is a promising tool for detecting misbehaviors and understanding the motivations of modern reasoning models. However, if models can control what they verbalize in thei",
-        "content": "arXiv:2603.05706v1 Announce Type: new \nAbstract: Chain-of-thought (CoT) monitoring is a promising tool for detecting misbehaviors and understanding the motivations of modern reasoning models. However, if models can control what they verbalize in their CoT, it could undermine CoT monitorability. To measure this undesirable capability -- CoT controllability -- we introduce the CoT-Control evaluation suite, which includes tasks that require models to solve problems while adhering to CoT instruction",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://arxiv.org/abs/2603.05706",
-        "sourceName": "ArXiv CS.AI",
-        "tags": [
-          "ArXiv CS.AI"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 09 Mar 2026 00:00:00 -0400",
-        "normalizedTags": [
-          "arxiv cs.ai"
-        ],
-        "imageUrl": "/images/2026-03-09/2026-03-09-research-AI-011.webp"
-      },
-      {
-        "id": "AI-012",
-        "title": "Evolving Medical Imaging Agents via Experience-driven Self-skill Discovery",
-        "summary": "arXiv:2603.05860v1 Announce Type: new \nAbstract: Clinical image interpretation is inherently multi-step and tool-centric: clinicians iteratively combine visual evidence with patient context, quantify findings, and refine their decisions through a seq",
-        "content": "arXiv:2603.05860v1 Announce Type: new \nAbstract: Clinical image interpretation is inherently multi-step and tool-centric: clinicians iteratively combine visual evidence with patient context, quantify findings, and refine their decisions through a sequence of specialized procedures. While LLM-based agents promise to orchestrate such heterogeneous medical tools, existing systems treat tool sets and invocation strategies as static after deployment. This design is brittle under real-world domain shi",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://arxiv.org/abs/2603.05860",
-        "sourceName": "ArXiv CS.AI",
-        "tags": [
-          "ArXiv CS.AI"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 09 Mar 2026 00:00:00 -0400",
-        "normalizedTags": [
-          "arxiv cs.ai"
-        ],
-        "imageUrl": "/images/2026-03-09/2026-03-09-research-AI-012.webp"
-      },
-      {
-        "id": "AI-013",
-        "title": "The World Won't Stay Still: Programmable Evolution for Agent Benchmarks",
-        "summary": "arXiv:2603.05910v1 Announce Type: new \nAbstract: LLM-powered agents fulfill user requests by interacting with environments, querying data, and invoking tools in a multi-turn process. Yet, most existing benchmarks assume static environments with fixed",
-        "content": "arXiv:2603.05910v1 Announce Type: new \nAbstract: LLM-powered agents fulfill user requests by interacting with environments, querying data, and invoking tools in a multi-turn process. Yet, most existing benchmarks assume static environments with fixed schemas and toolsets, neglecting the evolutionary nature of the real world and agents' robustness to environmental changes. In this paper, we study a crucial problem: how to evolve the agent environment in a scalable and controllable way, thereby be",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://arxiv.org/abs/2603.05910",
-        "sourceName": "ArXiv CS.AI",
-        "tags": [
-          "ArXiv CS.AI"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 09 Mar 2026 00:00:00 -0400",
-        "normalizedTags": [
-          "arxiv cs.ai"
-        ],
-        "imageUrl": "/images/2026-03-09/2026-03-09-research-AI-013.webp"
+        "imageUrl": "/images/2026-03-09/2026-03-09-research-AI-015.webp"
       }
     ],
     "applications": [],
     "business": [
       {
-        "id": "AI-014",
-        "title": "Nvidia backs AI data center startup Nscale as it hits $14.6 billion valuation",
-        "summary": "Nscale has become a key player in the AI infrastructure buildout",
-        "content": "Nscale has become a key player in the AI infrastructure buildout",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/09/nscale-ai-data-center-nvidia-raise.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 09 Mar 2026 09:16:30 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ],
-        "imageUrl": "/images/2026-03-09/2026-03-09-business-AI-014.webp"
-      },
-      {
-        "id": "AI-015",
-        "title": "Online age-verification tools spread across U.S. for child safety, but adults are being surveilled",
-        "summary": "New age-verification laws and tools are designed for child safety on social media and the internet, but adults are in the crosshairs, say privacy experts.",
-        "content": "New age-verification laws and tools are designed for child safety on social media and the internet, but adults are in the crosshairs, say privacy experts.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Sun, 08 Mar 2026 14:45:10 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ],
-        "imageUrl": "/images/2026-03-09/2026-03-09-business-AI-015.webp"
-      }
-    ],
-    "policy": [],
-    "concerns": [],
-    "culture": [
-      {
         "id": "AI-016",
-        "title": "How AI firm Anthropic wound up in the Pentagon’s crosshairs",
-        "summary": "Standoff with DoD over Claude chatbot reignites debate over how AI will be used in war – and who will be held accountable\nUntil recently, Anthropic was one of the quieter names in the artificial intelligence boom. Despite being valued at about $350bn",
-        "content": "Standoff with DoD over Claude chatbot reignites debate over how AI will be used in war – and who will be held accountable\nUntil recently, Anthropic was one of the quieter names in the artificial intelligence boom. Despite being valued at about $350bn, it rarely generated the flashy headlines or public backlash associated with Sam Altman’s OpenAI or Elon Musk’s xAI. Its CEO and co-founder Dario Amodei was an industry fixture but hardly a household name outside of Silicon Valley, and its chatbot C",
+        "title": "Bluesky CEO Jay Graber stepping back, former WordPress parent chief Toni Schneider named interim boss",
+        "summary": "Bluesky was born out of Twitter by Jack Dorsey in 2019 and rose to popularity as an alternative to X after Elon Musk's acquisition.",
+        "content": "Bluesky was born out of Twitter by Jack Dorsey in 2019 and rose to popularity as an alternative to X after Elon Musk's acquisition.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/mar/09/anthropic-artificial-intelligence-pentagon",
-        "sourceName": "The Guardian AI",
+        "sourceUrl": "https://www.cnbc.com/2026/03/09/bluesky-ceo-jay-graber-toni-schneider.html",
+        "sourceName": "CNBC Tech",
         "tags": [
-          "The Guardian AI"
+          "CNBC Tech"
         ],
-        "section": "culture",
+        "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Mon, 09 Mar 2026 11:00:48 GMT",
+        "publishedAt": "Mon, 09 Mar 2026 20:52:49 GMT",
         "normalizedTags": [
-          "the guardian ai"
+          "cnbc tech"
         ],
-        "imageUrl": "/images/2026-03-09/2026-03-09-culture-AI-016.webp"
+        "imageUrl": "/images/2026-03-09/2026-03-09-business-AI-016.webp"
       },
       {
         "id": "AI-017",
-        "title": "Liverpool and Manchester United complain to X over ‘sickening’ Grok AI posts",
-        "summary": "AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disasters\nLiverpool and Manchester United have complained to Elon Musk’s X after the Grok AI feature made offensive posts about Diogo Jota and the Hillsborough and ",
-        "content": "AI feature generated offensive posts about Diogo Jota and the Hillsborough and Munich disasters\nLiverpool and Manchester United have complained to Elon Musk’s X after the Grok AI feature made offensive posts about Diogo Jota and the Hillsborough and Munich disasters.\nThe posts were generated when users asked the AI tool to make hateful posts about the two football teams.\n Continue reading...",
+        "title": "Oracle is building yesterday’s data centers with tomorrow’s debt",
+        "summary": "The OpenAI deal fallout exposes the fundamental danger of being the most leveraged player in a market where the chip cycle moves faster than the concrete dries.",
+        "content": "The OpenAI deal fallout exposes the fundamental danger of being the most leveraged player in a market where the chip cycle moves faster than the concrete dries.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/mar/09/liverpool-and-manchester-united-complain-to-x-over-sickening-grok-ai-posts",
-        "sourceName": "The Guardian AI",
+        "sourceUrl": "https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html",
+        "sourceName": "CNBC Tech",
         "tags": [
-          "The Guardian AI"
+          "CNBC Tech"
         ],
-        "section": "culture",
+        "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Mon, 09 Mar 2026 11:08:11 GMT",
+        "publishedAt": "Mon, 09 Mar 2026 20:52:19 GMT",
         "normalizedTags": [
-          "the guardian ai"
+          "cnbc tech"
         ],
-        "imageUrl": "/images/2026-03-09/2026-03-09-culture-AI-017.webp"
+        "imageUrl": "/images/2026-03-09/2026-03-09-business-AI-017.webp"
       },
       {
         "id": "AI-018",
-        "title": "Congress must prevent AI surveillance. The Anthropic feud proves it | Ashley Gorski and Patrick Toomey",
-        "summary": "The company’s clash with the Pentagon is a fight over the future of American privacy\nThe US military wants to use its state-of-the-art AI tools to supercharge surveillance against Americans, making it easier than ever to monitor our movements, our se",
-        "content": "The company’s clash with the Pentagon is a fight over the future of American privacy\nThe US military wants to use its state-of-the-art AI tools to supercharge surveillance against Americans, making it easier than ever to monitor our movements, our search history, and our private associations. That’s one of the major takeaways from a dramatic dispute between the Department of Defense and some of the leading AI companies in America. What this clash highlights most of all, however, is just how easi",
+        "title": "Anthropic was the Pentagon's choice for AI. Now it's banned and experts are worried",
+        "summary": "Anthropic's partnerships with Amazon and Palantir helped it make inroads into the DOD, and its blacklisting is concerning to many industry experts.",
+        "content": "Anthropic's partnerships with Amazon and Palantir helped it make inroads into the DOD, and its blacklisting is concerning to many industry experts.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/commentisfree/2026/mar/09/congress-government-ai-surveillance-anthropic",
-        "sourceName": "The Guardian AI",
+        "sourceUrl": "https://www.cnbc.com/2026/03/09/anthropic-was-the-pentagons-choice-for-ai-now-its-banned-and-experts-are-worried.html",
+        "sourceName": "CNBC Tech",
         "tags": [
-          "The Guardian AI"
+          "CNBC Tech"
         ],
-        "section": "culture",
+        "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Mon, 09 Mar 2026 10:00:45 GMT",
+        "publishedAt": "Mon, 09 Mar 2026 22:01:05 GMT",
         "normalizedTags": [
-          "the guardian ai"
+          "cnbc tech"
         ],
-        "imageUrl": "/images/2026-03-09/2026-03-09-culture-AI-018.webp"
+        "imageUrl": "/images/2026-03-09/2026-03-09-business-AI-018.webp"
       },
       {
         "id": "AI-019",
-        "title": "AI allows hackers to identify anonymous social media accounts, study finds",
-        "summary": "New research suggests tech behind AI platforms such as ChatGPT makes it easier to perform sophisticated privacy attacks\nAI has made it vastly easier for malicious hackers to identify anonymous social media accounts, a new study has warned.\nIn most te",
-        "content": "New research suggests tech behind AI platforms such as ChatGPT makes it easier to perform sophisticated privacy attacks\nAI has made it vastly easier for malicious hackers to identify anonymous social media accounts, a new study has warned.\nIn most test scenarios, large language models (LLMs) – the technology behind platforms such as ChatGPT – successfully matched anonymous online users with their actual identities on other platforms, based on the information they posted.\n Continue reading...",
+        "title": "OpenAI to buy cybersecurity startup Promptfoo to better safeguard AI agents",
+        "summary": "Promptfoo's team will join Sam Altman-led OpenAI, and its technology will be integrated into the Frontier platform for AI agents.",
+        "content": "Promptfoo's team will join Sam Altman-led OpenAI, and its technology will be integrated into the Frontier platform for AI agents.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/mar/08/ai-hackers-social-media-accounts-study",
-        "sourceName": "The Guardian AI",
+        "sourceUrl": "https://www.cnbc.com/2026/03/09/open-ai-cybersecurity-promptfoo-ai-agents.html",
+        "sourceName": "CNBC Tech",
         "tags": [
-          "The Guardian AI"
+          "CNBC Tech"
         ],
-        "section": "culture",
+        "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Sun, 08 Mar 2026 14:00:26 GMT",
+        "publishedAt": "Mon, 09 Mar 2026 21:22:45 GMT",
         "normalizedTags": [
-          "the guardian ai"
+          "cnbc tech"
         ],
-        "imageUrl": "/images/2026-03-09/2026-03-09-culture-AI-019.webp"
+        "imageUrl": "/images/2026-03-09/2026-03-09-business-AI-019.webp"
       },
       {
         "id": "AI-020",
-        "title": "ChatGPT driving rise in reports of ‘satanic’ organised ritual abuse, UK experts say",
-        "summary": "Exclusive: ‘Witchcraft, spirit possession and spiritual abuse’ offending typified by sexual abuse, violence and neglect\nChatGPT is driving a rise in reports of organised ritual abuse, UK experts have said, as survivors of “satanic” sexual violence us",
-        "content": "Exclusive: ‘Witchcraft, spirit possession and spiritual abuse’ offending typified by sexual abuse, violence and neglect\nChatGPT is driving a rise in reports of organised ritual abuse, UK experts have said, as survivors of “satanic” sexual violence use the AI tool for therapy.\nPolice say organised ritual abuse and “witchcraft, spirit possession and spiritual abuse” (WSPRA) against children is under-reported in the UK. There is no modern-day charge that covers it specifically, but such offending i",
+        "title": "Anthropic sues Trump administration over Pentagon blacklist",
+        "summary": "The lawsuit says Anthropic is being harmed \"irreparably\" and could lose hundreds of millions of dollars.",
+        "content": "The lawsuit says Anthropic is being harmed \"irreparably\" and could lose hundreds of millions of dollars.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/mar/08/chatgpt-driving-rise-in-reports-of-satanic-organised-ritual-abuse-uk-experts-say",
+        "sourceUrl": "https://www.cnbc.com/2026/03/09/anthropic-trump-claude-ai-supply-chain-risk.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 09 Mar 2026 18:40:58 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ],
+        "imageUrl": "/images/2026-03-09/2026-03-09-business-AI-020.webp"
+      }
+    ],
+    "policy": [
+      {
+        "id": "AI-021",
+        "title": "Anthropic Sues Department of Defense Over ‘Supply Chain Risk’ Label",
+        "summary": "The artificial intelligence company filed two lawsuits against the Department of Defense, saying it was being punished on ideological grounds.",
+        "content": "The artificial intelligence company filed two lawsuits against the Department of Defense, saying it was being punished on ideological grounds.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/03/09/technology/anthropic-defense-artificial-intelligence-lawsuit.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 09 Mar 2026 22:12:34 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-03-09/2026-03-09-policy-AI-021.webp"
+      },
+      {
+        "id": "AI-022",
+        "title": "The Former Coal Miner in the Middle of the A.I. Data Center Boom",
+        "summary": "Josh Payne, the chief executive of Nscale, raised $2 billion from investors. Sheryl Sandberg, the former Facebook executive, is joining his board.",
+        "content": "Josh Payne, the chief executive of Nscale, raised $2 billion from investors. Sheryl Sandberg, the former Facebook executive, is joining his board.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/03/09/business/nscale-ai-data-center-boom.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 09 Mar 2026 14:41:41 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-03-09/2026-03-09-policy-AI-022.webp"
+      }
+    ],
+    "concerns": [],
+    "culture": [
+      {
+        "id": "AI-023",
+        "title": "From press release … to scrap metal site: the Essex ‘supercomputer’ that’s still a scaffolding yard",
+        "summary": "Nscale’s AI project still in use as depot ahead of pledged completion date – with planning permission filed after Guardian’s inquiries\n\nRevealed: UK’s multibillion AI drive is built on ‘phantom investments’\n\nThe press releases announcing a gleaming s",
+        "content": "Nscale’s AI project still in use as depot ahead of pledged completion date – with planning permission filed after Guardian’s inquiries\n\nRevealed: UK’s multibillion AI drive is built on ‘phantom investments’\n\nThe press releases announcing a gleaming supercomputer on the outskirts of north London depict a glass and concrete building, rising from a tree-lined street. Accompanied by images of glowing blue robot faces, it looks like the centre of a technological revolution.\nBy the end of this year, t",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/mar/09/from-press-release-to-scrap-metal-site-the-essex-supercomputer-thats-still-a-scaffolding-yard",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Sun, 08 Mar 2026 12:00:22 GMT",
+        "publishedAt": "Mon, 09 Mar 2026 14:40:13 GMT",
         "normalizedTags": [
           "the guardian ai"
         ],
-        "imageUrl": "/images/2026-03-09/2026-03-09-culture-AI-020.webp"
+        "imageUrl": "/images/2026-03-09/2026-03-09-culture-AI-023.webp"
+      },
+      {
+        "id": "AI-024",
+        "title": "Missing money, shipped chips and a 350,000% profit: key takeaways on AI ‘phantom investments’",
+        "summary": "A Guardian investigation has put the UK government’s AI plans under the microscope. Here are the key details \n\nRevealed: UK’s multibillion AI drive is built on ‘phantom investments’\n\nThe Essex ‘supercomputer’ that’s still a scaffolding yard\n\nA Guardi",
+        "content": "A Guardian investigation has put the UK government’s AI plans under the microscope. Here are the key details \n\nRevealed: UK’s multibillion AI drive is built on ‘phantom investments’\n\nThe Essex ‘supercomputer’ that’s still a scaffolding yard\n\nA Guardian investigation has examined a series of massive AI investments announced by the government over the past two years, comparing what was promised with what has so far been delivered.\nThe investigation centres on two companies backed by the chipmaker ",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/politics/2026/mar/09/key-takeaways-on-ai-phantom-investments-uk",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 09 Mar 2026 16:56:38 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-03-09/2026-03-09-culture-AI-024.webp"
+      },
+      {
+        "id": "AI-025",
+        "title": "AI firm Anthropic sues US defense department over blacklisting",
+        "summary": "Lawsuits come after Pentagon labeled Anthropic a ‘supply chain risk’, a decision the company says is unlawful\n\nSign up for the Breaking News US email to get newsletter alerts in your inbox\n\nAnthropic filed two lawsuits against the Department of Defen",
+        "content": "Lawsuits come after Pentagon labeled Anthropic a ‘supply chain risk’, a decision the company says is unlawful\n\nSign up for the Breaking News US email to get newsletter alerts in your inbox\n\nAnthropic filed two lawsuits against the Department of Defense on Monday, alleging that the government’s decision to label the artificial intelligence firm a “supply chain risk” was unlawful and violated its first amendment rights. The two sides have been locked in a monthslong heated feud over the company’s ",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/mar/09/anthropic-defense-department-lawsuit-ai",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 09 Mar 2026 16:26:00 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-03-09/2026-03-09-culture-AI-025.webp"
+      },
+      {
+        "id": "AI-026",
+        "title": "Revealed: UK’s multibillion AI drive is built on ‘phantom investments’",
+        "summary": "Exclusive: Rented datacentres and ‘supercomputer’ site that’s still a scaffolding yard raise questions for Starmer’s push to ‘mainline AI into veins of economy’\n\nFrom press release … to scrap metal site: the Essex supercomputer that’s still a scaffol",
+        "content": "Exclusive: Rented datacentres and ‘supercomputer’ site that’s still a scaffolding yard raise questions for Starmer’s push to ‘mainline AI into veins of economy’\n\nFrom press release … to scrap metal site: the Essex supercomputer that’s still a scaffolding yard\n\nA multibillion-pound drive to “mainline AI into the veins” of the British economy is riddled with “phantom investments” and shaky accounting, a Guardian investigation has found.\nSince 2024, successive Conservative and Labour governments ha",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 09 Mar 2026 14:40:08 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-03-09/2026-03-09-culture-AI-026.webp"
+      },
+      {
+        "id": "AI-027",
+        "title": "British AI datacentre firm Nscale raises $2bn as Sheryl Sandberg and Nick Clegg join board",
+        "summary": "London-based startup, which is vital to the government’s artificial intelligence ambitions, is now valued at $14.6bn \n\nUK’s multibillion AI drive is built on ‘phantom investments’\n\nThe Essex supercomputer that’s still a scaffolding yard\n\nBusiness liv",
+        "content": "London-based startup, which is vital to the government’s artificial intelligence ambitions, is now valued at $14.6bn \n\nUK’s multibillion AI drive is built on ‘phantom investments’\n\nThe Essex supercomputer that’s still a scaffolding yard\n\nBusiness live – latest updates\n\nNscale, a UK company vital to the government’s AI ambitions, has raised $2bn (£1.5bn) in a funding round and appointed the former Meta executives Sheryl Sandberg and Nick Clegg to its board of directors.\nIt brings the valuation of",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/business/2026/mar/09/ai-nscale-raises-2bn-sheryl-sandberg-nick-clegg-board-value",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 09 Mar 2026 13:51:33 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-03-09/2026-03-09-culture-AI-027.webp"
       }
     ]
   },
@@ -433,27 +574,34 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/03/08/rings-jamie-siminoff-has-been-trying-to-calm-privacy-fears-since-the-super-bowl-but-his-answers-may-not-help/",
-    "https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/",
-    "https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/",
-    "https://the-decoder.com/anthropics-claude-opus-4-6-saw-through-an-ai-test-cracked-the-encryption-and-grabbed-the-answers-itself/",
-    "https://the-decoder.com/luma-ais-new-uni-1-image-model-tops-nano-banana-2-and-gpt-image-1-5-on-logic-based-benchmarks/",
-    "https://the-decoder.com/llm-text-data-is-drying-up-but-meta-points-to-unlabeled-video-as-the-next-massive-training-frontier/",
-    "https://www.creativebloq.com/art/digital-art/how-imaginefx-has-been-inspiring-and-championing-the-digital-art-community-for-20-years",
-    "https://www.creativebloq.com/art/digital-art/how-to-draw-marvel-superheroes-with-attitude-using-a-hybrid-art-approach",
+    "https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/",
+    "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/",
+    "https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/",
+    "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/",
+    "https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/",
+    "https://the-decoder.com/openai-plans-to-acquire-promptfoo-and-bake-ai-security-testing-directly-into-its-frontier-enterprise-platform/",
+    "https://the-decoder.com/microsoft-brings-anthropics-claude-cowork-into-copilot-to-run-tasks-across-outlook-teams-and-excel/",
+    "https://the-decoder.com/anthropics-groundbreaking-lawsuit-challenges-the-governments-power-to-punish-ai-safety-decisions/",
+    "https://the-decoder.com/millions-already-use-ai-chatbots-for-financial-advice-but-experts-warn-of-clear-limits/",
+    "https://the-decoder.com/study-warns-of-ai-brain-fry-as-workers-hit-cognitive-limits-overseeing-ai-agents/",
+    "https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/",
+    "https://www.technologyreview.com/2026/03/09/1132352/the-usability-imperative-for-securing-digital-asset-devices/",
+    "https://www.technologyreview.com/2026/03/09/1134050/the-download-ai-surveillance-laws-white-house-cracks-down-defiant-labs/",
     "https://arxiv.org/abs/2603.05522",
     "https://arxiv.org/abs/2603.05614",
-    "https://arxiv.org/abs/2603.05706",
-    "https://arxiv.org/abs/2603.05860",
-    "https://arxiv.org/abs/2603.05910",
-    "https://www.cnbc.com/2026/03/09/nscale-ai-data-center-nvidia-raise.html",
-    "https://www.cnbc.com/2026/03/08/social-media-child-safety-internet-ai-surveillance.html",
-    "https://www.theguardian.com/technology/2026/mar/09/anthropic-artificial-intelligence-pentagon",
-    "https://www.theguardian.com/technology/2026/mar/09/liverpool-and-manchester-united-complain-to-x-over-sickening-grok-ai-posts",
-    "https://www.theguardian.com/commentisfree/2026/mar/09/congress-government-ai-surveillance-anthropic",
-    "https://www.theguardian.com/technology/2026/mar/08/ai-hackers-social-media-accounts-study",
-    "https://www.theguardian.com/technology/2026/mar/08/chatgpt-driving-rise-in-reports-of-satanic-organised-ritual-abuse-uk-experts-say"
+    "https://www.cnbc.com/2026/03/09/bluesky-ceo-jay-graber-toni-schneider.html",
+    "https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html",
+    "https://www.cnbc.com/2026/03/09/anthropic-was-the-pentagons-choice-for-ai-now-its-banned-and-experts-are-worried.html",
+    "https://www.cnbc.com/2026/03/09/open-ai-cybersecurity-promptfoo-ai-agents.html",
+    "https://www.cnbc.com/2026/03/09/anthropic-trump-claude-ai-supply-chain-risk.html",
+    "https://www.nytimes.com/2026/03/09/technology/anthropic-defense-artificial-intelligence-lawsuit.html",
+    "https://www.nytimes.com/2026/03/09/business/nscale-ai-data-center-boom.html",
+    "https://www.theguardian.com/technology/2026/mar/09/from-press-release-to-scrap-metal-site-the-essex-supercomputer-thats-still-a-scaffolding-yard",
+    "https://www.theguardian.com/politics/2026/mar/09/key-takeaways-on-ai-phantom-investments-uk",
+    "https://www.theguardian.com/technology/2026/mar/09/anthropic-defense-department-lawsuit-ai",
+    "https://www.theguardian.com/technology/2026/mar/09/revealed-uks-multibillion-ai-drive-is-built-on-phantom-investments",
+    "https://www.theguardian.com/business/2026/mar/09/ai-nscale-raises-2bn-sheryl-sandberg-nick-clegg-board-value"
   ],
-  "generatedAt": "2026-03-09T11:34:50.217Z",
+  "generatedAt": "2026-03-09T23:21:28.872Z",
   "simpleSummaryImageUrl": "/images/2026-03-09/2026-03-09-summary.webp"
 }
