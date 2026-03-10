@@ -2,10 +2,11 @@
   "date": "2026-03-10",
   "dateFormatted": "March 10, 2026",
   "headline": {
-    "title": "Yann LeCun’s AMI Labs raises $1.03 billion to build world models",
-    "summary": "AMI Labs, the new venture cofounded by Turing Prize winner Yann LeCun after he left Meta, has raised $1.03 billion at a $3.5 billion pre-money valuation.",
-    "sourceUrl": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/",
-    "sourceName": "TechCrunch AI"
+    "title": "Amazon launches its healthcare AI assistant on its website and app",
+    "summary": "Health AI can answer questions, explain health records, manage prescription renewals, book appointments, and more.",
+    "sourceUrl": "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/",
+    "sourceName": "TechCrunch AI",
+    "imageUrl": "/images/2026-03-10/2026-03-10-hero.webp"
   },
   "simpleSummary": [
     "Today's edition was assembled directly from RSS feeds without AI curation.",
@@ -15,254 +16,267 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "Yann LeCun’s AMI Labs raises $1.03 billion to build world models",
-        "summary": "AMI Labs, the new venture cofounded by Turing Prize winner Yann LeCun after he left Meta, has raised $1.03 billion at a $3.5 billion pre-money valuation.",
-        "content": "AMI Labs, the new venture cofounded by Turing Prize winner Yann LeCun after he left Meta, has raised $1.03 billion at a $3.5 billion pre-money valuation.",
+        "title": "Amazon launches its healthcare AI assistant on its website and app",
+        "summary": "Health AI can answer questions, explain health records, manage prescription renewals, book appointments, and more.",
+        "content": "Health AI can answer questions, explain health records, manage prescription renewals, book appointments, and more.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/",
+        "sourceUrl": "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Tue, 10 Mar 2026 05:00:00 +0000",
+        "publishedAt": "Tue, 10 Mar 2026 20:10:06 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-10/2026-03-10-tools-AI-001.webp"
       },
       {
         "id": "AI-002",
-        "title": "OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit",
-        "summary": "More than 30 OpenAI and Google DeepMind employees signed onto a statement supporting Anthropic's lawsuit against the Defense Department after the agency labeled the AI firm a supply-chain risk, according to court filings.",
-        "content": "More than 30 OpenAI and Google DeepMind employees signed onto a statement supporting Anthropic's lawsuit against the Defense Department after the agency labeled the AI firm a supply-chain risk, according to court filings.",
+        "title": "AI-powered apps struggle with long-term retention, new report shows",
+        "summary": "AI can drive stronger early\nmonetization for apps, but sustaining value remains the challenge, RevenueCat's latest report finds.",
+        "content": "AI can drive stronger early\nmonetization for apps, but sustaining value remains the challenge, RevenueCat's latest report finds.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/",
+        "sourceUrl": "https://techcrunch.com/2026/03/10/ai-powered-apps-struggle-with-long-term-retention-new-report-shows/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Mon, 09 Mar 2026 21:15:17 +0000",
+        "publishedAt": "Tue, 10 Mar 2026 18:42:33 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-10/2026-03-10-tools-AI-002.webp"
       },
       {
         "id": "AI-003",
-        "title": "Anthropic launches code review tool to check flood of AI-generated code",
-        "summary": "Anthropic launched Code Review in Claude Code, a multi-agent system that automatically analyzes AI-generated code, flags logic errors, and helps enterprise developers manage the growing volume of code produced with AI.",
-        "content": "Anthropic launched Code Review in Claude Code, a multi-agent system that automatically analyzes AI-generated code, flags logic errors, and helps enterprise developers manage the growing volume of code produced with AI.",
+        "title": "ChatGPT can now create interactive visuals to help you understand math and science concepts",
+        "summary": "Instead of just reading an explanation or looking at a static diagram, users can now engage directly with interactive visuals.",
+        "content": "Instead of just reading an explanation or looking at a static diagram, users can now engage directly with interactive visuals.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/",
+        "sourceUrl": "https://techcrunch.com/2026/03/10/chatgpt-can-now-create-interactive-visuals-to-help-you-understand-math-and-science-concepts/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Mon, 09 Mar 2026 19:41:34 +0000",
+        "publishedAt": "Tue, 10 Mar 2026 17:51:25 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-10/2026-03-10-tools-AI-003.webp"
       },
       {
         "id": "AI-004",
-        "title": "OpenAI acquires Promptfoo to secure its AI agents",
-        "summary": "This deal underscores how frontier labs are scrambling to prove their technology can be used safely in critical business operations.",
-        "content": "This deal underscores how frontier labs are scrambling to prove their technology can be used safely in critical business operations.",
+        "title": "AgentMail raises $6M to build an email service for AI agents",
+        "summary": "AgentMail provides an API platform that lets you give AI agents their own email inboxes, with support for two-way conversations, parsing, threading, labeling, searching, and replying.",
+        "content": "AgentMail provides an API platform that lets you give AI agents their own email inboxes, with support for two-way conversations, parsing, threading, labeling, searching, and replying.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/",
+        "sourceUrl": "https://techcrunch.com/2026/03/10/agentmail-raises-6m-to-build-an-email-service-for-ai-agents/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Mon, 09 Mar 2026 17:49:04 +0000",
+        "publishedAt": "Tue, 10 Mar 2026 16:00:00 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-10/2026-03-10-tools-AI-004.webp"
       },
       {
         "id": "AI-005",
-        "title": "Anthropic sues Defense Department over supply-chain risk designation",
-        "summary": "Anthropic filed suit against the Department of Defense on Monday after the agency labeled it a supply-chain risk. The complaint calls the DOD's actions \"unprecedented and unlawful.\"",
-        "content": "Anthropic filed suit against the Department of Defense on Monday after the agency labeled it a supply-chain risk. The complaint calls the DOD's actions \"unprecedented and unlawful.\"",
+        "title": "Thinking Machines Lab inks massive compute deal with Nvidia",
+        "summary": "The multi-year deal involves at least a gigawatt of compute power and also includes a strategic investment from Nvidia.",
+        "content": "The multi-year deal involves at least a gigawatt of compute power and also includes a strategic investment from Nvidia.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/",
+        "sourceUrl": "https://techcrunch.com/2026/03/10/thinking-machines-lab-inks-massive-compute-deal-with-nvidia/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Mon, 09 Mar 2026 17:25:40 +0000",
+        "publishedAt": "Tue, 10 Mar 2026 15:08:39 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-10/2026-03-10-tools-AI-005.webp"
       }
     ],
     "creative": [
       {
         "id": "AI-006",
-        "title": "Investors bet $1 billion on Yann LeCun's vision for AI beyond LLMs",
-        "summary": "Yann LeCun, former chief AI scientist at Meta and Turing Award winner, has raised over $1 billion for his new startup Advanced Machine Intelligence Labs (AMI Labs) - making it Europe's largest seed funding round ever.\nThe article Investors bet $1 bil",
-        "content": "Yann LeCun, former chief AI scientist at Meta and Turing Award winner, has raised over $1 billion for his new startup Advanced Machine Intelligence Labs (AMI Labs) - making it Europe's largest seed funding round ever.\nThe article Investors bet $1 billion on Yann LeCun's vision for AI beyond LLMs appeared first on The Decoder.",
+        "title": "Amazon gets court order blocking Perplexity's AI shopping agent",
+        "summary": "Amazon stops Perplexity's shopping bot by court order: a ruling that could shape the future of AI agents in e-commerce.\nThe article Amazon gets court order blocking Perplexity's AI shopping agent appeared first on The Decoder.",
+        "content": "Amazon stops Perplexity's shopping bot by court order: a ruling that could shape the future of AI agents in e-commerce.\nThe article Amazon gets court order blocking Perplexity's AI shopping agent appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/investors-bet-1-billion-on-yann-lecuns-vision-for-ai-beyond-llms/",
+        "sourceUrl": "https://the-decoder.com/amazon-gets-court-order-blocking-perplexitys-ai-shopping-agent/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Tue, 10 Mar 2026 10:47:48 +0000",
+        "publishedAt": "Tue, 10 Mar 2026 19:11:01 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-10/2026-03-10-creative-AI-006.webp"
       },
       {
         "id": "AI-007",
-        "title": "Claude Code gets parallel AI agents that review code for bugs and security gaps",
-        "summary": "Anthropic has released a code review feature for Claude Code that automatically checks changes for errors before they're merged.\nThe article Claude Code gets parallel AI agents that review code for bugs and security gaps appeared first on The Decoder",
-        "content": "Anthropic has released a code review feature for Claude Code that automatically checks changes for errors before they're merged.\nThe article Claude Code gets parallel AI agents that review code for bugs and security gaps appeared first on The Decoder.",
+        "title": "ChatGPT now explains math and physics with interactive visualizations",
+        "summary": "ChatGPT now displays interactive visualizations for math and physics topics where users can tweak variables and watch graphs update in real time. More than 70 concepts are available at launch.\nThe article ChatGPT now explains math and physics with in",
+        "content": "ChatGPT now displays interactive visualizations for math and physics topics where users can tweak variables and watch graphs update in real time. More than 70 concepts are available at launch.\nThe article ChatGPT now explains math and physics with interactive visualizations appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/claude-code-gets-parallel-ai-agents-that-review-code-for-bugs-and-security-gaps/",
+        "sourceUrl": "https://the-decoder.com/chatgpt-now-explains-math-and-physics-with-interactive-visualizations/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Tue, 10 Mar 2026 09:12:18 +0000",
+        "publishedAt": "Tue, 10 Mar 2026 18:05:07 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-10/2026-03-10-creative-AI-007.webp"
       },
       {
         "id": "AI-008",
-        "title": "OpenAI plans to acquire Promptfoo and bake AI security testing directly into its Frontier enterprise platform",
-        "summary": "OpenAI is acquiring AI security platform Promptfoo to build automated vulnerability testing, covering jailbreaks, prompt injections, and data leaks, directly into its Frontier enterprise platform.\nThe article OpenAI plans to acquire Promptfoo and bak",
-        "content": "OpenAI is acquiring AI security platform Promptfoo to build automated vulnerability testing, covering jailbreaks, prompt injections, and data leaks, directly into its Frontier enterprise platform.\nThe article OpenAI plans to acquire Promptfoo and bake AI security testing directly into its Frontier enterprise platform appeared first on The Decoder.",
+        "title": "German court says \"It's AI\" isn't enough to void copyright",
+        "summary": "A German regional court has ruled that song lyrics written by a human are still protected by copyright, even if the music was made with AI tools like SunoAI. Simply claiming a work is AI-generated isn't enough to strip that protection, you need proof",
+        "content": "A German regional court has ruled that song lyrics written by a human are still protected by copyright, even if the music was made with AI tools like SunoAI. Simply claiming a work is AI-generated isn't enough to strip that protection, you need proof.\nThe article German court says \"It's AI\" isn't enough to void copyright appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/openai-plans-to-acquire-promptfoo-and-bake-ai-security-testing-directly-into-its-frontier-enterprise-platform/",
+        "sourceUrl": "https://the-decoder.com/german-court-says-its-ai-isnt-enough-to-void-copyright/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Mon, 09 Mar 2026 19:10:08 +0000",
+        "publishedAt": "Tue, 10 Mar 2026 17:12:57 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-10/2026-03-10-creative-AI-008.webp"
       },
       {
         "id": "AI-009",
-        "title": "Microsoft brings Anthropic's Claude Cowork into Copilot to run tasks across Outlook, Teams, and Excel",
-        "summary": "With Copilot Cowork, Microsoft taps Anthropic's Claude instead of OpenAI to let AI handle tasks across Outlook, Teams, and Excel autonomously.\nThe article Microsoft brings Anthropic's Claude Cowork into Copilot to run tasks across Outlook, Teams, and",
-        "content": "With Copilot Cowork, Microsoft taps Anthropic's Claude instead of OpenAI to let AI handle tasks across Outlook, Teams, and Excel autonomously.\nThe article Microsoft brings Anthropic's Claude Cowork into Copilot to run tasks across Outlook, Teams, and Excel appeared first on The Decoder.",
+        "title": "Amazon makes senior engineers the human filter for AI-generated code after a series of outages",
+        "summary": "Following a series of allegedly AI-caused outages, Amazon is turning its senior engineers into human filters for AI-generated code.\nThe article Amazon makes senior engineers the human filter for AI-generated code after a series of outages appeared fi",
+        "content": "Following a series of allegedly AI-caused outages, Amazon is turning its senior engineers into human filters for AI-generated code.\nThe article Amazon makes senior engineers the human filter for AI-generated code after a series of outages appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/microsoft-brings-anthropics-claude-cowork-into-copilot-to-run-tasks-across-outlook-teams-and-excel/",
+        "sourceUrl": "https://the-decoder.com/amazon-makes-senior-engineers-the-human-filter-for-ai-generated-code-after-a-series-of-outages/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Mon, 09 Mar 2026 17:51:16 +0000",
+        "publishedAt": "Tue, 10 Mar 2026 16:10:12 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-10/2026-03-10-creative-AI-009.webp"
       },
       {
         "id": "AI-010",
-        "title": "Anthropic's groundbreaking lawsuit challenges the government's power to punish AI safety decisions",
-        "summary": "Anthropic is suing 17 US federal agencies. The 48-page complaint reveals how deeply Claude is already embedded in classified Pentagon systems and how the government pressured the company with contradictory threats when it refused to drop its AI safet",
-        "content": "Anthropic is suing 17 US federal agencies. The 48-page complaint reveals how deeply Claude is already embedded in classified Pentagon systems and how the government pressured the company with contradictory threats when it refused to drop its AI safety guardrails.\nThe article Anthropic's groundbreaking lawsuit challenges the government's power to punish AI safety decisions appeared first on The Decoder.",
+        "title": "Nvidia and Mira Murati's Thinking Machines Lab announce long-term AI partnership",
+        "summary": "Nvidia and Thinking Machines Lab, the AI startup founded by former OpenAI executive Mira Murati, are entering a long-term partnership.\nThe article Nvidia and Mira Murati's Thinking Machines Lab announce long-term AI partnership appeared first on The ",
+        "content": "Nvidia and Thinking Machines Lab, the AI startup founded by former OpenAI executive Mira Murati, are entering a long-term partnership.\nThe article Nvidia and Mira Murati's Thinking Machines Lab announce long-term AI partnership appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/anthropics-groundbreaking-lawsuit-challenges-the-governments-power-to-punish-ai-safety-decisions/",
+        "sourceUrl": "https://the-decoder.com/nvidia-and-mira-muratis-thinking-machines-lab-announce-long-term-ai-partnership/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Mon, 09 Mar 2026 17:15:22 +0000",
+        "publishedAt": "Tue, 10 Mar 2026 15:14:17 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-10/2026-03-10-creative-AI-010.webp"
       }
     ],
     "research": [
       {
         "id": "AI-011",
-        "title": "How AI is turning the Iran conflict into theater",
-        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. “Anyone wanna host a get together in SF and pull this up on a 100 inch TV?”  The author of that post on X was re",
-        "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. “Anyone wanna host a get together in SF and pull this up on a 100 inch TV?”  The author of that post on X was referring to an online intelligence dashboard following…",
+        "title": "How Pokémon Go is giving delivery robots an inch-perfect view of the world",
+        "summary": "Pokémon Go was the world’s first augmented-reality megahit. Released in 2016 by the Google spinout Niantic, the AR twist on the juggernaut Pokémon franchise fast became a global phenomenon. From Chicago to Oslo to Enoshima, players hit the streets in",
+        "content": "Pokémon Go was the world’s first augmented-reality megahit. Released in 2016 by the Google spinout Niantic, the AR twist on the juggernaut Pokémon franchise fast became a global phenomenon. From Chicago to Oslo to Enoshima, players hit the streets in the urgent hope of catching a Jigglypuff or a Squirtle or (with a huge amount…",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/",
+        "sourceUrl": "https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/",
         "sourceName": "MIT Tech Review",
         "tags": [
           "MIT Tech Review"
         ],
         "section": "research",
         "readTime": "2 min",
-        "publishedAt": "Mon, 09 Mar 2026 15:11:01 +0000",
+        "publishedAt": "Tue, 10 Mar 2026 13:47:26 +0000",
         "normalizedTags": [
           "mit tech review"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-10/2026-03-10-research-AI-011.webp"
       },
       {
         "id": "AI-012",
-        "title": "The usability imperative for securing digital asset devices",
-        "summary": "When Tony Fadell started working on the iPod, usability often trumped security. The result was an iterative process. Every time someone would find a security weakness or a way to hack the device, the development group would iterate to add measures an",
-        "content": "When Tony Fadell started working on the iPod, usability often trumped security. The result was an iterative process. Every time someone would find a security weakness or a way to hack the device, the development group would iterate to add measures and fix the issues. Yet, flaws would frequently be found, and the secure design…",
+        "title": "Prioritizing energy intelligence for sustainable growth",
+        "summary": "Loudoun County, Virginia, once known for its pastoral scenery and proximity to Washington, DC, has earned a more modern reputation in recent years: The area has the highest concentration of data centers on the planet. Ten years ago, these facilities ",
+        "content": "Loudoun County, Virginia, once known for its pastoral scenery and proximity to Washington, DC, has earned a more modern reputation in recent years: The area has the highest concentration of data centers on the planet. Ten years ago, these facilities powered email and e-commerce. Today, thanks to the meteoric rise in demand for AI-infused everything,…",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/03/09/1132352/the-usability-imperative-for-securing-digital-asset-devices/",
+        "sourceUrl": "https://www.technologyreview.com/2026/03/10/1133972/prioritizing-energy-intelligence-for-sustainable-growth/",
         "sourceName": "MIT Tech Review",
         "tags": [
           "MIT Tech Review"
         ],
         "section": "research",
         "readTime": "2 min",
-        "publishedAt": "Mon, 09 Mar 2026 14:00:00 +0000",
+        "publishedAt": "Tue, 10 Mar 2026 13:00:00 +0000",
         "normalizedTags": [
           "mit tech review"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-10/2026-03-10-research-AI-012.webp"
       },
       {
         "id": "AI-013",
-        "title": "The Download: murky AI surveillance laws, and the White House cracks down on defiant labs",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Is the Pentagon allowed to surveil Americans with AI? The ongoing public feud between the Department of Defense ",
-        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Is the Pentagon allowed to surveil Americans with AI? The ongoing public feud between the Department of Defense and the AI company Anthropic has raised a deep and still unanswered question:…",
+        "title": "The Download: AI’s role in the Iran war, and an escalating legal fight",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How AI is turning the Iran conflict into theater  Much of the spotlight on AI in the Iran conflict has focused o",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How AI is turning the Iran conflict into theater  Much of the spotlight on AI in the Iran conflict has focused on models like Claude helping the US military decide where to…",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/03/09/1134050/the-download-ai-surveillance-laws-white-house-cracks-down-defiant-labs/",
+        "sourceUrl": "https://www.technologyreview.com/2026/03/10/1134077/the-download-ai-iran-war-theater-anthropic-sues-us/",
         "sourceName": "MIT Tech Review",
         "tags": [
           "MIT Tech Review"
         ],
         "section": "research",
         "readTime": "2 min",
-        "publishedAt": "Mon, 09 Mar 2026 13:57:44 +0000",
+        "publishedAt": "Tue, 10 Mar 2026 12:55:32 +0000",
         "normalizedTags": [
           "mit tech review"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-10/2026-03-10-research-AI-013.webp"
       },
       {
         "id": "AI-014",
@@ -281,7 +295,8 @@
         "publishedAt": "Tue, 10 Mar 2026 00:00:00 -0400",
         "normalizedTags": [
           "arxiv cs.ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-10/2026-03-10-research-AI-014.webp"
       },
       {
         "id": "AI-015",
@@ -300,148 +315,176 @@
         "publishedAt": "Tue, 10 Mar 2026 00:00:00 -0400",
         "normalizedTags": [
           "arxiv cs.ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-10/2026-03-10-research-AI-015.webp"
       }
     ],
     "applications": [],
     "business": [
       {
         "id": "AI-016",
-        "title": "Oracle earnings will show whether its expensive AI bet is starting to pay off",
-        "summary": "Oracle's $300 billion deal with OpenAI established it as a major player in AI cloud computing alongside Amazon, Google and Microsoft.",
-        "content": "Oracle's $300 billion deal with OpenAI established it as a major player in AI cloud computing alongside Amazon, Google and Microsoft.",
+        "title": "Microsoft backs Anthropic in Pentagon blacklist battle, urges temporary restraining order",
+        "summary": "Microsoft threw its support behind Anthropic and advocated for a temporary restraining order to the Pentagon's supply chain risk designation.",
+        "content": "Microsoft threw its support behind Anthropic and advocated for a temporary restraining order to the Pentagon's supply chain risk designation.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/10/oracle-orcl-stock-earnings-ai-data-center.html",
+        "sourceUrl": "https://www.cnbc.com/2026/03/10/microsoft-says-court-should-temporarily-block-pentagon-ban-anthropic.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Tue, 10 Mar 2026 11:00:02 GMT",
+        "publishedAt": "Tue, 10 Mar 2026 21:47:16 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-10/2026-03-10-business-AI-016.webp"
       },
       {
         "id": "AI-017",
-        "title": "Kevin Mandia sold his cybersecurity company to Google in 2022. He has a fresh $190 million for a new venture",
-        "summary": "Mandiant founder Kevin Mandia is staying in cybersecurity after selling his prior company to Google, but now he's focused on AI.",
-        "content": "Mandiant founder Kevin Mandia is staying in cybersecurity after selling his prior company to Google, but now he's focused on AI.",
+        "title": "Oracle stock jumps 9% on earnings beat and increased guidance as cloud revenue climbs 44%",
+        "summary": "Oracle boosted its revenue backlog total by $30 billion during the February quarter.",
+        "content": "Oracle boosted its revenue backlog total by $30 billion during the February quarter.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/10/kevin-mandia-raised-190-million-armadin-after-prior-sale-to-google.html",
+        "sourceUrl": "https://www.cnbc.com/2026/03/10/oracle-orcl-q3-earnings-report-2026.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Tue, 10 Mar 2026 10:00:01 GMT",
+        "publishedAt": "Tue, 10 Mar 2026 22:07:11 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-10/2026-03-10-business-AI-017.webp"
       },
       {
         "id": "AI-018",
-        "title": "Nvidia plans open-source AI agent platform ‘NemoClaw’ for enterprises: Wired",
-        "summary": "Nvidia is planning to lean into the agentic AI craze and launch an open-source platform for AI agents called 'NemoClaw,' according to a report.",
-        "content": "Nvidia is planning to lean into the agentic AI craze and launch an open-source platform for AI agents called 'NemoClaw,' according to a report.",
+        "title": "Elon Musk's xAI wins permit to build power plant in Mississippi despite pollution concerns",
+        "summary": "Mississippi regulators authorized xAI to build a power plant with 41 natural gas-burning turbines in Southaven to power its nearby data centers.",
+        "content": "Mississippi regulators authorized xAI to build a power plant with 41 natural gas-burning turbines in Southaven to power its nearby data centers.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/10/nvidia-open-source-ai-agent-platform-nemoclaw-wired-agentic-tools-openclaw-clawdbot-moltbot.html",
+        "sourceUrl": "https://www.cnbc.com/2026/03/10/elon-musk-xai-permit-for-mississippi-plant-despite-pollution-concerns.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Tue, 10 Mar 2026 07:09:24 GMT",
+        "publishedAt": "Tue, 10 Mar 2026 22:18:36 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-10/2026-03-10-business-AI-018.webp"
       },
       {
         "id": "AI-019",
-        "title": "Elon Musk's xAI wants to build a power plant in Mississippi. Regulators plan a key meeting on Election Day",
-        "summary": "The NAACP has accused Mississippi regulators of rushing a meeting to approve xAI plans for a massive, methane-burning power plant in Southaven.",
-        "content": "The NAACP has accused Mississippi regulators of rushing a meeting to approve xAI plans for a massive, methane-burning power plant in Southaven.",
+        "title": "Meta gets into social networks for AI agents with acquisition of viral Moltbook platform",
+        "summary": "Moltbook was built for OpenClaw agents, and OpenClaw's founder, Peter Steinberger, was hired by OpenAI.",
+        "content": "Moltbook was built for OpenClaw agents, and OpenClaw's founder, Peter Steinberger, was hired by OpenAI.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/09/mississippi-regulators-to-hold-xai-permit-meeting-on-election-day.html",
+        "sourceUrl": "https://www.cnbc.com/2026/03/10/meta-social-networks-ai-agents-moltbook-acquisition.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Tue, 10 Mar 2026 00:30:53 GMT",
+        "publishedAt": "Tue, 10 Mar 2026 19:49:35 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-10/2026-03-10-business-AI-019.webp"
       },
       {
         "id": "AI-020",
-        "title": "Top permitting-reform Republican, Democratic senators meeting as talks thaw: API chief",
-        "summary": "Speeding up the federal permitting process is a top priority for the energy and tech industries.",
-        "content": "Speeding up the federal permitting process is a top priority for the energy and tech industries.",
+        "title": "Amazon wins court order to block Perplexity's AI shopping agent",
+        "summary": "Amazon sued Perplexity in November, accusing the startup of concealing its AI shopping agents.",
+        "content": "Amazon sued Perplexity in November, accusing the startup of concealing its AI shopping agents.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/09/top-permitting-reform-senators-meeting-as-talks-thaw-api-chief.html",
+        "sourceUrl": "https://www.cnbc.com/2026/03/10/amazon-wins-court-order-to-block-perplexitys-ai-shopping-agent.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Mon, 09 Mar 2026 23:40:44 GMT",
+        "publishedAt": "Tue, 10 Mar 2026 20:39:33 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-10/2026-03-10-business-AI-020.webp"
       }
     ],
     "policy": [
       {
         "id": "AI-021",
-        "title": "Anthropic Sues Department of Defense Over ‘Supply Chain Risk’ Label",
-        "summary": "The artificial intelligence company filed two lawsuits against the Department of Defense, saying it was being punished on ideological grounds.",
-        "content": "The artificial intelligence company filed two lawsuits against the Department of Defense, saying it was being punished on ideological grounds.",
+        "title": "A.I. Incites a New Wave of Grieving Parents Fighting for Online Safety",
+        "summary": "Blaming chatbots, they are joining an earlier push for better protections by parents who say social media contributed to their children’s deaths.",
+        "content": "Blaming chatbots, they are joining an earlier push for better protections by parents who say social media contributed to their children’s deaths.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/03/09/technology/anthropic-defense-artificial-intelligence-lawsuit.html",
+        "sourceUrl": "https://www.nytimes.com/2026/03/10/technology/ai-social-media-child-safety-parents.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Mon, 09 Mar 2026 22:12:34 +0000",
+        "publishedAt": "Tue, 10 Mar 2026 18:35:44 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-10/2026-03-10-policy-AI-021.webp"
       },
       {
         "id": "AI-022",
-        "title": "The Former Coal Miner in the Middle of the A.I. Data Center Boom",
-        "summary": "Josh Payne, the chief executive of Nscale, raised $2 billion from investors. Sheryl Sandberg, the former Facebook executive, is joining his board.",
-        "content": "Josh Payne, the chief executive of Nscale, raised $2 billion from investors. Sheryl Sandberg, the former Facebook executive, is joining his board.",
+        "title": "Meta Acquires Moltbook, the Social Network Just for A.I. Bots",
+        "summary": "Matt Schlicht, the site’s creator, helped kick off Silicon Valley’s obsession with artificial intelligence agents. Two months later, he is joining the Meta Superintelligence Lab.",
+        "content": "Matt Schlicht, the site’s creator, helped kick off Silicon Valley’s obsession with artificial intelligence agents. Two months later, he is joining the Meta Superintelligence Lab.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/03/09/business/nscale-ai-data-center-boom.html",
+        "sourceUrl": "https://www.nytimes.com/2026/03/10/technology/meta-moltbook-social-ai-bots.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Mon, 09 Mar 2026 14:41:41 +0000",
+        "publishedAt": "Tue, 10 Mar 2026 19:03:10 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-10/2026-03-10-policy-AI-022.webp"
       },
       {
         "id": "AI-023",
+        "title": "YouTube Adds Tool to Help Public Figures Report Fake Videos",
+        "summary": "Social media companies are under pressure to crack down on so-called deepfake videos that use deceptive images of real people.",
+        "content": "Social media companies are under pressure to crack down on so-called deepfake videos that use deceptive images of real people.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/03/10/technology/youtube-deepfakes-detection-tool.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 10 Mar 2026 14:00:06 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-03-10/2026-03-10-policy-AI-023.webp"
+      },
+      {
+        "id": "AI-024",
         "title": "Former Meta A.I. Chief’s Start-Up Is Valued at $3.5 Billion",
         "summary": "Advanced Machine Intelligence Labs, founded by Yann LeCun and other ex-Meta researchers, has raised more than $1 billion from investors.",
         "content": "Advanced Machine Intelligence Labs, founded by Yann LeCun and other ex-Meta researchers, has raised more than $1 billion from investors.",
@@ -454,127 +497,134 @@
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Tue, 10 Mar 2026 05:00:10 +0000",
+        "publishedAt": "Tue, 10 Mar 2026 14:36:13 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-10/2026-03-10-policy-AI-024.webp"
       },
       {
-        "id": "AI-024",
-        "title": "U.S. Solar Installations Fell in 2025 as Trump Attacked Clean Energy",
-        "summary": "More solar energy was added to U.S. grids than any other technology, but the amount installed fell by 14 percent, according to a new report.",
-        "content": "More solar energy was added to U.S. grids than any other technology, but the amount installed fell by 14 percent, according to a new report.",
+        "id": "AI-025",
+        "title": "Boeing Says Wiring Issue Will Delay Some 737 Max Deliveries",
+        "summary": "The aerospace company said the delay would not prevent it from meeting its 2026 sales goal of about 500 Max jets.",
+        "content": "The aerospace company said the delay would not prevent it from meeting its 2026 sales goal of about 500 Max jets.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/03/10/business/energy-environment/donald-trump-solar-energy-batteries.html",
+        "sourceUrl": "https://www.nytimes.com/2026/03/10/business/boeing-737-max-delay.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Tue, 10 Mar 2026 04:01:04 +0000",
+        "publishedAt": "Tue, 10 Mar 2026 16:45:45 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-10/2026-03-10-policy-AI-025.webp"
       }
     ],
     "concerns": [],
     "culture": [
       {
-        "id": "AI-025",
-        "title": "Thousands of authors publish ‘empty’ book in protest over AI using their work",
-        "summary": "About 10,000 writers including Kazuo Ishiguro, Philippa Gregory and Richard Osman join copyright campaign\nThousands of authors including Kazuo Ishiguro, Philippa Gregory and Richard Osman have published an “empty” book to protest against AI firms usi",
-        "content": "About 10,000 writers including Kazuo Ishiguro, Philippa Gregory and Richard Osman join copyright campaign\nThousands of authors including Kazuo Ishiguro, Philippa Gregory and Richard Osman have published an “empty” book to protest against AI firms using their work without permission.\nAbout 10,000 writers have contributed to Don’t Steal This Book, in which the only content is a list of their names. Copies of the work are being distributed to attenders at the London book fair on Tuesday, a week bef",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/mar/10/thousands-authors-publish-empty-book-protest-ai-work-copyright",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Tue, 10 Mar 2026 06:00:10 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
-      },
-      {
         "id": "AI-026",
-        "title": "I’ve taught thousands of people how to use AI – here’s what I’ve learned",
-        "summary": "Most people fail with AI because they don’t understand what it actually is – if you treat it as a skill, not a shortcut, you’ll get the best results\n\nSign up for AI for the People, a six-week newsletter course, here\n\nTraining teams to use AI at work ",
-        "content": "Most people fail with AI because they don’t understand what it actually is – if you treat it as a skill, not a shortcut, you’ll get the best results\n\nSign up for AI for the People, a six-week newsletter course, here\n\nTraining teams to use AI at work has given me a front-row seat to a new kind of professional divide.\nSome people hand everything over to the machine and stop thinking. Others won’t touch it at all.\n Continue reading...",
+        "title": "UK Society of Authors launches logo to identify books written by humans not AI",
+        "summary": "Tracy Chevalier announces registration scheme at the London Book Fair as AI works flood market\nThe Society of Authors (SoA) has launched a scheme to help identify works written by humans in a market increasingly flooded by AI-generated books.\nThe sch",
+        "content": "Tracy Chevalier announces registration scheme at the London Book Fair as AI works flood market\nThe Society of Authors (SoA) has launched a scheme to help identify works written by humans in a market increasingly flooded by AI-generated books.\nThe scheme is the first of its kind launched by a UK trade association, and allows authors to register their books and download a “Human Authored” logo to display on their back cover.\n Continue reading...",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/10/teaching-ai-what-i-learned",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/mar/10/uk-society-authors-logo-identify-books-written-by-humans-not-ai",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Tue, 10 Mar 2026 11:00:03 GMT",
+        "publishedAt": "Tue, 10 Mar 2026 17:00:53 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-10/2026-03-10-culture-AI-026.webp"
       },
       {
         "id": "AI-027",
-        "title": "From scripts to sermons: is AI going to be writing everything soon? | Margaret Sullivan",
-        "summary": "‘Resistance is futile’, wrote one AI product manager for the Associated Press  in internal messages to colleagues\nNo one wants a soulless sermon – that defeats the purpose – and Pope Leo XIV has taken steps to ensure that Roman Catholic priests don’t",
-        "content": "‘Resistance is futile’, wrote one AI product manager for the Associated Press  in internal messages to colleagues\nNo one wants a soulless sermon – that defeats the purpose – and Pope Leo XIV has taken steps to ensure that Roman Catholic priests don’t deliver one.\nArtificial intelligence, the new pontiff said in a recent meeting with clergy, “will never be able to share faith”, which is what giving a homily is all about. Resist the temptation and write your own words, he urged.\n Continue reading.",
+        "title": "Without effective regulation of AI, society is facing a head-on collision with a driverless car | Peter Lewis",
+        "summary": "Artificial intelligence is accelerating exponentially before it has brakes, seat-belts, speed limits or a working GPS\nA self-driving vehicle ploughs into an oncoming car, combusting the occupants and leaving those who survive battered and bruised and",
+        "content": "Artificial intelligence is accelerating exponentially before it has brakes, seat-belts, speed limits or a working GPS\nA self-driving vehicle ploughs into an oncoming car, combusting the occupants and leaving those who survive battered and bruised and staring into their devices wondering who is to blame.\nThat’s the jump off point to Bruce Holsinger’s tech-lit bestseller Culpability, an exploration of agency and responsibility in the era of AI through the eyes of a lawyer, an ethicist and their sc",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/commentisfree/2026/mar/10/ai-writing-everything-scripts-sermons",
+        "sourceUrl": "https://www.theguardian.com/commentisfree/2026/mar/11/ai-artificial-intelligence-regulation-society",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Tue, 10 Mar 2026 10:00:23 GMT",
+        "publishedAt": "Tue, 10 Mar 2026 22:40:39 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-10/2026-03-10-culture-AI-027.webp"
       },
       {
         "id": "AI-028",
-        "title": "Short films made from brain activity of mice aim to show how they see world",
-        "summary": "Scientists hope results analysed after the mice watched video footage will help them understand their perceptions\nScientists have reconstructed short movies from the brain activity of mice that watched videos for a project that aspires to lift the ve",
-        "content": "Scientists hope results analysed after the mice watched video footage will help them understand their perceptions\nScientists have reconstructed short movies from the brain activity of mice that watched videos for a project that aspires to lift the veil on how animals perceive the world.\nThe brief movie clips are grainy and pixellated, but provide a glimpse of how mice processed footage that featured people taking part in various sports from gymnastics to horse riding and wrestling.\n Continue rea",
+        "title": "Musk’s xAI wins permit for datacenter’s makeshift power plant despite backlash",
+        "summary": "Billionaire’s artificial intelligence company gets approval to run 41 methane gas turbines at its ‘Colossus 2’ in Mississippi\nElon Musk’s artificial intelligence company xAI won approval on Tuesday to run 41 methane gas turbines at its “Colossus 2” d",
+        "content": "Billionaire’s artificial intelligence company gets approval to run 41 methane gas turbines at its ‘Colossus 2’ in Mississippi\nElon Musk’s artificial intelligence company xAI won approval on Tuesday to run 41 methane gas turbines at its “Colossus 2” datacenter in northern Mississippi. That’s nearly double the amount it has been operating.\nThe turbines will help power xAI’s massive datacenters, which house the company’s “AI supercomputers”, or giant arrays of advanced chips, which in turn power th",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/science/2026/mar/10/short-films-brain-activity-mice-how-they-see-world",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/mar/10/elon-musk-xai-data-centers",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Tue, 10 Mar 2026 05:00:08 GMT",
+        "publishedAt": "Tue, 10 Mar 2026 21:15:31 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-10/2026-03-10-culture-AI-028.webp"
       },
       {
         "id": "AI-029",
-        "title": "Trump news at a glance: president issues an ultimatum to Congress to get voter ID bill passed",
-        "summary": "Trump is also pushing for the Save America Act to includes provisions to limit transgender youth’s access to care and banning trans women athletes in women’s sports – key US politics stories from Monday 9 March at a glance\nDonald Trump renewed his pu",
-        "content": "Trump is also pushing for the Save America Act to includes provisions to limit transgender youth’s access to care and banning trans women athletes in women’s sports – key US politics stories from Monday 9 March at a glance\nDonald Trump renewed his push on Monday for the Save America Act, a curtailment of voting access, after threatening on Sunday not to sign any bills until Congress approves the legislation.\n“All voters must show proof of citizenship in order to vote,” Trump said during remarks ",
+        "title": "Meta acquires AI agent social network Moltbook",
+        "summary": "Co-founders of Moltbook, a platform for artificial intelligence agents, will join tech giant’s AI research unit\nFacebook parent Meta Platforms said on Tuesday it had acquired Moltbook, a social networking platform built for artificial intelligence ag",
+        "content": "Co-founders of Moltbook, a platform for artificial intelligence agents, will join tech giant’s AI research unit\nFacebook parent Meta Platforms said on Tuesday it had acquired Moltbook, a social networking platform built for artificial intelligence agents, bringing the company’s founders into its AI research division.\nThe deal will bring Moltbook co-founders Matt Schlicht and Ben Parr into Meta Superintelligence Labs, the unit led by Alexandr Wang, former Scale AI CEO, which Meta purchased for $1",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/us-news/2026/mar/09/trump-news-at-a-glance",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/mar/10/meta-acquires-moltbook-ai-agent-social-network",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Tue, 10 Mar 2026 01:00:17 GMT",
+        "publishedAt": "Tue, 10 Mar 2026 17:27:54 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-10/2026-03-10-culture-AI-029.webp"
+      },
+      {
+        "id": "AI-030",
+        "title": "Keyboard jamming: the sneaky way to make your boss think you’re working from home",
+        "summary": "Got a keyboard, something heavy and a desire to put your feet up during office hours? This could be the scam for you. But beware – employers are fighting back\nName: Keyboard jamming.\nAge: Being workshy isn’t new. Diogenes the Cynic was famous not onl",
+        "content": "Got a keyboard, something heavy and a desire to put your feet up during office hours? This could be the scam for you. But beware – employers are fighting back\nName: Keyboard jamming.\nAge: Being workshy isn’t new. Diogenes the Cynic was famous not only for living in a barrel, but also for his rejection of ambition and employment.\n Continue reading...",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/money/2026/mar/10/keyboard-jamming-sneaky-way-make-boss-think-working-from-home",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 10 Mar 2026 16:11:07 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-03-10/2026-03-10-culture-AI-030.webp"
       }
     ]
   },
@@ -584,35 +634,37 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/",
-    "https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/",
-    "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/",
-    "https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/",
-    "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/",
-    "https://the-decoder.com/investors-bet-1-billion-on-yann-lecuns-vision-for-ai-beyond-llms/",
-    "https://the-decoder.com/claude-code-gets-parallel-ai-agents-that-review-code-for-bugs-and-security-gaps/",
-    "https://the-decoder.com/openai-plans-to-acquire-promptfoo-and-bake-ai-security-testing-directly-into-its-frontier-enterprise-platform/",
-    "https://the-decoder.com/microsoft-brings-anthropics-claude-cowork-into-copilot-to-run-tasks-across-outlook-teams-and-excel/",
-    "https://the-decoder.com/anthropics-groundbreaking-lawsuit-challenges-the-governments-power-to-punish-ai-safety-decisions/",
-    "https://www.technologyreview.com/2026/03/09/1134063/how-ai-is-turning-the-iran-conflict-into-theater/",
-    "https://www.technologyreview.com/2026/03/09/1132352/the-usability-imperative-for-securing-digital-asset-devices/",
-    "https://www.technologyreview.com/2026/03/09/1134050/the-download-ai-surveillance-laws-white-house-cracks-down-defiant-labs/",
+    "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/",
+    "https://techcrunch.com/2026/03/10/ai-powered-apps-struggle-with-long-term-retention-new-report-shows/",
+    "https://techcrunch.com/2026/03/10/chatgpt-can-now-create-interactive-visuals-to-help-you-understand-math-and-science-concepts/",
+    "https://techcrunch.com/2026/03/10/agentmail-raises-6m-to-build-an-email-service-for-ai-agents/",
+    "https://techcrunch.com/2026/03/10/thinking-machines-lab-inks-massive-compute-deal-with-nvidia/",
+    "https://the-decoder.com/amazon-gets-court-order-blocking-perplexitys-ai-shopping-agent/",
+    "https://the-decoder.com/chatgpt-now-explains-math-and-physics-with-interactive-visualizations/",
+    "https://the-decoder.com/german-court-says-its-ai-isnt-enough-to-void-copyright/",
+    "https://the-decoder.com/amazon-makes-senior-engineers-the-human-filter-for-ai-generated-code-after-a-series-of-outages/",
+    "https://the-decoder.com/nvidia-and-mira-muratis-thinking-machines-lab-announce-long-term-ai-partnership/",
+    "https://www.technologyreview.com/2026/03/10/1134099/how-pokemon-go-is-helping-robots-deliver-pizza-on-time/",
+    "https://www.technologyreview.com/2026/03/10/1133972/prioritizing-energy-intelligence-for-sustainable-growth/",
+    "https://www.technologyreview.com/2026/03/10/1134077/the-download-ai-iran-war-theater-anthropic-sues-us/",
     "https://arxiv.org/abs/2603.05522",
     "https://arxiv.org/abs/2603.05614",
-    "https://www.cnbc.com/2026/03/10/oracle-orcl-stock-earnings-ai-data-center.html",
-    "https://www.cnbc.com/2026/03/10/kevin-mandia-raised-190-million-armadin-after-prior-sale-to-google.html",
-    "https://www.cnbc.com/2026/03/10/nvidia-open-source-ai-agent-platform-nemoclaw-wired-agentic-tools-openclaw-clawdbot-moltbot.html",
-    "https://www.cnbc.com/2026/03/09/mississippi-regulators-to-hold-xai-permit-meeting-on-election-day.html",
-    "https://www.cnbc.com/2026/03/09/top-permitting-reform-senators-meeting-as-talks-thaw-api-chief.html",
-    "https://www.nytimes.com/2026/03/09/technology/anthropic-defense-artificial-intelligence-lawsuit.html",
-    "https://www.nytimes.com/2026/03/09/business/nscale-ai-data-center-boom.html",
+    "https://www.cnbc.com/2026/03/10/microsoft-says-court-should-temporarily-block-pentagon-ban-anthropic.html",
+    "https://www.cnbc.com/2026/03/10/oracle-orcl-q3-earnings-report-2026.html",
+    "https://www.cnbc.com/2026/03/10/elon-musk-xai-permit-for-mississippi-plant-despite-pollution-concerns.html",
+    "https://www.cnbc.com/2026/03/10/meta-social-networks-ai-agents-moltbook-acquisition.html",
+    "https://www.cnbc.com/2026/03/10/amazon-wins-court-order-to-block-perplexitys-ai-shopping-agent.html",
+    "https://www.nytimes.com/2026/03/10/technology/ai-social-media-child-safety-parents.html",
+    "https://www.nytimes.com/2026/03/10/technology/meta-moltbook-social-ai-bots.html",
+    "https://www.nytimes.com/2026/03/10/technology/youtube-deepfakes-detection-tool.html",
     "https://www.nytimes.com/2026/03/10/technology/ami-labs-yann-lecun-funding.html",
-    "https://www.nytimes.com/2026/03/10/business/energy-environment/donald-trump-solar-energy-batteries.html",
-    "https://www.theguardian.com/technology/2026/mar/10/thousands-authors-publish-empty-book-protest-ai-work-copyright",
-    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/10/teaching-ai-what-i-learned",
-    "https://www.theguardian.com/commentisfree/2026/mar/10/ai-writing-everything-scripts-sermons",
-    "https://www.theguardian.com/science/2026/mar/10/short-films-brain-activity-mice-how-they-see-world",
-    "https://www.theguardian.com/us-news/2026/mar/09/trump-news-at-a-glance"
+    "https://www.nytimes.com/2026/03/10/business/boeing-737-max-delay.html",
+    "https://www.theguardian.com/technology/2026/mar/10/uk-society-authors-logo-identify-books-written-by-humans-not-ai",
+    "https://www.theguardian.com/commentisfree/2026/mar/11/ai-artificial-intelligence-regulation-society",
+    "https://www.theguardian.com/technology/2026/mar/10/elon-musk-xai-data-centers",
+    "https://www.theguardian.com/technology/2026/mar/10/meta-acquires-moltbook-ai-agent-social-network",
+    "https://www.theguardian.com/money/2026/mar/10/keyboard-jamming-sneaky-way-make-boss-think-working-from-home"
   ],
-  "generatedAt": "2026-03-10T11:32:28.415Z"
+  "generatedAt": "2026-03-10T23:21:17.410Z",
+  "simpleSummaryImageUrl": "/images/2026-03-10/2026-03-10-summary.webp"
 }
