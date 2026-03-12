@@ -2,10 +2,11 @@
   "date": "2026-03-12",
   "dateFormatted": "March 12, 2026",
   "headline": {
-    "title": "Google is using old news reports and AI to predict flash floods",
-    "summary": "A new way to solve data scarcity: Turning qualitative reports into quantitative data with an LLM.",
-    "sourceUrl": "https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/",
-    "sourceName": "TechCrunch AI"
+    "title": "Sales automation startup Rox AI hits $1.2B valuation, sources say",
+    "summary": "Rox, founded in 2024 by the former chief growth officer of New Relic, offers an AI-native alternative to CRM tools.",
+    "sourceUrl": "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/",
+    "sourceName": "TechCrunch AI",
+    "imageUrl": "/images/2026-03-12/2026-03-12-hero.webp"
   },
   "simpleSummary": [
     "Today's edition was assembled directly from RSS feeds without AI curation.",
@@ -15,200 +16,270 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "Google is using old news reports and AI to predict flash floods",
-        "summary": "A new way to solve data scarcity: Turning qualitative reports into quantitative data with an LLM.",
-        "content": "A new way to solve data scarcity: Turning qualitative reports into quantitative data with an LLM.",
+        "title": "Sales automation startup Rox AI hits $1.2B valuation, sources say",
+        "summary": "Rox, founded in 2024 by the former chief growth officer of New Relic, offers an AI-native alternative to CRM tools.",
+        "content": "Rox, founded in 2024 by the former chief growth officer of New Relic, offers an AI-native alternative to CRM tools.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/",
+        "sourceUrl": "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Thu, 12 Mar 2026 10:00:00 +0000",
+        "publishedAt": "Thu, 12 Mar 2026 22:25:50 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-12/2026-03-12-tools-AI-001.webp"
       },
       {
         "id": "AI-002",
-        "title": "AI ‘actor’ Tilly Norwood put out the worst song I’ve ever heard",
-        "summary": "This song is an AI actor's rallying cry to other AI actors, urging them to keep going despite the naysayers who doubt their humanity. Literally no one can relate to this.",
-        "content": "This song is an AI actor's rallying cry to other AI actors, urging them to keep going despite the naysayers who doubt their humanity. Literally no one can relate to this.",
+        "title": "Facebook Marketplace now lets Meta AI respond to buyers’ messages",
+        "summary": "When buyers inquire about an item’s availability, sellers can use Meta AI to automatically draft replies using information from their listing, such as the description, availability, pickup location, and price.",
+        "content": "When buyers inquire about an item’s availability, sellers can use Meta AI to automatically draft replies using information from their listing, such as the description, availability, pickup location, and price.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/",
+        "sourceUrl": "https://techcrunch.com/2026/03/12/facebook-marketplace-now-lets-meta-ai-respond-to-buyers-messages/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Wed, 11 Mar 2026 23:35:03 +0000",
+        "publishedAt": "Thu, 12 Mar 2026 18:20:33 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-12/2026-03-12-tools-AI-002.webp"
       },
       {
         "id": "AI-003",
-        "title": "Ford’s new AI assistant will help fleet owners know if seatbelts are being used",
-        "summary": "Ford Pro AI debuted at Work Truck Week in Indianapolis and is now available to all of its U.S.-based Pro telematics subscribers.",
-        "content": "Ford Pro AI debuted at Work Truck Week in Indianapolis and is now available to all of its U.S.-based Pro telematics subscribers.",
+        "title": "Tinder tries to lure people back to online dating with IRL events, virtual speed dating",
+        "summary": "Tinder just got a major revamp as it attempts to reengage its user base and attract younger daters. This includes in-person events, AI enhancements, and even virtual speed dating.",
+        "content": "Tinder just got a major revamp as it attempts to reengage its user base and attract younger daters. This includes in-person events, AI enhancements, and even virtual speed dating.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/11/fords-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used/",
+        "sourceUrl": "https://techcrunch.com/2026/03/12/tinder-tries-to-lure-people-back-to-online-dating-with-irl-events-virtual-speed-dating/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Wed, 11 Mar 2026 22:51:39 +0000",
+        "publishedAt": "Thu, 12 Mar 2026 18:00:00 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-12/2026-03-12-tools-AI-003.webp"
       },
       {
         "id": "AI-004",
-        "title": "Zendesk acquires agentic customer service startup Forethought",
-        "summary": "Forethought was years ahead of its time and the 2018 winner of TechCrunch Battlefield.",
-        "content": "Forethought was years ahead of its time and the 2018 winner of TechCrunch Battlefield.",
+        "title": "Atlassian follows Block’s footsteps and cuts staff in the name of AI",
+        "summary": "Atlassian laid off 10% of its workforce, around 1,600 people, as the company looks to funnel more funds to AI.",
+        "content": "Atlassian laid off 10% of its workforce, around 1,600 people, as the company looks to funnel more funds to AI.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/11/zendesk-acquires-agentic-customer-service-startup-forethought/",
+        "sourceUrl": "https://techcrunch.com/2026/03/12/atlassian-follows-blocks-footsteps-and-cuts-staff-in-the-name-of-ai/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Wed, 11 Mar 2026 22:41:27 +0000",
+        "publishedAt": "Thu, 12 Mar 2026 17:20:19 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-12/2026-03-12-tools-AI-004.webp"
       },
       {
         "id": "AI-005",
-        "title": "Netflix may have paid $600 million for Ben Affleck’s AI startup",
-        "summary": "This deal could rank as among the streaming giant's largest acquisitions ever.",
-        "content": "This deal could rank as among the streaming giant's largest acquisitions ever.",
+        "title": "Bumble to launch an AI dating assistant, ‘Bee’",
+        "summary": "Bumble's new AI assistant Bee will move the dating app beyond the swipe by matching people based on compatibility and goals.",
+        "content": "Bumble's new AI assistant Bee will move the dating app beyond the swipe by matching people based on compatibility and goals.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/11/netflix-may-have-paid-600-million-for-ben-afflecks-ai-startup/",
+        "sourceUrl": "https://techcrunch.com/2026/03/12/bumble-to-launch-an-ai-dating-assistant-bee/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Wed, 11 Mar 2026 22:00:05 +0000",
+        "publishedAt": "Thu, 12 Mar 2026 16:52:17 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-12/2026-03-12-tools-AI-005.webp"
       }
     ],
     "creative": [
       {
         "id": "AI-006",
-        "title": "Google unifies text, image, video, and audio in a single vector space with Gemini Embedding 2",
-        "summary": "Google's first native multimodal embedding model brings text, images, video, audio, and documents into one vector space, cutting out the need for separate models in AI pipelines.\nThe article Google unifies text, image, video, and audio in a single ve",
-        "content": "Google's first native multimodal embedding model brings text, images, video, audio, and documents into one vector space, cutting out the need for separate models in AI pipelines.\nThe article Google unifies text, image, video, and audio in a single vector space with Gemini Embedding 2 appeared first on The Decoder.",
+        "title": "Grok 4.20 trails Gemini and GPT-5.4 by a wide margin but sets a new record for not hallucinating",
+        "summary": "xAI's Grok 4.20 is cheap, fast, and hallucinates less than any other tested model, but it can't keep up with the top tier in benchmarks.\nThe article Grok 4.20 trails Gemini and GPT-5.4 by a wide margin but sets a new record for not hallucinating appe",
+        "content": "xAI's Grok 4.20 is cheap, fast, and hallucinates less than any other tested model, but it can't keep up with the top tier in benchmarks.\nThe article Grok 4.20 trails Gemini and GPT-5.4 by a wide margin but sets a new record for not hallucinating appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/google-unifies-text-image-video-and-audio-in-a-single-vector-space-with-gemini-embedding-2/",
+        "sourceUrl": "https://the-decoder.com/grok-4-20-trails-gemini-and-gpt-5-4-by-a-wide-margin-but-sets-a-new-record-for-not-hallucinating/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Wed, 11 Mar 2026 18:41:30 +0000",
+        "publishedAt": "Thu, 12 Mar 2026 19:25:12 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-12/2026-03-12-creative-AI-006.webp"
       },
       {
         "id": "AI-007",
-        "title": "Half of AI-written code that passes industry test would get rejected by real developers, new study finds",
-        "summary": "About half of the AI code solutions that pass the popular SWE-bench benchmark would get rejected by actual project maintainers, according to a new study by the research organization METR.\nThe article Half of AI-written code that passes industry test ",
-        "content": "About half of the AI code solutions that pass the popular SWE-bench benchmark would get rejected by actual project maintainers, according to a new study by the research organization METR.\nThe article Half of AI-written code that passes industry test would get rejected by real developers, new study finds appeared first on The Decoder.",
+        "title": "US War Department CTO says Anthropic's AI models \"pollute\" the supply chain with built-in ethics",
+        "summary": "The US Department of War wants to ban Anthropic's Claude from its supply chain because the AI models are too ethical. The approach echoes China's political control of AI.\nThe article US War Department CTO says Anthropic's AI models \"pollute\" the supp",
+        "content": "The US Department of War wants to ban Anthropic's Claude from its supply chain because the AI models are too ethical. The approach echoes China's political control of AI.\nThe article US War Department CTO says Anthropic's AI models \"pollute\" the supply chain with built-in ethics appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/half-of-ai-written-code-that-passes-industry-test-would-get-rejected-by-real-developers-new-study-finds/",
+        "sourceUrl": "https://the-decoder.com/us-military-chief-says-anthropics-ai-models-pollute-the-supply-chain-with-built-in-ethics/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Wed, 11 Mar 2026 17:49:58 +0000",
+        "publishedAt": "Thu, 12 Mar 2026 18:52:10 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-12/2026-03-12-creative-AI-007.webp"
       },
       {
         "id": "AI-008",
-        "title": "Claude's Excel and PowerPoint add-ins now share context across apps",
-        "summary": "Anthropic is updating its Claude add-ins for Excel and PowerPoint with shared context, reusable workflows, and broader cloud support.\nThe article Claude's Excel and PowerPoint add-ins now share context across apps appeared first on The Decoder.",
-        "content": "Anthropic is updating its Claude add-ins for Excel and PowerPoint with shared context, reusable workflows, and broader cloud support.\nThe article Claude's Excel and PowerPoint add-ins now share context across apps appeared first on The Decoder.",
+        "title": "Copilot Health marks Microsoft's entry into the AI health race alongside OpenAI and Anthropic",
+        "summary": "Microsoft is launching Copilot Health, an AI health assistant that pulls data from wearables, medical records, and lab results to deliver personalized health advice. Long term, the company says it's working toward \"medical superintelligence.\"\nThe art",
+        "content": "Microsoft is launching Copilot Health, an AI health assistant that pulls data from wearables, medical records, and lab results to deliver personalized health advice. Long term, the company says it's working toward \"medical superintelligence.\"\nThe article Copilot Health marks Microsoft's entry into the AI health race alongside OpenAI and Anthropic appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/claudes-excel-and-powerpoint-add-ins-now-share-context-across-apps/",
+        "sourceUrl": "https://the-decoder.com/copilot-health-marks-microsofts-entry-into-the-ai-health-race-alongside-openai-and-anthropic/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Wed, 11 Mar 2026 17:00:59 +0000",
+        "publishedAt": "Thu, 12 Mar 2026 17:31:13 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-12/2026-03-12-creative-AI-008.webp"
       },
       {
         "id": "AI-009",
-        "title": "Grammarly's AI writing tips claim inspiration from experts who never agreed to participate",
-        "summary": "Grammarly is apparently using the names of journalists and authors without permission for an AI feature called \"Expert Review.\"\nThe article Grammarly's AI writing tips claim inspiration from experts who never agreed to participate appeared first on T",
-        "content": "Grammarly is apparently using the names of journalists and authors without permission for an AI feature called \"Expert Review.\"\nThe article Grammarly's AI writing tips claim inspiration from experts who never agreed to participate appeared first on The Decoder.",
+        "title": "Claude can now create interactive charts and visualizations directly in chat",
+        "summary": "Anthropic has launched a new beta feature for its AI chatbot Claude: the ability to generate interactive diagrams, charts, and visualizations directly within the conversation.\nThe article Claude can now create interactive charts and visualizations di",
+        "content": "Anthropic has launched a new beta feature for its AI chatbot Claude: the ability to generate interactive diagrams, charts, and visualizations directly within the conversation.\nThe article Claude can now create interactive charts and visualizations directly in chat appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/grammarlys-ai-writing-tips-claim-inspiration-from-experts-who-never-agreed-to-participate/",
+        "sourceUrl": "https://the-decoder.com/claude-can-now-create-interactive-charts-and-visualizations-directly-in-chat/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Wed, 11 Mar 2026 16:40:01 +0000",
+        "publishedAt": "Thu, 12 Mar 2026 17:12:09 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-12/2026-03-12-creative-AI-009.webp"
       },
       {
         "id": "AI-010",
-        "title": "OpenAI's new training dataset teaches AI models which instructions to trust",
-        "summary": "OpenAI has released IH-Challenge, a training dataset designed to teach AI models to reliably prioritize trusted instructions over untrusted ones. Early results show significant improvements in both security and prompt injection defense.\nThe article O",
-        "content": "OpenAI has released IH-Challenge, a training dataset designed to teach AI models to reliably prioritize trusted instructions over untrusted ones. Early results show significant improvements in both security and prompt injection defense.\nThe article OpenAI's new training dataset teaches AI models which instructions to trust appeared first on The Decoder.",
+        "title": "ChatGPT still leads the chatbot market but its dominance is slipping as Google's Gemini gains ground",
+        "summary": "ChatGPT continues to dominate the chatbot market, but its lead is shrinking. According to new Similarweb figures, OpenAI's chatbot has fallen from 75.7 to 61.7 percent market share in just twelve months. The big winner: Google Gemini, which has quadr",
+        "content": "ChatGPT continues to dominate the chatbot market, but its lead is shrinking. According to new Similarweb figures, OpenAI's chatbot has fallen from 75.7 to 61.7 percent market share in just twelve months. The big winner: Google Gemini, which has quadrupled its share from 5.7 to 24.4 percent.\nThe article ChatGPT still leads the chatbot market but its dominance is slipping as Google's Gemini gains ground appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/openais-new-training-dataset-teaches-ai-models-which-instructions-to-trust/",
+        "sourceUrl": "https://the-decoder.com/chatgpt-still-leads-the-chatbot-market-but-its-dominance-is-slipping-as-googles-gemini-gains-ground/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Wed, 11 Mar 2026 15:31:28 +0000",
+        "publishedAt": "Thu, 12 Mar 2026 16:30:47 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-12/2026-03-12-creative-AI-010.webp"
       }
     ],
     "research": [
       {
         "id": "AI-011",
+        "title": "Defense official reveals how AI chatbots could be used for targeting decisions",
+        "summary": "The US military might use generative AI systems to rank lists of targets and make recommendations about which to strike first, which would then be vetted by humans, according to a Defense official with knowledge of the matter. The disclosure about ho",
+        "content": "The US military might use generative AI systems to rank lists of targets and make recommendations about which to strike first, which would then be vetted by humans, according to a Defense official with knowledge of the matter. The disclosure about how the military may use AI chatbots comes as the Pentagon faces scrutiny over…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 12 Mar 2026 22:23:34 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ],
+        "imageUrl": "/images/2026-03-12/2026-03-12-research-AI-011.webp"
+      },
+      {
+        "id": "AI-012",
+        "title": "The Download: Early adopters cash in on China’s OpenClaw craze, and US batteries slump",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Hustlers are cashing in on China’s OpenClaw AI craze  In January, Beijing-based software engineer Feng Qingyang ",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Hustlers are cashing in on China’s OpenClaw AI craze  In January, Beijing-based software engineer Feng Qingyang started tinkering with OpenClaw, a new AI tool that can take over a device and autonomously complete tasks.…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/03/12/1134207/the-download-china-openclaw-ai-craze-us-battery-industry-downturn/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 12 Mar 2026 13:02:48 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ],
+        "imageUrl": "/images/2026-03-12/2026-03-12-research-AI-012.webp"
+      },
+      {
+        "id": "AI-013",
+        "title": "Pragmatic by design: Engineering AI for the real world",
+        "summary": "The impact of artificial intelligence extends far beyond the digital world and into our everyday lives, across the cars we drive, the appliances in our homes, and medical devices that keep people alive. More and more, product engineers are turning to",
+        "content": "The impact of artificial intelligence extends far beyond the digital world and into our everyday lives, across the cars we drive, the appliances in our homes, and medical devices that keep people alive. More and more, product engineers are turning to AI to enhance, validate, and streamline the design of the items that furnish our…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 12 Mar 2026 13:00:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ],
+        "imageUrl": "/images/2026-03-12/2026-03-12-research-AI-013.webp"
+      },
+      {
+        "id": "AI-014",
         "title": "Brutal times for the US battery industry",
         "summary": "Just a few years ago, the battery industry was hot, hot, hot. There was a seemingly infinite number of companies popping up, with shiny new chemistries and massive fundraising rounds. My biggest problem was sifting through the pile to pick the most e",
         "content": "Just a few years ago, the battery industry was hot, hot, hot. There was a seemingly infinite number of companies popping up, with shiny new chemistries and massive fundraising rounds. My biggest problem was sifting through the pile to pick the most exciting news to cover. That tide has turned, and in 2026, what seems…",
@@ -224,48 +295,11 @@
         "publishedAt": "Thu, 12 Mar 2026 10:00:00 +0000",
         "normalizedTags": [
           "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-012",
-        "title": "Hustlers are cashing in on China’s OpenClaw AI craze",
-        "summary": "Feng Qingyang had always hoped to launch his own company, but he never thought this would be how—or that the day would come this fast.  Feng, a 27-year-old software engineer based in Beijing, started tinkering with OpenClaw, a popular new open-source",
-        "content": "Feng Qingyang had always hoped to launch his own company, but he never thought this would be how—or that the day would come this fast.  Feng, a 27-year-old software engineer based in Beijing, started tinkering with OpenClaw, a popular new open-source AI tool that can take over a device and autonomously complete tasks for a…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
         ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Wed, 11 Mar 2026 12:46:21 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
+        "imageUrl": "/images/2026-03-12/2026-03-12-research-AI-014.webp"
       },
       {
-        "id": "AI-013",
-        "title": "The Download: Pokémon Go to train world models, and the US-China race to find aliens",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How Pokémon Go is giving delivery robots an inch-perfect view of the world  Pokémon Go was the world’s first aug",
-        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How Pokémon Go is giving delivery robots an inch-perfect view of the world  Pokémon Go was the world’s first augmented-reality megahit. Released in 2016 by Niantic, the AR twist on the…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/03/11/1134174/the-download-pokemon-go-train-world-models-us-china-race-find-aliens/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Wed, 11 Mar 2026 12:38:00 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-014",
+        "id": "AI-015",
         "title": "Agentic Control Center for Data Product Optimization",
         "summary": "arXiv:2603.10133v1 Announce Type: new \nAbstract: Data products enable end users to gain greater insights about their data by providing supporting assets, such as example question-SQL pairs which can be answered using the data or views over the databa",
         "content": "arXiv:2603.10133v1 Announce Type: new \nAbstract: Data products enable end users to gain greater insights about their data by providing supporting assets, such as example question-SQL pairs which can be answered using the data or views over the database tables. However, producing useful data products is challenging, and typically requires domain experts to hand-craft supporting assets. We propose a system that automates data product improvement through specialized AI agents operating in a continu",
@@ -281,164 +315,153 @@
         "publishedAt": "Thu, 12 Mar 2026 00:00:00 -0400",
         "normalizedTags": [
           "arxiv cs.ai"
-        ]
-      },
-      {
-        "id": "AI-015",
-        "title": "Hybrid Self-evolving Structured Memory for GUI Agents",
-        "summary": "arXiv:2603.10291v1 Announce Type: new \nAbstract: The remarkable progress of vision-language models (VLMs) has enabled GUI agents to interact with computers in a human-like manner. Yet real-world computer-use tasks remain difficult due to long-horizon",
-        "content": "arXiv:2603.10291v1 Announce Type: new \nAbstract: The remarkable progress of vision-language models (VLMs) has enabled GUI agents to interact with computers in a human-like manner. Yet real-world computer-use tasks remain difficult due to long-horizon workflows, diverse interfaces, and frequent intermediate errors. Prior work equips agents with external memory built from large collections of trajectories, but relies on flat retrieval over discrete summaries or continuous embeddings, falling short",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://arxiv.org/abs/2603.10291",
-        "sourceName": "ArXiv CS.AI",
-        "tags": [
-          "ArXiv CS.AI"
         ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 12 Mar 2026 00:00:00 -0400",
-        "normalizedTags": [
-          "arxiv cs.ai"
-        ]
+        "imageUrl": "/images/2026-03-12/2026-03-12-research-AI-015.webp"
       }
     ],
     "applications": [],
     "business": [
       {
         "id": "AI-016",
-        "title": "Lobster buffet: China’s tech firms feast on OpenClaw as companies race to deploy AI agents",
-        "summary": "China-based usage of OpenClaw has already topped that of the U.S., while driving demand for Chinese lower-cost AI models.",
-        "content": "China-based usage of OpenClaw has already topped that of the U.S., while driving demand for Chinese lower-cost AI models.",
+        "title": "Palantir's technology gives the West a critical edge in Middle East, CEO Alex Karp says",
+        "summary": "Palantir CEO Alex Karp sat down exclusively with CNBC to discuss the Iran war and how AI is being used in wartime.",
+        "content": "Palantir CEO Alex Karp sat down exclusively with CNBC to discuss the Iran war and how AI is being used in wartime.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/12/china-openclaw-ai-agent-adoption-tech-companies-government-support-lobster-shrimp.html",
+        "sourceUrl": "https://www.cnbc.com/2026/03/12/palantir-tech-gives-west-critical-edge-in-middle-east-ceo-alex-karp.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Thu, 12 Mar 2026 10:08:45 GMT",
+        "publishedAt": "Thu, 12 Mar 2026 21:59:48 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-12/2026-03-12-business-AI-016.webp"
       },
       {
         "id": "AI-017",
-        "title": "Google sells partial stake in fiber business, becomes minority owner of new venture ",
-        "summary": "Google said its GFiber unit is combing with Astound Broadband and forming a independent fiber provider.",
-        "content": "Google said its GFiber unit is combing with Astound Broadband and forming a independent fiber provider.",
+        "title": "Bosa/Wu: Private equity is about to eat its own software portfolio",
+        "summary": "Private equity built the SaaS installed base. It may also be the one that rips it out.",
+        "content": "Private equity built the SaaS installed base. It may also be the one that rips it out.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/11/google-sells-partial-stake-in-fiber-becomes-minority-owner-in-venture-.html",
+        "sourceUrl": "https://www.cnbc.com/2026/03/12/private-equity-ai-software-saas.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Thu, 12 Mar 2026 03:19:27 GMT",
+        "publishedAt": "Thu, 12 Mar 2026 20:44:05 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-12/2026-03-12-business-AI-017.webp"
       },
       {
         "id": "AI-018",
-        "title": "FCC chair slams Amazon for slow satellite launches after it opposed SpaceX data center plan",
-        "summary": "Amazon asked the FCC for a waiver or 24-month extension to meet a July 2026 deadline to deploy 1,600 internet satellites.",
-        "content": "Amazon asked the FCC for a waiver or 24-month extension to meet a July 2026 deadline to deploy 1,600 internet satellites.",
+        "title": "Sam Altman faced 'serious questions' in meeting with lawmakers about OpenAI's defense work",
+        "summary": "OpenAI CEO Sam Altman met with a handful of lawmakers in Washington, D.C., to discuss the company's work with the Defense Department.",
+        "content": "OpenAI CEO Sam Altman met with a handful of lawmakers in Washington, D.C., to discuss the company's work with the Defense Department.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/11/fcc-chair-amazon-spacex-data-center-space.html",
+        "sourceUrl": "https://www.cnbc.com/2026/03/12/sam-altman-faced-serious-questions-in-dc-meeting-openai-defense-work.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Wed, 11 Mar 2026 22:28:13 GMT",
+        "publishedAt": "Thu, 12 Mar 2026 21:31:17 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-12/2026-03-12-business-AI-018.webp"
       },
       {
         "id": "AI-019",
-        "title": "Atlassian slashes 10% of workforce to 'self-fund' investments in AI and enterprise sales",
-        "summary": "Atlassian said it's cutting 10% of its workforce, or about 1,600 jobs, as it restructures to fund investments in artificial intelligence and enterprise sales.",
-        "content": "Atlassian said it's cutting 10% of its workforce, or about 1,600 jobs, as it restructures to fund investments in artificial intelligence and enterprise sales.",
+        "title": "Adobe CEO Shantanu Narayen says he will step down after company installs successor",
+        "summary": "Shantanu Narayen led Adobe through a transition to subscription software, and he's been positioning the company to grow in the artificial intelligence age.",
+        "content": "Shantanu Narayen led Adobe through a transition to subscription software, and he's been positioning the company to grow in the artificial intelligence age.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/11/atlassian-slashes-10percent-of-workforce-to-self-fund-investments-in-ai.html",
+        "sourceUrl": "https://www.cnbc.com/2026/03/12/adobe-ceo-shantanu-narayen-step-down.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Wed, 11 Mar 2026 22:30:50 GMT",
+        "publishedAt": "Thu, 12 Mar 2026 22:22:21 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-12/2026-03-12-business-AI-019.webp"
       },
       {
         "id": "AI-020",
-        "title": "The memory stock cycle of boom-bust-repeat is over, executives say",
-        "summary": "Shares of Micron have skyrocketed 370% over the past year, while Sandisk is up more than 1100%.",
-        "content": "Shares of Micron have skyrocketed 370% over the past year, while Sandisk is up more than 1100%.",
+        "title": "Microsoft top Office executive Rajesh Jha retiring after more than 35 years",
+        "summary": "Rajesh Jha helped Microsoft bring to market an artificial intelligence assistant containing OpenAI models for its Office productivity customers.",
+        "content": "Rajesh Jha helped Microsoft bring to market an artificial intelligence assistant containing OpenAI models for its Office productivity customers.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/11/memory-stocks-ai-chips-demand.html",
+        "sourceUrl": "https://www.cnbc.com/2026/03/12/microsofts-top-office-executive-rajesh-jha-retiring-after-35-years.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Wed, 11 Mar 2026 20:56:55 GMT",
+        "publishedAt": "Thu, 12 Mar 2026 17:00:35 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-12/2026-03-12-business-AI-020.webp"
       }
     ],
     "policy": [
       {
         "id": "AI-021",
-        "title": "A.I. Incites a New Wave of Grieving Parents Fighting for Online Safety",
-        "summary": "Blaming chatbots, they are joining an earlier push for better protections by parents who say social media contributed to their children’s deaths.",
-        "content": "Blaming chatbots, they are joining an earlier push for better protections by parents who say social media contributed to their children’s deaths.",
+        "title": "Social Media Addiction Trial Nears End. Society Long Ago Rendered Its Verdict.",
+        "summary": "Closing arguments began Thursday in a landmark trial that put online behavior under a microscope. In many ways, it has already been decided.",
+        "content": "Closing arguments began Thursday in a landmark trial that put online behavior under a microscope. In many ways, it has already been decided.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/03/10/technology/ai-social-media-child-safety-parents.html",
+        "sourceUrl": "https://www.nytimes.com/2026/03/12/technology/social-media-addiction-society-verdict.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Wed, 11 Mar 2026 15:31:30 +0000",
+        "publishedAt": "Thu, 12 Mar 2026 18:32:47 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-12/2026-03-12-policy-AI-021.webp"
       },
       {
         "id": "AI-022",
-        "title": "A.I. Writes Buggy Code. A Silicon Valley Start-Up Wants to Fix It.",
-        "summary": "Valued at $1.6 billion, a tiny start-up called Axiom is building A.I. systems that can check for mistakes.",
-        "content": "Valued at $1.6 billion, a tiny start-up called Axiom is building A.I. systems that can check for mistakes.",
+        "title": "A.I. Chatbots Want Your Health Records. Tread Carefully.",
+        "summary": "Following rivals like Amazon and OpenAI, Microsoft is upgrading its artificially intelligent assistant to track your health. There are benefits and risks to consider.",
+        "content": "Following rivals like Amazon and OpenAI, Microsoft is upgrading its artificially intelligent assistant to track your health. There are benefits and risks to consider.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/03/12/technology/axiom-ai-code-funding.html",
+        "sourceUrl": "https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Thu, 12 Mar 2026 09:03:58 +0000",
+        "publishedAt": "Thu, 12 Mar 2026 14:21:20 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-12/2026-03-12-policy-AI-022.webp"
       },
       {
         "id": "AI-023",
@@ -457,11 +480,32 @@
         "publishedAt": "Thu, 12 Mar 2026 09:02:48 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-12/2026-03-12-policy-AI-023.webp"
       },
       {
         "id": "AI-024",
-        "title": "Coders Coded Their Job Away. Why Are So Many of Them Happy About It?",
+        "title": "A.I. Writes Buggy Code. A Silicon Valley Start-Up Wants to Fix It.",
+        "summary": "Valued at $1.6 billion, a tiny start-up called Axiom is building A.I. systems that can check for mistakes.",
+        "content": "Valued at $1.6 billion, a tiny start-up called Axiom is building A.I. systems that can check for mistakes.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/03/12/technology/axiom-ai-code-funding.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 12 Mar 2026 09:03:58 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-03-12/2026-03-12-policy-AI-024.webp"
+      },
+      {
+        "id": "AI-025",
+        "title": "Coding After Coders: The End of Computer Programming as We Know It",
         "summary": "In the era of A.I. agents, many Silicon Valley programmers are now barely programming. Instead, what they’re doing is deeply, deeply weird.",
         "content": "In the era of A.I. agents, many Silicon Valley programmers are now barely programming. Instead, what they’re doing is deeply, deeply weird.",
         "keyTakeaways": [],
@@ -473,112 +517,98 @@
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Thu, 12 Mar 2026 09:01:29 +0000",
+        "publishedAt": "Thu, 12 Mar 2026 12:53:35 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-025",
-        "title": "Are A.I.-Generated Videos Changing How We See Animals?",
-        "summary": "By manipulating animals to do wonderful things, we may become numb to their real wonder.",
-        "content": "By manipulating animals to do wonderful things, we may become numb to their real wonder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/03/07/magazine/ai-generated-videos-animals.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
         ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Wed, 11 Mar 2026 17:17:32 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
+        "imageUrl": "/images/2026-03-12/2026-03-12-policy-AI-025.webp"
       }
     ],
     "concerns": [],
     "culture": [
       {
         "id": "AI-026",
-        "title": "‘Invasive’ AI-led mass surveillance in Africa violating freedoms, warn experts",
-        "summary": "Countries across the continent have spent more than $2bn on Chinese tracking technology that is not ‘necessary or proportionate’, new report finds\nThe rapid expansion of AI-powered mass-surveillance systems across Africa is violating citizens’ right ",
-        "content": "Countries across the continent have spent more than $2bn on Chinese tracking technology that is not ‘necessary or proportionate’, new report finds\nThe rapid expansion of AI-powered mass-surveillance systems across Africa is violating citizens’ right to privacy and having a chilling effect on society, according to experts on human rights and emerging technologies.\nAt least $2bn (£1.5bn) has been spent by 11 African governments on Chinese-built surveillance technology that recognises faces and mon",
+        "title": "Lincolnshire council approves AI datacentre despite emissions warnings",
+        "summary": "Campaigners say campus near Scunthorpe could generate emissions close to those from all UK domestic flights\nPlans for a new datacentre in Lincolnshire have been approved, despite warnings it could be a major new source of emissions.\nOn Wednesday, Nor",
+        "content": "Campaigners say campus near Scunthorpe could generate emissions close to those from all UK domestic flights\nPlans for a new datacentre in Lincolnshire have been approved, despite warnings it could be a major new source of emissions.\nOn Wednesday, North Lincolnshire council voted unanimously to approve planning permission for the Elsham Tech Park, a proposed AI datacentre campus near Scunthorpe, next to the Elsham Wolds industrial estate.\n Continue reading...",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/global-development/2026/mar/12/invasive-ai-led-mass-surveillance-in-africa-violating-freedoms-warn-experts",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/mar/12/council-approves-lincolnshire-datacentre-despite-emissions-warnings",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Thu, 12 Mar 2026 06:00:11 GMT",
+        "publishedAt": "Thu, 12 Mar 2026 16:47:58 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-12/2026-03-12-culture-AI-026.webp"
       },
       {
         "id": "AI-027",
-        "title": "Exercise and brain function, hedgehog hearing, and can AI change our minds? – podcast",
-        "summary": "The Guardian’s science editor, Ian Sample, talks to Madeleine Finlay about three eye-catching science stories from the week, including a study that explores the link between exercise and brain health. Also on the agenda: the discovery that hedgehogs ",
-        "content": "The Guardian’s science editor, Ian Sample, talks to Madeleine Finlay about three eye-catching science stories from the week, including a study that explores the link between exercise and brain health. Also on the agenda: the discovery that hedgehogs can hear high-frequency ultrasound and what this could mean for their conservation, and new research examining how biased AI autocomplete tools can influence the beliefs of users.\nUltrasound repellers could keep hedgehogs off roads, scientists hope\nS",
+        "title": "Tennessee grandmother jailed after AI facial recognition error links her to fraud",
+        "summary": "Angela Lipps spent nearly six months in jail after AI software linked her to a North Dakota bank fraud case\n\nA Tennessee grandmother says she is trying to rebuild her life after an incident of mistaken identity by an artificial intelligence (AI) faci",
+        "content": "Angela Lipps spent nearly six months in jail after AI software linked her to a North Dakota bank fraud case\n\nA Tennessee grandmother says she is trying to rebuild her life after an incident of mistaken identity by an artificial intelligence (AI) facial recognition system tied her to a North Dakota bank fraud investigation.\nAngela Lipps, 50, spent nearly six months in jail after Fargo police identified her as a suspect in an organized bank fraud case using facial recognition software, according t",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/science/audio/2026/mar/12/exercise-and-brain-function-hedgehog-hearing-and-can-ai-change-our-minds-podcast",
+        "sourceUrl": "https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Thu, 12 Mar 2026 05:00:09 GMT",
+        "publishedAt": "Thu, 12 Mar 2026 20:29:55 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-12/2026-03-12-culture-AI-027.webp"
       },
       {
         "id": "AI-028",
-        "title": "MPs launch student loans inquiry amid ‘perfect storm’ for young people in UK",
-        "summary": "Influential Treasury committee chair Meg Hillier says review follows growing concern over graduate debt\n\nUK firms struggling to hire young people amid cost pressures, MPs told\n\nYoung adults in the UK face a “perfect storm” of economic challenges, the",
-        "content": "Influential Treasury committee chair Meg Hillier says review follows growing concern over graduate debt\n\nUK firms struggling to hire young people amid cost pressures, MPs told\n\nYoung adults in the UK face a “perfect storm” of economic challenges, the head of the influential Treasury select committee has warned as it launches an inquiry into student loans.\nThe cross-party committee’s investigation comes as the government considers ways to ease the burden on graduates, amid a growing backlash abou",
+        "title": "They were dating AI partners when they found real love – with each other",
+        "summary": "Ayrin and SJ met on a subreddit Ayrin created for people ‘dating’ AI companions. Over time, they started talking to AI less … and falling for each other\n\nSign up for AI for the people, a six-week newsletter course, here\n\nPeople are reporting “dating”",
+        "content": "Ayrin and SJ met on a subreddit Ayrin created for people ‘dating’ AI companions. Over time, they started talking to AI less … and falling for each other\n\nSign up for AI for the people, a six-week newsletter course, here\n\nPeople are reporting “dating” artificially intelligent companions – but not every relationship lasts. What’s it like to fall in – and then out – of love with AI?\nAs part of our newsletter AI for the people, we spoke to Ayrin and SJ, who live thousands of miles apart and made the",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/money/2026/mar/12/mps-launch-student-loans-inquiry-amid-perfect-storm-for-young-people-in-uk",
+        "sourceUrl": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/12/ai-partners-dumped",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Thu, 12 Mar 2026 05:00:09 GMT",
+        "publishedAt": "Thu, 12 Mar 2026 15:00:33 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-12/2026-03-12-culture-AI-028.webp"
       },
       {
         "id": "AI-029",
-        "title": "‘Devastating blow’: Atlassian lays off 1,600 workers ahead of AI push",
-        "summary": "Layoffs to affect 10% of workforce amid Australian company’s restructuring plan to push into artificial intelligence and enterprise sales\nSoftware giant Atlassian has announced it is laying off about 10% of its workforce, or roughly 1,600 positions, ",
-        "content": "Layoffs to affect 10% of workforce amid Australian company’s restructuring plan to push into artificial intelligence and enterprise sales\nSoftware giant Atlassian has announced it is laying off about 10% of its workforce, or roughly 1,600 positions, and replacing its chief technology officer as it restructures to invest further in artificial intelligence.\nMore than 900 affected positions were involved in software research and development, a spokesperson said. Most of Atlassian’s employees work i",
+        "title": "Microsoft backs AI firm Anthropic in legal battle against Pentagon",
+        "summary": "Tech company files amicus brief in support of Anthropic’s effort to overturn an aggressive Pentagon designation\nMicrosoft has thrown its weight behind Anthropic’s legal challenge against the Pentagon, filing a court brief in support of the AI company",
+        "content": "Tech company files amicus brief in support of Anthropic’s effort to overturn an aggressive Pentagon designation\nMicrosoft has thrown its weight behind Anthropic’s legal challenge against the Pentagon, filing a court brief in support of the AI company’s effort to overturn an aggressive designation that effectively bars it from government work.\nIn an amicus brief submitted to a federal court in San Francisco this week, Microsoft, which integrates Anthropic’s AI tools into systems it provides to th",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/mar/12/atlassian-layoffs-software-technology-ai-push-mike-cannon-brookes-asx",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/mar/12/microsoft-amicus-brief-anthropic-pentagon",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Thu, 12 Mar 2026 02:22:38 GMT",
+        "publishedAt": "Thu, 12 Mar 2026 14:56:13 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-12/2026-03-12-culture-AI-029.webp"
       },
       {
         "id": "AI-030",
-        "title": "‘Convincing’ AI scams drove UK fraud cases to record 444,000 last year",
+        "title": "AI scams drove UK reports of fraud to record 444,000 last year",
         "summary": "Criminals using artificial intelligence tools to take over mobile, bank and online shopping accounts, says Cifas\nCriminals are increasingly exploiting AI technology to take over people’s mobile, banking and online shopping accounts, the UK’s leading ",
         "content": "Criminals using artificial intelligence tools to take over mobile, bank and online shopping accounts, says Cifas\nCriminals are increasingly exploiting AI technology to take over people’s mobile, banking and online shopping accounts, the UK’s leading anti-fraud body has warned.\nLast year, a record number of scams were reported to the national fraud database, fuelled by AI, which allows for large-scale deception on “industrialised” levels, according to Cifas, the fraud prevention organisation.\n Co",
         "keyTakeaways": [],
@@ -590,10 +620,11 @@
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Thu, 12 Mar 2026 00:01:03 GMT",
+        "publishedAt": "Thu, 12 Mar 2026 12:18:59 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-12/2026-03-12-culture-AI-030.webp"
       }
     ]
   },
@@ -603,36 +634,37 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/",
-    "https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/",
-    "https://techcrunch.com/2026/03/11/fords-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used/",
-    "https://techcrunch.com/2026/03/11/zendesk-acquires-agentic-customer-service-startup-forethought/",
-    "https://techcrunch.com/2026/03/11/netflix-may-have-paid-600-million-for-ben-afflecks-ai-startup/",
-    "https://the-decoder.com/google-unifies-text-image-video-and-audio-in-a-single-vector-space-with-gemini-embedding-2/",
-    "https://the-decoder.com/half-of-ai-written-code-that-passes-industry-test-would-get-rejected-by-real-developers-new-study-finds/",
-    "https://the-decoder.com/claudes-excel-and-powerpoint-add-ins-now-share-context-across-apps/",
-    "https://the-decoder.com/grammarlys-ai-writing-tips-claim-inspiration-from-experts-who-never-agreed-to-participate/",
-    "https://the-decoder.com/openais-new-training-dataset-teaches-ai-models-which-instructions-to-trust/",
+    "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/",
+    "https://techcrunch.com/2026/03/12/facebook-marketplace-now-lets-meta-ai-respond-to-buyers-messages/",
+    "https://techcrunch.com/2026/03/12/tinder-tries-to-lure-people-back-to-online-dating-with-irl-events-virtual-speed-dating/",
+    "https://techcrunch.com/2026/03/12/atlassian-follows-blocks-footsteps-and-cuts-staff-in-the-name-of-ai/",
+    "https://techcrunch.com/2026/03/12/bumble-to-launch-an-ai-dating-assistant-bee/",
+    "https://the-decoder.com/grok-4-20-trails-gemini-and-gpt-5-4-by-a-wide-margin-but-sets-a-new-record-for-not-hallucinating/",
+    "https://the-decoder.com/us-military-chief-says-anthropics-ai-models-pollute-the-supply-chain-with-built-in-ethics/",
+    "https://the-decoder.com/copilot-health-marks-microsofts-entry-into-the-ai-health-race-alongside-openai-and-anthropic/",
+    "https://the-decoder.com/claude-can-now-create-interactive-charts-and-visualizations-directly-in-chat/",
+    "https://the-decoder.com/chatgpt-still-leads-the-chatbot-market-but-its-dominance-is-slipping-as-googles-gemini-gains-ground/",
+    "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
+    "https://www.technologyreview.com/2026/03/12/1134207/the-download-china-openclaw-ai-craze-us-battery-industry-downturn/",
+    "https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/",
     "https://www.technologyreview.com/2026/03/12/1134197/us-battery-industry/",
-    "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/",
-    "https://www.technologyreview.com/2026/03/11/1134174/the-download-pokemon-go-train-world-models-us-china-race-find-aliens/",
     "https://arxiv.org/abs/2603.10133",
-    "https://arxiv.org/abs/2603.10291",
-    "https://www.cnbc.com/2026/03/12/china-openclaw-ai-agent-adoption-tech-companies-government-support-lobster-shrimp.html",
-    "https://www.cnbc.com/2026/03/11/google-sells-partial-stake-in-fiber-becomes-minority-owner-in-venture-.html",
-    "https://www.cnbc.com/2026/03/11/fcc-chair-amazon-spacex-data-center-space.html",
-    "https://www.cnbc.com/2026/03/11/atlassian-slashes-10percent-of-workforce-to-self-fund-investments-in-ai.html",
-    "https://www.cnbc.com/2026/03/11/memory-stocks-ai-chips-demand.html",
-    "https://www.nytimes.com/2026/03/10/technology/ai-social-media-child-safety-parents.html",
-    "https://www.nytimes.com/2026/03/12/technology/axiom-ai-code-funding.html",
+    "https://www.cnbc.com/2026/03/12/palantir-tech-gives-west-critical-edge-in-middle-east-ceo-alex-karp.html",
+    "https://www.cnbc.com/2026/03/12/private-equity-ai-software-saas.html",
+    "https://www.cnbc.com/2026/03/12/sam-altman-faced-serious-questions-in-dc-meeting-openai-defense-work.html",
+    "https://www.cnbc.com/2026/03/12/adobe-ceo-shantanu-narayen-step-down.html",
+    "https://www.cnbc.com/2026/03/12/microsofts-top-office-executive-rajesh-jha-retiring-after-35-years.html",
+    "https://www.nytimes.com/2026/03/12/technology/social-media-addiction-society-verdict.html",
+    "https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html",
     "https://www.nytimes.com/2026/03/12/technology/silicon-valley-pop-culture.html",
+    "https://www.nytimes.com/2026/03/12/technology/axiom-ai-code-funding.html",
     "https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html",
-    "https://www.nytimes.com/2026/03/07/magazine/ai-generated-videos-animals.html",
-    "https://www.theguardian.com/global-development/2026/mar/12/invasive-ai-led-mass-surveillance-in-africa-violating-freedoms-warn-experts",
-    "https://www.theguardian.com/science/audio/2026/mar/12/exercise-and-brain-function-hedgehog-hearing-and-can-ai-change-our-minds-podcast",
-    "https://www.theguardian.com/money/2026/mar/12/mps-launch-student-loans-inquiry-amid-perfect-storm-for-young-people-in-uk",
-    "https://www.theguardian.com/technology/2026/mar/12/atlassian-layoffs-software-technology-ai-push-mike-cannon-brookes-asx",
+    "https://www.theguardian.com/technology/2026/mar/12/council-approves-lincolnshire-datacentre-despite-emissions-warnings",
+    "https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud",
+    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/12/ai-partners-dumped",
+    "https://www.theguardian.com/technology/2026/mar/12/microsoft-amicus-brief-anthropic-pentagon",
     "https://www.theguardian.com/money/2026/mar/12/ai-scams-uk-fraud-artificial-intelligence-mobile-bank-online-shopping-cifas"
   ],
-  "generatedAt": "2026-03-12T11:31:39.993Z"
+  "generatedAt": "2026-03-12T23:21:25.323Z",
+  "simpleSummaryImageUrl": "/images/2026-03-12/2026-03-12-summary.webp"
 }
