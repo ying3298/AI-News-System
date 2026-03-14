@@ -1,0 +1,586 @@
+{
+  "date": "2026-03-14",
+  "dateFormatted": "March 14, 2026",
+  "headline": {
+    "title": "‘Not built right the first time’ — Musk’s xAI is starting over again, again",
+    "summary": "The AI lab is revamping its effort to build an AI coding tool, with two new executives joining from Cursor.",
+    "sourceUrl": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
+    "sourceName": "TechCrunch AI",
+    "imageUrl": "/images/2026-03-14/2026-03-14-hero.webp"
+  },
+  "simpleSummary": [
+    "Today's edition was assembled directly from RSS feeds without AI curation.",
+    "Browse the stories below for the latest AI news."
+  ],
+  "sections": {
+    "tools": [
+      {
+        "id": "AI-001",
+        "title": "‘Not built right the first time’ — Musk’s xAI is starting over again, again",
+        "summary": "The AI lab is revamping its effort to build an AI coding tool, with two new executives joining from Cursor.",
+        "content": "The AI lab is revamping its effort to build an AI coding tool, with two new executives joining from Cursor.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 14 Mar 2026 00:12:22 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ],
+        "imageUrl": "/images/2026-03-14/2026-03-14-tools-AI-001.webp"
+      },
+      {
+        "id": "AI-002",
+        "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+        "summary": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
+        "content": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 14 Mar 2026 00:01:02 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ],
+        "imageUrl": "/images/2026-03-14/2026-03-14-tools-AI-002.webp"
+      },
+      {
+        "id": "AI-003",
+        "title": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
+        "summary": "The data infrastructure startup raised $5.3 million in seed funding led by Wischoff Ventures and South Park Commons.",
+        "content": "The data infrastructure startup raised $5.3 million in seed funding led by Wischoff Ventures and South Park Commons.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 13 Mar 2026 21:37:01 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ],
+        "imageUrl": "/images/2026-03-14/2026-03-14-tools-AI-003.webp"
+      },
+      {
+        "id": "AI-004",
+        "title": "Steven Spielberg says he’s ‘never used AI’ in any of his films",
+        "summary": "At SXSW, Steven Spielberg said AI has uses in many fields, but not when it comes to replacing creative people in film and TV writing.",
+        "content": "At SXSW, Steven Spielberg said AI has uses in many fields, but not when it comes to replacing creative people in film and TV writing.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 13 Mar 2026 19:47:58 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ],
+        "imageUrl": "/images/2026-03-14/2026-03-14-tools-AI-004.webp"
+      },
+      {
+        "id": "AI-005",
+        "title": "The biggest AI stories of the year (so far)",
+        "summary": "The AI industry is constantly churning out news, like major acquisitions, indie developer successes, public outcry, and existentially dangerous contract negotiations.",
+        "content": "The AI industry is constantly churning out news, like major acquisitions, indie developer successes, public outcry, and existentially dangerous contract negotiations.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 13 Mar 2026 19:38:11 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ],
+        "imageUrl": "/images/2026-03-14/2026-03-14-tools-AI-005.webp"
+      }
+    ],
+    "creative": [
+      {
+        "id": "AI-006",
+        "title": "Hume AI open-sources TADA, a speech model five times faster than rivals with zero hallucinated words",
+        "summary": "Hume AI has open-sourced TADA under the MIT license, a fast speech generation model that processes text and audio in sync and produced zero hallucinations in testing.\nThe article Hume AI open-sources TADA, a speech model five times faster than rivals",
+        "content": "Hume AI has open-sourced TADA under the MIT license, a fast speech generation model that processes text and audio in sync and produced zero hallucinations in testing.\nThe article Hume AI open-sources TADA, a speech model five times faster than rivals with zero hallucinated words appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/hume-ai-open-sources-tada-a-speech-model-five-times-faster-than-rivals-with-zero-hallucinated-words/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 14 Mar 2026 11:12:35 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ],
+        "imageUrl": "/images/2026-03-14/2026-03-14-creative-AI-006.webp"
+      },
+      {
+        "id": "AI-007",
+        "title": "Ai2 releases new robotics models trained entirely in simulation to skip real-world data collection",
+        "summary": "Robots trained entirely in virtual worlds working in the real world without any real training data. Ai2 says it can be done.\nThe article Ai2 releases new robotics models trained entirely in simulation to skip real-world data collection appeared first",
+        "content": "Robots trained entirely in virtual worlds working in the real world without any real training data. Ai2 says it can be done.\nThe article Ai2 releases new robotics models trained entirely in simulation to skip real-world data collection appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/ai2-releases-new-robotics-models-trained-entirely-in-simulation-to-skip-real-world-data-collection/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 14 Mar 2026 10:25:09 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ],
+        "imageUrl": "/images/2026-03-14/2026-03-14-creative-AI-007.webp"
+      },
+      {
+        "id": "AI-008",
+        "title": "Meta reportedly plans to cut up to 20 percent of its workforce as $600 billion AI bet drives need to offset costs",
+        "summary": "Meta is reportedly planning massive layoffs to finance its expensive AI investments.\nThe article Meta reportedly plans to cut up to 20 percent of its workforce as $600 billion AI bet drives need to offset costs appeared first on The Decoder.",
+        "content": "Meta is reportedly planning massive layoffs to finance its expensive AI investments.\nThe article Meta reportedly plans to cut up to 20 percent of its workforce as $600 billion AI bet drives need to offset costs appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/meta-reportedly-plans-to-cut-up-to-20-percent-of-its-workforce-as-600-billion-ai-bet-drives-need-to-offset-costs/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 14 Mar 2026 09:55:59 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ],
+        "imageUrl": "/images/2026-03-14/2026-03-14-creative-AI-008.webp"
+      },
+      {
+        "id": "AI-009",
+        "title": "New Top 100 AI list shows a maturing market where ChatGPT leads but users are shopping around",
+        "summary": "Andreessen Horowitz's latest Top 100 ranking of AI consumer products shows a market in flux: ChatGPT still dominates, competitors are growing fast, and global usage is fracturing along geopolitical lines.\nThe article New Top 100 AI list shows a matur",
+        "content": "Andreessen Horowitz's latest Top 100 ranking of AI consumer products shows a market in flux: ChatGPT still dominates, competitors are growing fast, and global usage is fracturing along geopolitical lines.\nThe article New Top 100 AI list shows a maturing market where ChatGPT leads but users are shopping around appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/new-top-100-ai-list-shows-a-market-where-chatgpt-leads-but-no-one-is-loyal/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 14 Mar 2026 09:22:40 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ],
+        "imageUrl": "/images/2026-03-14/2026-03-14-creative-AI-009.webp"
+      },
+      {
+        "id": "AI-010",
+        "title": "Ex-Anthropic researchers launch AI startup Mirendil to tackle scientific research",
+        "summary": "Former Anthropic researchers launched Mirendil, an AI startup focused on scientific research in biology and materials science. The company is reportedly seeking a $1 billion valuation.\nThe article Ex-Anthropic researchers launch AI startup Mirendil t",
+        "content": "Former Anthropic researchers launched Mirendil, an AI startup focused on scientific research in biology and materials science. The company is reportedly seeking a $1 billion valuation.\nThe article Ex-Anthropic researchers launch AI startup Mirendil to tackle scientific research appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/ex-anthropic-researchers-launch-ai-startup-mirendil-to-tackle-scientific-research/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 14 Mar 2026 08:47:45 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ],
+        "imageUrl": "/images/2026-03-14/2026-03-14-creative-AI-010.webp"
+      }
+    ],
+    "research": [
+      {
+        "id": "AI-011",
+        "title": "Why physical AI is becoming manufacturing’s next advantage",
+        "summary": "For decades, manufacturers have pursued automation to drive efficiency, reduce costs, and stabilize operations. That approach delivered meaningful gains, but it is no longer enough. Today’s manufacturing leaders face a different challenge: how to gro",
+        "content": "For decades, manufacturers have pursued automation to drive efficiency, reduce costs, and stabilize operations. That approach delivered meaningful gains, but it is no longer enough. Today’s manufacturing leaders face a different challenge: how to grow amid labor constraints, rising complexity, and increasing pressure to innovate faster without sacrificing safety, quality, or trust. The next phase…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 13 Mar 2026 15:16:55 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ],
+        "imageUrl": "/images/2026-03-14/2026-03-14-research-AI-011.webp"
+      },
+      {
+        "id": "AI-012",
+        "title": "The Download: how AI is used for military targeting, and the Pentagon’s war on Claude",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Defense official reveals how AI chatbots could be used for targeting decisions  The US military might use genera",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Defense official reveals how AI chatbots could be used for targeting decisions  The US military might use generative AI systems to rank targets and recommend which to strike first, according to a Defense Department…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 13 Mar 2026 12:16:56 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ],
+        "imageUrl": "/images/2026-03-14/2026-03-14-research-AI-012.webp"
+      }
+    ],
+    "applications": [],
+    "business": [
+      {
+        "id": "AI-013",
+        "title": "Uber ex-CEO Kalanick rebrands latest venture Atoms, expands into mining and transport",
+        "summary": "Travis Kalanick is renaming City Storage Systems to Atoms, while focusing on robotics for mining and transportation.",
+        "content": "Travis Kalanick is renaming City Storage Systems to Atoms, while focusing on robotics for mining and transportation.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/03/13/uber-ex-ceo-kalanick-rebrands-latest-venture-atoms-move-into-robotics.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 13 Mar 2026 22:58:40 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ],
+        "imageUrl": "/images/2026-03-14/2026-03-14-business-AI-013.webp"
+      },
+      {
+        "id": "AI-014",
+        "title": "Nvidia's GTC will mark an AI chip pivot. Here's why the CPU is taking center stage",
+        "summary": "Nvidia and AMD are seeing huge demand for CPUs and Jensen Huang is poised to unveil details for processors specialized for agentic AI at the GTC conference.",
+        "content": "Nvidia and AMD are seeing huge demand for CPUs and Jensen Huang is poised to unveil details for processors specialized for agentic AI at the GTC conference.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/03/13/nvidia-gtc-ai-jensen-huang-cpu-gpu.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 13 Mar 2026 19:00:52 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ],
+        "imageUrl": "/images/2026-03-14/2026-03-14-business-AI-014.webp"
+      },
+      {
+        "id": "AI-015",
+        "title": "Elon Musk says xAI must be 'rebuilt' as co-founder exodus continues, SpaceX IPO awaits",
+        "summary": "With xAI now in the hands of SpaceX, Elon Musk says he's rebuilding the artificial intelligence company following high-level departures.",
+        "content": "With xAI now in the hands of SpaceX, Elon Musk says he's rebuilding the artificial intelligence company following high-level departures.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/03/13/elon-musk-xai-co-founders-spacex-ipo.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 13 Mar 2026 20:48:18 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ],
+        "imageUrl": "/images/2026-03-14/2026-03-14-business-AI-015.webp"
+      },
+      {
+        "id": "AI-016",
+        "title": "Nvidia may soon unveil a brand-new AI chip. A closer look at the $20 billion bet to make it happen",
+        "summary": "At its GTC conference, Nvidia is expected to share some of its vision for incorporating technology from AI chip startup Groq.",
+        "content": "At its GTC conference, Nvidia is expected to share some of its vision for incorporating technology from AI chip startup Groq.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/03/13/a-closer-look-at-nvidias-20-billion-bet-on-tech-for-a-new-ai-chip.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 13 Mar 2026 22:00:20 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ],
+        "imageUrl": "/images/2026-03-14/2026-03-14-business-AI-016.webp"
+      },
+      {
+        "id": "AI-017",
+        "title": "Amazon to hike price of ad-free Prime Video tier by $2 a month",
+        "summary": "Amazon is boosting the price of Prime Video to $4.99 a month in the U.S., from $2.99 per month for users who want to avoid ads.",
+        "content": "Amazon is boosting the price of Prime Video to $4.99 a month in the U.S., from $2.99 per month for users who want to avoid ads.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/03/13/amazon-to-hike-price-of-ad-free-prime-video-tier-by-2-a-month.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 13 Mar 2026 16:23:23 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ],
+        "imageUrl": "/images/2026-03-14/2026-03-14-business-AI-017.webp"
+      }
+    ],
+    "policy": [
+      {
+        "id": "AI-018",
+        "title": "U.S. Tech Giants Flocked to the Persian Gulf. Now They Are Targets.",
+        "summary": "Amazon, Google and others struck deals in the Persian Gulf to foot the bill for A.I. development. Iran has now threatened attacks against the companies’ infrastructure in the region.",
+        "content": "Amazon, Google and others struck deals in the Persian Gulf to foot the bill for A.I. development. Iran has now threatened attacks against the companies’ infrastructure in the region.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/03/13/technology/amazon-google-persian-gulf-war.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 13 Mar 2026 17:24:28 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-03-14/2026-03-14-policy-AI-018.webp"
+      },
+      {
+        "id": "AI-019",
+        "title": "TikTok Investors Set to Pay $10 Billion Fee to Trump Administration",
+        "summary": "The large fee is the latest example of the White House’s inserting itself into corporate deal making in unusual and aggressive ways.",
+        "content": "The large fee is the latest example of the White House’s inserting itself into corporate deal making in unusual and aggressive ways.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/03/13/business/tiktok-investors-set-to-pay-10-billion-fee-to-trump-administration.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 14 Mar 2026 02:32:46 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-03-14/2026-03-14-policy-AI-019.webp"
+      },
+      {
+        "id": "AI-020",
+        "title": "Adobe Settles With U.S. Over Hard-to-Cancel Subscriptions",
+        "summary": "The maker of Photoshop agreed to pay $75 million to the government, which had accused it of hiding details of expensive fees.",
+        "content": "The maker of Photoshop agreed to pay $75 million to the government, which had accused it of hiding details of expensive fees.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/03/13/technology/adobe-settlement-doj.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 13 Mar 2026 19:16:49 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-03-14/2026-03-14-policy-AI-020.webp"
+      },
+      {
+        "id": "AI-021",
+        "title": "Coding After Coders: The End of Computer Programming as We Know It",
+        "summary": "In the era of A.I. agents, many Silicon Valley programmers are now barely programming. Instead, what they’re doing is deeply, deeply weird.",
+        "content": "In the era of A.I. agents, many Silicon Valley programmers are now barely programming. Instead, what they’re doing is deeply, deeply weird.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 13 Mar 2026 18:54:22 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-03-14/2026-03-14-policy-AI-021.webp"
+      }
+    ],
+    "concerns": [],
+    "culture": [
+      {
+        "id": "AI-022",
+        "title": "New study raises concerns about AI chatbots fueling delusional thinking",
+        "summary": "First major study on ‘AI psychosis’ suggests chatbots can encourage delusions among vulnerable people\nA new scientific review raises concerns about how chatbots powered by artificial intelligence may encourage delusional thinking, especially in vulne",
+        "content": "First major study on ‘AI psychosis’ suggests chatbots can encourage delusions among vulnerable people\nA new scientific review raises concerns about how chatbots powered by artificial intelligence may encourage delusional thinking, especially in vulnerable people.\nA summary of existing evidence on artificial intelligence-induced psychosis was published last week in the Lancet Psychiatry, highlighting how chatbots can encourage delusional thinking – though possibly only in people who are already v",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/mar/14/ai-chatbots-psychosis",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 14 Mar 2026 11:00:18 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-03-14/2026-03-14-culture-AI-022.webp"
+      },
+      {
+        "id": "AI-023",
+        "title": "NHS and MoD will be urged to buy British tech to drive growth amid Iran crisis",
+        "summary": "Treasury minister Spencer Livermore trails new strategy as chancellor pins hopes on benefits of AI amid global uncertainty\nThe NHS and Ministry of Defence will be urged to buy British tech, as the government pins its hopes on the benefits of artifici",
+        "content": "Treasury minister Spencer Livermore trails new strategy as chancellor pins hopes on benefits of AI amid global uncertainty\nThe NHS and Ministry of Defence will be urged to buy British tech, as the government pins its hopes on the benefits of artificial intelligence to kickstart growth in the face of the Iran crisis, Treasury minister Spencer Livermore has said.\nThe chancellor, Rachel Reeves, will restate her economic strategy in a high profile lecture on Tuesday, just as rocketing oil prices hav",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/business/2026/mar/14/nhs-ministry-of-defence-buy-british-tech-kickstart-growth-artificial-intelligence-rachel-reeves",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 14 Mar 2026 06:00:12 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-03-14/2026-03-14-culture-AI-023.webp"
+      },
+      {
+        "id": "AI-024",
+        "title": "Invisible datacentres and capricious chips: is UK’s AI bubble about to burst?",
+        "summary": "Datacentre investment boom is one of the biggest infrastructure gambles of this era, and Britain may be uniquely exposed\nStargate was to be the world’s biggest AI investment: a $500bn infrastructure project to “secure American leadership in AI”. Neve",
+        "content": "Datacentre investment boom is one of the biggest infrastructure gambles of this era, and Britain may be uniquely exposed\nStargate was to be the world’s biggest AI investment: a $500bn infrastructure project to “secure American leadership in AI”. Never shy of hyperbole, its key backer, the ChatGPT-maker OpenAI, promised “massive economic benefit for the entire world” with facilities to help people “use AI to elevate humanity”.\nNow, OpenAI appears to be dropping out of a part of the deal – the exp",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/news/ng-interactive/2026/mar/14/datacentre-boom-is-uk-ai-bubble-about-to-burst",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 14 Mar 2026 06:00:11 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-03-14/2026-03-14-culture-AI-024.webp"
+      },
+      {
+        "id": "AI-025",
+        "title": "The environmental cost of datacentres is rising. Is it time to quit AI?",
+        "summary": "As the QuitGPT movement gains momentum, should people concerned about the environmental impacts of AI consider opting out?\n\nChange by degrees offers life hacks and sustainable living tips each Saturday to help reduce your household’s carbon footprint",
+        "content": "As the QuitGPT movement gains momentum, should people concerned about the environmental impacts of AI consider opting out?\n\nChange by degrees offers life hacks and sustainable living tips each Saturday to help reduce your household’s carbon footprint\n\nGot a question or tip for reducing household emissions? Email us at changebydegrees@theguardian.com\n\nIt’s only a few years on from the release of ChatGPT but the race to plug artificial intelligence into everything has sparked a surge in datacentre",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/australia-news/2026/mar/13/ai-datacentres-environmental-impacts",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 13 Mar 2026 23:00:02 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-03-14/2026-03-14-culture-AI-025.webp"
+      },
+      {
+        "id": "AI-026",
+        "title": "The Guardian view on changes to copyright laws: authors should be protected over big tech | Editorial",
+        "summary": "Writers are voicing their anger at AI theft of their work with ‘Human Authored’ logos and an empty book. The government must listen\nIn a scene that might have come from a dystopian novel, books were being stamped with “Human Authored” logos at this w",
+        "content": "Writers are voicing their anger at AI theft of their work with ‘Human Authored’ logos and an empty book. The government must listen\nIn a scene that might have come from a dystopian novel, books were being stamped with “Human Authored” logos at this week’s London Book Fair. The Society of Authors described its labelling scheme as “an important sticking plaster to protect and promote human creativity in lieu of AI labelled content in the marketplace”.\nVisitors to the fair were also being given cop",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/commentisfree/2026/mar/13/the-guardian-view-on-changes-to-copyright-laws-authors-should-be-protected-over-big-tech",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 13 Mar 2026 18:07:34 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-03-14/2026-03-14-culture-AI-026.webp"
+      }
+    ]
+  },
+  "quote": {
+    "text": "The best way to predict the future is to invent it.",
+    "author": "Alan Kay",
+    "authorTitle": "Computer Scientist"
+  },
+  "sources": [
+    "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
+    "https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+    "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/",
+    "https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/",
+    "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/",
+    "https://the-decoder.com/hume-ai-open-sources-tada-a-speech-model-five-times-faster-than-rivals-with-zero-hallucinated-words/",
+    "https://the-decoder.com/ai2-releases-new-robotics-models-trained-entirely-in-simulation-to-skip-real-world-data-collection/",
+    "https://the-decoder.com/meta-reportedly-plans-to-cut-up-to-20-percent-of-its-workforce-as-600-billion-ai-bet-drives-need-to-offset-costs/",
+    "https://the-decoder.com/new-top-100-ai-list-shows-a-market-where-chatgpt-leads-but-no-one-is-loyal/",
+    "https://the-decoder.com/ex-anthropic-researchers-launch-ai-startup-mirendil-to-tackle-scientific-research/",
+    "https://www.technologyreview.com/2026/03/13/1134184/why-physical-ai-is-becoming-manufacturings-next-advantage/",
+    "https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/",
+    "https://www.cnbc.com/2026/03/13/uber-ex-ceo-kalanick-rebrands-latest-venture-atoms-move-into-robotics.html",
+    "https://www.cnbc.com/2026/03/13/nvidia-gtc-ai-jensen-huang-cpu-gpu.html",
+    "https://www.cnbc.com/2026/03/13/elon-musk-xai-co-founders-spacex-ipo.html",
+    "https://www.cnbc.com/2026/03/13/a-closer-look-at-nvidias-20-billion-bet-on-tech-for-a-new-ai-chip.html",
+    "https://www.cnbc.com/2026/03/13/amazon-to-hike-price-of-ad-free-prime-video-tier-by-2-a-month.html",
+    "https://www.nytimes.com/2026/03/13/technology/amazon-google-persian-gulf-war.html",
+    "https://www.nytimes.com/2026/03/13/business/tiktok-investors-set-to-pay-10-billion-fee-to-trump-administration.html",
+    "https://www.nytimes.com/2026/03/13/technology/adobe-settlement-doj.html",
+    "https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html",
+    "https://www.theguardian.com/technology/2026/mar/14/ai-chatbots-psychosis",
+    "https://www.theguardian.com/business/2026/mar/14/nhs-ministry-of-defence-buy-british-tech-kickstart-growth-artificial-intelligence-rachel-reeves",
+    "https://www.theguardian.com/news/ng-interactive/2026/mar/14/datacentre-boom-is-uk-ai-bubble-about-to-burst",
+    "https://www.theguardian.com/australia-news/2026/mar/13/ai-datacentres-environmental-impacts",
+    "https://www.theguardian.com/commentisfree/2026/mar/13/the-guardian-view-on-changes-to-copyright-laws-authors-should-be-protected-over-big-tech"
+  ],
+  "generatedAt": "2026-03-14T11:23:49.526Z",
+  "simpleSummaryImageUrl": "/images/2026-03-14/2026-03-14-summary.webp"
+}
