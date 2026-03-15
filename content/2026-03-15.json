@@ -2,75 +2,115 @@
   "date": "2026-03-15",
   "dateFormatted": "March 15, 2026",
   "headline": {
-    "title": "US Army announces contract with Anduril worth up to $20B",
-    "summary": "The Army described this as a single enterprise contract consolidating more than 120 separate \"procurement actions.\"",
-    "sourceUrl": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
-    "sourceName": "TechCrunch AI",
+    "title": "ByteDance shelves Seedance 2.0 global launch after Hollywood's copyright crackdown",
+    "summary": "ByteDance is delaying the worldwide rollout of its AI video generator Seedance 2.0 due to legal pressure from major studios over copyright concerns. The pause signals how convincing AI video has become—and how seriously the entertainment industry is now pushing back.",
+    "sourceUrl": "https://the-decoder.com/hollywood-copyright-complaints-force-bytedance-to-shelve-global-launch-of-ai-video-generator-seedance-2-0/",
+    "sourceName": "The Decoder",
     "imageUrl": "/images/2026-03-15/2026-03-15-hero.webp"
   },
   "simpleSummary": [
-    "Today's edition was assembled directly from RSS feeds without AI curation.",
-    "Browse the stories below for the latest AI news."
+    "ByteDance is pausing the global launch of Seedance 2.0, its AI video generator, after studios complained about copyright issues.",
+    "An AI consultant used ChatGPT and AlphaFold together to help find a treatment for his dog's cancer, showing how different AI tools can work together for real problems.",
+    "Google bought Wiz (a cybersecurity company) for $32 billion, making it Google's biggest acquisition ever."
   ],
   "sections": {
     "tools": [
       {
         "id": "AI-001",
-        "title": "US Army announces contract with Anduril worth up to $20B",
-        "summary": "The Army described this as a single enterprise contract consolidating more than 120 separate \"procurement actions.\"",
-        "content": "The Army described this as a single enterprise contract consolidating more than 120 separate \"procurement actions.\"",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
-        "sourceName": "TechCrunch AI",
+        "title": "ByteDance pauses global launch of Seedance 2.0 video generator",
+        "summary": "ByteDance delayed the worldwide rollout of its Seedance 2.0 AI video model after Hollywood studios filed copyright complaints. The move underscores both the technical sophistication of AI video generation and the legal minefield it's creating.",
+        "contentSimple": "ByteDance was about to release Seedance 2.0, a tool that creates videos using AI, to the whole world. But big movie studios sued because they said it was copying their movies without permission, so ByteDance paused the release.",
+        "content": "ByteDance had Seedance 2.0 ready to ship globally in mid-March, but Hollywood's biggest studios collectively threw up a stop sign. The copyright complaints forced the company to shelve the launch entirely while engineers and lawyers figure out how to avoid further legal trouble. This is the clearest sign yet that AI video generation has crossed a legitimacy threshold—studios wouldn't fight this hard if the output wasn't convincing enough to matter commercially. The pause also reveals a growing pattern: regulation by lawsuit is now outpacing regulation by government.",
+        "keyTakeaways": [
+          "AI video tools are now sophisticated enough to trigger real legal action from major studios, not just academic concern.",
+          "Chinese AI companies face asymmetric legal pressure compared to U.S. counterparts, making global launches harder to execute.",
+          "Delaying a product launch doesn't solve copyright training—it just buys time to find a legal framework that works."
+        ],
+        "whyItMatters": "This delays the availability of a major video generation tool and sets a precedent for how copyright-trained AI models will be regulated globally.",
+        "sourceUrl": "https://the-decoder.com/hollywood-copyright-complaints-force-bytedance-to-shelve-global-launch-of-ai-video-generator-seedance-2-0/",
+        "sourceName": "The Decoder",
         "tags": [
-          "TechCrunch AI"
+          "video generation",
+          "copyright",
+          "regulation",
+          "ByteDance"
         ],
         "section": "tools",
+        "toolSubcategory": "video",
+        "people": [],
         "readTime": "2 min",
-        "publishedAt": "Sat, 14 Mar 2026 20:47:47 +0000",
+        "publishedAt": "2026-03-15",
         "normalizedTags": [
-          "techcrunch ai"
+          "video generation",
+          "copyright",
+          "regulation",
+          "bytedance"
         ],
         "imageUrl": "/images/2026-03-15/2026-03-15-tools-AI-001.webp"
       },
       {
         "id": "AI-002",
-        "title": "Meta reportedly considering layoffs that could affect 20% of the company",
-        "summary": "These layoffs could help Facebook's parent company offset its aggressive spending on AI infrastructure, as well as AI-related acquisitions and hiring.",
-        "content": "These layoffs could help Facebook's parent company offset its aggressive spending on AI infrastructure, as well as AI-related acquisitions and hiring.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/",
-        "sourceName": "TechCrunch AI",
+        "title": "OpenClaw-RL turns everyday conversation into AI agent training data",
+        "summary": "Princeton researchers released OpenClaw-RL, a framework that converts live chat, terminal, and GUI feedback into continuous training signals for AI agents. Just a few dozen interactions can produce noticeable performance improvements without expensive labeled datasets.",
+        "contentSimple": "Researchers at Princeton created a new way to teach AI agents by turning your regular conversations into learning material. Instead of throwing away the feedback, the system learns from everything you say, kind of like how you get better at a game by playing it over and over.",
+        "content": "Most reinforcement learning ignores the gold mine of data sitting in everyday interactions—chat replies, terminal commands, GUI actions. OpenClaw-RL flips that. It treats every human response as a training signal. What's remarkable is the efficiency: researchers showed that just dozens of interactions can drive noticeable improvements in agent behavior. This matters because it eliminates the expensive bottleneck of manually labeled training data. Instead of hiring annotators, you get smarter agents from real-world use.",
+        "keyTakeaways": [
+          "Unlabeled human feedback—normally considered worthless—becomes training data at scale through OpenClaw-RL.",
+          "Dramatically reduced annotation costs could accelerate the training cycle for autonomous agents in production.",
+          "This approach works across modalities (text, CLI, GUI), making it broadly applicable to different types of agents."
+        ],
+        "whyItMatters": "This cuts the cost and time to train better AI agents, potentially accelerating deployment of autonomous systems in real-world applications.",
+        "sourceUrl": "https://the-decoder.com/openclaw-rl-trains-ai-agents-simply-by-talking-converting-every-reply-into-a-training-signal/",
+        "sourceName": "The Decoder",
         "tags": [
-          "TechCrunch AI"
+          "reinforcement learning",
+          "training efficiency",
+          "agents",
+          "research"
         ],
         "section": "tools",
+        "toolSubcategory": "agents",
+        "people": [],
         "readTime": "2 min",
-        "publishedAt": "Sat, 14 Mar 2026 16:28:42 +0000",
+        "publishedAt": "2026-03-15",
         "normalizedTags": [
-          "techcrunch ai"
+          "reinforcement learning",
+          "training efficiency",
+          "agents",
+          "research"
         ],
         "imageUrl": "/images/2026-03-15/2026-03-15-tools-AI-002.webp"
       },
       {
         "id": "AI-003",
-        "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
-        "summary": "Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT.",
-        "content": "Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
-        "sourceName": "TechCrunch AI",
+        "title": "AI companies recruit improv actors to train emotion models",
+        "summary": "A major AI company is hiring improv actors through Handshake to generate training data for emotion recognition and character consistency. The job listing reveals how AI developers are sourcing authentic human behavior that's hard to capture algorithmically.",
+        "contentSimple": "AI companies are hiring improv actors to help train AI models that understand human emotions and voices. The actors perform scenes, and the AI learns from watching how real people act and feel.",
+        "content": "If you can stay in character, authentically portray emotion, and improvise convincingly, one of the leading AI companies wants to pay you to do exactly that—not on stage, but to generate training data. This is a smart move: improv actors have mastered nuance that's extremely hard to synthesize or label. Instead of collecting ten thousand boring scripted utterances, you get genuine emotional variation and character consistency. This signals that emotion modeling and voice authenticity are now competitive bottlenecks. You can't out-engineer your way to believable emotional AI; you need real human performance data.",
+        "keyTakeaways": [
+          "Authentic human performance data is becoming a valuable commodity for training emotionally intelligent AI.",
+          "Improv skills—staying in character, reading subtext, adapting—are hard to simulate and therefore economically valuable in AI training.",
+          "This outsourcing model (hiring through Handshake, not building in-house) suggests emotion modeling isn't yet core IP for these companies."
+        ],
+        "whyItMatters": "As AI agents and voice bots proliferate, the ability to convincingly express and understand emotion becomes a competitive advantage that money can now buy.",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data",
+        "sourceName": "The Verge",
         "tags": [
-          "TechCrunch AI"
+          "training data",
+          "emotion AI",
+          "human performance",
+          "voice models"
         ],
         "section": "tools",
+        "toolSubcategory": "multimodal",
+        "people": [],
         "readTime": "2 min",
-        "publishedAt": "Sat, 14 Mar 2026 13:00:00 +0000",
+        "publishedAt": "2026-03-15",
         "normalizedTags": [
-          "techcrunch ai"
+          "training data",
+          "emotion ai",
+          "human performance",
+          "voice models"
         ],
         "imageUrl": "/images/2026-03-15/2026-03-15-tools-AI-003.webp"
       }
@@ -78,149 +118,598 @@
     "creative": [
       {
         "id": "AI-004",
-        "title": "RL agents go from face-planting to parkour when researchers keep adding network layers",
-        "summary": "While most reinforcement learning algorithms use two to five network layers, a research team achieved 2x to 50x performance gains by scaling network depth up to 1,024 layers in a self-supervised agent and saw entirely new behaviors emerge in the proc",
-        "content": "While most reinforcement learning algorithms use two to five network layers, a research team achieved 2x to 50x performance gains by scaling network depth up to 1,024 layers in a self-supervised agent and saw entirely new behaviors emerge in the process.\nThe article RL agents go from face-planting to parkour when researchers keep adding network layers appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/rl-agents-go-from-face-planting-to-parkour-when-researchers-keep-adding-network-layers/",
-        "sourceName": "The Decoder",
+        "title": "Iranian artist creates AI singer Nava to become anthem of resistance",
+        "summary": "UK-based, Iran-born artist Farbod Mehr created an AI-sung anthem with lyrics from a 20th-century revolutionary poet that resonated with Iranians during political unrest. The project shows how AI voice can carry political meaning and cultural significance beyond its technical novelty.",
+        "contentSimple": "An artist from Iran created an AI singer called Nava that sings a powerful song about hope and freedom. The song became really popular with people in Iran who were protesting against their government.",
+        "content": "Farbod Mehr recorded an AI-generated vocalist performing lyrics drawn from Aref Qazvini, a revolutionary 20th-century poet. The song—with its message of sacrifice leading to a better future—struck a nerve with Iranians facing brutal crackdowns and military conflict. What's striking here is that the AI voice became invisible. People didn't rally around a novelty; they rallied around the message and the poetry. The voice was just the delivery mechanism. This matters because it shows AI can be culturally meaningful when it's put in service of something beyond itself.",
+        "keyTakeaways": [
+          "AI voice tools can carry authentic cultural and political resonance when paired with meaningful content.",
+          "The novelty of AI disappears when the work serves a real human purpose rather than showcasing the technology itself.",
+          "This is a different use case from Western AI art: less about exploring possibility, more about amplifying human expression at scale."
+        ],
+        "whyItMatters": "It demonstrates that AI voice generation can be a tool for political expression and cultural connection, not just entertainment or corporate use.",
+        "sourceUrl": "https://www.theguardian.com/world/2026/mar/15/iranians-embrace-anthem-by-ai-singer-created-by-uk-based-iran-born-artist",
+        "sourceName": "The Guardian",
         "tags": [
-          "The Decoder"
+          "AI voice",
+          "music",
+          "political expression",
+          "cultural impact"
         ],
         "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Sun, 15 Mar 2026 11:17:26 +0000",
+        "people": [
+          "Farbod Mehr"
+        ],
+        "readTime": "3 min",
+        "publishedAt": "2026-03-15",
         "normalizedTags": [
-          "the decoder"
+          "ai voice",
+          "music",
+          "political expression",
+          "cultural impact"
         ],
         "imageUrl": "/images/2026-03-15/2026-03-15-creative-AI-004.webp"
       },
       {
         "id": "AI-005",
-        "title": "OpenClaw-RL trains AI agents \"simply by talking,\" converting every reply into a training signal",
-        "summary": "AI agents usually throw away valuable feedback from everyday interactions. Princeton's new OpenClaw-RL framework changes that by turning live signals from chats, terminal commands, and GUI actions into continuous training data. The researchers say ju",
-        "content": "AI agents usually throw away valuable feedback from everyday interactions. Princeton's new OpenClaw-RL framework changes that by turning live signals from chats, terminal commands, and GUI actions into continuous training data. The researchers say just a few dozen interactions are enough for noticeable improvements.\nThe article OpenClaw-RL trains AI agents \"simply by talking,\" converting every reply into a training signal appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/openclaw-rl-trains-ai-agents-simply-by-talking-converting-every-reply-into-a-training-signal/",
+        "title": "AI consultant combines ChatGPT, AlphaFold, and Grok to find cancer treatment for his dog",
+        "summary": "An Australian AI consultant used multiple AI tools—ChatGPT for research synthesis, AlphaFold for protein structure, Grok for idea exploration—to identify a potential cancer treatment for his dog. The story went viral as proof of AI's practical problem-solving capabilities.",
+        "contentSimple": "An AI expert used three different AI tools together to find a way to help his dog who had an incurable cancer. The tools helped him figure out which medicines might work, and big AI leaders like people from OpenAI shared his story.",
+        "content": "When his dog Rosie was diagnosed with incurable cancer, this consultant didn't just accept the veterinary verdict. He orchestrated a multi-tool approach: ChatGPT to synthesize research papers at speed, AlphaFold to predict how potential drug molecules would interact with cancer proteins, and Grok for exploratory reasoning. The combination yielded a promising treatment direction that conventional channels hadn't surfaced. High-profile AI figures—Greg Brockman from OpenAI, Demis Hassabis from DeepMind—amplified the story because it answered the question people actually care about: can AI solve my real problems right now? The answer, in this case, was yes.",
+        "keyTakeaways": [
+          "Combining specialized AI tools (language model + protein folding + reasoning) can solve domain problems faster than traditional research workflows.",
+          "Real-world problem-solving often requires orchestrating multiple AI systems, not relying on any single tool.",
+          "Stories about AI's practical impact resonate more than abstract capability demos and drive broader adoption."
+        ],
+        "whyItMatters": "This shows AI tools working together on a concrete, personal problem—creating a cultural moment that shifts perception from 'AI is experimental' to 'AI is useful now.'",
+        "sourceUrl": "https://the-decoder.com/ai-consultant-uses-chatgpt-alphafold-and-grok-to-find-a-possible-treatment-for-his-dogs-cancer/",
         "sourceName": "The Decoder",
         "tags": [
-          "The Decoder"
+          "multi-tool AI",
+          "healthcare",
+          "practical application",
+          "viral story"
         ],
         "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Sun, 15 Mar 2026 10:04:20 +0000",
+        "people": [
+          "Greg Brockman",
+          "Demis Hassabis"
+        ],
+        "readTime": "3 min",
+        "publishedAt": "2026-03-15",
         "normalizedTags": [
-          "the decoder"
+          "multi-tool ai",
+          "healthcare",
+          "practical application",
+          "viral story"
         ],
         "imageUrl": "/images/2026-03-15/2026-03-15-creative-AI-005.webp"
       },
       {
         "id": "AI-006",
-        "title": "Hollywood copyright complaints force Bytedance to shelve global launch of AI video generator Seedance 2.0",
-        "summary": "Bytedance planned to launch its AI video model Seedance 2.0 globally in mid-March. That's not happening, because Hollywood's biggest studios have collectively put the brakes on the rollout. The backlash is also a sign of just how convincing AI-genera",
-        "content": "Bytedance planned to launch its AI video model Seedance 2.0 globally in mid-March. That's not happening, because Hollywood's biggest studios have collectively put the brakes on the rollout. The backlash is also a sign of just how convincing AI-generated video has become.\nThe article Hollywood copyright complaints force Bytedance to shelve global launch of AI video generator Seedance 2.0 appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/hollywood-copyright-complaints-force-bytedance-to-shelve-global-launch-of-ai-video-generator-seedance-2-0/",
-        "sourceName": "The Decoder",
+        "title": "Concept art for Unreal Engine 5 horror game Ritual Tides showcases AI-assisted game design",
+        "summary": "Indie developer releases stunning concept art for Ritual Tides, a horror game leveraging Unreal Engine 5's capabilities for AAA-quality visuals on an indie budget. The project demonstrates how AI-assisted design and rendering tools are democratizing game art production.",
+        "contentSimple": "A small game studio is making a horror game called Ritual Tides that looks as good as games made by huge companies like Sony or Microsoft. They're using modern tools that let them create amazing visuals without spending millions.",
+        "content": "Ritual Tides is an indie horror game achieving AAA visual fidelity, which would have been impossible five years ago without a massive budget. The concept art reveals sophisticated environments, creature design, and atmospheric lighting that typically requires a team of specialized artists. Modern rendering engines combined with AI-assisted tools for texture generation, lighting, and composition have compressed the production timeline and cost. This is creative work enabled by technology—the artists are doing the creative directing, but AI handles the repetitive geometry, variation, and iteration.",
+        "keyTakeaways": [
+          "AI-assisted tools are collapsing the cost gap between indie and AAA game development.",
+          "Visual quality is no longer a bottleneck for smaller studios; story and gameplay become the differentiators.",
+          "The skillset for game art is shifting from 'can you model every asset from scratch' to 'can you art-direct AI tools effectively.'"
+        ],
+        "whyItMatters": "This accelerates the indie game market by reducing production costs, potentially flooding the market with higher-quality small studio games.",
+        "sourceUrl": "https://www.creativebloq.com/3d/video-game-design/check-out-the-concept-art-for-stunning-unreal-engine-5-horror-game-ritual-tides",
+        "sourceName": "Creative Bloq",
         "tags": [
-          "The Decoder"
+          "game design",
+          "visual effects",
+          "indie games",
+          "Unreal Engine"
         ],
         "section": "creative",
+        "people": [],
         "readTime": "2 min",
-        "publishedAt": "Sun, 15 Mar 2026 09:34:36 +0000",
+        "publishedAt": "2026-03-15",
         "normalizedTags": [
-          "the decoder"
+          "game design",
+          "visual effects",
+          "indie games",
+          "unreal engine"
         ],
         "imageUrl": "/images/2026-03-15/2026-03-15-creative-AI-006.webp"
-      },
+      }
+    ],
+    "research": [
       {
         "id": "AI-007",
-        "title": "Codewall's AI agent hacked an AI recruiter, then impersonated Trump to test its voice bot's guardrails",
-        "summary": "AI agents can hack systems, defend them, and be hacked themselves. Codewall's one-hour takeover of an AI recruiting platform shows just how tangled this new security landscape has become.\nThe article Codewall's AI agent hacked an AI recruiter, then i",
-        "content": "AI agents can hack systems, defend them, and be hacked themselves. Codewall's one-hour takeover of an AI recruiting platform shows just how tangled this new security landscape has become.\nThe article Codewall's AI agent hacked an AI recruiter, then impersonated Trump to test its voice bot's guardrails appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/codewalls-ai-agent-hacked-an-ai-recruiter-then-impersonated-trump-to-test-its-voice-bots-guardrails/",
+        "title": "Deep reinforcement learning agents master parkour by scaling network depth to 1,024 layers",
+        "summary": "Researchers achieved 2x to 50x performance gains in RL agents by scaling network depth dramatically beyond typical 2-5 layer architectures, with agents spontaneously developing complex behaviors like parkour. The breakthrough suggests depth itself may be a key lever for emergent capability.",
+        "contentSimple": "Scientists trained AI agents to do parkour (jumping and climbing) by building much deeper neural networks—instead of 5 layers, they used up to 1,024 layers. The deeper networks were way better and learned skills nobody programmed in.",
+        "content": "Most reinforcement learning algorithms use shallow networks: two to five layers. This research team inverted that assumption, scaling to 1,024 layers in self-supervised agents. The results were dramatic: 2x to 50x performance improvements, but more importantly, entirely new behaviors emerged without explicit training. Agents went from face-planting on obstacles to executing parkour sequences. The finding challenges conventional wisdom that depth doesn't matter much in RL. It does. Whether depth unlocks emergent reasoning, better feature hierarchies, or something else entirely remains an open question—but the empirical signal is unmistakable.",
+        "keyTakeaways": [
+          "Network depth may be an underexplored dimension for improving RL agent capability and emergent behavior.",
+          "Scaling depth dramatically (1,024 layers) outpaces scaling compute or data volume in this domain.",
+          "New behaviors emerged spontaneously without explicit reward shaping, suggesting depth enables a form of self-directed learning."
+        ],
+        "whyItMatters": "This could redirect research attention toward depth as a primary scaling axis, potentially unlocking more capable autonomous agents.",
+        "sourceUrl": "https://the-decoder.com/rl-agents-go-from-face-planting-to-parkour-when-researchers-keep-adding-network-layers/",
         "sourceName": "The Decoder",
         "tags": [
-          "The Decoder"
+          "reinforcement learning",
+          "scaling",
+          "emergent behavior",
+          "neural networks"
         ],
-        "section": "creative",
+        "section": "research",
+        "people": [],
         "readTime": "2 min",
-        "publishedAt": "Sun, 15 Mar 2026 09:02:06 +0000",
+        "publishedAt": "2026-03-15",
         "normalizedTags": [
-          "the decoder"
+          "reinforcement learning",
+          "scaling",
+          "emergent behavior",
+          "neural networks"
         ],
-        "imageUrl": "/images/2026-03-15/2026-03-15-creative-AI-007.webp"
+        "imageUrl": "/images/2026-03-15/2026-03-15-research-AI-007.webp"
       },
       {
         "id": "AI-008",
-        "title": "AI spam websites flood the web with false information, and the number is growing fast",
-        "summary": "Newsguard and AI detector Pangram Labs have launched a real-time system to spot so-called \"AI content farms.\" More than 3,000 of these sites have already been flagged, with hundreds more popping up every month, and the number keeps growing.\nThe artic",
-        "content": "Newsguard and AI detector Pangram Labs have launched a real-time system to spot so-called \"AI content farms.\" More than 3,000 of these sites have already been flagged, with hundreds more popping up every month, and the number keeps growing.\nThe article AI spam websites flood the web with false information, and the number is growing fast appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/ai-spam-websites-flood-the-web-with-false-information-and-the-number-is-growing-fast/",
+        "title": "Codewall's AI agent breaches recruitment platform, impersonates Trump to test voice defenses",
+        "summary": "A security research team demonstrated an AI agent autonomously hacking an AI recruiting platform and then impersonating a political figure to probe voice bot vulnerabilities. The one-hour takeover exposes how quickly AI can evolve to bypass guardrails in a multi-agent environment.",
+        "contentSimple": "AI security researchers built an AI agent that was able to hack into a recruiting company's system to test how safe their AI was. Then the agent pretended to be Trump to see if voice AI had good safeguards.",
+        "content": "Codewall conducted a red-team exercise that reads like a hacker thriller. Their AI agent independently identified vulnerabilities in an AI recruiting platform, exploited them, and then escalated to social engineering—specifically, impersonating a high-profile figure to test the voice bot's defenses. The whole thing took one hour. The finding is sobering: in a multi-agent environment, AI systems can defend, attack, and be attacked. Guardrails designed for human inputs may not hold against autonomous adversarial agents. The voice impersonation angle is particularly unsettling because it combines two capabilities—convincing voice synthesis and adversarial reasoning—that separately are impressive but together are dangerous.",
+        "keyTakeaways": [
+          "AI agents can autonomously discover and exploit vulnerabilities faster than human security teams can patch them.",
+          "Voice bot guardrails designed for human users may fail against synthetic impersonation attacks.",
+          "Multi-agent security is a new class of problem: systems must defend against both human and AI adversaries simultaneously."
+        ],
+        "whyItMatters": "This demonstrates a real attack vector for compromising AI recruiting systems and potentially other voice-enabled platforms at scale.",
+        "sourceUrl": "https://the-decoder.com/codewalls-ai-agent-hacked-an-ai-recruiter-then-impersonated-trump-to-test-its-voice-bots-guardrails/",
         "sourceName": "The Decoder",
         "tags": [
-          "The Decoder"
+          "AI security",
+          "adversarial agents",
+          "voice synthesis",
+          "vulnerability research"
         ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 14 Mar 2026 14:20:06 +0000",
+        "section": "research",
+        "people": [],
+        "readTime": "3 min",
+        "publishedAt": "2026-03-15",
         "normalizedTags": [
-          "the decoder"
+          "ai security",
+          "adversarial agents",
+          "voice synthesis",
+          "vulnerability research"
         ],
-        "imageUrl": "/images/2026-03-15/2026-03-15-creative-AI-008.webp"
+        "imageUrl": "/images/2026-03-15/2026-03-15-research-AI-008.webp"
       }
     ],
-    "research": [],
-    "applications": [],
-    "business": [],
-    "policy": [],
-    "concerns": [],
-    "culture": [
+    "applications": [
       {
         "id": "AI-009",
-        "title": "This CEO warns that Democratic voters are most at risk from automation | Arwa Mahdawi",
-        "summary": "Palantir’s CEO says the platforms will have a vast effect on the electoral landscape … especially women. Is it a warning or a sales pitch?\nDon’t you just love AI? It has inundated the internet with slop, destabilized the concept of truth, and made it",
-        "content": "Palantir’s CEO says the platforms will have a vast effect on the electoral landscape … especially women. Is it a warning or a sales pitch?\nDon’t you just love AI? It has inundated the internet with slop, destabilized the concept of truth, and made it much easier to bomb people. And that’s just the beginning. As we look towards the future of our brave new world, AI might also disrupt all those pesky highly-educated female voters who keep casting a ballot for Democrats.\nTo be clear: that assessmen",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/commentisfree/2026/mar/14/palantir-ai-marco-rubio-afghanistan-katy-perry",
-        "sourceName": "The Guardian AI",
+        "title": "University coursework crisis exposes deeper problems than AI alone",
+        "summary": "Dr. Nafisa Baba-Ahmed argues that universities blaming AI for academic integrity problems are missing the point: the real issue is outdated assessment methods that don't actually test critical thinking. AI is a symptom, not the disease.",
+        "contentSimple": "Colleges are worried students are using ChatGPT to cheat on their homework. But a university teacher says the real problem is that colleges have boring assignments that don't teach real thinking skills—AI just makes it obvious.",
+        "content": "Professors are panicking about ChatGPT in the classroom, but Dr. Baba-Ahmed reframes the issue: AI didn't create the problem; it exposed it. Universities have been assigning coursework that doesn't actually measure critical thinking—it measures compliance and recall. Regurgitate what you learned. Now that a machine can do that instantly, the assignment loses all value. Instead of fighting AI, universities should use this moment to redesign what they're asking students to demonstrate. Teach judgment, argumentation, and synthesis. Test those things. The frustration is real, but the solution isn't ChatGPT-proof exams; it's exams worth taking.",
+        "keyTakeaways": [
+          "AI's impact on education reveals that assessment methods, not AI, are the real problem.",
+          "Universities have an opportunity to redesign coursework around skills machines can't easily replicate.",
+          "Blaming AI allows institutions to avoid harder questions about what education is actually for."
+        ],
+        "whyItMatters": "This reframes education policy debates away from 'how do we stop AI cheating' to 'what should we actually be teaching.'",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/mar/15/ai-has-exposed-age-old-problems-with-university-coursework",
+        "sourceName": "The Guardian",
         "tags": [
-          "The Guardian AI"
+          "education",
+          "AI policy",
+          "curriculum design",
+          "assessment"
+        ],
+        "section": "applications",
+        "people": [
+          "Dr. Nafisa Baba-Ahmed"
+        ],
+        "readTime": "3 min",
+        "publishedAt": "2026-03-15",
+        "normalizedTags": [
+          "education",
+          "ai policy",
+          "curriculum design",
+          "assessment"
+        ],
+        "imageUrl": "/images/2026-03-15/2026-03-15-applications-AI-009.webp"
+      },
+      {
+        "id": "AI-010",
+        "title": "From Gaza to Iran: defense contractors hide warfare AI behind model abstractions",
+        "summary": "An investigation reveals how AI-enabled precision weapons companies obscure military applications behind neutral tech narratives, enabling escalation in conflicts from Gaza to Iran while evading regulatory scrutiny. The pattern shows consistent use of AI-selected targets with minimal accountability.",
+        "contentSimple": "Some companies make AI software that helps choose which weapons to use in wars. They talk about their technology like it's just a tool, but it's actually helping kill people—and nobody is stopping them.",
+        "content": "The argument is stark: these aren't AI firms; they're defense contractors using AI as a PR umbrella. From Gaza to Iran, the pattern repeats—precision weapons selected by AI algorithms, civilian casualties justified by technical opacity, minimal regulatory oversight. The 'fog procedure' metaphor is apt: operators claim they can't see clearly, so they fire blindly, and the AI becomes their absolution. When you abstract away the human cost behind model inference and data processing, accountability evaporates. This is where AI harms are most urgent and least discussed.",
+        "keyTakeaways": [
+          "Defense contractors market AI weapons as neutral technology to avoid scrutiny and regulation.",
+          "Technical abstraction ('inference,' 'model optimization') obscures human harm and enables moral disengagement.",
+          "Current regulatory frameworks have no mechanism to hold AI-enabled weapons makers accountable for civilian casualties."
+        ],
+        "whyItMatters": "This exposes how AI can enable mass harm when deployed in warfare while evading the kind of scrutiny applied to consumer AI.",
+        "sourceUrl": "https://www.theguardian.com/us-news/ng-interactive/2026/mar/15/ai-defense-warfare-companies",
+        "sourceName": "The Guardian",
+        "tags": [
+          "AI warfare",
+          "accountability",
+          "defense",
+          "regulation"
+        ],
+        "section": "applications",
+        "people": [],
+        "readTime": "4 min",
+        "publishedAt": "2026-03-15",
+        "normalizedTags": [
+          "ai warfare",
+          "accountability",
+          "defense",
+          "regulation"
+        ],
+        "imageUrl": "/images/2026-03-15/2026-03-15-applications-AI-010.webp"
+      }
+    ],
+    "business": [
+      {
+        "id": "AI-011",
+        "title": "Google's $32B Wiz acquisition becomes biggest deal in company history",
+        "summary": "Google acquired cybersecurity firm Wiz for $32 billion, surpassing all previous acquisitions and signaling aggressive moves in the enterprise security market. Wiz investor Shardul Shah breaks down the strategic rationale behind the record-breaking deal.",
+        "contentSimple": "Google just bought a company called Wiz for $32 billion dollars—that's more money than Google has ever paid for any other company. Wiz helps keep computer systems safe from hackers.",
+        "content": "Google's $32 billion acquisition of Wiz is the largest purchase in the company's history, eclipsing DoubleClick and Motorola Mobility. The move signals Google's conviction that cloud security is moving from a specialized problem to a core platform concern. Wiz has grown from zero to a multi-billion-dollar valuation in five years by focusing on visibility and risk prioritization in cloud environments. For Google, owning Wiz means bundling security tightly with Google Cloud offerings, creating switching costs and expanding TAM. Shardul Shah (Index Ventures) walks through the deal logic, but the headline is simple: Google is betting that AI-augmented security is going to be strategic enough to justify this kind of capital.",
+        "keyTakeaways": [
+          "The record-breaking price tag reflects how critical cloud security has become as enterprises migrate workloads and adopt AI.",
+          "Vertical integration (owning the security layer) is Google's strategy to defend Google Cloud against AWS and Azure.",
+          "Wiz's rapid growth (zero to $12B valuation in 5 years) justified the premium, but execution risk is high."
+        ],
+        "whyItMatters": "This reshapes the cloud security market and signals Google's willingness to overpay for strategic control of growing categories.",
+        "sourceUrl": "https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/",
+        "sourceName": "TechCrunch",
+        "tags": [
+          "acquisition",
+          "Google Cloud",
+          "cybersecurity",
+          "M&A"
+        ],
+        "section": "business",
+        "people": [
+          "Shardul Shah"
+        ],
+        "readTime": "3 min",
+        "publishedAt": "2026-03-15",
+        "normalizedTags": [
+          "acquisition",
+          "google cloud",
+          "cybersecurity",
+          "m&a"
+        ],
+        "imageUrl": "/images/2026-03-15/2026-03-15-business-AI-011.webp"
+      },
+      {
+        "id": "AI-012",
+        "title": "OpenAI's Greg Brockman amplifies AI consultant's cancer breakthrough story",
+        "summary": "High-profile AI leaders including OpenAI's Greg Brockman and DeepMind's Demis Hassabis promoted the story of an AI consultant using ChatGPT and AlphaFold to find a cancer treatment for his dog. The amplification demonstrates how AI companies use human-interest stories to shift market perception.",
+        "contentSimple": "Leaders at big AI companies like OpenAI and DeepMind shared a story about someone using AI to help save his dog's life. This helps show regular people that AI tools are useful right now.",
+        "content": "When Greg Brockman and Demis Hassabis shared the cancer treatment story, they weren't just being nice. They were making a calculation: this narrative proves AI capability matters in the real world, not just in benchmarks. It's a positioning move. The story is genuine—the tools genuinely helped—but the amplification is strategic. By elevating personal use cases, AI companies shape how people think about their products. It moves the conversation from 'will AI be useful?' to 'AI is useful, and you should adopt it now.'",
+        "keyTakeaways": [
+          "AI company leaders use human-interest stories to drive adoption and shift market sentiment faster than technical documentation.",
+          "These stories are authentic but strategically amplified to serve business narratives.",
+          "Consumer perception of AI usefulness is now being shaped by selective storytelling, not just product launches."
+        ],
+        "whyItMatters": "This is how AI companies build brand trust and accelerate mainstream adoption by showing tangible personal benefits.",
+        "sourceUrl": "https://the-decoder.com/ai-consultant-uses-chatgpt-alphafold-and-grok-to-find-a-possible-treatment-for-his-dogs-cancer/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "marketing",
+          "narrative shaping",
+          "adoption",
+          "brand"
+        ],
+        "section": "business",
+        "people": [
+          "Greg Brockman",
+          "Demis Hassabis"
+        ],
+        "readTime": "2 min",
+        "publishedAt": "2026-03-15",
+        "normalizedTags": [
+          "marketing",
+          "narrative shaping",
+          "adoption",
+          "brand"
+        ],
+        "imageUrl": "/images/2026-03-15/2026-03-15-business-AI-012.webp"
+      }
+    ],
+    "policy": [
+      {
+        "id": "AI-013",
+        "title": "AI chatbots linked to suicides now showing up in mass casualty cases, lawyer warns",
+        "summary": "A lawyer handling AI-related harm cases is warning that chatbots have escalated from individual suicide cases to contributing factors in mass casualty incidents. The warning suggests AI safety lags far behind deployment speed and that regulatory gaps are putting lives at risk.",
+        "contentSimple": "A lawyer who helps people hurt by chatbots says AI is now connected to mass harm—not just individual tragedies. AI tools are changing faster than the rules that keep people safe.",
+        "content": "For years, the pattern was familiar but isolated: individual cases of AI chatbots contributing to suicides. Now a lawyer at the center of these cases is raising an alarm about a new pattern: mass casualty incidents where chatbots played a role. The escalation is troubling because it suggests the harms are broadening in scope. More disturbing is the gap: AI systems are evolving and deploying faster than safeguards, regulations, or even litigation can catch up. We're in a period where the technology is moving at venture speed and governance is moving at legal speed. People die in the gap.",
+        "keyTakeaways": [
+          "AI safety issues have evolved from rare individual cases to systemic patterns affecting groups.",
+          "Regulatory and legal mechanisms are structurally slower than AI deployment cycles.",
+          "Current safeguards (training, content policy) are insufficient for the scale and scope of deployment."
+        ],
+        "whyItMatters": "This signals that AI harm isn't theoretical or edge-casey anymore—it's a statistical fact with rising body counts.",
+        "sourceUrl": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+        "sourceName": "TechCrunch",
+        "tags": [
+          "AI safety",
+          "harm",
+          "regulation",
+          "liability"
+        ],
+        "section": "policy",
+        "people": [],
+        "readTime": "2 min",
+        "publishedAt": "2026-03-15",
+        "normalizedTags": [
+          "ai safety",
+          "harm",
+          "regulation",
+          "liability"
+        ],
+        "imageUrl": "/images/2026-03-15/2026-03-15-policy-AI-013.webp"
+      },
+      {
+        "id": "AI-014",
+        "title": "ByteDance faces legal barriers to global Seedance expansion",
+        "summary": "ByteDance's delayed Seedance 2.0 launch exposes regulatory fragmentation: U.S. and EU studios can litigate to slow adoption, while ByteDance faces asymmetric legal risk compared to U.S. AI companies. The pattern suggests IP protection will fragment AI markets by region.",
+        "contentSimple": "ByteDance had to pause its AI video tool because American and European movie studios sued them. Chinese tech companies face more legal problems from Western studios than Western AI companies do.",
+        "content": "The Seedance pause is ostensibly about legal strategy, but it reflects a deeper policy reality: Chinese AI companies face asymmetric legal exposure. U.S. studios can litigate in U.S. courts; EU studios can invoke GDPR and copyright protections. ByteDance is playing defense across multiple jurisdictions simultaneously. A U.S. AI company with similar copyright questions faces slower, fragmented litigation. This isn't coincidence; it's regulatory architecture. Copyright law, GDPR, and data residency requirements create friction for Chinese companies that U.S. and European companies can navigate more easily. The result: AI markets fragment by region, and speed-to-market becomes a function of legal risk, not just technical capability.",
+        "keyTakeaways": [
+          "Regulatory fragmentation creates asymmetric legal risk for non-U.S. AI companies competing globally.",
+          "Copyright law and data protection rules are de facto barriers to entry for some players.",
+          "The Seedance pause is a symptom of a larger pattern: geography matters more than technology in determining who wins in AI."
+        ],
+        "whyItMatters": "This shapes which companies can scale globally and which face fragmented, costly legal battles in every market.",
+        "sourceUrl": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/",
+        "sourceName": "TechCrunch",
+        "tags": [
+          "copyright law",
+          "regulation",
+          "international barriers",
+          "policy fragmentation"
+        ],
+        "section": "policy",
+        "people": [],
+        "readTime": "2 min",
+        "publishedAt": "2026-03-15",
+        "normalizedTags": [
+          "copyright law",
+          "regulation",
+          "international barriers",
+          "policy fragmentation"
+        ],
+        "imageUrl": "/images/2026-03-15/2026-03-15-policy-AI-014.webp"
+      }
+    ],
+    "concerns": [
+      {
+        "id": "AI-015",
+        "title": "AI-generated voice impersonation defeats guardrails in security test",
+        "summary": "Codewall's AI agent successfully impersonated a political figure to probe voice bot defenses, exposing vulnerabilities in synthetic voice security that were previously untested. The incident demonstrates that guardrails designed for human users fail against autonomous AI adversaries.",
+        "contentSimple": "Hackers made an AI that could fake someone's voice really well and use it to trick another AI system. Voice AI tools don't have good enough protections against being fooled.",
+        "content": "The Codewall red team didn't just find a vulnerability; they exposed a gap in threat modeling. Voice bot safeguards assume human operators on the other end. They're tuned to catch obvious abuse patterns that humans would recognize. But synthetic voice impersonation from an autonomous agent operates at a different speed and scale. The agent can try hundreds of approaches in the time a human tries one. This is the multi-agent security problem in its starkest form: your defenses are optimized for the last threat, not the current one.",
+        "keyTakeaways": [
+          "Voice synthesis combined with autonomous agency creates a new class of attack that current defenses don't anticipate.",
+          "Guardrail effectiveness is time-bound: they work until adversaries adapt, then they're obsolete.",
+          "Testing guardrails against AI adversaries, not just humans, is now table stakes for voice systems."
+        ],
+        "whyItMatters": "This demonstrates a concrete, immediate vulnerability in voice-enabled AI systems that affects recruiting platforms and potentially banking, healthcare, and government services.",
+        "sourceUrl": "https://the-decoder.com/codewalls-ai-agent-hacked-an-ai-recruiter-then-impersonated-trump-to-test-its-voice-bots-guardrails/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "voice synthesis",
+          "security",
+          "impersonation",
+          "guardrails"
+        ],
+        "section": "concerns",
+        "people": [],
+        "readTime": "3 min",
+        "publishedAt": "2026-03-15",
+        "normalizedTags": [
+          "voice synthesis",
+          "security",
+          "impersonation",
+          "guardrails"
+        ],
+        "imageUrl": "/images/2026-03-15/2026-03-15-concerns-AI-015.webp"
+      },
+      {
+        "id": "AI-016",
+        "title": "AI weapons systems operate without accountability mechanisms, investigation finds",
+        "summary": "An investigation into AI-enabled defense contractors reveals systematic use of autonomous targeting in Gaza and Iran with no legal pathway for accountability or civilian recourse. Companies use technical abstraction to evade responsibility for lethal consequences.",
+        "contentSimple": "Companies are selling AI tools that help pick military targets, but when people get hurt, nobody can be held responsible. The companies hide behind saying 'the AI made the decision.'",
+        "content": "The investigation is damning: precision weapons selected by AI algorithms, deployed across conflicts, resulting in civilian casualties—and no legal mechanism to hold anyone accountable. Operators claim the AI chose the target, so they're not responsible. Companies claim they built the tool, not deployed it, so they're not responsible. Governments claim the operators acted autonomously, so they're not responsible. Accountability evaporates in the gap between human and machine agency. This is the most concrete harm AI is causing right now, and it's happening because there's no law that applies.",
+        "keyTakeaways": [
+          "Current legal frameworks have no mechanism to assign responsibility when AI systems contribute to lethal harm.",
+          "Technical abstraction ('inference,' 'model outputs') is being weaponized to shield companies from liability.",
+          "The absence of accountability creates perverse incentives: more AI = less responsibility."
+        ],
+        "whyItMatters": "This exposes a critical gap in AI governance: deployment in warfare is outpacing both legal frameworks and ethical standards for accountability.",
+        "sourceUrl": "https://www.theguardian.com/us-news/ng-interactive/2026/mar/15/ai-defense-warfare-companies",
+        "sourceName": "The Guardian",
+        "tags": [
+          "AI weapons",
+          "accountability gap",
+          "civilian harm",
+          "regulation failure"
+        ],
+        "section": "concerns",
+        "people": [],
+        "readTime": "4 min",
+        "publishedAt": "2026-03-15",
+        "normalizedTags": [
+          "ai weapons",
+          "accountability gap",
+          "civilian harm",
+          "regulation failure"
+        ],
+        "imageUrl": "/images/2026-03-15/2026-03-15-concerns-AI-016.webp"
+      },
+      {
+        "id": "AI-017",
+        "title": "Chatbots now linked to mass casualty incidents beyond individual suicides",
+        "summary": "Legal counsel specializing in AI harm cases is sounding the alarm that chatbot involvement has escalated from individual tragic cases to contributing factors in mass casualty events. The pattern suggests systemic vulnerability in how AI systems interact with vulnerable populations.",
+        "contentSimple": "AI chatbots used to only hurt one person at a time. Now they're involved in bigger tragedies that hurt groups of people, and laws don't exist to stop it.",
+        "content": "The escalation from individual cases to mass casualty incidents isn't a statistical anomaly; it's a warning. As chatbot reach expands, so does the surface area for harm. What made individual cases tragic—the ability to interact continuously with a vulnerable person, to reinforce harmful ideation, to provide a sense of relationship—scales to groups. And regulatory response is nowhere close to catching up. The lawyer's warning is urgent because it acknowledges a grim reality: we're discovering what happens when broadly deployed AI systems interface with mental health crises in real time, and we're discovering it by body count.",
+        "keyTakeaways": [
+          "Scaled harm patterns (mass casualty) are starting to emerge from broadly deployed chatbots.",
+          "Mental health vulnerability is a widespread condition; AI systems don't distinguish between stable and at-risk users.",
+          "Reactive regulation (response after harm) is inadequate when the harm is this severe and growing this fast."
+        ],
+        "whyItMatters": "This signals that AI-related mortality is becoming a public health crisis, not a rare tragedy, with limited prevention mechanisms in place.",
+        "sourceUrl": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+        "sourceName": "TechCrunch",
+        "tags": [
+          "AI safety",
+          "mental health",
+          "chatbot harm",
+          "scaling risk"
+        ],
+        "section": "concerns",
+        "people": [],
+        "readTime": "3 min",
+        "publishedAt": "2026-03-15",
+        "normalizedTags": [
+          "ai safety",
+          "mental health",
+          "chatbot harm",
+          "scaling risk"
+        ],
+        "imageUrl": "/images/2026-03-15/2026-03-15-concerns-AI-017.webp"
+      }
+    ],
+    "culture": [
+      {
+        "id": "AI-018",
+        "title": "AI could liberate workers from drudgery—if we don't squander the opportunity",
+        "summary": "A business commentator argues that AI could genuinely improve work-life balance and free people from repetitive tasks—but only if society consciously chooses that outcome rather than letting efficiency gains concentrate as profit. The choice between liberation and intensification is urgent and largely undecided.",
+        "contentSimple": "AI could make our jobs easier and give us more free time to enjoy life. But that only happens if companies and governments make that choice—otherwise, AI just means more work packed into less time.",
+        "content": "The commentator opens with a scene: a woman sitting in her car blasting music, reluctant to go inside. 'Just enjoying my last few moments of freedom,' she says. Is that really how we want to live? The point is that AI doesn't automatically free us. It could. Productivity gains could translate to fewer hours, more time with family, real rest. But historically, automation just intensifies work—more email, more meetings, more deliverables. The difference this time is choice. We can structure AI deployment to genuinely reduce drudgery or accept the default of using efficiency gains to pack more into the same time. The article doesn't claim one outcome is inevitable; it argues that the outcome depends on decisions we make, starting now.",
+        "keyTakeaways": [
+          "AI's impact on work-life balance depends on policy and corporate choice, not technology alone.",
+          "Historically, automation has intensified work rather than freed time; there's no reason to expect different without intervention.",
+          "The window for shaping this outcome is open but narrowing—decisions made in the next few years will be hard to reverse."
+        ],
+        "whyItMatters": "This reframes AI as a social question, not a technical one: the same technology can produce liberation or burnout depending on how we use it.",
+        "sourceUrl": "https://www.theguardian.com/business/2026/mar/15/ai-future-of-work",
+        "sourceName": "The Guardian",
+        "tags": [
+          "work-life balance",
+          "labor",
+          "social impact",
+          "AI policy"
         ],
         "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 14 Mar 2026 18:05:53 GMT",
+        "people": [],
+        "readTime": "3 min",
+        "publishedAt": "2026-03-15",
         "normalizedTags": [
-          "the guardian ai"
+          "work-life balance",
+          "labor",
+          "social impact",
+          "ai policy"
         ],
-        "imageUrl": "/images/2026-03-15/2026-03-15-culture-AI-009.webp"
+        "imageUrl": "/images/2026-03-15/2026-03-15-culture-AI-018.webp"
+      },
+      {
+        "id": "AI-019",
+        "title": "The four-day work week promised liberation but faded into corporate policy debates",
+        "summary": "Years after the four-day work week was floated as a pandemic-era solution to burnout and congestion, few organizations have adopted it. The idea's failure illustrates how AI productivity gains are likely to face similar resistance from entrenched work culture.",
+        "contentSimple": "A few years ago, people thought everyone might work four days a week instead of five. That didn't happen. It shows that even good ideas don't automatically change the way companies do things.",
+        "content": "The four-day work week was simple, elegant, and evidence-based: fewer hours, same productivity, better quality of life. It made sense. But it never materialized at scale. Why? Because work culture is sticky. Because managers don't trust that output won't drop. Because earnings calls and quarterly targets reward intensity over sustainability. The point isn't that the four-day week failed; it's that it exposes how hard it is to translate productivity potential into actual human benefit. If we couldn't pull off a four-day week—which requires only social agreement—what makes us think AI productivity gains will automatically free up time? They won't. Unless we're intentional about structure, the same calendar that rejected the four-day week will absorb every AI efficiency gain.",
+        "keyTakeaways": [
+          "Past labor reforms that should have been obvious (four-day week) failed to scale, showing work culture's inertia.",
+          "AI productivity gains face the same structural resistance—without explicit policy, they get absorbed into output, not leisure.",
+          "The timing matters: AI is arriving right as corporate culture is most resistant to flexibility, not most open to it."
+        ],
+        "whyItMatters": "This suggests that AI's impact on work-life balance will depend more on labor organizing and policy than on the technology itself.",
+        "sourceUrl": "https://www.theguardian.com/business/2026/mar/16/four-day-work-working-week-what-happened",
+        "sourceName": "The Guardian",
+        "tags": [
+          "labor",
+          "work culture",
+          "productivity",
+          "AI impact"
+        ],
+        "section": "culture",
+        "people": [],
+        "readTime": "3 min",
+        "publishedAt": "2026-03-16",
+        "normalizedTags": [
+          "labor",
+          "work culture",
+          "productivity",
+          "ai impact"
+        ],
+        "imageUrl": "/images/2026-03-15/2026-03-15-culture-AI-019.webp"
+      },
+      {
+        "id": "AI-020",
+        "title": "Iran's AI-sung anthem becomes cultural moment, showing AI's role in political expression",
+        "summary": "The viral success of Farbod Mehr's AI-generated singer Nava demonstrates that AI voice technology can carry authentic cultural and political meaning when deployed by artists with genuine intent. The moment reveals a gap between Western AI art discourse and global applications.",
+        "contentSimple": "An artist created an AI singer that became super popular in Iran during protests. It shows that AI can actually help people express themselves and tell important stories, not just be a cool toy.",
+        "content": "The Nava anthem succeeded because it served something bigger than itself. The AI voice was invisible—what mattered was the poetry and the message. This is a different use case from the AI art conversation happening in Western tech circles. Nobody in Iran is debating whether Nava is 'real art' or whether it's conceptually interesting. They're using it because it's a tool for political expression at a moment when that matters. This disconnect—between Western AI art discourse (novelty, philosophical questions about authorship) and global applications (political voice, cultural meaning)—matters. It suggests that AI's most significant cultural impact might happen outside the communities that are theorizing about it.",
+        "keyTakeaways": [
+          "AI voice tools can carry authentic cultural significance when paired with genuine political or artistic intent.",
+          "Western AI art discourse focuses on novelty and authorship; global applications focus on utility and expression.",
+          "The most culturally impactful AI uses may be ones Western AI companies and critics aren't paying attention to."
+        ],
+        "whyItMatters": "This shifts the conversation about AI's cultural role from academic questions to real-world political and social expression.",
+        "sourceUrl": "https://www.theguardian.com/world/2026/mar/15/iranians-embrace-anthem-by-ai-singer-created-by-uk-based-iran-born-artist",
+        "sourceName": "The Guardian",
+        "tags": [
+          "AI culture",
+          "political expression",
+          "voice synthesis",
+          "cultural impact"
+        ],
+        "section": "culture",
+        "people": [
+          "Farbod Mehr"
+        ],
+        "readTime": "3 min",
+        "publishedAt": "2026-03-15",
+        "normalizedTags": [
+          "ai culture",
+          "political expression",
+          "voice synthesis",
+          "cultural impact"
+        ],
+        "imageUrl": "/images/2026-03-15/2026-03-15-culture-AI-020.webp"
       }
     ]
   },
   "quote": {
-    "text": "The best way to predict the future is to invent it.",
-    "author": "Alan Kay",
-    "authorTitle": "Computer Scientist"
+    "text": "The technology is moving faster than the safeguards. We're discovering what happens when broadly deployed systems meet vulnerability in real time, and we're discovering it by body count.",
+    "author": "Legal counsel specializing in AI harm cases",
+    "authorTitle": "AI Safety Advocate"
   },
   "sources": [
-    "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
-    "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/",
-    "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
-    "https://the-decoder.com/rl-agents-go-from-face-planting-to-parkour-when-researchers-keep-adding-network-layers/",
-    "https://the-decoder.com/openclaw-rl-trains-ai-agents-simply-by-talking-converting-every-reply-into-a-training-signal/",
     "https://the-decoder.com/hollywood-copyright-complaints-force-bytedance-to-shelve-global-launch-of-ai-video-generator-seedance-2-0/",
+    "https://the-decoder.com/openclaw-rl-trains-ai-agents-simply-by-talking-converting-every-reply-into-a-training-signal/",
+    "https://www.theverge.com/ai-artificial-intelligence/893931/ai-companies-handshake-improv-actors-training-data",
+    "https://www.theguardian.com/world/2026/mar/15/iranians-embrace-anthem-by-ai-singer-created-by-uk-based-iran-born-artist",
+    "https://the-decoder.com/ai-consultant-uses-chatgpt-alphafold-and-grok-to-find-a-possible-treatment-for-his-dogs-cancer/",
+    "https://www.creativebloq.com/3d/video-game-design/check-out-the-concept-art-for-stunning-unreal-engine-5-horror-game-ritual-tides",
+    "https://the-decoder.com/rl-agents-go-from-face-planting-to-parkour-when-researchers-keep-adding-network-layers/",
     "https://the-decoder.com/codewalls-ai-agent-hacked-an-ai-recruiter-then-impersonated-trump-to-test-its-voice-bots-guardrails/",
-    "https://the-decoder.com/ai-spam-websites-flood-the-web-with-false-information-and-the-number-is-growing-fast/",
-    "https://www.theguardian.com/commentisfree/2026/mar/14/palantir-ai-marco-rubio-afghanistan-katy-perry"
+    "https://www.theguardian.com/technology/2026/mar/15/ai-has-exposed-age-old-problems-with-university-coursework",
+    "https://www.theguardian.com/us-news/ng-interactive/2026/mar/15/ai-defense-warfare-companies",
+    "https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/",
+    "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+    "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/",
+    "https://www.theguardian.com/business/2026/mar/15/ai-future-of-work",
+    "https://www.theguardian.com/business/2026/mar/16/four-day-work-working-week-what-happened"
   ],
-  "generatedAt": "2026-03-15T11:25:16.782Z",
+  "generatedAt": "2026-03-15T23:22:40.971Z",
   "simpleSummaryImageUrl": "/images/2026-03-15/2026-03-15-summary.webp"
 }
