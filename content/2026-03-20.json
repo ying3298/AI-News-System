@@ -2,10 +2,11 @@
   "date": "2026-03-20",
   "dateFormatted": "March 20, 2026",
   "headline": {
-    "title": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
-    "summary": "The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology.",
-    "sourceUrl": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
-    "sourceName": "TechCrunch AI"
+    "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
+    "summary": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps.",
+    "sourceUrl": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
+    "sourceName": "TechCrunch AI",
+    "imageUrl": "/images/2026-03-20/2026-03-20-hero.webp"
   },
   "simpleSummary": [
     "Today's edition was assembled directly from RSS feeds without AI curation.",
@@ -15,200 +16,250 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
-        "summary": "The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology.",
-        "content": "The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology.",
+        "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
+        "summary": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps.",
+        "content": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
+        "sourceUrl": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Thu, 19 Mar 2026 22:09:24 +0000",
+        "publishedAt": "Fri, 20 Mar 2026 20:53:09 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-20/2026-03-20-tools-AI-001.webp"
       },
       {
         "id": "AI-002",
-        "title": "Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
-        "summary": "AI bots may outnumber humans online by 2027, says Cloudflare CEO Matthew Prince, as generative AI agents dramatically increase web traffic and infrastructure demands.",
-        "content": "AI bots may outnumber humans online by 2027, says Cloudflare CEO Matthew Prince, as generative AI agents dramatically increase web traffic and infrastructure demands.",
+        "title": "What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet",
+        "summary": "CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, declaring that every company needs an “OpenClaw strat",
+        "content": "CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing with a rambling Olaf robot that had to get its mic cut. The message was hard to miss: Nvidia […]",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/",
+        "sourceUrl": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Thu, 19 Mar 2026 19:09:02 +0000",
+        "publishedAt": "Fri, 20 Mar 2026 20:02:35 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-20/2026-03-20-tools-AI-002.webp"
       },
       {
         "id": "AI-003",
-        "title": "Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors",
-        "summary": "Meta believes these AI systems can detect more violations with greater accuracy, better prevent scams, respond more quickly to real-world events, and reduce over-enforcement.",
-        "content": "Meta believes these AI systems can detect more violations with greater accuracy, better prevent scams, respond more quickly to real-world events, and reduce over-enforcement.",
+        "title": "Nvidia has an OpenClaw strategy. Do you? ",
+        "summary": "CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, declaring that every company needs an “OpenClaw strat",
+        "content": "CEO Jensen Huang took the stage at Nvidia’s GTC conference this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting $1 trillion in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing with a rambling Olaf robot that had to get its mic cut. The message was hard to miss: Nvidia […]",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/",
+        "sourceUrl": "https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Thu, 19 Mar 2026 17:24:13 +0000",
+        "publishedAt": "Fri, 20 Mar 2026 19:48:38 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-20/2026-03-20-tools-AI-003.webp"
       },
       {
         "id": "AI-004",
-        "title": "DoorDash launches a new ‘Tasks’ app that pays couriers to submit videos to train AI",
-        "summary": "Delivery couriers will be able to earn money by completing activities like filming everyday tasks or recording themselves speaking in another language.",
-        "content": "Delivery couriers will be able to earn money by completing activities like filming everyday tasks or recording themselves speaking in another language.",
+        "title": "WordPress.com now lets AI agents write and publish posts, and more",
+        "summary": "New AI agents on WordPress.com could lower barriers to publishing while increasing machine-generated content across the web.",
+        "content": "New AI agents on WordPress.com could lower barriers to publishing while increasing machine-generated content across the web.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/",
+        "sourceUrl": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Thu, 19 Mar 2026 16:14:00 +0000",
+        "publishedAt": "Fri, 20 Mar 2026 16:43:09 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-20/2026-03-20-tools-AI-004.webp"
       },
       {
         "id": "AI-005",
-        "title": "TechCrunch Startup Battlefield 200 nominations are still open",
-        "summary": "Nominate your startup, or one you know, for TechCrunch Startup Battlefield 200 before May 27. Chance to win $100,000 equity-free funding and VC access.",
-        "content": "Nominate your startup, or one you know, for TechCrunch Startup Battlefield 200 before May 27. Chance to win $100,000 equity-free funding and VC access.",
+        "title": "Trump’s AI framework targets state laws, shifts child safety burden to parents",
+        "summary": "Trump’s AI framework pushes federal preemption of state laws, emphasizes innovation, and shifts responsibility for child safety toward parents while laying out lighter-touch rules for tech companies.",
+        "content": "Trump’s AI framework pushes federal preemption of state laws, emphasizes innovation, and shifts responsibility for child safety toward parents while laying out lighter-touch rules for tech companies.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/19/techcrunch-startup-battlefield-200-nominations-are-still-open/",
+        "sourceUrl": "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Thu, 19 Mar 2026 15:00:00 +0000",
+        "publishedAt": "Fri, 20 Mar 2026 16:14:04 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-20/2026-03-20-tools-AI-005.webp"
       }
     ],
     "creative": [
       {
         "id": "AI-006",
-        "title": "Google gives AI shopping agents cart, catalog, and loyalty features",
-        "summary": "Google has expanded the Universal Commerce Protocol (UCP) with shopping cart, catalog, and identity features to make online shopping easier for AI agents.\nThe article Google gives AI shopping agents cart, catalog, and loyalty features appeared first ",
-        "content": "Google has expanded the Universal Commerce Protocol (UCP) with shopping cart, catalog, and identity features to make online shopping easier for AI agents.\nThe article Google gives AI shopping agents cart, catalog, and loyalty features appeared first on The Decoder.",
+        "title": "OpenAI acquires Astral to bring Python's most popular dev tools into its Codex AI coding platform",
+        "summary": "OpenAI is acquiring Astral, the company behind some of the most widely used Python tools in the world. The deal signals how aggressively AI labs like OpenAI and Anthropic are competing for dominance in AI-powered coding.\nThe article OpenAI acquires A",
+        "content": "OpenAI is acquiring Astral, the company behind some of the most widely used Python tools in the world. The deal signals how aggressively AI labs like OpenAI and Anthropic are competing for dominance in AI-powered coding.\nThe article OpenAI acquires Astral to bring Python's most popular dev tools into its Codex AI coding platform appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/google-gives-ai-shopping-agents-cart-catalog-and-loyalty-features/",
+        "sourceUrl": "https://the-decoder.com/openai-acquires-astral-to-bring-pythons-most-popular-dev-tools-into-its-codex-ai-coding-platform/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Fri, 20 Mar 2026 10:09:50 +0000",
+        "publishedAt": "Fri, 20 Mar 2026 19:32:01 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-20/2026-03-20-creative-AI-006.webp"
       },
       {
         "id": "AI-007",
-        "title": "OpenAI plans to merge ChatGPT, Codex, and Atlas browser into a single desktop superapp",
-        "summary": "OpenAI now believes its strategy of shipping as many products as possible at once left the company exposed. A major strategic shift is supposed to get things back on track.\nThe article OpenAI plans to merge ChatGPT, Codex, and Atlas browser into a si",
-        "content": "OpenAI now believes its strategy of shipping as many products as possible at once left the company exposed. A major strategic shift is supposed to get things back on track.\nThe article OpenAI plans to merge ChatGPT, Codex, and Atlas browser into a single desktop superapp appeared first on The Decoder.",
+        "title": "White House AI plan hands Big Tech the federal preemption it lobbied for",
+        "summary": "The White House wants to make AI regulation a federal matter, stripping states of their ability to set their own rules; exactly what Big Tech has been lobbying for.\nThe article White House AI plan hands Big Tech the federal preemption it lobbied for ",
+        "content": "The White House wants to make AI regulation a federal matter, stripping states of their ability to set their own rules; exactly what Big Tech has been lobbying for.\nThe article White House AI plan hands Big Tech the federal preemption it lobbied for appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/openai-plans-to-merge-chatgpt-codex-and-atlas-browser-into-a-single-desktop-superapp/",
+        "sourceUrl": "https://the-decoder.com/white-house-ai-plan-hands-big-tech-the-federal-preemption-it-lobbied-for/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Fri, 20 Mar 2026 07:35:18 +0000",
+        "publishedAt": "Fri, 20 Mar 2026 19:05:24 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-20/2026-03-20-creative-AI-007.webp"
       },
       {
         "id": "AI-008",
-        "title": "Elevenlabs now lets you sell AI music you don't own",
-        "summary": "Elevenlabs has launched a marketplace for AI-generated music that pays creators when their tracks get downloaded or licensed. But who actually owns the music? A look at the terms of use tells the story: no one, really.\nThe article Elevenlabs now lets",
-        "content": "Elevenlabs has launched a marketplace for AI-generated music that pays creators when their tracks get downloaded or licensed. But who actually owns the music? A look at the terms of use tells the story: no one, really.\nThe article Elevenlabs now lets you sell AI music you don't own appeared first on The Decoder.",
+        "title": "Anthropic turns Claude Code into an always-on AI agent with new channels feature",
+        "summary": "Anthropic's new channels feature for Claude Code lets external events like CI results or chat messages flow directly into an active session, so Claude can keep working without anyone at the terminal.\nThe article Anthropic turns Claude Code into an al",
+        "content": "Anthropic's new channels feature for Claude Code lets external events like CI results or chat messages flow directly into an active session, so Claude can keep working without anyone at the terminal.\nThe article Anthropic turns Claude Code into an always-on AI agent with new channels feature appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/elevenlabs-now-lets-you-sell-ai-music-you-dont-own/",
+        "sourceUrl": "https://the-decoder.com/anthropic-turns-claude-code-into-an-always-on-ai-agent-with-new-channels-feature/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Thu, 19 Mar 2026 19:51:08 +0000",
+        "publishedAt": "Fri, 20 Mar 2026 15:33:28 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-20/2026-03-20-creative-AI-008.webp"
       },
       {
         "id": "AI-009",
-        "title": "Microsoft's superintelligence team ships MAI-Image-2, a text-to-image generator",
-        "summary": "Microsoft's superintelligence team has unveiled its first product: MAI-Image-2, an image generator rolling out across Microsoft's products and eventually available via API.\nThe article Microsoft's superintelligence team ships MAI-Image-2, a text-to-i",
-        "content": "Microsoft's superintelligence team has unveiled its first product: MAI-Image-2, an image generator rolling out across Microsoft's products and eventually available via API.\nThe article Microsoft's superintelligence team ships MAI-Image-2, a text-to-image generator appeared first on The Decoder.",
+        "title": "Adobe Firefly now bundles 30+ AI models and lets users train custom styles on their own images",
+        "summary": "Adobe is expanding its AI creative platform, Firefly, to include user-defined models that can be trained on your own images. The company is also bundling over 30 AI models from different providers in a single environment.\nThe article Adobe Firefly no",
+        "content": "Adobe is expanding its AI creative platform, Firefly, to include user-defined models that can be trained on your own images. The company is also bundling over 30 AI models from different providers in a single environment.\nThe article Adobe Firefly now bundles 30+ AI models and lets users train custom styles on their own images appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/microsofts-superintelligence-team-ships-mai-image-2-a-text-to-image-generator/",
+        "sourceUrl": "https://the-decoder.com/adobe-firefly-now-bundles-30-ai-models-and-lets-users-train-custom-styles-on-their-own-images/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Thu, 19 Mar 2026 19:16:55 +0000",
+        "publishedAt": "Fri, 20 Mar 2026 15:15:15 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-20/2026-03-20-creative-AI-009.webp"
       },
       {
         "id": "AI-010",
-        "title": "Google AI Studio now lets you vibe code real-time multiplayer games",
-        "summary": "Google AI Studio can now build full apps from voice commands, complete with databases, payments, and user logins.\nThe article Google AI Studio now lets you vibe code real-time multiplayer games appeared first on The Decoder.",
-        "content": "Google AI Studio can now build full apps from voice commands, complete with databases, payments, and user logins.\nThe article Google AI Studio now lets you vibe code real-time multiplayer games appeared first on The Decoder.",
+        "title": "Google pulls back on browser AI as the industry bets on coding tools",
+        "summary": "Browser agents are losing the battle against coding agents - and Google is drawing the consequences.\nThe article Google pulls back on browser AI as the industry bets on coding tools appeared first on The Decoder.",
+        "content": "Browser agents are losing the battle against coding agents - and Google is drawing the consequences.\nThe article Google pulls back on browser AI as the industry bets on coding tools appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/google-ai-studio-now-lets-you-vibe-code-real-time-multiplayer-games/",
+        "sourceUrl": "https://the-decoder.com/google-pulls-back-on-browser-ai-as-the-industry-bets-on-coding-tools/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Thu, 19 Mar 2026 18:43:44 +0000",
+        "publishedAt": "Fri, 20 Mar 2026 12:55:06 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-20/2026-03-20-creative-AI-010.webp"
       }
     ],
     "research": [
       {
         "id": "AI-011",
+        "title": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI is throwing everything into building a fully automated researcher  OpenAI has a new grand challenge: buil",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI is throwing everything into building a fully automated researcher  OpenAI has a new grand challenge: building an AI researcher—a fully automated agent-based system capable of tackling large, complex problems by…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 20 Mar 2026 13:15:45 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ],
+        "imageUrl": "/images/2026-03-20/2026-03-20-research-AI-011.webp"
+      },
+      {
+        "id": "AI-012",
+        "title": "OpenAI is throwing everything into building a fully automated researcher",
+        "summary": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated agent-based system that will be able to go off an",
+        "content": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated agent-based system that will be able to go off and tackle large, complex problems by itself. ​​OpenAI says that this new…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 20 Mar 2026 11:57:16 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ],
+        "imageUrl": "/images/2026-03-20/2026-03-20-research-AI-012.webp"
+      },
+      {
+        "id": "AI-013",
         "title": "Mind-altering substances are (still) falling short in clinical trials",
         "summary": "This week I want to look at where we are with psychedelics, the mind-altering substances that have somehow made the leap from counterculture to major focus of clinical research. Compounds like psilocybin—which is found in magic mushrooms—are being ex",
         "content": "This week I want to look at where we are with psychedelics, the mind-altering substances that have somehow made the leap from counterculture to major focus of clinical research. Compounds like psilocybin—which is found in magic mushrooms—are being explored for all sorts of health applications, including treatments for depression, PTSD, addiction, and even obesity. Over…",
@@ -224,29 +275,11 @@
         "publishedAt": "Fri, 20 Mar 2026 09:00:00 +0000",
         "normalizedTags": [
           "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-012",
-        "title": "The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A $5 million prize awaits proof that quantum computers can solve health care problems  In a laboratory on the ou",
-        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A $5 million prize awaits proof that quantum computers can solve health care problems  In a laboratory on the outskirts of Oxford, a quantum computer built from atoms and light awaits…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
         ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 19 Mar 2026 12:17:02 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
+        "imageUrl": "/images/2026-03-20/2026-03-20-research-AI-013.webp"
       },
       {
-        "id": "AI-013",
+        "id": "AI-014",
         "title": "DEAF: A Benchmark for Diagnostic Evaluation of Acoustic Faithfulness in Audio Language Models",
         "summary": "arXiv:2603.18048v1 Announce Type: new \nAbstract: Recent Audio Multimodal Large Language Models (Audio MLLMs) demonstrate impressive performance on speech benchmarks, yet it remains unclear whether these models genuinely process acoustic signals or re",
         "content": "arXiv:2603.18048v1 Announce Type: new \nAbstract: Recent Audio Multimodal Large Language Models (Audio MLLMs) demonstrate impressive performance on speech benchmarks, yet it remains unclear whether these models genuinely process acoustic signals or rely on text-based semantic inference. To systematically study this question, we introduce DEAF (Diagnostic Evaluation of Acoustic Faithfulness), a benchmark of over 2,700 conflict stimuli spanning three acoustic dimensions: emotional prosody, backgrou",
@@ -262,10 +295,11 @@
         "publishedAt": "Fri, 20 Mar 2026 00:00:00 -0400",
         "normalizedTags": [
           "arxiv cs.ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-20/2026-03-20-research-AI-014.webp"
       },
       {
-        "id": "AI-014",
+        "id": "AI-015",
         "title": "Continually self-improving AI",
         "summary": "arXiv:2603.18073v1 Announce Type: new \nAbstract: Modern language model-based AI systems are remarkably powerful, yet their capabilities remain fundamentally capped by their human creators in three key ways. First, although a model's weights can be up",
         "content": "arXiv:2603.18073v1 Announce Type: new \nAbstract: Modern language model-based AI systems are remarkably powerful, yet their capabilities remain fundamentally capped by their human creators in three key ways. First, although a model's weights can be updated via fine-tuning, acquiring new knowledge from small, specialized corpora after pretraining remains highly data-inefficient. Second, the training of these systems relies heavily on finite, human-generated data from across history. Third, the pip",
@@ -281,167 +315,176 @@
         "publishedAt": "Fri, 20 Mar 2026 00:00:00 -0400",
         "normalizedTags": [
           "arxiv cs.ai"
-        ]
-      },
-      {
-        "id": "AI-015",
-        "title": "Multi-Trait Subspace Steering to Reveal the Dark Side of Human-AI Interaction",
-        "summary": "arXiv:2603.18085v1 Announce Type: new \nAbstract: Recent incidents have highlighted alarming cases where human-AI interactions led to negative psychological outcomes, including mental health crises and even user harm. As LLMs serve as sources of guida",
-        "content": "arXiv:2603.18085v1 Announce Type: new \nAbstract: Recent incidents have highlighted alarming cases where human-AI interactions led to negative psychological outcomes, including mental health crises and even user harm. As LLMs serve as sources of guidance, emotional support, and even informal therapy, these risks are poised to escalate. However, studying the mechanisms underlying harmful human-AI interactions presents significant methodological challenges, where organic harmful interactions typica",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://arxiv.org/abs/2603.18085",
-        "sourceName": "ArXiv CS.AI",
-        "tags": [
-          "ArXiv CS.AI"
         ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 20 Mar 2026 00:00:00 -0400",
-        "normalizedTags": [
-          "arxiv cs.ai"
-        ]
+        "imageUrl": "/images/2026-03-20/2026-03-20-research-AI-015.webp"
       }
     ],
     "applications": [],
     "business": [
       {
         "id": "AI-016",
-        "title": "Who's most optimistic about AI — and who isn't, according to Anthropic",
-        "summary": "Economic gains are people's main aspirations for AI, but analysts warned that not everyone stands to benefit equally.",
-        "content": "Economic gains are people's main aspirations for AI, but analysts warned that not everyone stands to benefit equally.",
+        "title": "Elon Musk misled Twitter investors ahead of $44 billion acquisition, jury says",
+        "summary": "Elon Musk was sued in late 2022 after completing his acquisition of Twitter, which he later renamed X.",
+        "content": "Elon Musk was sued in late 2022 after completing his acquisition of Twitter, which he later renamed X.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/20/anthropic-whos-most-optimistic-about-ai-and-who-isnt.html",
+        "sourceUrl": "https://www.cnbc.com/2026/03/20/elon-musk-determined-to-be-liable-for-misleading-twitter-investors.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Fri, 20 Mar 2026 10:15:00 GMT",
+        "publishedAt": "Fri, 20 Mar 2026 22:31:41 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-20/2026-03-20-business-AI-016.webp"
       },
       {
         "id": "AI-017",
-        "title": "Nvidia's Huang pitches AI tokens on top of salary as agents reshape how humans work",
-        "summary": "Most enterprise AI projects have failed since 2018, a sobering track record for an industry awash in enthusiasm.",
-        "content": "Most enterprise AI projects have failed since 2018, a sobering track record for an industry awash in enthusiasm.",
+        "title": "ChatGPT's ad pilot has the industry excited, but some insiders are frustrated with the slow rollout",
+        "summary": "AI search ads are seen as having massive potential by ad industry insiders and analysts, but OpenAI rival Anthropic has pledged to not have them.",
+        "content": "AI search ads are seen as having massive potential by ad industry insiders and analysts, but OpenAI rival Anthropic has pledged to not have them.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/20/nvidia-ai-agents-tokens-human-workers-engineer-jobs-unemployment-jensen-huang.html",
+        "sourceUrl": "https://www.cnbc.com/2026/03/20/chatgpt-ads-testing-openai.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Fri, 20 Mar 2026 07:57:45 GMT",
+        "publishedAt": "Fri, 20 Mar 2026 21:30:35 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-20/2026-03-20-business-AI-017.webp"
       },
       {
         "id": "AI-018",
-        "title": "Alibaba workforce shrinks 34% in 2025 as Chinese tech giant doubles down on AI",
-        "summary": "Alibaba cut its staff by roughly 34% over the course of 2025, as the company disposed of peripheral holdings to focus on its AI business.",
-        "content": "Alibaba cut its staff by roughly 34% over the course of 2025, as the company disposed of peripheral holdings to focus on its AI business.",
+        "title": "Super Micro co-founder indicted on Nvidia smuggling charges leaves board",
+        "summary": "Super Micro said Yih-Shyan \"Wally\" Liaw, a co-founder, has resigned from the server maker's board after he was indicted in the U.S.",
+        "content": "Super Micro said Yih-Shyan \"Wally\" Liaw, a co-founder, has resigned from the server maker's board after he was indicted in the U.S.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/20/alibaba-headcount-falls-ai-push-sun-art-intime-sales.html",
+        "sourceUrl": "https://www.cnbc.com/2026/03/20/super-micro-co-founder-leaves-board.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Fri, 20 Mar 2026 06:13:58 GMT",
+        "publishedAt": "Fri, 20 Mar 2026 22:52:55 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-20/2026-03-20-business-AI-018.webp"
       },
       {
         "id": "AI-019",
-        "title": "OpenAI to create desktop super app, combining ChatGPT app, browser and Codex app",
-        "summary": "The new unified app aims to help OpenAI streamline the user experience.",
-        "content": "The new unified app aims to help OpenAI streamline the user experience.",
+        "title": "Memory crisis latest: What we learned from the world's top producers this week",
+        "summary": "Parts of the market are asking if we're already nearing peak tightness and margins in the memory chip space as the shortage persists.",
+        "content": "Parts of the market are asking if we're already nearing peak tightness and margins in the memory chip space as the shortage persists.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/19/openai-desktop-super-app-chatgpt-browser-codex.html",
+        "sourceUrl": "https://www.cnbc.com/2026/03/20/memory-crisis-latest-dram-chips-micron-samsung-sk-hynix.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Fri, 20 Mar 2026 00:29:36 GMT",
+        "publishedAt": "Fri, 20 Mar 2026 20:15:14 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-20/2026-03-20-business-AI-019.webp"
       },
       {
         "id": "AI-020",
-        "title": "Apollo's Sambur says software's AI troubles will persist, noting the 'very large unknowns'",
-        "summary": "While Wall Street may be encouraged by the recent rebound in the IGV Software ETF, Apollo's Sambur believe the story will get worse.",
-        "content": "While Wall Street may be encouraged by the recent rebound in the IGV Software ETF, Apollo's Sambur believe the story will get worse.",
+        "title": "OpenAI's first crack at online shopping stumbled. It's preparing for the next wave",
+        "summary": "Etsy, Walmart and Shopify were quick to jump into Instant Checkout, but item information was often inaccurate and onboarding merchants was difficult.",
+        "content": "Etsy, Walmart and Shopify were quick to jump into Instant Checkout, but item information was often inaccurate and onboarding merchants was difficult.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/19/apollo-global-sambur-software-ai-selloff.html",
+        "sourceUrl": "https://www.cnbc.com/2026/03/20/open-ai-agentic-shopping-etsy-shopify-walmart-amazon.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Fri, 20 Mar 2026 03:24:57 GMT",
+        "publishedAt": "Fri, 20 Mar 2026 19:00:48 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-20/2026-03-20-business-AI-020.webp"
       }
     ],
     "policy": [
       {
         "id": "AI-021",
-        "title": "The Long Farewell to Mark Zuckerberg’s Metaverse",
-        "summary": "Meta announced changes that effectively leave Mr. Zuckerberg’s vision of an immersive digital world based in virtual reality only on life support.",
-        "content": "Meta announced changes that effectively leave Mr. Zuckerberg’s vision of an immersive digital world based in virtual reality only on life support.",
+        "title": "More! More! More! Tech Workers Max Out Their A.I. Use.",
+        "summary": "At a number of companies, employees compete on leaderboards to show how much A.I. they’re using. They’re racking up big bills along the way.",
+        "content": "At a number of companies, employees compete on leaderboards to show how much A.I. they’re using. They’re racking up big bills along the way.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/03/19/technology/mark-zuckerbergs-metaverse-vr-horizon-worlds.html",
+        "sourceUrl": "https://www.nytimes.com/2026/03/20/technology/tokenmaxxing-ai-agents.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Thu, 19 Mar 2026 15:29:45 +0000",
+        "publishedAt": "Fri, 20 Mar 2026 18:06:03 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-20/2026-03-20-policy-AI-021.webp"
       },
       {
         "id": "AI-022",
-        "title": "A.I. Bots Can Act as Personal Digital Assistants, but There Are Serious Risks",
-        "summary": "New A.I. bots can do more than just chat. They can edit files, send emails, book trips and cause trouble.",
-        "content": "New A.I. bots can do more than just chat. They can edit files, send emails, book trips and cause trouble.",
+        "title": "Polymarket Says It Deals in Truth, but Its Social Feeds Are Filled With Falsehoods",
+        "summary": "A review of the betting market’s social media feeds found it has published hundreds of false and misleading posts.",
+        "content": "A review of the betting market’s social media feeds found it has published hundreds of false and misleading posts.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/03/19/technology/ai-agents-uses.html",
+        "sourceUrl": "https://www.nytimes.com/2026/03/20/technology/polymarket-social-feeds-falsehoods.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Thu, 19 Mar 2026 18:22:32 +0000",
+        "publishedAt": "Fri, 20 Mar 2026 18:06:09 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-20/2026-03-20-policy-AI-022.webp"
       },
       {
         "id": "AI-023",
+        "title": "White House Unveils A.I. Policy Aimed at Blocking State Laws",
+        "summary": "The Trump administration on Friday released new guidelines for federal legislation on the technology, recommending some safeguards for children and consumer protections for energy costs.",
+        "content": "The Trump administration on Friday released new guidelines for federal legislation on the technology, recommending some safeguards for children and consumer protections for energy costs.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/03/20/us/politics/white-house-unveils-ai-policy-aimed-at-blocking-state-laws.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 20 Mar 2026 16:52:19 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-03-20/2026-03-20-policy-AI-023.webp"
+      },
+      {
+        "id": "AI-024",
         "title": "‘A.I.-Washing’ Layoffs? + Why L.L.M.s Can’t Write Well + Tokenmaxxing",
         "summary": "Companies are using A.I. as a reason for layoffs, but the truth may be more complex.",
         "content": "Companies are using A.I. as a reason for layoffs, but the truth may be more complex.",
@@ -454,73 +497,97 @@
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Fri, 20 Mar 2026 11:00:02 +0000",
+        "publishedAt": "Fri, 20 Mar 2026 11:00:03 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-024",
-        "title": "U.S. Says 3 Tied to Silicon Valley Server Maker Broke Export Laws",
-        "summary": "Prosecutors said the men, including a co-founder of the company, Super Micro, had diverted servers containing Nvidia A.I. chips to China.",
-        "content": "Prosecutors said the men, including a co-founder of the company, Super Micro, had diverted servers containing Nvidia A.I. chips to China.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/03/19/technology/super-micro-servers-china-indicted.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
         ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 20 Mar 2026 00:50:37 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
+        "imageUrl": "/images/2026-03-20/2026-03-20-policy-AI-024.webp"
       },
       {
         "id": "AI-025",
-        "title": "Jeff Bezos in Talks to Raise $100 Billion Fund to Transform Companies With A.I.",
-        "summary": "The new fund would operate alongside the Amazon founder’s A.I. start-up, Project Prometheus.",
-        "content": "The new fund would operate alongside the Amazon founder’s A.I. start-up, Project Prometheus.",
+        "title": "Elon Musk Is Responsible for Some Twitter Investor Losses, Jury Finds",
+        "summary": "The verdict was a rare loss for Mr. Musk, who investors claimed had tried to drive down the share price of the social media company, now called X, to renegotiate his $44 billion offer.",
+        "content": "The verdict was a rare loss for Mr. Musk, who investors claimed had tried to drive down the share price of the social media company, now called X, to renegotiate his $44 billion offer.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/03/19/technology/jeff-bezos-ai-fund-project-prometheus.html",
+        "sourceUrl": "https://www.nytimes.com/2026/03/20/technology/elon-musk-twitter-shareholders-verdict.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Thu, 19 Mar 2026 23:48:08 +0000",
+        "publishedAt": "Fri, 20 Mar 2026 23:16:50 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-20/2026-03-20-policy-AI-025.webp"
       }
     ],
     "concerns": [],
     "culture": [
       {
         "id": "AI-026",
-        "title": "Meta AI agent’s instruction causes large sensitive data leak to employees",
-        "summary": "Artificial intelligence agent instructed engineer to take actions that exposed user and company data internally\nAn AI agent instructed an engineer to take actions that exposed a large amount of Meta’s sensitive data to some of its employees, in the l",
-        "content": "Artificial intelligence agent instructed engineer to take actions that exposed user and company data internally\nAn AI agent instructed an engineer to take actions that exposed a large amount of Meta’s sensitive data to some of its employees, in the latest example of AI causing upheaval in a large tech company.\nThe leak, which Meta confirmed, happened when an employee asked for guidance on an engineering problem on an internal forum. An AI agent responded with a solution, which the employee imple",
+        "title": "Senior European journalist suspended over AI-generated quotes",
+        "summary": "Mediahuis suspends Peter Vandermeersch, who says he ‘fell into trap of hallucinations’, after investigation by newspaper where he was once editor-in-chief\nThe publisher of the Dutch newspaper De Telegraaf and the Irish Independent has suspended one o",
+        "content": "Mediahuis suspends Peter Vandermeersch, who says he ‘fell into trap of hallucinations’, after investigation by newspaper where he was once editor-in-chief\nThe publisher of the Dutch newspaper De Telegraaf and the Irish Independent has suspended one of its senior journalists after he admitted using AI to “wrongly put words into people’s mouths”.\nPeter Vandermeersch, the former head of the Irish operations at Mediahuis, said he “fell into the trap of hallucinations” – the term for AI-generated err",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/mar/20/meta-ai-agents-instruction-causes-large-sensitive-data-leak-to-employees",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Fri, 20 Mar 2026 06:00:13 GMT",
+        "publishedAt": "Fri, 20 Mar 2026 16:13:08 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-20/2026-03-20-culture-AI-026.webp"
       },
       {
         "id": "AI-027",
+        "title": "Hachette pulls horror novel Shy Girl after suspected AI use",
+        "summary": "The publisher has cancelled the US release of Shy Girl by Mia Ballard and withdrawn the UK edition after weeks of online speculation about the novel’s origins\nHachette Book Group has withdrawn a horror novel after allegations circulated online that i",
+        "content": "The publisher has cancelled the US release of Shy Girl by Mia Ballard and withdrawn the UK edition after weeks of online speculation about the novel’s origins\nHachette Book Group has withdrawn a horror novel after allegations circulated online that its author relied heavily on artificial intelligence. The book is to be discontinued in the UK after being published in November 2025, and its US launch date has been cancelled.\nThe book, Shy Girl by Mia Ballard, had been scheduled for release in the ",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/books/2026/mar/20/hachette-horror-novel-shy-girl-suspected-ai-use-mia-ballard",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 20 Mar 2026 17:14:52 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-03-20/2026-03-20-culture-AI-027.webp"
+      },
+      {
+        "id": "AI-028",
+        "title": "First came the AI ‘teammates’, then the layoffs: the new reality for Atlassian staff now looking for work",
+        "summary": "‘These AI agents have been really, really helpful,’ says a former Sydney employee. ‘But you couldn’t use something like that to replace an actual human worker’\n\nGet our breaking news email, free app or daily news podcast\n\nSacked from his “dream job” ",
+        "content": "‘These AI agents have been really, really helpful,’ says a former Sydney employee. ‘But you couldn’t use something like that to replace an actual human worker’\n\nGet our breaking news email, free app or daily news podcast\n\nSacked from his “dream job” at software giant Atlassian, Rubio* wants just one thing – closure.\n“We were probably exceeding expectations and there’s no explanation from the company as a whole as to why any of this happened,” he says.\n Continue reading...",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/mar/21/atlassian-cuts-layoffs-staff-now-looking-for-work-ai",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 20 Mar 2026 14:00:27 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-03-20/2026-03-20-culture-AI-028.webp"
+      },
+      {
+        "id": "AI-029",
         "title": "Essex police pause facial recognition camera use after study finds racial bias",
         "summary": "Academics discover black people ‘significantly more likely’ to be identified when compared with other ethnic groups\nEssex police have paused the use of live facial recognition (LFR) technology after a study found cameras were significantly more likel",
         "content": "Academics discover black people ‘significantly more likely’ to be identified when compared with other ethnic groups\nEssex police have paused the use of live facial recognition (LFR) technology after a study found cameras were significantly more likely to target black people than people of other ethnicities.\nThe move to suspend use of the AI-enabled systems was revealed by the Information Commissioner’s Office (ICO), which regulates the use of the technology deployed so far by at least 13 police ",
@@ -536,64 +603,28 @@
         "publishedAt": "Fri, 20 Mar 2026 10:52:18 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-028",
-        "title": "Lack of funding is stifling scientific research | Letter",
-        "summary": "Dr Simon Williams says the UK is trying to build a quantum ecosystem while hollowing out the academic pipeline that produces the talent\nLiz Kendall is right to warn that the UK must not let quantum computing talent slip through its fingers (UK must l",
-        "content": "Dr Simon Williams says the UK is trying to build a quantum ecosystem while hollowing out the academic pipeline that produces the talent\nLiz Kendall is right to warn that the UK must not let quantum computing talent slip through its fingers (UK must learn lessons from AI race and retain its quantum computing talent, says minister, 17 March).\nHowever, UK Research and Innovation’s current funding decisions risk doing exactly that.\n Continue reading...",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/mar/19/lack-of-funding-is-stifling-scientific-research",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
         ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 19 Mar 2026 18:04:58 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-029",
-        "title": "I asked AI to explain my mother to me. It translated her worldview",
-        "summary": "A chatbot won’t fix your family drama, but it might help you hear what someone’s really trying to say\n\nSign up for AI for the People, a six-week newsletter course, here\n\nLast autumn, I was pacing my living room with my phone on speaker, trapped insid",
-        "content": "A chatbot won’t fix your family drama, but it might help you hear what someone’s really trying to say\n\nSign up for AI for the People, a six-week newsletter course, here\n\nLast autumn, I was pacing my living room with my phone on speaker, trapped inside one of those looping conversations with my mother, the kind that starts politely and ends in static.\nWe were talking about land and legacy – what gets passed down, and what doesn’t – that familiar terrain where ideals and inheritance collide.\n Cont",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/19/i-asked-ai-to-explain-my-mother-to-me",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 19 Mar 2026 16:00:53 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
+        "imageUrl": "/images/2026-03-20/2026-03-20-culture-AI-029.webp"
       },
       {
         "id": "AI-030",
-        "title": "Prolonged high oil prices could ‘crimp’ AI boom, WTO warns",
-        "summary": "Iran war and its impact on energy and fertiliser costs is the main risk to the global economy, report says\n\nBusiness live – latest updates\n\nAn extended period of high oil prices as a result of war in the Middle East could “crimp” the AI boom, the Wor",
-        "content": "Iran war and its impact on energy and fertiliser costs is the main risk to the global economy, report says\n\nBusiness live – latest updates\n\nAn extended period of high oil prices as a result of war in the Middle East could “crimp” the AI boom, the World Trade Organization’s chief economist has warned.\nThe war and its impact on energy and fertiliser costs is the main risk to the global economy identified in the WTO’s latest Global Trade Outlook.\n Continue reading...",
+        "title": "Meta AI agent’s instruction causes large sensitive data leak to employees",
+        "summary": "Artificial intelligence agent instructed engineer to take actions that exposed user and company data internally\nAn AI agent instructed an engineer to take actions that exposed a large amount of Meta’s sensitive data to some of its employees, in the l",
+        "content": "Artificial intelligence agent instructed engineer to take actions that exposed user and company data internally\nAn AI agent instructed an engineer to take actions that exposed a large amount of Meta’s sensitive data to some of its employees, in the latest example of AI causing upheaval in a large tech company.\nThe leak, which Meta confirmed, happened when an employee asked for guidance on an engineering problem on an internal forum. An AI agent responded with a solution, which the employee imple",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/business/2026/mar/19/oil-prices-ai-boom-wto-iran-war-energy-global-economy",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/mar/20/meta-ai-agents-instruction-causes-large-sensitive-data-leak-to-employees",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Thu, 19 Mar 2026 14:00:51 GMT",
+        "publishedAt": "Fri, 20 Mar 2026 06:00:13 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-20/2026-03-20-culture-AI-030.webp"
       }
     ]
   },
@@ -603,36 +634,37 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
-    "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/",
-    "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/",
-    "https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/",
-    "https://techcrunch.com/2026/03/19/techcrunch-startup-battlefield-200-nominations-are-still-open/",
-    "https://the-decoder.com/google-gives-ai-shopping-agents-cart-catalog-and-loyalty-features/",
-    "https://the-decoder.com/openai-plans-to-merge-chatgpt-codex-and-atlas-browser-into-a-single-desktop-superapp/",
-    "https://the-decoder.com/elevenlabs-now-lets-you-sell-ai-music-you-dont-own/",
-    "https://the-decoder.com/microsofts-superintelligence-team-ships-mai-image-2-a-text-to-image-generator/",
-    "https://the-decoder.com/google-ai-studio-now-lets-you-vibe-code-real-time-multiplayer-games/",
+    "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
+    "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/",
+    "https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/",
+    "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
+    "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/",
+    "https://the-decoder.com/openai-acquires-astral-to-bring-pythons-most-popular-dev-tools-into-its-codex-ai-coding-platform/",
+    "https://the-decoder.com/white-house-ai-plan-hands-big-tech-the-federal-preemption-it-lobbied-for/",
+    "https://the-decoder.com/anthropic-turns-claude-code-into-an-always-on-ai-agent-with-new-channels-feature/",
+    "https://the-decoder.com/adobe-firefly-now-bundles-30-ai-models-and-lets-users-train-custom-styles-on-their-own-images/",
+    "https://the-decoder.com/google-pulls-back-on-browser-ai-as-the-industry-bets-on-coding-tools/",
+    "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/",
+    "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
     "https://www.technologyreview.com/2026/03/20/1134419/psychedelics-overhyped-psilocybin-depression-placebo/",
-    "https://www.technologyreview.com/2026/03/19/1134413/the-download-quantum-computing-health-recycling-nuclear-waste/",
     "https://arxiv.org/abs/2603.18048",
     "https://arxiv.org/abs/2603.18073",
-    "https://arxiv.org/abs/2603.18085",
-    "https://www.cnbc.com/2026/03/20/anthropic-whos-most-optimistic-about-ai-and-who-isnt.html",
-    "https://www.cnbc.com/2026/03/20/nvidia-ai-agents-tokens-human-workers-engineer-jobs-unemployment-jensen-huang.html",
-    "https://www.cnbc.com/2026/03/20/alibaba-headcount-falls-ai-push-sun-art-intime-sales.html",
-    "https://www.cnbc.com/2026/03/19/openai-desktop-super-app-chatgpt-browser-codex.html",
-    "https://www.cnbc.com/2026/03/19/apollo-global-sambur-software-ai-selloff.html",
-    "https://www.nytimes.com/2026/03/19/technology/mark-zuckerbergs-metaverse-vr-horizon-worlds.html",
-    "https://www.nytimes.com/2026/03/19/technology/ai-agents-uses.html",
+    "https://www.cnbc.com/2026/03/20/elon-musk-determined-to-be-liable-for-misleading-twitter-investors.html",
+    "https://www.cnbc.com/2026/03/20/chatgpt-ads-testing-openai.html",
+    "https://www.cnbc.com/2026/03/20/super-micro-co-founder-leaves-board.html",
+    "https://www.cnbc.com/2026/03/20/memory-crisis-latest-dram-chips-micron-samsung-sk-hynix.html",
+    "https://www.cnbc.com/2026/03/20/open-ai-agentic-shopping-etsy-shopify-walmart-amazon.html",
+    "https://www.nytimes.com/2026/03/20/technology/tokenmaxxing-ai-agents.html",
+    "https://www.nytimes.com/2026/03/20/technology/polymarket-social-feeds-falsehoods.html",
+    "https://www.nytimes.com/2026/03/20/us/politics/white-house-unveils-ai-policy-aimed-at-blocking-state-laws.html",
     "https://www.nytimes.com/2026/03/20/podcasts/hardfork-ai-washing-tokenmaxxing.html",
-    "https://www.nytimes.com/2026/03/19/technology/super-micro-servers-china-indicted.html",
-    "https://www.nytimes.com/2026/03/19/technology/jeff-bezos-ai-fund-project-prometheus.html",
-    "https://www.theguardian.com/technology/2026/mar/20/meta-ai-agents-instruction-causes-large-sensitive-data-leak-to-employees",
+    "https://www.nytimes.com/2026/03/20/technology/elon-musk-twitter-shareholders-verdict.html",
+    "https://www.theguardian.com/technology/2026/mar/20/mediahuis-suspends-senior-journalist-over-ai-generated-quotes",
+    "https://www.theguardian.com/books/2026/mar/20/hachette-horror-novel-shy-girl-suspected-ai-use-mia-ballard",
+    "https://www.theguardian.com/technology/2026/mar/21/atlassian-cuts-layoffs-staff-now-looking-for-work-ai",
     "https://www.theguardian.com/technology/2026/mar/19/essex-police-pause-facial-recognition-camera-use-study-racial-bias",
-    "https://www.theguardian.com/technology/2026/mar/19/lack-of-funding-is-stifling-scientific-research",
-    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/19/i-asked-ai-to-explain-my-mother-to-me",
-    "https://www.theguardian.com/business/2026/mar/19/oil-prices-ai-boom-wto-iran-war-energy-global-economy"
+    "https://www.theguardian.com/technology/2026/mar/20/meta-ai-agents-instruction-causes-large-sensitive-data-leak-to-employees"
   ],
-  "generatedAt": "2026-03-20T11:31:02.685Z"
+  "generatedAt": "2026-03-20T23:22:37.894Z",
+  "simpleSummaryImageUrl": "/images/2026-03-20/2026-03-20-summary.webp"
 }
