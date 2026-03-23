@@ -2,10 +2,11 @@
   "date": "2026-03-23",
   "dateFormatted": "March 23, 2026",
   "headline": {
-    "title": "Do you want to build a robot snowman?",
-    "summary": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang’s GTC keynote and debated what it means for Nvidia’s future.",
-    "sourceUrl": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
-    "sourceName": "TechCrunch AI"
+    "title": "Bernie Sanders’ AI ‘gotcha’ video flops, but the memes are great",
+    "summary": "Sen. Bernie Sanders thinks he's tricked Claude into revealing the AI industry's secrets, but he really just exposed how agreeable chatbots can become.",
+    "sourceUrl": "https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/",
+    "sourceName": "TechCrunch AI",
+    "imageUrl": "/images/2026-03-23/2026-03-23-hero.webp"
   },
   "simpleSummary": [
     "Today's edition was assembled directly from RSS feeds without AI curation.",
@@ -15,200 +16,250 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "Do you want to build a robot snowman?",
-        "summary": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang’s GTC keynote and debated what it means for Nvidia’s future.",
-        "content": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang’s GTC keynote and debated what it means for Nvidia’s future.",
+        "title": "Bernie Sanders’ AI ‘gotcha’ video flops, but the memes are great",
+        "summary": "Sen. Bernie Sanders thinks he's tricked Claude into revealing the AI industry's secrets, but he really just exposed how agreeable chatbots can become.",
+        "content": "Sen. Bernie Sanders thinks he's tricked Claude into revealing the AI industry's secrets, but he really just exposed how agreeable chatbots can become.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
+        "sourceUrl": "https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Sun, 22 Mar 2026 19:45:07 +0000",
+        "publishedAt": "Mon, 23 Mar 2026 20:15:59 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-23/2026-03-23-tools-AI-001.webp"
       },
       {
         "id": "AI-002",
-        "title": "Cursor admits its new coding model was built on top of Moonshot AI’s Kimi",
-        "summary": "Building on top of a Chinese model feels particularly fraught right now.",
-        "content": "Building on top of a Chinese model feels particularly fraught right now.",
+        "title": "Vibe-coding startup Lovable is on the hunt for acquisitions",
+        "summary": "Lovable's founder said the fast-growing vibe-coding startup is looking for startups and teams to join its company.",
+        "content": "Lovable's founder said the fast-growing vibe-coding startup is looking for startups and teams to join its company.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
+        "sourceUrl": "https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Sun, 22 Mar 2026 18:41:09 +0000",
+        "publishedAt": "Mon, 23 Mar 2026 18:22:04 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-23/2026-03-23-tools-AI-002.webp"
       },
       {
         "id": "AI-003",
-        "title": "Elon Musk unveils chip manufacturing plans for SpaceX and Tesla",
-        "summary": "Elon Musk recently outlined ambitious plans for a chip-building collaboration Tesla and SpaceX — but he has a history of overpromising.",
-        "content": "Elon Musk recently outlined ambitious plans for a chip-building collaboration Tesla and SpaceX — but he has a history of overpromising.",
+        "title": "Apple sets June date for WWDC 2026, teasing ‘AI advancements’",
+        "summary": "Apple will host its next Worldwide Developers Conference the week of June 8. The company is expected to announce major updates to Siri with advanced AI capabilities.",
+        "content": "Apple will host its next Worldwide Developers Conference the week of June 8. The company is expected to announce major updates to Siri with advanced AI capabilities.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
+        "sourceUrl": "https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Sun, 22 Mar 2026 16:20:00 +0000",
+        "publishedAt": "Mon, 23 Mar 2026 18:00:45 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-23/2026-03-23-tools-AI-003.webp"
       },
       {
         "id": "AI-004",
-        "title": "Delve accused of misleading customers with ‘fake compliance’",
-        "summary": "An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations.",
-        "content": "An anonymous Substack post accuses compliance startup Delve of “falsely” convincing “hundreds of customers they were compliant” with privacy and security regulations.",
+        "title": "Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way",
+        "summary": "Gimlet Labs just raised an $80 million Series A for tech that lets AI run across NVIDIA, AMD, Intel, ARM, Cerebras and d-Matrix chips, simultaneously.",
+        "content": "Gimlet Labs just raised an $80 million Series A for tech that lets AI run across NVIDIA, AMD, Intel, ARM, Cerebras and d-Matrix chips, simultaneously.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/",
+        "sourceUrl": "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Sun, 22 Mar 2026 14:43:51 +0000",
+        "publishedAt": "Mon, 23 Mar 2026 16:00:00 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-23/2026-03-23-tools-AI-004.webp"
       },
       {
         "id": "AI-005",
-        "title": "An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple ",
-        "summary": "Shortly after Amazon  announced its $50 billion investment in OpenAI, AWS invited me on a private tour of the chip lab at the heart of the deal.",
-        "content": "Shortly after Amazon  announced its $50 billion investment in OpenAI, AWS invited me on a private tour of the chip lab at the heart of the deal.",
+        "title": "Littlebird raises $11M for its AI-assisted ‘recall’ tool that reads your computer screen",
+        "summary": "Littlebird is building an AI that reads your screen in real time to capture context, answer questions, and automate tasks, without relying on screenshots.",
+        "content": "Littlebird is building an AI that reads your screen in real time to capture context, answer questions, and automate tasks, without relying on screenshots.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
+        "sourceUrl": "https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Sun, 22 Mar 2026 12:00:00 +0000",
+        "publishedAt": "Mon, 23 Mar 2026 16:00:00 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-23/2026-03-23-tools-AI-005.webp"
       }
     ],
     "creative": [
       {
         "id": "AI-006",
-        "title": "Xiaomi launches three MiMo AI models to power agents, robots, and voice",
-        "summary": "The Chinese technology company Xiaomi wants to build AI agents that can independently control software, shop in the browser and, in the future, also control robots. The in-house MiMo team has presented three models at the same time.\nThe article Xiaom",
-        "content": "The Chinese technology company Xiaomi wants to build AI agents that can independently control software, shop in the browser and, in the future, also control robots. The in-house MiMo team has presented three models at the same time.\nThe article Xiaomi launches three MiMo AI models to power agents, robots, and voice appeared first on The Decoder.",
+        "title": "Meta acqui-hires Dreamer's entire team to bolster its lagging AI agent ambitions",
+        "summary": "The AI startup Dreamer is joining Meta Superintelligence Labs with its entire team, bringing co-founder Hugo Barra—a former Meta VP—back into Mark Zuckerberg's orbit. The deal marks Meta's second move in agent-based AI this year as the company tries ",
+        "content": "The AI startup Dreamer is joining Meta Superintelligence Labs with its entire team, bringing co-founder Hugo Barra—a former Meta VP—back into Mark Zuckerberg's orbit. The deal marks Meta's second move in agent-based AI this year as the company tries to regain ground against competitors.\nThe article Meta acqui-hires Dreamer's entire team to bolster its lagging AI agent ambitions appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/xiaomi-launches-three-mimo-ai-models-to-power-agents-robots-and-voice/",
+        "sourceUrl": "https://the-decoder.com/meta-acqui-hires-dreamers-entire-team-to-bolster-its-lagging-ai-agent-ambitions/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Sun, 22 Mar 2026 15:52:00 +0000",
+        "publishedAt": "Mon, 23 Mar 2026 19:28:25 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-23/2026-03-23-creative-AI-006.webp"
       },
       {
         "id": "AI-007",
-        "title": "Andrej Karpathy says humans are now the bottleneck in AI research with easy-to-measure results",
-        "summary": "AI developer Andrej Karpathy let an autonomous agent optimize his training setup overnight, and it found improvements he'd missed despite two decades of experience.\nThe article Andrej Karpathy says humans are now the bottleneck in AI research with ea",
-        "content": "AI developer Andrej Karpathy let an autonomous agent optimize his training setup overnight, and it found improvements he'd missed despite two decades of experience.\nThe article Andrej Karpathy says humans are now the bottleneck in AI research with easy-to-measure results appeared first on The Decoder.",
+        "title": "Luma AI's Uni-1 could be the first real challenger to Google's Nano Banana image dominance",
+        "summary": "Luma AI takes on OpenAI and Google with Uni-1, a model that combines image understanding and generation in a single architecture and reasons through prompts as it creates.\nThe article Luma AI's Uni-1 could be the first real challenger to Google's Nan",
+        "content": "Luma AI takes on OpenAI and Google with Uni-1, a model that combines image understanding and generation in a single architecture and reasons through prompts as it creates.\nThe article Luma AI's Uni-1 could be the first real challenger to Google's Nano Banana image dominance appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/andrej-karpathy-says-humans-are-now-the-bottleneck-in-ai-research-with-easy-to-measure-results/",
+        "sourceUrl": "https://the-decoder.com/luma-ais-uni-1-could-be-the-first-real-challenger-to-googles-nano-banana-image-dominance/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Sun, 22 Mar 2026 11:44:24 +0000",
+        "publishedAt": "Mon, 23 Mar 2026 18:53:52 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-23/2026-03-23-creative-AI-007.webp"
       },
       {
         "id": "AI-008",
-        "title": " England team's World Cup kit teaser accused of being AI slop ",
-        "summary": "Good luck to the IV Omree Lionss.",
-        "content": "Good luck to the IV Omree Lionss.",
+        "title": "OpenAI lures private equity firms with guaranteed returns in race against Anthropic",
+        "summary": "OpenAI is sweetening the deal for private equity firms with a guaranteed 17.5 percent minimum return to win them over for enterprise joint ventures.\nThe article OpenAI lures private equity firms with guaranteed returns in race against Anthropic appea",
+        "content": "OpenAI is sweetening the deal for private equity firms with a guaranteed 17.5 percent minimum return to win them over for enterprise joint ventures.\nThe article OpenAI lures private equity firms with guaranteed returns in race against Anthropic appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.creativebloq.com/ai/england-teams-world-cup-kit-teaser-accused-of-being-ai-slop",
-        "sourceName": "Creative Bloq",
+        "sourceUrl": "https://the-decoder.com/openai-lures-private-equity-firms-with-guaranteed-returns-in-race-against-anthropic/",
+        "sourceName": "The Decoder",
         "tags": [
-          "Creative Bloq"
+          "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Mon, 23 Mar 2026 10:57:23 +0000",
+        "publishedAt": "Mon, 23 Mar 2026 18:08:43 +0000",
         "normalizedTags": [
-          "creative bloq"
-        ]
+          "the decoder"
+        ],
+        "imageUrl": "/images/2026-03-23/2026-03-23-creative-AI-008.webp"
       },
       {
         "id": "AI-009",
-        "title": " How an Apex Legends artist went from traditional painting to video games ",
-        "summary": "Jude Smith reminisces on his growth as a games concept artist.",
-        "content": "Jude Smith reminisces on his growth as a games concept artist.",
+        "title": "Meta boss Zuckerberg reportedly builds personal AI agent and plans flatter hierarchies",
+        "summary": "Mark Zuckerberg is building a personal AI agent to help him run Meta. The company is reportedly planning massive job cuts.\nThe article Meta boss Zuckerberg reportedly builds personal AI agent and plans flatter hierarchies appeared first on The Decode",
+        "content": "Mark Zuckerberg is building a personal AI agent to help him run Meta. The company is reportedly planning massive job cuts.\nThe article Meta boss Zuckerberg reportedly builds personal AI agent and plans flatter hierarchies appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.creativebloq.com/art/digital-art/how-an-apex-legends-artist-went-from-traditional-painting-to-video-games",
-        "sourceName": "Creative Bloq",
+        "sourceUrl": "https://the-decoder.com/meta-boss-zuckerberg-reportedly-builds-personal-ai-agent-and-plans-flatter-hierarchies/",
+        "sourceName": "The Decoder",
         "tags": [
-          "Creative Bloq"
+          "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Mon, 23 Mar 2026 09:00:00 +0000",
+        "publishedAt": "Mon, 23 Mar 2026 16:35:40 +0000",
         "normalizedTags": [
-          "creative bloq"
-        ]
+          "the decoder"
+        ],
+        "imageUrl": "/images/2026-03-23/2026-03-23-creative-AI-009.webp"
       },
       {
         "id": "AI-010",
-        "title": " Why the new MacBook Pros are more revolutionary than they look ",
-        "summary": "\"Benchmarks are attractive, but it's about how we help creatives iterate faster\".",
-        "content": "\"Benchmarks are attractive, but it's about how we help creatives iterate faster\".",
+        "title": "OpenSeeker's open-source approach aims to break up the data monopoly for AI search agents",
+        "summary": "With just 11,700 training data points and a single training run, the AI search agent OpenSeeker achieves results that rival solutions from Alibaba and others. Data, code, and model are all openly accessible.\nThe article OpenSeeker's open-source appro",
+        "content": "With just 11,700 training data points and a single training run, the AI search agent OpenSeeker achieves results that rival solutions from Alibaba and others. Data, code, and model are all openly accessible.\nThe article OpenSeeker's open-source approach aims to break up the data monopoly for AI search agents appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.creativebloq.com/tech/why-the-new-macbook-pros-are-more-revolutionary-than-they-look",
-        "sourceName": "Creative Bloq",
+        "sourceUrl": "https://the-decoder.com/openseekers-open-source-approach-aims-to-break-up-the-data-monopoly-for-ai-search-agents/",
+        "sourceName": "The Decoder",
         "tags": [
-          "Creative Bloq"
+          "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Mon, 23 Mar 2026 08:00:00 +0000",
+        "publishedAt": "Mon, 23 Mar 2026 16:12:07 +0000",
         "normalizedTags": [
-          "creative bloq"
-        ]
+          "the decoder"
+        ],
+        "imageUrl": "/images/2026-03-23/2026-03-23-creative-AI-010.webp"
       }
     ],
     "research": [
       {
         "id": "AI-011",
+        "title": "The hardest question to answer about AI-fueled delusions",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. I was originally going to write this week’s newsletter about AI and Iran, particularly the news we broke last Tu",
+        "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. I was originally going to write this week’s newsletter about AI and Iran, particularly the news we broke last Tuesday that the Pentagon is making plans for AI companies to train on…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 23 Mar 2026 16:31:20 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ],
+        "imageUrl": "/images/2026-03-23/2026-03-23-research-AI-011.webp"
+      },
+      {
+        "id": "AI-012",
+        "title": "The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Bay Area’s animal welfare movement wants to recruit AI  In early February, animal welfare advocates and AI r",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Bay Area’s animal welfare movement wants to recruit AI  In early February, animal welfare advocates and AI researchers arrived in stocking feet at Mox, a scrappy, shoes-free coworking space in…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 23 Mar 2026 12:17:33 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ],
+        "imageUrl": "/images/2026-03-23/2026-03-23-research-AI-012.webp"
+      },
+      {
+        "id": "AI-013",
         "title": "The Bay Area’s animal welfare movement wants to recruit AI",
         "summary": "In early February, animal welfare advocates and AI researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Persian rugs blanketed the floor, and mosaic lamps glo",
         "content": "In early February, animal welfare advocates and AI researchers gathered in stocking feet at Mox, a scrappy, shoes-free coworking space in San Francisco. Yellow and red canopies billowed overhead, Persian rugs blanketed the floor, and mosaic lamps glowed beside potted plants.  In the common area, a wildlife advocate spoke passionately to a crowd lounging in…",
@@ -224,10 +275,11 @@
         "publishedAt": "Mon, 23 Mar 2026 09:00:00 +0000",
         "normalizedTags": [
           "mit tech review"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-23/2026-03-23-research-AI-013.webp"
       },
       {
-        "id": "AI-012",
+        "id": "AI-014",
         "title": "When both Grounding and not Grounding are Bad -- A Partially Grounded Encoding of Planning into SAT (Extended Version)",
         "summary": "arXiv:2603.19429v1 Announce Type: new \nAbstract: Classical planning problems are typically defined using lifted first-order representations, which offer compactness and generality. While most planners ground these representations to simplify reasonin",
         "content": "arXiv:2603.19429v1 Announce Type: new \nAbstract: Classical planning problems are typically defined using lifted first-order representations, which offer compactness and generality. While most planners ground these representations to simplify reasoning, this can cause an exponential blowup in size. Recent approaches instead operate directly on the lifted level to avoid full grounding. We explore a middle ground between fully lifted and fully grounded planning by introducing three SAT encodings th",
@@ -243,10 +295,11 @@
         "publishedAt": "Mon, 23 Mar 2026 00:00:00 -0400",
         "normalizedTags": [
           "arxiv cs.ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-23/2026-03-23-research-AI-014.webp"
       },
       {
-        "id": "AI-013",
+        "id": "AI-015",
         "title": "Hyperagents",
         "summary": "arXiv:2603.19461v1 Announce Type: new \nAbstract: Self-improving AI systems aim to reduce reliance on human engineering by learning to improve their own learning and problem-solving processes. Existing approaches to self-improvement rely on fixed, han",
         "content": "arXiv:2603.19461v1 Announce Type: new \nAbstract: Self-improving AI systems aim to reduce reliance on human engineering by learning to improve their own learning and problem-solving processes. Existing approaches to self-improvement rely on fixed, handcrafted meta-level mechanisms, fundamentally limiting how fast such systems can improve. The Darwin G\\\"odel Machine (DGM) demonstrates open-ended self-improvement in coding by repeatedly generating and evaluating self-modified variants. Because both",
@@ -262,91 +315,136 @@
         "publishedAt": "Mon, 23 Mar 2026 00:00:00 -0400",
         "normalizedTags": [
           "arxiv cs.ai"
-        ]
-      },
-      {
-        "id": "AI-014",
-        "title": "Teaching an Agent to Sketch One Part at a Time",
-        "summary": "arXiv:2603.19500v1 Announce Type: new \nAbstract: We develop a method for producing vector sketches one part at a time. To do this, we train a multi-modal language model-based agent using a novel multi-turn process-reward reinforcement learning follow",
-        "content": "arXiv:2603.19500v1 Announce Type: new \nAbstract: We develop a method for producing vector sketches one part at a time. To do this, we train a multi-modal language model-based agent using a novel multi-turn process-reward reinforcement learning following supervised fine-tuning. Our approach is enabled by a new dataset we call ControlSketch-Part, containing rich part-level annotations for sketches, obtained using a novel, generic automatic annotation pipeline that segments vector sketches into sem",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://arxiv.org/abs/2603.19500",
-        "sourceName": "ArXiv CS.AI",
-        "tags": [
-          "ArXiv CS.AI"
         ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 23 Mar 2026 00:00:00 -0400",
-        "normalizedTags": [
-          "arxiv cs.ai"
-        ]
-      },
-      {
-        "id": "AI-015",
-        "title": "Learning to Disprove: Formal Counterexample Generation with Large Language Models",
-        "summary": "arXiv:2603.19514v1 Announce Type: new \nAbstract: Mathematical reasoning demands two critical, complementary skills: constructing rigorous proofs for true statements and discovering counterexamples that disprove false ones. However, current AI efforts",
-        "content": "arXiv:2603.19514v1 Announce Type: new \nAbstract: Mathematical reasoning demands two critical, complementary skills: constructing rigorous proofs for true statements and discovering counterexamples that disprove false ones. However, current AI efforts in mathematics focus almost exclusively on proof construction, often neglecting the equally important task of finding counterexamples. In this paper, we address this gap by fine-tuning large language models (LLMs) to reason about and generate counte",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://arxiv.org/abs/2603.19514",
-        "sourceName": "ArXiv CS.AI",
-        "tags": [
-          "ArXiv CS.AI"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 23 Mar 2026 00:00:00 -0400",
-        "normalizedTags": [
-          "arxiv cs.ai"
-        ]
+        "imageUrl": "/images/2026-03-23/2026-03-23-research-AI-015.webp"
       }
     ],
     "applications": [],
     "business": [
       {
         "id": "AI-016",
-        "title": "Why Spotify AI more than music will be the secret to keeping subscribers",
-        "summary": "A recent Spotify-ChatGPT deal is one more sign of how AI may be the best defense for a streaming music service in a me-too market for subscribers.",
-        "content": "A recent Spotify-ChatGPT deal is one more sign of how AI may be the best defense for a streaming music service in a me-too market for subscribers.",
+        "title": "OpenAI calls out Microsoft reliance as risk in investor document ahead of expected IPO",
+        "summary": "In a document that resembles an IPO prospectus, OpenAI highlighted the risk of its dependence on Microsoft and of supply disruptions at TSMC.",
+        "content": "In a document that resembles an IPO prospectus, OpenAI highlighted the risk of its dependence on Microsoft and of supply disruptions at TSMC.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/22/spotify-apple-amazon-streaming-music-ai.html",
+        "sourceUrl": "https://www.cnbc.com/2026/03/23/openai-risk-factors-microsoft-reliance-elon-musk-and-xai-lawsuits.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Sun, 22 Mar 2026 14:18:58 GMT",
+        "publishedAt": "Mon, 23 Mar 2026 23:00:28 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-23/2026-03-23-business-AI-016.webp"
       },
       {
         "id": "AI-017",
-        "title": "OpenAI's data center pivot underscores Wall Street spending concerns ahead of IPO",
-        "summary": "As OpenAI gears up for a potential IPO, it's outlined a more tempered infrastructure strategy and has moved away from an ambitious agreement with Nvidia.",
-        "content": "As OpenAI gears up for a potential IPO, it's outlined a more tempered infrastructure strategy and has moved away from an ambitious agreement with Nvidia.",
+        "title": "Microsoft stock may be in a slump. But here’s why it is wrong to give up now",
+        "summary": "Things keep lining up against Microsoft.",
+        "content": "Things keep lining up against Microsoft.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/22/openai-data-center-pivot-underscores-wall-street-ipo-concerns.html",
+        "sourceUrl": "https://www.cnbc.com/2026/03/23/microsoft-may-be-in-a-slump-but-heres-why-it-is-wrong-to-give-up-now.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Sun, 22 Mar 2026 12:00:01 GMT",
+        "publishedAt": "Mon, 23 Mar 2026 21:19:11 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-23/2026-03-23-business-AI-017.webp"
+      },
+      {
+        "id": "AI-018",
+        "title": "Here's how Jim Cramer is playing Monday's stock market rebound",
+        "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+        "content": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/03/23/heres-how-jim-cramer-is-playing-mondays-stock-market-rebound-.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 23 Mar 2026 16:43:20 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ],
+        "imageUrl": "/images/2026-03-23/2026-03-23-business-AI-018.webp"
+      },
+      {
+        "id": "AI-019",
+        "title": "Synopsys shares rally as activist Elliott builds multibillion-dollar stake in chip design firm",
+        "summary": "Elliott did not disclose the exact value of its investment, but described Synopsys as \"essential to the global chip industry.\"",
+        "content": "Elliott did not disclose the exact value of its investment, but described Synopsys as \"essential to the global chip industry.\"",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/03/23/synopsys-stock-rally-activist-elliott-stake.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 23 Mar 2026 20:01:54 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ],
+        "imageUrl": "/images/2026-03-23/2026-03-23-business-AI-019.webp"
+      },
+      {
+        "id": "AI-020",
+        "title": "U.S.-Iran talks, ICE in airports, gemstone investing and more in Morning Squawk",
+        "summary": "Here are five key things investors need to know to start the trading day.",
+        "content": "Here are five key things investors need to know to start the trading day.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/03/23/5-things-to-know-before-the-market-opens.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 23 Mar 2026 12:33:23 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ],
+        "imageUrl": "/images/2026-03-23/2026-03-23-business-AI-020.webp"
       }
     ],
     "policy": [
       {
-        "id": "AI-018",
+        "id": "AI-021",
+        "title": "Judge Hears State Challenge to Trump’s Tech Deal Settlement",
+        "summary": "Democratic state attorneys general are fighting the Justice Department’s clearance of a $14 billion deal by Hewlett Packard Enterprise, arguing it was ineffective and corrupt.",
+        "content": "Democratic state attorneys general are fighting the Justice Department’s clearance of a $14 billion deal by Hewlett Packard Enterprise, arguing it was ineffective and corrupt.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/03/23/technology/hpe-juniper-hearing-settlement.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 23 Mar 2026 20:39:49 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-03-23/2026-03-23-policy-AI-021.webp"
+      },
+      {
+        "id": "AI-022",
         "title": "‘Real Housewives’ Has Been a Meme Gold Mine for 20 Years",
         "summary": "The Bravo TV empire, which turns 20 this month, has also been a gold mine for the internet.",
         "content": "The Bravo TV empire, which turns 20 this month, has also been a gold mine for the internet.",
@@ -359,16 +457,57 @@
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Mon, 23 Mar 2026 09:00:19 +0000",
+        "publishedAt": "Mon, 23 Mar 2026 14:04:54 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-23/2026-03-23-policy-AI-022.webp"
       }
     ],
     "concerns": [],
     "culture": [
       {
-        "id": "AI-019",
+        "id": "AI-023",
+        "title": "AI boom risks widening wealth divide, says BlackRock’s Larry Fink",
+        "summary": "CEO of asset manager says only a few firms and investors may reap rewards from growth in the technology\nThe boom in artificial intelligence risks widening inequality, with only a handful of companies and investors likely to reap its financial rewards",
+        "content": "CEO of asset manager says only a few firms and investors may reap rewards from growth in the technology\nThe boom in artificial intelligence risks widening inequality, with only a handful of companies and investors likely to reap its financial rewards, the BlackRock chief executive, Larry Fink, has said.\nThe boss of the $14tn (£10.4tn) asset manager used his annual letter to investors on Monday to highlight potential hazards around the exponential growth in AI, which has attracted rapid investmen",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 23 Mar 2026 16:51:35 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-03-23/2026-03-23-culture-AI-023.webp"
+      },
+      {
+        "id": "AI-024",
+        "title": "Do we have to keep talking about AI? The machines are always one step ahead | Zoe Williams",
+        "summary": "Whether you want to free it or regulate it into submission, one thing is clear: this new technology is moving so fast that we can’t fully grasp it\nAt an 80th birthday party at the weekend, I met an academic who was evasive about his field. When he fi",
+        "content": "Whether you want to free it or regulate it into submission, one thing is clear: this new technology is moving so fast that we can’t fully grasp it\nAt an 80th birthday party at the weekend, I met an academic who was evasive about his field. When he finally disclosed “computer science”, I asked him why he hadn’t wanted to say, and he replied: “Because I cannot have one more conversation about AI.” I couldn’t ask him why not, because of stupid manners; that would have been one more conversation abo",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/commentisfree/2026/mar/23/do-we-have-to-keep-talking-about-ai-the-machines-are-always-one-step-ahead",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 23 Mar 2026 13:50:39 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-03-23/2026-03-23-culture-AI-024.webp"
+      },
+      {
+        "id": "AI-025",
         "title": "Trump’s video game war: AI, memes and a simplistic narrative have flattened the conflict | Nesrine Malik",
         "summary": "What was supposed to be a quick win has become a quagmire, so it now must be reduced to a dopamine hit\nThe war on Iran, even as it spreads and destabilises the Middle East and the global economy, is not real. This is how it is being portrayed by the ",
         "content": "What was supposed to be a quick win has become a quagmire, so it now must be reduced to a dopamine hit\nThe war on Iran, even as it spreads and destabilises the Middle East and the global economy, is not real. This is how it is being portrayed by the Trump administration. The war is a video game, a spectator sport, a social media festival of dunking. The architects of this war have made a virtue out of stupidity, and have been supported in that by a stupefying information ecosystem. The conflict ",
@@ -384,48 +523,11 @@
         "publishedAt": "Mon, 23 Mar 2026 06:00:42 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-020",
-        "title": "Campaign groups rail against Palantir, but the UK contracts keep coming",
-        "summary": "AI analytics firm has become influential in Whitehall, and FCA deal gives it yet more access to data\n\nPalantir extends reach into British state as it gets access to sensitive FCA data\n\nPalantir’s latest UK contract takes the AI and data analytics com",
-        "content": "AI analytics firm has become influential in Whitehall, and FCA deal gives it yet more access to data\n\nPalantir extends reach into British state as it gets access to sensitive FCA data\n\nPalantir’s latest UK contract takes the AI and data analytics company into the heart of one of Britain’s biggest industries: financial services, which accounts for 9% of the economy.\nThe Miami-based company embedded its technology in the NHS in 2023, the police in 2024 and the military in 2025. Land and expand, th",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/mar/22/fca-deal-palantir-ai-financial-services-uk",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
         ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Sun, 22 Mar 2026 16:00:25 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
+        "imageUrl": "/images/2026-03-23/2026-03-23-culture-AI-025.webp"
       },
       {
-        "id": "AI-021",
-        "title": "Palantir extends reach into British state as it gets access to sensitive FCA data",
-        "summary": "Exclusive: Allowing US tech firm to analyse intelligence in name of tackling fraud raises fresh concerns over privacy\n\nCampaign groups rail against Palantir, but the UK contracts keep coming\n\nPalantir is to be granted access to a trove of highly sens",
-        "content": "Exclusive: Allowing US tech firm to analyse intelligence in name of tackling fraud raises fresh concerns over privacy\n\nCampaign groups rail against Palantir, but the UK contracts keep coming\n\nPalantir is to be granted access to a trove of highly sensitive UK financial regulation data, in a deal that has prompted fresh concerns about the US AI company’s deepening reach into the British state, the Guardian can reveal.\nThe Financial Conduct Authority (FCA) has awarded Palantir a contract to investi",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/mar/22/palantir-extends-reach-into-british-state-as-it-gets-access-to-sensitive-fca-data",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Sun, 22 Mar 2026 16:00:25 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-022",
+        "id": "AI-026",
         "title": "Meet the Gods of AI Warfare",
         "summary": "In its early days, the AI initiative known as Project Maven had its fair share of skeptics at the Pentagon. Today, many of them are true believers.",
         "content": "In its early days, the AI initiative known as Project Maven had its fair share of skeptics at the Pentagon. Today, many of them are true believers.",
@@ -441,10 +543,11 @@
         "publishedAt": "Mon, 23 Mar 2026 10:00:00 +0000",
         "normalizedTags": [
           "wired ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-23/2026-03-23-culture-AI-026.webp"
       },
       {
-        "id": "AI-023",
+        "id": "AI-027",
         "title": "The AI Race Is Pressuring Utilities to Squeeze More From Europe’s Power Grids",
         "summary": "As data center developers queue up to connect to power grids across Europe, network operators are experimenting with novel ways of clearing room for them.",
         "content": "As data center developers queue up to connect to power grids across Europe, network operators are experimenting with novel ways of clearing room for them.",
@@ -460,7 +563,8 @@
         "publishedAt": "Mon, 23 Mar 2026 09:00:00 +0000",
         "normalizedTags": [
           "wired ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-23/2026-03-23-culture-AI-027.webp"
       }
     ]
   },
@@ -470,29 +574,34 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
-    "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
-    "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
-    "https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/",
-    "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
-    "https://the-decoder.com/xiaomi-launches-three-mimo-ai-models-to-power-agents-robots-and-voice/",
-    "https://the-decoder.com/andrej-karpathy-says-humans-are-now-the-bottleneck-in-ai-research-with-easy-to-measure-results/",
-    "https://www.creativebloq.com/ai/england-teams-world-cup-kit-teaser-accused-of-being-ai-slop",
-    "https://www.creativebloq.com/art/digital-art/how-an-apex-legends-artist-went-from-traditional-painting-to-video-games",
-    "https://www.creativebloq.com/tech/why-the-new-macbook-pros-are-more-revolutionary-than-they-look",
+    "https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/",
+    "https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/",
+    "https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/",
+    "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/",
+    "https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/",
+    "https://the-decoder.com/meta-acqui-hires-dreamers-entire-team-to-bolster-its-lagging-ai-agent-ambitions/",
+    "https://the-decoder.com/luma-ais-uni-1-could-be-the-first-real-challenger-to-googles-nano-banana-image-dominance/",
+    "https://the-decoder.com/openai-lures-private-equity-firms-with-guaranteed-returns-in-race-against-anthropic/",
+    "https://the-decoder.com/meta-boss-zuckerberg-reportedly-builds-personal-ai-agent-and-plans-flatter-hierarchies/",
+    "https://the-decoder.com/openseekers-open-source-approach-aims-to-break-up-the-data-monopoly-for-ai-search-agents/",
+    "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/",
+    "https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/",
     "https://www.technologyreview.com/2026/03/23/1134491/the-bay-areas-animal-welfare-movement-wants-to-recruit-ai/",
     "https://arxiv.org/abs/2603.19429",
     "https://arxiv.org/abs/2603.19461",
-    "https://arxiv.org/abs/2603.19500",
-    "https://arxiv.org/abs/2603.19514",
-    "https://www.cnbc.com/2026/03/22/spotify-apple-amazon-streaming-music-ai.html",
-    "https://www.cnbc.com/2026/03/22/openai-data-center-pivot-underscores-wall-street-ipo-concerns.html",
+    "https://www.cnbc.com/2026/03/23/openai-risk-factors-microsoft-reliance-elon-musk-and-xai-lawsuits.html",
+    "https://www.cnbc.com/2026/03/23/microsoft-may-be-in-a-slump-but-heres-why-it-is-wrong-to-give-up-now.html",
+    "https://www.cnbc.com/2026/03/23/heres-how-jim-cramer-is-playing-mondays-stock-market-rebound-.html",
+    "https://www.cnbc.com/2026/03/23/synopsys-stock-rally-activist-elliott-stake.html",
+    "https://www.cnbc.com/2026/03/23/5-things-to-know-before-the-market-opens.html",
+    "https://www.nytimes.com/2026/03/23/technology/hpe-juniper-hearing-settlement.html",
     "https://www.nytimes.com/2026/03/23/arts/television/real-housewives-memes-bravo.html",
+    "https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink",
+    "https://www.theguardian.com/commentisfree/2026/mar/23/do-we-have-to-keep-talking-about-ai-the-machines-are-always-one-step-ahead",
     "https://www.theguardian.com/commentisfree/2026/mar/23/iran-us-trump-video-game-war-ai-memes",
-    "https://www.theguardian.com/technology/2026/mar/22/fca-deal-palantir-ai-financial-services-uk",
-    "https://www.theguardian.com/technology/2026/mar/22/palantir-extends-reach-into-british-state-as-it-gets-access-to-sensitive-fca-data",
     "https://www.wired.com/story/project-maven-katrina-manson-book-excerpt/",
     "https://www.wired.com/story/europe-squeeze-power-energy-grid-ai-data-center/"
   ],
-  "generatedAt": "2026-03-23T11:41:56.498Z"
+  "generatedAt": "2026-03-23T23:23:57.657Z",
+  "simpleSummaryImageUrl": "/images/2026-03-23/2026-03-23-summary.webp"
 }
