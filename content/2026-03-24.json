@@ -2,10 +2,11 @@
   "date": "2026-03-24",
   "dateFormatted": "March 24, 2026",
   "headline": {
-    "title": "Air Street becomes one of the largest solo VCs in Europe with $232M fund",
-    "summary": "London’s Air Street Capital has raised a large Fund III with eyes locked on backing early-stage European and North American AI companies.",
-    "sourceUrl": "https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/",
-    "sourceName": "TechCrunch AI"
+    "title": "Kentucky woman rejects $26M offer to turn her farm into a data center",
+    "summary": "A \"major artificial intelligence company\" reportedly offered a Kentucky family $26 million to build a data center on their farm.",
+    "sourceUrl": "https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/",
+    "sourceName": "TechCrunch AI",
+    "imageUrl": "/images/2026-03-24/2026-03-24-hero.webp"
   },
   "simpleSummary": [
     "Today's edition was assembled directly from RSS feeds without AI curation.",
@@ -15,238 +16,270 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "Air Street becomes one of the largest solo VCs in Europe with $232M fund",
-        "summary": "London’s Air Street Capital has raised a large Fund III with eyes locked on backing early-stage European and North American AI companies.",
-        "content": "London’s Air Street Capital has raised a large Fund III with eyes locked on backing early-stage European and North American AI companies.",
+        "title": "Kentucky woman rejects $26M offer to turn her farm into a data center",
+        "summary": "A \"major artificial intelligence company\" reportedly offered a Kentucky family $26 million to build a data center on their farm.",
+        "content": "A \"major artificial intelligence company\" reportedly offered a Kentucky family $26 million to build a data center on their farm.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/",
+        "sourceUrl": "https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Mon, 23 Mar 2026 22:36:39 +0000",
+        "publishedAt": "Tue, 24 Mar 2026 22:22:57 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-24/2026-03-24-tools-AI-001.webp"
       },
       {
         "id": "AI-002",
-        "title": "Bernie Sanders’ AI ‘gotcha’ video flops, but the memes are great",
-        "summary": "Sen. Bernie Sanders thinks he's tricked Claude into revealing the AI industry's secrets, but he really just exposed how agreeable chatbots can become.",
-        "content": "Sen. Bernie Sanders thinks he's tricked Claude into revealing the AI industry's secrets, but he really just exposed how agreeable chatbots can become.",
+        "title": "Anthropic hands Claude Code more control, but keeps it on a leash",
+        "summary": "Anthropic’s new auto mode for Claude Code lets AI execute tasks with fewer approvals, reflecting a broader shift toward more autonomous tools that balance speed with safety through built-in safeguards.",
+        "content": "Anthropic’s new auto mode for Claude Code lets AI execute tasks with fewer approvals, reflecting a broader shift toward more autonomous tools that balance speed with safety through built-in safeguards.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/",
+        "sourceUrl": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Mon, 23 Mar 2026 20:15:59 +0000",
+        "publishedAt": "Tue, 24 Mar 2026 21:00:30 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-24/2026-03-24-tools-AI-002.webp"
       },
       {
         "id": "AI-003",
-        "title": "Vibe-coding startup Lovable is on the hunt for acquisitions",
-        "summary": "Lovable's founder said the fast-growing vibe-coding startup is looking for startups and teams to join its company.",
-        "content": "Lovable's founder said the fast-growing vibe-coding startup is looking for startups and teams to join its company.",
+        "title": "Spotify tests new tool to stop AI slop from being attributed to real artists",
+        "summary": "The idea behind the new tool is to give artists more control over which tracks are associated with their name on Spotify.",
+        "content": "The idea behind the new tool is to give artists more control over which tracks are associated with their name on Spotify.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/",
+        "sourceUrl": "https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Mon, 23 Mar 2026 18:22:04 +0000",
+        "publishedAt": "Tue, 24 Mar 2026 20:56:25 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-24/2026-03-24-tools-AI-003.webp"
       },
       {
         "id": "AI-004",
-        "title": "Apple sets June date for WWDC 2026, teasing ‘AI advancements’",
-        "summary": "Apple will host its next Worldwide Developers Conference the week of June 8. The company is expected to announce major updates to Siri with advanced AI capabilities.",
-        "content": "Apple will host its next Worldwide Developers Conference the week of June 8. The company is expected to announce major updates to Siri with advanced AI capabilities.",
+        "title": "Databricks bought two startups to underpin its new AI security product",
+        "summary": "With an overflowing war chest from its recent $5 billion raise, Databricks is buying startups and looking for more. It acquired Antimatter and SiftD.ai.",
+        "content": "With an overflowing war chest from its recent $5 billion raise, Databricks is buying startups and looking for more. It acquired Antimatter and SiftD.ai.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/",
+        "sourceUrl": "https://techcrunch.com/2026/03/24/databricks-buys-two-startups-lakewatch-antimatter-siftd-ai-security/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Mon, 23 Mar 2026 18:00:45 +0000",
+        "publishedAt": "Tue, 24 Mar 2026 20:40:56 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-24/2026-03-24-tools-AI-004.webp"
       },
       {
         "id": "AI-005",
-        "title": "Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way",
-        "summary": "Gimlet Labs just raised an $80 million Series A for tech that lets AI run across NVIDIA, AMD, Intel, ARM, Cerebras and d-Matrix chips, simultaneously.",
-        "content": "Gimlet Labs just raised an $80 million Series A for tech that lets AI run across NVIDIA, AMD, Intel, ARM, Cerebras and d-Matrix chips, simultaneously.",
+        "title": "Arm is releasing the first in-house chip in its 35-year history",
+        "summary": "Arm is producing its own CPU for the first time. It developed the CPU with Meta, which is also the chip's first customer.",
+        "content": "Arm is producing its own CPU for the first time. It developed the CPU with Meta, which is also the chip's first customer.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/",
+        "sourceUrl": "https://techcrunch.com/2026/03/24/arm-is-releasing-its-first-in-house-chip-in-its-35-year-history/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Mon, 23 Mar 2026 16:00:00 +0000",
+        "publishedAt": "Tue, 24 Mar 2026 19:48:54 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-24/2026-03-24-tools-AI-005.webp"
       }
     ],
     "creative": [
       {
         "id": "AI-006",
-        "title": "Nvidia CEO Jensen Huang: The idea that AI will destroy software is \"ridiculous\"",
-        "summary": "Jensen Huang explains why AI agents will use software rather than replace it. Nvidia has redesigned its entire rack architecture accordingly.\nThe article Nvidia CEO Jensen Huang: The idea that AI will destroy software is \"ridiculous\" appeared first o",
-        "content": "Jensen Huang explains why AI agents will use software rather than replace it. Nvidia has redesigned its entire rack architecture accordingly.\nThe article Nvidia CEO Jensen Huang: The idea that AI will destroy software is \"ridiculous\" appeared first on The Decoder.",
+        "title": "Popular AI proxy LiteLLM got hacked with malware that spreads through Kubernetes clusters",
+        "summary": "LiteLLM, a popular open-source proxy for AI APIs, has been compromised with malware that steals credentials and spreads across cloud systems. NVIDIA AI Director Jim Fan warns this represents a new class of attacks targeting AI agents.\nThe article Pop",
+        "content": "LiteLLM, a popular open-source proxy for AI APIs, has been compromised with malware that steals credentials and spreads across cloud systems. NVIDIA AI Director Jim Fan warns this represents a new class of attacks targeting AI agents.\nThe article Popular AI proxy LiteLLM got hacked with malware that spreads through Kubernetes clusters appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/nvidia-ceo-jensen-huang-the-idea-that-ai-will-destroy-software-is-ridiculous/",
+        "sourceUrl": "https://the-decoder.com/popular-ai-proxy-litellm-got-hacked-with-malware-that-spreads-through-kubernetes-clusters/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Tue, 24 Mar 2026 11:38:38 +0000",
+        "publishedAt": "Tue, 24 Mar 2026 19:40:06 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-24/2026-03-24-creative-AI-006.webp"
       },
       {
         "id": "AI-007",
-        "title": "Anthropic lets Claude take control of your desktop when regular app integrations fall short",
-        "summary": "Anthropic has announced a new feature for its AI assistant Claude: the ability to directly operate a user's computer, handling tasks people would normally do themselves at their desk.\nThe article Anthropic lets Claude take control of your desktop whe",
-        "content": "Anthropic has announced a new feature for its AI assistant Claude: the ability to directly operate a user's computer, handling tasks people would normally do themselves at their desk.\nThe article Anthropic lets Claude take control of your desktop when regular app integrations fall short appeared first on The Decoder.",
+        "title": "Google Deepmind's Gemini 3.1 Flash-Lite generates websites almost in real time",
+        "summary": "Google shows in a demo how Gemini 3.1 Flash-Lite generates complete websites in real time. Fast, cheap - but also useful?\nThe article Google Deepmind's Gemini 3.1 Flash-Lite generates websites almost in real time appeared first on The Decoder.",
+        "content": "Google shows in a demo how Gemini 3.1 Flash-Lite generates complete websites in real time. Fast, cheap - but also useful?\nThe article Google Deepmind's Gemini 3.1 Flash-Lite generates websites almost in real time appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/anthropic-lets-claude-take-control-of-your-desktop-when-regular-app-integrations-fall-short/",
+        "sourceUrl": "https://the-decoder.com/google-deepminds-gemini-3-1-flash-lite-generates-websites-almost-in-real-time/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Tue, 24 Mar 2026 09:56:41 +0000",
+        "publishedAt": "Tue, 24 Mar 2026 19:07:39 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-24/2026-03-24-creative-AI-007.webp"
       },
       {
         "id": "AI-008",
-        "title": "Meta acqui-hires Dreamer's entire team to bolster its lagging AI agent ambitions",
-        "summary": "The AI startup Dreamer is joining Meta Superintelligence Labs with its entire team, bringing co-founder Hugo Barra—a former Meta VP—back into Mark Zuckerberg's orbit. The deal marks Meta's second move in agent-based AI this year as the company tries ",
-        "content": "The AI startup Dreamer is joining Meta Superintelligence Labs with its entire team, bringing co-founder Hugo Barra—a former Meta VP—back into Mark Zuckerberg's orbit. The deal marks Meta's second move in agent-based AI this year as the company tries to regain ground against competitors.\nThe article Meta acqui-hires Dreamer's entire team to bolster its lagging AI agent ambitions appeared first on The Decoder.",
+        "title": "A man created thousands of fake accounts to stream AI songs billions of times and pocket $8 million in royalties",
+        "summary": "AI songs, fake accounts, billions of bot plays: a North Carolina man has pleaded guilty to scamming streaming platforms out of more than eight million dollars.\nThe article A man created thousands of fake accounts to stream AI songs billions of times ",
+        "content": "AI songs, fake accounts, billions of bot plays: a North Carolina man has pleaded guilty to scamming streaming platforms out of more than eight million dollars.\nThe article A man created thousands of fake accounts to stream AI songs billions of times and pocket $8 million in royalties appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/meta-acqui-hires-dreamers-entire-team-to-bolster-its-lagging-ai-agent-ambitions/",
+        "sourceUrl": "https://the-decoder.com/a-man-created-thousands-of-fake-accounts-to-stream-ai-songs-billions-of-times-and-pocket-8-million-in-royalties/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Mon, 23 Mar 2026 19:28:25 +0000",
+        "publishedAt": "Tue, 24 Mar 2026 18:44:46 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-24/2026-03-24-creative-AI-008.webp"
       },
       {
         "id": "AI-009",
-        "title": "Luma AI's Uni-1 could be the first real challenger to Google's Nano Banana image dominance",
-        "summary": "Luma AI takes on OpenAI and Google with Uni-1, a model that combines image understanding and generation in a single architecture and reasons through prompts as it creates.\nThe article Luma AI's Uni-1 could be the first real challenger to Google's Nan",
-        "content": "Luma AI takes on OpenAI and Google with Uni-1, a model that combines image understanding and generation in a single architecture and reasons through prompts as it creates.\nThe article Luma AI's Uni-1 could be the first real challenger to Google's Nano Banana image dominance appeared first on The Decoder.",
+        "title": "ChatGPT is turning into a shopping platform with product images, prices, and comparisons, but no checkout",
+        "summary": "ChatGPT is getting visual shopping features that show products with images, prices, and side-by-side comparisons right in the chat. At the same time, OpenAI is dropping its own payment system and handing checkout off to retailers.\nThe article ChatGPT",
+        "content": "ChatGPT is getting visual shopping features that show products with images, prices, and side-by-side comparisons right in the chat. At the same time, OpenAI is dropping its own payment system and handing checkout off to retailers.\nThe article ChatGPT is turning into a shopping platform with product images, prices, and comparisons, but no checkout appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/luma-ais-uni-1-could-be-the-first-real-challenger-to-googles-nano-banana-image-dominance/",
+        "sourceUrl": "https://the-decoder.com/chatgpt-is-turning-into-a-shopping-platform-with-product-images-prices-and-comparisons-but-no-checkout/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Mon, 23 Mar 2026 18:53:52 +0000",
+        "publishedAt": "Tue, 24 Mar 2026 17:22:33 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-24/2026-03-24-creative-AI-009.webp"
       },
       {
         "id": "AI-010",
-        "title": "OpenAI lures private equity firms with guaranteed returns in race against Anthropic",
-        "summary": "OpenAI is sweetening the deal for private equity firms with a guaranteed 17.5 percent minimum return to win them over for enterprise joint ventures.\nThe article OpenAI lures private equity firms with guaranteed returns in race against Anthropic appea",
-        "content": "OpenAI is sweetening the deal for private equity firms with a guaranteed 17.5 percent minimum return to win them over for enterprise joint ventures.\nThe article OpenAI lures private equity firms with guaranteed returns in race against Anthropic appeared first on The Decoder.",
+        "title": "Microsoft snaps up Texas data center that Oracle and OpenAI left behind",
+        "summary": "Microsoft has agreed to lease a data center in Abilene, Texas, that was originally built for Oracle and OpenAI, Bloomberg News reports.\nThe article Microsoft snaps up Texas data center that Oracle and OpenAI left behind appeared first on The Decoder.",
+        "content": "Microsoft has agreed to lease a data center in Abilene, Texas, that was originally built for Oracle and OpenAI, Bloomberg News reports.\nThe article Microsoft snaps up Texas data center that Oracle and OpenAI left behind appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/openai-lures-private-equity-firms-with-guaranteed-returns-in-race-against-anthropic/",
+        "sourceUrl": "https://the-decoder.com/microsoft-snaps-up-texas-data-center-that-oracle-and-openai-left-behind/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Mon, 23 Mar 2026 18:08:43 +0000",
+        "publishedAt": "Tue, 24 Mar 2026 16:43:30 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-24/2026-03-24-creative-AI-010.webp"
       }
     ],
     "research": [
       {
         "id": "AI-011",
-        "title": "The hardest question to answer about AI-fueled delusions",
-        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. I was originally going to write this week’s newsletter about AI and Iran, particularly the news we broke last Tu",
-        "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. I was originally going to write this week’s newsletter about AI and Iran, particularly the news we broke last Tuesday that the Pentagon is making plans for AI companies to train on…",
+        "title": "Exclusive eBook: Are we ready to hand AI agents the keys?",
+        "summary": "We’re starting to give AI agents real autonomy, but are we prepared for what could happen next? This subscriber-only eBook explores this and angles from experts, such as “If we continue on the current path … we are basically playing Russian roulette ",
+        "content": "We’re starting to give AI agents real autonomy, but are we prepared for what could happen next? This subscriber-only eBook explores this and angles from experts, such as “If we continue on the current path … we are basically playing Russian roulette with humanity.” by Grace Huckins June 12, 2025 Related Stories: Access all subscriber-only…",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/",
+        "sourceUrl": "https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/",
         "sourceName": "MIT Tech Review",
         "tags": [
           "MIT Tech Review"
         ],
         "section": "research",
         "readTime": "2 min",
-        "publishedAt": "Mon, 23 Mar 2026 16:31:20 +0000",
+        "publishedAt": "Tue, 24 Mar 2026 18:17:13 +0000",
         "normalizedTags": [
           "mit tech review"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-24/2026-03-24-research-AI-011.webp"
       },
       {
         "id": "AI-012",
-        "title": "The Download: animal welfare gets AGI-pilled, and the White House unveils its AI policy",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Bay Area’s animal welfare movement wants to recruit AI  In early February, animal welfare advocates and AI r",
-        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Bay Area’s animal welfare movement wants to recruit AI  In early February, animal welfare advocates and AI researchers arrived in stocking feet at Mox, a scrappy, shoes-free coworking space in…",
+        "title": "This scientist rewarmed and studied pieces of his friend’s cryopreserved brain",
+        "summary": "L. Stephen Coles’s brain sits cushioned in a vat at a storage facility in Arizona. It has been held there at a temperature of around −146 degrees °C for over a decade, largely undisturbed. That is, apart from the time, a little over a year ago, when ",
+        "content": "L. Stephen Coles’s brain sits cushioned in a vat at a storage facility in Arizona. It has been held there at a temperature of around −146 degrees °C for over a decade, largely undisturbed. That is, apart from the time, a little over a year ago, when scientists slowly lifted the brain to take photos…",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/",
+        "sourceUrl": "https://www.technologyreview.com/2026/03/24/1134562/cryopreservation-brain-cryonics-organ-transplantation/",
         "sourceName": "MIT Tech Review",
         "tags": [
           "MIT Tech Review"
         ],
         "section": "research",
         "readTime": "2 min",
-        "publishedAt": "Mon, 23 Mar 2026 12:17:33 +0000",
+        "publishedAt": "Tue, 24 Mar 2026 16:43:36 +0000",
         "normalizedTags": [
           "mit tech review"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-24/2026-03-24-research-AI-012.webp"
       },
       {
         "id": "AI-013",
+        "title": "The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The hardest question to answer about AI-fueled delusions  What actually happens when people spiral into delusion",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The hardest question to answer about AI-fueled delusions  What actually happens when people spiral into delusion with AI? To find out, Stanford researchers analyzed transcripts from chatbot users who experienced these spirals.  Their findings suggest that…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 24 Mar 2026 12:28:27 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ],
+        "imageUrl": "/images/2026-03-24/2026-03-24-research-AI-013.webp"
+      },
+      {
+        "id": "AI-014",
         "title": "AgenticGEO: A Self-Evolving Agentic System for Generative Engine Optimization",
         "summary": "arXiv:2603.20213v1 Announce Type: new \nAbstract: Generative search engines represent a transition from traditional ranking-based retrieval to Large Language Model (LLM)-based synthesis, transforming optimization goals from ranking prominence towards ",
         "content": "arXiv:2603.20213v1 Announce Type: new \nAbstract: Generative search engines represent a transition from traditional ranking-based retrieval to Large Language Model (LLM)-based synthesis, transforming optimization goals from ranking prominence towards content inclusion. Generative Engine Optimization (GEO), specifically, aims to maximize visibility and attribution in black-box summarized outputs by strategically manipulating source content. However, existing methods rely on static heuristics, sing",
@@ -262,10 +295,11 @@
         "publishedAt": "Tue, 24 Mar 2026 00:00:00 -0400",
         "normalizedTags": [
           "arxiv cs.ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-24/2026-03-24-research-AI-014.webp"
       },
       {
-        "id": "AI-014",
+        "id": "AI-015",
         "title": "ProMAS: Proactive Error Forecasting for Multi-Agent Systems Using Markov Transition Dynamics",
         "summary": "arXiv:2603.20260v1 Announce Type: new \nAbstract: The integration of Large Language Models into Multi-Agent Systems (MAS) has enabled the so-lution of complex, long-horizon tasks through collaborative reasoning. However, this collec-tive intelligence ",
         "content": "arXiv:2603.20260v1 Announce Type: new \nAbstract: The integration of Large Language Models into Multi-Agent Systems (MAS) has enabled the so-lution of complex, long-horizon tasks through collaborative reasoning. However, this collec-tive intelligence is inherently fragile, as a single logical fallacy can rapidly propagate and lead to system-wide failure. Most current research re-lies on post-hoc failure analysis, thereby hinder-ing real-time intervention. To address this, we propose PROMAS, a pro",
@@ -281,170 +315,218 @@
         "publishedAt": "Tue, 24 Mar 2026 00:00:00 -0400",
         "normalizedTags": [
           "arxiv cs.ai"
-        ]
-      },
-      {
-        "id": "AI-015",
-        "title": "Domain-Specialized Tree of Thought through Plug-and-Play Predictors",
-        "summary": "arXiv:2603.20267v1 Announce Type: new \nAbstract: While Large Language Models (LLMs) have advanced complex reasoning, prominent methods like the Tree of Thoughts (ToT) framework face a critical trade-off between exploration depth and computational eff",
-        "content": "arXiv:2603.20267v1 Announce Type: new \nAbstract: While Large Language Models (LLMs) have advanced complex reasoning, prominent methods like the Tree of Thoughts (ToT) framework face a critical trade-off between exploration depth and computational efficiency. Existing ToT implementations often rely on heavyweight LLM-based self-evaluation or rigid heuristics for branch pruning, making them prohibitively expensive and inflexible for broad application. To address this, we introduce DST, an adaptabl",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://arxiv.org/abs/2603.20267",
-        "sourceName": "ArXiv CS.AI",
-        "tags": [
-          "ArXiv CS.AI"
         ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Tue, 24 Mar 2026 00:00:00 -0400",
-        "normalizedTags": [
-          "arxiv cs.ai"
-        ]
+        "imageUrl": "/images/2026-03-24/2026-03-24-research-AI-015.webp"
       }
     ],
     "applications": [],
     "business": [
       {
         "id": "AI-016",
-        "title": "Anthropic says Claude can now use your computer to finish tasks for you in AI agent push",
-        "summary": "Anthropic and its rivals are trying to ramp up capabilities of AI agents after OpenClaw went viral earlier this year.",
-        "content": "Anthropic and its rivals are trying to ramp up capabilities of AI agents after OpenClaw went viral earlier this year.",
+        "title": "Arm stock pops 6% as CEO Haas issues $15 billion revenue expectation for new chip",
+        "summary": "Arm unveiled its first in-house chip on Tuesday at an event in San Francisco, with Meta as the initial customer.",
+        "content": "Arm unveiled its first in-house chip on Tuesday at an event in San Francisco, with Meta as the initial customer.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/24/anthropic-claude-ai-agent-use-computer-finish-tasks.html",
+        "sourceUrl": "https://www.cnbc.com/2026/03/24/arm-stock-pops-haas-chip-cpu.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Tue, 24 Mar 2026 10:03:38 GMT",
+        "publishedAt": "Tue, 24 Mar 2026 22:46:48 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-24/2026-03-24-business-AI-016.webp"
       },
       {
         "id": "AI-017",
-        "title": "Iran Supreme Leader Mojtaba Khamenei gets another blue check on X, despite sanctions policy ",
-        "summary": "Iran's new Supreme Leader, Mojtaba Khamenei, appears to have subscribed to a new X Premium English-language account.",
-        "content": "Iran's new Supreme Leader, Mojtaba Khamenei, appears to have subscribed to a new X Premium English-language account.",
+        "title": "Amazon acquires 'approachable' humanoid maker Fauna Robotics",
+        "summary": "Fauna's first product, called Sprout, is a $50,000 bipedal robot that's 3 feet, 6 inches tall and designed to be \"approachable and human-friendly.\"",
+        "content": "Fauna's first product, called Sprout, is a $50,000 bipedal robot that's 3 feet, 6 inches tall and designed to be \"approachable and human-friendly.\"",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/24/iran-supreme-leader-gets-new-x-premium-account-despite-sanctions.html",
+        "sourceUrl": "https://www.cnbc.com/2026/03/24/amazon-humanoid-maker-fauna-robotics-sprout.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Tue, 24 Mar 2026 09:05:15 GMT",
+        "publishedAt": "Tue, 24 Mar 2026 22:38:34 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-24/2026-03-24-business-AI-017.webp"
       },
       {
         "id": "AI-018",
-        "title": "Amazon faces further AWS disruption in the Middle East from Iran conflict ",
-        "summary": "AWS is facing more service disruptions in Bahrain as a result of the ongoing conflict ‌in the Middle East, marking the second such disruptions this month.",
-        "content": "AWS is facing more service disruptions in Bahrain as a result of the ongoing conflict ‌in the Middle East, marking the second such disruptions this month.",
+        "title": "OpenAI shutters short-form video app Sora as company reels in costs",
+        "summary": "OpenAI said it's closing Sora, the short-form video app that went viral after its launch six months ago",
+        "content": "OpenAI said it's closing Sora, the short-form video app that went viral after its launch six months ago",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/24/amazon-aws-disruption-in-bahrain-iran.html",
+        "sourceUrl": "https://www.cnbc.com/2026/03/24/openai-shutters-short-form-video-app-sora-as-company-reels-in-costs.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Tue, 24 Mar 2026 11:42:12 GMT",
+        "publishedAt": "Tue, 24 Mar 2026 22:06:01 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-24/2026-03-24-business-AI-018.webp"
       },
       {
         "id": "AI-019",
-        "title": "British fintech Revolut reports record annual profit as it gears up for U.S. push",
-        "summary": "The startup, which hit a $75 billion valuation in 2025, is one of Europe's most valuable private tech companies.",
-        "content": "The startup, which hit a $75 billion valuation in 2025, is one of Europe's most valuable private tech companies.",
+        "title": "Meta must pay $375 million for violating New Mexico law in child exploitation case, jury rules",
+        "summary": "Jury reaches a verdict in New Mexico trial in which the state's attorney general alleged that Meta failed to safeguard its family of apps from child predators.",
+        "content": "Jury reaches a verdict in New Mexico trial in which the state's attorney general alleged that Meta failed to safeguard its family of apps from child predators.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/24/revolut-2025-earnings-record-profit.html",
+        "sourceUrl": "https://www.cnbc.com/2026/03/24/jury-reaches-verdict-in-meta-child-safety-trial-in-new-mexico.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Tue, 24 Mar 2026 09:30:59 GMT",
+        "publishedAt": "Tue, 24 Mar 2026 22:49:56 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-24/2026-03-24-business-AI-019.webp"
       },
       {
         "id": "AI-020",
-        "title": "OpenAI calls out Microsoft reliance as risk in investor document ahead of expected IPO",
-        "summary": "In a document that resembles an IPO prospectus, OpenAI highlighted the risk of its dependence on Microsoft and of supply disruptions at TSMC.",
-        "content": "In a document that resembles an IPO prospectus, OpenAI highlighted the risk of its dependence on Microsoft and of supply disruptions at TSMC.",
+        "title": "Google partners with Agile Robots, growing its AI robotics footprint",
+        "summary": "Google's DeepMind division has been partnering with more robotics companies in recent months.",
+        "content": "Google's DeepMind division has been partnering with more robotics companies in recent months.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/23/openai-risk-factors-microsoft-reliance-elon-musk-and-xai-lawsuits.html",
+        "sourceUrl": "https://www.cnbc.com/2026/03/24/google-agile-robots-ai-robotics.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Mon, 23 Mar 2026 23:36:42 GMT",
+        "publishedAt": "Tue, 24 Mar 2026 19:45:47 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-24/2026-03-24-business-AI-020.webp"
       }
     ],
     "policy": [
       {
         "id": "AI-021",
-        "title": "Judge Hears State Challenge to Trump’s Tech Deal Settlement",
-        "summary": "Democratic state attorneys general are fighting the Justice Department’s clearance of a $14 billion deal by Hewlett Packard Enterprise, arguing it was ineffective and corrupt.",
-        "content": "Democratic state attorneys general are fighting the Justice Department’s clearance of a $14 billion deal by Hewlett Packard Enterprise, arguing it was ineffective and corrupt.",
+        "title": "Arm Holdings, in Break From Past, Will Sell Its Own Computer Chips",
+        "summary": "For years, the company sold chip designs to other companies. Now it plans to sell its own chips for A.I. data centers.",
+        "content": "For years, the company sold chip designs to other companies. Now it plans to sell its own chips for A.I. data centers.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/03/23/technology/hpe-juniper-hearing-settlement.html",
+        "sourceUrl": "https://www.nytimes.com/2026/03/24/technology/arm-holdings-sell-chips.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Mon, 23 Mar 2026 20:39:49 +0000",
+        "publishedAt": "Tue, 24 Mar 2026 17:00:06 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-24/2026-03-24-policy-AI-021.webp"
       },
       {
         "id": "AI-022",
-        "title": "‘Real Housewives’ Has Been a Meme Gold Mine for 20 Years",
-        "summary": "The Bravo TV empire, which turns 20 this month, has also been a gold mine for the internet.",
-        "content": "The Bravo TV empire, which turns 20 this month, has also been a gold mine for the internet.",
+        "title": "Epic Games Lays Off Over 1,000 Employees, Citing Fortnite Slump",
+        "summary": "The cut represents about 20 percent of the video game company’s work force, a spokeswoman said.",
+        "content": "The cut represents about 20 percent of the video game company’s work force, a spokeswoman said.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/03/23/arts/television/real-housewives-memes-bravo.html",
+        "sourceUrl": "https://www.nytimes.com/2026/03/24/business/epic-games-layoffs-fortnite.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Mon, 23 Mar 2026 14:04:54 +0000",
+        "publishedAt": "Tue, 24 Mar 2026 19:12:17 +0000",
         "normalizedTags": [
           "nyt technology"
+        ],
+        "imageUrl": "/images/2026-03-24/2026-03-24-policy-AI-022.webp"
+      },
+      {
+        "id": "AI-023",
+        "title": "OpenAI Is Shutting Down Sora, Its A.I. Video Generator",
+        "summary": "The start-up said it would discontinue Sora just three months after signing a multiyear deal to bring Disney characters to the service.",
+        "content": "The start-up said it would discontinue Sora just three months after signing a multiyear deal to bring Disney characters to the service.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/03/24/technology/openai-shutting-down-sora.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 24 Mar 2026 23:07:42 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-03-24/2026-03-24-policy-AI-023.webp"
+      },
+      {
+        "id": "AI-024",
+        "title": "Meta Ordered to Pay $375 Million Over Child Safety Violations",
+        "summary": "In one of the company’s first major losses, New Mexico jurors found that it had misled consumers about the safety of its platforms, enabling sexual exploitation of young users.",
+        "content": "In one of the company’s first major losses, New Mexico jurors found that it had misled consumers about the safety of its platforms, enabling sexual exploitation of young users.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/03/24/technology/meta-new-mexico-child-safety-violations.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 24 Mar 2026 22:27:38 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-03-24/2026-03-24-policy-AI-024.webp"
+      },
+      {
+        "id": "AI-025",
+        "title": "Jury says Meta must pay $375 million for endangering children online",
+        "summary": "The state of New Mexico alleged that Facebook’s algorithms and lack of protections for young users put them at risk of harms including sexual abuse.",
+        "content": "The state of New Mexico alleged that Facebook’s algorithms and lack of protections for young users put them at risk of harms including sexual abuse.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.washingtonpost.com/technology/2026/03/24/meta-jury-harm-children/",
+        "sourceName": "Washington Post Tech",
+        "tags": [
+          "Washington Post Tech"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 24 Mar 2026 23:14:55 +0000",
+        "normalizedTags": [
+          "washington post tech"
         ]
       }
     ],
     "concerns": [],
     "culture": [
       {
-        "id": "AI-023",
+        "id": "AI-026",
         "title": "Amount of AI-generated child sexual abuse material found online surged in 2025",
         "summary": "Internet Watch Foundation verified 8,029 pieces of realistic AI-made content, with 65% of videos in worst category\nThe amount of AI-generated child sexual abuse material found online rose by 14% last year, with the majority of videos showing the most",
         "content": "Internet Watch Foundation verified 8,029 pieces of realistic AI-made content, with 65% of videos in worst category\nThe amount of AI-generated child sexual abuse material found online rose by 14% last year, with the majority of videos showing the most extreme type of content, according to a safety watchdog.\nThe Internet Watch Foundation said it identified 8,029 AI-made images and videos of realistic child sexual abuse material (CSAM) in 2025. It added that there had been a more than 260-fold incr",
@@ -460,83 +542,88 @@
         "publishedAt": "Tue, 24 Mar 2026 06:00:12 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-024",
-        "title": "Revolut warns it risks backlash over support for energy-intensive AI and crypto",
-        "summary": "Fintech company’s profits leap to £1.7bn as it gears up for US push after getting UK banking licence this month \n\nBusiness live – latest updates\n\nThe UK banking app Revolut has said it could face a backlash over its support for energy-intensive secto",
-        "content": "Fintech company’s profits leap to £1.7bn as it gears up for US push after getting UK banking licence this month \n\nBusiness live – latest updates\n\nThe UK banking app Revolut has said it could face a backlash over its support for energy-intensive sectors such as crypto and AI, as it posted a 57% increase in annual profits.\nThe fintech, which can now launch as a fully fledged UK bank after a five-year wait for regulatory approval, warned in its 2025 results that such activities posed a “reputationa",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/business/2026/mar/24/revolut-ai-crypto-profits-us-banking-licence-uk",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
         ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Tue, 24 Mar 2026 10:40:32 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-025",
-        "title": "AI boom risks widening wealth divide, says BlackRock’s Larry Fink",
-        "summary": "CEO of asset manager says only a few firms and investors may reap rewards from growth in the technology\nThe boom in artificial intelligence risks widening inequality, with only a handful of companies and investors likely to reap its financial rewards",
-        "content": "CEO of asset manager says only a few firms and investors may reap rewards from growth in the technology\nThe boom in artificial intelligence risks widening inequality, with only a handful of companies and investors likely to reap its financial rewards, the BlackRock chief executive, Larry Fink, has said.\nThe boss of the $14tn (£10.4tn) asset manager used his annual letter to investors on Monday to highlight potential hazards around the exponential growth in AI, which has attracted rapid investmen",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 23 Mar 2026 16:51:35 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-026",
-        "title": "Do we have to keep talking about AI? The machines are always one step ahead | Zoe Williams",
-        "summary": "Whether you want to free it or regulate it into submission, one thing is clear: this new technology is moving so fast that we can’t fully grasp it\nAt an 80th birthday party at the weekend, I met an academic who was evasive about his field. When he fi",
-        "content": "Whether you want to free it or regulate it into submission, one thing is clear: this new technology is moving so fast that we can’t fully grasp it\nAt an 80th birthday party at the weekend, I met an academic who was evasive about his field. When he finally disclosed “computer science”, I asked him why he hadn’t wanted to say, and he replied: “Because I cannot have one more conversation about AI.” I couldn’t ask him why not, because of stupid manners; that would have been one more conversation abo",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/commentisfree/2026/mar/23/do-we-have-to-keep-talking-about-ai-the-machines-are-always-one-step-ahead",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 23 Mar 2026 13:50:39 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
+        "imageUrl": "/images/2026-03-24/2026-03-24-culture-AI-026.webp"
       },
       {
         "id": "AI-027",
-        "title": "Chris Hayes Has Some Advice for Keeping Up With the News",
-        "summary": "The host of MS Now’s All In, knows how hard it is to stay current. But he also knows where you should focus your attention—and it starts with a sober view of AI.",
-        "content": "The host of MS Now’s All In, knows how hard it is to stay current. But he also knows where you should focus your attention—and it starts with a sober view of AI.",
+        "title": "OpenAI shutters AI video generator Sora after just six months",
+        "summary": "App that allowed people to make and share AI videos was popular but received criticism for racist and violent content\nIn an abrupt announcement on Tuesday, OpenAI said it was “saying goodbye” to its AI video generator Sora. The move comes just six mo",
+        "content": "App that allowed people to make and share AI videos was popular but received criticism for racist and violent content\nIn an abrupt announcement on Tuesday, OpenAI said it was “saying goodbye” to its AI video generator Sora. The move comes just six months after the company’s splashy launch of a stand-alone app where people could make and share hyper-realistic AI videos in a scrolling social feed.\n“To everyone who created with Sora, shared it, and built community around it: thank you,” the company",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.wired.com/story/the-big-interview-podcast-chris-hayes/",
-        "sourceName": "Wired AI",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/mar/24/openai-ai-video-sora",
+        "sourceName": "The Guardian AI",
         "tags": [
-          "Wired AI"
+          "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Tue, 24 Mar 2026 10:30:00 +0000",
+        "publishedAt": "Tue, 24 Mar 2026 22:34:10 GMT",
         "normalizedTags": [
-          "wired ai"
-        ]
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-03-24/2026-03-24-culture-AI-027.webp"
+      },
+      {
+        "id": "AI-028",
+        "title": "Anthropic and Pentagon face off in court over ban on company’s AI model",
+        "summary": "After Anthropic refused to let its AI to be used in autonomous weapons systems, Trump ordered US agencies to quit using it\n\nSign up for the Breaking News US email to get newsletter alerts in your inbox\n\nAnthropic faced against the Department of Defen",
+        "content": "After Anthropic refused to let its AI to be used in autonomous weapons systems, Trump ordered US agencies to quit using it\n\nSign up for the Breaking News US email to get newsletter alerts in your inbox\n\nAnthropic faced against the Department of Defense in a federal court on Tuesday afternoon, as the artificial intelligence company seeks a temporary pause on the government’s decision to bar the US military and any contractors from using its technology. The two sides have been locked in an escalat",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/us-news/2026/mar/24/anthropic-pentagon-lawsuit",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 24 Mar 2026 21:09:40 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-03-24/2026-03-24-culture-AI-028.webp"
+      },
+      {
+        "id": "AI-029",
+        "title": "Baltimore sues Elon Musk’s AI company over Grok’s fake nude images",
+        "summary": "Lawsuit argues XAI failed to disclose risks, limitations and exposure to harm that come with using chatbot\nThe mayor and city council of Baltimore, Maryland, filed a lawsuit against Elon Musk’s xAI company on Tuesday, alleging that its Grok chatbot v",
+        "content": "Lawsuit argues XAI failed to disclose risks, limitations and exposure to harm that come with using chatbot\nThe mayor and city council of Baltimore, Maryland, filed a lawsuit against Elon Musk’s xAI company on Tuesday, alleging that its Grok chatbot violated consumer protections by generating nonconsensual sexualized images.\nBaltimore’s lawsuit argues that xAI deceptively marketed Grok as a general-purpose AI assistant and X as a mainstream social media site, failing to disclose the risks, limita",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/mar/24/elon-musk-grok-ai-lawsuit-baltimore",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 24 Mar 2026 18:57:05 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-03-24/2026-03-24-culture-AI-029.webp"
+      },
+      {
+        "id": "AI-030",
+        "title": "‘I’m deathly afraid’: what is digital spirituality leading us toward?",
+        "summary": "Where traditional religion once gathered people together, digital spirituality is now consumed in isolation, mediated by tech gods with opaque agendas\n\nSign up for AI for the People, a six-week newsletter course, here\n\nJim Pu’u didn’t set out to find",
+        "content": "Where traditional religion once gathered people together, digital spirituality is now consumed in isolation, mediated by tech gods with opaque agendas\n\nSign up for AI for the People, a six-week newsletter course, here\n\nJim Pu’u didn’t set out to find God. His soul-searching began with a modest idea: to leave a record of his life in case something happened to him. His own father had died young, leaving behind only scraps of his memory, and he didn’t want his daughter to face the same void.\nIn Dec",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/24/ai-religion-god-digital-spirituality",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 24 Mar 2026 17:00:43 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-03-24/2026-03-24-culture-AI-030.webp"
       }
     ]
   },
@@ -546,33 +633,37 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/",
-    "https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/",
-    "https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/",
-    "https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/",
-    "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/",
-    "https://the-decoder.com/nvidia-ceo-jensen-huang-the-idea-that-ai-will-destroy-software-is-ridiculous/",
-    "https://the-decoder.com/anthropic-lets-claude-take-control-of-your-desktop-when-regular-app-integrations-fall-short/",
-    "https://the-decoder.com/meta-acqui-hires-dreamers-entire-team-to-bolster-its-lagging-ai-agent-ambitions/",
-    "https://the-decoder.com/luma-ais-uni-1-could-be-the-first-real-challenger-to-googles-nano-banana-image-dominance/",
-    "https://the-decoder.com/openai-lures-private-equity-firms-with-guaranteed-returns-in-race-against-anthropic/",
-    "https://www.technologyreview.com/2026/03/23/1134527/the-hardest-question-to-answer-about-ai-fueled-delusions/",
-    "https://www.technologyreview.com/2026/03/23/1134509/the-download-animal-welfare-agi-pilled-white-house-unveils-ai-policy/",
+    "https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/",
+    "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
+    "https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/",
+    "https://techcrunch.com/2026/03/24/databricks-buys-two-startups-lakewatch-antimatter-siftd-ai-security/",
+    "https://techcrunch.com/2026/03/24/arm-is-releasing-its-first-in-house-chip-in-its-35-year-history/",
+    "https://the-decoder.com/popular-ai-proxy-litellm-got-hacked-with-malware-that-spreads-through-kubernetes-clusters/",
+    "https://the-decoder.com/google-deepminds-gemini-3-1-flash-lite-generates-websites-almost-in-real-time/",
+    "https://the-decoder.com/a-man-created-thousands-of-fake-accounts-to-stream-ai-songs-billions-of-times-and-pocket-8-million-in-royalties/",
+    "https://the-decoder.com/chatgpt-is-turning-into-a-shopping-platform-with-product-images-prices-and-comparisons-but-no-checkout/",
+    "https://the-decoder.com/microsoft-snaps-up-texas-data-center-that-oracle-and-openai-left-behind/",
+    "https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/",
+    "https://www.technologyreview.com/2026/03/24/1134562/cryopreservation-brain-cryonics-organ-transplantation/",
+    "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/",
     "https://arxiv.org/abs/2603.20213",
     "https://arxiv.org/abs/2603.20260",
-    "https://arxiv.org/abs/2603.20267",
-    "https://www.cnbc.com/2026/03/24/anthropic-claude-ai-agent-use-computer-finish-tasks.html",
-    "https://www.cnbc.com/2026/03/24/iran-supreme-leader-gets-new-x-premium-account-despite-sanctions.html",
-    "https://www.cnbc.com/2026/03/24/amazon-aws-disruption-in-bahrain-iran.html",
-    "https://www.cnbc.com/2026/03/24/revolut-2025-earnings-record-profit.html",
-    "https://www.cnbc.com/2026/03/23/openai-risk-factors-microsoft-reliance-elon-musk-and-xai-lawsuits.html",
-    "https://www.nytimes.com/2026/03/23/technology/hpe-juniper-hearing-settlement.html",
-    "https://www.nytimes.com/2026/03/23/arts/television/real-housewives-memes-bravo.html",
+    "https://www.cnbc.com/2026/03/24/arm-stock-pops-haas-chip-cpu.html",
+    "https://www.cnbc.com/2026/03/24/amazon-humanoid-maker-fauna-robotics-sprout.html",
+    "https://www.cnbc.com/2026/03/24/openai-shutters-short-form-video-app-sora-as-company-reels-in-costs.html",
+    "https://www.cnbc.com/2026/03/24/jury-reaches-verdict-in-meta-child-safety-trial-in-new-mexico.html",
+    "https://www.cnbc.com/2026/03/24/google-agile-robots-ai-robotics.html",
+    "https://www.nytimes.com/2026/03/24/technology/arm-holdings-sell-chips.html",
+    "https://www.nytimes.com/2026/03/24/business/epic-games-layoffs-fortnite.html",
+    "https://www.nytimes.com/2026/03/24/technology/openai-shutting-down-sora.html",
+    "https://www.nytimes.com/2026/03/24/technology/meta-new-mexico-child-safety-violations.html",
+    "https://www.washingtonpost.com/technology/2026/03/24/meta-jury-harm-children/",
     "https://www.theguardian.com/technology/2026/mar/24/ai-generated-child-sexual-abuse-videos-images-online-surged-2025-internet-watch-foundation",
-    "https://www.theguardian.com/business/2026/mar/24/revolut-ai-crypto-profits-us-banking-licence-uk",
-    "https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink",
-    "https://www.theguardian.com/commentisfree/2026/mar/23/do-we-have-to-keep-talking-about-ai-the-machines-are-always-one-step-ahead",
-    "https://www.wired.com/story/the-big-interview-podcast-chris-hayes/"
+    "https://www.theguardian.com/technology/2026/mar/24/openai-ai-video-sora",
+    "https://www.theguardian.com/us-news/2026/mar/24/anthropic-pentagon-lawsuit",
+    "https://www.theguardian.com/technology/2026/mar/24/elon-musk-grok-ai-lawsuit-baltimore",
+    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/24/ai-religion-god-digital-spirituality"
   ],
-  "generatedAt": "2026-03-24T11:43:05.661Z"
+  "generatedAt": "2026-03-24T23:23:05.011Z",
+  "simpleSummaryImageUrl": "/images/2026-03-24/2026-03-24-summary.webp"
 }
