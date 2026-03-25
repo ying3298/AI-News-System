@@ -2,10 +2,11 @@
   "date": "2026-03-25",
   "dateFormatted": "March 25, 2026",
   "headline": {
-    "title": "Lucid Bots raises $20M to keep up with demand for its window-washing drones ",
-    "summary": "Lucid Bots has seen demand accelerate over the last year for its window cleaning drones and power washing robots.",
-    "sourceUrl": "https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/",
-    "sourceName": "TechCrunch AI"
+    "title": "The AI skills gap is here, says AI company, and power users are pulling ahead",
+    "summary": "Anthropic finds AI isn’t replacing jobs yet, but early data shows growing inequality as experienced users gain an edge, raising concerns about future displacement and workforce divides.",
+    "sourceUrl": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/",
+    "sourceName": "TechCrunch AI",
+    "imageUrl": "/images/2026-03-25/2026-03-25-hero.webp"
   },
   "simpleSummary": [
     "Today's edition was assembled directly from RSS feeds without AI curation.",
@@ -15,103 +16,188 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "Lucid Bots raises $20M to keep up with demand for its window-washing drones ",
-        "summary": "Lucid Bots has seen demand accelerate over the last year for its window cleaning drones and power washing robots.",
-        "content": "Lucid Bots has seen demand accelerate over the last year for its window cleaning drones and power washing robots.",
+        "title": "The AI skills gap is here, says AI company, and power users are pulling ahead",
+        "summary": "Anthropic finds AI isn’t replacing jobs yet, but early data shows growing inequality as experienced users gain an edge, raising concerns about future displacement and workforce divides.",
+        "content": "Anthropic finds AI isn’t replacing jobs yet, but early data shows growing inequality as experienced users gain an edge, raising concerns about future displacement and workforce divides.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/",
+        "sourceUrl": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Wed, 25 Mar 2026 11:00:00 +0000",
+        "publishedAt": "Wed, 25 Mar 2026 21:44:13 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-25/2026-03-25-tools-AI-001.webp"
       },
       {
         "id": "AI-002",
-        "title": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
-        "summary": "The fundraise includes $1 billion for investing in early-stage startups, and $2.5 billion for late-stage growth businesses.",
-        "content": "The fundraise includes $1 billion for investing in early-stage startups, and $2.5 billion for late-stage growth businesses.",
+        "title": "Google unveils TurboQuant, a new AI memory compression algorithm — and yes, the internet is calling it ‘Pied Piper’",
+        "summary": "Google’s TurboQuant has the internet joking about Pied Piper from HBO's \"Silicon Valley.\" The compression algorithm promises to shrink AI’s “working memory” by up to 6x, but it’s still just a lab experiment for now.",
+        "content": "Google’s TurboQuant has the internet joking about Pied Piper from HBO's \"Silicon Valley.\" The compression algorithm promises to shrink AI’s “working memory” by up to 6x, but it’s still just a lab experiment for now.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/",
+        "sourceUrl": "https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Wed, 25 Mar 2026 00:47:20 +0000",
+        "publishedAt": "Wed, 25 Mar 2026 20:38:45 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-25/2026-03-25-tools-AI-002.webp"
       },
       {
         "id": "AI-003",
-        "title": "OpenAI’s Sora was the creepiest app on your phone — now it’s shutting down",
-        "summary": "Though the underlying Sora 2 video- and audio-generation model is scarily impressive, there was not sustained interest in an AI-only social feed.",
-        "content": "Though the underlying Sora 2 video- and audio-generation model is scarily impressive, there was not sustained interest in an AI-only social feed.",
+        "title": "Melania Trump wants a robot to homeschool your child",
+        "summary": "The first lady sees AI and robotics playing a prominent role in the future of American education.",
+        "content": "The first lady sees AI and robotics playing a prominent role in the future of American education.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/",
+        "sourceUrl": "https://techcrunch.com/2026/03/25/melania-trump-wants-a-robot-to-homeschool-your-child/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Tue, 24 Mar 2026 23:57:55 +0000",
+        "publishedAt": "Wed, 25 Mar 2026 18:55:41 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-25/2026-03-25-tools-AI-003.webp"
       },
       {
         "id": "AI-004",
-        "title": "Kentucky woman rejects $26M offer to turn her farm into a data center",
-        "summary": "A \"major artificial intelligence company\" reportedly offered a Kentucky family $26 million to build a data center on their farm.",
-        "content": "A \"major artificial intelligence company\" reportedly offered a Kentucky family $26 million to build a data center on their farm.",
+        "title": "Bernie Sanders and AOC propose a ban on data center construction",
+        "summary": "Senator Bernie Sanders and Rep. Alexandria Ocasio-Cortez introduced companion legislation to halt construction on new data centers until Congress passes comprehensive AI regulation.",
+        "content": "Senator Bernie Sanders and Rep. Alexandria Ocasio-Cortez introduced companion legislation to halt construction on new data centers until Congress passes comprehensive AI regulation.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/",
+        "sourceUrl": "https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Tue, 24 Mar 2026 22:22:57 +0000",
+        "publishedAt": "Wed, 25 Mar 2026 17:15:50 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-25/2026-03-25-tools-AI-004.webp"
       },
       {
         "id": "AI-005",
-        "title": "Anthropic hands Claude Code more control, but keeps it on a leash",
-        "summary": "Anthropic’s new auto mode for Claude Code lets AI execute tasks with fewer approvals, reflecting a broader shift toward more autonomous tools that balance speed with safety through built-in safeguards.",
-        "content": "Anthropic’s new auto mode for Claude Code lets AI execute tasks with fewer approvals, reflecting a broader shift toward more autonomous tools that balance speed with safety through built-in safeguards.",
+        "title": "Google launches Lyria 3 Pro music generation model",
+        "summary": "Google is launching Lyria 3 Pro, an upgraded music model that generates longer, more customizable tracks, as it expands AI music tools across Gemini, enterprise products, and other services.",
+        "content": "Google is launching Lyria 3 Pro, an upgraded music model that generates longer, more customizable tracks, as it expands AI music tools across Gemini, enterprise products, and other services.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
+        "sourceUrl": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Tue, 24 Mar 2026 21:00:30 +0000",
+        "publishedAt": "Wed, 25 Mar 2026 16:37:43 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-25/2026-03-25-tools-AI-005.webp"
       }
     ],
     "creative": [
       {
         "id": "AI-006",
+        "title": "Google launches AI music generator Lyria 3 Pro, says it was trained on data it has the right to use",
+        "summary": "Google is making AI music longer and more widely available: Lyria 3 Pro generates songs up to three minutes long, complete with verses, choruses, and bridges. Google says the model was trained on content it has the right to use. That sets it apart fr",
+        "content": "Google is making AI music longer and more widely available: Lyria 3 Pro generates songs up to three minutes long, complete with verses, choruses, and bridges. Google says the model was trained on content it has the right to use. That sets it apart from rival music generator Suno, which is facing legal battles with record labels over potential copyright infringement.\nThe article Google launches AI music generator Lyria 3 Pro, says it was trained on data it has the right to use appeared first on T",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/google-launches-ai-music-generator-lyria-3-pro-says-it-was-trained-on-data-it-has-the-right-to-use/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 25 Mar 2026 19:12:07 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ],
+        "imageUrl": "/images/2026-03-25/2026-03-25-creative-AI-006.webp"
+      },
+      {
+        "id": "AI-007",
+        "title": "AI2's fully open web agent MolmoWeb navigates the web using only screenshots",
+        "summary": "AI2 releases MolmoWeb, a fully open web agent that navigates websites using only screenshots. Despite having just 4 and 8 billion parameters, the models beat several larger proprietary systems on standard benchmarks.\nThe article AI2's fully open web ",
+        "content": "AI2 releases MolmoWeb, a fully open web agent that navigates websites using only screenshots. Despite having just 4 and 8 billion parameters, the models beat several larger proprietary systems on standard benchmarks.\nThe article AI2's fully open web agent MolmoWeb navigates the web using only screenshots appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/ai2s-fully-open-web-agent-molmoweb-navigates-the-web-using-only-screenshots/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 25 Mar 2026 17:41:13 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ],
+        "imageUrl": "/images/2026-03-25/2026-03-25-creative-AI-007.webp"
+      },
+      {
+        "id": "AI-008",
+        "title": "Arm breaks from its licensing-only model with first in-house chip built for AI data centers",
+        "summary": "For the first time in its 35-year history, Arm has manufactured its own chip, expanding beyond its long-standing business model of licensing chip designs to companies like Apple and Nvidia. \nThe article Arm breaks from its licensing-only model with f",
+        "content": "For the first time in its 35-year history, Arm has manufactured its own chip, expanding beyond its long-standing business model of licensing chip designs to companies like Apple and Nvidia. \nThe article Arm breaks from its licensing-only model with first in-house chip built for AI data centers appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/arm-breaks-from-its-licensing-only-model-with-first-in-house-chip-built-for-ai-data-centers/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 25 Mar 2026 15:10:16 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ],
+        "imageUrl": "/images/2026-03-25/2026-03-25-creative-AI-008.webp"
+      },
+      {
+        "id": "AI-009",
+        "title": "OpenAI CEO Sam Altman reportedly teases a \"very strong\" model internally that can \"really accelerate the economy\"",
+        "summary": "OpenAI has reportedly finished pretraining its next major AI model, codenamed \"Spud.\" CEO Sam Altman says it can \"really accelerate the economy.\"\nThe article OpenAI CEO Sam Altman reportedly teases a \"very strong\" model internally that can \"really ac",
+        "content": "OpenAI has reportedly finished pretraining its next major AI model, codenamed \"Spud.\" CEO Sam Altman says it can \"really accelerate the economy.\"\nThe article OpenAI CEO Sam Altman reportedly teases a \"very strong\" model internally that can \"really accelerate the economy\" appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/openai-ceo-sam-altman-reportedly-teases-a-very-strong-model-internally-that-can-really-accelerate-the-economy/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 25 Mar 2026 12:19:41 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ],
+        "imageUrl": "/images/2026-03-25/2026-03-25-creative-AI-009.webp"
+      },
+      {
+        "id": "AI-010",
         "title": "Disney pulls out of OpenAI partnership after Sora app and API gets killed just months after launch",
         "summary": "OpenAI is shutting down its Sora app and API. Disney is now walking away from the billion-dollar deal the two companies signed just last December.\nThe article Disney pulls out of OpenAI partnership after Sora app and API gets killed just months after",
         "content": "OpenAI is shutting down its Sora app and API. Disney is now walking away from the billion-dollar deal the two companies signed just last December.\nThe article Disney pulls out of OpenAI partnership after Sora app and API gets killed just months after launch appeared first on The Decoder.",
@@ -127,302 +213,278 @@
         "publishedAt": "Wed, 25 Mar 2026 10:52:09 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
-      },
-      {
-        "id": "AI-007",
-        "title": "OpenAI expands its record funding round to over $120 billion as it eyes a potential IPO later this year",
-        "summary": "OpenAI adds another 10 billion dollars to its record financing round, bringing the total past 120 billion dollars ahead of a potential IPO.\nThe article OpenAI expands its record funding round to over $120 billion as it eyes a potential IPO later this",
-        "content": "OpenAI adds another 10 billion dollars to its record financing round, bringing the total past 120 billion dollars ahead of a potential IPO.\nThe article OpenAI expands its record funding round to over $120 billion as it eyes a potential IPO later this year appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/openai-expands-its-record-funding-round-to-over-120-billion-as-it-eyes-a-potential-ipo-later-this-year/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
         ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Wed, 25 Mar 2026 10:16:14 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
-      },
-      {
-        "id": "AI-008",
-        "title": "Claude Code's new Auto Mode tries to balance safety and speed",
-        "summary": "Developers using Claude Code have faced an awkward choice: approve every single action manually or turn off all safety checks entirely. Anthropic's new Auto Mode aims to offer a middle ground.\nThe article Claude Code's new Auto Mode tries to balance ",
-        "content": "Developers using Claude Code have faced an awkward choice: approve every single action manually or turn off all safety checks entirely. Anthropic's new Auto Mode aims to offer a middle ground.\nThe article Claude Code's new Auto Mode tries to balance safety and speed appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/claude-codes-new-auto-mode-tries-to-balance-safety-and-speed/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Wed, 25 Mar 2026 09:56:16 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
-      },
-      {
-        "id": "AI-009",
-        "title": "Popular AI proxy LiteLLM got hacked with malware that spreads through Kubernetes clusters",
-        "summary": "LiteLLM, a popular open-source proxy for AI APIs, has been compromised with malware that steals credentials and spreads across cloud systems. NVIDIA AI Director Jim Fan warns this represents a new class of attacks targeting AI agents.\nThe article Pop",
-        "content": "LiteLLM, a popular open-source proxy for AI APIs, has been compromised with malware that steals credentials and spreads across cloud systems. NVIDIA AI Director Jim Fan warns this represents a new class of attacks targeting AI agents.\nThe article Popular AI proxy LiteLLM got hacked with malware that spreads through Kubernetes clusters appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/popular-ai-proxy-litellm-got-hacked-with-malware-that-spreads-through-kubernetes-clusters/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Tue, 24 Mar 2026 19:40:06 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
-      },
-      {
-        "id": "AI-010",
-        "title": "Google Deepmind's Gemini 3.1 Flash-Lite generates websites almost in real time",
-        "summary": "Google shows in a demo how Gemini 3.1 Flash-Lite generates complete websites in real time. Fast, cheap - but also useful?\nThe article Google Deepmind's Gemini 3.1 Flash-Lite generates websites almost in real time appeared first on The Decoder.",
-        "content": "Google shows in a demo how Gemini 3.1 Flash-Lite generates complete websites in real time. Fast, cheap - but also useful?\nThe article Google Deepmind's Gemini 3.1 Flash-Lite generates websites almost in real time appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/google-deepminds-gemini-3-1-flash-lite-generates-websites-almost-in-real-time/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Tue, 24 Mar 2026 19:07:39 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
+        "imageUrl": "/images/2026-03-25/2026-03-25-creative-AI-010.webp"
       }
     ],
     "research": [
       {
         "id": "AI-011",
-        "title": "The AI Hype Index: AI goes to war",
-        "summary": "AI is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic’s AI model Claude; then OpenAI swept the Pentagon off its feet with an “opportunistic and sloppy” deal. Users quit ChatGPT in droves. People marched through London in the",
-        "content": "AI is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic’s AI model Claude; then OpenAI swept the Pentagon off its feet with an “opportunistic and sloppy” deal. Users quit ChatGPT in droves. People marched through London in the biggest protest against AI to date. If you’re keeping score, Anthropic—the company founded…",
+        "title": "Roundtables: The Next Era of Space Exploration",
+        "summary": "Listen to the session or watch below Whether it’s the race to find life on Mars, the campaign to outsmart killer asteroids, or the quest to make the moon a permanent home to astronauts, scientists’ efforts in space can tell us more about where humani",
+        "content": "Listen to the session or watch below Whether it’s the race to find life on Mars, the campaign to outsmart killer asteroids, or the quest to make the moon a permanent home to astronauts, scientists’ efforts in space can tell us more about where humanity is headed. This subscriber-only discussion examines the progress and possibilities…",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
+        "sourceUrl": "https://www.technologyreview.com/2026/03/25/1134664/roundtables-the-next-era-of-space-exploration/",
         "sourceName": "MIT Tech Review",
         "tags": [
           "MIT Tech Review"
         ],
         "section": "research",
         "readTime": "2 min",
-        "publishedAt": "Wed, 25 Mar 2026 09:00:00 +0000",
+        "publishedAt": "Wed, 25 Mar 2026 17:26:26 +0000",
         "normalizedTags": [
           "mit tech review"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-25/2026-03-25-research-AI-011.webp"
       },
       {
         "id": "AI-012",
-        "title": "Exclusive eBook: Are we ready to hand AI agents the keys?",
-        "summary": "We’re starting to give AI agents real autonomy, but are we prepared for what could happen next? This subscriber-only eBook explores this and angles from experts, such as “If we continue on the current path … we are basically playing Russian roulette ",
-        "content": "We’re starting to give AI agents real autonomy, but are we prepared for what could happen next? This subscriber-only eBook explores this and angles from experts, such as “If we continue on the current path … we are basically playing Russian roulette with humanity.” by Grace Huckins June 12, 2025 Related Stories: Access all subscriber-only…",
+        "title": "Why this battery company is pivoting to AI",
+        "summary": "Qichao Hu doesn’t mince words about how he sees the state of the battery industry. “Almost every Western battery company has either died or is going to die. It’s kind of the reality,” he says. Hu is the CEO of SES AI, a Massachusetts-based battery co",
+        "content": "Qichao Hu doesn’t mince words about how he sees the state of the battery industry. “Almost every Western battery company has either died or is going to die. It’s kind of the reality,” he says. Hu is the CEO of SES AI, a Massachusetts-based battery company. It once had aims of making huge amounts of…",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/",
+        "sourceUrl": "https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/",
         "sourceName": "MIT Tech Review",
         "tags": [
           "MIT Tech Review"
         ],
         "section": "research",
         "readTime": "2 min",
-        "publishedAt": "Tue, 24 Mar 2026 18:17:13 +0000",
+        "publishedAt": "Wed, 25 Mar 2026 15:02:50 +0000",
         "normalizedTags": [
           "mit tech review"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-25/2026-03-25-research-AI-012.webp"
       },
       {
         "id": "AI-013",
-        "title": "This scientist rewarmed and studied pieces of his friend’s cryopreserved brain",
-        "summary": "L. Stephen Coles’s brain sits cushioned in a vat at a storage facility in Arizona. It has been held there at a temperature of around −146 degrees °C for over a decade, largely undisturbed. That is, apart from the time, a little over a year ago, when ",
-        "content": "L. Stephen Coles’s brain sits cushioned in a vat at a storage facility in Arizona. It has been held there at a temperature of around −146 degrees °C for over a decade, largely undisturbed. That is, apart from the time, a little over a year ago, when scientists slowly lifted the brain to take photos…",
+        "title": "This startup wants to change how mathematicians do math",
+        "summary": "Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing problems. The tool, called Axplorer, is a redesign of an",
+        "content": "Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing problems. The tool, called Axplorer, is a redesign of an existing one called PatternBoost that François Charton, now a research scientist at Axiom, co-developed in 2024…",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/03/24/1134562/cryopreservation-brain-cryonics-organ-transplantation/",
+        "sourceUrl": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
         "sourceName": "MIT Tech Review",
         "tags": [
           "MIT Tech Review"
         ],
         "section": "research",
         "readTime": "2 min",
-        "publishedAt": "Tue, 24 Mar 2026 16:43:36 +0000",
+        "publishedAt": "Wed, 25 Mar 2026 13:59:17 +0000",
         "normalizedTags": [
           "mit tech review"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-25/2026-03-25-research-AI-013.webp"
       },
       {
         "id": "AI-014",
-        "title": "The Download: tracing AI-fueled delusions, and OpenAI admits Microsoft risks",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The hardest question to answer about AI-fueled delusions  What actually happens when people spiral into delusion",
-        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The hardest question to answer about AI-fueled delusions  What actually happens when people spiral into delusion with AI? To find out, Stanford researchers analyzed transcripts from chatbot users who experienced these spirals.  Their findings suggest that…",
+        "title": "The Download: reawakening frozen brains, and the AI Hype Index returns",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This scientist rewarmed and studied pieces of his friend’s cryopreserved brain  L. Stephen Coles’s brain sits in",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This scientist rewarmed and studied pieces of his friend’s cryopreserved brain  L. Stephen Coles’s brain sits in a vat at a storage facility in Arizona. It has been held there at a temperature…",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/",
+        "sourceUrl": "https://www.technologyreview.com/2026/03/25/1134636/the-download-reawakening-frozen-brains-and-the-ai-hype-index-returns/",
         "sourceName": "MIT Tech Review",
         "tags": [
           "MIT Tech Review"
         ],
         "section": "research",
         "readTime": "2 min",
-        "publishedAt": "Tue, 24 Mar 2026 12:28:27 +0000",
+        "publishedAt": "Wed, 25 Mar 2026 12:47:44 +0000",
         "normalizedTags": [
           "mit tech review"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-25/2026-03-25-research-AI-014.webp"
       },
       {
         "id": "AI-015",
-        "title": "Memory Bear AI Memory Science Engine for Multimodal Affective Intelligence: A Technical Report",
-        "summary": "arXiv:2603.22306v1 Announce Type: new \nAbstract: Affective judgment in real interaction is rarely a purely local prediction problem. Emotional meaning often depends on prior trajectory, accumulated context, and multimodal evidence that may be weak, n",
-        "content": "arXiv:2603.22306v1 Announce Type: new \nAbstract: Affective judgment in real interaction is rarely a purely local prediction problem. Emotional meaning often depends on prior trajectory, accumulated context, and multimodal evidence that may be weak, noisy, or incomplete at the current moment. Although multimodal emotion recognition (MER) has improved the integration of text, speech, and visual signals, many existing systems remain optimized for short-range inference and provide limited support fo",
+        "title": "Agentic commerce runs on truth and context",
+        "summary": "Imagine telling a digital agent, “Use my points and book a family trip to Italy. Keep it within budget, pick hotels we’ve liked before, and handle the details.” Instead of returning a list of links, the agent assembles an itinerary and executes the p",
+        "content": "Imagine telling a digital agent, “Use my points and book a family trip to Italy. Keep it within budget, pick hotels we’ve liked before, and handle the details.” Instead of returning a list of links, the agent assembles an itinerary and executes the purchase. That shift, from assistance to execution, is what makes agentic AI…",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://arxiv.org/abs/2603.22306",
-        "sourceName": "ArXiv CS.AI",
+        "sourceUrl": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
+        "sourceName": "MIT Tech Review",
         "tags": [
-          "ArXiv CS.AI"
+          "MIT Tech Review"
         ],
         "section": "research",
         "readTime": "2 min",
-        "publishedAt": "Wed, 25 Mar 2026 00:00:00 -0400",
+        "publishedAt": "Wed, 25 Mar 2026 11:48:13 +0000",
         "normalizedTags": [
-          "arxiv cs.ai"
-        ]
+          "mit tech review"
+        ],
+        "imageUrl": "/images/2026-03-25/2026-03-25-research-AI-015.webp"
       }
     ],
     "applications": [],
     "business": [
       {
         "id": "AI-016",
-        "title": "Arm jumps 13% in premarket after saying first in-house chip set to generate $15 billion in revenue",
-        "summary": "Arm said it expects its new chip to generate six times more revenue in 2031 than the $4 billion it made in 2025.",
-        "content": "Arm said it expects its new chip to generate six times more revenue in 2031 than the $4 billion it made in 2025.",
+        "title": "Elon Musk calls for Delaware judge to recuse herself in lawsuits, alleging bias",
+        "summary": "The Tesla and SpaceX CEO is calling for a judge to recuse herself in two shareholder lawsuits that are winding their way through Delaware's courts.",
+        "content": "The Tesla and SpaceX CEO is calling for a judge to recuse herself in two shareholder lawsuits that are winding their way through Delaware's courts.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/25/arm-stock-chip-revenue-agi-cpu.html",
+        "sourceUrl": "https://www.cnbc.com/2026/03/25/elon-musk-calls-for-delaware-judge-to-recuse-in-cases-alleging-bias.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Wed, 25 Mar 2026 10:58:56 GMT",
+        "publishedAt": "Wed, 25 Mar 2026 20:38:52 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-25/2026-03-25-business-AI-016.webp"
       },
       {
         "id": "AI-017",
-        "title": "Meta makes 'big bet' on top leaders with stock options as pressure builds to catch up in AI",
-        "summary": "Meta is granting stock options to top executives as pressure on the company intensifies in the AI battle.",
-        "content": "Meta is granting stock options to top executives as pressure on the company intensifies in the AI battle.",
+        "title": "Space stocks rally on reports of SpaceX's imminent IPO filing",
+        "summary": "Space stocks, including AST SpaceMobile, Rocket Lab and Firefly Aerospace, rallied after a report that SpaceX may file to go public this week.",
+        "content": "Space stocks, including AST SpaceMobile, Rocket Lab and Firefly Aerospace, rallied after a report that SpaceX may file to go public this week.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/24/meta-offers-stock-awards-options-for-executives-aggressive-timing.html",
+        "sourceUrl": "https://www.cnbc.com/2026/03/25/space-stocks-.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Wed, 25 Mar 2026 09:56:39 GMT",
+        "publishedAt": "Wed, 25 Mar 2026 20:08:40 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-25/2026-03-25-business-AI-017.webp"
       },
       {
         "id": "AI-018",
-        "title": "SK Hynix files confidentially for U.S. listing as it rides 'unprecedented growth' in memory market",
-        "summary": "SK Hynix has made a confidential filing for a potential listing in the U.S. this year, as the company looks to expand production.",
-        "content": "SK Hynix has made a confidential filing for a potential listing in the U.S. this year, as the company looks to expand production.",
+        "title": "Microsoft's diversity chief is leaving as company continues 'AI-powered transformation'",
+        "summary": "Hiring and retaining top talent is becoming more critical as Microsoft seeks to develop top-class artificial intelligence models and products.",
+        "content": "Hiring and retaining top talent is becoming more critical as Microsoft seeks to develop top-class artificial intelligence models and products.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/25/sk-hynix-confidential-us-listing-adr-ai-memory.html",
+        "sourceUrl": "https://www.cnbc.com/2026/03/25/microsoft-diversity-chief-ai-hr.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Wed, 25 Mar 2026 03:48:51 GMT",
+        "publishedAt": "Wed, 25 Mar 2026 18:08:08 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-25/2026-03-25-business-AI-018.webp"
       },
       {
         "id": "AI-019",
-        "title": "Arm stock pops 6% as CEO Haas issues $15 billion revenue expectation for new chip",
-        "summary": "Arm unveiled its first in-house chip on Tuesday at an event in San Francisco, with Meta as the initial customer.",
-        "content": "Arm unveiled its first in-house chip on Tuesday at an event in San Francisco, with Meta as the initial customer.",
+        "title": "Jury in Los Angeles finds Meta, YouTube negligent in social media addiction trial",
+        "summary": "A jury reached a verdict in the LA trial focused on Meta and YouTube, a case that experts have characterized as social media's \"Big Tobacco\" moment.",
+        "content": "A jury reached a verdict in the LA trial focused on Meta and YouTube, a case that experts have characterized as social media's \"Big Tobacco\" moment.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/24/arm-stock-pops-haas-chip-cpu.html",
+        "sourceUrl": "https://www.cnbc.com/2026/03/25/meta-youtube-los-angeles-california-verdict.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Wed, 25 Mar 2026 09:54:47 GMT",
+        "publishedAt": "Wed, 25 Mar 2026 20:10:07 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-25/2026-03-25-business-AI-019.webp"
       },
       {
         "id": "AI-020",
-        "title": "Amazon acquires 'approachable' humanoid maker Fauna Robotics",
-        "summary": "Fauna's first product, called Sprout, is a $50,000 bipedal robot that's 3 feet, 6 inches tall and designed to be \"approachable and human-friendly.\"",
-        "content": "Fauna's first product, called Sprout, is a $50,000 bipedal robot that's 3 feet, 6 inches tall and designed to be \"approachable and human-friendly.\"",
+        "title": "UK government to trial social media ban for hundreds of teens",
+        "summary": "A teen social media ban pilot in the U.K. will include restrictions ranging from curfews to time caps on popular apps like Instagram, TikTok, and Snapchat.",
+        "content": "A teen social media ban pilot in the U.K. will include restrictions ranging from curfews to time caps on popular apps like Instagram, TikTok, and Snapchat.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/24/amazon-humanoid-maker-fauna-robotics-sprout.html",
+        "sourceUrl": "https://www.cnbc.com/2026/03/25/uk-trial-social-media-ban-teenagers-online-safety-push.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Tue, 24 Mar 2026 22:38:34 GMT",
+        "publishedAt": "Wed, 25 Mar 2026 15:33:02 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-25/2026-03-25-business-AI-020.webp"
       }
     ],
     "policy": [
       {
         "id": "AI-021",
-        "title": "Arm Holdings, in Break From Past, Will Sell Its Own Computer Chips",
-        "summary": "For years, the company sold chip designs to other companies. Now it plans to sell its own chips for A.I. data centers.",
-        "content": "For years, the company sold chip designs to other companies. Now it plans to sell its own chips for A.I. data centers.",
+        "title": "Meta and YouTube Found Negligent in Landmark Social Media Addiction Trial",
+        "summary": "A jury found the companies harmed a young user with design features that were addictive and led to her mental health distress.",
+        "content": "A jury found the companies harmed a young user with design features that were addictive and led to her mental health distress.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/03/24/technology/arm-holdings-sell-chips.html",
+        "sourceUrl": "https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Tue, 24 Mar 2026 17:00:07 +0000",
+        "publishedAt": "Wed, 25 Mar 2026 21:36:56 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-25/2026-03-25-policy-AI-021.webp"
       },
       {
         "id": "AI-022",
+        "title": "Meta Lays Off 700 Employees, While Rewarding Top Executives",
+        "summary": "The jobs cuts and a new stock program for executives come as Meta continues to shift its focus to artificial intelligence.",
+        "content": "The jobs cuts and a new stock program for executives come as Meta continues to shift its focus to artificial intelligence.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/03/25/technology/meta-layoffs-ai-executives.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 25 Mar 2026 19:22:34 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-03-25/2026-03-25-policy-AI-022.webp"
+      },
+      {
+        "id": "AI-023",
+        "title": "Leon Radvinsky, 43, Dies; Built the Adult-Entertainment Giant OnlyFans",
+        "summary": "By leveraging social media and the influencer economy, he turned his website into a byword for online pornography in the 21st century.",
+        "content": "By leveraging social media and the influencer economy, he turned his website into a byword for online pornography in the 21st century.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/03/25/business/media/leonid-radvinsky-dead.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 25 Mar 2026 22:28:20 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-03-25/2026-03-25-policy-AI-023.webp"
+      },
+      {
+        "id": "AI-024",
         "title": "Epic Games Lays Off Over 1,000 Employees, Citing Fortnite Slump",
         "summary": "The cut represents about 20 percent of the video game company’s work force, a spokeswoman said.",
         "content": "The cut represents about 20 percent of the video game company’s work force, a spokeswoman said.",
@@ -438,73 +500,17 @@
         "publishedAt": "Wed, 25 Mar 2026 11:22:07 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-023",
-        "title": "OpenAI Is Shutting Down Sora, Its A.I. Video Generator",
-        "summary": "The start-up said it would discontinue Sora just three months after signing a multiyear deal to bring Disney characters to the service.",
-        "content": "The start-up said it would discontinue Sora just three months after signing a multiyear deal to bring Disney characters to the service.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/03/24/technology/openai-shutting-down-sora.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
         ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Tue, 24 Mar 2026 23:07:42 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-024",
-        "title": "Meta Ordered to Pay $375 Million Over Child Safety Violations",
-        "summary": "In one of the company’s first major losses, New Mexico jurors found that it had misled consumers about the safety of its platforms, enabling sexual exploitation of young users.",
-        "content": "In one of the company’s first major losses, New Mexico jurors found that it had misled consumers about the safety of its platforms, enabling sexual exploitation of young users.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/03/24/technology/meta-new-mexico-child-safety-violations.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Tue, 24 Mar 2026 22:27:38 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-025",
-        "title": "In Trump’s war messaging, veterans see something new — and disturbing",
-        "summary": "Service members and families who lost loved ones say the Trump team’s memes and jokes trivialize combat and sacrifice. Trump aides say the backlash sends views soaring.",
-        "content": "Service members and families who lost loved ones say the Trump team’s memes and jokes trivialize combat and sacrifice. Trump aides say the backlash sends views soaring.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.washingtonpost.com/technology/2026/03/25/veterans-backlash-white-house-iran-memes/",
-        "sourceName": "Washington Post Tech",
-        "tags": [
-          "Washington Post Tech"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Wed, 25 Mar 2026 09:00:10 +0000",
-        "normalizedTags": [
-          "washington post tech"
-        ]
+        "imageUrl": "/images/2026-03-25/2026-03-25-policy-AI-024.webp"
       }
     ],
     "concerns": [],
     "culture": [
       {
-        "id": "AI-026",
+        "id": "AI-025",
         "title": "Bernie Sanders and AOC introduce bill to pause building of new datacenters",
         "summary": "Lawmakers say moratorium on construction would buy time to create strong, federal guardrails for AI\nAmid an unprecedented energy crisis and the rapid buildout of artificial intelligence infrastructure, progressive lawmakers have unveiled a new policy",
-        "content": "Lawmakers say moratorium on construction would buy time to create strong, federal guardrails for AI\nAmid an unprecedented energy crisis and the rapid buildout of artificial intelligence infrastructure, progressive lawmakers have unveiled a new policy to place a moratorium on the construction of AI datacenters.\nThe policy, announced by Bernie Sanders, an independent senator from Vermont, and Alexandria Ocasio-Cortez, a New York Democratic representative, on Wednesday morning, aims to ensure the A",
+        "content": "Lawmakers say moratorium on construction would buy time to create strong, federal guardrails for AI\nAmid an unprecedented energy crisis and the rapid buildout of artificial intelligence infrastructure, progressive lawmakers have unveiled a new policy to place a moratorium on the construction of AI datacenters.\n“Despite the extraordinary importance of this issue and its impact on every man, woman and child in this country, AI has received far too little serious discussion here in our nation’s cap",
         "keyTakeaways": [],
         "whyItMatters": "",
         "sourceUrl": "https://www.theguardian.com/us-news/2026/mar/25/datacenters-bernie-sanders-aoc",
@@ -514,86 +520,90 @@
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Wed, 25 Mar 2026 11:00:05 GMT",
+        "publishedAt": "Wed, 25 Mar 2026 20:47:10 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-25/2026-03-25-culture-AI-025.webp"
       },
       {
-        "id": "AI-027",
-        "title": "OpenAI shutters AI video generator Sora in abrupt announcement",
-        "summary": "Tech firm ‘says goodbye’ to Sora, made publicly available in 2024, just six months after its launch of a stand-alone app\nIn an abrupt announcement on Tuesday, OpenAI said it was “saying goodbye” to its AI video generator Sora. The move comes just six",
-        "content": "Tech firm ‘says goodbye’ to Sora, made publicly available in 2024, just six months after its launch of a stand-alone app\nIn an abrupt announcement on Tuesday, OpenAI said it was “saying goodbye” to its AI video generator Sora. The move comes just six months after the company’s splashy launch of a stand-alone app where people could make and share hyper-realistic AI videos in a scrolling social feed.\n“To everyone who created with Sora, shared it, and built community around it: thank you,” the comp",
+        "id": "AI-026",
+        "title": "Tell us: have you used AI to plan a holiday?",
+        "summary": "We would like to hear from holidaymakers about their experiences of using AI\nMore people are turning to AI to design their holidays, whether that’s asking ChatGPT for inspiration or using AI trip planners. Almost a fifth of adults under 25 now use AI",
+        "content": "We would like to hear from holidaymakers about their experiences of using AI\nMore people are turning to AI to design their holidays, whether that’s asking ChatGPT for inspiration or using AI trip planners. Almost a fifth of adults under 25 now use AI to plan breaks, according to a 2025 survey of 2,000 people by the UK travel industry body Abta. Overall, twice as many people said they used AI than the year before (8% in 2025 versus 4% in 2024). Over-55s were the least likely to use AI for holiday",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/mar/24/openai-ai-video-sora",
+        "sourceUrl": "https://www.theguardian.com/travel/2026/mar/25/tell-us-have-you-used-ai-to-plan-a-holiday",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Tue, 24 Mar 2026 22:34:10 GMT",
+        "publishedAt": "Wed, 25 Mar 2026 12:40:19 GMT",
         "normalizedTags": [
           "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-03-25/2026-03-25-culture-AI-026.webp"
+      },
+      {
+        "id": "AI-027",
+        "title": "There’s Something Very Dark About a Lot of Those Viral AI Fruit Videos",
+        "summary": "With female AI fruit being fart-shamed and even sexually assaulted, there’s a misogynistic undercurrent to the fruit slop microdramas, even as they appear to be cultivating genuine fans.",
+        "content": "With female AI fruit being fart-shamed and even sexually assaulted, there’s a misogynistic undercurrent to the fruit slop microdramas, even as they appear to be cultivating genuine fans.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.wired.com/story/theres-something-very-dark-about-a-lot-of-those-viral-ai-fruit-videos/",
+        "sourceName": "Wired AI",
+        "tags": [
+          "Wired AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 25 Mar 2026 18:49:40 +0000",
+        "normalizedTags": [
+          "wired ai"
         ]
       },
       {
         "id": "AI-028",
-        "title": "Anthropic and Pentagon face off in court over ban on company’s AI model",
-        "summary": "After Anthropic refused to let its AI to be used in autonomous weapons systems, Trump ordered US agencies to quit using it\n\nSign up for the Breaking News US email to get newsletter alerts in your inbox\n\nAnthropic faced against the Department of Defen",
-        "content": "After Anthropic refused to let its AI to be used in autonomous weapons systems, Trump ordered US agencies to quit using it\n\nSign up for the Breaking News US email to get newsletter alerts in your inbox\n\nAnthropic faced against the Department of Defense in a federal court on Tuesday afternoon, as the artificial intelligence company seeks a temporary pause on the government’s decision to bar the US military and any contractors from using its technology. The two sides have been locked in an escalat",
+        "title": "OpenClaw Agents Can Be Guilt-Tripped Into Self-Sabotage",
+        "summary": "In a controlled experiment, OpenClaw agents proved prone to panic and vulnerable to manipulation. They even disabled their own functionality when gaslit by humans.",
+        "content": "In a controlled experiment, OpenClaw agents proved prone to panic and vulnerable to manipulation. They even disabled their own functionality when gaslit by humans.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/us-news/2026/mar/24/anthropic-pentagon-lawsuit",
-        "sourceName": "The Guardian AI",
+        "sourceUrl": "https://www.wired.com/story/openclaw-ai-agent-manipulation-security-northeastern-study/",
+        "sourceName": "Wired AI",
         "tags": [
-          "The Guardian AI"
+          "Wired AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Tue, 24 Mar 2026 21:09:40 GMT",
+        "publishedAt": "Wed, 25 Mar 2026 18:00:00 +0000",
         "normalizedTags": [
-          "the guardian ai"
-        ]
+          "wired ai"
+        ],
+        "imageUrl": "/images/2026-03-25/2026-03-25-culture-AI-028.webp"
       },
       {
         "id": "AI-029",
-        "title": "Baltimore sues Elon Musk’s AI company over Grok’s fake nude images",
-        "summary": "Lawsuit argues XAI failed to disclose risks, limitations and exposure to harm that come with using chatbot\nThe mayor and city council of Baltimore, Maryland, filed a lawsuit against Elon Musk’s xAI company on Tuesday, alleging that its Grok chatbot v",
-        "content": "Lawsuit argues XAI failed to disclose risks, limitations and exposure to harm that come with using chatbot\nThe mayor and city council of Baltimore, Maryland, filed a lawsuit against Elon Musk’s xAI company on Tuesday, alleging that its Grok chatbot violated consumer protections by generating nonconsensual sexualized images.\nBaltimore’s lawsuit argues that xAI deceptively marketed Grok as a general-purpose AI assistant and X as a mainstream social media site, failing to disclose the risks, limita",
+        "title": "OpenAI Enters Its Focus Era by Killing Sora",
+        "summary": "As the ChatGPT-maker eyes an IPO, it's ditching Sora in favor of a unified AI assistant and enterprise coding tools.",
+        "content": "As the ChatGPT-maker eyes an IPO, it's ditching Sora in favor of a unified AI assistant and enterprise coding tools.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/mar/24/elon-musk-grok-ai-lawsuit-baltimore",
-        "sourceName": "The Guardian AI",
+        "sourceUrl": "https://www.wired.com/story/openai-shuts-down-sora-ipo-ai-superapp/",
+        "sourceName": "Wired AI",
         "tags": [
-          "The Guardian AI"
+          "Wired AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Tue, 24 Mar 2026 18:57:05 GMT",
+        "publishedAt": "Wed, 25 Mar 2026 14:57:45 +0000",
         "normalizedTags": [
-          "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-030",
-        "title": "‘I’m deathly afraid’: what is digital spirituality leading us toward?",
-        "summary": "Where traditional religion once gathered people together, digital spirituality is now consumed in isolation, mediated by tech gods with opaque agendas\n\nSign up for AI for the People, a six-week newsletter course, here\n\nJim Pu’u didn’t set out to find",
-        "content": "Where traditional religion once gathered people together, digital spirituality is now consumed in isolation, mediated by tech gods with opaque agendas\n\nSign up for AI for the People, a six-week newsletter course, here\n\nJim Pu’u didn’t set out to find God. His soul-searching began with a modest idea: to leave a record of his life in case something happened to him. His own father had died young, leaving behind only scraps of his memory, and he didn’t want his daughter to face the same void.\nIn Dec",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/24/ai-religion-god-digital-spirituality",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
+          "wired ai"
         ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Tue, 24 Mar 2026 17:00:43 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
+        "imageUrl": "/images/2026-03-25/2026-03-25-culture-AI-029.webp"
       }
     ]
   },
@@ -603,36 +613,36 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/",
-    "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/",
-    "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/",
-    "https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/",
-    "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
+    "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/",
+    "https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/",
+    "https://techcrunch.com/2026/03/25/melania-trump-wants-a-robot-to-homeschool-your-child/",
+    "https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/",
+    "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/",
+    "https://the-decoder.com/google-launches-ai-music-generator-lyria-3-pro-says-it-was-trained-on-data-it-has-the-right-to-use/",
+    "https://the-decoder.com/ai2s-fully-open-web-agent-molmoweb-navigates-the-web-using-only-screenshots/",
+    "https://the-decoder.com/arm-breaks-from-its-licensing-only-model-with-first-in-house-chip-built-for-ai-data-centers/",
+    "https://the-decoder.com/openai-ceo-sam-altman-reportedly-teases-a-very-strong-model-internally-that-can-really-accelerate-the-economy/",
     "https://the-decoder.com/disney-pulls-out-of-openai-partnership-after-sora-app-and-api-gets-killed-just-months-after-launch/",
-    "https://the-decoder.com/openai-expands-its-record-funding-round-to-over-120-billion-as-it-eyes-a-potential-ipo-later-this-year/",
-    "https://the-decoder.com/claude-codes-new-auto-mode-tries-to-balance-safety-and-speed/",
-    "https://the-decoder.com/popular-ai-proxy-litellm-got-hacked-with-malware-that-spreads-through-kubernetes-clusters/",
-    "https://the-decoder.com/google-deepminds-gemini-3-1-flash-lite-generates-websites-almost-in-real-time/",
-    "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
-    "https://www.technologyreview.com/2026/03/24/1134531/exclusive-ebook-are-we-ready-to-hand-ai-agents-the-keys/",
-    "https://www.technologyreview.com/2026/03/24/1134562/cryopreservation-brain-cryonics-organ-transplantation/",
-    "https://www.technologyreview.com/2026/03/24/1134540/the-download-tracing-ai-fueled-delusions-openai-warns-microsoft-risks/",
-    "https://arxiv.org/abs/2603.22306",
-    "https://www.cnbc.com/2026/03/25/arm-stock-chip-revenue-agi-cpu.html",
-    "https://www.cnbc.com/2026/03/24/meta-offers-stock-awards-options-for-executives-aggressive-timing.html",
-    "https://www.cnbc.com/2026/03/25/sk-hynix-confidential-us-listing-adr-ai-memory.html",
-    "https://www.cnbc.com/2026/03/24/arm-stock-pops-haas-chip-cpu.html",
-    "https://www.cnbc.com/2026/03/24/amazon-humanoid-maker-fauna-robotics-sprout.html",
-    "https://www.nytimes.com/2026/03/24/technology/arm-holdings-sell-chips.html",
+    "https://www.technologyreview.com/2026/03/25/1134664/roundtables-the-next-era-of-space-exploration/",
+    "https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/",
+    "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
+    "https://www.technologyreview.com/2026/03/25/1134636/the-download-reawakening-frozen-brains-and-the-ai-hype-index-returns/",
+    "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
+    "https://www.cnbc.com/2026/03/25/elon-musk-calls-for-delaware-judge-to-recuse-in-cases-alleging-bias.html",
+    "https://www.cnbc.com/2026/03/25/space-stocks-.html",
+    "https://www.cnbc.com/2026/03/25/microsoft-diversity-chief-ai-hr.html",
+    "https://www.cnbc.com/2026/03/25/meta-youtube-los-angeles-california-verdict.html",
+    "https://www.cnbc.com/2026/03/25/uk-trial-social-media-ban-teenagers-online-safety-push.html",
+    "https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html",
+    "https://www.nytimes.com/2026/03/25/technology/meta-layoffs-ai-executives.html",
+    "https://www.nytimes.com/2026/03/25/business/media/leonid-radvinsky-dead.html",
     "https://www.nytimes.com/2026/03/24/business/epic-games-layoffs-fortnite.html",
-    "https://www.nytimes.com/2026/03/24/technology/openai-shutting-down-sora.html",
-    "https://www.nytimes.com/2026/03/24/technology/meta-new-mexico-child-safety-violations.html",
-    "https://www.washingtonpost.com/technology/2026/03/25/veterans-backlash-white-house-iran-memes/",
     "https://www.theguardian.com/us-news/2026/mar/25/datacenters-bernie-sanders-aoc",
-    "https://www.theguardian.com/technology/2026/mar/24/openai-ai-video-sora",
-    "https://www.theguardian.com/us-news/2026/mar/24/anthropic-pentagon-lawsuit",
-    "https://www.theguardian.com/technology/2026/mar/24/elon-musk-grok-ai-lawsuit-baltimore",
-    "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/24/ai-religion-god-digital-spirituality"
+    "https://www.theguardian.com/travel/2026/mar/25/tell-us-have-you-used-ai-to-plan-a-holiday",
+    "https://www.wired.com/story/theres-something-very-dark-about-a-lot-of-those-viral-ai-fruit-videos/",
+    "https://www.wired.com/story/openclaw-ai-agent-manipulation-security-northeastern-study/",
+    "https://www.wired.com/story/openai-shuts-down-sora-ipo-ai-superapp/"
   ],
-  "generatedAt": "2026-03-25T11:39:28.962Z"
+  "generatedAt": "2026-03-25T23:25:54.769Z",
+  "simpleSummaryImageUrl": "/images/2026-03-25/2026-03-25-summary.webp"
 }
