@@ -2,10 +2,11 @@
   "date": "2026-03-27",
   "dateFormatted": "March 27, 2026",
   "headline": {
-    "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
-    "summary": "A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the AI company.",
-    "sourceUrl": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
-    "sourceName": "TechCrunch AI"
+    "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
+    "summary": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate.",
+    "sourceUrl": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
+    "sourceName": "TechCrunch AI",
+    "imageUrl": "/images/2026-03-27/2026-03-27-hero.webp"
   },
   "simpleSummary": [
     "Today's edition was assembled directly from RSS feeds without AI curation.",
@@ -15,200 +16,230 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
-        "summary": "A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the AI company.",
-        "content": "A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the AI company.",
+        "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
+        "summary": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate.",
+        "content": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
+        "sourceUrl": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Fri, 27 Mar 2026 01:18:38 +0000",
+        "publishedAt": "Fri, 27 Mar 2026 21:44:45 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-27/2026-03-27-tools-AI-001.webp"
       },
       {
         "id": "AI-002",
-        "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
-        "summary": "Google is launching \"switching tools\" that, just as it sounds, will make it easier for users of other chatbots to switch to Gemini.",
-        "content": "Google is launching \"switching tools\" that, just as it sounds, will make it easier for users of other chatbots to switch to Gemini.",
+        "title": "Memory chip giant SK hynix could help end ‘RAMmageddon’ with blockbuster US IPO",
+        "summary": "SK hynix’s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon' memory shortage.",
+        "content": "SK hynix’s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon' memory shortage.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
+        "sourceUrl": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Thu, 26 Mar 2026 23:47:56 +0000",
+        "publishedAt": "Fri, 27 Mar 2026 19:11:28 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-27/2026-03-27-tools-AI-002.webp"
       },
       {
         "id": "AI-003",
-        "title": "Wikipedia cracks down on the use of AI in article writing",
-        "summary": "The site, whose policies are subject to change, has struggled with the issue of AI-generated writing.",
-        "content": "The site, whose policies are subject to change, has struggled with the issue of AI-generated writing.",
+        "title": "VCs are betting billions on AI’s next wave, so why is OpenAI killing Sora?",
+        "summary": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby anyway, but as AI infrastructure stretches further",
+        "content": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby anyway, but as AI infrastructure stretches further into the real world, the real world is starting to push back.  That tension is everywhere […]",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
+        "sourceUrl": "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Thu, 26 Mar 2026 21:50:10 +0000",
+        "publishedAt": "Fri, 27 Mar 2026 15:40:19 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-27/2026-03-27-tools-AI-003.webp"
       },
       {
         "id": "AI-004",
-        "title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
-        "summary": "It's only the latest of several side projects that the AI startup has ditched over the past week.",
-        "content": "It's only the latest of several side projects that the AI startup has ditched over the past week.",
+        "title": "OpenAI shuts down Sora while Meta gets shut out in court",
+        "summary": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby anyway, but as AI infrastructure stretches further",
+        "content": "When an 82-year-old Kentucky woman was offered $26 million from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone 2,000 acres nearby anyway, but as AI infrastructure stretches further into the real world, the real world is starting to push back.  That tension is everywhere […]",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
+        "sourceUrl": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Thu, 26 Mar 2026 18:34:02 +0000",
+        "publishedAt": "Fri, 27 Mar 2026 13:30:00 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-27/2026-03-27-tools-AI-004.webp"
       },
       {
         "id": "AI-005",
-        "title": "Data centers get ready — the Senate wants to see your power bills",
-        "summary": "Senators Josh Hawley and Elizabeth Warren want the Energy Information Administration to gather more details about how data centers use power — and how that affects the grid.",
-        "content": "Senators Josh Hawley and Elizabeth Warren want the Energy Information Administration to gather more details about how data centers use power — and how that affects the grid.",
+        "title": "David Sacks is done as AI czar — here’s what he’s doing instead",
+        "summary": "Sacks will be much further from the power center in Washington than since the outset of this second Trump administration.",
+        "content": "Sacks will be much further from the power center in Washington than since the outset of this second Trump administration.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/",
+        "sourceUrl": "https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Thu, 26 Mar 2026 18:23:31 +0000",
+        "publishedAt": "Fri, 27 Mar 2026 01:26:40 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-27/2026-03-27-tools-AI-005.webp"
       }
     ],
     "creative": [
       {
         "id": "AI-006",
-        "title": "OpenAI's Codex gets a plugin marketplace for Slack, Notion, Figma, and more",
-        "summary": "OpenAI is adding plugins to Codex that integrate with popular work tools like Slack, Figma, Notion, Gmail, and Google Drive.\nThe article OpenAI's Codex gets a plugin marketplace for Slack, Notion, Figma, and more appeared first on The Decoder.",
-        "content": "OpenAI is adding plugins to Codex that integrate with popular work tools like Slack, Figma, Notion, Gmail, and Google Drive.\nThe article OpenAI's Codex gets a plugin marketplace for Slack, Notion, Figma, and more appeared first on The Decoder.",
+        "title": "Google's new Gemini update makes it easy to import memories from ChatGPT and Claude",
+        "summary": "Google and Anthropic are courting ChatGPT switchers with a simple prompt trick that exports all saved user data.\nThe article Google's new Gemini update makes it easy to import memories from ChatGPT and Claude appeared first on The Decoder.",
+        "content": "Google and Anthropic are courting ChatGPT switchers with a simple prompt trick that exports all saved user data.\nThe article Google's new Gemini update makes it easy to import memories from ChatGPT and Claude appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/openais-codex-gets-a-plugin-marketplace-for-slack-notion-figma-and-more/",
+        "sourceUrl": "https://the-decoder.com/googles-new-gemini-update-makes-it-easy-to-import-memories-from-chatgpt-and-claude/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Fri, 27 Mar 2026 10:50:44 +0000",
+        "publishedAt": "Fri, 27 Mar 2026 19:14:00 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-27/2026-03-27-creative-AI-006.webp"
       },
       {
         "id": "AI-007",
-        "title": "Anthropic confirms leaked model marks a \"step change\" in reasoning after data breach reveals its existence",
-        "summary": "Anthropic accidentally exposed its most capable AI model yet thanks to a basic security blunder. As OpenAI preps its own next-generation release, both companies are racing to flex their best tech before going public.\nThe article Anthropic confirms le",
-        "content": "Anthropic accidentally exposed its most capable AI model yet thanks to a basic security blunder. As OpenAI preps its own next-generation release, both companies are racing to flex their best tech before going public.\nThe article Anthropic confirms leaked model marks a \"step change\" in reasoning after data breach reveals its existence appeared first on The Decoder.",
+        "title": "Cohere releases open source model that tops speech recognition benchmarks",
+        "summary": "Cohere presents an open-source speech recognition model which, according to the benchmark, beats all competitors, including OpenAI's Whisper.\nThe article Cohere releases open source model that tops speech recognition benchmarks appeared first on The ",
+        "content": "Cohere presents an open-source speech recognition model which, according to the benchmark, beats all competitors, including OpenAI's Whisper.\nThe article Cohere releases open source model that tops speech recognition benchmarks appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/anthropic-confirms-leaked-model-marks-a-step-change-in-reasoning-after-data-breach-reveals-its-existence/",
+        "sourceUrl": "https://the-decoder.com/cohere-releases-open-source-model-that-tops-speech-recognition-benchmarks/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Fri, 27 Mar 2026 08:53:09 +0000",
+        "publishedAt": "Fri, 27 Mar 2026 18:37:50 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-27/2026-03-27-creative-AI-007.webp"
       },
       {
         "id": "AI-008",
-        "title": "Apple gets full Gemini access and uses distillation to build lightweight on-device AI",
-        "summary": "Apple taps into Google's Gemini to distill smaller AI models for Siri and its devices. In short, it's paying for what Chinese AI companies allegedly do in secret.\nThe article Apple gets full Gemini access and uses distillation to build lightweight on",
-        "content": "Apple taps into Google's Gemini to distill smaller AI models for Siri and its devices. In short, it's paying for what Chinese AI companies allegedly do in secret.\nThe article Apple gets full Gemini access and uses distillation to build lightweight on-device AI appeared first on The Decoder.",
+        "title": "Meta's new AI model predicts how your brain reacts to images, sounds, and speech",
+        "summary": "Meta built an AI model that predicts how the human brain reacts to images, sounds, and speech. In tests, its predictions matched the typical brain response more closely than an actual scan of any single person.\nThe article Meta's new AI model predict",
+        "content": "Meta built an AI model that predicts how the human brain reacts to images, sounds, and speech. In tests, its predictions matched the typical brain response more closely than an actual scan of any single person.\nThe article Meta's new AI model predicts how your brain reacts to images, sounds, and speech appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/apple-gets-full-gemini-access-and-uses-distillation-to-build-lightweight-on-device-ai/",
+        "sourceUrl": "https://the-decoder.com/metas-new-ai-model-predicts-how-your-brain-reacts-to-images-sounds-and-speech/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Thu, 26 Mar 2026 19:54:12 +0000",
+        "publishedAt": "Fri, 27 Mar 2026 17:55:59 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-27/2026-03-27-creative-AI-008.webp"
       },
       {
         "id": "AI-009",
-        "title": "Mistral's first open-weight TTS model Voxtral clones voices from three seconds of audio across nine languages",
-        "summary": "French AI startup Mistral has released Voxtral TTS, its first text-to-speech model that supports nine languages and can clone voices from just three seconds of audio.\nThe article Mistral's first open-weight TTS model Voxtral clones voices from three ",
-        "content": "French AI startup Mistral has released Voxtral TTS, its first text-to-speech model that supports nine languages and can clone voices from just three seconds of audio.\nThe article Mistral's first open-weight TTS model Voxtral clones voices from three seconds of audio across nine languages appeared first on The Decoder.",
+        "title": "Federal judge blocks Trump's ban on Anthropic AI models, calls security risk label \"Orwellian\"",
+        "summary": "A federal judge in San Francisco has sided with Anthropic in its dispute with the Trump administration, calling the government's actions \"classic illegal First Amendment retaliation\" for public criticism. Judge Rita F. Lin rejected what she called th",
+        "content": "A federal judge in San Francisco has sided with Anthropic in its dispute with the Trump administration, calling the government's actions \"classic illegal First Amendment retaliation\" for public criticism. Judge Rita F. Lin rejected what she called the \"Orwellian notion\" that a U.S. company can be branded \"a potential adversary and saboteur\" simply for expressing disagreement with the government.\nThe article Federal judge blocks Trump's ban on Anthropic AI models, calls security risk label \"Orwel",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/mistrals-first-open-weight-tts-model-voxtral-clones-voices-from-three-seconds-of-audio-across-nine-languages/",
+        "sourceUrl": "https://the-decoder.com/federal-judge-blocks-trumps-ban-on-anthropic-ai-models-calls-security-risk-label-orwellian/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Thu, 26 Mar 2026 19:16:58 +0000",
+        "publishedAt": "Fri, 27 Mar 2026 17:44:41 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-27/2026-03-27-creative-AI-009.webp"
       },
       {
         "id": "AI-010",
-        "title": "OpenAI and Anthropic before the IPO: Different balance sheets make comparison difficult",
-        "summary": "OpenAI and Anthropic are both growing fast, but their revenue figures are reportedly hard to compare because each company accounts for cloud partnerships differently.\nThe article OpenAI and Anthropic before the IPO: Different balance sheets make comp",
-        "content": "OpenAI and Anthropic are both growing fast, but their revenue figures are reportedly hard to compare because each company accounts for cloud partnerships differently.\nThe article OpenAI and Anthropic before the IPO: Different balance sheets make comparison difficult appeared first on The Decoder.",
+        "title": "Anthropic leak reveals new model \"Claude Mythos\" with \"dramatically higher scores on tests\" than any previous model",
+        "summary": "Update: The leaked draft blog posts have surfaced online, revealing Anthropic's plans for a new model class above its existing Opus line. The documents show two possible name candidates, details about a deliberately slow release strategy, and a stron",
+        "content": "Update: The leaked draft blog posts have surfaced online, revealing Anthropic's plans for a new model class above its existing Opus line. The documents show two possible name candidates, details about a deliberately slow release strategy, and a strong focus on cybersecurity.\nThe article Anthropic leak reveals new model \"Claude Mythos\" with \"dramatically higher scores on tests\" than any previous model appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/openai-and-anthropic-before-the-ipo-different-balance-sheets-make-comparison-difficult/",
+        "sourceUrl": "https://the-decoder.com/anthropic-leak-reveals-new-model-claude-mythos-with-dramatically-higher-scores-on-tests-than-any-previous-model/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Thu, 26 Mar 2026 18:26:54 +0000",
+        "publishedAt": "Fri, 27 Mar 2026 16:24:09 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-27/2026-03-27-creative-AI-010.webp"
       }
     ],
     "research": [
       {
         "id": "AI-011",
+        "title": "The Download: the internet’s best weather app, and why people freeze their brains",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How a couple of ski bums built the internet’s best weather app  The best snow-forecasting app for skiers isn’t a",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How a couple of ski bums built the internet’s best weather app  The best snow-forecasting app for skiers isn’t a federally-funded service or a big-name brand. It’s OpenSnow, a startup that uses government data, its own AI…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/03/27/1134755/the-download-best-weather-forecasting-app-why-people-freeze-brains/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 27 Mar 2026 12:32:54 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ],
+        "imageUrl": "/images/2026-03-27/2026-03-27-research-AI-011.webp"
+      },
+      {
+        "id": "AI-012",
         "title": "Here’s why some people choose cryonics to store their bodies and brains after death",
         "summary": "This week I reported on some rather unusual research that focuses on the brain of L. Stephen Coles. Coles was a gerontologist who died from pancreatic cancer in 2014. He had spent the latter part of his career specializing in human longevity. And bef",
         "content": "This week I reported on some rather unusual research that focuses on the brain of L. Stephen Coles. Coles was a gerontologist who died from pancreatic cancer in 2014. He had spent the latter part of his career specializing in human longevity. And before he died, he decided to have his brain preserved by a…",
@@ -224,26 +255,8 @@
         "publishedAt": "Fri, 27 Mar 2026 09:00:00 +0000",
         "normalizedTags": [
           "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-012",
-        "title": "The Download: a battery pivot to AI, and rewriting math",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why this battery company is pivoting to AI  Qichao Hu doesn’t mince words about the state of the battery industr",
-        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why this battery company is pivoting to AI  Qichao Hu doesn’t mince words about the state of the battery industry. “Almost every Western battery company has either died or is going to die. It’s kind of…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/03/26/1134697/the-download-battery-ai-pivot-new-ai-tool-math/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
         ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 26 Mar 2026 12:42:53 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
+        "imageUrl": "/images/2026-03-27/2026-03-27-research-AI-012.webp"
       },
       {
         "id": "AI-013",
@@ -262,7 +275,8 @@
         "publishedAt": "Fri, 27 Mar 2026 00:00:00 -0400",
         "normalizedTags": [
           "arxiv cs.ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-27/2026-03-27-research-AI-013.webp"
       },
       {
         "id": "AI-014",
@@ -281,7 +295,8 @@
         "publishedAt": "Fri, 27 Mar 2026 00:00:00 -0400",
         "normalizedTags": [
           "arxiv cs.ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-27/2026-03-27-research-AI-014.webp"
       },
       {
         "id": "AI-015",
@@ -300,186 +315,136 @@
         "publishedAt": "Fri, 27 Mar 2026 00:00:00 -0400",
         "normalizedTags": [
           "arxiv cs.ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-27/2026-03-27-research-AI-015.webp"
       }
     ],
     "applications": [],
     "business": [
       {
         "id": "AI-016",
-        "title": "U.S. ambassador to EU: Stop fining Big Tech",
-        "summary": "Andrew Puzder sat down for an interview with CNBC's Ian King.",
-        "content": "Andrew Puzder sat down for an interview with CNBC's Ian King.",
+        "title": "Tech stocks suffer worst week in nearly a year, driven down by war worries, Meta legal woes",
+        "summary": "Meta's twin legal defeats this week and a big sell-off in Micron spurred a drop in technology stocks, which were broadly hit by rising oil prices.",
+        "content": "Meta's twin legal defeats this week and a big sell-off in Micron spurred a drop in technology stocks, which were broadly hit by rising oil prices.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/27/big-tech-eu-fines-ai-data-centers-us-ambassador-puzder.html",
+        "sourceUrl": "https://www.cnbc.com/2026/03/27/tech-stocks-iran-war-meta-verdict.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Fri, 27 Mar 2026 10:41:24 GMT",
+        "publishedAt": "Fri, 27 Mar 2026 22:06:33 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-27/2026-03-27-business-AI-016.webp"
       },
       {
         "id": "AI-017",
-        "title": "Anthropic wins preliminary injunction in DOD fight as judge cites 'First Amendment retaliation'",
-        "summary": "A federal judge in San Francisco granted Anthropic's request for a preliminary injunction in its lawsuit against the Trump administration.",
-        "content": "A federal judge in San Francisco granted Anthropic's request for a preliminary injunction in its lawsuit against the Trump administration.",
+        "title": "White House launches app touting Trump's record, with some key omissions",
+        "summary": "The app includes a link to report tips to Immigration and Customs Enforcement.",
+        "content": "The app includes a link to report tips to Immigration and Customs Enforcement.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/26/anthropic-pentagon-dod-claude-court-ruling.html",
+        "sourceUrl": "https://www.cnbc.com/2026/03/27/white-house-app-trump-iran-war-oil-gas-ice.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Fri, 27 Mar 2026 02:20:02 GMT",
+        "publishedAt": "Fri, 27 Mar 2026 19:27:18 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-27/2026-03-27-business-AI-017.webp"
       },
       {
         "id": "AI-018",
-        "title": "OpenAI ads pilot tops $100 million in annualized revenue in under 2 months",
-        "summary": "OpenAI's nascent ads business has surpassed $100 million in annual recurring revenue less than two months after launching its pilot in the U.S.",
-        "content": "OpenAI's nascent ads business has surpassed $100 million in annual recurring revenue less than two months after launching its pilot in the U.S.",
+        "title": "Epstein victims sue Google and the Trump administration over alleged disclosure of personal information",
+        "summary": "A lawsuit filed in Northern California alleges that Google's AI features generated contact information for Epstein victims.",
+        "content": "A lawsuit filed in Northern California alleges that Google's AI features generated contact information for Epstein victims.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/26/openai-ads-pilot-tops-100-million-in-arr-in-under-2-months.html",
+        "sourceUrl": "https://www.cnbc.com/2026/03/27/jeffrey-epstein-victims-sue-trump-administration-google.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Thu, 26 Mar 2026 22:28:32 GMT",
+        "publishedAt": "Fri, 27 Mar 2026 19:57:35 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-27/2026-03-27-business-AI-018.webp"
       },
       {
         "id": "AI-019",
-        "title": "Elon Musk's Boring Co. tunnels aren't wanted by most Nashville residents",
-        "summary": "A new survey by Vanderbilt University found that most Nashville residents don't want Boring Company tunnels in their city.",
-        "content": "A new survey by Vanderbilt University found that most Nashville residents don't want Boring Company tunnels in their city.",
+        "title": "Beijing's surprise intervention on Meta's Manus rattles tech founders, VCs eyeing 'China shedding' ",
+        "summary": "Beijing's review has fueled concerns and confusion among Chinese tech founders and investors that had quietly embraced the so-called \"Singapore-washing\" model.",
+        "content": "Beijing's review has fueled concerns and confusion among Chinese tech founders and investors that had quietly embraced the so-called \"Singapore-washing\" model.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/26/elon-musks-boring-co-tunnels-not-wanted-by-most-nashville-residents.html",
+        "sourceUrl": "https://www.cnbc.com/2026/03/27/meta-manus-china-review-singapore-washing-model-regulation-.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Thu, 26 Mar 2026 22:16:01 GMT",
+        "publishedAt": "Fri, 27 Mar 2026 16:31:13 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-27/2026-03-27-business-AI-019.webp"
       },
       {
         "id": "AI-020",
-        "title": "David Sacks says his time as Trump's crypto and AI czar has ended",
-        "summary": "The venture capitalist said he will still be a part of the White House's Technology committee and will help push Trump's AI plan forward.",
-        "content": "The venture capitalist said he will still be a part of the White House's Technology committee and will help push Trump's AI plan forward.",
+        "title": "Cybersecurity stocks fall on report Anthropic is testing a powerful new model",
+        "summary": "The cybersecurity sector has slumped this year on fears that new AI will massively disrupt their business models.",
+        "content": "The cybersecurity sector has slumped this year on fears that new AI will massively disrupt their business models.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/26/david-sacks-trump-crypto-ai-czar.html",
+        "sourceUrl": "https://www.cnbc.com/2026/03/27/anthropic-cybersecurity-stocks-ai-mythos.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Thu, 26 Mar 2026 22:01:53 GMT",
+        "publishedAt": "Fri, 27 Mar 2026 20:04:22 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-27/2026-03-27-business-AI-020.webp"
       }
     ],
     "policy": [
       {
         "id": "AI-021",
-        "title": "Juries Take the Lead in the Push for Child Online Safety",
-        "summary": "A pair of verdicts held social media companies accountable for harming young users, highlighting a growing backlash as Congress struggles to pass legislation.",
-        "content": "A pair of verdicts held social media companies accountable for harming young users, highlighting a growing backlash as Congress struggles to pass legislation.",
+        "title": "Judge Stays Pentagon’s Labeling of Anthropic as ‘Supply Chain Risk’",
+        "summary": "The decision is an early victory for the artificial intelligence company in a rancorous legal battle with the Department of Defense.",
+        "content": "The decision is an early victory for the artificial intelligence company in a rancorous legal battle with the Department of Defense.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/03/26/technology/social-media-verdicts-child-safety.html",
+        "sourceUrl": "https://www.nytimes.com/2026/03/26/technology/anthropic-pentagon-risk-injunction.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Thu, 26 Mar 2026 15:00:41 +0000",
+        "publishedAt": "Fri, 27 Mar 2026 14:45:53 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-27/2026-03-27-policy-AI-021.webp"
       },
       {
         "id": "AI-022",
-        "title": "Snapchat Investigated in Europe Over Child Safety Policies",
-        "summary": "Regulators in Brussels accused the social media platform of maintaining a weak age-verification system, and steering younger users toward inappropriate experiences.",
-        "content": "Regulators in Brussels accused the social media platform of maintaining a weak age-verification system, and steering younger users toward inappropriate experiences.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/03/26/business/snapchat-europe-child-safety.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 26 Mar 2026 18:04:39 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-023",
-        "title": "Leonid Radvinsky, 43, Dies; Built the Adult-Entertainment Giant OnlyFans",
-        "summary": "By leveraging social media and the influencer economy, he turned his website into a byword for online pornography in the 21st century.",
-        "content": "By leveraging social media and the influencer economy, he turned his website into a byword for online pornography in the 21st century.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/03/25/business/media/leonid-radvinsky-dead.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 26 Mar 2026 16:21:28 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-024",
-        "title": "The Ezra Klein Show: How Fast Will A.I. Agents Rip Through the Economy?",
-        "summary": "The Anthropic co-founder Jack Clark tells Ezra Klein what he sees coming in the new era of A.I. agents.",
-        "content": "The Anthropic co-founder Jack Clark tells Ezra Klein what he sees coming in the new era of A.I. agents.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/03/27/podcasts/hardfork-ezra-jack-clark.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 27 Mar 2026 11:00:08 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-025",
         "title": "An Invisible Bottleneck: A Helium Shortage Threatens the Chip Industry",
         "summary": "With a third of the global supply offline because of the war in Iran, gas companies are scrambling to assure critical A.I. chip makers there will be no disruptions.",
         "content": "With a third of the global supply offline because of the war in Iran, gas companies are scrambling to assure critical A.I. chip makers there will be no disruptions.",
@@ -495,32 +460,134 @@
         "publishedAt": "Fri, 27 Mar 2026 04:00:21 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-27/2026-03-27-policy-AI-022.webp"
+      },
+      {
+        "id": "AI-023",
+        "title": "The Ezra Klein Show: How Fast Will A.I. Agents Rip Through the Economy?",
+        "summary": "The Anthropic co-founder Jack Clark tells Ezra Klein what he sees coming in the new era of A.I. agents.",
+        "content": "The Anthropic co-founder Jack Clark tells Ezra Klein what he sees coming in the new era of A.I. agents.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/03/27/podcasts/hardfork-ezra-jack-clark.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 27 Mar 2026 11:00:09 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-03-27/2026-03-27-policy-AI-023.webp"
+      },
+      {
+        "id": "AI-024",
+        "title": "Elon Musk Joins in Phone Call Between Donald Trump and Narendra Modi",
+        "summary": "Mr. Musk’s participation was notable because it is rare for a private citizen to be on a call between heads of state. It also suggests that Mr. Musk is back on better terms with the president.",
+        "content": "Mr. Musk’s participation was notable because it is rare for a private citizen to be on a call between heads of state. It also suggests that Mr. Musk is back on better terms with the president.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/03/27/us/politics/musk-joins-call-with-trump-modi.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 27 Mar 2026 19:11:58 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-03-27/2026-03-27-policy-AI-024.webp"
+      },
+      {
+        "id": "AI-025",
+        "title": "Why the Verdict Against Meta and YouTube Could Change Social Media",
+        "summary": "In a landmark case, a jury found Meta and YouTube guilty of creating products that were addictive. Ryan Mac explains the outcome and what it could mean for tech companies going forward.",
+        "content": "In a landmark case, a jury found Meta and YouTube guilty of creating products that were addictive. Ryan Mac explains the outcome and what it could mean for tech companies going forward.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/video/technology/100000010801833/why-the-verdict-against-meta-and-youtube-could-change-social-media.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 27 Mar 2026 12:25:36 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-03-27/2026-03-27-policy-AI-025.webp"
       }
     ],
     "concerns": [],
     "culture": [
       {
         "id": "AI-026",
-        "title": "Creator of AI actor Tilly Norwood says she received death threats over project",
-        "summary": "Eline van der Velden says she developed her ‘digital twin’ to provoke discussion but backlash from some has been worse than expected\nThe creator of the AI actor Tilly Norwood has said she received death threats after a global backlash against the pro",
-        "content": "Eline van der Velden says she developed her ‘digital twin’ to provoke discussion but backlash from some has been worse than expected\nThe creator of the AI actor Tilly Norwood has said she received death threats after a global backlash against the project, and said she developed it to “provoke thoughts and discussion” about the impact of AI in the entertainment world.\nEline van der Velden caused anger and panic in Hollywood and beyond last year after she said talent agents had been interested in ",
+        "title": "Number of AI chatbots ignoring human instructions increasing, study says",
+        "summary": "Exclusive: Research finds sharp rise in models evading safeguards and destroying emails without permission\nAI models that lie and cheat appear to be growing in number with reports of deceptive scheming surging in the last six months, a study into the",
+        "content": "Exclusive: Research finds sharp rise in models evading safeguards and destroying emails without permission\nAI models that lie and cheat appear to be growing in number with reports of deceptive scheming surging in the last six months, a study into the technology has found.\nAI chatbots and agents disregarded direct instructions, evaded safeguards and deceived humans and other AI, according to research funded by the UK government-funded AI Security Institute (AISI). The study, shared with the Guard",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/mar/26/tilly-norwood-ai-actor-creator-backlash-death-threats",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/mar/27/number-of-ai-chatbots-ignoring-human-instructions-increasing-study-says",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Thu, 26 Mar 2026 12:00:37 GMT",
+        "publishedAt": "Fri, 27 Mar 2026 12:11:19 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-27/2026-03-27-culture-AI-026.webp"
       },
       {
         "id": "AI-027",
+        "title": "At last, David has landed a double punch on the tech Goliaths. Now to hit them even harder | Jonathan Freedland",
+        "summary": "The US court verdicts declaring Meta liable for getting people addicted and ruining lives must be just the start of a global fightback\nGood news is so rare these days, you don’t quite know how to take it. You want to celebrate, but a rival instinct t",
+        "content": "The US court verdicts declaring Meta liable for getting people addicted and ruining lives must be just the start of a global fightback\nGood news is so rare these days, you don’t quite know how to take it. You want to celebrate, but a rival instinct tells you it’ll be pulled back somehow, the same feeling you get when your team scores a late winner, but you’re filled with instant dread that the goal will be overturned on a video replay.\nI confess that is how I responded to the double legal blow d",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/commentisfree/2026/mar/27/meta-facebook-us-court-verdicts-david-goliath",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 27 Mar 2026 17:19:03 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-03-27/2026-03-27-culture-AI-027.webp"
+      },
+      {
+        "id": "AI-028",
+        "title": "Wikipedia bans AI-generated content in its online encyclopedia",
+        "summary": "Ban includes two exceptions: AI can still be used for translations, and to make minor copy edits\nWikipedia has banned the use of artificial intelligence in the generation or rewriting of content for its voluminous online encyclopedia.\nIn a recent pol",
+        "content": "Ban includes two exceptions: AI can still be used for translations, and to make minor copy edits\nWikipedia has banned the use of artificial intelligence in the generation or rewriting of content for its voluminous online encyclopedia.\nIn a recent policy change, Wikipedia said that the use of large language models (or LLMs) “often violates” its core principles and will not be allowed. The English language version of Wikipedia has more than 7.1m articles.\n Continue reading...",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/mar/27/wikipedia-bans-ai",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 27 Mar 2026 13:19:08 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-03-27/2026-03-27-culture-AI-028.webp"
+      },
+      {
+        "id": "AI-029",
         "title": "I was paid to write fake Google reviews – then my ‘bosses’ tried to scam me",
         "summary": "Undercover reporter gets a taste of the sprawling fraud industry in which cryptocurrencies play a crucial role\n\nFive firms including Autotrader and Just Eat investigated over fake review failings\n\nThe holiday flat near(ish) the Roman ruins of Pompeii",
         "content": "Undercover reporter gets a taste of the sprawling fraud industry in which cryptocurrencies play a crucial role\n\nFive firms including Autotrader and Just Eat investigated over fake review failings\n\nThe holiday flat near(ish) the Roman ruins of Pompeii was “disgusting”, and smelled of “a mix of dampness and sewage”, according to one reviewer on Google Maps. I never visited, but I gave it five stars.\nI did the same for a DoubleTree by Hilton hotel across the River Thames, an Ibis budget hotel in ea",
@@ -536,10 +603,11 @@
         "publishedAt": "Fri, 27 Mar 2026 08:31:48 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-27/2026-03-27-culture-AI-029.webp"
       },
       {
-        "id": "AI-028",
+        "id": "AI-030",
         "title": "New York City hospitals drop Palantir as controversial AI firm expands in UK",
         "summary": "The decision follows activist pressure as Palantir faces growing scrutiny over NHS and UK government deals\n\nSign up for the Breaking News US email to get newsletter alerts in your inbox\n\nNew York City’s public hospital system announced that it would ",
         "content": "The decision follows activist pressure as Palantir faces growing scrutiny over NHS and UK government deals\n\nSign up for the Breaking News US email to get newsletter alerts in your inbox\n\nNew York City’s public hospital system announced that it would not be renewing its contract with Palantir as controversy mounts in the UK over the data analytics and AI firm’s government contract.\nThe president of the US’s largest municipal public healthcare system, Dr Mitchell Katz, testified last week before t",
@@ -555,45 +623,8 @@
         "publishedAt": "Thu, 26 Mar 2026 23:48:36 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-029",
-        "title": "Federal judge sides with Anthropic in first round of standoff with Pentagon",
-        "summary": "Face-off is over company’s refusal to let defense department use its Claude AI model in autonomous weapons systems\nA federal judge in California sided with Anthropic in its case against the Department of Defense on Thursday, ordering a temporary paus",
-        "content": "Face-off is over company’s refusal to let defense department use its Claude AI model in autonomous weapons systems\nA federal judge in California sided with Anthropic in its case against the Department of Defense on Thursday, ordering a temporary pause on the government’s punitive measures against the artificial intelligence firm.\nJudge Rita Lin granted Anthropic’s request for a temporary injunction while the northern district court of California hears the company’s case. Anthropic argued that th",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/us-news/2026/mar/26/anthropic-ai-pentagon",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
         ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 26 Mar 2026 23:17:34 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-030",
-        "title": "A New AI Documentary Puts CEOs in the Hot Seat—but Goes Too Easy on Them",
-        "summary": "The AI Doc: Or How I Became an Apocaloptimist seeks the middle ground on a polarizing technology—and ends up letting tech execs like Sam Altman off the hook.",
-        "content": "The AI Doc: Or How I Became an Apocaloptimist seeks the middle ground on a polarizing technology—and ends up letting tech execs like Sam Altman off the hook.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.wired.com/story/a-new-ai-documentary-puts-ceos-in-the-hot-seat-but-goes-too-easy-on-them/",
-        "sourceName": "Wired AI",
-        "tags": [
-          "Wired AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 27 Mar 2026 11:00:00 +0000",
-        "normalizedTags": [
-          "wired ai"
-        ]
+        "imageUrl": "/images/2026-03-27/2026-03-27-culture-AI-030.webp"
       }
     ]
   },
@@ -603,36 +634,37 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
-    "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
-    "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
-    "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
-    "https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/",
-    "https://the-decoder.com/openais-codex-gets-a-plugin-marketplace-for-slack-notion-figma-and-more/",
-    "https://the-decoder.com/anthropic-confirms-leaked-model-marks-a-step-change-in-reasoning-after-data-breach-reveals-its-existence/",
-    "https://the-decoder.com/apple-gets-full-gemini-access-and-uses-distillation-to-build-lightweight-on-device-ai/",
-    "https://the-decoder.com/mistrals-first-open-weight-tts-model-voxtral-clones-voices-from-three-seconds-of-audio-across-nine-languages/",
-    "https://the-decoder.com/openai-and-anthropic-before-the-ipo-different-balance-sheets-make-comparison-difficult/",
+    "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
+    "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/",
+    "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/",
+    "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
+    "https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/",
+    "https://the-decoder.com/googles-new-gemini-update-makes-it-easy-to-import-memories-from-chatgpt-and-claude/",
+    "https://the-decoder.com/cohere-releases-open-source-model-that-tops-speech-recognition-benchmarks/",
+    "https://the-decoder.com/metas-new-ai-model-predicts-how-your-brain-reacts-to-images-sounds-and-speech/",
+    "https://the-decoder.com/federal-judge-blocks-trumps-ban-on-anthropic-ai-models-calls-security-risk-label-orwellian/",
+    "https://the-decoder.com/anthropic-leak-reveals-new-model-claude-mythos-with-dramatically-higher-scores-on-tests-than-any-previous-model/",
+    "https://www.technologyreview.com/2026/03/27/1134755/the-download-best-weather-forecasting-app-why-people-freeze-brains/",
     "https://www.technologyreview.com/2026/03/27/1134705/cryonics-store-bodies-brains-after-death/",
-    "https://www.technologyreview.com/2026/03/26/1134697/the-download-battery-ai-pivot-new-ai-tool-math/",
     "https://arxiv.org/abs/2603.24621",
     "https://arxiv.org/abs/2603.24676",
     "https://arxiv.org/abs/2603.24736",
-    "https://www.cnbc.com/2026/03/27/big-tech-eu-fines-ai-data-centers-us-ambassador-puzder.html",
-    "https://www.cnbc.com/2026/03/26/anthropic-pentagon-dod-claude-court-ruling.html",
-    "https://www.cnbc.com/2026/03/26/openai-ads-pilot-tops-100-million-in-arr-in-under-2-months.html",
-    "https://www.cnbc.com/2026/03/26/elon-musks-boring-co-tunnels-not-wanted-by-most-nashville-residents.html",
-    "https://www.cnbc.com/2026/03/26/david-sacks-trump-crypto-ai-czar.html",
-    "https://www.nytimes.com/2026/03/26/technology/social-media-verdicts-child-safety.html",
-    "https://www.nytimes.com/2026/03/26/business/snapchat-europe-child-safety.html",
-    "https://www.nytimes.com/2026/03/25/business/media/leonid-radvinsky-dead.html",
-    "https://www.nytimes.com/2026/03/27/podcasts/hardfork-ezra-jack-clark.html",
+    "https://www.cnbc.com/2026/03/27/tech-stocks-iran-war-meta-verdict.html",
+    "https://www.cnbc.com/2026/03/27/white-house-app-trump-iran-war-oil-gas-ice.html",
+    "https://www.cnbc.com/2026/03/27/jeffrey-epstein-victims-sue-trump-administration-google.html",
+    "https://www.cnbc.com/2026/03/27/meta-manus-china-review-singapore-washing-model-regulation-.html",
+    "https://www.cnbc.com/2026/03/27/anthropic-cybersecurity-stocks-ai-mythos.html",
+    "https://www.nytimes.com/2026/03/26/technology/anthropic-pentagon-risk-injunction.html",
     "https://www.nytimes.com/2026/03/27/business/helium-chips-iran-war.html",
-    "https://www.theguardian.com/technology/2026/mar/26/tilly-norwood-ai-actor-creator-backlash-death-threats",
+    "https://www.nytimes.com/2026/03/27/podcasts/hardfork-ezra-jack-clark.html",
+    "https://www.nytimes.com/2026/03/27/us/politics/musk-joins-call-with-trump-modi.html",
+    "https://www.nytimes.com/video/technology/100000010801833/why-the-verdict-against-meta-and-youtube-could-change-social-media.html",
+    "https://www.theguardian.com/technology/2026/mar/27/number-of-ai-chatbots-ignoring-human-instructions-increasing-study-says",
+    "https://www.theguardian.com/commentisfree/2026/mar/27/meta-facebook-us-court-verdicts-david-goliath",
+    "https://www.theguardian.com/technology/2026/mar/27/wikipedia-bans-ai",
     "https://www.theguardian.com/technology/2026/mar/27/paid-write-fake-google-reviews-scammer-cryptocurrency",
-    "https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai",
-    "https://www.theguardian.com/us-news/2026/mar/26/anthropic-ai-pentagon",
-    "https://www.wired.com/story/a-new-ai-documentary-puts-ceos-in-the-hot-seat-but-goes-too-easy-on-them/"
+    "https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai"
   ],
-  "generatedAt": "2026-03-27T11:39:18.491Z"
+  "generatedAt": "2026-03-27T23:23:54.280Z",
+  "simpleSummaryImageUrl": "/images/2026-03-27/2026-03-27-summary.webp"
 }
