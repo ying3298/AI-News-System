@@ -2,10 +2,11 @@
   "date": "2026-03-31",
   "dateFormatted": "March 31, 2026",
   "headline": {
-    "title": "15% of Americans say they’d be willing to work for an AI boss, according to new poll",
-    "summary": "According to a Quinnipiac University poll, 15% of Americans say they'd be willing to have a job where their direct supervisor was an AI program that assigned tasks and set schedules.",
-    "sourceUrl": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
-    "sourceName": "TechCrunch AI"
+    "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
+    "summary": "Slack just got a whole lot more useful.",
+    "sourceUrl": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
+    "sourceName": "TechCrunch AI",
+    "imageUrl": "/images/2026-03-31/2026-03-31-hero.webp"
   },
   "simpleSummary": [
     "Today's edition was assembled directly from RSS feeds without AI curation.",
@@ -15,254 +16,267 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "15% of Americans say they’d be willing to work for an AI boss, according to new poll",
-        "summary": "According to a Quinnipiac University poll, 15% of Americans say they'd be willing to have a job where their direct supervisor was an AI program that assigned tasks and set schedules.",
-        "content": "According to a Quinnipiac University poll, 15% of Americans say they'd be willing to have a job where their direct supervisor was an AI program that assigned tasks and set schedules.",
+        "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
+        "summary": "Slack just got a whole lot more useful.",
+        "content": "Slack just got a whole lot more useful.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
+        "sourceUrl": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Mon, 30 Mar 2026 23:41:48 +0000",
+        "publishedAt": "Tue, 31 Mar 2026 22:46:25 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-31/2026-03-31-tools-AI-001.webp"
       },
       {
         "id": "AI-002",
-        "title": "Popular AI gateway startup LiteLLM ditches controversial startup Delve",
-        "summary": "LiteLLM had obtained two security compliance certifications via Delve and fell victim to some horrific credential-stealing malware last week.",
-        "content": "LiteLLM had obtained two security compliance certifications via Delve and fell victim to some horrific credential-stealing malware last week.",
+        "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
+        "summary": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.",
+        "content": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
+        "sourceUrl": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Mon, 30 Mar 2026 23:08:12 +0000",
+        "publishedAt": "Tue, 31 Mar 2026 21:25:04 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-31/2026-03-31-tools-AI-002.webp"
       },
       {
         "id": "AI-003",
-        "title": "As more Americans adopt AI tools, fewer say they can trust the results",
-        "summary": "AI adoption is rising in the U.S., but trust remains low, with most Americans concerned about transparency, regulation, and the technology’s broader societal impact, according to a new Quinnipiac poll.",
-        "content": "AI adoption is rising in the U.S., but trust remains low, with most Americans concerned about transparency, regulation, and the technology’s broader societal impact, according to a new Quinnipiac poll.",
+        "title": "Yupp shuts down after raising $33M from a16z crypto’s Chris Dixon",
+        "summary": "Less than a year after launching, with checks from some of the biggest names in Silicon Valley, crowdsourced AI model feedback startup Yupp is closing its business, the company said Tuesday.",
+        "content": "Less than a year after launching, with checks from some of the biggest names in Silicon Valley, crowdsourced AI model feedback startup Yupp is closing its business, the company said Tuesday.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
+        "sourceUrl": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Mon, 30 Mar 2026 20:24:53 +0000",
+        "publishedAt": "Tue, 31 Mar 2026 20:01:07 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-31/2026-03-31-tools-AI-003.webp"
       },
       {
         "id": "AI-004",
-        "title": "Mantis Biotech is making ‘digital twins’ of humans to help solve medicine’s data availability problem",
-        "summary": "Mantis takes disparate sources of data to make synthetic datasets that can be used to build so-called \"digital twins\" of the human body, representing anatomy, physiology and behavior.",
-        "content": "Mantis takes disparate sources of data to make synthetic datasets that can be used to build so-called \"digital twins\" of the human body, representing anatomy, physiology and behavior.",
+        "title": "Alexa+ gets new food ordering experiences with Uber Eats and Grubhub",
+        "summary": "You can now order from Uber Eats and Grubhub using Alexa+, an experience Amazon says will be similar to chatting with a waiter at a restaurant or placing an order at a drive-thru.",
+        "content": "You can now order from Uber Eats and Grubhub using Alexa+, an experience Amazon says will be similar to chatting with a waiter at a restaurant or placing an order at a drive-thru.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/",
+        "sourceUrl": "https://techcrunch.com/2026/03/31/alexa-plus-new-food-ordering-experiences-with-uber-eats-and-grubhub/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Mon, 30 Mar 2026 14:30:00 +0000",
+        "publishedAt": "Tue, 31 Mar 2026 17:41:35 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-31/2026-03-31-tools-AI-004.webp"
       },
       {
         "id": "AI-005",
-        "title": "ScaleOps raises $130M to improve computing efficiency amid AI demand",
-        "summary": "ScaleOps just raised $130M to tackle GPU shortages and soaring AI cloud costs by automating infrastructure in real time.",
-        "content": "ScaleOps just raised $130M to tackle GPU shortages and soaring AI cloud costs by automating infrastructure in real time.",
+        "title": "Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
+        "summary": "The company turns footage from robots into structured, searchable datasets with a deep learning model.",
+        "content": "The company turns footage from robots into structured, searchable datasets with a deep learning model.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/",
+        "sourceUrl": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Mon, 30 Mar 2026 13:52:02 +0000",
+        "publishedAt": "Tue, 31 Mar 2026 15:00:00 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-31/2026-03-31-tools-AI-005.webp"
       }
     ],
     "creative": [
       {
         "id": "AI-006",
-        "title": "Nebius plans $10 billion AI data center in Finland near Russian border",
-        "summary": "AI infrastructure company Nebius Group is building a 310-megawatt data center in Lappeenranta, Finland, close to the Russian border.\nThe article Nebius plans $10 billion AI data center in Finland near Russian border appeared first on The Decoder.",
-        "content": "AI infrastructure company Nebius Group is building a 310-megawatt data center in Lappeenranta, Finland, close to the Russian border.\nThe article Nebius plans $10 billion AI data center in Finland near Russian border appeared first on The Decoder.",
+        "title": "Oracle reportedly lays off thousands of employees to bankroll its massive AI infrastructure bet",
+        "summary": "Oracle is cutting thousands of jobs to fund its massive AI data center buildout. With the stock down 25 percent and debt mounting, the company is banking on billions in guaranteed revenue, including a $455 billion order from OpenAI. But whether that ",
+        "content": "Oracle is cutting thousands of jobs to fund its massive AI data center buildout. With the stock down 25 percent and debt mounting, the company is banking on billions in guaranteed revenue, including a $455 billion order from OpenAI. But whether that money will actually materialize is far from certain.\nThe article Oracle reportedly lays off thousands of employees to bankroll its massive AI infrastructure bet appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/nebius-plans-10-billion-ai-data-center-in-finland-near-russian-border/",
+        "sourceUrl": "https://the-decoder.com/oracle-reportedly-lays-off-thousands-of-employees-to-bankroll-its-massive-ai-infrastructure-bet/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Tue, 31 Mar 2026 11:42:24 +0000",
+        "publishedAt": "Tue, 31 Mar 2026 18:54:01 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-31/2026-03-31-creative-AI-006.webp"
       },
       {
         "id": "AI-007",
-        "title": "California sets its own AI rules for state contractors, pushing back against federal policy",
-        "summary": "California Governor Gavin Newsom signed an executive order on Monday requiring companies with state contracts to implement safeguards against AI misuse.\nThe article California sets its own AI rules for state contractors, pushing back against federal ",
-        "content": "California Governor Gavin Newsom signed an executive order on Monday requiring companies with state contracts to implement safeguards against AI misuse.\nThe article California sets its own AI rules for state contractors, pushing back against federal policy appeared first on The Decoder.",
+        "title": "Anthropic accidentally publishes Claude Code source code for anyone to find",
+        "summary": "Anthropic can't catch a break: Following the recent leak of internal blog posts on its new Mythos AI model, parts of the source code for its AI coding tool Claude Code have now been made public.\nThe article Anthropic accidentally publishes Claude Cod",
+        "content": "Anthropic can't catch a break: Following the recent leak of internal blog posts on its new Mythos AI model, parts of the source code for its AI coding tool Claude Code have now been made public.\nThe article Anthropic accidentally publishes Claude Code source code for anyone to find appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/california-sets-its-own-ai-rules-for-state-contractors-pushing-back-against-federal-policy/",
+        "sourceUrl": "https://the-decoder.com/anthropic-accidentally-publishes-claude-code-source-code-for-anyone-to-find/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Tue, 31 Mar 2026 11:21:04 +0000",
+        "publishedAt": "Tue, 31 Mar 2026 18:25:42 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-31/2026-03-31-creative-AI-007.webp"
       },
       {
         "id": "AI-008",
-        "title": "OpenAI launches a Codex plugin that runs inside Anthropic's Claude Code",
-        "summary": "OpenAI released a plugin that embeds its AI coding assistant Codex directly into Anthropic's Claude Code.\nThe article OpenAI launches a Codex plugin that runs inside Anthropic's Claude Code appeared first on The Decoder.",
-        "content": "OpenAI released a plugin that embeds its AI coding assistant Codex directly into Anthropic's Claude Code.\nThe article OpenAI launches a Codex plugin that runs inside Anthropic's Claude Code appeared first on The Decoder.",
+        "title": "Google's Veo 3.1 Lite cuts video generation costs by more than half",
+        "summary": "Google makes AI video generation cheaper: Veo 3.1 Lite costs less than half the price of its next cheapest model while matching its speed.\nThe article Google's Veo 3.1 Lite cuts video generation costs by more than half appeared first on The Decoder.",
+        "content": "Google makes AI video generation cheaper: Veo 3.1 Lite costs less than half the price of its next cheapest model while matching its speed.\nThe article Google's Veo 3.1 Lite cuts video generation costs by more than half appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/openai-launches-a-codex-plugin-that-runs-inside-anthropics-claude-code/",
+        "sourceUrl": "https://the-decoder.com/googles-veo-3-1-lite-cuts-video-generation-costs-by-more-than-half/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Tue, 31 Mar 2026 11:18:19 +0000",
+        "publishedAt": "Tue, 31 Mar 2026 18:04:09 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-31/2026-03-31-creative-AI-008.webp"
       },
       {
         "id": "AI-009",
-        "title": "Insiders liken AI to \"the Ozempic of the music industry\" as hitmakers reportedly hide their generator use",
-        "summary": "The use of AI generators in professional music production is growing fast, but the industry would rather not talk about it. Top producers and songwriters are quietly embracing the technology behind the scenes, and while established creatives are find",
-        "content": "The use of AI generators in professional music production is growing fast, but the industry would rather not talk about it. Top producers and songwriters are quietly embracing the technology behind the scenes, and while established creatives are finding new opportunities, an entire class of working musicians fears for its livelihood, according to extensive research by Rolling Stone.\nThe article Insiders liken AI to \"the Ozempic of the music industry\" as hitmakers reportedly hide their generator ",
+        "title": "Frontier Radar #2: Why AI productivity gets lost between benchmarks and the balance sheet",
+        "summary": "Generative AI leads to measurable time savings on many tasks. But a gap remains between faster task completion and measurable economic impact. Verification overhead, limited metrics, and organizational inertia often prevent benchmark gains from trans",
+        "content": "Generative AI leads to measurable time savings on many tasks. But a gap remains between faster task completion and measurable economic impact. Verification overhead, limited metrics, and organizational inertia often prevent benchmark gains from translating into broader productivity gains.\nThe article Frontier Radar #2: Why AI productivity gets lost between benchmarks and the balance sheet appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/insiders-liken-ai-to-the-ozempic-of-the-music-industry-as-hitmakers-reportedly-hide-their-generator-use/",
+        "sourceUrl": "https://the-decoder.com/frontier-radar-2-why-ai-productivity-gets-lost-between-benchmarks-and-the-balance-sheet/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Mon, 30 Mar 2026 19:14:03 +0000",
+        "publishedAt": "Tue, 31 Mar 2026 16:43:00 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-31/2026-03-31-creative-AI-009.webp"
       },
       {
         "id": "AI-010",
-        "title": "Microsoft rolls out Copilot Cowork more broadly and lets AI models check each other's work",
-        "summary": "With \"Cowork,\" Microsoft 365 Copilot is getting an AI assistant that handles entire workflows on its own. A new research tool also lets multiple AI models check each other's work.\nThe article Microsoft rolls out Copilot Cowork more broadly and lets A",
-        "content": "With \"Cowork,\" Microsoft 365 Copilot is getting an AI assistant that handles entire workflows on its own. A new research tool also lets multiple AI models check each other's work.\nThe article Microsoft rolls out Copilot Cowork more broadly and lets AI models check each other's work appeared first on The Decoder.",
+        "title": "Qwen3.5-Omni learned to write code from spoken instructions and video without anyone training it to",
+        "summary": "Alibaba has released Qwen3.5-Omni, an omnimodal AI model that processes text, images, audio, and video. It claims to beat Gemini 3.1 Pro on audio tasks and picked up an unexpected trick along the way: writing code from spoken instructions and video i",
+        "content": "Alibaba has released Qwen3.5-Omni, an omnimodal AI model that processes text, images, audio, and video. It claims to beat Gemini 3.1 Pro on audio tasks and picked up an unexpected trick along the way: writing code from spoken instructions and video input.\nThe article Qwen3.5-Omni learned to write code from spoken instructions and video without anyone training it to appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/microsoft-rolls-out-copilot-cowork-more-broadly-and-lets-ai-models-check-each-others-work/",
+        "sourceUrl": "https://the-decoder.com/qwen3-5-omni-learned-to-write-code-from-spoken-instructions-and-video-without-anyone-training-it-to/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Mon, 30 Mar 2026 16:07:14 +0000",
+        "publishedAt": "Tue, 31 Mar 2026 12:23:53 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-31/2026-03-31-creative-AI-010.webp"
       }
     ],
     "research": [
       {
         "id": "AI-011",
-        "title": "There are more AI health tools than ever—but how well do they work?",
-        "summary": "Earlier this month, Microsoft launched Copilot Health, a new space within its Copilot app where users will be able to connect their medical records and ask specific questions about their health. A couple of days earlier, Amazon had announced that Hea",
-        "content": "Earlier this month, Microsoft launched Copilot Health, a new space within its Copilot app where users will be able to connect their medical records and ask specific questions about their health. A couple of days earlier, Amazon had announced that Health AI, an LLM-based tool previously restricted to members of its One Medical service, would…",
+        "title": "Shifting to AI model customization is an architectural imperative",
+        "summary": "In the early days of large language models (LLMs), we grew accustomed to massive 10x jumps in reasoning and coding capability with every new model iteration. Today, those jumps have flattened into incremental gains. The exception is domain-specialize",
+        "content": "In the early days of large language models (LLMs), we grew accustomed to massive 10x jumps in reasoning and coding capability with every new model iteration. Today, those jumps have flattened into incremental gains. The exception is domain-specialized intelligence, where true step-function improvements are still the norm. When a model is fused with an organization’s…",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
+        "sourceUrl": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
         "sourceName": "MIT Tech Review",
         "tags": [
           "MIT Tech Review"
         ],
         "section": "research",
         "readTime": "2 min",
-        "publishedAt": "Mon, 30 Mar 2026 16:00:00 +0000",
+        "publishedAt": "Tue, 31 Mar 2026 14:12:50 +0000",
         "normalizedTags": [
           "mit tech review"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-31/2026-03-31-research-AI-011.webp"
       },
       {
         "id": "AI-012",
-        "title": "The Pentagon’s culture war tactic against Anthropic has backfired",
-        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Thursday, a California judge temporarily blocked the Pentagon from labeling Anthropic a supply chain risk a",
-        "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Thursday, a California judge temporarily blocked the Pentagon from labeling Anthropic a supply chain risk and ordering government agencies to stop using its AI. It’s the latest development in the month-long…",
+        "title": "The Download: AI health tools and the Pentagon’s Anthropic culture war",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. There are more AI health tools than ever—but how well do they work?  In the last few months alone, Microsoft, Am",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. There are more AI health tools than ever—but how well do they work?  In the last few months alone, Microsoft, Amazon, and OpenAI have all launched medical chatbots.  There’s a clear demand…",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/",
+        "sourceUrl": "https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/",
         "sourceName": "MIT Tech Review",
         "tags": [
           "MIT Tech Review"
         ],
         "section": "research",
         "readTime": "2 min",
-        "publishedAt": "Mon, 30 Mar 2026 15:42:50 +0000",
+        "publishedAt": "Tue, 31 Mar 2026 12:10:00 +0000",
         "normalizedTags": [
           "mit tech review"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-31/2026-03-31-research-AI-012.webp"
       },
       {
         "id": "AI-013",
-        "title": "The Download: brainless human clones and the first uterus kept alive outside a body",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside the stealthy startup that pitched brainless human clones  After operating in secrecy for years, R3 Bio, a",
-        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside the stealthy startup that pitched brainless human clones  After operating in secrecy for years, R3 Bio, a California-based startup, suddenly revealed last week that it had raised money to create nonsentient monkey “organ sacks”…",
+        "title": "AI benchmarks are broken. Here’s what we need instead.",
+        "summary": "For decades, artificial intelligence has been evaluated through the question of whether machines outperform humans. From chess to advanced math, from coding to essay writing, the performance of AI models and applications is tested against that of ind",
+        "content": "For decades, artificial intelligence has been evaluated through the question of whether machines outperform humans. From chess to advanced math, from coding to essay writing, the performance of AI models and applications is tested against that of individual humans completing tasks.  This framing is seductive: An AI vs. human comparison on isolated problems with clear…",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/03/30/1134836/the-download-brainless-human-clones-first-uterus-kept-alive-outside-body/",
+        "sourceUrl": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
         "sourceName": "MIT Tech Review",
         "tags": [
           "MIT Tech Review"
         ],
         "section": "research",
         "readTime": "2 min",
-        "publishedAt": "Mon, 30 Mar 2026 12:10:00 +0000",
+        "publishedAt": "Tue, 31 Mar 2026 12:01:08 +0000",
         "normalizedTags": [
           "mit tech review"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-31/2026-03-31-research-AI-013.webp"
       },
       {
         "id": "AI-014",
@@ -281,7 +295,8 @@
         "publishedAt": "Tue, 31 Mar 2026 00:00:00 -0400",
         "normalizedTags": [
           "arxiv cs.ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-31/2026-03-31-research-AI-014.webp"
       },
       {
         "id": "AI-015",
@@ -300,167 +315,136 @@
         "publishedAt": "Tue, 31 Mar 2026 00:00:00 -0400",
         "normalizedTags": [
           "arxiv cs.ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-31/2026-03-31-research-AI-015.webp"
       }
     ],
     "applications": [],
     "business": [
       {
         "id": "AI-016",
-        "title": "Microsoft hit with UK competition regulator probe over software business",
-        "summary": "The U.K.'s Competition and Markets Authority had \"concerns around Microsoft's licensing practices in cloud\", Chief Executive Sarah Cardell, said.",
-        "content": "The U.K.'s Competition and Markets Authority had \"concerns around Microsoft's licensing practices in cloud\", Chief Executive Sarah Cardell, said.",
+        "title": "Crypto asset manager CoinShares to begin trading on Nasdaq through SPAC merger",
+        "summary": "CoinShares is merging with Vine Hill Capital to form the holding company CoinShares PLC in a deal valuing the business at about $1.2 billion.",
+        "content": "CoinShares is merging with Vine Hill Capital to form the holding company CoinShares PLC in a deal valuing the business at about $1.2 billion.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/31/microsoft-cma-investigation-uk-software-business.html",
+        "sourceUrl": "https://www.cnbc.com/2026/03/31/crypto-asset-manager-coinshares-to-begin-trading-on-nasdaq-through-spac-merger.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Tue, 31 Mar 2026 11:22:11 GMT",
+        "publishedAt": "Tue, 31 Mar 2026 22:24:29 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-31/2026-03-31-business-AI-016.webp"
       },
       {
         "id": "AI-017",
-        "title": "Autonomous ship startup Saronic raises $1.75 billion in race to modernize U.S. military",
-        "summary": "Saronic's latest funding round more than doubles its valuation to $9.25 billion from the prior fundraising early last year.",
-        "content": "Saronic's latest funding round more than doubles its valuation to $9.25 billion from the prior fundraising early last year.",
+        "title": "Anthropic leaks part of Claude Code's internal source code",
+        "summary": "Claude Code has seen massive adoption over the last year, and its run-rate revenue had swelled to more than $2.5 billion as of February.",
+        "content": "Claude Code has seen massive adoption over the last year, and its run-rate revenue had swelled to more than $2.5 billion as of February.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/31/autonomous-boat-startup-saronic-raises-1point75-billion-.html",
+        "sourceUrl": "https://www.cnbc.com/2026/03/31/anthropic-leak-claude-code-internal-source.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Tue, 31 Mar 2026 10:51:04 GMT",
+        "publishedAt": "Tue, 31 Mar 2026 20:56:59 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-31/2026-03-31-business-AI-017.webp"
       },
       {
         "id": "AI-018",
-        "title": "European defense startups eye commercial deals and hiring push in the Middle East amid the Iran war",
-        "summary": "A crop of emerging defense companies in Europe are fielding increasing interest from Middle East militaries as conflict continues in the region.",
-        "content": "A crop of emerging defense companies in Europe are fielding increasing interest from Middle East militaries as conflict continues in the region.",
+        "title": "Column: Apple's crackdown on AI apps puts it on the wrong side of history",
+        "summary": "Apple is going against its founding mission from 50 years ago by standing in the way AI coding, or vibe-coding.",
+        "content": "Apple is going against its founding mission from 50 years ago by standing in the way AI coding, or vibe-coding.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/31/european-defense-tech-startups-iran-war-gulf-states.html",
+        "sourceUrl": "https://www.cnbc.com/2026/03/31/column-apples-crackdown-on-ai-apps-puts-it-wrong-side-of-history.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Tue, 31 Mar 2026 09:18:30 GMT",
+        "publishedAt": "Tue, 31 Mar 2026 21:34:37 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-31/2026-03-31-business-AI-018.webp"
       },
       {
         "id": "AI-019",
-        "title": "Nebius unveils plans to build one of Europe's largest AI factories as region scrambles for compute ",
-        "summary": "Europe is racing to create the infrastructure needed to power the AI boom.",
-        "content": "Europe is racing to create the infrastructure needed to power the AI boom.",
+        "title": "Microsoft closes worst quarter on Wall Street since 2008 on AI concerns: 'Redmond is in a pickle'",
+        "summary": "With Microsoft losing almost a quarter of its value this year, investors have reset the company's earnings multiple to the lowest since late 2022.",
+        "content": "With Microsoft losing almost a quarter of its value this year, investors have reset the company's earnings multiple to the lowest since late 2022.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/31/nebius-finland-ai-factory-europe-compute.html",
+        "sourceUrl": "https://www.cnbc.com/2026/03/31/microsofts-stock-closes-worst-quarter-since-2008-financial-crisis.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Tue, 31 Mar 2026 08:15:12 GMT",
+        "publishedAt": "Tue, 31 Mar 2026 22:06:16 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-31/2026-03-31-business-AI-019.webp"
       },
       {
         "id": "AI-020",
-        "title": "Indian mobile giant Airtel raises $1 billion for data centers from Carlyle, other PE firms",
-        "summary": "Signaling rising global interest in India’s data‑center sector, Bharti Airtel has attracted private‑equity interest as it seeks to raise $1 billion.",
-        "content": "Signaling rising global interest in India’s data‑center sector, Bharti Airtel has attracted private‑equity interest as it seeks to raise $1 billion.",
+        "title": "OpenAI closes record-breaking $122 billion funding round as anticipation builds for IPO",
+        "summary": "The round totaled $122 billion of committed capital, up from the $110 billion figure that was previously announced.",
+        "content": "The round totaled $122 billion of committed capital, up from the $110 billion figure that was previously announced.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/31/pe-alpha-wave-carlyle-1-billion-airtel-data-center.html",
+        "sourceUrl": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Tue, 31 Mar 2026 03:51:30 GMT",
+        "publishedAt": "Tue, 31 Mar 2026 21:08:30 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-31/2026-03-31-business-AI-020.webp"
       }
     ],
     "policy": [
       {
         "id": "AI-021",
-        "title": "States Plow Ahead With A.I. Regulation, Defying Trump",
-        "summary": "States ranging from California to Utah are taking steps to place guardrails on the technology even after the president ordered them to stop.",
-        "content": "States ranging from California to Utah are taking steps to place guardrails on the technology even after the president ordered them to stop.",
+        "title": "How Instagram’s ‘PG-13’ Branding for Teens Unraveled",
+        "summary": "The social media giant, under legal pressure from the Motion Picture Association, has retreated from its use of the movie rating in its marketing.",
+        "content": "The social media giant, under legal pressure from the Motion Picture Association, has retreated from its use of the movie rating in its marketing.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/03/30/technology/trump-states-ai-gavin-newsom-california.html",
+        "sourceUrl": "https://www.nytimes.com/2026/03/31/arts/instagram-pg-13-rating-mpa-meta-teen-safety.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Mon, 30 Mar 2026 22:03:22 +0000",
+        "publishedAt": "Tue, 31 Mar 2026 13:00:11 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-31/2026-03-31-policy-AI-021.webp"
       },
       {
         "id": "AI-022",
-        "title": "From Foe to Ally: The S.E.C. Is Now Writing Crypto-Friendly Policies",
-        "summary": "The embrace of crypto by financial regulators under President Trump has entered a new, cozier phase.",
-        "content": "The embrace of crypto by financial regulators under President Trump has entered a new, cozier phase.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/03/30/technology/sec-crypto-friendly-rules.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 30 Mar 2026 15:28:31 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-023",
-        "title": "Democrats Examine Elon Musk’s Role in Suspension of Business Disclosure Law",
-        "summary": "Lawmakers have asked the Treasury Department for information on how Mr. Musk may have influenced the decision to end enforcement of the Corporate Transparency Act.",
-        "content": "Lawmakers have asked the Treasury Department for information on how Mr. Musk may have influenced the decision to end enforcement of the Corporate Transparency Act.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/03/30/business/lawmakers-probe-elon-musk-treasury.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Tue, 31 Mar 2026 02:36:38 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-024",
         "title": "A Cat-and-Mouse Game of Russian Internet Restrictions and Evasion",
         "summary": "As the Kremlin spends heavily on censorship technology, Russians are scrambling to find new ways to circumvent the limits.",
         "content": "As the Kremlin spends heavily on censorship technology, Russians are scrambling to find new ways to circumvent the limits.",
@@ -476,105 +460,171 @@
         "publishedAt": "Tue, 31 Mar 2026 10:36:33 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-31/2026-03-31-policy-AI-022.webp"
       },
       {
-        "id": "AI-025",
-        "title": "Whoop, a Wearable Health Device Maker, Raises $575 Million",
-        "summary": "With elite athletes like LeBron James and Cristiano Ronaldo as investors, the company, now valued at $10 billion, is courting everyday health enthusiasts.",
-        "content": "With elite athletes like LeBron James and Cristiano Ronaldo as investors, the company, now valued at $10 billion, is courting everyday health enthusiasts.",
+        "id": "AI-023",
+        "title": "OpenAI Adds Another $12 Billion to Latest Funding Round",
+        "summary": "The start-up has raised a total of $122 billion in a funding round that values the company at $730 billion.",
+        "content": "The start-up has raised a total of $122 billion in a funding round that values the company at $730 billion.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/03/31/business/dealbook/whoop-a-wearable-health-device-maker-raises-575-million.html",
+        "sourceUrl": "https://www.nytimes.com/2026/03/31/technology/openai-12-billion-latest-funding-round.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Tue, 31 Mar 2026 09:06:55 +0000",
+        "publishedAt": "Tue, 31 Mar 2026 21:38:20 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-31/2026-03-31-policy-AI-023.webp"
+      },
+      {
+        "id": "AI-024",
+        "title": "Whoop, a Wearable Health Device Maker, Raises $575 Million",
+        "summary": "With elite athletes like LeBron James and Cristiano Ronaldo as investors, the company, now valued at $10 billion, is courting everyday health enthusiasts.",
+        "content": "With elite athletes like LeBron James and Cristiano Ronaldo as investors, the company, now valued at $10 billion, is courting everyday health enthusiasts.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/03/31/business/dealbook/whoop-raises-575-million-10-billion-valuation.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 31 Mar 2026 09:06:56 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-03-31/2026-03-31-policy-AI-024.webp"
+      },
+      {
+        "id": "AI-025",
+        "title": "What to Know About California’s Executive Order on A.I.",
+        "summary": "Gov. Gavin Newsom, a Democrat, issued an order requiring safety and privacy guardrails for artificial intelligence companies contracting with the state.",
+        "content": "Gov. Gavin Newsom, a Democrat, issued an order requiring safety and privacy guardrails for artificial intelligence companies contracting with the state.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/03/30/technology/california-ai-executive-order.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 31 Mar 2026 00:39:16 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-03-31/2026-03-31-policy-AI-025.webp"
       }
     ],
     "concerns": [],
     "culture": [
       {
         "id": "AI-026",
-        "title": "Palantir’s UK boss criticises ‘ideological’ groups as ministers move to scrap NHS contract",
-        "summary": "Louis Mosley says government should resist calls to trigger break clause in £330m deal with US analytics company\n\nUK politics live – latest updates\n\nPalantir’s UK boss has urged the government not to give in to “ideologically motivated campaigners” a",
-        "content": "Louis Mosley says government should resist calls to trigger break clause in £330m deal with US analytics company\n\nUK politics live – latest updates\n\nPalantir’s UK boss has urged the government not to give in to “ideologically motivated campaigners” as government ministers explore a way out of a £330m NHS contract with the tech company.\nMinisters have sought advice on triggering a break clause in Palantir’s deal to deliver the Federated Data Platform (FDP), amid questions over the company’s prese",
+        "title": "OpenAI, parent firm of ChatGPT, closes $122bn funding round amid AI boom",
+        "summary": "Company said it achieved valuation of $852bn, mentioning in a blogpost it generates $2bn a month in revenue\nOpenAI announced on Tuesday it had closed a fundraising round of $122bn and achieved a valuation of $852bn. The funding cements the ChatGPT ma",
+        "content": "Company said it achieved valuation of $852bn, mentioning in a blogpost it generates $2bn a month in revenue\nOpenAI announced on Tuesday it had closed a fundraising round of $122bn and achieved a valuation of $852bn. The funding cements the ChatGPT maker as one of the most highly valued private companies in the world.\nThe artificial intelligence firm received multibillion-dollar investments from companies including Amazon, Nvidia and SoftBank, which committed $110bn, according to the Wall Street ",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/mar/31/palantir-uk-boss-louis-mosley-ministers-nhs-contract",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/mar/31/openai-raises-122-billion-ai-boom",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Tue, 31 Mar 2026 09:52:03 GMT",
+        "publishedAt": "Tue, 31 Mar 2026 21:55:14 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-31/2026-03-31-culture-AI-026.webp"
       },
       {
         "id": "AI-027",
-        "title": "If OpenAI is to float on the stock market this year, it needs to start turning a profit",
-        "summary": "The poster child of the AI boom, valued at $850bn, needs to show strategic discipline after ‘casting its net too wide’ \nIf OpenAI is going to float this year, it has to get serious about its business model. The wow factor around the US company – the ",
-        "content": "The poster child of the AI boom, valued at $850bn, needs to show strategic discipline after ‘casting its net too wide’ \nIf OpenAI is going to float this year, it has to get serious about its business model. The wow factor around the US company – the poster child of an AI industry boom that has stoked fears of a stock market bubble – has been long established, but when will the profits come? The party can’t go on for ever.\nThe developer of ChatGPT is one of the biggest startups in the world and i",
+        "title": "Teenager died after asking ChatGPT for ‘most successful’ way to take his life, inquest told",
+        "summary": "Luca Cella Walker asked chatbot for best way for someone to kill themself on railway line before his death\nA 16-year-old boy killed himself after asking ChatGPT for the “most successful” way to take your own life, an inquest has been told.\nLuca Cella",
+        "content": "Luca Cella Walker asked chatbot for best way for someone to kill themself on railway line before his death\nA 16-year-old boy killed himself after asking ChatGPT for the “most successful” way to take your own life, an inquest has been told.\nLuca Cella Walker, a private school pupil from Yateley, Hampshire, died on 4 May last year.\n Continue reading...",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/mar/31/openai-stock-market-flotation-profit",
+        "sourceUrl": "https://www.theguardian.com/society/2026/mar/31/teenager-asked-chatgpt-most-successful-ways-take-life-inquest-told",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Tue, 31 Mar 2026 07:00:33 GMT",
+        "publishedAt": "Tue, 31 Mar 2026 19:01:18 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-31/2026-03-31-culture-AI-027.webp"
       },
       {
         "id": "AI-028",
-        "title": "California to impose new AI regulations in defiance of Trump call",
-        "summary": "Gavin Newsom signs order to prioritize public safety and rights as president seeks to prevent ‘cumbersome’ rules\nCalifornia will impose new standards on artificial intelligence companies seeking to do business with the state, defying Donald Trump’s d",
-        "content": "Gavin Newsom signs order to prioritize public safety and rights as president seeks to prevent ‘cumbersome’ rules\nCalifornia will impose new standards on artificial intelligence companies seeking to do business with the state, defying Donald Trump’s demands to keep the controversial industry as deregulated as possible.\nDemocratic governor Gavin Newsom signed an executive order on Monday that gives the state four months to develop AI policies that prioritize public safety.\n Continue reading...",
+        "title": "Penguin to sue OpenAI over ChatGPT version of German children’s book",
+        "summary": "Publisher alleges AI research company’s chatbot violated its copyright over Coconut the Little Dragon series\nPenguin Random House has filed a lawsuit against OpenAI, alleging its chatbot ChatGPT violated copyright by mimicking and reproducing the con",
+        "content": "Publisher alleges AI research company’s chatbot violated its copyright over Coconut the Little Dragon series\nPenguin Random House has filed a lawsuit against OpenAI, alleging its chatbot ChatGPT violated copyright by mimicking and reproducing the content of a popular series of German children’s books.\nThe lawsuit, which was filed on Friday with a Munich court against OpenAI’s Ireland-based European subsidiary, states Penguin Random House’s legal team had prompted ChatGPT to write a story in the ",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/us-news/2026/mar/30/california-ai-regulations-trump",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/mar/31/penguin-sue-openai-chatgpt-german-childrens-book-kokosnuss",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Mon, 30 Mar 2026 23:59:34 GMT",
+        "publishedAt": "Tue, 31 Mar 2026 16:13:45 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-31/2026-03-31-culture-AI-028.webp"
       },
       {
         "id": "AI-029",
-        "title": "TV star’s AI porn allegations spark national debate in Germany",
-        "summary": "Collien Fernandes accuses ex-husband Christian Ulmen of sharing sexually explicit deepfake images of her online\nA high-profile German TV star’s allegations that her ex-husband spread AI-generated pornographic images of her have triggered a national d",
-        "content": "Collien Fernandes accuses ex-husband Christian Ulmen of sharing sexually explicit deepfake images of her online\nA high-profile German TV star’s allegations that her ex-husband spread AI-generated pornographic images of her have triggered a national debate and put pressure on the government to tighten laws around digital violence against women.\nIn an interview with the news magazine Der Spiegel last week, Collien Fernandes accused her former husband Christian Ulmen, a prominent TV presenter and p",
+        "title": "We need a credible plan for science funding in the UK | Letters",
+        "summary": "Prof Ruben Saakyan and Prof Sheila Rowan respond to Prof Charlotte Deane of UK Research and Innovation\nIf the UK’s position in quantum computing is indeed a success story of long-term investment in fundamental science, as Prof Charlotte Deane argues ",
+        "content": "Prof Ruben Saakyan and Prof Sheila Rowan respond to Prof Charlotte Deane of UK Research and Innovation\nIf the UK’s position in quantum computing is indeed a success story of long-term investment in fundamental science, as Prof Charlotte Deane argues (Letters, 25 March), it makes the current UK Research and Innovation approach, particularly to Science and Technology Facilities Council funding, all the more perplexing.\nNo one disputes the need for prioritisation. The community understands that cho",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/world/2026/mar/30/collien-fernandes-deepfake-porn-allegations-digital-violence-against-women",
+        "sourceUrl": "https://www.theguardian.com/science/2026/mar/31/we-need-a-credible-plan-for-science-funding-in-the-uk",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Mon, 30 Mar 2026 16:12:59 GMT",
+        "publishedAt": "Tue, 31 Mar 2026 16:02:56 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-03-31/2026-03-31-culture-AI-029.webp"
+      },
+      {
+        "id": "AI-030",
+        "title": "Does anyone think Matt Goodwin’s book on Britain’s demise is a publishing sensation? I mean, other than him | Marina Hyde",
+        "summary": "Who needs critics when the Reform man is so adept at patting his own back – and that’s easy to do in publishing: there’s a sales list for everyone \n‘She’s produced a bestseller!” panted the Spectator. “Liz Truss’s new book has been out for less than ",
+        "content": "Who needs critics when the Reform man is so adept at patting his own back – and that’s easy to do in publishing: there’s a sales list for everyone \n‘She’s produced a bestseller!” panted the Spectator. “Liz Truss’s new book has been out for less than 72 hours and it’s already sold out on Amazon.” Thus began the fairly widespread British media hallucination that the 45-day PM was once more igniting the nation with her 2024 book Ten Years to Save the West. In the end, Truss’s book sold 2,228 copies",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/commentisfree/2026/mar/31/matt-goodwin-ai-allegations-suicide-nation-book-sales",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 31 Mar 2026 16:00:54 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-03-31/2026-03-31-culture-AI-030.webp"
       }
     ]
   },
@@ -584,35 +634,37 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
-    "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
-    "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
-    "https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/",
-    "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/",
-    "https://the-decoder.com/nebius-plans-10-billion-ai-data-center-in-finland-near-russian-border/",
-    "https://the-decoder.com/california-sets-its-own-ai-rules-for-state-contractors-pushing-back-against-federal-policy/",
-    "https://the-decoder.com/openai-launches-a-codex-plugin-that-runs-inside-anthropics-claude-code/",
-    "https://the-decoder.com/insiders-liken-ai-to-the-ozempic-of-the-music-industry-as-hitmakers-reportedly-hide-their-generator-use/",
-    "https://the-decoder.com/microsoft-rolls-out-copilot-cowork-more-broadly-and-lets-ai-models-check-each-others-work/",
-    "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
-    "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/",
-    "https://www.technologyreview.com/2026/03/30/1134836/the-download-brainless-human-clones-first-uterus-kept-alive-outside-body/",
+    "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
+    "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
+    "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
+    "https://techcrunch.com/2026/03/31/alexa-plus-new-food-ordering-experiences-with-uber-eats-and-grubhub/",
+    "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
+    "https://the-decoder.com/oracle-reportedly-lays-off-thousands-of-employees-to-bankroll-its-massive-ai-infrastructure-bet/",
+    "https://the-decoder.com/anthropic-accidentally-publishes-claude-code-source-code-for-anyone-to-find/",
+    "https://the-decoder.com/googles-veo-3-1-lite-cuts-video-generation-costs-by-more-than-half/",
+    "https://the-decoder.com/frontier-radar-2-why-ai-productivity-gets-lost-between-benchmarks-and-the-balance-sheet/",
+    "https://the-decoder.com/qwen3-5-omni-learned-to-write-code-from-spoken-instructions-and-video-without-anyone-training-it-to/",
+    "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
+    "https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/",
+    "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
     "https://arxiv.org/abs/2603.26765",
     "https://arxiv.org/abs/2603.26782",
-    "https://www.cnbc.com/2026/03/31/microsoft-cma-investigation-uk-software-business.html",
-    "https://www.cnbc.com/2026/03/31/autonomous-boat-startup-saronic-raises-1point75-billion-.html",
-    "https://www.cnbc.com/2026/03/31/european-defense-tech-startups-iran-war-gulf-states.html",
-    "https://www.cnbc.com/2026/03/31/nebius-finland-ai-factory-europe-compute.html",
-    "https://www.cnbc.com/2026/03/31/pe-alpha-wave-carlyle-1-billion-airtel-data-center.html",
-    "https://www.nytimes.com/2026/03/30/technology/trump-states-ai-gavin-newsom-california.html",
-    "https://www.nytimes.com/2026/03/30/technology/sec-crypto-friendly-rules.html",
-    "https://www.nytimes.com/2026/03/30/business/lawmakers-probe-elon-musk-treasury.html",
+    "https://www.cnbc.com/2026/03/31/crypto-asset-manager-coinshares-to-begin-trading-on-nasdaq-through-spac-merger.html",
+    "https://www.cnbc.com/2026/03/31/anthropic-leak-claude-code-internal-source.html",
+    "https://www.cnbc.com/2026/03/31/column-apples-crackdown-on-ai-apps-puts-it-wrong-side-of-history.html",
+    "https://www.cnbc.com/2026/03/31/microsofts-stock-closes-worst-quarter-since-2008-financial-crisis.html",
+    "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+    "https://www.nytimes.com/2026/03/31/arts/instagram-pg-13-rating-mpa-meta-teen-safety.html",
     "https://www.nytimes.com/2026/03/31/world/europe/russia-internet-restrictions.html",
-    "https://www.nytimes.com/2026/03/31/business/dealbook/whoop-a-wearable-health-device-maker-raises-575-million.html",
-    "https://www.theguardian.com/technology/2026/mar/31/palantir-uk-boss-louis-mosley-ministers-nhs-contract",
-    "https://www.theguardian.com/technology/2026/mar/31/openai-stock-market-flotation-profit",
-    "https://www.theguardian.com/us-news/2026/mar/30/california-ai-regulations-trump",
-    "https://www.theguardian.com/world/2026/mar/30/collien-fernandes-deepfake-porn-allegations-digital-violence-against-women"
+    "https://www.nytimes.com/2026/03/31/technology/openai-12-billion-latest-funding-round.html",
+    "https://www.nytimes.com/2026/03/31/business/dealbook/whoop-raises-575-million-10-billion-valuation.html",
+    "https://www.nytimes.com/2026/03/30/technology/california-ai-executive-order.html",
+    "https://www.theguardian.com/technology/2026/mar/31/openai-raises-122-billion-ai-boom",
+    "https://www.theguardian.com/society/2026/mar/31/teenager-asked-chatgpt-most-successful-ways-take-life-inquest-told",
+    "https://www.theguardian.com/technology/2026/mar/31/penguin-sue-openai-chatgpt-german-childrens-book-kokosnuss",
+    "https://www.theguardian.com/science/2026/mar/31/we-need-a-credible-plan-for-science-funding-in-the-uk",
+    "https://www.theguardian.com/commentisfree/2026/mar/31/matt-goodwin-ai-allegations-suicide-nation-book-sales"
   ],
-  "generatedAt": "2026-03-31T11:44:58.459Z"
+  "generatedAt": "2026-03-31T23:26:51.180Z",
+  "simpleSummaryImageUrl": "/images/2026-03-31/2026-03-31-summary.webp"
 }
