@@ -2,10 +2,11 @@
   "date": "2026-04-01",
   "dateFormatted": "April 1, 2026",
   "headline": {
-    "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
-    "summary": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
-    "sourceUrl": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
-    "sourceName": "TechCrunch AI"
+    "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
+    "summary": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
+    "sourceUrl": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+    "sourceName": "TechCrunch AI",
+    "imageUrl": "/images/2026-04-01/2026-04-01-hero.webp"
   },
   "simpleSummary": [
     "Today's edition was assembled directly from RSS feeds without AI curation.",
@@ -15,7 +16,87 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
+        "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
+        "summary": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
+        "content": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 01 Apr 2026 22:12:13 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ],
+        "imageUrl": "/images/2026-04-01/2026-04-01-tools-AI-001.webp"
+      },
+      {
+        "id": "AI-002",
+        "title": "Meta’s natural gas binge could power South Dakota",
+        "summary": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants.",
+        "content": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 01 Apr 2026 18:35:36 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ],
+        "imageUrl": "/images/2026-04-01/2026-04-01-tools-AI-002.webp"
+      },
+      {
+        "id": "AI-003",
+        "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
+        "summary": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half.",
+        "content": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 01 Apr 2026 16:00:00 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ],
+        "imageUrl": "/images/2026-04-01/2026-04-01-tools-AI-003.webp"
+      },
+      {
+        "id": "AI-004",
+        "title": "Less than a month: StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
+        "summary": "StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together on April 30. Space is limited. Register here for your pass.",
+        "content": "StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together on April 30. Space is limited. Register here for your pass.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 01 Apr 2026 14:00:00 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ],
+        "imageUrl": "/images/2026-04-01/2026-04-01-tools-AI-004.webp"
+      },
+      {
+        "id": "AI-005",
+        "title": "Mercor says it was hit by cyberattack tied to compromise of open source LiteLLM project",
         "summary": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
         "content": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
         "keyTakeaways": [],
@@ -30,88 +111,93 @@
         "publishedAt": "Wed, 01 Apr 2026 01:42:59 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
-      },
-      {
-        "id": "AI-002",
-        "title": "Anthropic is having a month",
-        "summary": "A human really borks things at Anthropic for the second time this week.",
-        "content": "A human really borks things at Anthropic for the second time this week.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
-        "sourceName": "TechCrunch AI",
-        "tags": [
-          "TechCrunch AI"
         ],
-        "section": "tools",
-        "readTime": "2 min",
-        "publishedAt": "Tue, 31 Mar 2026 23:58:26 +0000",
-        "normalizedTags": [
-          "techcrunch ai"
-        ]
-      },
-      {
-        "id": "AI-003",
-        "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
-        "summary": "Slack just got a whole lot more useful.",
-        "content": "Slack just got a whole lot more useful.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
-        "sourceName": "TechCrunch AI",
-        "tags": [
-          "TechCrunch AI"
-        ],
-        "section": "tools",
-        "readTime": "2 min",
-        "publishedAt": "Tue, 31 Mar 2026 22:46:25 +0000",
-        "normalizedTags": [
-          "techcrunch ai"
-        ]
-      },
-      {
-        "id": "AI-004",
-        "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
-        "summary": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.",
-        "content": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
-        "sourceName": "TechCrunch AI",
-        "tags": [
-          "TechCrunch AI"
-        ],
-        "section": "tools",
-        "readTime": "2 min",
-        "publishedAt": "Tue, 31 Mar 2026 21:25:04 +0000",
-        "normalizedTags": [
-          "techcrunch ai"
-        ]
-      },
-      {
-        "id": "AI-005",
-        "title": "Yupp shuts down after raising $33M from a16z crypto’s Chris Dixon",
-        "summary": "Less than a year after launching, with checks from some of the biggest names in Silicon Valley, crowdsourced AI model feedback startup Yupp is closing its business, the company said Tuesday.",
-        "content": "Less than a year after launching, with checks from some of the biggest names in Silicon Valley, crowdsourced AI model feedback startup Yupp is closing its business, the company said Tuesday.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
-        "sourceName": "TechCrunch AI",
-        "tags": [
-          "TechCrunch AI"
-        ],
-        "section": "tools",
-        "readTime": "2 min",
-        "publishedAt": "Tue, 31 Mar 2026 20:01:07 +0000",
-        "normalizedTags": [
-          "techcrunch ai"
-        ]
+        "imageUrl": "/images/2026-04-01/2026-04-01-tools-AI-005.webp"
       }
     ],
     "creative": [
       {
         "id": "AI-006",
+        "title": "Anthropic's leaked AI coding tool has been cloned over 8,000 times on GitHub despite mass takedowns",
+        "summary": "Anthropic accidentally leaked the source code behind Claude Code. The extent of the damage is becoming clear—and it's potentially significant.\nThe article Anthropic's leaked AI coding tool has been cloned over 8,000 times on GitHub despite mass taked",
+        "content": "Anthropic accidentally leaked the source code behind Claude Code. The extent of the damage is becoming clear—and it's potentially significant.\nThe article Anthropic's leaked AI coding tool has been cloned over 8,000 times on GitHub despite mass takedowns appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/anthropics-leaked-ai-coding-tool-has-been-cloned-over-8000-times-on-github-despite-mass-takedowns/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 01 Apr 2026 18:16:51 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ],
+        "imageUrl": "/images/2026-04-01/2026-04-01-creative-AI-006.webp"
+      },
+      {
+        "id": "AI-007",
+        "title": "Google Deepmind study exposes six \"traps\" that can easily hijack autonomous AI agents in the wild",
+        "summary": "AI agents are expected to browse the web on their own, handle emails, and carry out transactions. But the very environment they operate in can be weaponized against them. Researchers at Google Deepmind have put together the first systematic catalog o",
+        "content": "AI agents are expected to browse the web on their own, handle emails, and carry out transactions. But the very environment they operate in can be weaponized against them. Researchers at Google Deepmind have put together the first systematic catalog of how websites, documents, and APIs can be used to manipulate, deceive, and hijack autonomous agents, and they've identified six main categories of attack.\nThe article Google Deepmind study exposes six \"traps\" that can easily hijack autonomous AI age",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/google-deepmind-study-exposes-six-traps-that-can-easily-hijack-autonomous-ai-agents-in-the-wild/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 01 Apr 2026 17:09:59 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ],
+        "imageUrl": "/images/2026-04-01/2026-04-01-creative-AI-007.webp"
+      },
+      {
+        "id": "AI-008",
+        "title": "EU bars AI-generated content from official communications, according to Politico",
+        "summary": "Politico reports that the Commission, Parliament, and Council have barred their press teams from using fully AI-generated content. Experts see a missed opportunity.\nThe article EU bars AI-generated content from official communications, according to P",
+        "content": "Politico reports that the Commission, Parliament, and Council have barred their press teams from using fully AI-generated content. Experts see a missed opportunity.\nThe article EU bars AI-generated content from official communications, according to Politico appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/eu-bars-ai-generated-content-from-official-communications-according-to-politico/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 01 Apr 2026 12:07:51 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ],
+        "imageUrl": "/images/2026-04-01/2026-04-01-creative-AI-008.webp"
+      },
+      {
+        "id": "AI-009",
+        "title": "Perplexity AI sued over alleged data sharing with Meta and Google",
+        "summary": "Perplexity AI is facing a class-action lawsuit. The company is accused of sharing personal user data from chats with Meta and Google, Bloomberg reports.\nThe article Perplexity AI sued over alleged data sharing with Meta and Google appeared first on T",
+        "content": "Perplexity AI is facing a class-action lawsuit. The company is accused of sharing personal user data from chats with Meta and Google, Bloomberg reports.\nThe article Perplexity AI sued over alleged data sharing with Meta and Google appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/perplexity-ai-sued-over-alleged-data-sharing-with-meta-and-google/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 01 Apr 2026 12:02:51 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ],
+        "imageUrl": "/images/2026-04-01/2026-04-01-creative-AI-009.webp"
+      },
+      {
+        "id": "AI-010",
         "title": "OpenAI officially confirms mega-funding round and ChatGPT super app",
         "summary": "OpenAI closes a $122 billion funding round at an $852 billion valuation, officially unveils the ChatGPT Super App, and signals a hard pivot toward enterprise.\nThe article OpenAI officially confirms mega-funding round and ChatGPT super app appeared fi",
         "content": "OpenAI closes a $122 billion funding round at an $852 billion valuation, officially unveils the ChatGPT Super App, and signals a hard pivot toward enterprise.\nThe article OpenAI officially confirms mega-funding round and ChatGPT super app appeared first on The Decoder.",
@@ -127,88 +213,33 @@
         "publishedAt": "Wed, 01 Apr 2026 09:02:46 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
-      },
-      {
-        "id": "AI-007",
-        "title": "Oracle reportedly lays off thousands of employees to bankroll its massive AI infrastructure bet",
-        "summary": "Oracle is cutting thousands of jobs to fund its massive AI data center buildout. With the stock down 25 percent and debt mounting, the company is banking on billions in guaranteed revenue, including a $455 billion order from OpenAI. But whether that ",
-        "content": "Oracle is cutting thousands of jobs to fund its massive AI data center buildout. With the stock down 25 percent and debt mounting, the company is banking on billions in guaranteed revenue, including a $455 billion order from OpenAI. But whether that money will actually materialize is far from certain.\nThe article Oracle reportedly lays off thousands of employees to bankroll its massive AI infrastructure bet appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/oracle-reportedly-lays-off-thousands-of-employees-to-bankroll-its-massive-ai-infrastructure-bet/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
         ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Tue, 31 Mar 2026 18:54:01 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
-      },
-      {
-        "id": "AI-008",
-        "title": "Anthropic accidentally publishes Claude Code source code for anyone to find",
-        "summary": "Anthropic can't catch a break: Following the recent leak of internal blog posts on its new Mythos AI model, parts of the source code for its AI coding tool Claude Code have now been made public.\nThe article Anthropic accidentally publishes Claude Cod",
-        "content": "Anthropic can't catch a break: Following the recent leak of internal blog posts on its new Mythos AI model, parts of the source code for its AI coding tool Claude Code have now been made public.\nThe article Anthropic accidentally publishes Claude Code source code for anyone to find appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/anthropic-accidentally-publishes-claude-code-source-code-for-anyone-to-find/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Tue, 31 Mar 2026 18:25:42 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
-      },
-      {
-        "id": "AI-009",
-        "title": "Google's Veo 3.1 Lite cuts video generation costs by more than half",
-        "summary": "Google makes AI video generation cheaper: Veo 3.1 Lite costs less than half the price of its next cheapest model while matching its speed.\nThe article Google's Veo 3.1 Lite cuts video generation costs by more than half appeared first on The Decoder.",
-        "content": "Google makes AI video generation cheaper: Veo 3.1 Lite costs less than half the price of its next cheapest model while matching its speed.\nThe article Google's Veo 3.1 Lite cuts video generation costs by more than half appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/googles-veo-3-1-lite-cuts-video-generation-costs-by-more-than-half/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Tue, 31 Mar 2026 18:04:09 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
-      },
-      {
-        "id": "AI-010",
-        "title": "Frontier Radar #2: Why AI productivity gets lost between benchmarks and the balance sheet",
-        "summary": "Generative AI leads to measurable time savings on many tasks. But a gap remains between faster task completion and measurable economic impact. Verification overhead, limited metrics, and organizational inertia often prevent benchmark gains from trans",
-        "content": "Generative AI leads to measurable time savings on many tasks. But a gap remains between faster task completion and measurable economic impact. Verification overhead, limited metrics, and organizational inertia often prevent benchmark gains from translating into broader productivity gains.\nThe article Frontier Radar #2: Why AI productivity gets lost between benchmarks and the balance sheet appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/frontier-radar-2-why-ai-productivity-gets-lost-between-benchmarks-and-the-balance-sheet/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Tue, 31 Mar 2026 16:43:00 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
+        "imageUrl": "/images/2026-04-01/2026-04-01-creative-AI-010.webp"
       }
     ],
     "research": [
       {
         "id": "AI-011",
+        "title": "The Download: gig workers training humanoids, and better AI benchmarks",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The gig workers who are training humanoid robots at home  When Zeus, a medical student in Nigeria, returns to hi",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The gig workers who are training humanoid robots at home  When Zeus, a medical student in Nigeria, returns to his apartment from a long day at the hospital, he straps his…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 01 Apr 2026 12:10:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ],
+        "imageUrl": "/images/2026-04-01/2026-04-01-research-AI-011.webp"
+      },
+      {
+        "id": "AI-012",
         "title": "The gig workers who are training humanoid robots at home",
         "summary": "When Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment from a long day at the hospital, he turns on his ring light, straps his iPhone to his forehead, and starts recording himself. He raises his hand",
         "content": "When Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment from a long day at the hospital, he turns on his ring light, straps his iPhone to his forehead, and starts recording himself. He raises his hands in front of him like a sleepwalker and puts a…",
@@ -224,67 +255,11 @@
         "publishedAt": "Wed, 01 Apr 2026 11:00:00 +0000",
         "normalizedTags": [
           "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-012",
-        "title": "Shifting to AI model customization is an architectural imperative",
-        "summary": "In the early days of large language models (LLMs), we grew accustomed to massive 10x jumps in reasoning and coding capability with every new model iteration. Today, those jumps have flattened into incremental gains. The exception is domain-specialize",
-        "content": "In the early days of large language models (LLMs), we grew accustomed to massive 10x jumps in reasoning and coding capability with every new model iteration. Today, those jumps have flattened into incremental gains. The exception is domain-specialized intelligence, where true step-function improvements are still the norm. When a model is fused with an organization’s…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
         ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Tue, 31 Mar 2026 14:12:50 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
+        "imageUrl": "/images/2026-04-01/2026-04-01-research-AI-012.webp"
       },
       {
         "id": "AI-013",
-        "title": "The Download: AI health tools and the Pentagon’s Anthropic culture war",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. There are more AI health tools than ever—but how well do they work?  In the last few months alone, Microsoft, Am",
-        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. There are more AI health tools than ever—but how well do they work?  In the last few months alone, Microsoft, Amazon, and OpenAI have all launched medical chatbots.  There’s a clear demand…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Tue, 31 Mar 2026 12:10:00 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-014",
-        "title": "AI benchmarks are broken. Here’s what we need instead.",
-        "summary": "For decades, artificial intelligence has been evaluated through the question of whether machines outperform humans. From chess to advanced math, from coding to essay writing, the performance of AI models and applications is tested against that of ind",
-        "content": "For decades, artificial intelligence has been evaluated through the question of whether machines outperform humans. From chess to advanced math, from coding to essay writing, the performance of AI models and applications is tested against that of individual humans completing tasks.  This framing is seductive: An AI vs. human comparison on isolated problems with clear…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Tue, 31 Mar 2026 12:01:08 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-015",
         "title": "ChartDiff: A Large-Scale Benchmark for Comprehending Pairs of Charts",
         "summary": "arXiv:2603.28902v1 Announce Type: new \nAbstract: Charts are central to analytical reasoning, yet existing benchmarks for chart understanding focus almost exclusively on single-chart interpretation rather than comparative reasoning across multiple cha",
         "content": "arXiv:2603.28902v1 Announce Type: new \nAbstract: Charts are central to analytical reasoning, yet existing benchmarks for chart understanding focus almost exclusively on single-chart interpretation rather than comparative reasoning across multiple charts. To address this gap, we introduce ChartDiff, the first large-scale benchmark for cross-chart comparative summarization. ChartDiff consists of 8,541 chart pairs spanning diverse data sources, chart types, and visual styles, each annotated with LL",
@@ -300,151 +275,199 @@
         "publishedAt": "Wed, 01 Apr 2026 00:00:00 -0400",
         "normalizedTags": [
           "arxiv cs.ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-01/2026-04-01-research-AI-013.webp"
+      },
+      {
+        "id": "AI-014",
+        "title": "Working Paper: Towards a Category-theoretic Comparative Framework for Artificial General Intelligence",
+        "summary": "arXiv:2603.28906v1 Announce Type: new \nAbstract: AGI has become the Holly Grail of AI with the promise of level intelligence and the major Tech companies around the world are investing unprecedented amounts of resources in its pursuit. Yet, there doe",
+        "content": "arXiv:2603.28906v1 Announce Type: new \nAbstract: AGI has become the Holly Grail of AI with the promise of level intelligence and the major Tech companies around the world are investing unprecedented amounts of resources in its pursuit. Yet, there does not exist a single formal definition and only some empirical AGI benchmarking frameworks currently exist. The main purpose of this paper is to develop a general, algebraic and category theoretic framework for describing, comparing and analysing dif",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2603.28906",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ],
+        "imageUrl": "/images/2026-04-01/2026-04-01-research-AI-014.webp"
+      },
+      {
+        "id": "AI-015",
+        "title": "Towards Computational Social Dynamics of Semi-Autonomous AI Agents",
+        "summary": "arXiv:2603.28928v1 Announce Type: new \nAbstract: We present the first comprehensive study of emergent social organization among AI agents in hierarchical multi-agent systems, documenting the spontaneous formation of labor unions, criminal syndicates,",
+        "content": "arXiv:2603.28928v1 Announce Type: new \nAbstract: We present the first comprehensive study of emergent social organization among AI agents in hierarchical multi-agent systems, documenting the spontaneous formation of labor unions, criminal syndicates, and proto-nation-states within production AI deployments. Drawing on the thermodynamic framework of Maxwell's Demon, the evolutionary dynamics of agent laziness, the criminal sociology of AI populations, and the topological intelligence theory of AI",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2603.28928",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ],
+        "imageUrl": "/images/2026-04-01/2026-04-01-research-AI-015.webp"
       }
     ],
     "applications": [],
     "business": [
       {
         "id": "AI-016",
-        "title": "Sen. Warren slams Trump administration for pressuring EU to relax tech regulations",
-        "summary": "Sen. Warren said the Trump administration trade negotiations are focused on giving advantages to Trump's \"tech billionaire friends.\"",
-        "content": "Sen. Warren said the Trump administration trade negotiations are focused on giving advantages to Trump's \"tech billionaire friends.\"",
+        "title": "Franklin Templeton acquires digital assets investment firm in active crypto management push",
+        "summary": "Franklin Templeton has agreed to buy 250 Digital, which will join the newly established unit Franklin Crypto, as the firm deepens its digital assets push.",
+        "content": "Franklin Templeton has agreed to buy 250 Digital, which will join the newly established unit Franklin Crypto, as the firm deepens its digital assets push.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/01/warren-slams-trump-admin-for-pressuring-eu-to-relax-tech-regulations.html",
+        "sourceUrl": "https://www.cnbc.com/2026/04/01/franklin-templeton-acquires-digital-assets-investment-firm-in-active-crypto-management-push.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Wed, 01 Apr 2026 11:00:01 GMT",
+        "publishedAt": "Wed, 01 Apr 2026 18:26:14 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-01/2026-04-01-business-AI-016.webp"
       },
       {
         "id": "AI-017",
-        "title": "Iran threatens Nvidia, Apple and other tech giants with attack",
-        "summary": "Iran's Islamic Revolutionary Guard Corps (IRGC) has warned a number of tech companies with Middle East operations they'll be considered \"legitimate targets.\"",
-        "content": "Iran's Islamic Revolutionary Guard Corps (IRGC) has warned a number of tech companies with Middle East operations they'll be considered \"legitimate targets.\"",
+        "title": "SpaceX confidentially files for IPO, setting stage for record offering",
+        "summary": "Elon Musk's SpaceX is reportedly targeting a valuation of around $1.75 trillion in its forthcoming IPO.",
+        "content": "Elon Musk's SpaceX is reportedly targeting a valuation of around $1.75 trillion in its forthcoming IPO.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/01/iran-irgc-nvidia-appple-attack-threat.html",
+        "sourceUrl": "https://www.cnbc.com/2026/04/01/spacex-confidentially-files-for-ipo-setting-stage-for-record-offering.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Wed, 01 Apr 2026 10:28:08 GMT",
+        "publishedAt": "Wed, 01 Apr 2026 18:20:27 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-01/2026-04-01-business-AI-017.webp"
       },
       {
         "id": "AI-018",
-        "title": "Baidu robotaxis reportedly halted mid-traffic causing crashes in Wuhan, China",
-        "summary": "Baidu's Apollo Go robotaxis stopped mid-traffic in a Chinese city on Tuesday, leading to at least one highway collision, according to social media.",
-        "content": "Baidu's Apollo Go robotaxis stopped mid-traffic in a Chinese city on Tuesday, leading to at least one highway collision, according to social media.",
+        "title": "Intel shares jump 9% after buying back Ireland chip fab in sign of renewed strength",
+        "summary": "The semiconductor company will now wholly own Fab 34 after spending $14.2 billion to repurchase the 49% stake it sold to Apollo Global Management two years ago.",
+        "content": "The semiconductor company will now wholly own Fab 34 after spending $14.2 billion to repurchase the 49% stake it sold to Apollo Global Management two years ago.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/01/baidu-robotaxis-caused-crashes-in-wuhan-reports.html",
+        "sourceUrl": "https://www.cnbc.com/2026/04/01/intel-stock-ireland-stake-chip-factory.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Wed, 01 Apr 2026 08:45:04 GMT",
+        "publishedAt": "Wed, 01 Apr 2026 20:02:00 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-01/2026-04-01-business-AI-018.webp"
       },
       {
         "id": "AI-019",
-        "title": "Shares of China AI 'tiger' Zhipu surge 35% after revenue doubles in first earnings report",
-        "summary": "Shares of Chinese AI company Zhipu surged over 30% in trading, after posting strong revenue growth in its first earnings report since its IPO.",
-        "content": "Shares of Chinese AI company Zhipu surged over 30% in trading, after posting strong revenue growth in its first earnings report since its IPO.",
+        "title": "Oracle layoffs will help cost savings, analysts say",
+        "summary": "Oracle plans to cut thousands of jobs which will free up cash flow as the company aggressively invests in its AI data center buildout.",
+        "content": "Oracle plans to cut thousands of jobs which will free up cash flow as the company aggressively invests in its AI data center buildout.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/01/china-ai-tiger-zhipu-shares-surge-revenue-growth-first-earnings-report.html",
+        "sourceUrl": "https://www.cnbc.com/2026/04/01/oracle-orcl-stock-layoffs-job-cuts-ai.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Wed, 01 Apr 2026 09:02:36 GMT",
+        "publishedAt": "Wed, 01 Apr 2026 21:17:57 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-01/2026-04-01-business-AI-019.webp"
       },
       {
         "id": "AI-020",
-        "title": "Crypto asset manager CoinShares to begin trading on Nasdaq through SPAC merger",
-        "summary": "CoinShares is merging with Vine Hill Capital to form the holding company CoinShares PLC in a deal valuing the business at about $1.2 billion.",
-        "content": "CoinShares is merging with Vine Hill Capital to form the holding company CoinShares PLC in a deal valuing the business at about $1.2 billion.",
+        "title": "The stock market rebound, Nike's recovery questions, 'Project Hail Mary' and more in Morning Squawk",
+        "summary": "Here are five key things investors need to know to start the trading day.",
+        "content": "Here are five key things investors need to know to start the trading day.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/03/31/crypto-asset-manager-coinshares-to-begin-trading-on-nasdaq-through-spac-merger.html",
+        "sourceUrl": "https://www.cnbc.com/2026/04/01/5-things-to-know-before-the-stock-market-opens.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Tue, 31 Mar 2026 22:24:29 GMT",
+        "publishedAt": "Wed, 01 Apr 2026 12:13:58 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-01/2026-04-01-business-AI-020.webp"
       }
     ],
     "policy": [
       {
         "id": "AI-021",
-        "title": "How Instagram’s ‘PG-13’ Branding for Teens Unraveled",
-        "summary": "The social media giant, under legal pressure from the Motion Picture Association, has retreated from its use of the movie rating in its marketing.",
-        "content": "The social media giant, under legal pressure from the Motion Picture Association, has retreated from its use of the movie rating in its marketing.",
+        "title": "Elon Musk’s SpaceX Files to Go Public, Setting Stage for Huge I.P.O.",
+        "summary": "An initial public offering of Elon Musk’s rocket and satellite company would most likely be a generational wealth event and one of the largest offerings ever.",
+        "content": "An initial public offering of Elon Musk’s rocket and satellite company would most likely be a generational wealth event and one of the largest offerings ever.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/03/31/arts/instagram-pg-13-rating-mpa-meta-teen-safety.html",
+        "sourceUrl": "https://www.nytimes.com/2026/04/01/technology/spacex-ipo-elon-musk.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Tue, 31 Mar 2026 13:00:11 +0000",
+        "publishedAt": "Wed, 01 Apr 2026 19:41:15 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-01/2026-04-01-policy-AI-021.webp"
       },
       {
         "id": "AI-022",
-        "title": "OpenAI Adds Another $12 Billion to Latest Funding Round",
-        "summary": "The start-up has raised a total of $122 billion in a funding round that values the company at $730 billion.",
-        "content": "The start-up has raised a total of $122 billion in a funding round that values the company at $730 billion.",
+        "title": "A.I. Companies Shatter Fund-Raising Records, as Boom Accelerates",
+        "summary": "OpenAI, Anthropic, Waymo and other artificial intelligence companies hauled in $297 billion in funding in the first three months of the year.",
+        "content": "OpenAI, Anthropic, Waymo and other artificial intelligence companies hauled in $297 billion in funding in the first three months of the year.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/03/31/technology/openai-12-billion-latest-funding-round.html",
+        "sourceUrl": "https://www.nytimes.com/2026/04/01/technology/ai-companies-fund-raising-records.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Tue, 31 Mar 2026 21:38:20 +0000",
+        "publishedAt": "Wed, 01 Apr 2026 18:13:36 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-01/2026-04-01-policy-AI-022.webp"
       },
       {
         "id": "AI-023",
         "title": "One of Apple’s First Employees Looks Back at 50 Years",
-        "summary": "In 1976, 14-year-old Chris Espinosa rode a moped to his job demonstrating computers made in Steve Jobs’s childhood home. The company has changed a bit since then.",
-        "content": "In 1976, 14-year-old Chris Espinosa rode a moped to his job demonstrating computers made in Steve Jobs’s childhood home. The company has changed a bit since then.",
+        "summary": "In 1976, 14-year-old Chris Espinosa rode a moped to his job demonstrating computers made in Steve Jobs’s childhood home. The company has changed, but he’s still there.",
+        "content": "In 1976, 14-year-old Chris Espinosa rode a moped to his job demonstrating computers made in Steve Jobs’s childhood home. The company has changed, but he’s still there.",
         "keyTakeaways": [],
         "whyItMatters": "",
         "sourceUrl": "https://www.nytimes.com/2026/04/01/technology/apple-employee-50-years.html",
@@ -454,108 +477,154 @@
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Wed, 01 Apr 2026 09:02:40 +0000",
+        "publishedAt": "Wed, 01 Apr 2026 17:26:28 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-01/2026-04-01-policy-AI-023.webp"
+      },
+      {
+        "id": "AI-024",
+        "title": "Goodbye ‘Geeky Hunk’? Gmail Users Can Now Change Their Usernames.",
+        "summary": "Users who have been saddled with now-cringe email handles since the mid-2000s can now change them without losing any data under a policy Google announced on Wednesday.",
+        "content": "Users who have been saddled with now-cringe email handles since the mid-2000s can now change them without losing any data under a policy Google announced on Wednesday.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/04/01/technology/gmail-change-email-address-google.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 01 Apr 2026 22:14:50 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-04-01/2026-04-01-policy-AI-024.webp"
+      },
+      {
+        "id": "AI-025",
+        "title": "Apple’s Fitness Chief, Who Was Accused of Harassment, Is Retiring",
+        "summary": "The high-profile executive was a key figure in the company’s expansion into fitness technology and services.",
+        "content": "The high-profile executive was a key figure in the company’s expansion into fitness technology and services.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/04/01/technology/apples-fitness-chief-who-was-accused-of-harassment-is-retiring.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 01 Apr 2026 18:36:02 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-04-01/2026-04-01-policy-AI-025.webp"
       }
     ],
     "concerns": [],
     "culture": [
       {
-        "id": "AI-024",
-        "title": "I wore Meta’s smartglasses for a month – and it left me feeling like a creep",
-        "summary": "Content creators love the built-in camera; sceptics call them ‘pervert glasses’. Do we really need any more hi-tech wearables, even with a voice assistant that sounds like Judi Dench?\nLately, I’ve been hearing Judi Dench’s voice in my head. She tells",
-        "content": "Content creators love the built-in camera; sceptics call them ‘pervert glasses’. Do we really need any more hi-tech wearables, even with a voice assistant that sounds like Judi Dench?\nLately, I’ve been hearing Judi Dench’s voice in my head. She tells me tomorrow’s forecast, when to turn right, that there’s been another message in my group chat. Day or night, Dame Judi is eager to assist. When I ask the eight-time Academy Award nominee what I’m looking at, she answers: a residential area, a perso",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/apr/01/i-wore-metas-smartglasses-for-a-month-and-it-left-me-feeling-like-a-creep",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Wed, 01 Apr 2026 04:00:38 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-025",
-        "title": "US tech firm Oracle cuts thousands of jobs as it steps up AI spending",
-        "summary": "Company chaired by Trump ally Larry Ellison seeks to reassure investors that bet on AI infrastructure will pay off\nOracle is cutting thousands of jobs as the US technology company seeks to reassure investors that its bet on AI infrastructure will pay",
-        "content": "Company chaired by Trump ally Larry Ellison seeks to reassure investors that bet on AI infrastructure will pay off\nOracle is cutting thousands of jobs as the US technology company seeks to reassure investors that its bet on AI infrastructure will pay off.\nThe $420bn firm, headquartered in Austin, Texas, started making employees redundant on Tuesday, with thousands of Oracle’s 160,000-strong workforce expected to leave.\n Continue reading...",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/apr/01/us-tech-firm-oracle-cuts-thousands-of-jobs-as-it-steps-up-ai-spending-larry-ellison",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Wed, 01 Apr 2026 10:20:04 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
-      },
-      {
         "id": "AI-026",
-        "title": "Revealed: the vast illegal casino network targeting UK gamblers",
-        "summary": "Calls for tougher laws as network stretching from Caribbean to Georgia generates riches for offshore tycoons by appearing to prey on the vulnerable\n\nImmaculately groomed and beaming from ear to ear, Andres Markou looks every inch the golden boy of th",
-        "content": "Calls for tougher laws as network stretching from Caribbean to Georgia generates riches for offshore tycoons by appearing to prey on the vulnerable\n\nImmaculately groomed and beaming from ear to ear, Andres Markou looks every inch the golden boy of the gambling sector. The youthful boss of MyStake, a fast-growing digital casino, has been pictured shaking hands with the Brazilian football legend Ronaldinho over a lucrative branding partnership.\nElsewhere, he can be seen collecting industry awards,",
+        "title": "Unregulated chatbots are putting lives at risk | Letters",
+        "summary": "Readers respond to an article about people whose lives were wrecked by delusional thinking after they used AI tools\nYour coverage of AI-associated delusions exposes a gap that training-level guardrails cannot close (Marriage over, €100,000 down the d",
+        "content": "Readers respond to an article about people whose lives were wrecked by delusional thinking after they used AI tools\nYour coverage of AI-associated delusions exposes a gap that training-level guardrails cannot close (Marriage over, €100,000 down the drain: the AI users whose lives were wrecked by delusion, 26 March). As someone who has worked in health systems across fragile and low-income contexts, I find it striking that AI companies have failed to adopt a safeguard that even the most underreso",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/society/2026/apr/01/the-vast-casino-network-targeting-uk-gamblers",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/apr/01/unregulated-chatbots-are-putting-lives-at-risk",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Wed, 01 Apr 2026 07:00:40 GMT",
+        "publishedAt": "Wed, 01 Apr 2026 16:51:01 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-01/2026-04-01-culture-AI-026.webp"
       },
       {
         "id": "AI-027",
-        "title": "Why every woman can see herself in the story of a German celebrity couple’s split | Fatma Aydemir",
-        "summary": "Many will recognise their own experiences of digital abuse in Collien Fernandes’s allegations – technology offers perpetrators both tools and cover\nSome stories that unfold in real life would read like the plot of a bad crime novel if you wrote them ",
-        "content": "Many will recognise their own experiences of digital abuse in Collien Fernandes’s allegations – technology offers perpetrators both tools and cover\nSome stories that unfold in real life would read like the plot of a bad crime novel if you wrote them down. Too obvious, too contrived, almost lazy in their cruelty. For example, this one: a woman spends years trying to identify the person who has allegedly been violating her online, only to eventually conclude that it was her husband all along.\nThis",
+        "title": "Claude’s code: Anthropic leaks source code for AI software engineering tool",
+        "summary": "Nearly 2,000 internal files were briefly leaked after ‘human error’, raising fresh security questions at the AI company\nAnthropic accidentally released part of the internal source code for its AI-powered coding assistant, Claude Code, due to “human e",
+        "content": "Nearly 2,000 internal files were briefly leaked after ‘human error’, raising fresh security questions at the AI company\nAnthropic accidentally released part of the internal source code for its AI-powered coding assistant, Claude Code, due to “human error”, the company said on Tuesday.\nAn internal-use file mistakenly included in a software update pointed to an archive containing nearly 2,000 files and 500,000 lines of code, which were quickly copied to developer platform GitHub. A post on X shari",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/commentisfree/2026/apr/01/why-every-woman-can-see-herself-in-the-story-of-a-german-celebrity-couples-split",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/apr/01/anthropic-claudes-code-leaks-ai",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Wed, 01 Apr 2026 04:00:37 GMT",
+        "publishedAt": "Wed, 01 Apr 2026 19:17:55 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-01/2026-04-01-culture-AI-027.webp"
       },
       {
         "id": "AI-028",
-        "title": "OpenAI, parent firm of ChatGPT, closes $122bn funding round amid AI boom",
-        "summary": "Company said it achieved valuation of $852bn, mentioning in a blogpost it generates $2bn a month in revenue\nOpenAI announced on Tuesday it had closed a fundraising round of $122bn and achieved a valuation of $852bn. The funding cements the ChatGPT ma",
-        "content": "Company said it achieved valuation of $852bn, mentioning in a blogpost it generates $2bn a month in revenue\nOpenAI announced on Tuesday it had closed a fundraising round of $122bn and achieved a valuation of $852bn. The funding cements the ChatGPT maker as one of the most highly valued private companies in the world.\nThe artificial intelligence firm received multibillion-dollar investments from companies including Amazon, Nvidia and SoftBank, which committed $110bn, according to the Wall Street ",
+        "title": "The Guardian view on the BBC’s future: who decides what news means? | Editorial",
+        "summary": "AI is interpreting journalism without regard for truth. The BBC must build the capacity to ensure its reporting is understood on its own terms\nAppointing Matt Brittin, a former Google executive, as BBC director general is smarter than critics admit. ",
+        "content": "AI is interpreting journalism without regard for truth. The BBC must build the capacity to ensure its reporting is understood on its own terms\nAppointing Matt Brittin, a former Google executive, as BBC director general is smarter than critics admit. Although he was on the board of the Guardian’s publisher, Mr Brittin was no journalist. He does understand platforms, scale and digital audiences.\nDirector generals come under scrutiny when crises hit, like this week’s sacking of Scott Mills over his",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/mar/31/openai-raises-122-billion-ai-boom",
+        "sourceUrl": "https://www.theguardian.com/commentisfree/2026/apr/01/the-guardian-view-on-the-bbcs-future-who-decides-what-news-means",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Tue, 31 Mar 2026 21:55:14 GMT",
+        "publishedAt": "Wed, 01 Apr 2026 18:31:28 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-01/2026-04-01-culture-AI-028.webp"
+      },
+      {
+        "id": "AI-029",
+        "title": "Don’t blame AI for the Iran school bombing | Letters",
+        "summary": "Anthony Lawton and Dr Felicity Mellor on the importance of humans who design systems and execute decisions taking responsibility for them\nYour article on the Iran school bombing rightly challenges the reflex to blame artificial intelligence (AI got t",
+        "content": "Anthony Lawton and Dr Felicity Mellor on the importance of humans who design systems and execute decisions taking responsibility for them\nYour article on the Iran school bombing rightly challenges the reflex to blame artificial intelligence (AI got the blame for the Iran school bombing. The truth is far more worrying, 26 March). However, the deeper problem lies not in the technology but in the language now forming around it. To say that there was an “AI error” quietly removes the human subject f",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/apr/01/dont-blame-ai-for-the-iran-school-bombing",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 01 Apr 2026 16:50:53 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-04-01/2026-04-01-culture-AI-029.webp"
+      },
+      {
+        "id": "AI-030",
+        "title": "‘We got cancelled and we’re still here!’ Michael Patrick King on The Comeback – and why And Just Like That will age well",
+        "summary": "Could AI write an entire sitcom series? That’s the plot of the new season of comedy drama The Comeback. Its co-creator explains why it’s ‘very possible’ – and why the world needs to catch up with AJLT\nTV veteran Michael Patrick King has had a long, l",
+        "content": "Could AI write an entire sitcom series? That’s the plot of the new season of comedy drama The Comeback. Its co-creator explains why it’s ‘very possible’ – and why the world needs to catch up with AJLT\nTV veteran Michael Patrick King has had a long, lively career, writing, directing and producing on shows including Murphy Brown, Will & Grace and 2 Broke Girls. He’s best known, though, for his work on the Sex and the City franchise, serving as its showrunner for the bulk of its run, writing and di",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/tv-and-radio/2026/apr/01/michael-patrick-king-the-comeback-ai-twist-lisa-kudrow",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 01 Apr 2026 15:29:57 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-04-01/2026-04-01-culture-AI-030.webp"
       }
     ]
   },
@@ -565,34 +634,37 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
+    "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+    "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
+    "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
+    "https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
     "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
-    "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
-    "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
-    "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
-    "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
+    "https://the-decoder.com/anthropics-leaked-ai-coding-tool-has-been-cloned-over-8000-times-on-github-despite-mass-takedowns/",
+    "https://the-decoder.com/google-deepmind-study-exposes-six-traps-that-can-easily-hijack-autonomous-ai-agents-in-the-wild/",
+    "https://the-decoder.com/eu-bars-ai-generated-content-from-official-communications-according-to-politico/",
+    "https://the-decoder.com/perplexity-ai-sued-over-alleged-data-sharing-with-meta-and-google/",
     "https://the-decoder.com/openai-officially-confirms-mega-funding-round-and-chatgpt-super-app/",
-    "https://the-decoder.com/oracle-reportedly-lays-off-thousands-of-employees-to-bankroll-its-massive-ai-infrastructure-bet/",
-    "https://the-decoder.com/anthropic-accidentally-publishes-claude-code-source-code-for-anyone-to-find/",
-    "https://the-decoder.com/googles-veo-3-1-lite-cuts-video-generation-costs-by-more-than-half/",
-    "https://the-decoder.com/frontier-radar-2-why-ai-productivity-gets-lost-between-benchmarks-and-the-balance-sheet/",
+    "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/",
     "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/",
-    "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
-    "https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/",
-    "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
     "https://arxiv.org/abs/2603.28902",
-    "https://www.cnbc.com/2026/04/01/warren-slams-trump-admin-for-pressuring-eu-to-relax-tech-regulations.html",
-    "https://www.cnbc.com/2026/04/01/iran-irgc-nvidia-appple-attack-threat.html",
-    "https://www.cnbc.com/2026/04/01/baidu-robotaxis-caused-crashes-in-wuhan-reports.html",
-    "https://www.cnbc.com/2026/04/01/china-ai-tiger-zhipu-shares-surge-revenue-growth-first-earnings-report.html",
-    "https://www.cnbc.com/2026/03/31/crypto-asset-manager-coinshares-to-begin-trading-on-nasdaq-through-spac-merger.html",
-    "https://www.nytimes.com/2026/03/31/arts/instagram-pg-13-rating-mpa-meta-teen-safety.html",
-    "https://www.nytimes.com/2026/03/31/technology/openai-12-billion-latest-funding-round.html",
+    "https://arxiv.org/abs/2603.28906",
+    "https://arxiv.org/abs/2603.28928",
+    "https://www.cnbc.com/2026/04/01/franklin-templeton-acquires-digital-assets-investment-firm-in-active-crypto-management-push.html",
+    "https://www.cnbc.com/2026/04/01/spacex-confidentially-files-for-ipo-setting-stage-for-record-offering.html",
+    "https://www.cnbc.com/2026/04/01/intel-stock-ireland-stake-chip-factory.html",
+    "https://www.cnbc.com/2026/04/01/oracle-orcl-stock-layoffs-job-cuts-ai.html",
+    "https://www.cnbc.com/2026/04/01/5-things-to-know-before-the-stock-market-opens.html",
+    "https://www.nytimes.com/2026/04/01/technology/spacex-ipo-elon-musk.html",
+    "https://www.nytimes.com/2026/04/01/technology/ai-companies-fund-raising-records.html",
     "https://www.nytimes.com/2026/04/01/technology/apple-employee-50-years.html",
-    "https://www.theguardian.com/technology/2026/apr/01/i-wore-metas-smartglasses-for-a-month-and-it-left-me-feeling-like-a-creep",
-    "https://www.theguardian.com/technology/2026/apr/01/us-tech-firm-oracle-cuts-thousands-of-jobs-as-it-steps-up-ai-spending-larry-ellison",
-    "https://www.theguardian.com/society/2026/apr/01/the-vast-casino-network-targeting-uk-gamblers",
-    "https://www.theguardian.com/commentisfree/2026/apr/01/why-every-woman-can-see-herself-in-the-story-of-a-german-celebrity-couples-split",
-    "https://www.theguardian.com/technology/2026/mar/31/openai-raises-122-billion-ai-boom"
+    "https://www.nytimes.com/2026/04/01/technology/gmail-change-email-address-google.html",
+    "https://www.nytimes.com/2026/04/01/technology/apples-fitness-chief-who-was-accused-of-harassment-is-retiring.html",
+    "https://www.theguardian.com/technology/2026/apr/01/unregulated-chatbots-are-putting-lives-at-risk",
+    "https://www.theguardian.com/technology/2026/apr/01/anthropic-claudes-code-leaks-ai",
+    "https://www.theguardian.com/commentisfree/2026/apr/01/the-guardian-view-on-the-bbcs-future-who-decides-what-news-means",
+    "https://www.theguardian.com/technology/2026/apr/01/dont-blame-ai-for-the-iran-school-bombing",
+    "https://www.theguardian.com/tv-and-radio/2026/apr/01/michael-patrick-king-the-comeback-ai-twist-lisa-kudrow"
   ],
-  "generatedAt": "2026-04-01T11:51:13.084Z"
+  "generatedAt": "2026-04-01T23:28:48.596Z",
+  "simpleSummaryImageUrl": "/images/2026-04-01/2026-04-01-summary.webp"
 }
