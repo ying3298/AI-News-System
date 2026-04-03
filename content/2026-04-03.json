@@ -2,10 +2,11 @@
   "date": "2026-04-03",
   "dateFormatted": "April 3, 2026",
   "headline": {
-    "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
-    "summary": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
-    "sourceUrl": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
-    "sourceName": "TechCrunch AI"
+    "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
+    "summary": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows.",
+    "sourceUrl": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
+    "sourceName": "TechCrunch AI",
+    "imageUrl": "/images/2026-04-03/2026-04-03-hero.webp"
   },
   "simpleSummary": [
     "Today's edition was assembled directly from RSS feeds without AI curation.",
@@ -15,216 +16,227 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
-        "summary": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
-        "content": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
+        "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
+        "summary": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows.",
+        "content": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
+        "sourceUrl": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Thu, 02 Apr 2026 19:21:00 +0000",
+        "publishedAt": "Fri, 03 Apr 2026 20:35:34 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-03/2026-04-03-tools-AI-001.webp"
       },
       {
         "id": "AI-002",
-        "title": "Microsoft takes on AI rivals with three new foundational models",
-        "summary": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
-        "content": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
+        "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
+        "summary": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer.",
+        "content": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
+        "sourceUrl": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Thu, 02 Apr 2026 16:48:16 +0000",
+        "publishedAt": "Fri, 03 Apr 2026 20:28:40 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-03/2026-04-03-tools-AI-002.webp"
       },
       {
         "id": "AI-003",
-        "title": "Google now lets you direct avatars through prompts in its Vids app",
-        "summary": "Google is adding a way to customize and instruct avatars for video creation in the Vids app.",
-        "content": "Google is adding a way to customize and instruct avatars for video creation in the Vids app.",
+        "title": "Anthropic ramps up its political activities with a new PAC",
+        "summary": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda.",
+        "content": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/",
+        "sourceUrl": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Thu, 02 Apr 2026 16:00:00 +0000",
+        "publishedAt": "Fri, 03 Apr 2026 20:22:18 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-03/2026-04-03-tools-AI-003.webp"
       },
       {
         "id": "AI-004",
-        "title": "PSA: Anyone with a link can view your Granola notes by default",
-        "summary": "If you use the AI-powered note-taking app Granola, you might want to double-check your privacy settings. Though Granola says your notes are \"private by default,\" it makes them viewable to anyone with a link, and also uses them for internal AI trainin",
-        "content": "If you use the AI-powered note-taking app Granola, you might want to double-check your privacy settings. Though Granola says your notes are \"private by default,\" it makes them viewable to anyone with a link, and also uses them for internal AI training unless you opt out.\nGranola describes itself as an \"AI notepad for people in back-to-back meetings.\" It integrates with your calendar to capture audio from your meetings, and then uses AI to generate a bulleted list of what you've heard, which it c",
+        "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
+        "summary": "Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it.",
+        "content": "Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/906253/granola-note-links-ai-training-psa",
-        "sourceName": "The Verge AI",
+        "sourceUrl": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
+        "sourceName": "TechCrunch AI",
         "tags": [
-          "The Verge AI"
+          "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "2026-04-02T21:56:16.000Z",
+        "publishedAt": "Fri, 03 Apr 2026 19:48:22 +0000",
         "normalizedTags": [
-          "the verge ai"
-        ]
+          "techcrunch ai"
+        ],
+        "imageUrl": "/images/2026-04-03/2026-04-03-tools-AI-004.webp"
       },
       {
         "id": "AI-005",
-        "title": "Elon Musk is about to be a very busy boy!",
-        "summary": "To be honest, I thought Elon Musk would confidentially file for SpaceX's IPO on the 20th of this month, rather than the 1st. But maybe that just means he's moved on to other numbers, and we should all mark our calendars for June 7th as an IPO date ju",
-        "content": "To be honest, I thought Elon Musk would confidentially file for SpaceX's IPO on the 20th of this month, rather than the 1st. But maybe that just means he's moved on to other numbers, and we should all mark our calendars for June 7th as an IPO date just in case.\nBased on the April 1st filing, and the general length of an SEC review before the S-1 document becomes public, the earliest I am expecting a SpaceX IPO is June. (At least, assuming there is still anyone left at the SEC who wants to do the",
+        "title": "People would rather have an Amazon warehouse in their backyard than a data center",
+        "summary": "A new poll shows that the debate over data centers is far from settled.",
+        "content": "A new poll shows that the debate over data centers is far from settled.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theverge.com/tech/906027/elon-musk-lawsuit-ipo-spacex-tesla",
-        "sourceName": "The Verge AI",
+        "sourceUrl": "https://techcrunch.com/2026/04/03/people-would-rather-have-an-amazon-warehouse-in-their-backyard-than-a-data-center/",
+        "sourceName": "TechCrunch AI",
         "tags": [
-          "The Verge AI"
+          "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "2026-04-02T18:15:00.000Z",
+        "publishedAt": "Fri, 03 Apr 2026 19:20:36 +0000",
         "normalizedTags": [
-          "the verge ai"
-        ]
+          "techcrunch ai"
+        ],
+        "imageUrl": "/images/2026-04-03/2026-04-03-tools-AI-005.webp"
       }
     ],
     "creative": [
       {
         "id": "AI-006",
-        "title": "OpenAI decides the best way to fight critical AI coverage is to own a newsroom",
-        "summary": "OpenAI has acquired tech talk show TBPN. The show will supposedly remain editorially independent but report to OpenAI's communications department. That's as contradictory as it sounds. So what's OpenAI really after?\nThe article OpenAI decides the bes",
-        "content": "OpenAI has acquired tech talk show TBPN. The show will supposedly remain editorially independent but report to OpenAI's communications department. That's as contradictory as it sounds. So what's OpenAI really after?\nThe article OpenAI decides the best way to fight critical AI coverage is to own a newsroom appeared first on The Decoder.",
+        "title": "Deepseek v4 will reportedly run entirely on Huawei chips in a major win for China's AI independence push",
+        "summary": "Deepseek v4 is expected to launch in the coming weeks and will run exclusively on Huawei chips. China's biggest tech companies have reportedly already ordered hundreds of thousands of units. Nvidia was shut out of early testing.\nThe article Deepseek ",
+        "content": "Deepseek v4 is expected to launch in the coming weeks and will run exclusively on Huawei chips. China's biggest tech companies have reportedly already ordered hundreds of thousands of units. Nvidia was shut out of early testing.\nThe article Deepseek v4 will reportedly run entirely on Huawei chips in a major win for China's AI independence push appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/openai-decides-the-best-way-to-fight-critical-ai-coverage-is-to-own-a-newsroom/",
+        "sourceUrl": "https://the-decoder.com/deepseek-v4-will-reportedly-run-entirely-on-huawei-chips-in-a-major-win-for-chinas-ai-independence-push/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Fri, 03 Apr 2026 11:03:52 +0000",
+        "publishedAt": "Fri, 03 Apr 2026 19:02:18 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-03/2026-04-03-creative-AI-006.webp"
       },
       {
         "id": "AI-007",
-        "title": "New Cursor 3 ditches the classic IDE layout for an \"agent-first\" interface built around parallel AI fleets",
-        "summary": "Version 3 of the AI coding tool Cursor introduces a completely redesigned interface built to move developers from manual code editing to running multiple AI agents in parallel.\nThe article New Cursor 3 ditches the classic IDE layout for an \"agent-fir",
-        "content": "Version 3 of the AI coding tool Cursor introduces a completely redesigned interface built to move developers from manual code editing to running multiple AI agents in parallel.\nThe article New Cursor 3 ditches the classic IDE layout for an \"agent-first\" interface built around parallel AI fleets appeared first on The Decoder.",
+        "title": "Microsoft is betting $10 billion on Japan's AI future",
+        "summary": "Microsoft is investing $10 billion in Japan from 2026 to 2029, its largest ever commitment to the country.\nThe article Microsoft is betting $10 billion on Japan's AI future appeared first on The Decoder.",
+        "content": "Microsoft is investing $10 billion in Japan from 2026 to 2029, its largest ever commitment to the country.\nThe article Microsoft is betting $10 billion on Japan's AI future appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/new-cursor-3-ditches-the-classic-ide-layout-for-an-agent-first-interface-built-around-parallel-ai-fleets/",
+        "sourceUrl": "https://the-decoder.com/microsoft-is-betting-10-billion-on-japans-ai-future/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Fri, 03 Apr 2026 09:32:42 +0000",
+        "publishedAt": "Fri, 03 Apr 2026 18:16:40 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-03/2026-04-03-creative-AI-007.webp"
       },
       {
         "id": "AI-008",
-        "title": "Google's Gemma 4 is now available with Apache 2.0 licensing for the first time",
-        "summary": "Google is releasing Gemma 4, its most capable open model family yet. The four new models run on everything from smartphones to workstations and ship under a fully open Apache 2.0 license for the first time.\nThe article Google's Gemma 4 is now availab",
-        "content": "Google is releasing Gemma 4, its most capable open model family yet. The four new models run on everything from smartphones to workstations and ship under a fully open Apache 2.0 license for the first time.\nThe article Google's Gemma 4 is now available with Apache 2.0 licensing for the first time appeared first on The Decoder.",
+        "title": "Anthropic says Claude Code's usage drain comes down to peak-hour caps and ballooning contexts",
+        "summary": "Anthropic explains why Claude Code users have been burning through their limits so fast and shares tips to cut down on token usage.\nThe article Anthropic says Claude Code's usage drain comes down to peak-hour caps and ballooning contexts appeared fir",
+        "content": "Anthropic explains why Claude Code users have been burning through their limits so fast and shares tips to cut down on token usage.\nThe article Anthropic says Claude Code's usage drain comes down to peak-hour caps and ballooning contexts appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/googles-gemma-4-is-now-available-with-apache-2-0-licensing-for-the-first-time/",
+        "sourceUrl": "https://the-decoder.com/anthropic-says-claude-codes-usage-drain-comes-down-to-peak-hour-caps-and-ballooning-contexts/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Thu, 02 Apr 2026 18:06:37 +0000",
+        "publishedAt": "Fri, 03 Apr 2026 14:54:05 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-03/2026-04-03-creative-AI-008.webp"
       },
       {
         "id": "AI-009",
-        "title": "Sakana AI launches \"Ultra Deep Research\" to automate weeks of strategy work",
-        "summary": "Sakana AI has unveiled \"Sakana Marlin,\" an AI assistant for business customers that researches autonomously for up to eight hours and delivers finished analyses. The tool is designed to compress weeks of strategy work into hours and is currently in b",
-        "content": "Sakana AI has unveiled \"Sakana Marlin,\" an AI assistant for business customers that researches autonomously for up to eight hours and delivers finished analyses. The tool is designed to compress weeks of strategy work into hours and is currently in beta testing.\nThe article Sakana AI launches \"Ultra Deep Research\" to automate weeks of strategy work appeared first on The Decoder.",
+        "title": "OpenAI shifts to usage-based pricing for Codex in ChatGPT business plans",
+        "summary": "OpenAI is ditching fixed licenses for Codex in its ChatGPT business plans. Instead, companies only pay for what they actually use, a move aimed squarely at GitHub Copilot and Cursor.\nThe article OpenAI shifts to usage-based pricing for Codex in ChatG",
+        "content": "OpenAI is ditching fixed licenses for Codex in its ChatGPT business plans. Instead, companies only pay for what they actually use, a move aimed squarely at GitHub Copilot and Cursor.\nThe article OpenAI shifts to usage-based pricing for Codex in ChatGPT business plans appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/sakana-ai-launches-ultra-deep-research-to-automate-weeks-of-strategy-work/",
+        "sourceUrl": "https://the-decoder.com/openai-shifts-to-usage-based-pricing-for-codex-in-chatgpt-business-plans/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Thu, 02 Apr 2026 17:24:35 +0000",
+        "publishedAt": "Fri, 03 Apr 2026 14:23:30 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-03/2026-04-03-creative-AI-009.webp"
       },
       {
         "id": "AI-010",
-        "title": "Microsoft's MAI-Transcribe-1 runs 2.5x faster than its predecessor at $0.36 per audio hour",
-        "summary": "MAI-Transcribe-1 converts speech to text quickly and accurately in 25 languages, even with background noise. Microsoft is already using the model in its own products.\nThe article Microsoft's MAI-Transcribe-1 runs 2.5x faster than its predecessor at $",
-        "content": "MAI-Transcribe-1 converts speech to text quickly and accurately in 25 languages, even with background noise. Microsoft is already using the model in its own products.\nThe article Microsoft's MAI-Transcribe-1 runs 2.5x faster than its predecessor at $0.36 per audio hour appeared first on The Decoder.",
+        "title": "Zhipu AI's GLM-5V-Turbo turns design mockups directly into executable front-end code",
+        "summary": "Chinese AI startup Zhipu AI has released GLM-5V-Turbo, a multimodal model that processes images, video, and text and is designed for use in agent workflows.\nThe article Zhipu AI's GLM-5V-Turbo turns design mockups directly into executable front-end c",
+        "content": "Chinese AI startup Zhipu AI has released GLM-5V-Turbo, a multimodal model that processes images, video, and text and is designed for use in agent workflows.\nThe article Zhipu AI's GLM-5V-Turbo turns design mockups directly into executable front-end code appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/microsofts-mai-transcribe-1-runs-2-5x-faster-than-its-predecessor-at-0-36-per-audio-hour/",
+        "sourceUrl": "https://the-decoder.com/zhipu-ais-glm-5v-turbo-turns-design-mockups-directly-into-executable-front-end-code/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Thu, 02 Apr 2026 16:26:53 +0000",
+        "publishedAt": "Fri, 03 Apr 2026 12:04:17 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-03/2026-04-03-creative-AI-010.webp"
       }
     ],
     "research": [
       {
         "id": "AI-011",
-        "title": "The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Fuel prices are soaring. Plastic could be next.  As the war in Iran continues, one of the most visible global ec",
-        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Fuel prices are soaring. Plastic could be next.  As the war in Iran continues, one of the most visible global economic ripple effects has been fossil-fuel prices. But looking ahead, further consequences could…",
+        "title": "Four things we’d need to put data centers in space",
+        "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. In January, Elon Musk’s SpaceX filed an application with the US Federal",
+        "content": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. In January, Elon Musk’s SpaceX filed an application with the US Federal Communications Commission to launch up to one million data centers into Earth’s orbit. The…",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/",
+        "sourceUrl": "https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/",
         "sourceName": "MIT Tech Review",
         "tags": [
           "MIT Tech Review"
         ],
         "section": "research",
         "readTime": "2 min",
-        "publishedAt": "Thu, 02 Apr 2026 12:10:00 +0000",
+        "publishedAt": "Fri, 03 Apr 2026 17:03:19 +0000",
         "normalizedTags": [
           "mit tech review"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-03/2026-04-03-research-AI-011.webp"
       },
       {
         "id": "AI-012",
@@ -243,7 +255,8 @@
         "publishedAt": "Fri, 03 Apr 2026 00:00:00 -0400",
         "normalizedTags": [
           "arxiv cs.ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-03/2026-04-03-research-AI-012.webp"
       },
       {
         "id": "AI-013",
@@ -262,7 +275,8 @@
         "publishedAt": "Fri, 03 Apr 2026 00:00:00 -0400",
         "normalizedTags": [
           "arxiv cs.ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-03/2026-04-03-research-AI-013.webp"
       },
       {
         "id": "AI-014",
@@ -281,7 +295,8 @@
         "publishedAt": "Fri, 03 Apr 2026 00:00:00 -0400",
         "normalizedTags": [
           "arxiv cs.ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-03/2026-04-03-research-AI-014.webp"
       },
       {
         "id": "AI-015",
@@ -300,13 +315,74 @@
         "publishedAt": "Fri, 03 Apr 2026 00:00:00 -0400",
         "normalizedTags": [
           "arxiv cs.ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-03/2026-04-03-research-AI-015.webp"
       }
     ],
     "applications": [],
     "business": [
       {
         "id": "AI-016",
+        "title": "OpenAI's Fidji Simo takes medical leave, announces leadership changes   ",
+        "summary": "OpenAI President Greg Brockman will oversee product in Simo's absence.",
+        "content": "OpenAI President Greg Brockman will oversee product in Simo's absence.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/04/03/openai-fidji-simo-medical-leave-executive-changes.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 03 Apr 2026 22:40:38 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ],
+        "imageUrl": "/images/2026-04-03/2026-04-03-business-AI-016.webp"
+      },
+      {
+        "id": "AI-017",
+        "title": "Meta, Google under attack as court cases bypass 30-year-old legal shield",
+        "summary": "Internet platforms have long been able to rely on special protections to avoid liability for what takes place on their sites. But that may be changing.",
+        "content": "Internet platforms have long been able to rely on special protections to avoid liability for what takes place on their sites. But that may be changing.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/04/03/meta-google-under-attack-court-cases-bypass-30-year-old-legal-shield.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 03 Apr 2026 17:07:55 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ],
+        "imageUrl": "/images/2026-04-03/2026-04-03-business-AI-017.webp"
+      },
+      {
+        "id": "AI-018",
+        "title": "'Chasing vibes' — OpenAI's M&A strategy gets more confusing with TBPN purchase",
+        "summary": "Over 10 months after shelling out an eye-popping $6.4 billion for Jony Ive's nascent devices startup, OpenAI announced it's buying media company TBPN.",
+        "content": "Over 10 months after shelling out an eye-popping $6.4 billion for Jony Ive's nascent devices startup, OpenAI announced it's buying media company TBPN.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/04/03/chasing-vibes-openai-ma-strategy-gets-more-confusing-with-tbpn-.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 03 Apr 2026 22:13:34 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ],
+        "imageUrl": "/images/2026-04-03/2026-04-03-business-AI-018.webp"
+      },
+      {
+        "id": "AI-019",
         "title": "The Tech Download: Defense startups eye Iran war windfall as U.S. and Gulf states turn to tech",
         "summary": "Funding for defense startups has ballooned in recent years as militaries scramble to modernize.",
         "content": "Funding for defense startups has ballooned in recent years as militaries scramble to modernize.",
@@ -322,10 +398,11 @@
         "publishedAt": "Fri, 03 Apr 2026 11:00:01 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-03/2026-04-03-business-AI-019.webp"
       },
       {
-        "id": "AI-017",
+        "id": "AI-020",
         "title": "Japan's Sakura Internet jumps 20% as Microsoft plans $10 billion AI push with SoftBank",
         "summary": "Microsoft said it plans to invest $10 billion in Japan between 2026 and 2029 to build AI infrastructure.",
         "content": "Microsoft said it plans to invest $10 billion in Japan between 2026 and 2029 to build AI infrastructure.",
@@ -341,85 +418,30 @@
         "publishedAt": "Fri, 03 Apr 2026 05:19:48 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
-      },
-      {
-        "id": "AI-018",
-        "title": "Chinese chip firms hit record high revenue driven by the AI boom and U.S. curbs",
-        "summary": "Chinese chip companies have benefited from strong domestic demand for AI as U.S. tech curbs have bolstered local firms.",
-        "content": "Chinese chip companies have benefited from strong domestic demand for AI as U.S. tech curbs have bolstered local firms.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/03/chinese-chip-firms-record-revenue-ai-boom-us-curbs.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
         ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 03 Apr 2026 05:00:01 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ]
-      },
-      {
-        "id": "AI-019",
-        "title": "Microsoft executive touts Copilot sales traction as AI anxiety weighs on stock",
-        "summary": "Analysts have said adoption of the $30-per-month Microsoft 365 Copilot is in the early stage.",
-        "content": "Analysts have said adoption of the $30-per-month Microsoft 365 Copilot is in the early stage.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/02/microsoft-executive-touts-copilot-traction-after-analyst-pressure.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 03 Apr 2026 00:36:22 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ]
-      },
-      {
-        "id": "AI-020",
-        "title": "Coinbase clears key regulatory hurdle in bid to bolster its stablecoin business",
-        "summary": "Coinbase has received conditional approval from the U.S. Office of the Comptroller of the Currency to operate as a trust bank, the company said Thursday.",
-        "content": "Coinbase has received conditional approval from the U.S. Office of the Comptroller of the Currency to operate as a trust bank, the company said Thursday.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/02/coinbase-clears-key-regulatory-hurdle-in-bid-to-bolster-its-stablecoin-business.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 02 Apr 2026 21:17:37 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ]
+        "imageUrl": "/images/2026-04-03/2026-04-03-business-AI-020.webp"
       }
     ],
     "policy": [
       {
         "id": "AI-021",
-        "title": "The Future of Addictive Design + Going Deep at DeepMind + HatGPT",
-        "summary": "“The platforms should be absolutely begging Congress to regulate them, because the alternative is they get sued into oblivion by a bunch of law firms.”",
-        "content": "“The platforms should be absolutely begging Congress to regulate them, because the alternative is they get sued into oblivion by a bunch of law firms.”",
+        "title": "Big Banks Seeking a Piece of SpaceX’s I.P.O. Must Subscribe to Elon Musk’s Grok",
+        "summary": "Mr. Musk is requiring Wall Street firms to purchase subscriptions to his A.I. chatbot if they want to advise on one of the largest initial public offerings in history.",
+        "content": "Mr. Musk is requiring Wall Street firms to purchase subscriptions to his A.I. chatbot if they want to advise on one of the largest initial public offerings in history.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/04/03/podcasts/hardfork-social-media-liable.html",
+        "sourceUrl": "https://www.nytimes.com/2026/04/03/business/spacex-ipo-grok-elon-musk.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Fri, 03 Apr 2026 11:00:03 +0000",
+        "publishedAt": "Fri, 03 Apr 2026 18:23:05 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-03/2026-04-03-policy-AI-021.webp"
       },
       {
         "id": "AI-022",
@@ -435,111 +457,137 @@
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Fri, 03 Apr 2026 05:59:55 +0000",
+        "publishedAt": "Fri, 03 Apr 2026 17:53:28 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-03/2026-04-03-policy-AI-022.webp"
       },
       {
         "id": "AI-023",
-        "title": "Apple’s Fitness Chief, Who Was Accused of Harassment, Is Retiring",
-        "summary": "The high-profile executive was a key figure in the company’s expansion into fitness technology and services.",
-        "content": "The high-profile executive was a key figure in the company’s expansion into fitness technology and services.",
+        "title": "The Future of Addictive Design + Going Deep at DeepMind + HatGPT",
+        "summary": "“The platforms should be absolutely begging Congress to regulate them, because the alternative is they get sued into oblivion by a bunch of law firms.”",
+        "content": "“The platforms should be absolutely begging Congress to regulate them, because the alternative is they get sued into oblivion by a bunch of law firms.”",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/04/01/technology/apples-fitness-chief-who-was-accused-of-harassment-is-retiring.html",
+        "sourceUrl": "https://www.nytimes.com/2026/04/03/podcasts/hardfork-social-media-liable.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Thu, 02 Apr 2026 19:07:56 +0000",
+        "publishedAt": "Fri, 03 Apr 2026 11:00:03 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-03/2026-04-03-policy-AI-023.webp"
+      },
+      {
+        "id": "AI-024",
+        "title": "NASA’s Artemis II Astronauts Took iPhones Into Space",
+        "summary": "The astronauts traveling in the Artemis II spacecraft were allowed to take smartphones with them. Sadly, they can’t connect to the internet.",
+        "content": "The astronauts traveling in the Artemis II spacecraft were allowed to take smartphones with them. Sadly, they can’t connect to the internet.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/04/03/technology/iphones-artemis-nasa.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 03 Apr 2026 20:36:47 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-04-03/2026-04-03-policy-AI-024.webp"
+      },
+      {
+        "id": "AI-025",
+        "title": "The Revival of the Fashion-Tech Love Affair",
+        "summary": "Get ready for the return of wearables and a new stage in the fashion-tech relationship.",
+        "content": "Get ready for the return of wearables and a new stage in the fashion-tech relationship.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/04/02/style/meta-lab-smartglasses-wearables.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 03 Apr 2026 12:10:13 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-04-03/2026-04-03-policy-AI-025.webp"
       }
     ],
     "concerns": [],
     "culture": [
       {
-        "id": "AI-024",
-        "title": "OpenAI buys tech talkshow TBPN in push to shape AI narrative",
-        "summary": "OpenAI’s chief of strategy says acquisition of show will help company engage with public about AI as it evolves\nOpenAI is wading into the media business by acquiring TBPN, a technology-focused talkshow closely watched by Silicon Valley insiders, its ",
-        "content": "OpenAI’s chief of strategy says acquisition of show will help company engage with public about AI as it evolves\nOpenAI is wading into the media business by acquiring TBPN, a technology-focused talkshow closely watched by Silicon Valley insiders, its hosts said on Wednesday.\nCo-hosts John Coogan and Jordi Hays broadcast TBPN live for three hours every weekday from Los Angeles, lining up guests that include founders, venture capitalists and major figures in the technology world.\n Continue reading.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/apr/02/openai-talk-show-tbpn",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 02 Apr 2026 20:17:30 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-025",
-        "title": "Google to tap into gas plant for AI datacenter in sharp turn from climate goals",
-        "summary": "Texas power plant would emit 4.5m tons of carbon dioxide per year, more than that of the entire city of San Francisco\nGoogle’s plan for a partnership with a natural gas power plant that could provide energy for one of its datacenters in Texas was une",
-        "content": "Texas power plant would emit 4.5m tons of carbon dioxide per year, more than that of the entire city of San Francisco\nGoogle’s plan for a partnership with a natural gas power plant that could provide energy for one of its datacenters in Texas was unearthed by new research and confirmed by the company. The move is part of an ongoing about-face for the tech giant, which once pledged to be carbon neutral by 2030 and has long been seen as a pioneer in clean energy.\nThe gas power plant is slated to b",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/apr/02/google-ai-datacenter",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 02 Apr 2026 18:55:08 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
-      },
-      {
         "id": "AI-026",
-        "title": "I have always seen myself as ‘progressive’ – but with AI it’s time to hit the brakes | Peter Lewis",
-        "summary": "At a time when the populist right is on the rise, progressives are shooting blanks while history rushes headlong into an automated future\nCanberra rolled out the red carpet this week to one of the AI overlords whose technology is driving the world do",
-        "content": "At a time when the populist right is on the rise, progressives are shooting blanks while history rushes headlong into an automated future\nCanberra rolled out the red carpet this week to one of the AI overlords whose technology is driving the world down the path of creative destruction. Anthropic’s CEO Dario Amodei, the putative “good” tech oligarch, was spinning his version of a machine-driven future with the elan of a man who has untangled the mysteries of the universe – or at least built a pre",
+        "title": "UK’s leading AI research institute told to make ‘significant’ changes",
+        "summary": "Alan Turing Institute told by funder to offer better strategy and more value for money after board was reminded of legal duties by watchdog\nThe UK’s leading AI research institute has been told to make “significant” changes by its main source of taxpa",
+        "content": "Alan Turing Institute told by funder to offer better strategy and more value for money after board was reminded of legal duties by watchdog\nThe UK’s leading AI research institute has been told to make “significant” changes by its main source of taxpayer funding.\nThe Guardian revealed last week that the board of the Alan Turing Institute was reminded of its legal duties by the charity watchdog after a whistleblower complaint.\n Continue reading...",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/commentisfree/2026/apr/02/australia-ai-artificial-intelligence-productivity-progress",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/apr/03/uk-alan-turing-institute-ai-research-underperforming-ukri",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Thu, 02 Apr 2026 14:00:27 GMT",
+        "publishedAt": "Fri, 03 Apr 2026 13:04:06 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-03/2026-04-03-culture-AI-026.webp"
       },
       {
         "id": "AI-027",
-        "title": "I wrote a novel using AI. Writers must accept artificial intelligence – but we are as valuable as ever | Stephen Marche",
-        "summary": "Mastery of banal style is losing its usefulness – but language is more powerful than ever. It’s up to the writer to do what machines can’t\nI recently heard an exchange at a playground that should worry the executives at AI companies more than any ana",
-        "content": "Mastery of banal style is losing its usefulness – but language is more powerful than ever. It’s up to the writer to do what machines can’t\nI recently heard an exchange at a playground that should worry the executives at AI companies more than any analyst’s prediction of a bubble. A boy and a girl, maybe 10 years old, were fighting. “That’s AI! That’s AI!” the girl was shouting. What she meant was that the boy was indulging a new and particular breed of nonsense: language that sounds meaningful b",
+        "title": "Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk",
+        "summary": "Major AI labs are investigating a security incident that impacted Mercor, a leading data vendor. The incident could have exposed key data about how they train AI models.",
+        "content": "Major AI labs are investigating a security incident that impacted Mercor, a leading data vendor. The incident could have exposed key data about how they train AI models.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/commentisfree/2026/apr/02/artificial-intelligence-writers-powerful-language",
-        "sourceName": "The Guardian AI",
+        "sourceUrl": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
+        "sourceName": "Wired AI",
         "tags": [
-          "The Guardian AI"
+          "Wired AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Thu, 02 Apr 2026 12:00:22 GMT",
+        "publishedAt": "Fri, 03 Apr 2026 21:28:14 +0000",
         "normalizedTags": [
-          "the guardian ai"
-        ]
+          "wired ai"
+        ],
+        "imageUrl": "/images/2026-04-03/2026-04-03-culture-AI-027.webp"
       },
       {
         "id": "AI-028",
+        "title": "OpenAI’s Fidji Simo Is Taking Medical Leave Amid an Executive Shake-Up",
+        "summary": "The company is undergoing major leadership restructuring as its CEO of AGI deployment goes on leave for “several weeks.”",
+        "content": "The company is undergoing major leadership restructuring as its CEO of AGI deployment goes on leave for “several weeks.”",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.wired.com/story/openais-fidji-simo-is-taking-a-leave-of-absence/",
+        "sourceName": "Wired AI",
+        "tags": [
+          "Wired AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 03 Apr 2026 19:38:35 +0000",
+        "normalizedTags": [
+          "wired ai"
+        ],
+        "imageUrl": "/images/2026-04-03/2026-04-03-culture-AI-028.webp"
+      },
+      {
+        "id": "AI-029",
         "title": "The 3 Best Portable Jump Starters in 2026: Get Charged Up",
         "summary": "The new crop of portable jump starters means you'll never be stuck waiting on a tow. Here are the devices we'd trust.",
         "content": "The new crop of portable jump starters means you'll never be stuck waiting on a tow. Here are the devices we'd trust.",
@@ -555,7 +603,8 @@
         "publishedAt": "Fri, 03 Apr 2026 10:39:00 +0000",
         "normalizedTags": [
           "wired ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-03/2026-04-03-culture-AI-029.webp"
       }
     ]
   },
@@ -565,34 +614,36 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
-    "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
-    "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/",
-    "https://www.theverge.com/ai-artificial-intelligence/906253/granola-note-links-ai-training-psa",
-    "https://www.theverge.com/tech/906027/elon-musk-lawsuit-ipo-spacex-tesla",
-    "https://the-decoder.com/openai-decides-the-best-way-to-fight-critical-ai-coverage-is-to-own-a-newsroom/",
-    "https://the-decoder.com/new-cursor-3-ditches-the-classic-ide-layout-for-an-agent-first-interface-built-around-parallel-ai-fleets/",
-    "https://the-decoder.com/googles-gemma-4-is-now-available-with-apache-2-0-licensing-for-the-first-time/",
-    "https://the-decoder.com/sakana-ai-launches-ultra-deep-research-to-automate-weeks-of-strategy-work/",
-    "https://the-decoder.com/microsofts-mai-transcribe-1-runs-2-5x-faster-than-its-predecessor-at-0-36-per-audio-hour/",
-    "https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/",
+    "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
+    "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
+    "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
+    "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
+    "https://techcrunch.com/2026/04/03/people-would-rather-have-an-amazon-warehouse-in-their-backyard-than-a-data-center/",
+    "https://the-decoder.com/deepseek-v4-will-reportedly-run-entirely-on-huawei-chips-in-a-major-win-for-chinas-ai-independence-push/",
+    "https://the-decoder.com/microsoft-is-betting-10-billion-on-japans-ai-future/",
+    "https://the-decoder.com/anthropic-says-claude-codes-usage-drain-comes-down-to-peak-hour-caps-and-ballooning-contexts/",
+    "https://the-decoder.com/openai-shifts-to-usage-based-pricing-for-codex-in-chatgpt-business-plans/",
+    "https://the-decoder.com/zhipu-ais-glm-5v-turbo-turns-design-mockups-directly-into-executable-front-end-code/",
+    "https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/",
     "https://arxiv.org/abs/2604.00005",
     "https://arxiv.org/abs/2604.00085",
     "https://arxiv.org/abs/2604.00137",
     "https://arxiv.org/abs/2604.00249",
+    "https://www.cnbc.com/2026/04/03/openai-fidji-simo-medical-leave-executive-changes.html",
+    "https://www.cnbc.com/2026/04/03/meta-google-under-attack-court-cases-bypass-30-year-old-legal-shield.html",
+    "https://www.cnbc.com/2026/04/03/chasing-vibes-openai-ma-strategy-gets-more-confusing-with-tbpn-.html",
     "https://www.cnbc.com/2026/04/03/the-tech-download-defense-startups-eye-iran-war-windfall.html",
     "https://www.cnbc.com/2026/04/03/sakura-internet-microsoft-ai-japan-softbank-investment.html",
-    "https://www.cnbc.com/2026/04/03/chinese-chip-firms-record-revenue-ai-boom-us-curbs.html",
-    "https://www.cnbc.com/2026/04/02/microsoft-executive-touts-copilot-traction-after-analyst-pressure.html",
-    "https://www.cnbc.com/2026/04/02/coinbase-clears-key-regulatory-hurdle-in-bid-to-bolster-its-stablecoin-business.html",
-    "https://www.nytimes.com/2026/04/03/podcasts/hardfork-social-media-liable.html",
+    "https://www.nytimes.com/2026/04/03/business/spacex-ipo-grok-elon-musk.html",
     "https://www.nytimes.com/2026/04/02/technology/openai-buys-tbpn.html",
-    "https://www.nytimes.com/2026/04/01/technology/apples-fitness-chief-who-was-accused-of-harassment-is-retiring.html",
-    "https://www.theguardian.com/technology/2026/apr/02/openai-talk-show-tbpn",
-    "https://www.theguardian.com/technology/2026/apr/02/google-ai-datacenter",
-    "https://www.theguardian.com/commentisfree/2026/apr/02/australia-ai-artificial-intelligence-productivity-progress",
-    "https://www.theguardian.com/commentisfree/2026/apr/02/artificial-intelligence-writers-powerful-language",
+    "https://www.nytimes.com/2026/04/03/podcasts/hardfork-social-media-liable.html",
+    "https://www.nytimes.com/2026/04/03/technology/iphones-artemis-nasa.html",
+    "https://www.nytimes.com/2026/04/02/style/meta-lab-smartglasses-wearables.html",
+    "https://www.theguardian.com/technology/2026/apr/03/uk-alan-turing-institute-ai-research-underperforming-ukri",
+    "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
+    "https://www.wired.com/story/openais-fidji-simo-is-taking-a-leave-of-absence/",
     "https://www.wired.com/story/best-portable-jump-starters/"
   ],
-  "generatedAt": "2026-04-03T11:35:49.822Z"
+  "generatedAt": "2026-04-03T23:25:57.819Z",
+  "simpleSummaryImageUrl": "/images/2026-04-03/2026-04-03-summary.webp"
 }
