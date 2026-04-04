@@ -2,9 +2,9 @@
   "date": "2026-04-04",
   "dateFormatted": "April 4, 2026",
   "headline": {
-    "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
-    "summary": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's looming IPO poised to reshape the landscape for ev",
-    "sourceUrl": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
+    "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+    "summary": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.",
+    "sourceUrl": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
     "sourceName": "TechCrunch AI",
     "imageUrl": "/images/2026-04-04/2026-04-04-hero.webp"
   },
@@ -16,6 +16,26 @@
     "tools": [
       {
         "id": "AI-001",
+        "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+        "summary": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.",
+        "content": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 04 Apr 2026 16:32:22 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ],
+        "imageUrl": "/images/2026-04-04/2026-04-04-tools-AI-001.webp"
+      },
+      {
+        "id": "AI-002",
         "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
         "summary": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's looming IPO poised to reshape the landscape for ev",
         "content": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active — with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's looming IPO poised to reshape the landscape for everyone.",
@@ -32,85 +52,65 @@
         "normalizedTags": [
           "techcrunch ai"
         ],
-        "imageUrl": "/images/2026-04-04/2026-04-04-tools-AI-001.webp"
-      },
-      {
-        "id": "AI-002",
-        "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
-        "summary": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows.",
-        "content": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
-        "sourceName": "TechCrunch AI",
-        "tags": [
-          "TechCrunch AI"
-        ],
-        "section": "tools",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 03 Apr 2026 20:35:34 +0000",
-        "normalizedTags": [
-          "techcrunch ai"
-        ],
         "imageUrl": "/images/2026-04-04/2026-04-04-tools-AI-002.webp"
       },
       {
         "id": "AI-003",
-        "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
-        "summary": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer.",
-        "content": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer.",
+        "title": "A folk musician became a target for AI fakes and a copyright troll",
+        "summary": "Murphy Campbell is at the center of a brewing storm around AI and a broken copyright system. | Image: Murphy Campbell\t\n\nIn January, folk artist Murphy Campbell discovered several songs on her Spotify profile that did not belong there. They were songs",
+        "content": "Murphy Campbell is at the center of a brewing storm around AI and a broken copyright system. | Image: Murphy Campbell\t\n\nIn January, folk artist Murphy Campbell discovered several songs on her Spotify profile that did not belong there. They were songs that she had recorded, but she'd never uploaded them to Spotify, and something was off about the vocals.\nShe quickly surmised that someone had pulled performances of the songs she posted to YouTube, created AI covers, and uploaded them to streaming ",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
-        "sourceName": "TechCrunch AI",
+        "sourceUrl": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
+        "sourceName": "The Verge AI",
         "tags": [
-          "TechCrunch AI"
+          "The Verge AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Fri, 03 Apr 2026 20:28:40 +0000",
+        "publishedAt": "2026-04-04T17:52:10.000Z",
         "normalizedTags": [
-          "techcrunch ai"
+          "the verge ai"
         ],
         "imageUrl": "/images/2026-04-04/2026-04-04-tools-AI-003.webp"
       },
       {
         "id": "AI-004",
-        "title": "Anthropic ramps up its political activities with a new PAC",
-        "summary": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda.",
-        "content": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda.",
+        "title": "Really, you made this without AI? Prove it",
+        "summary": "\"This looks like AI.\"\nIt's a phrase I dread seeing as a writer who dabbles in illustration and amateur photography. In a world where generative AI technology is increasingly adept at mimicking the work of humans, people are naturally skeptical when o",
+        "content": "\"This looks like AI.\"\nIt's a phrase I dread seeing as a writer who dabbles in illustration and amateur photography. In a world where generative AI technology is increasingly adept at mimicking the work of humans, people are naturally skeptical when online platforms refuse to label even obvious AI content.\nThis leads me to one conclusion: maybe we should start labeling human-made text, images, audio, and video with something akin to a universally recognized Fair Trade logo. The machines sure as h",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
-        "sourceName": "TechCrunch AI",
+        "sourceUrl": "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content",
+        "sourceName": "The Verge AI",
         "tags": [
-          "TechCrunch AI"
+          "The Verge AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Fri, 03 Apr 2026 20:22:18 +0000",
+        "publishedAt": "2026-04-04T13:00:00.000Z",
         "normalizedTags": [
-          "techcrunch ai"
+          "the verge ai"
         ],
         "imageUrl": "/images/2026-04-04/2026-04-04-tools-AI-004.webp"
       },
       {
         "id": "AI-005",
-        "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
-        "summary": "Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it.",
-        "content": "Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it.",
+        "title": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra",
+        "summary": "Using OpenClaw with Claude AI is about to get a lot more expensive, thanks to Anthropic's new policy changes. Beginning April 4th at 3PM ET, users will \"no longer be able to use your Claude subscription limits for third-party harnesses including Open",
+        "content": "Using OpenClaw with Claude AI is about to get a lot more expensive, thanks to Anthropic's new policy changes. Beginning April 4th at 3PM ET, users will \"no longer be able to use your Claude subscription limits for third-party harnesses including OpenClaw,\" according to an email sent to users on Friday evening. Instead, if users want to use OpenClaw with Claude, they'll have to use a \"pay-as-you-go option\" that will be billed separate from their Claude subscription. \nWith OpenClaw creator Peter S",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
-        "sourceName": "TechCrunch AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
+        "sourceName": "The Verge AI",
         "tags": [
-          "TechCrunch AI"
+          "The Verge AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Fri, 03 Apr 2026 19:48:22 +0000",
+        "publishedAt": "2026-04-03T23:52:49.000Z",
         "normalizedTags": [
-          "techcrunch ai"
+          "the verge ai"
         ],
         "imageUrl": "/images/2026-04-04/2026-04-04-tools-AI-005.webp"
       }
@@ -217,35 +217,54 @@
         "imageUrl": "/images/2026-04-04/2026-04-04-creative-AI-010.webp"
       }
     ],
-    "research": [
-      {
-        "id": "AI-011",
-        "title": "Four things we’d need to put data centers in space",
-        "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. In January, Elon Musk’s SpaceX filed an application with the US Federal",
-        "content": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. In January, Elon Musk’s SpaceX filed an application with the US Federal Communications Commission to launch up to one million data centers into Earth’s orbit. The…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 03 Apr 2026 17:03:19 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ],
-        "imageUrl": "/images/2026-04-04/2026-04-04-research-AI-011.webp"
-      }
-    ],
+    "research": [],
     "applications": [],
     "business": [
       {
+        "id": "AI-011",
+        "title": "Polymarket removes wagers on U.S. service member rescue mission in Iran",
+        "summary": "Rep. Seth Moulton, D-Mass., called the market \"DISGUSTING\" and said bettors were wagering on whether American troops would be saved.",
+        "content": "Rep. Seth Moulton, D-Mass., called the market \"DISGUSTING\" and said bettors were wagering on whether American troops would be saved.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/04/04/polymarket-war-bet-iran-rescue-prediction-market-moulton.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 04 Apr 2026 21:08:16 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ],
+        "imageUrl": "/images/2026-04-04/2026-04-04-business-AI-011.webp"
+      },
+      {
         "id": "AI-012",
-        "title": "Debris from aerial interception strikes Oracle building in Dubai, UAE says",
-        "summary": "The damage to Oracle's building comes after Iran warned it would target U.S. tech companies operating in the Middle East.",
-        "content": "The damage to Oracle's building comes after Iran warned it would target U.S. tech companies operating in the Middle East.",
+        "title": "Apple at 50: The iPhone maker 'blew a 5-year lead' on AI, but former insiders say it can still win",
+        "summary": "In dominating consumer devices, Apple sold users on the promise of privacy. To compete in AI, it may have to pivot.",
+        "content": "In dominating consumer devices, Apple sold users on the promise of privacy. To compete in AI, it may have to pivot.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/04/04/apple-50-anniversary-ai-iphone-siri.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 04 Apr 2026 12:00:01 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ],
+        "imageUrl": "/images/2026-04-04/2026-04-04-business-AI-012.webp"
+      },
+      {
+        "id": "AI-013",
+        "title": "Trump warns Iran '48 hours before all Hell will reign down,' while search for missing crew member intensifies",
+        "summary": "The U.S. military continued to search for a missing American airman on Saturday after an F-15E fighter jet was shot down over southwestern Iran.",
+        "content": "The U.S. military continued to search for a missing American airman on Saturday after an F-15E fighter jet was shot down over southwestern Iran.",
         "keyTakeaways": [],
         "whyItMatters": "",
         "sourceUrl": "https://www.cnbc.com/2026/04/04/debris-from-interception-strikes-oracle-building-in-dubai-uae-says.html",
@@ -255,14 +274,14 @@
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Sat, 04 Apr 2026 09:11:42 GMT",
+        "publishedAt": "Sat, 04 Apr 2026 22:40:32 GMT",
         "normalizedTags": [
           "cnbc tech"
         ],
-        "imageUrl": "/images/2026-04-04/2026-04-04-business-AI-012.webp"
+        "imageUrl": "/images/2026-04-04/2026-04-04-business-AI-013.webp"
       },
       {
-        "id": "AI-013",
+        "id": "AI-014",
         "title": "OpenAI's Fidji Simo takes medical leave, announces leadership changes   ",
         "summary": "OpenAI President Greg Brockman will oversee product in Simo's absence.",
         "content": "OpenAI President Greg Brockman will oversee product in Simo's absence.",
@@ -275,96 +294,36 @@
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Fri, 03 Apr 2026 22:40:38 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ],
-        "imageUrl": "/images/2026-04-04/2026-04-04-business-AI-013.webp"
-      },
-      {
-        "id": "AI-014",
-        "title": "Meta, Google under attack as court cases bypass 30-year-old legal shield",
-        "summary": "Internet platforms have long been able to rely on special protections to avoid liability for what takes place on their sites. But that may be changing.",
-        "content": "Internet platforms have long been able to rely on special protections to avoid liability for what takes place on their sites. But that may be changing.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/03/meta-google-under-attack-court-cases-bypass-30-year-old-legal-shield.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 03 Apr 2026 17:07:55 GMT",
+        "publishedAt": "Sat, 04 Apr 2026 19:05:14 GMT",
         "normalizedTags": [
           "cnbc tech"
         ],
         "imageUrl": "/images/2026-04-04/2026-04-04-business-AI-014.webp"
-      },
-      {
-        "id": "AI-015",
-        "title": "'Chasing vibes' — OpenAI's M&A strategy gets more confusing with TBPN purchase",
-        "summary": "Over 10 months after shelling out an eye-popping $6.4 billion for Jony Ive's nascent devices startup, OpenAI announced it's buying media company TBPN.",
-        "content": "Over 10 months after shelling out an eye-popping $6.4 billion for Jony Ive's nascent devices startup, OpenAI announced it's buying media company TBPN.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/03/chasing-vibes-openai-ma-strategy-gets-more-confusing-with-tbpn-.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 03 Apr 2026 22:13:34 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ],
-        "imageUrl": "/images/2026-04-04/2026-04-04-business-AI-015.webp"
       }
     ],
     "policy": [
       {
+        "id": "AI-015",
+        "title": "What Teens Are Doing With Those Role-Playing Chatbots",
+        "summary": "Harassing bots with “funny violence.” Confiding about a broken heart. Chatting with a block of cheese. Filling a void of loneliness.",
+        "content": "Harassing bots with “funny violence.” Confiding about a broken heart. Chatting with a block of cheese. Filling a void of loneliness.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/04/04/technology/ai-chatbots-teen-roleplay.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 04 Apr 2026 18:10:37 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-04-04/2026-04-04-policy-AI-015.webp"
+      },
+      {
         "id": "AI-016",
-        "title": "Big Banks Seeking a Piece of SpaceX’s I.P.O. Must Subscribe to Elon Musk’s Grok",
-        "summary": "Mr. Musk is requiring Wall Street firms to purchase subscriptions to his A.I. chatbot if they want to advise on one of the largest initial public offerings in history.",
-        "content": "Mr. Musk is requiring Wall Street firms to purchase subscriptions to his A.I. chatbot if they want to advise on one of the largest initial public offerings in history.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/04/03/business/spacex-ipo-grok-elon-musk.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 03 Apr 2026 18:23:06 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ],
-        "imageUrl": "/images/2026-04-04/2026-04-04-policy-AI-016.webp"
-      },
-      {
-        "id": "AI-017",
-        "title": "OpenAI Buys Streaming Show ‘TBPN,’ Aiming to Change Narrative on A.I.",
-        "summary": "OpenAI said the deal would help it “create a space for a real, constructive conversation about the changes A.I. creates.”",
-        "content": "OpenAI said the deal would help it “create a space for a real, constructive conversation about the changes A.I. creates.”",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/04/02/technology/openai-buys-tbpn.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 03 Apr 2026 17:53:29 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ],
-        "imageUrl": "/images/2026-04-04/2026-04-04-policy-AI-017.webp"
-      },
-      {
-        "id": "AI-018",
         "title": "Uber and Lyft Offer Gas Price Relief, but Drivers Say It’s Not Enough",
         "summary": "As fuel costs go up, making a living as a gig driver is harder than ever.",
         "content": "As fuel costs go up, making a living as a gig driver is harder than ever.",
@@ -381,53 +340,13 @@
         "normalizedTags": [
           "nyt technology"
         ],
-        "imageUrl": "/images/2026-04-04/2026-04-04-policy-AI-018.webp"
-      },
-      {
-        "id": "AI-019",
-        "title": "NASA’s Artemis II Astronauts Took iPhones Into Space",
-        "summary": "The astronauts traveling in the Artemis II spacecraft were allowed to take smartphones with them. Sadly, they can’t connect to the internet.",
-        "content": "The astronauts traveling in the Artemis II spacecraft were allowed to take smartphones with them. Sadly, they can’t connect to the internet.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/04/03/technology/iphones-artemis-nasa.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 03 Apr 2026 20:36:47 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ],
-        "imageUrl": "/images/2026-04-04/2026-04-04-policy-AI-019.webp"
-      },
-      {
-        "id": "AI-020",
-        "title": "The Revival of the Fashion-Tech Love Affair",
-        "summary": "Get ready for the return of wearables and a new stage in the fashion-tech relationship.",
-        "content": "Get ready for the return of wearables and a new stage in the fashion-tech relationship.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/04/02/style/meta-lab-smartglasses-wearables.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 03 Apr 2026 12:10:13 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ],
-        "imageUrl": "/images/2026-04-04/2026-04-04-policy-AI-020.webp"
+        "imageUrl": "/images/2026-04-04/2026-04-04-policy-AI-016.webp"
       }
     ],
     "concerns": [],
     "culture": [
       {
-        "id": "AI-021",
+        "id": "AI-017",
         "title": "‘Occasionally a picture can change the course of history’: 33 scandalous photos that shocked the world",
         "summary": "When it comes to scandal, seeing is believing – which is why these images caused such a stir\nWords can tell a story, but it’s pictures that will make you believe in it. Such is the power of a photograph; the ability to strip away illusions, to illumi",
         "content": "When it comes to scandal, seeing is believing – which is why these images caused such a stir\nWords can tell a story, but it’s pictures that will make you believe in it. Such is the power of a photograph; the ability to strip away illusions, to illuminate something hidden, and sometimes force us to accept unpalatable truths. When it comes to scandal, seeing is believing – occasionally even to the point that a picture changes the course of history.\nHow might life have been different for Andrew Mou",
@@ -444,30 +363,10 @@
         "normalizedTags": [
           "the guardian ai"
         ],
-        "imageUrl": "/images/2026-04-04/2026-04-04-culture-AI-021.webp"
+        "imageUrl": "/images/2026-04-04/2026-04-04-culture-AI-017.webp"
       },
       {
-        "id": "AI-022",
-        "title": "UK’s leading AI research institute told to make ‘significant’ changes",
-        "summary": "Alan Turing Institute told by funder to offer better strategy and more value for money after board was reminded of legal duties by watchdog\nThe UK’s leading AI research institute has been told to make “significant” changes by its main source of taxpa",
-        "content": "Alan Turing Institute told by funder to offer better strategy and more value for money after board was reminded of legal duties by watchdog\nThe UK’s leading AI research institute has been told to make “significant” changes by its main source of taxpayer funding.\nThe Guardian revealed last week that the board of the Alan Turing Institute was reminded of its legal duties by the charity watchdog after a whistleblower complaint.\n Continue reading...",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/apr/03/uk-alan-turing-institute-ai-research-underperforming-ukri",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 03 Apr 2026 13:04:06 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ],
-        "imageUrl": "/images/2026-04-04/2026-04-04-culture-AI-022.webp"
-      },
-      {
-        "id": "AI-023",
+        "id": "AI-018",
         "title": "Hackers Are Posting the Claude Code Leak With Bonus Malware",
         "summary": "Plus: The FBI says a recent hack of its wiretap tools poses a national security risk, attackers stole Cisco source code as part of an ongoing supply chain hacking spree, and more.",
         "content": "Plus: The FBI says a recent hack of its wiretap tools poses a national security risk, attackers stole Cisco source code as part of an ongoing supply chain hacking spree, and more.",
@@ -484,47 +383,7 @@
         "normalizedTags": [
           "wired ai"
         ],
-        "imageUrl": "/images/2026-04-04/2026-04-04-culture-AI-023.webp"
-      },
-      {
-        "id": "AI-024",
-        "title": "Meta Pauses Work With Mercor After Data Breach Puts AI Industry Secrets at Risk",
-        "summary": "Major AI labs are investigating a security incident that impacted Mercor, a leading data vendor. The incident could have exposed key data about how they train AI models.",
-        "content": "Major AI labs are investigating a security incident that impacted Mercor, a leading data vendor. The incident could have exposed key data about how they train AI models.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
-        "sourceName": "Wired AI",
-        "tags": [
-          "Wired AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 03 Apr 2026 21:28:14 +0000",
-        "normalizedTags": [
-          "wired ai"
-        ],
-        "imageUrl": "/images/2026-04-04/2026-04-04-culture-AI-024.webp"
-      },
-      {
-        "id": "AI-025",
-        "title": "OpenAI’s Fidji Simo Is Taking Medical Leave Amid an Executive Shake-Up",
-        "summary": "The company is undergoing major leadership restructuring as its CEO of AGI deployment goes on leave for “several weeks.”",
-        "content": "The company is undergoing major leadership restructuring as its CEO of AGI deployment goes on leave for “several weeks.”",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.wired.com/story/openais-fidji-simo-is-taking-a-leave-of-absence/",
-        "sourceName": "Wired AI",
-        "tags": [
-          "Wired AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 03 Apr 2026 19:38:35 +0000",
-        "normalizedTags": [
-          "wired ai"
-        ],
-        "imageUrl": "/images/2026-04-04/2026-04-04-culture-AI-025.webp"
+        "imageUrl": "/images/2026-04-04/2026-04-04-culture-AI-018.webp"
       }
     ]
   },
@@ -534,32 +393,25 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
+    "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
     "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
-    "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
-    "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
-    "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
-    "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
+    "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
+    "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content",
+    "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
     "https://the-decoder.com/netflix-open-sources-void-an-ai-framework-that-erases-video-objects-and-rewrites-the-physics-they-left-behind/",
     "https://the-decoder.com/anthropic-discovers-functional-emotions-in-claude-that-influence-its-behavior/",
     "https://the-decoder.com/know3d-lets-users-control-the-hidden-back-side-of-3d-objects-with-text-prompts/",
     "https://the-decoder.com/openai-reshuffles-leadership-as-health-issues-force-key-executives-to-step-back/",
     "https://the-decoder.com/anthropic-drops-400-million-in-shares-on-an-eight-month-old-ai-pharma-startup-with-fewer-than-ten-employees/",
-    "https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/",
+    "https://www.cnbc.com/2026/04/04/polymarket-war-bet-iran-rescue-prediction-market-moulton.html",
+    "https://www.cnbc.com/2026/04/04/apple-50-anniversary-ai-iphone-siri.html",
     "https://www.cnbc.com/2026/04/04/debris-from-interception-strikes-oracle-building-in-dubai-uae-says.html",
     "https://www.cnbc.com/2026/04/03/openai-fidji-simo-medical-leave-executive-changes.html",
-    "https://www.cnbc.com/2026/04/03/meta-google-under-attack-court-cases-bypass-30-year-old-legal-shield.html",
-    "https://www.cnbc.com/2026/04/03/chasing-vibes-openai-ma-strategy-gets-more-confusing-with-tbpn-.html",
-    "https://www.nytimes.com/2026/04/03/business/spacex-ipo-grok-elon-musk.html",
-    "https://www.nytimes.com/2026/04/02/technology/openai-buys-tbpn.html",
+    "https://www.nytimes.com/2026/04/04/technology/ai-chatbots-teen-roleplay.html",
     "https://www.nytimes.com/2026/04/04/technology/uber-lyft-drivers-gas-prices-relief.html",
-    "https://www.nytimes.com/2026/04/03/technology/iphones-artemis-nasa.html",
-    "https://www.nytimes.com/2026/04/02/style/meta-lab-smartglasses-wearables.html",
     "https://www.theguardian.com/artanddesign/2026/apr/04/occasionally-a-picture-can-change-the-course-of-history-33-scandalous-photos-that-shocked-the-world",
-    "https://www.theguardian.com/technology/2026/apr/03/uk-alan-turing-institute-ai-research-underperforming-ukri",
-    "https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/",
-    "https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/",
-    "https://www.wired.com/story/openais-fidji-simo-is-taking-a-leave-of-absence/"
+    "https://www.wired.com/story/security-news-this-week-hackers-are-posting-the-claude-code-leak-with-bonus-malware/"
   ],
-  "generatedAt": "2026-04-04T11:26:23.704Z",
+  "generatedAt": "2026-04-04T23:22:28.518Z",
   "simpleSummaryImageUrl": "/images/2026-04-04/2026-04-04-summary.webp"
 }
