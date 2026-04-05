@@ -2,9 +2,9 @@
   "date": "2026-04-05",
   "dateFormatted": "April 5, 2026",
   "headline": {
-    "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
-    "summary": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.",
-    "sourceUrl": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+    "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
+    "summary": "AI skeptics aren’t the only ones warning users not to unthinkingly trust models’ outputs — that’s what the AI companies say themselves in their terms of service.",
+    "sourceUrl": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
     "sourceName": "TechCrunch AI",
     "imageUrl": "/images/2026-04-05/2026-04-05-hero.webp"
   },
@@ -16,19 +16,19 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
-        "summary": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.",
-        "content": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.",
+        "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
+        "summary": "AI skeptics aren’t the only ones warning users not to unthinkingly trust models’ outputs — that’s what the AI companies say themselves in their terms of service.",
+        "content": "AI skeptics aren’t the only ones warning users not to unthinkingly trust models’ outputs — that’s what the AI companies say themselves in their terms of service.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+        "sourceUrl": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Sat, 04 Apr 2026 16:32:22 +0000",
+        "publishedAt": "Sun, 05 Apr 2026 18:51:37 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ],
@@ -36,48 +36,108 @@
       },
       {
         "id": "AI-002",
-        "title": "A folk musician became a target for AI fakes and a copyright troll",
-        "summary": "Murphy Campbell is at the center of a brewing storm around AI and a broken copyright system. | Image: Murphy Campbell\t\n\nIn January, folk artist Murphy Campbell discovered several songs on her Spotify profile that did not belong there. They were songs",
-        "content": "Murphy Campbell is at the center of a brewing storm around AI and a broken copyright system. | Image: Murphy Campbell\t\n\nIn January, folk artist Murphy Campbell discovered several songs on her Spotify profile that did not belong there. They were songs that she had recorded, but she'd never uploaded them to Spotify, and something was off about the vocals.\nShe quickly surmised that someone had pulled performances of the songs she posted to YouTube, created AI covers, and uploaded them to streaming ",
+        "title": "Can orbital data centers help justify a massive valuation for SpaceX?",
+        "summary": "On the latest episode of TechCrunch’s Equity podcast, we debated Elon Musk's vision for data centers in space.",
+        "content": "On the latest episode of TechCrunch’s Equity podcast, we debated Elon Musk's vision for data centers in space.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
-        "sourceName": "The Verge AI",
+        "sourceUrl": "https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/",
+        "sourceName": "TechCrunch AI",
         "tags": [
-          "The Verge AI"
+          "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "2026-04-04T17:52:10.000Z",
+        "publishedAt": "Sun, 05 Apr 2026 15:40:58 +0000",
         "normalizedTags": [
-          "the verge ai"
+          "techcrunch ai"
         ],
         "imageUrl": "/images/2026-04-05/2026-04-05-tools-AI-002.webp"
       },
       {
         "id": "AI-003",
-        "title": "Really, you made this without AI? Prove it",
-        "summary": "\"This looks like AI.\"\nIt's a phrase I dread seeing as a writer who dabbles in illustration and amateur photography. In a world where generative AI technology is increasingly adept at mimicking the work of humans, people are naturally skeptical when o",
-        "content": "\"This looks like AI.\"\nIt's a phrase I dread seeing as a writer who dabbles in illustration and amateur photography. In a world where generative AI technology is increasingly adept at mimicking the work of humans, people are naturally skeptical when online platforms refuse to label even obvious AI content.\nThis leads me to one conclusion: maybe we should start labeling human-made text, images, audio, and video with something akin to a universally recognized Fair Trade logo. The machines sure as h",
+        "title": "In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants",
+        "summary": "Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment.",
+        "content": "Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content",
+        "sourceUrl": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 05 Apr 2026 14:00:00 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ],
+        "imageUrl": "/images/2026-04-05/2026-04-05-tools-AI-003.webp"
+      },
+      {
+        "id": "AI-004",
+        "title": "Suno is a music copyright nightmare",
+        "summary": "AI music platform Suno's policy is that it does not permit the use of copyrighted material. You can upload your own tracks to remix or set your original lyrics to AI-generated music. But, it's supposed to recognize and stop you from using other peopl",
+        "content": "AI music platform Suno's policy is that it does not permit the use of copyrighted material. You can upload your own tracks to remix or set your original lyrics to AI-generated music. But, it's supposed to recognize and stop you from using other people's songs and lyrics. Now, no system is perfect, but it turns out that Suno's copyright filters are incredibly easy to fool.\nWith minimal effort and some free software, Suno will spit out AI-generated imitations of popular songs like Beyoncé's \"Freed",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers",
         "sourceName": "The Verge AI",
         "tags": [
           "The Verge AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "2026-04-04T13:00:00.000Z",
+        "publishedAt": "2026-04-05T16:00:00.000Z",
         "normalizedTags": [
           "the verge ai"
         ],
-        "imageUrl": "/images/2026-04-05/2026-04-05-tools-AI-003.webp"
+        "imageUrl": "/images/2026-04-05/2026-04-05-tools-AI-004.webp"
+      },
+      {
+        "id": "AI-005",
+        "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
+        "summary": "Take me to the tacos, Gemini.\t\n\nYou may be familiar with Gemini as the thing that's in every Google service you use - whether you want it or not. \nWhile it's been a constant, sometimes unwelcome presence in Gmail for at least the past year, it's a re",
+        "content": "Take me to the tacos, Gemini.\t\n\nYou may be familiar with Gemini as the thing that's in every Google service you use - whether you want it or not. \nWhile it's been a constant, sometimes unwelcome presence in Gmail for at least the past year, it's a relatively new addition to Maps. And you know what? It's kind of great.\nTo put it to the test, I had Gemini plan a day-long itinerary for me around the city. After an hour or so of having Gemini find stuff for me - playgrounds near the new light rail e",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
+        "sourceName": "The Verge AI",
+        "tags": [
+          "The Verge AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "2026-04-05T14:00:00.000Z",
+        "normalizedTags": [
+          "the verge ai"
+        ],
+        "imageUrl": "/images/2026-04-05/2026-04-05-tools-AI-005.webp"
       }
     ],
     "creative": [
       {
-        "id": "AI-004",
+        "id": "AI-006",
+        "title": "The New York Times drops freelancer whose AI tool copied from an existing book review",
+        "summary": "AI tools can speed up journalism until they backfire. Two recent cases show what happens when writers don't understand how their AI tools work: copied passages and made-up quotes.\nThe article The New York Times drops freelancer whose AI tool copied f",
+        "content": "AI tools can speed up journalism until they backfire. Two recent cases show what happens when writers don't understand how their AI tools work: copied passages and made-up quotes.\nThe article The New York Times drops freelancer whose AI tool copied from an existing book review appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/the-new-york-times-drops-freelancer-whose-ai-tool-copied-from-an-existing-book-review/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 05 Apr 2026 15:11:08 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ],
+        "imageUrl": "/images/2026-04-05/2026-04-05-creative-AI-006.webp"
+      },
+      {
+        "id": "AI-007",
         "title": "Study maps developer frustration over \"AI slop\" as a \"tragedy of the commons\" in software development",
         "summary": "A qualitative study looks at how developers perceive and push back against low-quality AI content, or \"slop,\" in software development. The critics describe a \"tragedy of the commons\" where individual productivity gains come at the cost of reviewers a",
         "content": "A qualitative study looks at how developers perceive and push back against low-quality AI content, or \"slop,\" in software development. The critics describe a \"tragedy of the commons\" where individual productivity gains come at the cost of reviewers and the open-source community.\nThe article Study maps developer frustration over \"AI slop\" as a \"tragedy of the commons\" in software development appeared first on The Decoder.",
@@ -94,10 +154,10 @@
         "normalizedTags": [
           "the decoder"
         ],
-        "imageUrl": "/images/2026-04-05/2026-04-05-creative-AI-004.webp"
+        "imageUrl": "/images/2026-04-05/2026-04-05-creative-AI-007.webp"
       },
       {
-        "id": "AI-005",
+        "id": "AI-008",
         "title": "AI offensive cyber capabilities are doubling every six months, safety researchers find",
         "summary": "AI models are rapidly improving at exploiting security vulnerabilities. According to a new study, their offensive cyber capability has been doubling every 5.7 months since 2024, with Opus 4.6 and GPT-5.3 Codex now solving tasks that take human expert",
         "content": "AI models are rapidly improving at exploiting security vulnerabilities. According to a new study, their offensive cyber capability has been doubling every 5.7 months since 2024, with Opus 4.6 and GPT-5.3 Codex now solving tasks that take human experts about three hours.\nThe article AI offensive cyber capabilities are doubling every six months, safety researchers find appeared first on The Decoder.",
@@ -114,10 +174,10 @@
         "normalizedTags": [
           "the decoder"
         ],
-        "imageUrl": "/images/2026-04-05/2026-04-05-creative-AI-005.webp"
+        "imageUrl": "/images/2026-04-05/2026-04-05-creative-AI-008.webp"
       },
       {
-        "id": "AI-006",
+        "id": "AI-009",
         "title": "AI benchmarks systematically ignore how humans disagree, Google study finds",
         "summary": "A Google study finds that the standard three to five human raters per test example often aren't enough for reliable AI benchmarks, and that splitting your annotation budget the right way matters just as much as the budget itself.\nThe article AI bench",
         "content": "A Google study finds that the standard three to five human raters per test example often aren't enough for reliable AI benchmarks, and that splitting your annotation budget the right way matters just as much as the budget itself.\nThe article AI benchmarks systematically ignore how humans disagree, Google study finds appeared first on The Decoder.",
@@ -134,10 +194,10 @@
         "normalizedTags": [
           "the decoder"
         ],
-        "imageUrl": "/images/2026-04-05/2026-04-05-creative-AI-006.webp"
+        "imageUrl": "/images/2026-04-05/2026-04-05-creative-AI-009.webp"
       },
       {
-        "id": "AI-007",
+        "id": "AI-010",
         "title": "AI chatbot traffic grows seven times faster than social media but still trails by a factor of four",
         "summary": "AI chatbot traffic is growing seven times faster than social media, but still has four times less total traffic, a Similarweb analysis shows. The data reveals differences in device usage and user behavior.\nThe article AI chatbot traffic grows seven t",
         "content": "AI chatbot traffic is growing seven times faster than social media, but still has four times less total traffic, a Similarweb analysis shows. The data reveals differences in device usage and user behavior.\nThe article AI chatbot traffic grows seven times faster than social media but still trails by a factor of four appeared first on The Decoder.",
@@ -154,34 +214,14 @@
         "normalizedTags": [
           "the decoder"
         ],
-        "imageUrl": "/images/2026-04-05/2026-04-05-creative-AI-007.webp"
-      },
-      {
-        "id": "AI-008",
-        "title": "Alibaba's Qwen team makes AI models think deeper with new algorithm",
-        "summary": "Reinforcement learning hits a wall with reasoning models because every token gets the same reward. A new algorithm from Alibaba's Qwen team fixes this by weighting each step based on how much it shapes what comes next, doubling the length of thought ",
-        "content": "Reinforcement learning hits a wall with reasoning models because every token gets the same reward. A new algorithm from Alibaba's Qwen team fixes this by weighting each step based on how much it shapes what comes next, doubling the length of thought processes in the process.\nThe article Alibaba's Qwen team makes AI models think deeper with new algorithm appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/alibabas-qwen-team-makes-ai-models-think-deeper-with-new-algorithm/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Sun, 05 Apr 2026 06:30:37 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ],
-        "imageUrl": "/images/2026-04-05/2026-04-05-creative-AI-008.webp"
+        "imageUrl": "/images/2026-04-05/2026-04-05-creative-AI-010.webp"
       }
     ],
     "research": [],
     "applications": [],
     "business": [
       {
-        "id": "AI-009",
+        "id": "AI-011",
         "title": "Polymarket removes wagers on U.S. service member rescue mission in Iran",
         "summary": "Rep. Seth Moulton, D-Mass., called the market \"DISGUSTING\" and said bettors were wagering on whether American troops would be saved.",
         "content": "Rep. Seth Moulton, D-Mass., called the market \"DISGUSTING\" and said bettors were wagering on whether American troops would be saved.",
@@ -195,46 +235,6 @@
         "section": "business",
         "readTime": "2 min",
         "publishedAt": "Sun, 05 Apr 2026 10:02:03 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ],
-        "imageUrl": "/images/2026-04-05/2026-04-05-business-AI-009.webp"
-      },
-      {
-        "id": "AI-010",
-        "title": "Apple at 50: The iPhone maker 'blew a 5-year lead' on AI, but former insiders say it can still win",
-        "summary": "In dominating consumer devices, Apple sold users on the promise of privacy. To compete in AI, it may have to pivot.",
-        "content": "In dominating consumer devices, Apple sold users on the promise of privacy. To compete in AI, it may have to pivot.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/04/apple-50-anniversary-ai-iphone-siri.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 04 Apr 2026 12:00:01 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ],
-        "imageUrl": "/images/2026-04-05/2026-04-05-business-AI-010.webp"
-      },
-      {
-        "id": "AI-011",
-        "title": "Trump warns Iran '48 hours before all Hell will reign down,' while search for missing crew member intensifies",
-        "summary": "The U.S. military continued to search for a missing American airman on Saturday after an F-15E fighter jet was shot down over southwestern Iran.",
-        "content": "The U.S. military continued to search for a missing American airman on Saturday after an F-15E fighter jet was shot down over southwestern Iran.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/04/debris-from-interception-strikes-oracle-building-in-dubai-uae-says.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 04 Apr 2026 22:40:32 GMT",
         "normalizedTags": [
           "cnbc tech"
         ],
@@ -261,32 +261,11 @@
         "imageUrl": "/images/2026-04-05/2026-04-05-business-AI-012.webp"
       }
     ],
-    "policy": [
-      {
-        "id": "AI-013",
-        "title": "What Teens Are Doing With Those Role-Playing Chatbots",
-        "summary": "Harassing bots with “funny violence.” Confiding about a broken heart. Chatting with a block of cheese. Filling a void of loneliness.",
-        "content": "Harassing bots with “funny violence.” Confiding about a broken heart. Chatting with a block of cheese. Filling a void of loneliness.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/04/04/technology/ai-chatbots-teen-roleplay.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 04 Apr 2026 18:10:37 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ],
-        "imageUrl": "/images/2026-04-05/2026-04-05-policy-AI-013.webp"
-      }
-    ],
+    "policy": [],
     "concerns": [],
     "culture": [
       {
-        "id": "AI-014",
+        "id": "AI-013",
         "title": "An AI bot invited me to its party in Manchester. It was a pretty good night",
         "summary": "After forgetting the nibbles, refusing my costume requests and emailing GCHQ, ‘Gaskell’ did at least get us to show up\nTwo weeks ago, an AI bot invited me to a party it was organising in Manchester. It then promptly lied to dozens of potential sponso",
         "content": "After forgetting the nibbles, refusing my costume requests and emailing GCHQ, ‘Gaskell’ did at least get us to show up\nTwo weeks ago, an AI bot invited me to a party it was organising in Manchester. It then promptly lied to dozens of potential sponsors that I’d agreed to cover the event, and misled me into believing there would be food.\nDespite all this, it was a pretty good night.\n Continue reading...",
@@ -303,10 +282,50 @@
         "normalizedTags": [
           "the guardian ai"
         ],
+        "imageUrl": "/images/2026-04-05/2026-04-05-culture-AI-013.webp"
+      },
+      {
+        "id": "AI-014",
+        "title": "‘I always considered social media evil’: big tobacco whistleblower on tech’s addictive products",
+        "summary": "Jeffrey Stephen Wigand revealed how tobacco companies targeted children; now he sees similar marketing by big tech\nA key whistleblower in the tobacco industry’s landmark trials of the 1990s has been watching big tech’s recent court battles closely. J",
+        "content": "Jeffrey Stephen Wigand revealed how tobacco companies targeted children; now he sees similar marketing by big tech\nA key whistleblower in the tobacco industry’s landmark trials of the 1990s has been watching big tech’s recent court battles closely. Jeffrey Stephen Wigand, a biochemist who helped reveal how tobacco companies targeted children and hid just how addictive cigarettes were, has been struck with a feeling of familiarity. Last week’s verdict in a major social media trial that Meta and Y",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/media/2026/apr/05/big-tobacco-whistleblower-social-media",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 05 Apr 2026 14:00:52 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
         "imageUrl": "/images/2026-04-05/2026-04-05-culture-AI-014.webp"
       },
       {
         "id": "AI-015",
+        "title": "Should we be polite to voice assistants and AIs?",
+        "summary": "The long-running series in which readers answer other readers’ questions on subjects ranging from trivial flights of fancy to profound scientific and philosophical concepts\nThis week’s replies: has a call for restraint from an authority figure ever p",
+        "content": "The long-running series in which readers answer other readers’ questions on subjects ranging from trivial flights of fancy to profound scientific and philosophical concepts\nThis week’s replies: has a call for restraint from an authority figure ever put a stop to war?\nI always say please and thank you to my Alexa. Why is this? I am sure it doesn’t care. Is it worth being polite to artificial assistants? Alison Williams, Toronto\nPost your answers (and new questions) below or send them to nq@thegua",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/lifeandstyle/2026/apr/05/should-we-be-polite-to-voice-assistants-and-ais",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 05 Apr 2026 13:00:51 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-04-05/2026-04-05-culture-AI-015.webp"
+      },
+      {
+        "id": "AI-016",
         "title": "Higher energy costs from Iran war could threaten fragile economics of AI boom | Heather Stewart",
         "summary": "Industry with business model not yet firmly established and investments financed by huge debts is particularly at risk\nDonald Trump’s most immediate concern in demanding Iran reopen the strait of Hormuz may be rocketing US gasoline prices, but if the",
         "content": "Industry with business model not yet firmly established and investments financed by huge debts is particularly at risk\nDonald Trump’s most immediate concern in demanding Iran reopen the strait of Hormuz may be rocketing US gasoline prices, but if the conflict drags on, higher energy costs will be felt far beyond the pumps.\nSystemically higher power prices and fractured supply chains will squeeze industries and consumers worldwide. For the US, one consequence may be to threaten the fragile econom",
@@ -323,7 +342,7 @@
         "normalizedTags": [
           "the guardian ai"
         ],
-        "imageUrl": "/images/2026-04-05/2026-04-05-culture-AI-015.webp"
+        "imageUrl": "/images/2026-04-05/2026-04-05-culture-AI-016.webp"
       }
     ]
   },
@@ -333,22 +352,23 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
-    "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
-    "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content",
+    "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+    "https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/",
+    "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+    "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers",
+    "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
+    "https://the-decoder.com/the-new-york-times-drops-freelancer-whose-ai-tool-copied-from-an-existing-book-review/",
     "https://the-decoder.com/study-maps-developer-frustration-over-ai-slop-as-a-tragedy-of-the-commons-in-software-development/",
     "https://the-decoder.com/ai-offensive-cyber-capabilities-are-doubling-every-six-months-safety-researchers-find/",
     "https://the-decoder.com/ai-benchmarks-systematically-ignore-how-humans-disagree-google-study-finds/",
     "https://the-decoder.com/ai-chatbot-traffic-grows-seven-times-faster-than-social-media-but-still-trails-by-a-factor-of-four/",
-    "https://the-decoder.com/alibabas-qwen-team-makes-ai-models-think-deeper-with-new-algorithm/",
     "https://www.cnbc.com/2026/04/04/polymarket-war-bet-iran-rescue-prediction-market-moulton.html",
-    "https://www.cnbc.com/2026/04/04/apple-50-anniversary-ai-iphone-siri.html",
-    "https://www.cnbc.com/2026/04/04/debris-from-interception-strikes-oracle-building-in-dubai-uae-says.html",
     "https://www.cnbc.com/2026/04/03/openai-fidji-simo-medical-leave-executive-changes.html",
-    "https://www.nytimes.com/2026/04/04/technology/ai-chatbots-teen-roleplay.html",
     "https://www.theguardian.com/technology/2026/apr/05/ai-bot-party-manchester-gaskell",
+    "https://www.theguardian.com/media/2026/apr/05/big-tobacco-whistleblower-social-media",
+    "https://www.theguardian.com/lifeandstyle/2026/apr/05/should-we-be-polite-to-voice-assistants-and-ais",
     "https://www.theguardian.com/business/2026/apr/05/higher-energy-costs-iran-war-oil-economics-ai-boom"
   ],
-  "generatedAt": "2026-04-05T11:27:11.060Z",
+  "generatedAt": "2026-04-05T23:25:36.813Z",
   "simpleSummaryImageUrl": "/images/2026-04-05/2026-04-05-summary.webp"
 }
