@@ -2,9 +2,9 @@
   "date": "2026-04-06",
   "dateFormatted": "April 6, 2026",
   "headline": {
-    "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
-    "summary": "AI skeptics aren’t the only ones warning users not to unthinkingly trust models’ outputs — that’s what the AI companies say themselves in their terms of service.",
-    "sourceUrl": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+    "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund ",
+    "summary": "Zero Shot, a new venture capital fund with deep ties to OpenAI, is aiming to raise $100 million for its first fund. It has already written some checks.",
+    "sourceUrl": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
     "sourceName": "TechCrunch AI",
     "imageUrl": "/images/2026-04-06/2026-04-06-hero.webp"
   },
@@ -16,19 +16,19 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
-        "summary": "AI skeptics aren’t the only ones warning users not to unthinkingly trust models’ outputs — that’s what the AI companies say themselves in their terms of service.",
-        "content": "AI skeptics aren’t the only ones warning users not to unthinkingly trust models’ outputs — that’s what the AI companies say themselves in their terms of service.",
+        "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund ",
+        "summary": "Zero Shot, a new venture capital fund with deep ties to OpenAI, is aiming to raise $100 million for its first fund. It has already written some checks.",
+        "content": "Zero Shot, a new venture capital fund with deep ties to OpenAI, is aiming to raise $100 million for its first fund. It has already written some checks.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+        "sourceUrl": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Sun, 05 Apr 2026 18:51:37 +0000",
+        "publishedAt": "Mon, 06 Apr 2026 21:54:26 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ],
@@ -36,19 +36,19 @@
       },
       {
         "id": "AI-002",
-        "title": "Can orbital data centers help justify a massive valuation for SpaceX?",
-        "summary": "On the latest episode of TechCrunch’s Equity podcast, we debated Elon Musk's vision for data centers in space.",
-        "content": "On the latest episode of TechCrunch’s Equity podcast, we debated Elon Musk's vision for data centers in space.",
+        "title": "Google quietly launched an AI dictation app that works offline",
+        "summary": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.",
+        "content": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/",
+        "sourceUrl": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Sun, 05 Apr 2026 15:40:58 +0000",
+        "publishedAt": "Mon, 06 Apr 2026 18:54:33 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ],
@@ -56,19 +56,19 @@
       },
       {
         "id": "AI-003",
-        "title": "In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants",
-        "summary": "Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment.",
-        "content": "Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment.",
+        "title": "Iran threatens ‘Stargate’ AI data centers",
+        "summary": "Iran said it will target U.S.-linked data centers with new missile strikes, as the war between the U.S. and Iran escalates.",
+        "content": "Iran said it will target U.S.-linked data centers with new missile strikes, as the war between the U.S. and Iran escalates.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+        "sourceUrl": "https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Sun, 05 Apr 2026 14:00:00 +0000",
+        "publishedAt": "Mon, 06 Apr 2026 18:06:28 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ],
@@ -76,41 +76,41 @@
       },
       {
         "id": "AI-004",
-        "title": "Suno is a music copyright nightmare",
-        "summary": "AI music platform Suno's policy is that it does not permit the use of copyrighted material. You can upload your own tracks to remix or set your original lyrics to AI-generated music. But, it's supposed to recognize and stop you from using other peopl",
-        "content": "AI music platform Suno's policy is that it does not permit the use of copyrighted material. You can upload your own tracks to remix or set your original lyrics to AI-generated music. But, it's supposed to recognize and stop you from using other people's songs and lyrics. Now, no system is perfect, but it turns out that Suno's copyright filters are incredibly easy to fool.\nWith minimal effort and some free software, Suno will spit out AI-generated imitations of popular songs like Beyoncé's \"Freed",
+        "title": "OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day workweek",
+        "summary": "OpenAI proposes taxes on AI profits, public wealth funds, and expanded safety nets to address job loss and inequality, blending redistribution with capitalism as policymakers debate AI’s economic impact.",
+        "content": "OpenAI proposes taxes on AI profits, public wealth funds, and expanded safety nets to address job loss and inequality, blending redistribution with capitalism as policymakers debate AI’s economic impact.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers",
-        "sourceName": "The Verge AI",
+        "sourceUrl": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
+        "sourceName": "TechCrunch AI",
         "tags": [
-          "The Verge AI"
+          "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "2026-04-05T16:00:00.000Z",
+        "publishedAt": "Mon, 06 Apr 2026 15:55:55 +0000",
         "normalizedTags": [
-          "the verge ai"
+          "techcrunch ai"
         ],
         "imageUrl": "/images/2026-04-06/2026-04-06-tools-AI-004.webp"
       },
       {
         "id": "AI-005",
-        "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
-        "summary": "Take me to the tacos, Gemini.\t\n\nYou may be familiar with Gemini as the thing that's in every Google service you use - whether you want it or not. \nWhile it's been a constant, sometimes unwelcome presence in Gmail for at least the past year, it's a re",
-        "content": "Take me to the tacos, Gemini.\t\n\nYou may be familiar with Gemini as the thing that's in every Google service you use - whether you want it or not. \nWhile it's been a constant, sometimes unwelcome presence in Gmail for at least the past year, it's a relatively new addition to Maps. And you know what? It's kind of great.\nTo put it to the test, I had Gemini plan a day-long itinerary for me around the city. After an hour or so of having Gemini find stuff for me - playgrounds near the new light rail e",
+        "title": "Startup Battlefield 200 applications open: a chance for VC access, TechCrunch coverage, and $100K",
+        "summary": "Nominate your startup, or one you know that deserves the spotlight, and finish the process by applying. Selected 200 have a chance at VC access, TechCrunch coverage, and $100K for Startup Battlefield 200. Applications close on May 27.",
+        "content": "Nominate your startup, or one you know that deserves the spotlight, and finish the process by applying. Selected 200 have a chance at VC access, TechCrunch coverage, and $100K for Startup Battlefield 200. Applications close on May 27.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
-        "sourceName": "The Verge AI",
+        "sourceUrl": "https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k/",
+        "sourceName": "TechCrunch AI",
         "tags": [
-          "The Verge AI"
+          "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "2026-04-05T14:00:00.000Z",
+        "publishedAt": "Mon, 06 Apr 2026 14:30:00 +0000",
         "normalizedTags": [
-          "the verge ai"
+          "techcrunch ai"
         ],
         "imageUrl": "/images/2026-04-06/2026-04-06-tools-AI-005.webp"
       }
@@ -118,6 +118,46 @@
     "creative": [
       {
         "id": "AI-006",
+        "title": "OpenAI's safety brain drain finally gets an explanation and it's just Sam Altman's vibes",
+        "summary": "\"My vibes don't really fit.\" In a new New Yorker profile based on over 100 interviews, Sam Altman explains why safety researchers keep leaving OpenAI and why shifting commitments others might call deception are just part of the job.\nThe article OpenA",
+        "content": "\"My vibes don't really fit.\" In a new New Yorker profile based on over 100 interviews, Sam Altman explains why safety researchers keep leaving OpenAI and why shifting commitments others might call deception are just part of the job.\nThe article OpenAI's safety brain drain finally gets an explanation and it's just Sam Altman's vibes appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/openais-safety-brain-drain-finally-gets-an-explanation-and-its-just-sam-altmans-vibes/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 06 Apr 2026 18:03:43 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ],
+        "imageUrl": "/images/2026-04-06/2026-04-06-creative-AI-006.webp"
+      },
+      {
+        "id": "AI-007",
+        "title": "Less work, equal pay: OpenAI lays out its vision for a world reshaped by superintelligence",
+        "summary": "In a new policy paper, OpenAI lays out how governments should prepare for superintelligence, with proposals that include a public wealth fund, a four-day workweek, and higher capital gains taxes for top earners.\nThe article Less work, equal pay: Open",
+        "content": "In a new policy paper, OpenAI lays out how governments should prepare for superintelligence, with proposals that include a public wealth fund, a four-day workweek, and higher capital gains taxes for top earners.\nThe article Less work, equal pay: OpenAI lays out its vision for a world reshaped by superintelligence appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/less-work-equal-pay-openai-lays-out-its-vision-for-a-world-reshaped-by-superintelligence/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 06 Apr 2026 16:40:46 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ],
+        "imageUrl": "/images/2026-04-06/2026-04-06-creative-AI-007.webp"
+      },
+      {
+        "id": "AI-008",
         "title": "Sycophantic AI chatbots can break even ideal rational thinkers, researchers formally prove",
         "summary": "A new study by researchers from MIT and the University of Washington shows that even perfectly rational users can be drawn into dangerous delusional spirals by flattering AI chatbots. Fact-checking bots and educated users don't fully solve the proble",
         "content": "A new study by researchers from MIT and the University of Washington shows that even perfectly rational users can be drawn into dangerous delusional spirals by flattering AI chatbots. Fact-checking bots and educated users don't fully solve the problem.\nThe article Sycophantic AI chatbots can break even ideal rational thinkers, researchers formally prove appeared first on The Decoder.",
@@ -134,10 +174,10 @@
         "normalizedTags": [
           "the decoder"
         ],
-        "imageUrl": "/images/2026-04-06/2026-04-06-creative-AI-006.webp"
+        "imageUrl": "/images/2026-04-06/2026-04-06-creative-AI-008.webp"
       },
       {
-        "id": "AI-007",
+        "id": "AI-009",
         "title": "Telehealth startup Medvi generated billions in revenue with AI-powered fake advertising",
         "summary": "AI efficiency or AI fraud? How a two-person startup hit $1.8 billion in revenue with AI marketing and why the success story somewhat fell apart.\nThe article Telehealth startup Medvi generated billions in revenue with AI-powered fake advertising appea",
         "content": "AI efficiency or AI fraud? How a two-person startup hit $1.8 billion in revenue with AI marketing and why the success story somewhat fell apart.\nThe article Telehealth startup Medvi generated billions in revenue with AI-powered fake advertising appeared first on The Decoder.",
@@ -154,10 +194,10 @@
         "normalizedTags": [
           "the decoder"
         ],
-        "imageUrl": "/images/2026-04-06/2026-04-06-creative-AI-007.webp"
+        "imageUrl": "/images/2026-04-06/2026-04-06-creative-AI-009.webp"
       },
       {
-        "id": "AI-008",
+        "id": "AI-010",
         "title": "OpenAI reveals 600,000 weekly health queries from hospital deserts as seven in ten come after hours",
         "summary": "ChatGPT gets millions of health queries per week in the US, especially from areas where doctors are hard to reach.\nThe article OpenAI reveals 600,000 weekly health queries from hospital deserts as seven in ten come after hours appeared first on The D",
         "content": "ChatGPT gets millions of health queries per week in the US, especially from areas where doctors are hard to reach.\nThe article OpenAI reveals 600,000 weekly health queries from hospital deserts as seven in ten come after hours appeared first on The Decoder.",
@@ -174,52 +214,32 @@
         "normalizedTags": [
           "the decoder"
         ],
-        "imageUrl": "/images/2026-04-06/2026-04-06-creative-AI-008.webp"
-      },
-      {
-        "id": "AI-009",
-        "title": "Alibaba's Qwen team built HopChain to fix how AI vision models fall apart during multi-step reasoning",
-        "summary": "When AI models reason about images, small perceptual errors compound across multiple steps and produce wrong answers. Alibaba's HopChain framework tackles this by generating multi-stage image questions that break complex problems into linked individu",
-        "content": "When AI models reason about images, small perceptual errors compound across multiple steps and produce wrong answers. Alibaba's HopChain framework tackles this by generating multi-stage image questions that break complex problems into linked individual steps, forcing models to verify each visual detail before drawing conclusions. The approach improves 20 out of 24 benchmarks.\nThe article Alibaba's Qwen team built HopChain to fix how AI vision models fall apart during multi-step reasoning appeare",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/alibabas-qwen-team-built-hopchain-to-fix-how-ai-vision-models-fall-apart-during-multi-step-reasoning/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 06 Apr 2026 07:33:51 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ],
-        "imageUrl": "/images/2026-04-06/2026-04-06-creative-AI-009.webp"
-      },
-      {
-        "id": "AI-010",
-        "title": "Americans are using AI more than ever while trusting it less, new Quinnipiac poll finds",
-        "summary": "A new Quinnipiac University poll reveals a growing paradox: AI adoption in the US is climbing fast, but skepticism is growing even faster. Gen Z, the generation most familiar with AI, has the bleakest outlook on the job market.\nThe article Americans ",
-        "content": "A new Quinnipiac University poll reveals a growing paradox: AI adoption in the US is climbing fast, but skepticism is growing even faster. Gen Z, the generation most familiar with AI, has the bleakest outlook on the job market.\nThe article Americans are using AI more than ever while trusting it less, new Quinnipiac poll finds appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/americans-are-using-ai-more-than-ever-while-trusting-it-less-new-quinnipiac-poll-finds/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 06 Apr 2026 06:30:15 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ],
         "imageUrl": "/images/2026-04-06/2026-04-06-creative-AI-010.webp"
       }
     ],
     "research": [
       {
         "id": "AI-011",
+        "title": "The one piece of data that could actually shed light on your job and AI",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Within Silicon Valley’s orbit, an AI-fueled jobs apocalypse is spoken about as a given. The mood is so grim that",
+        "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Within Silicon Valley’s orbit, an AI-fueled jobs apocalypse is spoken about as a given. The mood is so grim that a societal impacts researcher at Anthropic, responding Wednesday to a call for…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 06 Apr 2026 16:33:35 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ],
+        "imageUrl": "/images/2026-04-06/2026-04-06-research-AI-011.webp"
+      },
+      {
+        "id": "AI-012",
         "title": "AI is changing how small online sellers decide what to make",
         "summary": "For years Mike McClary sold the Guardian LTE Flashlight, a heavy-duty black model, online through his small outdoor brand. The product, designed for brightness and durability, became one of his most popular items ever. Even after he stopped offering ",
         "content": "For years Mike McClary sold the Guardian LTE Flashlight, a heavy-duty black model, online through his small outdoor brand. The product, designed for brightness and durability, became one of his most popular items ever. Even after he stopped offering it around 2017, customers kept sending him emails asking where they could buy it.  When McClary…",
@@ -236,10 +256,10 @@
         "normalizedTags": [
           "mit tech review"
         ],
-        "imageUrl": "/images/2026-04-06/2026-04-06-research-AI-011.webp"
+        "imageUrl": "/images/2026-04-06/2026-04-06-research-AI-012.webp"
       },
       {
-        "id": "AI-012",
+        "id": "AI-013",
         "title": "Holos: A Web-Scale LLM-Based Multi-Agent System for the Agentic Web",
         "summary": "arXiv:2604.02334v1 Announce Type: new \nAbstract: As large language models (LLM)-driven agents transition from isolated task solvers to persistent digital entities, the emergence of the Agentic Web, an ecosystem where heterogeneous agents autonomously",
         "content": "arXiv:2604.02334v1 Announce Type: new \nAbstract: As large language models (LLM)-driven agents transition from isolated task solvers to persistent digital entities, the emergence of the Agentic Web, an ecosystem where heterogeneous agents autonomously interact and co-evolve, marks a pivotal shift toward Artificial General Intelligence (AGI). However, LLM-based multi-agent systems (LaMAS) are hindered by open-world issues such as scaling friction, coordination breakdown, and value dissipation. To ",
@@ -256,10 +276,10 @@
         "normalizedTags": [
           "arxiv cs.ai"
         ],
-        "imageUrl": "/images/2026-04-06/2026-04-06-research-AI-012.webp"
+        "imageUrl": "/images/2026-04-06/2026-04-06-research-AI-013.webp"
       },
       {
-        "id": "AI-013",
+        "id": "AI-014",
         "title": "Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation",
         "summary": "arXiv:2604.02368v1 Announce Type: new \nAbstract: As Large Language Models (LLMs) exhibit plateauing performance on conventional benchmarks, a pivotal challenge persists: evaluating their proficiency in complex, open-ended tasks characterizing genuine",
         "content": "arXiv:2604.02368v1 Announce Type: new \nAbstract: As Large Language Models (LLMs) exhibit plateauing performance on conventional benchmarks, a pivotal challenge persists: evaluating their proficiency in complex, open-ended tasks characterizing genuine expert-level cognition. Existing frameworks suffer from narrow domain coverage, reliance on generalist tasks, or self-evaluation biases. To bridge this gap, we present XpertBench, a high-fidelity benchmark engineered to assess LLMs across authentic ",
@@ -276,36 +296,16 @@
         "normalizedTags": [
           "arxiv cs.ai"
         ],
-        "imageUrl": "/images/2026-04-06/2026-04-06-research-AI-013.webp"
+        "imageUrl": "/images/2026-04-06/2026-04-06-research-AI-014.webp"
       },
       {
-        "id": "AI-014",
+        "id": "AI-015",
         "title": "Compositional Neuro-Symbolic Reasoning",
         "summary": "arXiv:2604.02434v1 Announce Type: new \nAbstract: We study structured abstraction-based reasoning for the Abstraction and Reasoning Corpus (ARC) and compare its generalization to test-time approaches. Purely neural architectures lack reliable combinat",
         "content": "arXiv:2604.02434v1 Announce Type: new \nAbstract: We study structured abstraction-based reasoning for the Abstraction and Reasoning Corpus (ARC) and compare its generalization to test-time approaches. Purely neural architectures lack reliable combinatorial generalization, while strictly symbolic systems struggle with perceptual grounding. We therefore propose a neuro-symbolic architecture that extracts object-level structure from grids, uses neural priors to propose candidate transformations from",
         "keyTakeaways": [],
         "whyItMatters": "",
         "sourceUrl": "https://arxiv.org/abs/2604.02434",
-        "sourceName": "ArXiv CS.AI",
-        "tags": [
-          "ArXiv CS.AI"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 06 Apr 2026 00:00:00 -0400",
-        "normalizedTags": [
-          "arxiv cs.ai"
-        ],
-        "imageUrl": "/images/2026-04-06/2026-04-06-research-AI-014.webp"
-      },
-      {
-        "id": "AI-015",
-        "title": "Understanding the Nature of Generative AI as Threshold Logic in High-Dimensional Space",
-        "summary": "arXiv:2604.02476v1 Announce Type: new \nAbstract: This paper examines the role of threshold logic in understanding generative artificial intelligence. Threshold functions, originally studied in the 1960s in digital circuit synthesis, provide a structu",
-        "content": "arXiv:2604.02476v1 Announce Type: new \nAbstract: This paper examines the role of threshold logic in understanding generative artificial intelligence. Threshold functions, originally studied in the 1960s in digital circuit synthesis, provide a structurally transparent model of neural computation: a weighted sum of inputs compared to a threshold, geometrically realized as a hyperplane partitioning a space. The paper shows that this operation undergoes a qualitative transition as dimensionality inc",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://arxiv.org/abs/2604.02476",
         "sourceName": "ArXiv CS.AI",
         "tags": [
           "ArXiv CS.AI"
@@ -323,6 +323,66 @@
     "business": [
       {
         "id": "AI-016",
+        "title": "Broadcom agrees to expanded chip deals with Google, Anthropic",
+        "summary": "Broadcom said it agreed to produce future versions of Google artificial intelligence chips, and announced an expanded deal with Anthropic.",
+        "content": "Broadcom said it agreed to produce future versions of Google artificial intelligence chips, and announced an expanded deal with Anthropic.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/04/06/broadcom-agrees-to-expanded-chip-deals-with-google-anthropic.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 06 Apr 2026 22:16:30 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ],
+        "imageUrl": "/images/2026-04-06/2026-04-06-business-AI-016.webp"
+      },
+      {
+        "id": "AI-017",
+        "title": "OpenAI asks California, Delaware to investigate Musk's 'anti-competitive behavior' ahead of April trial",
+        "summary": "OpenAI sent a letter to the California and Delaware attorneys general, urging them to investigate \"anti-competitive behavior\" by Elon Musk and his associates.",
+        "content": "OpenAI sent a letter to the California and Delaware attorneys general, urging them to investigate \"anti-competitive behavior\" by Elon Musk and his associates.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/04/06/openai-asks-california-ag-to-probe-musks-anti-competitive-behavior-.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 06 Apr 2026 21:08:24 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ],
+        "imageUrl": "/images/2026-04-06/2026-04-06-business-AI-017.webp"
+      },
+      {
+        "id": "AI-018",
+        "title": "Hope for a U.S.-Iran deal, Apple's anniversary, OpenAI's podcast deal and more in Morning Squawk",
+        "summary": "Here are five key things investors need to know to start the trading day.",
+        "content": "Here are five key things investors need to know to start the trading day.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/04/06/5-things-to-know-before-the-bell-monday.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 06 Apr 2026 11:43:34 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ],
+        "imageUrl": "/images/2026-04-06/2026-04-06-business-AI-018.webp"
+      },
+      {
+        "id": "AI-019",
         "title": "AI data center boom ‘stress tests’ insurers as private capital floods in",
         "summary": "Rapid technological advancements and the huge sums of money flowing into the data center are posing both risks and rewards for insurers.",
         "content": "Rapid technological advancements and the huge sums of money flowing into the data center are posing both risks and rewards for insurers.",
@@ -339,12 +399,52 @@
         "normalizedTags": [
           "cnbc tech"
         ],
-        "imageUrl": "/images/2026-04-06/2026-04-06-business-AI-016.webp"
+        "imageUrl": "/images/2026-04-06/2026-04-06-business-AI-019.webp"
       }
     ],
     "policy": [
       {
-        "id": "AI-017",
+        "id": "AI-020",
+        "title": "A.I. Is on Its Way to Upending Cybersecurity",
+        "summary": "With new systems from companies like Anthropic and OpenAI, hackers can attack with greater speed. The defense is more A.I.",
+        "content": "With new systems from companies like Anthropic and OpenAI, hackers can attack with greater speed. The defense is more A.I.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/04/06/technology/ai-cybersecurity-hackers.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 06 Apr 2026 18:28:29 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-04-06/2026-04-06-policy-AI-020.webp"
+      },
+      {
+        "id": "AI-021",
+        "title": "The Big Bang: A.I. Has Created a Code Overload",
+        "summary": "Companies are scrambling to deal with the glut.",
+        "content": "Companies are scrambling to deal with the glut.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/04/06/technology/ai-code-overload.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 06 Apr 2026 16:27:31 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-04-06/2026-04-06-policy-AI-021.webp"
+      },
+      {
+        "id": "AI-022",
         "title": "Forget the A.I. Apocalypse. Memes Have Already Nuked Our Culture.",
         "summary": "From our jokes and slang to the White House’s policy messaging, internet “brain rot” has escaped our phones to take over … well, everything.",
         "content": "From our jokes and slang to the White House’s policy messaging, internet “brain rot” has escaped our phones to take over … well, everything.",
@@ -357,57 +457,117 @@
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Mon, 06 Apr 2026 09:00:45 +0000",
+        "publishedAt": "Mon, 06 Apr 2026 14:54:30 +0000",
         "normalizedTags": [
           "nyt technology"
         ],
-        "imageUrl": "/images/2026-04-06/2026-04-06-policy-AI-017.webp"
+        "imageUrl": "/images/2026-04-06/2026-04-06-policy-AI-022.webp"
+      },
+      {
+        "id": "AI-023",
+        "title": "What Teens Are Doing With Those Role-Playing Chatbots",
+        "summary": "Harassing bots with “funny violence.” Confiding about a broken heart. Chatting with a block of cheese. Filling a void of loneliness.",
+        "content": "Harassing bots with “funny violence.” Confiding about a broken heart. Chatting with a block of cheese. Filling a void of loneliness.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/04/04/technology/ai-chatbots-teen-roleplay.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 06 Apr 2026 21:38:55 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-04-06/2026-04-06-policy-AI-023.webp"
       }
     ],
     "concerns": [],
     "culture": [
       {
-        "id": "AI-018",
-        "title": "‘I always considered social media evil’: big tobacco whistleblower on tech’s addictive products",
-        "summary": "Jeffrey Stephen Wigand revealed how tobacco companies targeted children; now he sees similar marketing by big tech\nA key whistleblower in the tobacco industry’s landmark trials of the 1990s has been watching big tech’s recent court battles closely. J",
-        "content": "Jeffrey Stephen Wigand revealed how tobacco companies targeted children; now he sees similar marketing by big tech\nA key whistleblower in the tobacco industry’s landmark trials of the 1990s has been watching big tech’s recent court battles closely. Jeffrey Stephen Wigand, a biochemist who helped reveal how tobacco companies targeted children and hid just how addictive cigarettes were, has been struck with a feeling of familiarity. Last week’s verdict in a major social media trial that Meta and Y",
+        "id": "AI-024",
+        "title": "Tech companies are cutting jobs and betting on AI. The payoff is far from guaranteed",
+        "summary": "AI experts say we’re living in an experiment that may fundamentally change the model of work\n\nSign up for the Breaking News US email to get newsletter alerts in your inbox\n\nHundreds of thousands of tech workers are facing a harsh reality. Their well-",
+        "content": "AI experts say we’re living in an experiment that may fundamentally change the model of work\n\nSign up for the Breaking News US email to get newsletter alerts in your inbox\n\nHundreds of thousands of tech workers are facing a harsh reality. Their well-paying jobs are no longer safe. Now that artificial intelligence (AI) is here, their futures don’t look as bright as they did a decade ago.\nAs US tech companies have ramped up investments in AI, they’ve slashed a staggering number of jobs. Microsoft ",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/media/2026/apr/05/big-tobacco-whistleblower-social-media",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/apr/06/tech-layoffs-ai-work",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Sun, 05 Apr 2026 14:00:52 GMT",
+        "publishedAt": "Mon, 06 Apr 2026 21:52:08 GMT",
         "normalizedTags": [
           "the guardian ai"
         ],
-        "imageUrl": "/images/2026-04-06/2026-04-06-culture-AI-018.webp"
+        "imageUrl": "/images/2026-04-06/2026-04-06-culture-AI-024.webp"
       },
       {
-        "id": "AI-019",
-        "title": "Should we be polite to voice assistants and AIs?",
-        "summary": "The long-running series in which readers answer other readers’ questions on subjects ranging from trivial flights of fancy to profound scientific and philosophical concepts\nThis week’s replies: has a call for restraint from an authority figure ever p",
-        "content": "The long-running series in which readers answer other readers’ questions on subjects ranging from trivial flights of fancy to profound scientific and philosophical concepts\nThis week’s replies: has a call for restraint from an authority figure ever put a stop to war?\nI always say please and thank you to my Alexa. Why is this? I am sure it doesn’t care. Is it worth being polite to artificial assistants? Alison Williams, Toronto\nPost your answers (and new questions) below or send them to nq@thegua",
+        "id": "AI-025",
+        "title": "Using AI to speed up Australia’s environmental approvals risks ‘robodebt-style’ failures, scientists say",
+        "summary": "Conservationists say move could push species closer to extinction and clearer environmental rules are needed instead\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nConservationist",
+        "content": "Conservationists say move could push species closer to extinction and clearer environmental rules are needed instead\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nConservationists and scientists have warned a mining lobby proposal to use artificial intelligence to speed up national environmental approvals could generate “robodebt-style” failures, putting threatened species at further risk.\nThe Minerals Council of Australia h",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/lifeandstyle/2026/apr/05/should-we-be-polite-to-voice-assistants-and-ais",
+        "sourceUrl": "https://www.theguardian.com/environment/2026/apr/06/ai-environmental-assessments-robodebt-style-failures",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Sun, 05 Apr 2026 13:00:51 GMT",
+        "publishedAt": "Mon, 06 Apr 2026 15:00:23 GMT",
         "normalizedTags": [
           "the guardian ai"
         ],
-        "imageUrl": "/images/2026-04-06/2026-04-06-culture-AI-019.webp"
+        "imageUrl": "/images/2026-04-06/2026-04-06-culture-AI-025.webp"
       },
       {
-        "id": "AI-020",
+        "id": "AI-026",
+        "title": "Republicans fooled by AI-generated image of US airman rescued in Iran",
+        "summary": "Fake image of crew member surrounded by smiling military members has been reshared more than 21,000 times on X\n\nSign up for the Breaking News US email to get newsletter alerts in your inbox\n\nRepublican politicians were hoaxed over the weekend by an i",
+        "content": "Fake image of crew member surrounded by smiling military members has been reshared more than 21,000 times on X\n\nSign up for the Breaking News US email to get newsletter alerts in your inbox\n\nRepublican politicians were hoaxed over the weekend by an image purporting to be a downed US warplane crew member rescued by military special forces in Iran on Saturday, igniting a call for a national “crash course in media literacy”.\nGreg Abbott, the Texas governor, Ken Paxton, the state’s attorney general ",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/06/republicans-ai-image-us-plane-member-rescue-iran",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 06 Apr 2026 14:03:43 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-04-06/2026-04-06-culture-AI-026.webp"
+      },
+      {
+        "id": "AI-027",
+        "title": "What can 160-million-year-old clay tell us about AI and ethics? Inside Es Devlin’s tech and pottery summit",
+        "summary": "The great artist and designer has summoned spiritual leaders, AI researchers and academics to try their hands at ceramics – and debate their wide-ranging positions on where tech is taking humanity\nEs Devlin owns a really great bell. It’s a singing bo",
+        "content": "The great artist and designer has summoned spiritual leaders, AI researchers and academics to try their hands at ceramics – and debate their wide-ranging positions on where tech is taking humanity\nEs Devlin owns a really great bell. It’s a singing bowl – originally used in Buddhist chanting rituals but now found in most quality yoga classes. This particular bell hits just the right frequency to make my temples vibrate pleasantly and, from the way the others gathered around the workbench at Oxfor",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/artanddesign/2026/apr/06/es-devlin-ai-pottery-jurassic-clay-nico-muhly",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 06 Apr 2026 12:04:59 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-04-06/2026-04-06-culture-AI-027.webp"
+      },
+      {
+        "id": "AI-028",
         "title": "The Ridiculously Nerdy Intel Bet That Could Rake in Billions",
         "summary": "Advanced chip packaging is suddenly at the center of the AI boom. Intel is going all in.",
         "content": "Advanced chip packaging is suddenly at the center of the AI boom. Intel is going all in.",
@@ -424,7 +584,7 @@
         "normalizedTags": [
           "wired ai"
         ],
-        "imageUrl": "/images/2026-04-06/2026-04-06-culture-AI-020.webp"
+        "imageUrl": "/images/2026-04-06/2026-04-06-culture-AI-028.webp"
       }
     ]
   },
@@ -434,27 +594,35 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
-    "https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/",
-    "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
-    "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers",
-    "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
+    "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
+    "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+    "https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/",
+    "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
+    "https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k/",
+    "https://the-decoder.com/openais-safety-brain-drain-finally-gets-an-explanation-and-its-just-sam-altmans-vibes/",
+    "https://the-decoder.com/less-work-equal-pay-openai-lays-out-its-vision-for-a-world-reshaped-by-superintelligence/",
     "https://the-decoder.com/sycophantic-ai-chatbots-can-break-even-ideal-rational-thinkers-researchers-formally-prove/",
     "https://the-decoder.com/telehealth-startup-medvi-generated-billions-in-revenue-with-ai-powered-fake-advertising/",
     "https://the-decoder.com/openai-reveals-600000-weekly-health-queries-from-hospital-deserts-as-seven-in-ten-come-after-hours/",
-    "https://the-decoder.com/alibabas-qwen-team-built-hopchain-to-fix-how-ai-vision-models-fall-apart-during-multi-step-reasoning/",
-    "https://the-decoder.com/americans-are-using-ai-more-than-ever-while-trusting-it-less-new-quinnipiac-poll-finds/",
+    "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/",
     "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/",
     "https://arxiv.org/abs/2604.02334",
     "https://arxiv.org/abs/2604.02368",
     "https://arxiv.org/abs/2604.02434",
-    "https://arxiv.org/abs/2604.02476",
+    "https://www.cnbc.com/2026/04/06/broadcom-agrees-to-expanded-chip-deals-with-google-anthropic.html",
+    "https://www.cnbc.com/2026/04/06/openai-asks-california-ag-to-probe-musks-anti-competitive-behavior-.html",
+    "https://www.cnbc.com/2026/04/06/5-things-to-know-before-the-bell-monday.html",
     "https://www.cnbc.com/2026/04/06/ai-data-centers-financing-insurance-deals-gpu-debt.html",
+    "https://www.nytimes.com/2026/04/06/technology/ai-cybersecurity-hackers.html",
+    "https://www.nytimes.com/2026/04/06/technology/ai-code-overload.html",
     "https://www.nytimes.com/2026/04/06/magazine/ai-apocalypse-brain-rot-memes.html",
-    "https://www.theguardian.com/media/2026/apr/05/big-tobacco-whistleblower-social-media",
-    "https://www.theguardian.com/lifeandstyle/2026/apr/05/should-we-be-polite-to-voice-assistants-and-ais",
+    "https://www.nytimes.com/2026/04/04/technology/ai-chatbots-teen-roleplay.html",
+    "https://www.theguardian.com/technology/2026/apr/06/tech-layoffs-ai-work",
+    "https://www.theguardian.com/environment/2026/apr/06/ai-environmental-assessments-robodebt-style-failures",
+    "https://www.theguardian.com/us-news/2026/apr/06/republicans-ai-image-us-plane-member-rescue-iran",
+    "https://www.theguardian.com/artanddesign/2026/apr/06/es-devlin-ai-pottery-jurassic-clay-nico-muhly",
     "https://www.wired.com/story/why-chip-packaging-could-decide-the-next-phase-of-the-ai-boom/"
   ],
-  "generatedAt": "2026-04-06T11:45:04.943Z",
+  "generatedAt": "2026-04-06T23:27:40.681Z",
   "simpleSummaryImageUrl": "/images/2026-04-06/2026-04-06-summary.webp"
 }
