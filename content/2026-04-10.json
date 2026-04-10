@@ -1,0 +1,618 @@
+{
+  "date": "2026-04-10",
+  "dateFormatted": "April 10, 2026",
+  "headline": {
+    "title": "ChatGPT finally offers $100/month Pro plan",
+    "summary": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month.",
+    "sourceUrl": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
+    "sourceName": "TechCrunch AI"
+  },
+  "simpleSummary": [
+    "Today's edition was assembled directly from RSS feeds without AI curation.",
+    "Browse the stories below for the latest AI news."
+  ],
+  "sections": {
+    "tools": [
+      {
+        "id": "AI-001",
+        "title": "ChatGPT finally offers $100/month Pro plan",
+        "summary": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month.",
+        "content": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 09 Apr 2026 21:29:11 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-002",
+        "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
+        "summary": "ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the incident.",
+        "content": "ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the incident.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 09 Apr 2026 20:11:55 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-003",
+        "title": "After data breach, $10B-valued startup Mercor is having a month",
+        "summary": "After falling victim to a hacker, Mercor is facing lawsuits and reportedly losing big-name customers.",
+        "content": "After falling victim to a hacker, Mercor is facing lawsuits and reportedly losing big-name customers.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 09 Apr 2026 19:33:54 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-004",
+        "title": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch",
+        "summary": "The app was ranking No. 57 on the App Store just before Meta AI's new model launched. Now it's No. 5 — and rising.",
+        "content": "The app was ranking No. 57 on the App Store just before Meta AI's new model launched. Now it's No. 5 — and rising.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 09 Apr 2026 19:10:07 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-005",
+        "title": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?",
+        "summary": "Anthropic said this week that it limited the release of its newest model, dubbed Mythos, because it is too capable of finding security exploits in software relied upon by users around the world. Are real cybersecurity concerns a cover for a bigger pr",
+        "content": "Anthropic said this week that it limited the release of its newest model, dubbed Mythos, because it is too capable of finding security exploits in software relied upon by users around the world. Are real cybersecurity concerns a cover for a bigger problem at the frontier lab?",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 09 Apr 2026 18:50:05 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      }
+    ],
+    "creative": [
+      {
+        "id": "AI-006",
+        "title": "LLMs crush coding and math but choke on casual questions, and that's not a contradiction",
+        "summary": "AI models can restructure entire codebases in hours but stumble over simple everyday questions. That's not a contradiction, and it might reveal a fundamental limit of today's language models.\nThe article LLMs crush coding and math but choke on casual",
+        "content": "AI models can restructure entire codebases in hours but stumble over simple everyday questions. That's not a contradiction, and it might reveal a fundamental limit of today's language models.\nThe article LLMs crush coding and math but choke on casual questions, and that's not a contradiction appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/llms-crush-coding-and-math-but-choke-on-casual-questions-and-thats-not-a-contradiction/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 10 Apr 2026 11:23:41 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-007",
+        "title": "OpenAI is building a cybersecurity product for a select group of companies",
+        "summary": "According to Axios, OpenAI is working on a new cybersecurity product that will only be available to a small group of companies.\nThe article OpenAI is building a cybersecurity product for a select group of companies appeared first on The Decoder.",
+        "content": "According to Axios, OpenAI is working on a new cybersecurity product that will only be available to a small group of companies.\nThe article OpenAI is building a cybersecurity product for a select group of companies appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/openai-is-building-a-cybersecurity-product-for-a-select-group-of-companies/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 10 Apr 2026 09:06:26 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-008",
+        "title": "Claude Cowork expands to all paid plans on macOS and Windows with new org controls",
+        "summary": "Anthropic's AI assistant Claude Cowork launches on all paid plans with new organizational controls and Zoom integration.\nThe article Claude Cowork expands to all paid plans on macOS and Windows with new org controls appeared first on The Decoder.",
+        "content": "Anthropic's AI assistant Claude Cowork launches on all paid plans with new organizational controls and Zoom integration.\nThe article Claude Cowork expands to all paid plans on macOS and Windows with new org controls appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/claude-cowork-expands-to-all-paid-plans-on-macos-and-windows-with-new-org-controls/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 09 Apr 2026 18:40:08 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-009",
+        "title": "OpenAI halves its Pro price to $100 for heavy Codex users, undercuts Anthropic and Google",
+        "summary": "OpenAI is restructuring its subscription tiers with a new $100-per-month Pro plan. The biggest change: significantly more Codex usage for heavy users at half the price of the old Pro tier.\nThe article OpenAI halves its Pro price to $100 for heavy Cod",
+        "content": "OpenAI is restructuring its subscription tiers with a new $100-per-month Pro plan. The biggest change: significantly more Codex usage for heavy users at half the price of the old Pro tier.\nThe article OpenAI halves its Pro price to $100 for heavy Codex users, undercuts Anthropic and Google appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/openai-halves-its-pro-price-to-100-for-heavy-codex-users-undercuts-anthropic-and-google/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 09 Apr 2026 18:06:29 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-010",
+        "title": "Google Gemini now generates interactive visualizations you can tweak and explore right in the chat",
+        "summary": "After Anthropic's Claude, Google Gemini now also generates interactive visualizations directly in the chat.\nThe article Google Gemini now generates interactive visualizations you can tweak and explore right in the chat appeared first on The Decoder.",
+        "content": "After Anthropic's Claude, Google Gemini now also generates interactive visualizations directly in the chat.\nThe article Google Gemini now generates interactive visualizations you can tweak and explore right in the chat appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/google-gemini-now-generates-interactive-visualizations-you-can-tweak-and-explore-right-in-the-chat/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 09 Apr 2026 16:50:39 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      }
+    ],
+    "research": [
+      {
+        "id": "AI-011",
+        "title": "Constellations",
+        "summary": "I. We had crash-landed on the planet. We were far from home. The spaceship could not be repaired, and the rescue beacon had failed. Besides me, only the astrogator, part of the captain, and the ship’s AI mind were left.  Outside, the atmosphere regis",
+        "content": "I. We had crash-landed on the planet. We were far from home. The spaceship could not be repaired, and the rescue beacon had failed. Besides me, only the astrogator, part of the captain, and the ship’s AI mind were left.  Outside, the atmosphere registered as hostile to most organisms. We huddled in the lifeboat, which…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/04/10/1135106/jeff-vandermeer-constellations-science-fiction/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 10 Apr 2026 10:00:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-012",
+        "title": "The Download: AstroTurf wars and exponential AI growth",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Is fake grass a bad idea? The AstroTurf wars are far from over.  In 2001, Americans installed just over 7 millio",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Is fake grass a bad idea? The AstroTurf wars are far from over.  In 2001, Americans installed just over 7 million square meters of synthetic turf. By 2024, that number was 79 million square meters—enough to carpet all of Manhattan and then some. The…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 09 Apr 2026 12:25:10 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-013",
+        "title": "High-Precision Estimation of the State-Space Complexity of Shogi via the Monte Carlo Method",
+        "summary": "arXiv:2604.06189v1 Announce Type: new \nAbstract: Determining the state-space complexity of the game of Shogi (Japanese Chess) has been a challenging problem, with previous combinatorial estimates leaving a gap of five orders of magnitude ($10^{64}$ t",
+        "content": "arXiv:2604.06189v1 Announce Type: new \nAbstract: Determining the state-space complexity of the game of Shogi (Japanese Chess) has been a challenging problem, with previous combinatorial estimates leaving a gap of five orders of magnitude ($10^{64}$ to $10^{69}$). This large gap arises from the difficulty of distinguishing Shogi positions legally reachable from the initial position among the vast number of valid board configurations. In this paper, we present a high-precision statistical estimati",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2604.06189",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 10 Apr 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ]
+      },
+      {
+        "id": "AI-014",
+        "title": "Blind Refusal: Language Models Refuse to Help Users Evade Unjust, Absurd, and Illegitimate Rules",
+        "summary": "arXiv:2604.06233v1 Announce Type: new \nAbstract: Safety-trained language models routinely refuse requests for help circumventing rules. But not all rules deserve compliance. When users ask for help evading rules imposed by an illegitimate authority, ",
+        "content": "arXiv:2604.06233v1 Announce Type: new \nAbstract: Safety-trained language models routinely refuse requests for help circumventing rules. But not all rules deserve compliance. When users ask for help evading rules imposed by an illegitimate authority, rules that are deeply unjust or absurd in their content or application, or rules that admit of justified exceptions, refusal is a failure of moral reasoning. We introduce empirical results documenting this pattern of refusal that we call blind refusa",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2604.06233",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 10 Apr 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ]
+      },
+      {
+        "id": "AI-015",
+        "title": "Toward Reducing Unproductive Container Moves: Predicting Service Requirements and Dwell Times",
+        "summary": "arXiv:2604.06251v1 Announce Type: new \nAbstract: This article presents the results of a data science study conducted at a container terminal, aimed at reducing unproductive container moves through the prediction of service requirements and container ",
+        "content": "arXiv:2604.06251v1 Announce Type: new \nAbstract: This article presents the results of a data science study conducted at a container terminal, aimed at reducing unproductive container moves through the prediction of service requirements and container dwell times. We develop and evaluate machine learning models that leverage historical operational data to anticipate which containers will require pre-clearance handling services prior to cargo release and to estimate how long they are expected to re",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2604.06251",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 10 Apr 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ]
+      }
+    ],
+    "applications": [],
+    "business": [
+      {
+        "id": "AI-016",
+        "title": "The Tech Download: Reputational damage, supply chain issues and local investment. What's next for Middle East tech?",
+        "summary": "A two-week ceasefire was agreed between the U.S. and Iran on Wednesday, prompting hopes of the beginnings of the end of the conflict.",
+        "content": "A two-week ceasefire was agreed between the U.S. and Iran on Wednesday, prompting hopes of the beginnings of the end of the conflict.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/04/10/tech-download-iran-war-whats-next-helium-chips.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 10 Apr 2026 11:00:01 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-017",
+        "title": "Alibaba just revealed it’s behind a viral AI video model dominating leaderboards",
+        "summary": "A mysterious AI video model that has ascended global leaderboards has been confirmed as a project under Alibaba.",
+        "content": "A mysterious AI video model that has ascended global leaderboards has been confirmed as a project under Alibaba.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/04/10/alibaba-happyhorse-ai-video-model-benchmark-reveal.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 10 Apr 2026 08:56:23 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-018",
+        "title": "TSMC posts 35% jump in revenue to new record high as AI chip demand stays strong",
+        "summary": "TSMC is benefiting from sustained demand for advanced semiconductors from its key customers like Apple and Nvidia.",
+        "content": "TSMC is benefiting from sustained demand for advanced semiconductors from its key customers like Apple and Nvidia.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/04/10/tsmc-q1-record-revenue-ai-chip-demand-strong.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 10 Apr 2026 08:13:07 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-019",
+        "title": "The Trump administration is getting angry as EU Big Tech fines top $7 billion in 2 years",
+        "summary": "The European Commission and Trump administration are increasingly clashing over the bloc's actions against U.S. tech companies.",
+        "content": "The European Commission and Trump administration are increasingly clashing over the bloc's actions against U.S. tech companies.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/04/10/google-meta-big-tech-6-billion-euros-eu-fine.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 10 Apr 2026 05:00:01 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-020",
+        "title": "Alibaba leads $290 million investment for building a new kind of AI model as LLM limits emerge",
+        "summary": "Startup Shengshu plans to use the money for a \"general world model,\" paving the way for more practical robot applications.",
+        "content": "Startup Shengshu plans to use the money for a \"general world model,\" paving the way for more practical robot applications.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/04/10/alibaba-cloud-invests-world-model-ai-shengshu-vidu.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 10 Apr 2026 02:00:43 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      }
+    ],
+    "policy": [
+      {
+        "id": "AI-021",
+        "title": "Volkswagen to End E.V. Production at Tennessee Plant",
+        "summary": "The German carmaker is the latest to scale back plans for electric vehicles in favor of gasoline models.",
+        "content": "The German carmaker is the latest to scale back plans for electric vehicles in favor of gasoline models.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/04/09/business/volkswagen-electric-vehicles-id4-chattanooga.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 09 Apr 2026 17:58:52 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-022",
+        "title": "Half of Gen Z Uses AI, but Their Feelings Are Souring, Study Shows",
+        "summary": "A new study from Gallup found that young adults have grown less hopeful and more angry about artificial intelligence.",
+        "content": "A new study from Gallup found that young adults have grown less hopeful and more angry about artificial intelligence.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 09 Apr 2026 16:01:35 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-023",
+        "title": "How A.I. Helped One Man (and His Brother) Build a $1.8 Billion Company",
+        "summary": "Who needs more than two employees when artificial intelligence can do so many corporate tasks? It’s super efficient — and a little bit lonely.",
+        "content": "Who needs more than two employees when artificial intelligence can do so many corporate tasks? It’s super efficient — and a little bit lonely.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 09 Apr 2026 21:52:09 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-024",
+        "title": "NASA’s Artemis II crew is expected to splash down Friday evening ",
+        "summary": "Reentry is one of the most intense phases of space missions, and the return of the Artemis astronauts will be a test of their spacecraft’s heat shield.",
+        "content": "Reentry is one of the most intense phases of space missions, and the return of the Artemis astronauts will be a test of their spacecraft’s heat shield.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.washingtonpost.com/science/2026/04/10/artemis-splashdown-nasa-astronauts-return/",
+        "sourceName": "Washington Post Tech",
+        "tags": [
+          "Washington Post Tech"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 10 Apr 2026 09:00:00 +0000",
+        "normalizedTags": [
+          "washington post tech"
+        ]
+      }
+    ],
+    "concerns": [],
+    "culture": [
+      {
+        "id": "AI-025",
+        "title": "US summons bank bosses over cyber risks from Anthropic’s latest AI model",
+        "summary": "Fed chair Jerome Powell reportedly attends meeting in Washington following release of Claude Mythos\nThe US Treasury secretary, Scott Bessent, summoned major American bank chiefs to a meeting in Washington this week amid concerns over the cyber risks ",
+        "content": "Fed chair Jerome Powell reportedly attends meeting in Washington following release of Claude Mythos\nThe US Treasury secretary, Scott Bessent, summoned major American bank chiefs to a meeting in Washington this week amid concerns over the cyber risks posed by Anthropic’s latest AI model, according to reports.\nJerome Powell, chair of the Rederal Reserve, was said to have been among those gathered at the Treasury headquarters for the meeting after the release of the Claude Mythos AI model that Anth",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 10 Apr 2026 08:16:02 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-026",
+        "title": "AI products are reaching further into our lives. Does it matter who controls the companies behind them? | Van Badham",
+        "summary": "Every organisation needs guardrails that channel them away from human fallibility and collectively minimise the harm they can do\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\n\n\nT",
+        "content": "Every organisation needs guardrails that channel them away from human fallibility and collectively minimise the harm they can do\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\n\n\nThe joke on the internet asks: “What are the seven most terrifying words in the English language?” The answer: “Ronan Farrow’s been asking questions about you.”\nThe investigative journalist has a piece in The New Yorker this week, where the subject of",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/commentisfree/2026/apr/10/ai-companies-owners-openai-chatgpt-sam-altman",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 10 Apr 2026 07:20:05 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-027",
+        "title": "I baulked at the idea of ‘friction-maxxing’. But there’s more to it than meets the eye | Gaby Hinsliff",
+        "summary": "Self-help hacks such as ‘cooking from scratch’ or ‘meeting your friends’ may seem ridiculous. But there’s something deeply human at the heart of this trend\nDoes life, of late, feel just too easy? Are you keen to make it harder than it already is? If ",
+        "content": "Self-help hacks such as ‘cooking from scratch’ or ‘meeting your friends’ may seem ridiculous. But there’s something deeply human at the heart of this trend\nDoes life, of late, feel just too easy? Are you keen to make it harder than it already is? If that sounds like a genuinely demented question in the week that the world came close to threatened Armageddon, then fair enough. I bridled too when I read last week about friction-maxxing, the supposed trend for doing things in slightly more effortfu",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/commentisfree/2026/apr/09/friction-maxxing-self-help-hacks-cooking-from-scratch-friends-human",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 10 Apr 2026 06:00:10 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-028",
+        "title": "Elon Musk’s xAI sues Colorado over new rules for artificial intelligence",
+        "summary": "Company claims law regulating AI systems, set to go into effect in June, infringes on its first amendment rights\nElon Musk’s artificial intelligence company, xAI, has filed a lawsuit against the state of Colorado over a new AI law set to take effect ",
+        "content": "Company claims law regulating AI systems, set to go into effect in June, infringes on its first amendment rights\nElon Musk’s artificial intelligence company, xAI, has filed a lawsuit against the state of Colorado over a new AI law set to take effect in June.\nThe suit seeks to block the state from enforcing the law, which would impose new requirements on AI systems to protect state residents from “algorithmic discrimination” in sectors such as education, employment, healthcare, housing and financ",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/apr/09/elon-musk-xai-colorado-lawsuit",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 10 Apr 2026 00:52:48 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-029",
+        "title": "US defense official overseeing AI reaped millions selling xAI stock after Pentagon entered agreement with company",
+        "summary": "Expert said federal law bars officials from taking actions in their jobs that benefit their own financial interests\nA high-profile US defense department official who oversees the agency’s artificial intelligence efforts made a profit of up to $24m se",
+        "content": "Expert said federal law bars officials from taking actions in their jobs that benefit their own financial interests\nA high-profile US defense department official who oversees the agency’s artificial intelligence efforts made a profit of up to $24m selling a private investment he held in Elon Musk’s AI company earlier this year, according to government ethics records released this month. The value of his stake totaled a maximum of a million dollars when he joined the department.\nEmil Michael, who",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/09/pentagon-ai-xai-emil-michael",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 09 Apr 2026 19:35:29 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      }
+    ]
+  },
+  "quote": {
+    "text": "The best way to predict the future is to invent it.",
+    "author": "Alan Kay",
+    "authorTitle": "Computer Scientist"
+  },
+  "sources": [
+    "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
+    "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
+    "https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/",
+    "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/",
+    "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
+    "https://the-decoder.com/llms-crush-coding-and-math-but-choke-on-casual-questions-and-thats-not-a-contradiction/",
+    "https://the-decoder.com/openai-is-building-a-cybersecurity-product-for-a-select-group-of-companies/",
+    "https://the-decoder.com/claude-cowork-expands-to-all-paid-plans-on-macos-and-windows-with-new-org-controls/",
+    "https://the-decoder.com/openai-halves-its-pro-price-to-100-for-heavy-codex-users-undercuts-anthropic-and-google/",
+    "https://the-decoder.com/google-gemini-now-generates-interactive-visualizations-you-can-tweak-and-explore-right-in-the-chat/",
+    "https://www.technologyreview.com/2026/04/10/1135106/jeff-vandermeer-constellations-science-fiction/",
+    "https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/",
+    "https://arxiv.org/abs/2604.06189",
+    "https://arxiv.org/abs/2604.06233",
+    "https://arxiv.org/abs/2604.06251",
+    "https://www.cnbc.com/2026/04/10/tech-download-iran-war-whats-next-helium-chips.html",
+    "https://www.cnbc.com/2026/04/10/alibaba-happyhorse-ai-video-model-benchmark-reveal.html",
+    "https://www.cnbc.com/2026/04/10/tsmc-q1-record-revenue-ai-chip-demand-strong.html",
+    "https://www.cnbc.com/2026/04/10/google-meta-big-tech-6-billion-euros-eu-fine.html",
+    "https://www.cnbc.com/2026/04/10/alibaba-cloud-invests-world-model-ai-shengshu-vidu.html",
+    "https://www.nytimes.com/2026/04/09/business/volkswagen-electric-vehicles-id4-chattanooga.html",
+    "https://www.nytimes.com/2026/04/09/style/gen-z-ai-gallup-study.html",
+    "https://www.nytimes.com/2026/04/02/technology/ai-billion-dollar-company-medvi.html",
+    "https://www.washingtonpost.com/science/2026/04/10/artemis-splashdown-nasa-astronauts-return/",
+    "https://www.theguardian.com/technology/2026/apr/10/us-summoned-bank-bosses-to-discuss-cyber-risks-posed-by-anthropic-latest-ai-model",
+    "https://www.theguardian.com/commentisfree/2026/apr/10/ai-companies-owners-openai-chatgpt-sam-altman",
+    "https://www.theguardian.com/commentisfree/2026/apr/09/friction-maxxing-self-help-hacks-cooking-from-scratch-friends-human",
+    "https://www.theguardian.com/technology/2026/apr/09/elon-musk-xai-colorado-lawsuit",
+    "https://www.theguardian.com/us-news/2026/apr/09/pentagon-ai-xai-emil-michael"
+  ],
+  "generatedAt": "2026-04-10T11:44:23.112Z"
+}
