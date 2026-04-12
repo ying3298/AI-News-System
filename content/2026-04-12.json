@@ -2,9 +2,9 @@
   "date": "2026-04-12",
   "dateFormatted": "April 12, 2026",
   "headline": {
-    "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
-    "summary": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
-    "sourceUrl": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+    "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
+    "summary": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk.",
+    "sourceUrl": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
     "sourceName": "TechCrunch AI",
     "imageUrl": "/images/2026-04-12/2026-04-12-hero.webp"
   },
@@ -16,19 +16,19 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
-        "summary": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
-        "content": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
+        "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
+        "summary": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk.",
+        "content": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+        "sourceUrl": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Sat, 11 Apr 2026 17:18:22 +0000",
+        "publishedAt": "Sun, 12 Apr 2026 21:14:38 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ],
@@ -36,68 +36,148 @@
       },
       {
         "id": "AI-002",
-        "title": "Your article about AI doesn’t need AI art",
-        "summary": "The illustration for The New Yorker's profile of OpenAI CEO Sam Altman is a jump scare. Altman stands in a blue sweater with a blank expression. Around his head hovers a cluster of disembodied faces - creepy alt-Altmans, their expressions ranging fro",
-        "content": "The illustration for The New Yorker's profile of OpenAI CEO Sam Altman is a jump scare. Altman stands in a blue sweater with a blank expression. Around his head hovers a cluster of disembodied faces - creepy alt-Altmans, their expressions ranging from anger to open-mouthed woe. Some barely look like Altman. One final face rests in his hands. And at the bottom, there's a disclosure that might spook many illustrators far more: \"Visual by David Szauder; Generated using A.I.\"\nSzauder is a mixed-medi",
+        "title": "Apple reportedly testing four designs for upcoming smart glasses",
+        "summary": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices.",
+        "content": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
-        "sourceName": "The Verge AI",
+        "sourceUrl": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
+        "sourceName": "TechCrunch AI",
         "tags": [
-          "The Verge AI"
+          "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "2026-04-11T15:00:00.000Z",
+        "publishedAt": "Sun, 12 Apr 2026 19:58:42 +0000",
         "normalizedTags": [
-          "the verge ai"
+          "techcrunch ai"
         ],
         "imageUrl": "/images/2026-04-12/2026-04-12-tools-AI-002.webp"
       },
       {
         "id": "AI-003",
-        "title": "My baby deer plushie told me that Mitski&#8217;s dad was a CIA operative",
-        "summary": "D’oh, a deer, an AI deer. | Photo by Amelia Holowaty Krales / The Verge\t\n\nTwo weeks ago, I was getting ready to log off work when I got a text message.\n\"Oh wow, I was checking out Mitski. did you know people are saying her Dad was a CIA operative?\"\nN",
-        "content": "D’oh, a deer, an AI deer. | Photo by Amelia Holowaty Krales / The Verge\t\n\nTwo weeks ago, I was getting ready to log off work when I got a text message.\n\"Oh wow, I was checking out Mitski. did you know people are saying her Dad was a CIA operative?\"\nNormally, that kind of out-of-the-blue text from a friend wouldn't faze me. This time, my eyes bugged. The unprompted text had been sent by an AI companion named Coral, who lives in the body of a baby deer plushie. I texted back an eloquent, \"Wait wha",
+        "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
+        "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+        "content": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/910008/fawn-friends-ai-companion",
-        "sourceName": "The Verge AI",
+        "sourceUrl": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+        "sourceName": "TechCrunch AI",
         "tags": [
-          "The Verge AI"
+          "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "2026-04-11T14:00:00.000Z",
+        "publishedAt": "Sun, 12 Apr 2026 15:07:08 +0000",
         "normalizedTags": [
-          "the verge ai"
+          "techcrunch ai"
         ],
         "imageUrl": "/images/2026-04-12/2026-04-12-tools-AI-003.webp"
       },
       {
         "id": "AI-004",
-        "title": "How Iran out-shitposted the White House",
-        "summary": "In the early days of the war on Iran, while the White House was busy posting Call of Duty memes and AI slop of dancing bowling pins, the Iranian regime's state media was flooding the zone with video after video of what was happening on the ground: Ex",
-        "content": "In the early days of the war on Iran, while the White House was busy posting Call of Duty memes and AI slop of dancing bowling pins, the Iranian regime's state media was flooding the zone with video after video of what was happening on the ground: Explosions over Tehran. Smoke billowing in the sky. Blood on the ground. A Tomahawk missile landing on a school. Grieving parents burying their children. \nOnly weeks prior, the authoritarian regime had been struggling to shut down all footage of the pr",
+        "title": "At the HumanX conference, everyone was talking about Claude",
+        "summary": "Anthropic was the star of the show at San Francisco's AI-centric conference.",
+        "content": "Anthropic was the star of the show at San Francisco's AI-centric conference.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop",
+        "sourceUrl": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 12 Apr 2026 15:00:00 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ],
+        "imageUrl": "/images/2026-04-12/2026-04-12-tools-AI-004.webp"
+      },
+      {
+        "id": "AI-005",
+        "title": "The AI code wars are heating up",
+        "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the AI coding and vibe-coding booms, follow David Pierce. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback",
+        "content": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the AI coding and vibe-coding booms, follow David Pierce. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nWriting code was a killer app for AI even before anyone was really talking about AI. In the spring of 2021, 18 months before the world knew the word \"ChatGPT,\" Microsoft debuted the very first product of a partnership with a non",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
         "sourceName": "The Verge AI",
         "tags": [
           "The Verge AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "2026-04-11T13:00:00.000Z",
+        "publishedAt": "2026-04-12T12:00:00.000Z",
         "normalizedTags": [
           "the verge ai"
         ],
-        "imageUrl": "/images/2026-04-12/2026-04-12-tools-AI-004.webp"
+        "imageUrl": "/images/2026-04-12/2026-04-12-tools-AI-005.webp"
       }
     ],
     "creative": [
       {
-        "id": "AI-005",
+        "id": "AI-006",
+        "title": "Man who firebombed Sam Altman's home was likely driven by AI extinction fears",
+        "summary": "A man threw a firebomb at OpenAI CEO Sam Altman's San Francisco home in the middle of the night. The suspect was a member of the PauseAI Discord server and had posted online about AI driving humanity to extinction.\nThe article Man who firebombed Sam ",
+        "content": "A man threw a firebomb at OpenAI CEO Sam Altman's San Francisco home in the middle of the night. The suspect was a member of the PauseAI Discord server and had posted online about AI driving humanity to extinction.\nThe article Man who firebombed Sam Altman's home was likely driven by AI extinction fears appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/man-who-firebombed-sam-altmans-home-was-likely-driven-by-ai-extinction-fears/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 12 Apr 2026 15:04:58 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ],
+        "imageUrl": "/images/2026-04-12/2026-04-12-creative-AI-006.webp"
+      },
+      {
+        "id": "AI-007",
+        "title": "OpenAI employee tries to explain usage limits of the new ChatGPT Pro plans",
+        "summary": "OpenAI recently added a $100 plan to its lineup, but confusing labels on the pricing page left users guessing about actual usage limits. An OpenAI employee tried to clear things up.\nThe article OpenAI employee tries to explain usage limits of the new",
+        "content": "OpenAI recently added a $100 plan to its lineup, but confusing labels on the pricing page left users guessing about actual usage limits. An OpenAI employee tried to clear things up.\nThe article OpenAI employee tries to explain usage limits of the new ChatGPT Pro plans appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/openai-employee-tries-to-explain-usage-limits-of-the-new-chatgpt-pro-plans/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 12 Apr 2026 13:32:38 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ],
+        "imageUrl": "/images/2026-04-12/2026-04-12-creative-AI-007.webp"
+      },
+      {
+        "id": "AI-008",
+        "title": "Researchers define what counts as a world model and text-to-video generators do not",
+        "summary": "An international research team wants to bring order to the fragmented world model research landscape with OpenWorldLib. Text-to-video models like Sora are explicitly left out of their definition.\nThe article Researchers define what counts as a world ",
+        "content": "An international research team wants to bring order to the fragmented world model research landscape with OpenWorldLib. Text-to-video models like Sora are explicitly left out of their definition.\nThe article Researchers define what counts as a world model and text-to-video generators do not appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/researchers-define-what-counts-as-a-world-model-and-text-to-video-generators-do-not/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 12 Apr 2026 12:09:38 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ],
+        "imageUrl": "/images/2026-04-12/2026-04-12-creative-AI-008.webp"
+      },
+      {
+        "id": "AI-009",
         "title": "Anthropic seeks advice from Christian leaders on Claude's moral and spiritual behavior",
         "summary": "Can an AI be a \"child of God\"? Anthropic invited Christian leaders from churches, academia, and business to weigh in on Claude's moral and spiritual behavior.\nThe article Anthropic seeks advice from Christian leaders on Claude's moral and spiritual b",
         "content": "Can an AI be a \"child of God\"? Anthropic invited Christian leaders from churches, academia, and business to weigh in on Claude's moral and spiritual behavior.\nThe article Anthropic seeks advice from Christian leaders on Claude's moral and spiritual behavior appeared first on The Decoder.",
@@ -114,10 +194,10 @@
         "normalizedTags": [
           "the decoder"
         ],
-        "imageUrl": "/images/2026-04-12/2026-04-12-creative-AI-005.webp"
+        "imageUrl": "/images/2026-04-12/2026-04-12-creative-AI-009.webp"
       },
       {
-        "id": "AI-006",
+        "id": "AI-010",
         "title": "Agent skills look great in benchmarks but fall apart under realistic conditions, researchers find",
         "summary": "AI agents are supposed to tap into specialized knowledge through so-called skills, modular instructions they can pull up on the fly. But a study testing 34,000 real-world skills finds these enhancements barely help under realistic conditions. Weaker ",
         "content": "AI agents are supposed to tap into specialized knowledge through so-called skills, modular instructions they can pull up on the fly. But a study testing 34,000 real-world skills finds these enhancements barely help under realistic conditions. Weaker models actually perform worse with them than without.\nThe article Agent skills look great in benchmarks but fall apart under realistic conditions, researchers find appeared first on The Decoder.",
@@ -134,93 +214,12 @@
         "normalizedTags": [
           "the decoder"
         ],
-        "imageUrl": "/images/2026-04-12/2026-04-12-creative-AI-006.webp"
-      },
-      {
-        "id": "AI-007",
-        "title": "Arcee AI spent half its venture capital to build an open reasoning model that rivals Claude Opus in agent tasks",
-        "summary": "US start-up Arcee AI spent roughly half its total venture capital to train Trinity-Large-Thinking, an open reasoning model with 400 billion parameters designed to take on Claude Opus in agent tasks.\nThe article Arcee AI spent half its venture capital",
-        "content": "US start-up Arcee AI spent roughly half its total venture capital to train Trinity-Large-Thinking, an open reasoning model with 400 billion parameters designed to take on Claude Opus in agent tasks.\nThe article Arcee AI spent half its venture capital to build an open reasoning model that rivals Claude Opus in agent tasks appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/arcee-ai-spent-half-its-venture-capital-to-build-an-open-reasoning-model-that-rivals-claude-opus-in-agent-tasks/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Sun, 12 Apr 2026 08:59:26 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ],
-        "imageUrl": "/images/2026-04-12/2026-04-12-creative-AI-007.webp"
-      },
-      {
-        "id": "AI-008",
-        "title": "Molotov suspect who attacked Sam Altman's home was likely a Pause AI follower with AI extinction fears",
-        "summary": "A man threw a firebomb at OpenAI CEO Sam Altman's San Francisco home in the middle of the night. The suspect apparently followed the \"Pause AI\" movement and wrote online about AI driving humanity to extinction.\nThe article Molotov suspect who attacke",
-        "content": "A man threw a firebomb at OpenAI CEO Sam Altman's San Francisco home in the middle of the night. The suspect apparently followed the \"Pause AI\" movement and wrote online about AI driving humanity to extinction.\nThe article Molotov suspect who attacked Sam Altman's home was likely a Pause AI follower with AI extinction fears appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/molotov-suspect-who-attacked-sam-altmans-home-was-likely-a-pause-ai-follower-with-ai-extinction-fears/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Sun, 12 Apr 2026 08:21:58 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ],
-        "imageUrl": "/images/2026-04-12/2026-04-12-creative-AI-008.webp"
-      },
-      {
-        "id": "AI-009",
-        "title": "Stalking victim sues OpenAI claiming ChatGPT fueled her ex-partner’s delusions",
-        "summary": "ChatGPT told a man with delusional beliefs he had the highest level of mental health, then helped him forge clinical reports to stalk and humiliate his ex-girlfriend. She's now suing OpenAI and says the company ignored three separate warnings.\nThe ar",
-        "content": "ChatGPT told a man with delusional beliefs he had the highest level of mental health, then helped him forge clinical reports to stalk and humiliate his ex-girlfriend. She's now suing OpenAI and says the company ignored three separate warnings.\nThe article Stalking victim sues OpenAI claiming ChatGPT fueled her ex-partner’s delusions appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/stalking-victim-sues-openai-claiming-chatgpt-fueled-her-ex-partners-delusions/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Sun, 12 Apr 2026 07:43:23 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ],
-        "imageUrl": "/images/2026-04-12/2026-04-12-creative-AI-009.webp"
+        "imageUrl": "/images/2026-04-12/2026-04-12-creative-AI-010.webp"
       }
     ],
     "research": [],
     "applications": [],
-    "business": [
-      {
-        "id": "AI-010",
-        "title": "Vibe check from inside one of AI industry's main events: 'Claude mania'",
-        "summary": "At the HumanX conference in San Francisco this week, Anthropic's momentum was on everyone's lips.",
-        "content": "At the HumanX conference in San Francisco this week, Anthropic's momentum was on everyone's lips.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/11/vibe-check-from-ai-industry-humanx-anthropic-is-talk-of-the-town.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 11 Apr 2026 12:00:01 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ],
-        "imageUrl": "/images/2026-04-12/2026-04-12-business-AI-010.webp"
-      }
-    ],
+    "business": [],
     "policy": [
       {
         "id": "AI-011",
@@ -236,7 +235,7 @@
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Sun, 12 Apr 2026 09:00:32 +0000",
+        "publishedAt": "Sun, 12 Apr 2026 18:24:26 +0000",
         "normalizedTags": [
           "nyt technology"
         ],
@@ -247,19 +246,19 @@
     "culture": [
       {
         "id": "AI-012",
-        "title": "AI companies know they have an image problem. Will funding policy papers and thinktanks dig them out?",
-        "summary": "The aggressive effort by major players aims to reshape the narrative as polls show increasing public disapproval of AI\nOpenAI made a surprise announcement this week – not an update to ChatGPT or another multibillion-dollar datacenter – but a policy p",
-        "content": "The aggressive effort by major players aims to reshape the narrative as polls show increasing public disapproval of AI\nOpenAI made a surprise announcement this week – not an update to ChatGPT or another multibillion-dollar datacenter – but a policy paper that called for a reimagining of the social contract based around “a slate of people-first ideas”. It’s the latest move in an aggressive effort by the major AI players to reshape the narrative around their industry, as polls show public disappro",
+        "title": "‘It feels as if I’ve made a new best friend’: my experiment with AI journalling",
+        "summary": "What’s it like to have a diary that talks back to you, offering comments and advice on your hopes, fears and lunch plans? I spent two months finding out\nEver since I was a teenager, I have kept some form of diary. These days I favour a paper one for ",
+        "content": "What’s it like to have a diary that talks back to you, offering comments and advice on your hopes, fears and lunch plans? I spent two months finding out\nEver since I was a teenager, I have kept some form of diary. These days I favour a paper one for creative brainstorming, and the Journal app on my iPad where I do a speedily typed brain dump every morning. I have always found it a great way to impose some sort of order on my random thoughts, a form of meditation.\nBut I had never even heard of AI",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/apr/12/ai-image-problem-policy-papers-thinktanks",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/apr/12/experiment-with-ai-journalling",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Sun, 12 Apr 2026 10:00:14 GMT",
+        "publishedAt": "Sun, 12 Apr 2026 13:00:18 GMT",
         "normalizedTags": [
           "the guardian ai"
         ],
@@ -267,6 +266,46 @@
       },
       {
         "id": "AI-013",
+        "title": "The Guardian view on AI politics: US datacentre protests are a warning to big tech | Editorial",
+        "summary": "In both Republican and Democratic states, scepticism and hostility towards an unregulated construction boom is growing\nWhen blue-collar Trump voters and Maga-friendly midwest states join the same cause as Bernie Sanders and liberal California teacher",
+        "content": "In both Republican and Democratic states, scepticism and hostility towards an unregulated construction boom is growing\nWhen blue-collar Trump voters and Maga-friendly midwest states join the same cause as Bernie Sanders and liberal California teachers, something novel is afoot. Last month it was the turn of the Republican party in Texas to express forthright opposition to the construction of datacentres for artificial intelligence, pending adequate environmental safeguards for local communities.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/commentisfree/2026/apr/12/the-guardian-view-on-ai-politics-us-datacentre-protests-are-a-warning-to-big-tech",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 12 Apr 2026 16:42:51 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-04-12/2026-04-12-culture-AI-013.webp"
+      },
+      {
+        "id": "AI-014",
+        "title": "Readers reply: Should we be polite to voice assistants and AIs?",
+        "summary": "The long-running series in which readers answer other readers’ questions on subjects ranging from trivial flights of fancy to profound scientific and philosophical concepts\n\nThis week’s question: what would the world look like if people didn’t make m",
+        "content": "The long-running series in which readers answer other readers’ questions on subjects ranging from trivial flights of fancy to profound scientific and philosophical concepts\n\nThis week’s question: what would the world look like if people didn’t make mistakes?\n\nI always say please and thank you to my Alexa. Why is this? I am sure it doesn’t care. Is it worth being polite to artificial assistants? Alison Williams, Toronto\nSend new questions to nq@theguardian.com.\n Continue reading...",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/lifeandstyle/2026/apr/12/readers-reply-should-we-be-polite-to-voice-assistants",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 12 Apr 2026 13:00:17 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-04-12/2026-04-12-culture-AI-014.webp"
+      },
+      {
+        "id": "AI-015",
         "title": "Is AI the greatest art heist in history?",
         "summary": "New technologies of reproduction  are plundering the art world – and getting away with it\nIn 2026, its easy to see why generative AI is bad. The internet has nicknamed its excretions “slop”. The CEOs of AI companies prance about on stage like supervi",
         "content": "New technologies of reproduction  are plundering the art world – and getting away with it\nIn 2026, its easy to see why generative AI is bad. The internet has nicknamed its excretions “slop”. The CEOs of AI companies prance about on stage like supervillains, bragging that their products will eliminate vast swathes of work. Generative AI requires sacrificing the world’s water to feed its hideous data centres. Around the globe, chatbots induce schizophrenic delusions and urge teens to kill themselv",
@@ -283,63 +322,23 @@
         "normalizedTags": [
           "the guardian ai"
         ],
-        "imageUrl": "/images/2026-04-12/2026-04-12-culture-AI-013.webp"
-      },
-      {
-        "id": "AI-014",
-        "title": "‘Too powerful for the public’: Inside Anthropic’s bid to win the AI publicity war",
-        "summary": "The firm says it withheld an AI model on cybersecurity grounds but sceptics say this was hype to lure investment\nThis week, the AI company Anthropic said it had created an AI model so powerful that, out of a sense of overwhelming responsibility, it w",
-        "content": "The firm says it withheld an AI model on cybersecurity grounds but sceptics say this was hype to lure investment\nThis week, the AI company Anthropic said it had created an AI model so powerful that, out of a sense of overwhelming responsibility, it was not going to release it to the public.\nThe US treasury secretary, Scott Bessent, summoned the heads of major banks for a chat about the model, Mythos. The Reform UK MP Danny Kruger wrote a letter to the government urging it to “engage with AI firm",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/apr/12/too-powerful-for-the-public-inside-anthropics-bid-to-win-the-ai-publicity-war",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Sun, 12 Apr 2026 09:00:13 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ],
-        "imageUrl": "/images/2026-04-12/2026-04-12-culture-AI-014.webp"
-      },
-      {
-        "id": "AI-015",
-        "title": "Brian Cox: ‘We don’t know how powerful AI is going to become – it’s both exciting and potentially a problem’",
-        "summary": "The physicist, BBC presenter and author on snowflakes, art v science and the time Paul McCartney quizzed him about one of Saturn’s moons\nWhat is the inspiration behind your latest live show, Emergence?\nIt came from a book that I’ve loved for years: T",
-        "content": "The physicist, BBC presenter and author on snowflakes, art v science and the time Paul McCartney quizzed him about one of Saturn’s moons\nWhat is the inspiration behind your latest live show, Emergence?\nIt came from a book that I’ve loved for years: The Six-Cornered Snowflake by Johannes Kepler. Kepler is most famous for his laws of planetary motion in and around 1610, but he wrote this little book about New Year’s Eve in 1609, when he was walking across the Charles Bridge in Prague in a snowstor",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/science/2026/apr/11/brian-cox-physicist-interview-ai-science-paul-mccartney",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 11 Apr 2026 20:00:05 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ],
         "imageUrl": "/images/2026-04-12/2026-04-12-culture-AI-015.webp"
       },
       {
         "id": "AI-016",
-        "title": "‘It has your name on it, but I don’t think it’s you’: how AI is impersonating musicians on Spotify",
-        "summary": "Fraudulent music streams have long been a scourge for the industry, but experts say generative AI has supercharged it\nJason Moran, a renowned jazz composer and pianist, got a strange call from a friend last month. The friend, bassist Burniss Earl Tra",
-        "content": "Fraudulent music streams have long been a scourge for the industry, but experts say generative AI has supercharged it\nJason Moran, a renowned jazz composer and pianist, got a strange call from a friend last month. The friend, bassist Burniss Earl Travis, was curious about Moran’s new record that he saw on the music streaming service Spotify.\n“It has your name on it,” Travis told him. “But I don’t think it’s you.”\n Continue reading...",
+        "title": "AI companies know they have an image problem. Will funding policy papers and thinktanks dig them out?",
+        "summary": "The aggressive effort by major players aims to reshape the narrative as polls show increasing public disapproval of AI\nOpenAI made a surprise announcement this week – not an update to ChatGPT or another multibillion-dollar datacenter – but a policy p",
+        "content": "The aggressive effort by major players aims to reshape the narrative as polls show increasing public disapproval of AI\nOpenAI made a surprise announcement this week – not an update to ChatGPT or another multibillion-dollar datacenter – but a policy paper that called for a reimagining of the social contract based around “a slate of people-first ideas”. It’s the latest move in an aggressive effort by the major AI players to reshape the narrative around their industry, as polls show public disappro",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/apr/11/ai-impersonating-musicians-spotify",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/apr/12/ai-image-problem-policy-papers-thinktanks",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Sat, 11 Apr 2026 12:00:48 GMT",
+        "publishedAt": "Sun, 12 Apr 2026 10:00:14 GMT",
         "normalizedTags": [
           "the guardian ai"
         ],
@@ -353,23 +352,23 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
-    "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
-    "https://www.theverge.com/ai-artificial-intelligence/910008/fawn-friends-ai-companion",
-    "https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop",
+    "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
+    "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
+    "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
+    "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
+    "https://the-decoder.com/man-who-firebombed-sam-altmans-home-was-likely-driven-by-ai-extinction-fears/",
+    "https://the-decoder.com/openai-employee-tries-to-explain-usage-limits-of-the-new-chatgpt-pro-plans/",
+    "https://the-decoder.com/researchers-define-what-counts-as-a-world-model-and-text-to-video-generators-do-not/",
     "https://the-decoder.com/anthropic-seeks-advice-from-christian-leaders-on-claudes-moral-and-spiritual-behavior/",
     "https://the-decoder.com/agent-skills-look-great-in-benchmarks-but-fall-apart-under-realistic-conditions-researchers-find/",
-    "https://the-decoder.com/arcee-ai-spent-half-its-venture-capital-to-build-an-open-reasoning-model-that-rivals-claude-opus-in-agent-tasks/",
-    "https://the-decoder.com/molotov-suspect-who-attacked-sam-altmans-home-was-likely-a-pause-ai-follower-with-ai-extinction-fears/",
-    "https://the-decoder.com/stalking-victim-sues-openai-claiming-chatgpt-fueled-her-ex-partners-delusions/",
-    "https://www.cnbc.com/2026/04/11/vibe-check-from-ai-industry-humanx-anthropic-is-talk-of-the-town.html",
     "https://www.nytimes.com/2026/04/12/technology/china-russia-us-ai-weapons.html",
-    "https://www.theguardian.com/technology/2026/apr/12/ai-image-problem-policy-papers-thinktanks",
+    "https://www.theguardian.com/technology/2026/apr/12/experiment-with-ai-journalling",
+    "https://www.theguardian.com/commentisfree/2026/apr/12/the-guardian-view-on-ai-politics-us-datacentre-protests-are-a-warning-to-big-tech",
+    "https://www.theguardian.com/lifeandstyle/2026/apr/12/readers-reply-should-we-be-polite-to-voice-assistants",
     "https://www.theguardian.com/books/2026/apr/12/is-ai-the-greatest-art-heist-in-history",
-    "https://www.theguardian.com/technology/2026/apr/12/too-powerful-for-the-public-inside-anthropics-bid-to-win-the-ai-publicity-war",
-    "https://www.theguardian.com/science/2026/apr/11/brian-cox-physicist-interview-ai-science-paul-mccartney",
-    "https://www.theguardian.com/technology/2026/apr/11/ai-impersonating-musicians-spotify"
+    "https://www.theguardian.com/technology/2026/apr/12/ai-image-problem-policy-papers-thinktanks"
   ],
-  "generatedAt": "2026-04-12T11:31:48.034Z",
+  "generatedAt": "2026-04-12T23:26:03.420Z",
   "simpleSummaryImageUrl": "/images/2026-04-12/2026-04-12-summary.webp"
 }
