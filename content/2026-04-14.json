@@ -2,10 +2,11 @@
   "date": "2026-04-14",
   "dateFormatted": "April 14, 2026",
   "headline": {
-    "title": "OpenAI has bought AI personal finance startup Hiro",
-    "summary": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning.",
-    "sourceUrl": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
-    "sourceName": "TechCrunch AI"
+    "title": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
+    "summary": "In an interview at the Semafor World Economy summit this week, Anthropic co-founder Jack Clark explained why the company was still engaged with the U.S. government while simultaneously suing them.",
+    "sourceUrl": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
+    "sourceName": "TechCrunch AI",
+    "imageUrl": "/images/2026-04-14/2026-04-14-hero.webp"
   },
   "simpleSummary": [
     "Today's edition was assembled directly from RSS feeds without AI curation.",
@@ -15,200 +16,270 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "OpenAI has bought AI personal finance startup Hiro",
-        "summary": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning.",
-        "content": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning.",
+        "title": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
+        "summary": "In an interview at the Semafor World Economy summit this week, Anthropic co-founder Jack Clark explained why the company was still engaged with the U.S. government while simultaneously suing them.",
+        "content": "In an interview at the Semafor World Economy summit this week, Anthropic co-founder Jack Clark explained why the company was still engaged with the U.S. government while simultaneously suing them.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
+        "sourceUrl": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Tue, 14 Apr 2026 00:23:33 +0000",
+        "publishedAt": "Tue, 14 Apr 2026 18:09:12 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-14/2026-04-14-tools-AI-001.webp"
       },
       {
         "id": "AI-002",
-        "title": "Microsoft is working on yet another OpenClaw-like agent",
-        "summary": "The new features would be geared toward enterprise customers, with better security controls than the famously risky open source OpenClaw agent.",
-        "content": "The new features would be geared toward enterprise customers, with better security controls than the famously risky open source OpenClaw agent.",
+        "title": "Max Hodak’s Science Corp. is preparing to place its first sensor in a human brain",
+        "summary": "The device could help address multiple neurological conditions if it proves successful. One early use could be delivering gentle electrical stimulation to damaged brain or spinal cord cells to encourage healing.",
+        "content": "The device could help address multiple neurological conditions if it proves successful. One early use could be delivering gentle electrical stimulation to damaged brain or spinal cord cells to encourage healing.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
+        "sourceUrl": "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Mon, 13 Apr 2026 19:05:19 +0000",
+        "publishedAt": "Tue, 14 Apr 2026 17:13:03 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-14/2026-04-14-tools-AI-002.webp"
       },
       {
         "id": "AI-003",
-        "title": "Stanford report highlights growing disconnect between AI insiders and everyone else",
-        "summary": "Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy.",
-        "content": "Stanford’s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy.",
+        "title": "Google adds AI Skills to Chrome to help you save favorite workflows",
+        "summary": "Google is adding “Skills” to Chrome, letting users save and reuse AI prompts across websites. The feature builds on Gemini’s browser integration.",
+        "content": "Google is adding “Skills” to Chrome, letting users save and reuse AI prompts across websites. The feature builds on Gemini’s browser integration.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+        "sourceUrl": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Mon, 13 Apr 2026 18:55:37 +0000",
+        "publishedAt": "Tue, 14 Apr 2026 17:00:00 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-14/2026-04-14-tools-AI-003.webp"
       },
       {
         "id": "AI-004",
-        "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
-        "summary": "While many startups founded prior to the emergence of ChatGPT are struggling to position themselves for the AI era, Vercel, a 10-year-old dev tool and website hosting platform, is benefiting from the explosion of AI-generated apps and agents.",
-        "content": "While many startups founded prior to the emergence of ChatGPT are struggling to position themselves for the AI era, Vercel, a 10-year-old dev tool and website hosting platform, is benefiting from the explosion of AI-generated apps and agents.",
+        "title": "In just a couple weeks, StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
+        "summary": "The first StrictlyVC of the year will be coming to San Francisco before you know it.\n\nThere are still a few tickets available to join us and our stacked speaker lineup April 30, so register today!",
+        "content": "The first StrictlyVC of the year will be coming to San Francisco before you know it.\n\nThere are still a few tickets available to join us and our stacked speaker lineup April 30, so register today!",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
+        "sourceUrl": "https://techcrunch.com/2026/04/14/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Mon, 13 Apr 2026 15:22:29 +0000",
+        "publishedAt": "Tue, 14 Apr 2026 15:30:49 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-14/2026-04-14-tools-AI-004.webp"
       },
       {
         "id": "AI-005",
-        "title": "Daniel Moreno-Gama is facing federal charges for attacking Sam Altman&#8217;s home and OpenAI’s HQ",
-        "summary": "Daniel Moreno-Gama is now facing federal charges after allegedly traveling from Texas to California with the intent to kill OpenAI CEO Sam Altman. On April 10th, he was arrested after throwing a Molotov cocktail at OpenAI CEO Sam Altman's home and at",
-        "content": "Daniel Moreno-Gama is now facing federal charges after allegedly traveling from Texas to California with the intent to kill OpenAI CEO Sam Altman. On April 10th, he was arrested after throwing a Molotov cocktail at OpenAI CEO Sam Altman's home and attempting to break into OpenAI's headquarters. According to prosecutors, at the HQ, \"Moreno-Gama attempted to break the glass doors of the building with a chair and stated that he had come to burn down the location and kill anyone inside.\"\nHis charges",
+        "title": "Google brings its Gemini Personal Intelligence feature to India",
+        "summary": "The feature lets users connect Google accounts like Gmail and Photos to get personalized answers.",
+        "content": "The feature lets users connect Google accounts like Gmail and Photos to get personalized answers.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack",
-        "sourceName": "The Verge AI",
+        "sourceUrl": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/",
+        "sourceName": "TechCrunch AI",
         "tags": [
-          "The Verge AI"
+          "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "2026-04-14T00:02:38.000Z",
+        "publishedAt": "Tue, 14 Apr 2026 14:48:34 +0000",
         "normalizedTags": [
-          "the verge ai"
-        ]
+          "techcrunch ai"
+        ],
+        "imageUrl": "/images/2026-04-14/2026-04-14-tools-AI-005.webp"
       }
     ],
     "creative": [
       {
         "id": "AI-006",
-        "title": "Stanford's AI Index 2026 shows rapid progress, growing safety concerns, and declining public trust",
-        "summary": "The AI Index Report 2026 from Stanford HAI documents major performance leaps in AI models, a narrowing gap between the US and China, and mounting safety problems, all while public trust continues to erode.\nThe article Stanford's AI Index 2026 shows r",
-        "content": "The AI Index Report 2026 from Stanford HAI documents major performance leaps in AI models, a narrowing gap between the US and China, and mounting safety problems, all while public trust continues to erode.\nThe article Stanford's AI Index 2026 shows rapid progress, growing safety concerns, and declining public trust appeared first on The Decoder.",
+        "title": "Greg Brockman predicts AI will let small teams match the output of large ones if they can afford the compute",
+        "summary": "In the future, working with AI won't mean adapting to the computer—the computer will adapt to you, says OpenAI President Greg Brockman. \"This is disruptive. Institutions will change.\"\nThe article Greg Brockman predicts AI will let small teams match t",
+        "content": "In the future, working with AI won't mean adapting to the computer—the computer will adapt to you, says OpenAI President Greg Brockman. \"This is disruptive. Institutions will change.\"\nThe article Greg Brockman predicts AI will let small teams match the output of large ones if they can afford the compute appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/stanfords-ai-index-2026-shows-rapid-progress-growing-safety-concerns-and-declining-public-trust/",
+        "sourceUrl": "https://the-decoder.com/greg-brockman-predicts-ai-will-let-small-teams-match-the-output-of-large-ones-if-they-can-afford-the-compute/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Tue, 14 Apr 2026 09:16:27 +0000",
+        "publishedAt": "Tue, 14 Apr 2026 19:00:39 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-14/2026-04-14-creative-AI-006.webp"
       },
       {
         "id": "AI-007",
-        "title": "OpenAI acquires AI finance startup Hiro, which built a \"personal AI CFO\"",
-        "summary": "OpenAI acquires the team behind AI finance startup Hiro. The service is shutting down, and all user data will be deleted.\nThe article OpenAI acquires AI finance startup Hiro, which built a \"personal AI CFO\" appeared first on The Decoder.",
-        "content": "OpenAI acquires the team behind AI finance startup Hiro. The service is shutting down, and all user data will be deleted.\nThe article OpenAI acquires AI finance startup Hiro, which built a \"personal AI CFO\" appeared first on The Decoder.",
+        "title": "Google Chrome's new \"Skills\" feature lets you save AI prompts and reuse them with a single click",
+        "summary": "With \"Skills,\" Google is adding a new feature to Chrome that turns frequently used AI prompts into reusable one-click tools. Instead of typing the same prompt over and over, users save it once and apply it to any website. Google also offers a ready-m",
+        "content": "With \"Skills,\" Google is adding a new feature to Chrome that turns frequently used AI prompts into reusable one-click tools. Instead of typing the same prompt over and over, users save it once and apply it to any website. Google also offers a ready-made library of skills for everyday tasks.\nThe article Google Chrome's new \"Skills\" feature lets you save AI prompts and reuse them with a single click appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/openai-acquires-ai-finance-startup-hiro-which-built-a-personal-ai-cfo/",
+        "sourceUrl": "https://the-decoder.com/google-chromes-new-skills-feature-lets-you-save-ai-prompts-and-reuse-them-with-a-single-click/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Tue, 14 Apr 2026 08:20:12 +0000",
+        "publishedAt": "Tue, 14 Apr 2026 18:01:34 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-14/2026-04-14-creative-AI-007.webp"
       },
       {
         "id": "AI-008",
-        "title": "OpenAI's leaked memo says new \"Spud\" model will make all its products \"significantly better\"",
-        "summary": "An internal OpenAI memo lays out five strategic priorities for the enterprise business - including a new model codenamed \"Spud,\" a platform play for AI agents, and the blunt accusation that Anthropic is overstating its revenue by 8 billion dollars.\nT",
-        "content": "An internal OpenAI memo lays out five strategic priorities for the enterprise business - including a new model codenamed \"Spud,\" a platform play for AI agents, and the blunt accusation that Anthropic is overstating its revenue by 8 billion dollars.\nThe article OpenAI's leaked memo says new \"Spud\" model will make all its products \"significantly better\" appeared first on The Decoder.",
+        "title": "Claude Mythos can autonomously compromise weakly defended enterprise networks end-to-end",
+        "summary": "The UK's AI Safety Institute tested Anthropic's Claude Mythos Preview for cyber capabilities. For the first time, an AI model autonomously completed a full attack simulation against a corporate network, but the results come with significant caveats.\n",
+        "content": "The UK's AI Safety Institute tested Anthropic's Claude Mythos Preview for cyber capabilities. For the first time, an AI model autonomously completed a full attack simulation against a corporate network, but the results come with significant caveats.\nThe article Claude Mythos can autonomously compromise weakly defended enterprise networks end-to-end appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/openais-leaked-memo-says-new-spud-model-will-make-all-its-products-significantly-better/",
+        "sourceUrl": "https://the-decoder.com/claude-mythos-can-autonomously-compromise-weakly-defended-enterprise-networks-end-to-end/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Mon, 13 Apr 2026 19:06:34 +0000",
+        "publishedAt": "Tue, 14 Apr 2026 17:31:48 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-14/2026-04-14-creative-AI-008.webp"
       },
       {
         "id": "AI-009",
-        "title": "New AI model generates 45-minute lip-synced video from one photo and runs in real time",
-        "summary": "A single image becomes a talking character: LPM 1.0 generates real-time video with lip sync, facial expressions, and emotional reactions. For now, it remains a research project.\nThe article New AI model generates 45-minute lip-synced video from one p",
-        "content": "A single image becomes a talking character: LPM 1.0 generates real-time video with lip sync, facial expressions, and emotional reactions. For now, it remains a research project.\nThe article New AI model generates 45-minute lip-synced video from one photo and runs in real time appeared first on The Decoder.",
+        "title": "Claude Code routines let AI fix bugs and review code on autopilot",
+        "summary": "Anthropic has introduced \"routines\" for Claude Code - automated processes that can independently fix bugs, review pull requests, or respond to events without needing a user's local machine.\nThe article Claude Code routines let AI fix bugs and review ",
+        "content": "Anthropic has introduced \"routines\" for Claude Code - automated processes that can independently fix bugs, review pull requests, or respond to events without needing a user's local machine.\nThe article Claude Code routines let AI fix bugs and review code on autopilot appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/new-ai-model-generates-45-minute-lip-synced-video-from-one-photo-and-runs-in-real-time/",
+        "sourceUrl": "https://the-decoder.com/claude-code-routines-let-ai-fix-bugs-and-review-code-on-autopilot/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Mon, 13 Apr 2026 17:31:59 +0000",
+        "publishedAt": "Tue, 14 Apr 2026 17:07:46 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-14/2026-04-14-creative-AI-009.webp"
       },
       {
         "id": "AI-010",
-        "title": "Google now offers Ultra subscribers video generation with Veo 3.1 Lite at no extra credit cost",
-        "summary": "Google is rolling out a new video generation option for Ultra subscribers that won't cost them any additional credits.\nThe article Google now offers Ultra subscribers video generation with Veo 3.1 Lite at no extra credit cost appeared first on The De",
-        "content": "Google is rolling out a new video generation option for Ultra subscribers that won't cost them any additional credits.\nThe article Google now offers Ultra subscribers video generation with Veo 3.1 Lite at no extra credit cost appeared first on The Decoder.",
+        "title": "Ukraine captures a Russian position using only drones and ground robots",
+        "summary": "President Zelenskyy announces a historic first: a Russian position taken entirely by unmanned systems. A CSIS report details how AI is already changing Ukraine's battlefield and where the limits remain.\nThe article Ukraine captures a Russian position",
+        "content": "President Zelenskyy announces a historic first: a Russian position taken entirely by unmanned systems. A CSIS report details how AI is already changing Ukraine's battlefield and where the limits remain.\nThe article Ukraine captures a Russian position using only drones and ground robots appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/google-now-offers-ultra-subscribers-video-generation-with-veo-3-1-lite-at-no-extra-credit-cost/",
+        "sourceUrl": "https://the-decoder.com/ukraine-captures-a-russian-position-using-only-drones-and-ground-robots/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Mon, 13 Apr 2026 16:23:30 +0000",
+        "publishedAt": "Tue, 14 Apr 2026 15:37:43 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-14/2026-04-14-creative-AI-010.webp"
       }
     ],
     "research": [
       {
         "id": "AI-011",
+        "title": "Redefining the future of software engineering",
+        "summary": "Software engineering has experienced two seismic shifts this century. First was the rise of the open source movement, which gradually made code accessible to developers and engineers everywhere. Second, the adoption of development operations (DevOps)",
+        "content": "Software engineering has experienced two seismic shifts this century. First was the rise of the open source movement, which gradually made code accessible to developers and engineers everywhere. Second, the adoption of development operations (DevOps) and agile methodologies took software from siloed to collaborative development and from batch to continuous delivery. Now, a third such…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 14 Apr 2026 18:00:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ],
+        "imageUrl": "/images/2026-04-14/2026-04-14-research-AI-011.webp"
+      },
+      {
+        "id": "AI-012",
+        "title": "The Download: the state of AI, and protecting bears with drones",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Want to understand the current state of AI? Check out these charts.  If you’re following AI news, you’re probabl",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Want to understand the current state of AI? Check out these charts.  If you’re following AI news, you’re probably getting whiplash. AI is a gold rush. AI is a bubble. AI is taking your job. AI can’t even…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/04/14/1135847/the-download-state-of-ai-drones-protecting-bears/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 14 Apr 2026 12:10:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ],
+        "imageUrl": "/images/2026-04-14/2026-04-14-research-AI-012.webp"
+      },
+      {
+        "id": "AI-013",
+        "title": "NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?",
+        "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Just before Artemis II began its historic slingshot around the moon, Ja",
+        "content": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Just before Artemis II began its historic slingshot around the moon, Jared Isaacman, the recently confirmed NASA administrator, made a flurry of announcements from the agency’s headquarters…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/04/14/1135848/nasa-nuclear-powered-spacecraft/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 14 Apr 2026 12:04:47 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ],
+        "imageUrl": "/images/2026-04-14/2026-04-14-research-AI-013.webp"
+      },
+      {
+        "id": "AI-014",
         "title": "Coming soon: 10 Things That Matter in AI Right Now",
         "summary": "Each year we compile our 10 Breakthrough Technologies list, featuring our educated predictions for which technologies will have the biggest impact on how we live and work. This year, however, we had a dilemma. While our final picks encompass all our ",
         "content": "Each year we compile our 10 Breakthrough Technologies list, featuring our educated predictions for which technologies will have the biggest impact on how we live and work. This year, however, we had a dilemma. While our final picks encompass all our core coverage areas (energy, AI, and biotech, plus a few more), our 2026 list…",
@@ -224,10 +295,11 @@
         "publishedAt": "Tue, 14 Apr 2026 11:00:00 +0000",
         "normalizedTags": [
           "mit tech review"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-14/2026-04-14-research-AI-014.webp"
       },
       {
-        "id": "AI-012",
+        "id": "AI-015",
         "title": "The problem with thinking you’re part Neanderthal",
         "summary": "You’ve probably heard some version of this idea before: that many of us have an “inner Neanderthal.” That is to say, around 45,000 years ago, when Homo sapiens first arrived in Europe, they met members of a cousin species—the broad-browed, heavier-se",
         "content": "You’ve probably heard some version of this idea before: that many of us have an “inner Neanderthal.” That is to say, around 45,000 years ago, when Homo sapiens first arrived in Europe, they met members of a cousin species—the broad-browed, heavier-set Neanderthals—and, well, one thing led to another, which is why some people now carry…",
@@ -243,205 +315,136 @@
         "publishedAt": "Tue, 14 Apr 2026 10:00:00 +0000",
         "normalizedTags": [
           "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-013",
-        "title": "Why opinion on AI is so divided",
-        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In an industry that doesn’t stand still, Stanford’s AI Index, an annual roundup of key results and trends, is a ",
-        "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In an industry that doesn’t stand still, Stanford’s AI Index, an annual roundup of key results and trends, is a chance to take a breath. (It’s a marathon, not a sprint, after…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/04/13/1135720/why-opinion-on-ai-is-so-divided/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
         ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 13 Apr 2026 15:48:28 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-014",
-        "title": "Want to understand the current state of AI? Check out these charts.",
-        "summary": "If you’re following AI news, you’re probably getting whiplash. AI is a gold rush. AI is a bubble. AI is taking your job. AI can’t even read a clock. The 2026 AI Index from Stanford University’s Institute for Human-Centered Artificial Intelligence, AI",
-        "content": "If you’re following AI news, you’re probably getting whiplash. AI is a gold rush. AI is a bubble. AI is taking your job. AI can’t even read a clock. The 2026 AI Index from Stanford University’s Institute for Human-Centered Artificial Intelligence, AI’s annual report card, comes out today and cuts through some of that noise. …",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 13 Apr 2026 13:00:00 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-015",
-        "title": "The Download: how humans make decisions, and Moderna’s “vaccine” word games",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. You have no choice in reading this article—maybe How do humans make decisions? The question has been on Uri Maoz",
-        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. You have no choice in reading this article—maybe How do humans make decisions? The question has been on Uri Maoz’s mind since he read an article in his early twenties suggesting…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/04/13/1135707/the-download-how-humans-make-decisions-and-modernas-vaccine-word-games/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 13 Apr 2026 12:10:00 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
+        "imageUrl": "/images/2026-04-14/2026-04-14-research-AI-015.webp"
       }
     ],
     "applications": [],
     "business": [
       {
         "id": "AI-016",
-        "title": "Suspect in attack at Sam Altman's house aimed to kill OpenAI CEO, warned of humanity's extinction from AI",
-        "summary": "San Francisco Police Department officers recovered a document from the suspect that detailed his intentions, according to a filing.",
-        "content": "San Francisco Police Department officers recovered a document from the suspect that detailed his intentions, according to a filing.",
+        "title": "Cramer: The market's biggest fears 'just didn't happen' – and that's why you can't leave the game",
+        "summary": "CNBC's Jim Cramer explained why bailing on stocks when things look bleak ends up hurting you in the long run.",
+        "content": "CNBC's Jim Cramer explained why bailing on stocks when things look bleak ends up hurting you in the long run.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/13/sam-altman-openai-ai-arson.html",
+        "sourceUrl": "https://www.cnbc.com/2026/04/14/jim-cramer-says-the-market-rally-shows-why-you-cant-bail-on-stocks.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Mon, 13 Apr 2026 23:27:13 GMT",
+        "publishedAt": "Tue, 14 Apr 2026 22:50:38 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-14/2026-04-14-business-AI-016.webp"
       },
       {
         "id": "AI-017",
-        "title": "Jim Cramer says this is the real reason why stocks are shrugging off Iran war fears",
-        "summary": "\"If interest rates were spiking, this market would be very different,\" CNBC's Jim Cramer said Monday.",
-        "content": "\"If interest rates were spiking, this market would be very different,\" CNBC's Jim Cramer said Monday.",
+        "title": "NAACP sues Elon Musk's xAI over Memphis data center air pollution",
+        "summary": "Elon Musk, who is the world's richest person, has been counting on the greater Memphis area to serve as the backbone for xAI's buildout.",
+        "content": "Elon Musk, who is the world's richest person, has been counting on the greater Memphis area to serve as the backbone for xAI's buildout.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/13/jim-cramer-stocks-rallying-despite-iran-war-why.html",
+        "sourceUrl": "https://www.cnbc.com/2026/04/14/elon-musk-xai-memphis-data-centers.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Mon, 13 Apr 2026 23:06:21 GMT",
+        "publishedAt": "Tue, 14 Apr 2026 23:12:08 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-14/2026-04-14-business-AI-017.webp"
       },
       {
         "id": "AI-018",
-        "title": "Oracle expands Bloom Energy deal days after receiving $400 million stock warrant",
-        "summary": "Last week Oracle received a warrant to buy nearly $400 million in Bloom Energy's stock, which jumped on Monday after the companies announced an expanded deal.",
-        "content": "Last week Oracle received a warrant to buy nearly $400 million in Bloom Energy's stock, which jumped on Monday after the companies announced an expanded deal.",
+        "title": "Meta commits to 1 gigawatt of custom chips with Broadcom as Hock Tan decides to leave board",
+        "summary": "Meta commits to deploying 1 GW of custom in-house MTIA chips codesigned with Broadcom in sweeping new multiyear deal announced Tuesday",
+        "content": "Meta commits to deploying 1 GW of custom in-house MTIA chips codesigned with Broadcom in sweeping new multiyear deal announced Tuesday",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/13/oracle-expands-bloom-energy-deal-days-after-400-million-stock-warrant.html",
+        "sourceUrl": "https://www.cnbc.com/2026/04/14/meta-commits-to-one-gigawatt-of-custom-chips-with-broadcom-as-hock-tan-agrees-to-leave-board.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Mon, 13 Apr 2026 22:32:50 GMT",
+        "publishedAt": "Tue, 14 Apr 2026 23:18:17 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-14/2026-04-14-business-AI-018.webp"
       },
       {
         "id": "AI-019",
-        "title": "Oracle pops nearly 13%, leading bounce back rally in software stocks",
-        "summary": "Oracle has lost more than a fifth of its value this year on AI disruption concerns.",
-        "content": "Oracle has lost more than a fifth of its value this year on AI disruption concerns.",
+        "title": "Crypto exchange Kraken confirms it has confidentially filed for an IPO",
+        "summary": "Kraken co-CEO Arjun Sethi said the crypto exchange has confidentially filed for a U.S. initial public offering, confirming CNBC's previous reporting.",
+        "content": "Kraken co-CEO Arjun Sethi said the crypto exchange has confidentially filed for a U.S. initial public offering, confirming CNBC's previous reporting.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/13/oracle-orcl-stock-rally-software-ai-risk.html",
+        "sourceUrl": "https://www.cnbc.com/2026/04/14/crypto-exchange-kraken-confirms-it-has-confidentially-filed-for-an-ipo.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Mon, 13 Apr 2026 22:38:17 GMT",
+        "publishedAt": "Tue, 14 Apr 2026 23:07:39 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-14/2026-04-14-business-AI-019.webp"
       },
       {
         "id": "AI-020",
-        "title": "Intel's stock on historic 9-day winning streak, up 58% over that run",
-        "summary": "The U.S. chipmaker has announced recent deals with Google and Elon Musk as it continues to gain investments.",
-        "content": "The U.S. chipmaker has announced recent deals with Google and Elon Musk as it continues to gain investments.",
+        "title": "Nvidia stock is on a 10-day winning streak and up 18% over that stretch",
+        "summary": "Nvidia denied rumors that it's in talks to buy a large PC company, telling CNBC in a statement that it's \"not engaged in discussions.\"",
+        "content": "Nvidia denied rumors that it's in talks to buy a large PC company, telling CNBC in a statement that it's \"not engaged in discussions.\"",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/13/intel-stock-historic-winning-streak.html",
+        "sourceUrl": "https://www.cnbc.com/2026/04/14/nvidia-stock-nvda-ai-streak.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Mon, 13 Apr 2026 20:09:04 GMT",
+        "publishedAt": "Tue, 14 Apr 2026 21:01:37 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-14/2026-04-14-business-AI-020.webp"
       }
     ],
     "policy": [
       {
         "id": "AI-021",
-        "title": "Elon Musk, Who Owns X, Appears to Post on TikTok",
-        "summary": "A verified account with the @elonmusk handle also recently showed up on Instagram, as the billionaire prepares to take his rocket company SpaceX public.",
-        "content": "A verified account with the @elonmusk handle also recently showed up on Instagram, as the billionaire prepares to take his rocket company SpaceX public.",
+        "title": "Amazon Buys Globalstar for $10.8 Billion, Movingto Expand Its Satellite Internet Service",
+        "summary": "The e-commerce giant is buying Globalstar, a satellite communications company, as it aims to expand its own satellite internet service to compete with Elon Musk’s Starlink.",
+        "content": "The e-commerce giant is buying Globalstar, a satellite communications company, as it aims to expand its own satellite internet service to compete with Elon Musk’s Starlink.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/04/12/technology/elon-musk-tiktok.html",
+        "sourceUrl": "https://www.nytimes.com/2026/04/14/technology/amazon-buys-globalstar-space-internet.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Mon, 13 Apr 2026 17:54:38 +0000",
+        "publishedAt": "Tue, 14 Apr 2026 17:53:43 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-14/2026-04-14-policy-AI-021.webp"
       },
       {
         "id": "AI-022",
-        "title": "I Feel So Sorry for My A.I. Sunglasses",
-        "summary": "Plenty of people hate Mark Zuckerberg’s superintelligent, supercharged spectacles. I was ready to hate them, too.",
-        "content": "Plenty of people hate Mark Zuckerberg’s superintelligent, supercharged spectacles. I was ready to hate them, too.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/04/14/magazine/ai-sunglasses-meta-zuckerberg.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Tue, 14 Apr 2026 09:02:11 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-023",
         "title": "Man Held in Attack on OpenAI Chief’s Home Had List of A.I. Leaders, Officials Say",
         "summary": "The authorities said a 20-year-old Texas man charged with throwing a homemade bomb at the gate of Sam Altman’s home had written at length about the threat of A.I.",
         "content": "The authorities said a 20-year-old Texas man charged with throwing a homemade bomb at the gate of Sam Altman’s home had written at length about the threat of A.I.",
@@ -457,105 +460,131 @@
         "publishedAt": "Tue, 14 Apr 2026 01:57:23 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-14/2026-04-14-policy-AI-022.webp"
+      },
+      {
+        "id": "AI-023",
+        "title": "I Feel So Sorry for My A.I. Sunglasses",
+        "summary": "Plenty of people hate Mark Zuckerberg’s superintelligent, supercharged spectacles. I was ready to hate them, too.",
+        "content": "Plenty of people hate Mark Zuckerberg’s superintelligent, supercharged spectacles. I was ready to hate them, too.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/04/14/magazine/ai-sunglasses-meta-zuckerberg.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 14 Apr 2026 17:02:45 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-04-14/2026-04-14-policy-AI-023.webp"
       }
     ],
     "concerns": [],
     "culture": [
       {
         "id": "AI-024",
-        "title": "Don’t make Marshal Foch’s mistake on AI | Letters",
-        "summary": "Peregrine Rand reflects on Marc Bloch’s Strange Defeat and the future threat of artificial intelligence\nEmma Brockes’ article struck a chord (It’s finally happened: I’m now worried about AI. And consulting ChatGPT did nothing to allay my fears, 8 Apr",
-        "content": "Peregrine Rand reflects on Marc Bloch’s Strange Defeat and the future threat of artificial intelligence\nEmma Brockes’ article struck a chord (It’s finally happened: I’m now worried about AI. And consulting ChatGPT did nothing to allay my fears, 8 April). I am reading Marc Bloch’s Strange Defeat, in which the eminent French historian and soon-to-be-executed resistance worker gives a first-hand account of the collapse of the French army in 1940. He attributes the debacle at least in part to a fail",
+        "title": "China now the ‘good guy’ on AI as Trump takes ‘wild west’ approach, MPs told",
+        "summary": "Experts say China is backing attempts at global governance, while US has set up race between profit-hungry companies\nChina is now the “good guy” on AI rather than Donald Trump’s US, where the technology is being pursued in a dangerous “wild west” man",
+        "content": "Experts say China is backing attempts at global governance, while US has set up race between profit-hungry companies\nChina is now the “good guy” on AI rather than Donald Trump’s US, where the technology is being pursued in a dangerous “wild west” manner, a former UN and UK government adviser has told MPs.\nProf Dame Wendy Hall, who was a member of the UN’s AI advisory board and co-wrote a review of AI for Theresa May’s government, told the House of Commons business and trade committee that China ",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/apr/13/dont-make-marshal-fochs-mistake-on-ai",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/apr/14/china-now-ais-good-guy-as-us-takes-a-wild-west-approach-mps-told",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Mon, 13 Apr 2026 16:23:14 GMT",
+        "publishedAt": "Tue, 14 Apr 2026 17:56:47 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-14/2026-04-14-culture-AI-024.webp"
       },
       {
         "id": "AI-025",
-        "title": "Goldman Sachs chief ‘hyper-aware’ of risks from Anthropic’s Mythos AI",
-        "summary": "US bank has the Claude model and is working closely with the tech firm to improve cyber protection\nGoldman Sachs’s chief executive, David Solomon, has said he is “hyper-aware” of the capabilities of Anthropic’s Mythos AI model and is working “closely",
-        "content": "US bank has the Claude model and is working closely with the tech firm to improve cyber protection\nGoldman Sachs’s chief executive, David Solomon, has said he is “hyper-aware” of the capabilities of Anthropic’s Mythos AI model and is working “closely” with the tech firm after it issued warnings about the cybersecurity risk it poses.\nThe US bank had been monitoring the rapid advances in artificial intelligence, including large language models (LLMs), as part of wider efforts to protect itself fro",
+        "title": "NAACP lawsuit accuses Elon Musk’s xAI of polluting Black neighborhoods near Memphis",
+        "summary": "Suit alleges the billionaire’s AI company is illegally spewing toxic pollutants from its datacenter in the Memphis area\nA new lawsuit accuses Elon Musk’s artificial intelligence company of illegally spewing toxic pollutants into the Black neighborhoo",
+        "content": "Suit alleges the billionaire’s AI company is illegally spewing toxic pollutants from its datacenter in the Memphis area\nA new lawsuit accuses Elon Musk’s artificial intelligence company of illegally spewing toxic pollutants into the Black neighborhoods on the border of Tennessee and Mississippi.\nThe suit, filed on Tuesday in Mississippi federal court, alleges xAI is violating the Clean Air Act due to emissions from its makeshift power plant in Southaven, Mississippi, which powers its datacenters",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/business/2026/apr/13/goldman-sachs-chief-hyper-aware-risks-anthropics-mythos-ai-david-solomon",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/apr/14/naacp-lawsuit-elon-musk-xai-memphis",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Mon, 13 Apr 2026 16:48:37 GMT",
+        "publishedAt": "Tue, 14 Apr 2026 22:19:02 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-14/2026-04-14-culture-AI-025.webp"
       },
       {
         "id": "AI-026",
-        "title": "Meta creating AI version of Mark Zuckerberg so staff can talk to the boss",
-        "summary": "Digital clone being trained on his thoughts, tone and mannerisms to help workers feel connected\nIf you are one of Meta’s almost 79,000 employees and cannot get hold of the boss, do not worry. The owner of Facebook and Instagram is reportedly working ",
-        "content": "Digital clone being trained on his thoughts, tone and mannerisms to help workers feel connected\nIf you are one of Meta’s almost 79,000 employees and cannot get hold of the boss, do not worry. The owner of Facebook and Instagram is reportedly working on an AI version of Mark Zuckerberg who can answer all your queries.\nThe AI clone of Zuckerberg, Meta’s founder and chief executive, is being trained on his mannerisms and tone as well as his public statements and thoughts on company strategy.\n Conti",
+        "title": "Could AI write this column? In a world of slop-inion, I’m certifying myself human | Peter Lewis",
+        "summary": "I actually don’t want to make my work easier. We should demand authenticity if we care about the sort of society that comes out the other end of this so-called revolution\nI never thought I’d have to write these words but here I am: my name is Peter a",
+        "content": "I actually don’t want to make my work easier. We should demand authenticity if we care about the sort of society that comes out the other end of this so-called revolution\nI never thought I’d have to write these words but here I am: my name is Peter and I am human.\nWhat seems like a self-evident proclamation needs to be made now because the misuse of AI is transforming considered op-eds such as this into “slop-inion” that is infecting the editorial pages of reputable media outlets.\n Continue read",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/apr/13/meta-ai-mark-zuckerberg-staff-talk-to-the-boss",
+        "sourceUrl": "https://www.theguardian.com/commentisfree/2026/apr/14/ai-opinion-piece-column-writing-articles-certified-human-writer",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Mon, 13 Apr 2026 15:27:53 GMT",
+        "publishedAt": "Tue, 14 Apr 2026 15:00:43 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-14/2026-04-14-culture-AI-026.webp"
       },
       {
         "id": "AI-027",
-        "title": "Silicon Valley Is Spending Millions to Stop One of Its Own",
-        "summary": "Alex Bores, a former Palantir employee, helped pass one of the country’s toughest AI laws. Now Silicon Valley’s biggest names are trying to stop his rise to Congress.",
-        "content": "Alex Bores, a former Palantir employee, helped pass one of the country’s toughest AI laws. Now Silicon Valley’s biggest names are trying to stop his rise to Congress.",
+        "title": "Bosses say AI boosts productivity – workers say they’re drowning in ‘workslop’",
+        "summary": "Workslop refers to AI-generated work that seems polished but is flawed and in need of heavy corrections\nKen, a copywriter for a large, Miami-based cybersecurity firm, used to enjoy his job. But then the “workslop” started piling up.\nWorkslop is an un",
+        "content": "Workslop refers to AI-generated work that seems polished but is flawed and in need of heavy corrections\nKen, a copywriter for a large, Miami-based cybersecurity firm, used to enjoy his job. But then the “workslop” started piling up.\nWorkslop is an unintended consequence of the AI boom. It’s what happens when employees use AI to quickly generate work that seems polished – at least superficially – but is in fact so flawed or inaccurate that it needs to be heavily corrected, cleaned up or even comp",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.wired.com/story/the-big-interview-podcast-new-york-state-representative-alex-bores/",
-        "sourceName": "Wired AI",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/apr/14/ai-productivity-workplace-errors",
+        "sourceName": "The Guardian AI",
         "tags": [
-          "Wired AI"
+          "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Tue, 14 Apr 2026 10:30:00 +0000",
+        "publishedAt": "Tue, 14 Apr 2026 14:00:58 GMT",
         "normalizedTags": [
-          "wired ai"
-        ]
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-04-14/2026-04-14-culture-AI-027.webp"
       },
       {
         "id": "AI-028",
-        "title": "You Can Soon Buy a $4,370 Humanoid Robot on AliExpress",
-        "summary": "Unitree is bringing its R1 to international markets. It arrives with some aerobatic capabilities and an entry-level price, but the question of what you'd actually do with it remains open.",
-        "content": "Unitree is bringing its R1 to international markets. It arrives with some aerobatic capabilities and an entry-level price, but the question of what you'd actually do with it remains open.",
+        "title": "Nissan turnaround plan pins hopes on ‘AI-defined vehicles’",
+        "summary": "Japanese carmaker will add self-driving abilities to 90% of cars in future and cut a fifth of its models\nNissan has said it will add self-driving abilities to the vast majority of its cars and cut a fifth of its models in the latest stage of the Japa",
+        "content": "Japanese carmaker will add self-driving abilities to 90% of cars in future and cut a fifth of its models\nNissan has said it will add self-driving abilities to the vast majority of its cars and cut a fifth of its models in the latest stage of the Japanese carmaker’s drawn-out turnaround efforts.\nIvan Espinosa, Nissan’s chief executive, said the company was pinning its hopes on “AI-defined vehicles”, with an aim of installing autonomous driving technologies on 90% of its vehicles in the future.\n C",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.wired.com/story/unitree-r1-humanoid-robot-for-sale-on-aliexpress/",
-        "sourceName": "Wired AI",
+        "sourceUrl": "https://www.theguardian.com/business/2026/apr/14/nissan-turnaround-plan-pins-hopes-on-ai-defined-vehicles",
+        "sourceName": "The Guardian AI",
         "tags": [
-          "Wired AI"
+          "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Mon, 13 Apr 2026 23:37:38 +0000",
+        "publishedAt": "Tue, 14 Apr 2026 12:25:51 GMT",
         "normalizedTags": [
-          "wired ai"
-        ]
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-04-14/2026-04-14-culture-AI-028.webp"
       }
     ]
   },
@@ -565,34 +594,35 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
-    "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
-    "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
-    "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
-    "https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack",
-    "https://the-decoder.com/stanfords-ai-index-2026-shows-rapid-progress-growing-safety-concerns-and-declining-public-trust/",
-    "https://the-decoder.com/openai-acquires-ai-finance-startup-hiro-which-built-a-personal-ai-cfo/",
-    "https://the-decoder.com/openais-leaked-memo-says-new-spud-model-will-make-all-its-products-significantly-better/",
-    "https://the-decoder.com/new-ai-model-generates-45-minute-lip-synced-video-from-one-photo-and-runs-in-real-time/",
-    "https://the-decoder.com/google-now-offers-ultra-subscribers-video-generation-with-veo-3-1-lite-at-no-extra-credit-cost/",
+    "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
+    "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/",
+    "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
+    "https://techcrunch.com/2026/04/14/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
+    "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/",
+    "https://the-decoder.com/greg-brockman-predicts-ai-will-let-small-teams-match-the-output-of-large-ones-if-they-can-afford-the-compute/",
+    "https://the-decoder.com/google-chromes-new-skills-feature-lets-you-save-ai-prompts-and-reuse-them-with-a-single-click/",
+    "https://the-decoder.com/claude-mythos-can-autonomously-compromise-weakly-defended-enterprise-networks-end-to-end/",
+    "https://the-decoder.com/claude-code-routines-let-ai-fix-bugs-and-review-code-on-autopilot/",
+    "https://the-decoder.com/ukraine-captures-a-russian-position-using-only-drones-and-ground-robots/",
+    "https://www.technologyreview.com/2026/04/14/1134397/redefining-the-future-of-software-engineering/",
+    "https://www.technologyreview.com/2026/04/14/1135847/the-download-state-of-ai-drones-protecting-bears/",
+    "https://www.technologyreview.com/2026/04/14/1135848/nasa-nuclear-powered-spacecraft/",
     "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/",
     "https://www.technologyreview.com/2026/04/14/1135169/problem-thinking-part-neanderthal-human-evolution/",
-    "https://www.technologyreview.com/2026/04/13/1135720/why-opinion-on-ai-is-so-divided/",
-    "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/",
-    "https://www.technologyreview.com/2026/04/13/1135707/the-download-how-humans-make-decisions-and-modernas-vaccine-word-games/",
-    "https://www.cnbc.com/2026/04/13/sam-altman-openai-ai-arson.html",
-    "https://www.cnbc.com/2026/04/13/jim-cramer-stocks-rallying-despite-iran-war-why.html",
-    "https://www.cnbc.com/2026/04/13/oracle-expands-bloom-energy-deal-days-after-400-million-stock-warrant.html",
-    "https://www.cnbc.com/2026/04/13/oracle-orcl-stock-rally-software-ai-risk.html",
-    "https://www.cnbc.com/2026/04/13/intel-stock-historic-winning-streak.html",
-    "https://www.nytimes.com/2026/04/12/technology/elon-musk-tiktok.html",
-    "https://www.nytimes.com/2026/04/14/magazine/ai-sunglasses-meta-zuckerberg.html",
+    "https://www.cnbc.com/2026/04/14/jim-cramer-says-the-market-rally-shows-why-you-cant-bail-on-stocks.html",
+    "https://www.cnbc.com/2026/04/14/elon-musk-xai-memphis-data-centers.html",
+    "https://www.cnbc.com/2026/04/14/meta-commits-to-one-gigawatt-of-custom-chips-with-broadcom-as-hock-tan-agrees-to-leave-board.html",
+    "https://www.cnbc.com/2026/04/14/crypto-exchange-kraken-confirms-it-has-confidentially-filed-for-an-ipo.html",
+    "https://www.cnbc.com/2026/04/14/nvidia-stock-nvda-ai-streak.html",
+    "https://www.nytimes.com/2026/04/14/technology/amazon-buys-globalstar-space-internet.html",
     "https://www.nytimes.com/2026/04/13/technology/man-who-attacked-openai-ceos-home-had-list-of-other-ai-executives.html",
-    "https://www.theguardian.com/technology/2026/apr/13/dont-make-marshal-fochs-mistake-on-ai",
-    "https://www.theguardian.com/business/2026/apr/13/goldman-sachs-chief-hyper-aware-risks-anthropics-mythos-ai-david-solomon",
-    "https://www.theguardian.com/technology/2026/apr/13/meta-ai-mark-zuckerberg-staff-talk-to-the-boss",
-    "https://www.wired.com/story/the-big-interview-podcast-new-york-state-representative-alex-bores/",
-    "https://www.wired.com/story/unitree-r1-humanoid-robot-for-sale-on-aliexpress/"
+    "https://www.nytimes.com/2026/04/14/magazine/ai-sunglasses-meta-zuckerberg.html",
+    "https://www.theguardian.com/technology/2026/apr/14/china-now-ais-good-guy-as-us-takes-a-wild-west-approach-mps-told",
+    "https://www.theguardian.com/technology/2026/apr/14/naacp-lawsuit-elon-musk-xai-memphis",
+    "https://www.theguardian.com/commentisfree/2026/apr/14/ai-opinion-piece-column-writing-articles-certified-human-writer",
+    "https://www.theguardian.com/technology/2026/apr/14/ai-productivity-workplace-errors",
+    "https://www.theguardian.com/business/2026/apr/14/nissan-turnaround-plan-pins-hopes-on-ai-defined-vehicles"
   ],
-  "generatedAt": "2026-04-14T11:55:36.890Z"
+  "generatedAt": "2026-04-14T23:35:37.778Z",
+  "simpleSummaryImageUrl": "/images/2026-04-14/2026-04-14-summary.webp"
 }
