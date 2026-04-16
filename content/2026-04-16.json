@@ -2,10 +2,11 @@
   "date": "2026-04-16",
   "dateFormatted": "April 16, 2026",
   "headline": {
-    "title": "DeepL, known for text translation, now wants to translate your voice",
-    "summary": "DeepL says its tech could be used for real-time translation with meeting tools like Zoom and Microsoft Teams",
-    "sourceUrl": "https://techcrunch.com/2026/04/16/deepl-known-for-text-translation-now-wants-to-translate-your-voice/",
-    "sourceName": "TechCrunch AI"
+    "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
+    "summary": "The three-year-old startup raised $150 million led by Khosla Ventures.",
+    "sourceUrl": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
+    "sourceName": "TechCrunch AI",
+    "imageUrl": "/images/2026-04-16/2026-04-16-hero.webp"
   },
   "simpleSummary": [
     "Today's edition was assembled directly from RSS feeds without AI curation.",
@@ -15,200 +16,290 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "DeepL, known for text translation, now wants to translate your voice",
-        "summary": "DeepL says its tech could be used for real-time translation with meeting tools like Zoom and Microsoft Teams",
-        "content": "DeepL says its tech could be used for real-time translation with meeting tools like Zoom and Microsoft Teams",
+        "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
+        "summary": "The three-year-old startup raised $150 million led by Khosla Ventures.",
+        "content": "The three-year-old startup raised $150 million led by Khosla Ventures.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/16/deepl-known-for-text-translation-now-wants-to-translate-your-voice/",
+        "sourceUrl": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Thu, 16 Apr 2026 08:00:00 +0000",
+        "publishedAt": "Thu, 16 Apr 2026 22:55:30 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-16/2026-04-16-tools-AI-001.webp"
       },
       {
         "id": "AI-002",
-        "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
-        "summary": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity.",
-        "content": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity.",
+        "title": "Luma launches AI-powered production studio with faith-focused Wonder Project",
+        "summary": "The studio's first project will be about Moses and star Academy Award-winner Ben Kingsley, to be released this spring on Prime Video.",
+        "content": "The studio's first project will be about Moses and star Academy Award-winner Ben Kingsley, to be released this spring on Prime Video.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
+        "sourceUrl": "https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Wed, 15 Apr 2026 19:28:36 +0000",
+        "publishedAt": "Thu, 16 Apr 2026 21:58:08 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-16/2026-04-16-tools-AI-002.webp"
       },
       {
         "id": "AI-003",
-        "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
-        "summary": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers.",
-        "content": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers.",
+        "title": "Upscale AI in talks to raise at $2B valuation, says report",
+        "summary": "AI infrastructure company Upscale AI is reportedly in talks to raise its third funding round since launching just seven months ago.",
+        "content": "AI infrastructure company Upscale AI is reportedly in talks to raise its third funding round since launching just seven months ago.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
+        "sourceUrl": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Wed, 15 Apr 2026 18:55:12 +0000",
+        "publishedAt": "Thu, 16 Apr 2026 20:41:13 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-16/2026-04-16-tools-AI-003.webp"
       },
       {
         "id": "AI-004",
-        "title": "LinkedIn data shows AI isn’t to blame for hiring decline… yet",
-        "summary": "LinkedIn says hiring is down 20% since 2022, but blames higher interest rates — not AI — for the slowdown.",
-        "content": "LinkedIn says hiring is down 20% since 2022, but blames higher interest rates — not AI — for the slowdown.",
+        "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
+        "summary": "The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.",
+        "content": "The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/",
+        "sourceUrl": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Wed, 15 Apr 2026 18:51:54 +0000",
+        "publishedAt": "Thu, 16 Apr 2026 20:26:44 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-16/2026-04-16-tools-AI-004.webp"
       },
       {
         "id": "AI-005",
-        "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
-        "summary": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding.",
-        "content": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding.",
+        "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
+        "summary": "OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities.",
+        "content": "OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
+        "sourceUrl": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Wed, 15 Apr 2026 18:38:10 +0000",
+        "publishedAt": "Thu, 16 Apr 2026 19:18:41 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-16/2026-04-16-tools-AI-005.webp"
       }
     ],
     "creative": [
       {
         "id": "AI-006",
-        "title": "Adobe turns its creative suite into a chatbot with the new Firefly AI Assistant",
-        "summary": "With the Firefly AI Assistant, Adobe is launching an AI agent that manages creative workflows across apps like Photoshop and Premiere from a single chat interface.\nThe article Adobe turns its creative suite into a chatbot with the new Firefly AI Assi",
-        "content": "With the Firefly AI Assistant, Adobe is launching an AI agent that manages creative workflows across apps like Photoshop and Premiere from a single chat interface.\nThe article Adobe turns its creative suite into a chatbot with the new Firefly AI Assistant appeared first on The Decoder.",
+        "title": "OpenAI turns Codex into an always-on coding agent that watches your screen",
+        "summary": "OpenAI is massively expanding its developer tool Codex: the AI can now control a Mac on its own, generate images, remember preferences, and keep working on tasks autonomously for weeks. The move takes direct aim at Anthropic's Claude Code.\nThe articl",
+        "content": "OpenAI is massively expanding its developer tool Codex: the AI can now control a Mac on its own, generate images, remember preferences, and keep working on tasks autonomously for weeks. The move takes direct aim at Anthropic's Claude Code.\nThe article OpenAI turns Codex into an always-on coding agent that watches your screen appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/adobe-turns-its-creative-suite-into-a-chatbot-with-the-new-firefly-ai-assistant/",
+        "sourceUrl": "https://the-decoder.com/openai-turns-codex-into-an-always-on-coding-agent-that-watches-your-screen/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Wed, 15 Apr 2026 18:39:44 +0000",
+        "publishedAt": "Thu, 16 Apr 2026 17:56:14 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-16/2026-04-16-creative-AI-006.webp"
       },
       {
         "id": "AI-007",
-        "title": "OpenAI updates Agents SDK with new sandbox support for safer AI agents",
-        "summary": "OpenAI has shipped a major update to its Agents SDK, adding native sandbox support and new tools. Developers can now build AI agents that check files, write code, and handle complex tasks in isolated environments.\nThe article OpenAI updates Agents SD",
-        "content": "OpenAI has shipped a major update to its Agents SDK, adding native sandbox support and new tools. Developers can now build AI agents that check files, write code, and handle complex tasks in isolated environments.\nThe article OpenAI updates Agents SDK with new sandbox support for safer AI agents appeared first on The Decoder.",
+        "title": "OpenAI says more women than men now use ChatGPT, flipping an 80-20 male split at launch",
+        "summary": "More women than men now use ChatGPT regularly, according to OpenAI's own data. The company also estimates China's AI spending at up to $125 billion and argues that computing power is becoming the defining competitive advantage in the AI race.\nThe art",
+        "content": "More women than men now use ChatGPT regularly, according to OpenAI's own data. The company also estimates China's AI spending at up to $125 billion and argues that computing power is becoming the defining competitive advantage in the AI race.\nThe article OpenAI says more women than men now use ChatGPT, flipping an 80-20 male split at launch appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/openai-updates-agents-sdk-with-new-sandbox-support-for-safer-ai-agents/",
+        "sourceUrl": "https://the-decoder.com/openai-says-more-women-than-men-now-use-chatgpt-flipping-an-80-20-male-split-at-launch/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Wed, 15 Apr 2026 18:06:10 +0000",
+        "publishedAt": "Thu, 16 Apr 2026 16:47:39 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-16/2026-04-16-creative-AI-007.webp"
       },
       {
         "id": "AI-008",
-        "title": "Google ships its most expressive Gemini 3.1 text-to-speech model yet with 70+ language support",
-        "summary": "Google Gemini 3.1 Flash TTS converts text into natural-sounding speech in over 70 languages, with new audio tags for precise control over style, pace and tone.\nThe article Google ships its most expressive Gemini 3.1 text-to-speech model yet with 70+ ",
-        "content": "Google Gemini 3.1 Flash TTS converts text into natural-sounding speech in over 70 languages, with new audio tags for precise control over style, pace and tone.\nThe article Google ships its most expressive Gemini 3.1 text-to-speech model yet with 70+ language support appeared first on The Decoder.",
+        "title": "Nvidia wants to scale robot simulation training with Lyra 2.0",
+        "summary": "Nvidia researchers have unveiled Lyra 2.0, a system that generates large, coherent 3D environments from a single photograph. The resulting scenes can be explored in real time and used directly in robot simulations.\nThe article Nvidia wants to scale r",
+        "content": "Nvidia researchers have unveiled Lyra 2.0, a system that generates large, coherent 3D environments from a single photograph. The resulting scenes can be explored in real time and used directly in robot simulations.\nThe article Nvidia wants to scale robot simulation training with Lyra 2.0 appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/google-ships-its-most-expressive-gemini-3-1-text-to-speech-model-yet-with-70-language-support/",
+        "sourceUrl": "https://the-decoder.com/nvidia-wants-to-scale-robot-simulation-training-with-lyra-2-0/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Wed, 15 Apr 2026 17:45:07 +0000",
+        "publishedAt": "Thu, 16 Apr 2026 16:33:31 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-16/2026-04-16-creative-AI-008.webp"
       },
       {
         "id": "AI-009",
-        "title": "Anthropic prepares Opus 4.7 and AI design tool, VCs offer up to 800 billion dollars",
-        "summary": "Anthropic is preparing to release a new model and a design tool that would compete with Adobe and Figma. Meanwhile, venture capitalists are lining up to invest at sky-high valuations.\nThe article Anthropic prepares Opus 4.7 and AI design tool, VCs of",
-        "content": "Anthropic is preparing to release a new model and a design tool that would compete with Adobe and Figma. Meanwhile, venture capitalists are lining up to invest at sky-high valuations.\nThe article Anthropic prepares Opus 4.7 and AI design tool, VCs offer up to 800 billion dollars appeared first on The Decoder.",
+        "title": "India's 1.5 million annual IT graduates face an industry that's moving on without them",
+        "summary": "A Bloomberg report reveals how agentic AI is shaking up India's massive IT industry. Companies like Infosys are spending weeks retraining new hires because the country's universities aren't keeping up with reality.\nThe article India's 1.5 million ann",
+        "content": "A Bloomberg report reveals how agentic AI is shaking up India's massive IT industry. Companies like Infosys are spending weeks retraining new hires because the country's universities aren't keeping up with reality.\nThe article India's 1.5 million annual IT graduates face an industry that's moving on without them appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/anthropic-prepares-opus-4-7-and-ai-design-tool-vcs-offer-up-to-800-billion-dollars/",
+        "sourceUrl": "https://the-decoder.com/indias-1-5-million-annual-it-graduates-face-an-industry-thats-moving-on-without-them/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Wed, 15 Apr 2026 14:26:04 +0000",
+        "publishedAt": "Thu, 16 Apr 2026 16:26:49 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-16/2026-04-16-creative-AI-009.webp"
       },
       {
         "id": "AI-010",
-        "title": "Claude beat human researchers on an alignment task, and then the results vanished in production",
-        "summary": "In a controlled experiment, nine autonomous Claude instances dramatically outperformed human researchers on an open alignment problem. But when Anthropic tried to transfer the winning method to its own production models, the effect vanished.\nThe arti",
-        "content": "In a controlled experiment, nine autonomous Claude instances dramatically outperformed human researchers on an open alignment problem. But when Anthropic tried to transfer the winning method to its own production models, the effect vanished.\nThe article Claude beat human researchers on an alignment task, and then the results vanished in production appeared first on The Decoder.",
+        "title": "Google launches native Gemini app for Mac",
+        "summary": "Google has released a native Gemini app for Mac, marking the first desktop version of its AI assistant alongside the existing smartphone apps.\nThe article Google launches native Gemini app for Mac appeared first on The Decoder.",
+        "content": "Google has released a native Gemini app for Mac, marking the first desktop version of its AI assistant alongside the existing smartphone apps.\nThe article Google launches native Gemini app for Mac appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/claude-beat-human-researchers-on-an-alignment-task-and-then-the-results-vanished-in-production/",
+        "sourceUrl": "https://the-decoder.com/google-launches-native-gemini-app-for-mac/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Wed, 15 Apr 2026 13:54:11 +0000",
+        "publishedAt": "Thu, 16 Apr 2026 16:18:48 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-16/2026-04-16-creative-AI-010.webp"
       }
     ],
     "research": [
       {
         "id": "AI-011",
+        "title": "Making AI operational in constrained public sector environments",
+        "summary": "The AI boom has hit across industries, and public sector organizations are facing pressure to accelerate adoption. At the same time, government institutions face distinct constraints around security, governance, and operations that set them apart fro",
+        "content": "The AI boom has hit across industries, and public sector organizations are facing pressure to accelerate adoption. At the same time, government institutions face distinct constraints around security, governance, and operations that set them apart from their business counterparts. For this reason, purpose-built small language models (SLMs) offer a promising path to operationalize AI in…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 16 Apr 2026 13:00:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ],
+        "imageUrl": "/images/2026-04-16/2026-04-16-research-AI-011.webp"
+      },
+      {
+        "id": "AI-012",
+        "title": "Treating enterprise AI as an operating layer",
+        "summary": "There’s a fault line running through enterprise AI, and it’s not the one getting the most attention. The public conversation still tracks foundation models and benchmarks—GPT versus Gemini, reasoning scores, and marginal capability gains. But in prac",
+        "content": "There’s a fault line running through enterprise AI, and it’s not the one getting the most attention. The public conversation still tracks foundation models and benchmarks—GPT versus Gemini, reasoning scores, and marginal capability gains. But in practice, the more durable advantage is structural: who owns the operating layer where intelligence is applied, governed, and improved.…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 16 Apr 2026 13:00:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ],
+        "imageUrl": "/images/2026-04-16/2026-04-16-research-AI-012.webp"
+      },
+      {
+        "id": "AI-013",
+        "title": "The Download: cyberscammers’ banking bypasses, and carbon removal troubles",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram  Inside a money-laundering cente",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram  Inside a money-laundering center in Cambodia, an employee opens a banking app on his phone. It asks for a photo linked to the…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/04/16/1136034/the-download-cyberscammers-banking-bypasses-microsoft-carbon-removal-troubles/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 16 Apr 2026 12:10:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ],
+        "imageUrl": "/images/2026-04-16/2026-04-16-research-AI-013.webp"
+      },
+      {
+        "id": "AI-014",
+        "title": "Why having “humans in the loop” in an AI war is an illusion",
+        "summary": "The availability of artificial intelligence for use in warfare is at the center of a legal battle between Anthropic and the Pentagon. This debate has become urgent, with AI playing a bigger role than ever before in the current conflict with Iran. AI ",
+        "content": "The availability of artificial intelligence for use in warfare is at the center of a legal battle between Anthropic and the Pentagon. This debate has become urgent, with AI playing a bigger role than ever before in the current conflict with Iran. AI is no longer just helping humans analyze intelligence. It is now an…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 16 Apr 2026 12:00:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ],
+        "imageUrl": "/images/2026-04-16/2026-04-16-research-AI-014.webp"
+      },
+      {
+        "id": "AI-015",
         "title": "The noise we make is hurting animals. Can we learn to shut up?",
         "summary": "When the covid-19 pandemic started, Jennifer Phillips thought about the songs of the sparrows. They were easier to hear, because the world had suddenly become quieter. Car traffic plummeted as people sheltered at home and shifted to remote work. Air ",
         "content": "When the covid-19 pandemic started, Jennifer Phillips thought about the songs of the sparrows. They were easier to hear, because the world had suddenly become quieter. Car traffic plummeted as people sheltered at home and shifted to remote work. Air travel collapsed. Cities—normally filled with the honking, screeching, engine-gunning riot of transportation—became as silent as…",
@@ -224,181 +315,111 @@
         "publishedAt": "Thu, 16 Apr 2026 10:00:00 +0000",
         "normalizedTags": [
           "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-012",
-        "title": "The quest to measure our relationship with nature",
-        "summary": "As a movement, environmentalism has been pretty misanthropic. Understandably so—we humans have done some destructive things to the ecosystems around us. In the 21st century, though, mainstream conservation is learning that humans can be a force for g",
-        "content": "As a movement, environmentalism has been pretty misanthropic. Understandably so—we humans have done some destructive things to the ecosystems around us. In the 21st century, though, mainstream conservation is learning that humans can be a force for good. Foresters are turning to Indigenous burning practices to prevent wildfires. Biologists are realizing that flower-dotted meadows were…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/04/16/1135245/measure-relationship-with-nature-index/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
         ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 16 Apr 2026 10:00:00 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-013",
-        "title": "Is carbon removal in trouble?",
-        "summary": "Last week, news outlets reported that Microsoft was pausing carbon removal purchases. It was something of a bombshell. The thing is, Microsoft is the carbon removal market. The company has single-handedly purchased something like 80% of all contracte",
-        "content": "Last week, news outlets reported that Microsoft was pausing carbon removal purchases. It was something of a bombshell. The thing is, Microsoft is the carbon removal market. The company has single-handedly purchased something like 80% of all contracted carbon removal. If you’re looking for someone to pay you to suck carbon dioxide out of the…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/04/16/1135928/carbon-removal-microsoft/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 16 Apr 2026 10:00:00 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-014",
-        "title": "The Download: NASA’s nuclear spacecraft and unveiling our AI 10",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?  Just before Art",
-        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?  Just before Artemis II began its historic slingshot around the moon, NASA revealed an even grander space travel…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/04/15/1135904/the-download-nasa-nuclear-powered-spacecraft-10-things-that-matter-in-ai-right-now/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Wed, 15 Apr 2026 12:10:00 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-015",
-        "title": "Exploration and Exploitation Errors Are Measurable for Language Model Agents",
-        "summary": "arXiv:2604.13151v1 Announce Type: new \nAbstract: Language Model (LM) agents are increasingly used in complex open-ended decision-making tasks, from AI coding to physical AI. A core requirement in these settings is the ability to both explore the prob",
-        "content": "arXiv:2604.13151v1 Announce Type: new \nAbstract: Language Model (LM) agents are increasingly used in complex open-ended decision-making tasks, from AI coding to physical AI. A core requirement in these settings is the ability to both explore the problem space and exploit acquired knowledge effectively. However, systematically distinguishing and quantifying exploration and exploitation from observed actions without access to the agent's internal policy remains challenging. To address this, we des",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://arxiv.org/abs/2604.13151",
-        "sourceName": "ArXiv CS.AI",
-        "tags": [
-          "ArXiv CS.AI"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 16 Apr 2026 00:00:00 -0400",
-        "normalizedTags": [
-          "arxiv cs.ai"
-        ]
+        "imageUrl": "/images/2026-04-16/2026-04-16-research-AI-015.webp"
       }
     ],
     "applications": [],
     "business": [
       {
         "id": "AI-016",
-        "title": "Anthropic unveils plans for major UK expansion after OpenAI announces first permanent London office",
-        "summary": "The move follows a U.K. campaign to court the U.S. company following its fallout with the Pentagon.",
-        "content": "The move follows a U.K. campaign to court the U.S. company following its fallout with the Pentagon.",
+        "title": "Here's our monthly update on all 31 portfolio stocks, including 3 on the buy list",
+        "summary": "Jim Cramer gave his latest thinking on all 31 stocks owned by the CNBC Investing Club, including Nvidia, Apple, and Microsoft.",
+        "content": "Jim Cramer gave his latest thinking on all 31 stocks owned by the CNBC Investing Club, including Nvidia, Apple, and Microsoft.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/16/anthropic-london-office-800-staff-openai-expansion.html",
+        "sourceUrl": "https://www.cnbc.com/2026/04/16/heres-our-april-update-on-all-31-portfolio-stocks-including-4-buys.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Thu, 16 Apr 2026 09:34:03 GMT",
+        "publishedAt": "Thu, 16 Apr 2026 19:14:37 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-16/2026-04-16-business-AI-016.webp"
       },
       {
         "id": "AI-017",
-        "title": "TSMC first-quarter profit rises 58%, beats estimates as AI demand fuels record run",
-        "summary": "TSMC reported another quarter of record profit, with the company expecting AI demand to continue to grow.",
-        "content": "TSMC reported another quarter of record profit, with the company expecting AI demand to continue to grow.",
+        "title": "Google will let users connect their photos to the Gemini chatbot and Nano Banana",
+        "summary": "Linking Gemini directly to a user's photo library represents a bigger step in the AI chatbot link to private information.",
+        "content": "Linking Gemini directly to a user's photo library represents a bigger step in the AI chatbot link to private information.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/16/tsmc-q1-profit-58-percent-ai-chip-demand-record.html",
+        "sourceUrl": "https://www.cnbc.com/2026/04/16/google-photo-gemini-chatbot-nano-banana.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Thu, 16 Apr 2026 08:13:48 GMT",
+        "publishedAt": "Thu, 16 Apr 2026 19:53:52 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-16/2026-04-16-business-AI-017.webp"
       },
       {
         "id": "AI-018",
-        "title": "The public sours on AI and data centers as Anthropic, OpenAI look to IPO and tech keeps spending",
-        "summary": "Negativity around AI could be a drag on OpenAI and Anthropic as the startups look to go public, and will likely be a major issue in the midterm elections.",
-        "content": "Negativity around AI could be a drag on OpenAI and Anthropic as the startups look to go public, and will likely be a major issue in the midterm elections.",
+        "title": "Quantum stocks on pace for a massive week after Nvidia debuts AI models to boost the tech",
+        "summary": "Hyperscalers Alphabet, Amazon and Microsoft have been investing heavily in chips to power quantum computing",
+        "content": "Hyperscalers Alphabet, Amazon and Microsoft have been investing heavily in chips to power quantum computing",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/15/public-opinion-ai-data-centers-anthropic-openai-ipo.html",
+        "sourceUrl": "https://www.cnbc.com/2026/04/16/quantum-stocks-nvidia-ai-models.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Wed, 15 Apr 2026 23:58:12 GMT",
+        "publishedAt": "Thu, 16 Apr 2026 20:15:50 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-16/2026-04-16-business-AI-018.webp"
       },
       {
         "id": "AI-019",
-        "title": "Cramer's lightning round: Nokia still has room to run",
-        "summary": "\"Mad Money\" host Jim Cramer rings the lightning round bell, which means he's giving his answers to callers' stock questions at rapid speed.",
-        "content": "\"Mad Money\" host Jim Cramer rings the lightning round bell, which means he's giving his answers to callers' stock questions at rapid speed.",
+        "title": "Anthropic rolls out Claude Opus 4.7, an AI model that is less risky than Mythos",
+        "summary": "Claude Mythos Preview is Anthropic's most powerful AI model that excels at identifying weaknesses and security flaws within software.",
+        "content": "Claude Mythos Preview is Anthropic's most powerful AI model that excels at identifying weaknesses and security flaws within software.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/15/cramers-lightning-round-nokia-still-has-room-to-run.html",
+        "sourceUrl": "https://www.cnbc.com/2026/04/16/anthropic-claude-opus-4-7-model-mythos.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Wed, 15 Apr 2026 22:53:44 GMT",
+        "publishedAt": "Thu, 16 Apr 2026 16:25:45 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-16/2026-04-16-business-AI-019.webp"
       },
       {
         "id": "AI-020",
-        "title": "The market is seeing a feverish rotation. Here’s Cramer’s advice on how to play it",
-        "summary": "CNBC’s Jim Cramer offers guidance for navigating a “tricky” market rotation.",
-        "content": "CNBC’s Jim Cramer offers guidance for navigating a “tricky” market rotation.",
+        "title": "TSMC and ASML post-earnings stock moves could be a sign of what's to come from chip companies",
+        "summary": "Two of the biggest chipmakers, TSMC and ASML, failed to catch major tail winds from strong earnings. It could be a bellwether for the chip industry as a whole.",
+        "content": "Two of the biggest chipmakers, TSMC and ASML, failed to catch major tail winds from strong earnings. It could be a bellwether for the chip industry as a whole.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/15/jim-cramer-navigate-market-rotation.html",
+        "sourceUrl": "https://www.cnbc.com/2026/04/16/taiwan-semi-tsm-asml-stock-earnings-ai-chips.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Wed, 15 Apr 2026 22:29:35 GMT",
+        "publishedAt": "Thu, 16 Apr 2026 18:03:42 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-16/2026-04-16-business-AI-020.webp"
       }
     ],
     "policy": [
@@ -416,32 +437,14 @@
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Wed, 15 Apr 2026 15:19:41 +0000",
+        "publishedAt": "Thu, 16 Apr 2026 17:36:09 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-16/2026-04-16-policy-AI-021.webp"
       },
       {
         "id": "AI-022",
-        "title": "That Meeting You Hate May Keep A.I. From Stealing Your Job",
-        "summary": "As artificial intelligence makes many tasks easier, the human work of cajoling, arm-twisting and reassuring appears to be rising in importance.",
-        "content": "As artificial intelligence makes many tasks easier, the human work of cajoling, arm-twisting and reassuring appears to be rising in importance.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/04/15/business/ai-jobs-human-work.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Wed, 15 Apr 2026 21:01:24 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-023",
         "title": "Sneaker Company Allbirds Plans to Pivot to A.I. Yes, A.I.",
         "summary": "After selling its business for $39 million last month, the company said it planned to buy powerful computer chips and rebrand itself NewBird AI.",
         "content": "After selling its business for $39 million last month, the company said it planned to buy powerful computer chips and rebrand itself NewBird AI.",
@@ -457,51 +460,154 @@
         "publishedAt": "Thu, 16 Apr 2026 00:31:58 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-16/2026-04-16-policy-AI-022.webp"
+      },
+      {
+        "id": "AI-023",
+        "title": "Pentagon Seeks Help From Ford and G.M.",
+        "summary": "Concerned about the slow pace and high cost of weapons production, Pentagon officials have begun talks with General Motors and Ford Motor about producing certain parts.",
+        "content": "Concerned about the slow pace and high cost of weapons production, Pentagon officials have begun talks with General Motors and Ford Motor about producing certain parts.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/04/16/business/pentagon-ford-general-motors-defense-production.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 16 Apr 2026 21:23:00 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-04-16/2026-04-16-policy-AI-023.webp"
       },
       {
         "id": "AI-024",
-        "title": "Ford Says Doug Field, Who Led Company's E.V. Push, is Leaving",
-        "summary": "Doug Field, a former Tesla and Apple executive, had returned to Ford Motor in 2021 to help develop new electric models and software.",
-        "content": "Doug Field, a former Tesla and Apple executive, had returned to Ford Motor in 2021 to help develop new electric models and software.",
+        "title": "They Were YouTube’s First Stars. Here’s What They Wish They’d Known.",
+        "summary": "MatPat, Miranda Sings, Grace Helbig and WheezyWaiter hit it big on YouTube long before it became a behemoth. They have thoughts about what it takes to succeed there.",
+        "content": "MatPat, Miranda Sings, Grace Helbig and WheezyWaiter hit it big on YouTube long before it became a behemoth. They have thoughts about what it takes to succeed there.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/04/15/business/ford-electric-vehicles-doug-field.html",
+        "sourceUrl": "https://www.nytimes.com/2026/04/15/arts/television/early-youtube-stars-success-learnings.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Wed, 15 Apr 2026 21:22:20 +0000",
+        "publishedAt": "Thu, 16 Apr 2026 14:30:51 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-16/2026-04-16-policy-AI-024.webp"
       },
       {
         "id": "AI-025",
-        "title": "Ad Companies Settle With F.T.C. Over Claims of Harm to Conservative Sites",
-        "summary": "WPP, Dentsu and Publicis settled claims they colluded on policies to combat misinformation, denying ad revenue to publishers on the right.",
-        "content": "WPP, Dentsu and Publicis settled claims they colluded on policies to combat misinformation, denying ad revenue to publishers on the right.",
+        "title": "I Feel So Sorry for My A.I. Sunglasses",
+        "summary": "Plenty of people hate Mark Zuckerberg’s superintelligent, supercharged spectacles. I was ready to hate them, too.",
+        "content": "Plenty of people hate Mark Zuckerberg’s superintelligent, supercharged spectacles. I was ready to hate them, too.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/04/15/technology/ftc-ad-companies-settlement.html",
+        "sourceUrl": "https://www.nytimes.com/2026/04/14/magazine/ai-sunglasses-meta-zuckerberg.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Wed, 15 Apr 2026 18:08:36 +0000",
+        "publishedAt": "Thu, 16 Apr 2026 20:12:57 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-16/2026-04-16-policy-AI-025.webp"
       }
     ],
     "concerns": [],
     "culture": [
       {
         "id": "AI-026",
+        "title": "Man used AI to make false statements to shut down London nightclub, police say",
+        "summary": "Heaven club neighbour admits offences under Licensing Act, as Met says fictitious AI-generated complaints a growing issue  \nA businessman has pleaded guilty to making false statements in order to shut down a nightclub, which police believe were gener",
+        "content": "Heaven club neighbour admits offences under Licensing Act, as Met says fictitious AI-generated complaints a growing issue  \nA businessman has pleaded guilty to making false statements in order to shut down a nightclub, which police believe were generated using AI.\nA Metropolitan police source said the use of AI to generate letters by complainants who do not exist is a growing issue.\n Continue reading...",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/apr/16/man-pleads-guilty-false-statements-shut-down-london-nightclub-heaven",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 16 Apr 2026 16:47:20 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-04-16/2026-04-16-culture-AI-026.webp"
+      },
+      {
+        "id": "AI-027",
+        "title": "Ben Jennings on the US-Iran war and AI slop – cartoon",
+        "summary": "Continue reading...",
+        "content": "Continue reading...",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/commentisfree/picture/2026/apr/16/ben-jennings-us-iran-war-ai-slop-cartoon",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 16 Apr 2026 17:14:22 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-04-16/2026-04-16-culture-AI-027.webp"
+      },
+      {
+        "id": "AI-028",
+        "title": "Tell us: do you use AI for fitness?",
+        "summary": "Is AI helping with your workouts? We want to hear about it\nAccording to reports, people are incorporating AI into their fitness routines in a variety of ways; they have it write up training plans, design meal plans and workout playlists, and provide ",
+        "content": "Is AI helping with your workouts? We want to hear about it\nAccording to reports, people are incorporating AI into their fitness routines in a variety of ways; they have it write up training plans, design meal plans and workout playlists, and provide feedback on form.\nWe want to hear from you: how are you using AI in your workouts?\n Continue reading...",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/lifeandstyle/2026/apr/16/tell-us-do-you-use-ai-for-fitness",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 16 Apr 2026 15:55:44 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-04-16/2026-04-16-culture-AI-028.webp"
+      },
+      {
+        "id": "AI-029",
+        "title": "First trailer released for western starring AI version of Val Kilmer",
+        "summary": "Footage of As Deep As the Grave screened in the US, featuring an authorised visual deepfake of the actor who died in 2025\nA trailer has been released for the first film to star an authorised generative AI version of a major Hollywood actor.\nVal Kilme",
+        "content": "Footage of As Deep As the Grave screened in the US, featuring an authorised visual deepfake of the actor who died in 2025\nA trailer has been released for the first film to star an authorised generative AI version of a major Hollywood actor.\nVal Kilmer was cast in western As Deep As the Grave before his death in April 2025. Production delays meant he never shot any scenes, but the creative team worked with UK-based company Sonantic to create an AI speaking voice based on his old recordings.\n Cont",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/film/2026/apr/16/first-trailer-released-for-ai-val-kilmer-western",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 16 Apr 2026 13:42:43 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-04-16/2026-04-16-culture-AI-029.webp"
+      },
+      {
+        "id": "AI-030",
         "title": "AI is destroying jobs – and the energy crisis could make that much worse | Larry Elliott",
         "summary": "Every wave of new tech has come with a doomsday scenario. But governments just aren’t planning a human response on the scale required \nThe transition to a world of artificial intelligence has given a whole new meaning to the concept that capitalism c",
         "content": "Every wave of new tech has come with a doomsday scenario. But governments just aren’t planning a human response on the scale required \nThe transition to a world of artificial intelligence has given a whole new meaning to the concept that capitalism can only renew itself through creative destruction. This is the idea that clapped-out technologies have to be replaced by new ways of doing things, even though the process can be brutal.\nThat has been the way of things for every new wave of inventions",
@@ -517,83 +623,8 @@
         "publishedAt": "Thu, 16 Apr 2026 08:00:52 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-027",
-        "title": "Australian federal court warns lawyers over ‘unacceptable’ use of AI",
-        "summary": "New guidance to legal profession ‘embraces’ use of technology but flags penalties for lawyers who ‘mislead the court’ with AI-generated errors\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily new",
-        "content": "New guidance to legal profession ‘embraces’ use of technology but flags penalties for lawyers who ‘mislead the court’ with AI-generated errors\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nThe federal court of Australia has warned the legal profession about the dangers of using generative artificial intelligence in legal proceedings, issuing new rules for its use, with potential financial or legal consequences if AI errors f",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/law/2026/apr/16/australia-federal-court-warning-lawyers-ai-artificial-intelligence",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
         ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 16 Apr 2026 04:14:52 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-028",
-        "title": "Shares in Allbirds surge after maker of wool sneakers announces pivot to AI",
-        "summary": "Rebrand as NewBird AI sent shares up 582% in bizarre and rapid turnaround for firm that had fallen on hard times\nAllbirds, the maker of minimalist wool sneakers beloved by Silicon Valley, announced on Wednesday that it is leaving shoes behind and piv",
-        "content": "Rebrand as NewBird AI sent shares up 582% in bizarre and rapid turnaround for firm that had fallen on hard times\nAllbirds, the maker of minimalist wool sneakers beloved by Silicon Valley, announced on Wednesday that it is leaving shoes behind and pivoting to artificial intelligence. The new focus and rebrand as “NewBird AI” sent the company’s stock up 582% as of mid-day during a flurry of trading.\nThe surging stock price and new direction is a bizarre, rapid turnaround for a company that had fal",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/business/2026/apr/15/allbirds-stock-ai-pivot",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Wed, 15 Apr 2026 21:00:47 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-029",
-        "title": "Child victims of online sexual abuse in UK inadequately protected, review finds",
-        "summary": "Lack of funding leaving police forces failing to keep pace with two-thirds annual increase in referrals, says report\nChild victims of online sexual abuse are being inadequately protected from further harm because police forces are struggling to cope ",
-        "content": "Lack of funding leaving police forces failing to keep pace with two-thirds annual increase in referrals, says report\nChild victims of online sexual abuse are being inadequately protected from further harm because police forces are struggling to cope with an increase in this crime, his majesty’s chief inspector of constabulary has warned.\nMichelle Skeer said: “Without investment and coordination, the situation will worsen and children could be put at further risk.”\n Continue reading...",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/uk-news/2026/apr/15/child-victims-online-sexual-abuse-inadequately-protected",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Wed, 15 Apr 2026 21:00:39 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-030",
-        "title": "Grayson Perry Has Seen the Future review – some of these insights into AI are just mindblowing",
-        "summary": "From people marrying digital companions to CEOs excited about how people whose jobs are replaced can ‘adapt’, this is terrifying watching. But Perry is the perfect host\nThere is a fun game you can play while watching Grayson Perry Has Seen the Future",
-        "content": "From people marrying digital companions to CEOs excited about how people whose jobs are replaced can ‘adapt’, this is terrifying watching. But Perry is the perfect host\nThere is a fun game you can play while watching Grayson Perry Has Seen the Future, the three-part documentary presented by the artist on the subject of artificial intelligence, its uses and its possible ramifications. Gather a group of friends, press play, and see which of you loses your mind first.\nWill it be during the opening ",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/tv-and-radio/2026/apr/15/grayson-perry-has-seen-future-review",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Wed, 15 Apr 2026 21:00:38 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
+        "imageUrl": "/images/2026-04-16/2026-04-16-culture-AI-030.webp"
       }
     ]
   },
@@ -603,36 +634,37 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/04/16/deepl-known-for-text-translation-now-wants-to-translate-your-voice/",
-    "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
-    "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
-    "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/",
-    "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
-    "https://the-decoder.com/adobe-turns-its-creative-suite-into-a-chatbot-with-the-new-firefly-ai-assistant/",
-    "https://the-decoder.com/openai-updates-agents-sdk-with-new-sandbox-support-for-safer-ai-agents/",
-    "https://the-decoder.com/google-ships-its-most-expressive-gemini-3-1-text-to-speech-model-yet-with-70-language-support/",
-    "https://the-decoder.com/anthropic-prepares-opus-4-7-and-ai-design-tool-vcs-offer-up-to-800-billion-dollars/",
-    "https://the-decoder.com/claude-beat-human-researchers-on-an-alignment-task-and-then-the-results-vanished-in-production/",
+    "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
+    "https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/",
+    "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/",
+    "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
+    "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
+    "https://the-decoder.com/openai-turns-codex-into-an-always-on-coding-agent-that-watches-your-screen/",
+    "https://the-decoder.com/openai-says-more-women-than-men-now-use-chatgpt-flipping-an-80-20-male-split-at-launch/",
+    "https://the-decoder.com/nvidia-wants-to-scale-robot-simulation-training-with-lyra-2-0/",
+    "https://the-decoder.com/indias-1-5-million-annual-it-graduates-face-an-industry-thats-moving-on-without-them/",
+    "https://the-decoder.com/google-launches-native-gemini-app-for-mac/",
+    "https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/",
+    "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
+    "https://www.technologyreview.com/2026/04/16/1136034/the-download-cyberscammers-banking-bypasses-microsoft-carbon-removal-troubles/",
+    "https://www.technologyreview.com/2026/04/16/1136029/humans-in-the-loop-ai-war-illusion/",
     "https://www.technologyreview.com/2026/04/16/1135179/anthropogenic-noise-hurting-animals/",
-    "https://www.technologyreview.com/2026/04/16/1135245/measure-relationship-with-nature-index/",
-    "https://www.technologyreview.com/2026/04/16/1135928/carbon-removal-microsoft/",
-    "https://www.technologyreview.com/2026/04/15/1135904/the-download-nasa-nuclear-powered-spacecraft-10-things-that-matter-in-ai-right-now/",
-    "https://arxiv.org/abs/2604.13151",
-    "https://www.cnbc.com/2026/04/16/anthropic-london-office-800-staff-openai-expansion.html",
-    "https://www.cnbc.com/2026/04/16/tsmc-q1-profit-58-percent-ai-chip-demand-record.html",
-    "https://www.cnbc.com/2026/04/15/public-opinion-ai-data-centers-anthropic-openai-ipo.html",
-    "https://www.cnbc.com/2026/04/15/cramers-lightning-round-nokia-still-has-room-to-run.html",
-    "https://www.cnbc.com/2026/04/15/jim-cramer-navigate-market-rotation.html",
+    "https://www.cnbc.com/2026/04/16/heres-our-april-update-on-all-31-portfolio-stocks-including-4-buys.html",
+    "https://www.cnbc.com/2026/04/16/google-photo-gemini-chatbot-nano-banana.html",
+    "https://www.cnbc.com/2026/04/16/quantum-stocks-nvidia-ai-models.html",
+    "https://www.cnbc.com/2026/04/16/anthropic-claude-opus-4-7-model-mythos.html",
+    "https://www.cnbc.com/2026/04/16/taiwan-semi-tsm-asml-stock-earnings-ai-chips.html",
     "https://www.nytimes.com/2026/04/15/technology/how-jagged-intelligence-can-reframe-the-ai-debate.html",
-    "https://www.nytimes.com/2026/04/15/business/ai-jobs-human-work.html",
     "https://www.nytimes.com/2026/04/15/us/allbirds-shoes-ai-pivot.html",
-    "https://www.nytimes.com/2026/04/15/business/ford-electric-vehicles-doug-field.html",
-    "https://www.nytimes.com/2026/04/15/technology/ftc-ad-companies-settlement.html",
-    "https://www.theguardian.com/commentisfree/2026/apr/16/ai-destroying-jobs-energy-crisis-worse-doomsday-scenario",
-    "https://www.theguardian.com/law/2026/apr/16/australia-federal-court-warning-lawyers-ai-artificial-intelligence",
-    "https://www.theguardian.com/business/2026/apr/15/allbirds-stock-ai-pivot",
-    "https://www.theguardian.com/uk-news/2026/apr/15/child-victims-online-sexual-abuse-inadequately-protected",
-    "https://www.theguardian.com/tv-and-radio/2026/apr/15/grayson-perry-has-seen-future-review"
+    "https://www.nytimes.com/2026/04/16/business/pentagon-ford-general-motors-defense-production.html",
+    "https://www.nytimes.com/2026/04/15/arts/television/early-youtube-stars-success-learnings.html",
+    "https://www.nytimes.com/2026/04/14/magazine/ai-sunglasses-meta-zuckerberg.html",
+    "https://www.theguardian.com/technology/2026/apr/16/man-pleads-guilty-false-statements-shut-down-london-nightclub-heaven",
+    "https://www.theguardian.com/commentisfree/picture/2026/apr/16/ben-jennings-us-iran-war-ai-slop-cartoon",
+    "https://www.theguardian.com/lifeandstyle/2026/apr/16/tell-us-do-you-use-ai-for-fitness",
+    "https://www.theguardian.com/film/2026/apr/16/first-trailer-released-for-ai-val-kilmer-western",
+    "https://www.theguardian.com/commentisfree/2026/apr/16/ai-destroying-jobs-energy-crisis-worse-doomsday-scenario"
   ],
-  "generatedAt": "2026-04-16T11:57:24.568Z"
+  "generatedAt": "2026-04-16T23:33:07.112Z",
+  "simpleSummaryImageUrl": "/images/2026-04-16/2026-04-16-summary.webp"
 }
