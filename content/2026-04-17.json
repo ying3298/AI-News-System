@@ -2,10 +2,11 @@
   "date": "2026-04-17",
   "dateFormatted": "April 17, 2026",
   "headline": {
-    "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
-    "summary": "The three-year-old startup raised $150 million led by Khosla Ventures.",
-    "sourceUrl": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
-    "sourceName": "TechCrunch AI"
+    "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
+    "summary": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships.",
+    "sourceUrl": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
+    "sourceName": "TechCrunch AI",
+    "imageUrl": "/images/2026-04-17/2026-04-17-hero.webp"
   },
   "simpleSummary": [
     "Today's edition was assembled directly from RSS feeds without AI curation.",
@@ -15,200 +16,250 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
-        "summary": "The three-year-old startup raised $150 million led by Khosla Ventures.",
-        "content": "The three-year-old startup raised $150 million led by Khosla Ventures.",
+        "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
+        "summary": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships.",
+        "content": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
+        "sourceUrl": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Thu, 16 Apr 2026 22:55:30 +0000",
+        "publishedAt": "Fri, 17 Apr 2026 22:34:02 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-17/2026-04-17-tools-AI-001.webp"
       },
       {
         "id": "AI-002",
-        "title": "Luma launches AI-powered production studio with faith-focused Wonder Project",
-        "summary": "The studio's first project will be about Moses and star Academy Award-winner Ben Kingsley, to be released this spring on Prime Video.",
-        "content": "The studio's first project will be about Moses and star Academy Award-winner Ben Kingsley, to be released this spring on Prime Video.",
+        "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
+        "summary": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
+        "content": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/",
+        "sourceUrl": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Thu, 16 Apr 2026 21:58:08 +0000",
+        "publishedAt": "Fri, 17 Apr 2026 20:38:17 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-17/2026-04-17-tools-AI-002.webp"
       },
       {
         "id": "AI-003",
-        "title": "Upscale AI in talks to raise at $2B valuation, says report",
-        "summary": "AI infrastructure company Upscale AI is reportedly in talks to raise its third funding round since launching just seven months ago.",
-        "content": "AI infrastructure company Upscale AI is reportedly in talks to raise its third funding round since launching just seven months ago.",
+        "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
+        "summary": "Returning backers a16z and Thrive are expected to lead the round.",
+        "content": "Returning backers a16z and Thrive are expected to lead the round.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/",
+        "sourceUrl": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Thu, 16 Apr 2026 20:41:13 +0000",
+        "publishedAt": "Fri, 17 Apr 2026 19:17:26 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-17/2026-04-17-tools-AI-003.webp"
       },
       {
         "id": "AI-004",
-        "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
-        "summary": "The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.",
-        "content": "The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.",
+        "title": "‘Tokenmaxxing’ is making developers less productive than they think",
+        "summary": "There's a lot more code — but it's a lot more expensive and requires a lot more rewriting.",
+        "content": "There's a lot more code — but it's a lot more expensive and requires a lot more rewriting.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
+        "sourceUrl": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Thu, 16 Apr 2026 20:26:44 +0000",
+        "publishedAt": "Fri, 17 Apr 2026 18:42:45 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-17/2026-04-17-tools-AI-004.webp"
       },
       {
         "id": "AI-005",
-        "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
-        "summary": "OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities.",
-        "content": "OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities.",
+        "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap ",
+        "summary": "The gap between AI insiders and everyone else is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from finance apps to talk shows, a certain shoe company just rebranded ",
+        "content": "The gap between AI insiders and everyone else is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from finance apps to talk shows, a certain shoe company just rebranded as an AI infrastructure play, and Anthropic unveiled a model it says is too powerful to release publicly …but apparently not too […]",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
+        "sourceUrl": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Thu, 16 Apr 2026 19:18:41 +0000",
+        "publishedAt": "Fri, 17 Apr 2026 15:57:40 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-17/2026-04-17-tools-AI-005.webp"
       }
     ],
     "creative": [
       {
         "id": "AI-006",
-        "title": "OpenAI launches GPT-Rosalind, a reasoning model built for life sciences research",
-        "summary": "OpenAI has introduced GPT-Rosalind, a reasoning model tailored for the life sciences. It's designed to help researchers move faster from hypothesis to experiment. Access is tightly controlled for now.\nThe article OpenAI launches GPT-Rosalind, a reaso",
-        "content": "OpenAI has introduced GPT-Rosalind, a reasoning model tailored for the life sciences. It's designed to help researchers move faster from hypothesis to experiment. Access is tightly controlled for now.\nThe article OpenAI launches GPT-Rosalind, a reasoning model built for life sciences research appeared first on The Decoder.",
+        "title": "Google Deepmind's Gemini Robotics-ER 1.6 gives robots a sharper brain for planning and perception",
+        "summary": "Google Deepmind's Gemini Robotics-ER 1.6 helps robots plan and act more precisely, with a new knack for reading measuring instruments.\nThe article Google Deepmind's Gemini Robotics-ER 1.6 gives robots a sharper brain for planning and perception appea",
+        "content": "Google Deepmind's Gemini Robotics-ER 1.6 helps robots plan and act more precisely, with a new knack for reading measuring instruments.\nThe article Google Deepmind's Gemini Robotics-ER 1.6 gives robots a sharper brain for planning and perception appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/openai-launches-gpt-rosalind-a-reasoning-model-built-for-life-sciences-research/",
+        "sourceUrl": "https://the-decoder.com/google-deepminds-gemini-robotics-er-1-6-gives-robots-a-sharper-brain-for-planning-and-perception/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Fri, 17 Apr 2026 11:00:37 +0000",
+        "publishedAt": "Fri, 17 Apr 2026 18:59:56 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-17/2026-04-17-creative-AI-006.webp"
       },
       {
         "id": "AI-007",
-        "title": "Beijing brands Meta's Manus acquisition as \"conspiratorial\" and bars founders from leaving China",
-        "summary": "China's National Security Commission, led by President Xi Jinping, has branded Meta's $2 billion acquisition of AI startup Manus a \"conspiratorial\" attempt to hollow out the country's technology base, the Financial Times reports.\nThe article Beijing ",
-        "content": "China's National Security Commission, led by President Xi Jinping, has branded Meta's $2 billion acquisition of AI startup Manus a \"conspiratorial\" attempt to hollow out the country's technology base, the Financial Times reports.\nThe article Beijing brands Meta's Manus acquisition as \"conspiratorial\" and bars founders from leaving China appeared first on The Decoder.",
+        "title": "Google finds new ways to keep you from ever visiting a website directly again",
+        "summary": "Google is pushing AI mode deeper into Chrome: websites will soon open directly next to the AI response. That makes the traditional page visit even less relevant.\nThe article Google finds new ways to keep you from ever visiting a website directly agai",
+        "content": "Google is pushing AI mode deeper into Chrome: websites will soon open directly next to the AI response. That makes the traditional page visit even less relevant.\nThe article Google finds new ways to keep you from ever visiting a website directly again appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/beijing-brands-metas-manus-acquisition-as-conspiratorial-and-bars-founders-from-leaving-china/",
+        "sourceUrl": "https://the-decoder.com/google-finds-new-ways-to-keep-you-from-ever-visiting-a-website-directly-again/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Fri, 17 Apr 2026 09:01:24 +0000",
+        "publishedAt": "Fri, 17 Apr 2026 18:45:35 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-17/2026-04-17-creative-AI-007.webp"
       },
       {
         "id": "AI-008",
-        "title": "OpenAI turns Codex into an always-on coding agent that watches your screen",
-        "summary": "OpenAI is massively expanding its developer tool Codex: the AI can now control a Mac on its own, generate images, remember preferences, and keep working on tasks autonomously for weeks. The move takes direct aim at Anthropic's Claude Code.\nThe articl",
-        "content": "OpenAI is massively expanding its developer tool Codex: the AI can now control a Mac on its own, generate images, remember preferences, and keep working on tasks autonomously for weeks. The move takes direct aim at Anthropic's Claude Code.\nThe article OpenAI turns Codex into an always-on coding agent that watches your screen appeared first on The Decoder.",
+        "title": "The White House weighs whether Anthropic's Mythos is too valuable for the federal government to refuse",
+        "summary": "Anthropic CEO Dario Amodei is meeting Trump's Chief of Staff Susie Wiles at the White House to end a months-long standoff with the Pentagon. The new Mythos model's cybersecurity chops reportedly opened the door.\nThe article The White House weighs whe",
+        "content": "Anthropic CEO Dario Amodei is meeting Trump's Chief of Staff Susie Wiles at the White House to end a months-long standoff with the Pentagon. The new Mythos model's cybersecurity chops reportedly opened the door.\nThe article The White House weighs whether Anthropic's Mythos is too valuable for the federal government to refuse appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/openai-turns-codex-into-an-always-on-coding-agent-that-watches-your-screen/",
+        "sourceUrl": "https://the-decoder.com/the-white-house-weighs-whether-anthropics-mythos-is-too-valuable-for-the-federal-government-to-refuse/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Thu, 16 Apr 2026 17:56:14 +0000",
+        "publishedAt": "Fri, 17 Apr 2026 18:30:49 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-17/2026-04-17-creative-AI-008.webp"
       },
       {
         "id": "AI-009",
-        "title": "OpenAI says more women than men now use ChatGPT, flipping an 80-20 male split at launch",
-        "summary": "More women than men now use ChatGPT regularly, according to OpenAI's own data. The company also estimates China's AI spending at up to $125 billion and argues that computing power is becoming the defining competitive advantage in the AI race.\nThe art",
-        "content": "More women than men now use ChatGPT regularly, according to OpenAI's own data. The company also estimates China's AI spending at up to $125 billion and argues that computing power is becoming the defining competitive advantage in the AI race.\nThe article OpenAI says more women than men now use ChatGPT, flipping an 80-20 male split at launch appeared first on The Decoder.",
+        "title": "Alibaba's open model Qwen3.6 leads Google's Gemma 4 across agentic coding benchmarks",
+        "summary": "Alibaba's new open-source Qwen3.6-35B-A3B activates just three of its 35 billion parameters at a time, yet beats Google's larger Gemma 4-31B on coding and reasoning benchmarks.\nThe article Alibaba's open model Qwen3.6 leads Google's Gemma 4 across ag",
+        "content": "Alibaba's new open-source Qwen3.6-35B-A3B activates just three of its 35 billion parameters at a time, yet beats Google's larger Gemma 4-31B on coding and reasoning benchmarks.\nThe article Alibaba's open model Qwen3.6 leads Google's Gemma 4 across agentic coding benchmarks appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/openai-says-more-women-than-men-now-use-chatgpt-flipping-an-80-20-male-split-at-launch/",
+        "sourceUrl": "https://the-decoder.com/alibabas-open-model-qwen3-6-leads-googles-gemma-4-across-agentic-coding-benchmarks/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Thu, 16 Apr 2026 16:47:39 +0000",
+        "publishedAt": "Fri, 17 Apr 2026 18:11:25 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-17/2026-04-17-creative-AI-009.webp"
       },
       {
         "id": "AI-010",
-        "title": "Nvidia wants to scale robot simulation training with Lyra 2.0",
-        "summary": "Nvidia researchers have unveiled Lyra 2.0, a system that generates large, coherent 3D environments from a single photograph. The resulting scenes can be explored in real time and used directly in robot simulations.\nThe article Nvidia wants to scale r",
-        "content": "Nvidia researchers have unveiled Lyra 2.0, a system that generates large, coherent 3D environments from a single photograph. The resulting scenes can be explored in real time and used directly in robot simulations.\nThe article Nvidia wants to scale robot simulation training with Lyra 2.0 appeared first on The Decoder.",
+        "title": "ChatGPT bleeds market share as Claude posts explosive monthly growth",
+        "summary": "Claude doubles its market share in a single month, jumping past Deepseek and Grok. ChatGPT still leads the pack but is losing ground fast, especially to Google Gemini, which now captures a quarter of all AI traffic.\nThe article ChatGPT bleeds market ",
+        "content": "Claude doubles its market share in a single month, jumping past Deepseek and Grok. ChatGPT still leads the pack but is losing ground fast, especially to Google Gemini, which now captures a quarter of all AI traffic.\nThe article ChatGPT bleeds market share as Claude posts explosive monthly growth appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/nvidia-wants-to-scale-robot-simulation-training-with-lyra-2-0/",
+        "sourceUrl": "https://the-decoder.com/chatgpt-bleeds-market-share-as-claude-posts-explosive-monthly-growth/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Thu, 16 Apr 2026 16:33:31 +0000",
+        "publishedAt": "Fri, 17 Apr 2026 17:44:22 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-17/2026-04-17-creative-AI-010.webp"
       }
     ],
     "research": [
       {
         "id": "AI-011",
+        "title": "Pie Day 2026",
+        "summary": "Ellie’s Pi Day post: https://mitadmissions.org/blogs/entry/pi-day-2026-food-institute/ How Ellie orchestrated the baking of 30 pies: https://mitadmissions.org/blogs/entry/behind-the-scenes-of-thirty-pies/",
+        "content": "Ellie’s Pi Day post: https://mitadmissions.org/blogs/entry/pi-day-2026-food-institute/ How Ellie orchestrated the baking of 30 pies: https://mitadmissions.org/blogs/entry/behind-the-scenes-of-thirty-pies/",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/04/17/1136121/pie-day-links/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 17 Apr 2026 14:07:41 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ],
+        "imageUrl": "/images/2026-04-17/2026-04-17-research-AI-011.webp"
+      },
+      {
+        "id": "AI-012",
+        "title": "The Download: bad news for inner Neanderthals, and AI warfare’s human illusion",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The problem with thinking you’re part Neanderthal There’s a theory that many of us have an “inner Neanderthal.” ",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The problem with thinking you’re part Neanderthal There’s a theory that many of us have an “inner Neanderthal.” The idea is that Homo sapiens and a cousin species once bred, leaving…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 17 Apr 2026 12:10:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ],
+        "imageUrl": "/images/2026-04-17/2026-04-17-research-AI-012.webp"
+      },
+      {
+        "id": "AI-013",
         "title": "The case for fixing everything",
         "summary": "The handsome new book Maintenance: Of Everything, Part One, by the tech industry legend Stewart Brand, promises to be the first in a series offering “a comprehensive overview of the civilizational importance of maintenance.” One of Brand’s several bi",
         "content": "The handsome new book Maintenance: Of Everything, Part One, by the tech industry legend Stewart Brand, promises to be the first in a series offering “a comprehensive overview of the civilizational importance of maintenance.” One of Brand’s several biographers described him as a mainstay of both counterculture and cyberculture, and with Maintenance, Brand wants us…",
@@ -224,10 +275,11 @@
         "publishedAt": "Fri, 17 Apr 2026 10:00:00 +0000",
         "normalizedTags": [
           "mit tech review"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-17/2026-04-17-research-AI-013.webp"
       },
       {
-        "id": "AI-012",
+        "id": "AI-014",
         "title": "How robots learn: A brief, contemporary history",
         "summary": "Roboticists used to dream big but build small. They’d hope to match or exceed the extraordinary complexity of the human body, and then they’d spend their career refining robotic arms for auto plants. Aim for C-3P0; end up with the Roomba.  The real a",
         "content": "Roboticists used to dream big but build small. They’d hope to match or exceed the extraordinary complexity of the human body, and then they’d spend their career refining robotic arms for auto plants. Aim for C-3P0; end up with the Roomba.  The real ambition for many of these researchers was the robot of science fiction—one…",
@@ -243,186 +295,176 @@
         "publishedAt": "Fri, 17 Apr 2026 10:00:00 +0000",
         "normalizedTags": [
           "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-013",
-        "title": "Making AI operational in constrained public sector environments",
-        "summary": "The AI boom has hit across industries, and public sector organizations are facing pressure to accelerate adoption. At the same time, government institutions face distinct constraints around security, governance, and operations that set them apart fro",
-        "content": "The AI boom has hit across industries, and public sector organizations are facing pressure to accelerate adoption. At the same time, government institutions face distinct constraints around security, governance, and operations that set them apart from their business counterparts. For this reason, purpose-built small language models (SLMs) offer a promising path to operationalize AI in…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
         ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 16 Apr 2026 13:00:00 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-014",
-        "title": "Treating enterprise AI as an operating layer",
-        "summary": "There’s a fault line running through enterprise AI, and it’s not the one getting the most attention. The public conversation still tracks foundation models and benchmarks—GPT versus Gemini, reasoning scores, and marginal capability gains. But in prac",
-        "content": "There’s a fault line running through enterprise AI, and it’s not the one getting the most attention. The public conversation still tracks foundation models and benchmarks—GPT versus Gemini, reasoning scores, and marginal capability gains. But in practice, the more durable advantage is structural: who owns the operating layer where intelligence is applied, governed, and improved.…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 16 Apr 2026 13:00:00 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
+        "imageUrl": "/images/2026-04-17/2026-04-17-research-AI-014.webp"
       },
       {
         "id": "AI-015",
-        "title": "The Download: cyberscammers’ banking bypasses, and carbon removal troubles",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram  Inside a money-laundering cente",
-        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Cyberscammers are bypassing banks’ security with illicit tools sold on Telegram  Inside a money-laundering center in Cambodia, an employee opens a banking app on his phone. It asks for a photo linked to the…",
+        "title": "NuHF Claw: A Risk Constrained Cognitive Agent Framework for Human Centered Procedure Support in Digital Nuclear Control Rooms",
+        "summary": "arXiv:2604.14160v1 Announce Type: new \nAbstract: The rapid digitization of nuclear power plant main control rooms has fundamentally reshaped operator interaction patterns, introducing complex soft-control behaviors and elevated cognitive risks that a",
+        "content": "arXiv:2604.14160v1 Announce Type: new \nAbstract: The rapid digitization of nuclear power plant main control rooms has fundamentally reshaped operator interaction patterns, introducing complex soft-control behaviors and elevated cognitive risks that are not adequately addressed by existing human reliability analysis approaches. Although recent advances in large language models and autonomous agents offer new opportunities for intelligent decision support, their deployment in safety critical envir",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/04/16/1136034/the-download-cyberscammers-banking-bypasses-microsoft-carbon-removal-troubles/",
-        "sourceName": "MIT Tech Review",
+        "sourceUrl": "https://arxiv.org/abs/2604.14160",
+        "sourceName": "ArXiv CS.AI",
         "tags": [
-          "MIT Tech Review"
+          "ArXiv CS.AI"
         ],
         "section": "research",
         "readTime": "2 min",
-        "publishedAt": "Thu, 16 Apr 2026 12:10:00 +0000",
+        "publishedAt": "Fri, 17 Apr 2026 00:00:00 -0400",
         "normalizedTags": [
-          "mit tech review"
-        ]
+          "arxiv cs.ai"
+        ],
+        "imageUrl": "/images/2026-04-17/2026-04-17-research-AI-015.webp"
       }
     ],
     "applications": [],
     "business": [
       {
         "id": "AI-016",
-        "title": "U.S. tech companies ramp up government lobbying amid Iran war uncertainty",
-        "summary": "A White House spokesperson told CNBC the administration had been working with industry leaders to mitigate disruption brought about by the conflict.",
-        "content": "A White House spokesperson told CNBC the administration had been working with industry leaders to mitigate disruption brought about by the conflict.",
+        "title": "Jim Cramer on the market's 'remarkable' rally — and what to watch in a big earnings week ahead",
+        "summary": "Jim Cramer says this is one of the most \"remarkable\" rallies he's seen, and provides guidance for the week ahead.",
+        "content": "Jim Cramer says this is one of the most \"remarkable\" rallies he's seen, and provides guidance for the week ahead.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/17/us-tech-lobbying-government-iran-war.html",
+        "sourceUrl": "https://www.cnbc.com/2026/04/17/jim-cramer-remarkable-rally-what-to-watch-ahead.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Fri, 17 Apr 2026 11:18:55 GMT",
+        "publishedAt": "Fri, 17 Apr 2026 22:32:29 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-17/2026-04-17-business-AI-016.webp"
       },
       {
         "id": "AI-017",
-        "title": "Nvidia AI chip rivals attract record funding as competition heats up",
-        "summary": "A growing crop of startups are set on challenging the chip giant's supremacy.",
-        "content": "A growing crop of startups are set on challenging the chip giant's supremacy.",
+        "title": "OpenAI loses multiple executives in latest leadership shakeup",
+        "summary": "Their exits come just weeks after Fidji Simo, OpenAI's product and business chief, announced she would take a medical leave.",
+        "content": "Their exits come just weeks after Fidji Simo, OpenAI's product and business chief, announced she would take a medical leave.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/17/nvidia-ai-chip-rivals-funding-euclyd-fractile.html",
+        "sourceUrl": "https://www.cnbc.com/2026/04/17/openai-executives-leave.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Fri, 17 Apr 2026 11:22:13 GMT",
+        "publishedAt": "Fri, 17 Apr 2026 23:20:00 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-17/2026-04-17-business-AI-017.webp"
       },
       {
         "id": "AI-018",
-        "title": "Uber Eats has a fix for pesky returns. You can just sit on the couch",
-        "summary": "The Uber Eats return pickup feature applies to items bought through the app from Best Buy, Dick's Sporting Goods, Petco and more.",
-        "content": "The Uber Eats return pickup feature applies to items bought through the app from Best Buy, Dick's Sporting Goods, Petco and more.",
+        "title": "Perspective: AI demand is inflated, and only Anthropic is being realistic",
+        "summary": "The main usage metric for artificial intelligence, called tokens, looks explosive on paper, but it may be significantly overstated.",
+        "content": "The main usage metric for artificial intelligence, called tokens, looks explosive on paper, but it may be significantly overstated.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/17/uber-eats-returns-pickup-retail-app.html",
+        "sourceUrl": "https://www.cnbc.com/2026/04/17/ai-tokens-anthropic-openai-nvidia.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Fri, 17 Apr 2026 11:00:01 GMT",
+        "publishedAt": "Fri, 17 Apr 2026 19:10:15 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-17/2026-04-17-business-AI-018.webp"
       },
       {
         "id": "AI-019",
-        "title": "Nvidia rival tells CNBC it's seeking at least $100 million in funding as European AI chip market booms",
-        "summary": "Investor interest for AI chip startups is rising, but big challenges remain for the nascent sector.",
-        "content": "Investor interest for AI chip startups is rising, but big challenges remain for the nascent sector.",
+        "title": "AI chipmaker Cerebras files to go public after scrapping IPO plans last year",
+        "summary": "Cerebras said that it can expand its business with OpenAI over the coming years and that it gave OpenAI a warrant to purchase stock.",
+        "content": "Cerebras said that it can expand its business with OpenAI over the coming years and that it gave OpenAI a warrant to purchase stock.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/17/nvidia-rivals-chip-market-funding-ai-asml-euclyd.html",
+        "sourceUrl": "https://www.cnbc.com/2026/04/17/cerebras-new-ipo-ai-chips.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Fri, 17 Apr 2026 07:23:22 GMT",
+        "publishedAt": "Fri, 17 Apr 2026 23:23:42 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-17/2026-04-17-business-AI-019.webp"
       },
       {
         "id": "AI-020",
-        "title": "Uber raises stake in Delivery Hero in $318 million deal",
-        "summary": "Prosus has been forced by European regulators to sell down its Delivery Hero stake in order to proceed with a proposed acquisition of Just Eat.",
-        "content": "Prosus has been forced by European regulators to sell down its Delivery Hero stake in order to proceed with a proposed acquisition of Just Eat.",
+        "title": "Trump says he had 'no idea' Anthropic's Amodei met with White House about Mythos",
+        "summary": "The meeting comes less than two months after President Donald Trump blacklisted Anthropic's Claude.",
+        "content": "The meeting comes less than two months after President Donald Trump blacklisted Anthropic's Claude.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/17/uber-raises-stake-delivery-hero-prosus.html",
+        "sourceUrl": "https://www.cnbc.com/2026/04/17/anthropic-dario-amodei-trump-mythos.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Fri, 17 Apr 2026 06:58:49 GMT",
+        "publishedAt": "Fri, 17 Apr 2026 23:22:57 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-17/2026-04-17-business-AI-020.webp"
       }
     ],
     "policy": [
       {
         "id": "AI-021",
-        "title": "What Is ‘Jagged Intelligence’ and How Can It Reframe the AI Debate?",
-        "summary": "A.I. has always been compared to human intelligence, but that may not be the right way to think about it. What it does well can help predict what jobs it may replace.",
-        "content": "A.I. has always been compared to human intelligence, but that may not be the right way to think about it. What it does well can help predict what jobs it may replace.",
+        "title": "White House and Anthropic Hold ‘Productive’ Meeting, Aiming for a Compromise",
+        "summary": "Friday’s meeting at the White House followed the introduction of Anthropic’s powerful new artificial intelligence model, Mythos, which U.S. officials believe could be critical for security.",
+        "content": "Friday’s meeting at the White House followed the introduction of Anthropic’s powerful new artificial intelligence model, Mythos, which U.S. officials believe could be critical for security.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/04/15/technology/how-jagged-intelligence-can-reframe-the-ai-debate.html",
+        "sourceUrl": "https://www.nytimes.com/2026/04/17/technology/white-house-anthropic-artificial-intelligence.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Thu, 16 Apr 2026 17:36:09 +0000",
+        "publishedAt": "Fri, 17 Apr 2026 22:59:27 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-17/2026-04-17-policy-AI-021.webp"
       },
       {
         "id": "AI-022",
+        "title": "Cerebras, an A.I. Chip Maker, Files to Go Public as Tech Offerings Ramp Up",
+        "summary": "The Silicon Valley chip maker filed a prospectus just as SpaceX, Anthropic and OpenAI prepared for their own listings, in what is shaping up to be a wave of enormous initial public offerings.",
+        "content": "The Silicon Valley chip maker filed a prospectus just as SpaceX, Anthropic and OpenAI prepared for their own listings, in what is shaping up to be a wave of enormous initial public offerings.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/04/17/technology/cerebras-public-offering-ai.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 17 Apr 2026 22:03:45 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-04-17/2026-04-17-policy-AI-022.webp"
+      },
+      {
+        "id": "AI-023",
         "title": "A.I. Backlash Turns Violent + Kara Swisher on Healthmaxxing + The Zuck Bot Is Coming",
         "summary": "Is anti-A.I. radicalization a growing trend?",
         "content": "Is anti-A.I. radicalization a growing trend?",
@@ -438,10 +480,31 @@
         "publishedAt": "Fri, 17 Apr 2026 11:00:03 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-17/2026-04-17-policy-AI-023.webp"
       },
       {
-        "id": "AI-023",
+        "id": "AI-024",
+        "title": "How Do You Measure an A.I. Boom?",
+        "summary": "A chart created by METR, a nonprofit A.I. organization, has become an industrywide obsession as it measures the rapid development of big A.I. systems.",
+        "content": "A chart created by METR, a nonprofit A.I. organization, has become an industrywide obsession as it measures the rapid development of big A.I. systems.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/04/17/technology/how-do-you-measure-an-ai-boom.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 17 Apr 2026 16:00:43 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-04-17/2026-04-17-policy-AI-024.webp"
+      },
+      {
+        "id": "AI-025",
         "title": "Through A.I. Glasses-Powered Translation, Korea’s Theaters Hope for a K-Pop Moment",
         "summary": "Producers and the cultural authorities hope that technology can overcome a language barrier and take the country’s shows to the world.",
         "content": "Producers and the cultural authorities hope that technology can overcome a language barrier and take the country’s shows to the world.",
@@ -454,48 +517,11 @@
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Fri, 17 Apr 2026 07:44:19 +0000",
+        "publishedAt": "Fri, 17 Apr 2026 15:32:15 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-024",
-        "title": "Pentagon Seeks Help From Ford and G.M.",
-        "summary": "Concerned about the slow pace and high cost of weapons production, Pentagon officials have begun talks with General Motors and Ford Motor about producing certain parts.",
-        "content": "Concerned about the slow pace and high cost of weapons production, Pentagon officials have begun talks with General Motors and Ford Motor about producing certain parts.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/04/16/business/pentagon-ford-general-motors-defense-production.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
         ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 16 Apr 2026 21:23:00 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-025",
-        "title": "They Were YouTube’s First Stars. Here’s What They Wish They’d Known.",
-        "summary": "MatPat, Miranda Sings, Grace Helbig and WheezyWaiter hit it big on YouTube long before it became a behemoth. They have thoughts about what it takes to succeed there.",
-        "content": "MatPat, Miranda Sings, Grace Helbig and WheezyWaiter hit it big on YouTube long before it became a behemoth. They have thoughts about what it takes to succeed there.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/04/15/arts/television/early-youtube-stars-success-learnings.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 16 Apr 2026 14:30:51 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
+        "imageUrl": "/images/2026-04-17/2026-04-17-policy-AI-025.webp"
       }
     ],
     "concerns": [],
@@ -517,7 +543,8 @@
         "publishedAt": "Fri, 17 Apr 2026 09:45:32 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-17/2026-04-17-culture-AI-026.webp"
       },
       {
         "id": "AI-027",
@@ -536,7 +563,8 @@
         "publishedAt": "Fri, 17 Apr 2026 06:00:22 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-17/2026-04-17-culture-AI-027.webp"
       },
       {
         "id": "AI-028",
@@ -555,45 +583,48 @@
         "publishedAt": "Fri, 17 Apr 2026 05:00:20 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-17/2026-04-17-culture-AI-028.webp"
       },
       {
         "id": "AI-029",
-        "title": "Ben Jennings on the US-Iran war and AI slop – cartoon",
-        "summary": "Continue reading...",
-        "content": "Continue reading...",
+        "title": "OpenAI Executive Kevin Weil Is Leaving the Company",
+        "summary": "The former Instagram VP is departing the ChatGPT-maker, which is folding the AI science application he led into Codex.",
+        "content": "The former Instagram VP is departing the ChatGPT-maker, which is folding the AI science application he led into Codex.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/commentisfree/picture/2026/apr/16/ben-jennings-us-iran-war-ai-slop-cartoon",
-        "sourceName": "The Guardian AI",
+        "sourceUrl": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
+        "sourceName": "Wired AI",
         "tags": [
-          "The Guardian AI"
+          "Wired AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Thu, 16 Apr 2026 17:14:22 GMT",
+        "publishedAt": "Fri, 17 Apr 2026 19:56:42 +0000",
         "normalizedTags": [
-          "the guardian ai"
-        ]
+          "wired ai"
+        ],
+        "imageUrl": "/images/2026-04-17/2026-04-17-culture-AI-029.webp"
       },
       {
         "id": "AI-030",
-        "title": "Man used AI to make false statements to shut down London nightclub, police say",
-        "summary": "Heaven club neighbour admits offences under Licensing Act, as Met says fictitious AI-generated complaints a growing issue  \nA businessman has pleaded guilty to making false statements in order to shut down a nightclub, which police believe were gener",
-        "content": "Heaven club neighbour admits offences under Licensing Act, as Met says fictitious AI-generated complaints a growing issue  \nA businessman has pleaded guilty to making false statements in order to shut down a nightclub, which police believe were generated using AI.\nA Metropolitan police source said the use of AI to generate letters by complainants who do not exist is a growing issue.\n Continue reading...",
+        "title": "Gazing Into Sam Altman’s Orb Now Proves You’re Human on Tinder",
+        "summary": "Honestly, what’s hotter than a real person?",
+        "content": "Honestly, what’s hotter than a real person?",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/apr/16/man-pleads-guilty-false-statements-shut-down-london-nightclub-heaven",
-        "sourceName": "The Guardian AI",
+        "sourceUrl": "https://www.wired.com/story/gazing-into-sam-altmans-orb-now-proves-youre-human-on-tinder/",
+        "sourceName": "Wired AI",
         "tags": [
-          "The Guardian AI"
+          "Wired AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Thu, 16 Apr 2026 16:47:20 GMT",
+        "publishedAt": "Fri, 17 Apr 2026 17:14:51 +0000",
         "normalizedTags": [
-          "the guardian ai"
-        ]
+          "wired ai"
+        ],
+        "imageUrl": "/images/2026-04-17/2026-04-17-culture-AI-030.webp"
       }
     ]
   },
@@ -603,36 +634,37 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
-    "https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/",
-    "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/",
-    "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
-    "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
-    "https://the-decoder.com/openai-launches-gpt-rosalind-a-reasoning-model-built-for-life-sciences-research/",
-    "https://the-decoder.com/beijing-brands-metas-manus-acquisition-as-conspiratorial-and-bars-founders-from-leaving-china/",
-    "https://the-decoder.com/openai-turns-codex-into-an-always-on-coding-agent-that-watches-your-screen/",
-    "https://the-decoder.com/openai-says-more-women-than-men-now-use-chatgpt-flipping-an-80-20-male-split-at-launch/",
-    "https://the-decoder.com/nvidia-wants-to-scale-robot-simulation-training-with-lyra-2-0/",
+    "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
+    "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+    "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
+    "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
+    "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
+    "https://the-decoder.com/google-deepminds-gemini-robotics-er-1-6-gives-robots-a-sharper-brain-for-planning-and-perception/",
+    "https://the-decoder.com/google-finds-new-ways-to-keep-you-from-ever-visiting-a-website-directly-again/",
+    "https://the-decoder.com/the-white-house-weighs-whether-anthropics-mythos-is-too-valuable-for-the-federal-government-to-refuse/",
+    "https://the-decoder.com/alibabas-open-model-qwen3-6-leads-googles-gemma-4-across-agentic-coding-benchmarks/",
+    "https://the-decoder.com/chatgpt-bleeds-market-share-as-claude-posts-explosive-monthly-growth/",
+    "https://www.technologyreview.com/2026/04/17/1136121/pie-day-links/",
+    "https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/",
     "https://www.technologyreview.com/2026/04/17/1135408/book-review-stewart-brand-fixing-everything-maintenance/",
     "https://www.technologyreview.com/2026/04/17/1135416/how-robots-learn-brief-contemporary-history/",
-    "https://www.technologyreview.com/2026/04/16/1135216/making-ai-operational-in-constrained-public-sector-environments/",
-    "https://www.technologyreview.com/2026/04/16/1135554/treating-enterprise-ai-as-an-operating-layer/",
-    "https://www.technologyreview.com/2026/04/16/1136034/the-download-cyberscammers-banking-bypasses-microsoft-carbon-removal-troubles/",
-    "https://www.cnbc.com/2026/04/17/us-tech-lobbying-government-iran-war.html",
-    "https://www.cnbc.com/2026/04/17/nvidia-ai-chip-rivals-funding-euclyd-fractile.html",
-    "https://www.cnbc.com/2026/04/17/uber-eats-returns-pickup-retail-app.html",
-    "https://www.cnbc.com/2026/04/17/nvidia-rivals-chip-market-funding-ai-asml-euclyd.html",
-    "https://www.cnbc.com/2026/04/17/uber-raises-stake-delivery-hero-prosus.html",
-    "https://www.nytimes.com/2026/04/15/technology/how-jagged-intelligence-can-reframe-the-ai-debate.html",
+    "https://arxiv.org/abs/2604.14160",
+    "https://www.cnbc.com/2026/04/17/jim-cramer-remarkable-rally-what-to-watch-ahead.html",
+    "https://www.cnbc.com/2026/04/17/openai-executives-leave.html",
+    "https://www.cnbc.com/2026/04/17/ai-tokens-anthropic-openai-nvidia.html",
+    "https://www.cnbc.com/2026/04/17/cerebras-new-ipo-ai-chips.html",
+    "https://www.cnbc.com/2026/04/17/anthropic-dario-amodei-trump-mythos.html",
+    "https://www.nytimes.com/2026/04/17/technology/white-house-anthropic-artificial-intelligence.html",
+    "https://www.nytimes.com/2026/04/17/technology/cerebras-public-offering-ai.html",
     "https://www.nytimes.com/2026/04/17/podcasts/hardfork-ai-backlash.html",
+    "https://www.nytimes.com/2026/04/17/technology/how-do-you-measure-an-ai-boom.html",
     "https://www.nytimes.com/2026/04/17/arts/korean-theater-ai-glasses-translation.html",
-    "https://www.nytimes.com/2026/04/16/business/pentagon-ford-general-motors-defense-production.html",
-    "https://www.nytimes.com/2026/04/15/arts/television/early-youtube-stars-success-learnings.html",
     "https://www.theguardian.com/technology/2026/apr/17/finance-leaders-warn-over-claude-mythos-as-uk-banks-prepare-to-use-powerful-anthropic-ai-tool",
     "https://www.theguardian.com/global-development/2026/apr/17/media-coverage-violence-against-women-low-report",
     "https://www.theguardian.com/technology/2026/apr/17/liz-kendall-urges-uk-public-to-embrace-ai-as-government-makes-first-500m-fund-investment",
-    "https://www.theguardian.com/commentisfree/picture/2026/apr/16/ben-jennings-us-iran-war-ai-slop-cartoon",
-    "https://www.theguardian.com/technology/2026/apr/16/man-pleads-guilty-false-statements-shut-down-london-nightclub-heaven"
+    "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
+    "https://www.wired.com/story/gazing-into-sam-altmans-orb-now-proves-youre-human-on-tinder/"
   ],
-  "generatedAt": "2026-04-17T11:49:50.932Z"
+  "generatedAt": "2026-04-17T23:31:22.876Z",
+  "simpleSummaryImageUrl": "/images/2026-04-17/2026-04-17-summary.webp"
 }
