@@ -2,10 +2,11 @@
   "date": "2026-04-18",
   "dateFormatted": "April 18, 2026",
   "headline": {
-    "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
-    "summary": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships.",
-    "sourceUrl": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
-    "sourceName": "TechCrunch AI"
+    "title": "Tesla brings its robotaxi service to Dallas and Houston",
+    "summary": "Tesla is expanding its robotaxi service to Dallas and Houston, according to a social media post from the company. The post says simply that “Robotaxi is now rolling out in Dallas & Houston 🤠” and includes a 14-second video showing Tesla vehicles dri",
+    "sourceUrl": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+    "sourceName": "TechCrunch AI",
+    "imageUrl": "/images/2026-04-18/2026-04-18-hero.webp"
   },
   "simpleSummary": [
     "Today's edition was assembled directly from RSS feeds without AI curation.",
@@ -15,103 +16,148 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
-        "summary": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships.",
-        "content": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships.",
+        "title": "Tesla brings its robotaxi service to Dallas and Houston",
+        "summary": "Tesla is expanding its robotaxi service to Dallas and Houston, according to a social media post from the company. The post says simply that “Robotaxi is now rolling out in Dallas & Houston 🤠” and includes a 14-second video showing Tesla vehicles dri",
+        "content": "Tesla is expanding its robotaxi service to Dallas and Houston, according to a social media post from the company. The post says simply that “Robotaxi is now rolling out in Dallas & Houston 🤠” and includes a 14-second video showing Tesla vehicles driving without human monitors or drivers in the front seat. The company now […]",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
+        "sourceUrl": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Fri, 17 Apr 2026 22:34:02 +0000",
+        "publishedAt": "Sat, 18 Apr 2026 21:37:15 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-18/2026-04-18-tools-AI-001.webp"
       },
       {
         "id": "AI-002",
-        "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
-        "summary": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
-        "content": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
+        "title": "AI chip startup Cerebras files for IPO",
+        "summary": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
+        "content": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+        "sourceUrl": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Fri, 17 Apr 2026 20:38:17 +0000",
+        "publishedAt": "Sat, 18 Apr 2026 19:19:11 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-18/2026-04-18-tools-AI-002.webp"
       },
       {
         "id": "AI-003",
-        "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
-        "summary": "Returning backers a16z and Thrive are expected to lead the round.",
-        "content": "Returning backers a16z and Thrive are expected to lead the round.",
+        "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
+        "summary": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration.",
+        "content": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
+        "sourceUrl": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Fri, 17 Apr 2026 19:17:26 +0000",
+        "publishedAt": "Sat, 18 Apr 2026 14:56:48 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-18/2026-04-18-tools-AI-003.webp"
       },
       {
         "id": "AI-004",
-        "title": "‘Tokenmaxxing’ is making developers less productive than they think",
-        "summary": "There's a lot more code — but it's a lot more expensive and requires a lot more rewriting.",
-        "content": "There's a lot more code — but it's a lot more expensive and requires a lot more rewriting.",
+        "title": "The App Store is booming again, and AI may be why",
+        "summary": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom.",
+        "content": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
+        "sourceUrl": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Fri, 17 Apr 2026 18:42:45 +0000",
+        "publishedAt": "Sat, 18 Apr 2026 13:00:00 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-18/2026-04-18-tools-AI-004.webp"
       },
       {
         "id": "AI-005",
-        "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap ",
-        "summary": "The gap between AI insiders and everyone else is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from finance apps to talk shows, a certain shoe company just rebranded ",
-        "content": "The gap between AI insiders and everyone else is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from finance apps to talk shows, a certain shoe company just rebranded as an AI infrastructure play, and Anthropic unveiled a model it says is too powerful to release publicly …but apparently not too […]",
+        "title": "The RAM shortage could last years",
+        "summary": "According to Nikkei Asia, even as suppliers ramp up DRAM production, manufacturers are only expected to meet 60 percent of demand by the end of 2027. SK Group chairman has even said that shortages could last until 2030.\nThe world's largest memory mak",
+        "content": "According to Nikkei Asia, even as suppliers ramp up DRAM production, manufacturers are only expected to meet 60 percent of demand by the end of 2027. SK Group chairman has even said that shortages could last until 2030.\nThe world's largest memory makers - Samsung, SK Hynix, and Micron - are all working to add new fabrication capacity, but almost none of it will be online until at least 2027, if not 2028. SK opened a fab in Cheongju in February, but that is the only increase in production among t",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
-        "sourceName": "TechCrunch AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
+        "sourceName": "The Verge AI",
         "tags": [
-          "TechCrunch AI"
+          "The Verge AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Fri, 17 Apr 2026 15:57:40 +0000",
+        "publishedAt": "2026-04-18T21:08:45.000Z",
         "normalizedTags": [
-          "techcrunch ai"
-        ]
+          "the verge ai"
+        ],
+        "imageUrl": "/images/2026-04-18/2026-04-18-tools-AI-005.webp"
       }
     ],
     "creative": [
       {
         "id": "AI-006",
+        "title": "Salesforce CEO Marc Benioff says APIs are the new UI for AI agents",
+        "summary": "Salesforce is opening its entire platform to AI agents. With \"Headless 360,\" the API becomes the user interface and the browser becomes obsolete. CEO Marc Benioff is putting into practice exactly what OpenAI's Sam Altman recently called an inevitable",
+        "content": "Salesforce is opening its entire platform to AI agents. With \"Headless 360,\" the API becomes the user interface and the browser becomes obsolete. CEO Marc Benioff is putting into practice exactly what OpenAI's Sam Altman recently called an inevitable shift.\nThe article Salesforce CEO Marc Benioff says APIs are the new UI for AI agents appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/salesforce-ceo-marc-benioff-says-apis-are-the-new-ui-for-ai-agents/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 18 Apr 2026 13:06:19 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ],
+        "imageUrl": "/images/2026-04-18/2026-04-18-creative-AI-006.webp"
+      },
+      {
+        "id": "AI-007",
+        "title": "Just ten minutes of using AI as an answer machine can measurably erode problem-solving skills, new study finds",
+        "summary": "Just 10 to 15 minutes with an AI assistant is enough to measurably weaken problem-solving ability and persistence on later tasks done without AI, according to a new study from researchers in the US and UK.\nThe article Just ten minutes of using AI as ",
+        "content": "Just 10 to 15 minutes with an AI assistant is enough to measurably weaken problem-solving ability and persistence on later tasks done without AI, according to a new study from researchers in the US and UK.\nThe article Just ten minutes of using AI as an answer machine can measurably erode problem-solving skills, new study finds appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/just-ten-minutes-of-using-ai-as-an-answer-machine-can-measurably-erode-problem-solving-skills-new-study-finds/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 18 Apr 2026 12:45:14 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ],
+        "imageUrl": "/images/2026-04-18/2026-04-18-creative-AI-007.webp"
+      },
+      {
+        "id": "AI-008",
         "title": "Anthropic CEO Amodei declares \"there is no end to the rainbow\" for AI scaling",
         "summary": "Anthropic CEO Dario Amodei sees no limits to AI scaling and is urging the industry not to downplay the risk of job losses, but to make the upside big enough to offset the disruption.\nThe article Anthropic CEO Amodei declares \"there is no end to the r",
         "content": "Anthropic CEO Dario Amodei sees no limits to AI scaling and is urging the industry not to downplay the risk of job losses, but to make the upside big enough to offset the disruption.\nThe article Anthropic CEO Amodei declares \"there is no end to the rainbow\" for AI scaling appeared first on The Decoder.",
@@ -127,10 +173,11 @@
         "publishedAt": "Sat, 18 Apr 2026 10:17:28 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-18/2026-04-18-creative-AI-008.webp"
       },
       {
-        "id": "AI-007",
+        "id": "AI-009",
         "title": "Self-improving AI startup Recursive Superintelligence pulls in $500 million just four months after founding",
         "summary": "A four-month-old startup has raised at least $500 million at a $4 billion valuation. Recursive Superintelligence is backed by former researchers from Google Deepmind and OpenAI who want to build an AI that improves itself.\nThe article Self-improving ",
         "content": "A four-month-old startup has raised at least $500 million at a $4 billion valuation. Recursive Superintelligence is backed by former researchers from Google Deepmind and OpenAI who want to build an AI that improves itself.\nThe article Self-improving AI startup Recursive Superintelligence pulls in $500 million just four months after founding appeared first on The Decoder.",
@@ -146,10 +193,11 @@
         "publishedAt": "Sat, 18 Apr 2026 09:32:57 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-18/2026-04-18-creative-AI-009.webp"
       },
       {
-        "id": "AI-008",
+        "id": "AI-010",
         "title": "The myth of Claude Mythos crumbles as small open models hunt the same cybersecurity bugs Anthropic showcased",
         "summary": "Anthropic has kept its Claude Mythos cybersecurity model on a short leash, pointing to capabilities it says no rival can match. But two new studies suggest that even small, openly available models can reproduce most of the vulnerability analyses Anth",
         "content": "Anthropic has kept its Claude Mythos cybersecurity model on a short leash, pointing to capabilities it says no rival can match. But two new studies suggest that even small, openly available models can reproduce most of the vulnerability analyses Anthropic has put on display.\nThe article The myth of Claude Mythos crumbles as small open models hunt the same cybersecurity bugs Anthropic showcased appeared first on The Decoder.",
@@ -165,110 +213,55 @@
         "publishedAt": "Sat, 18 Apr 2026 08:48:05 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
-      },
-      {
-        "id": "AI-009",
-        "title": "Deepseek reportedly seeks outside funding for the first time at $10 billion valuation",
-        "summary": "Deepseek is reportedly ready to give up its independence. The Chinese AI startup is seeking outside backers for the first time, aiming to raise at least $300 million. The shift comes after delayed model releases, top researchers being poached by riva",
-        "content": "Deepseek is reportedly ready to give up its independence. The Chinese AI startup is seeking outside backers for the first time, aiming to raise at least $300 million. The shift comes after delayed model releases, top researchers being poached by rivals, and mounting pressure from deep-pocketed tech giants.\nThe article Deepseek reportedly seeks outside funding for the first time at $10 billion valuation appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/deepseek-reportedly-seeks-outside-funding-for-the-first-time-at-10-billion-valuation/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
         ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 18 Apr 2026 08:20:17 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
-      },
-      {
-        "id": "AI-010",
-        "title": "Zuckerberg reportedly trades headcount for compute as Meta readies to cut 10 percent of its workforce to fund AI infrastructure",
-        "summary": "Meta is preparing to cut around 8,000 jobs on May 20, with a second wave planned for later this year. In total, more than 20 percent of the workforce could be let go as the company moves to offset its massive AI spending.\nThe article Zuckerberg repor",
-        "content": "Meta is preparing to cut around 8,000 jobs on May 20, with a second wave planned for later this year. In total, more than 20 percent of the workforce could be let go as the company moves to offset its massive AI spending.\nThe article Zuckerberg reportedly trades headcount for compute as Meta readies to cut 10 percent of its workforce to fund AI infrastructure appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/zuckerberg-reportedly-trades-headcount-for-compute-as-meta-readies-to-cut-10-percent-of-its-workforce-to-fund-ai-infrastructure/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 18 Apr 2026 08:05:35 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
+        "imageUrl": "/images/2026-04-18/2026-04-18-creative-AI-010.webp"
       }
     ],
-    "research": [
-      {
-        "id": "AI-011",
-        "title": "Pie Day 2026",
-        "summary": "Ellie’s Pi Day post: https://mitadmissions.org/blogs/entry/pi-day-2026-food-institute/ How Ellie orchestrated the baking of 30 pies: https://mitadmissions.org/blogs/entry/behind-the-scenes-of-thirty-pies/",
-        "content": "Ellie’s Pi Day post: https://mitadmissions.org/blogs/entry/pi-day-2026-food-institute/ How Ellie orchestrated the baking of 30 pies: https://mitadmissions.org/blogs/entry/behind-the-scenes-of-thirty-pies/",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/04/17/1136121/pie-day-links/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 17 Apr 2026 14:07:41 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-012",
-        "title": "The Download: bad news for inner Neanderthals, and AI warfare’s human illusion",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The problem with thinking you’re part Neanderthal There’s a theory that many of us have an “inner Neanderthal.” ",
-        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The problem with thinking you’re part Neanderthal There’s a theory that many of us have an “inner Neanderthal.” The idea is that Homo sapiens and a cousin species once bred, leaving…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 17 Apr 2026 12:10:00 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-013",
-        "title": "7 ways to travel smarter this summer, with help from Google",
-        "summary": "The latest tools from Google can help you plan trips, find a great deal and explore your next destination.",
-        "content": "The latest tools from Google can help you plan trips, find a great deal and explore your next destination.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
-        "sourceName": "Google AI Blog",
-        "tags": [
-          "Google AI Blog"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 17 Apr 2026 14:00:00 +0000",
-        "normalizedTags": [
-          "google ai blog"
-        ]
-      }
-    ],
+    "research": [],
     "applications": [],
     "business": [
       {
-        "id": "AI-014",
+        "id": "AI-011",
+        "title": "Here are 3 forces that drove a remarkable, record-setting week on Wall Street",
+        "summary": "The S&P 500 closed above 7,100 for the first time as it completed its fastest turnaround since 1990.",
+        "content": "The S&P 500 closed above 7,100 for the first time as it completed its fastest turnaround since 1990.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/04/18/the-3-forces-that-drove-a-remarkable-record-setting-week-on-wall-street.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 18 Apr 2026 14:13:04 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ],
+        "imageUrl": "/images/2026-04-18/2026-04-18-business-AI-011.webp"
+      },
+      {
+        "id": "AI-012",
+        "title": "Nvidia's once-tight bond with gamers is cracking over AI, 'and that breaks my heart'",
+        "summary": "Gamers once helped save Nvidia from bankruptcy. Now they feel left behind as the memory crunch drives focus to AI chips and DLSS 5 disrupts game design.",
+        "content": "Gamers once helped save Nvidia from bankruptcy. Now they feel left behind as the memory crunch drives focus to AI chips and DLSS 5 disrupts game design.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/04/18/nvidia-ai-backlash-gamers-geforce-gpu.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 18 Apr 2026 12:00:01 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ],
+        "imageUrl": "/images/2026-04-18/2026-04-18-business-AI-012.webp"
+      },
+      {
+        "id": "AI-013",
         "title": "Jim Cramer on the market's 'remarkable' rally — and what to watch in a big earnings week ahead",
         "summary": "Jim Cramer says this is one of the most \"remarkable\" rallies he's seen, and provides guidance for the week ahead.",
         "content": "Jim Cramer says this is one of the most \"remarkable\" rallies he's seen, and provides guidance for the week ahead.",
@@ -284,10 +277,11 @@
         "publishedAt": "Sat, 18 Apr 2026 00:42:17 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-18/2026-04-18-business-AI-013.webp"
       },
       {
-        "id": "AI-015",
+        "id": "AI-014",
         "title": "OpenAI loses multiple executives in latest leadership shakeup",
         "summary": "Their exits come just weeks after Fidji Simo, OpenAI's product and business chief, announced she would take a medical leave.",
         "content": "Their exits come just weeks after Fidji Simo, OpenAI's product and business chief, announced she would take a medical leave.",
@@ -303,69 +297,13 @@
         "publishedAt": "Fri, 17 Apr 2026 23:45:15 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
-      },
-      {
-        "id": "AI-016",
-        "title": "Perspective: AI demand is inflated, and only Anthropic is being realistic",
-        "summary": "The main usage metric for artificial intelligence, called tokens, looks explosive on paper, but it may be significantly overstated.",
-        "content": "The main usage metric for artificial intelligence, called tokens, looks explosive on paper, but it may be significantly overstated.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/17/ai-tokens-anthropic-openai-nvidia.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
         ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 17 Apr 2026 19:10:15 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ]
-      },
-      {
-        "id": "AI-017",
-        "title": "AI chipmaker Cerebras files to go public after scrapping IPO plans last year",
-        "summary": "Cerebras said that it can expand its business with OpenAI over the coming years and that it gave OpenAI a warrant to purchase stock.",
-        "content": "Cerebras said that it can expand its business with OpenAI over the coming years and that it gave OpenAI a warrant to purchase stock.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/17/cerebras-new-ipo-ai-chips.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 17 Apr 2026 23:23:42 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ]
-      },
-      {
-        "id": "AI-018",
-        "title": "Trump says he had 'no idea' Anthropic's Amodei met with White House about Mythos",
-        "summary": "The meeting comes less than two months after President Donald Trump blacklisted Anthropic's Claude.",
-        "content": "The meeting comes less than two months after President Donald Trump blacklisted Anthropic's Claude.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/17/anthropic-dario-amodei-trump-mythos.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 17 Apr 2026 23:22:57 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ]
+        "imageUrl": "/images/2026-04-18/2026-04-18-business-AI-014.webp"
       }
     ],
     "policy": [
       {
-        "id": "AI-019",
+        "id": "AI-015",
         "title": "White House and Anthropic Hold ‘Productive’ Meeting, Aiming for a Compromise",
         "summary": "Friday’s meeting at the White House followed the introduction of Anthropic’s powerful new artificial intelligence model, Mythos, which U.S. officials believe could be critical for security.",
         "content": "Friday’s meeting at the White House followed the introduction of Anthropic’s powerful new artificial intelligence model, Mythos, which U.S. officials believe could be critical for security.",
@@ -378,51 +316,14 @@
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Fri, 17 Apr 2026 23:45:45 +0000",
+        "publishedAt": "Fri, 17 Apr 2026 23:45:46 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-020",
-        "title": "How Do You Measure an A.I. Boom?",
-        "summary": "A chart created by METR, a nonprofit A.I. organization, has become an industrywide obsession as it measures the rapid development of big A.I. systems.",
-        "content": "A chart created by METR, a nonprofit A.I. organization, has become an industrywide obsession as it measures the rapid development of big A.I. systems.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/04/17/technology/how-do-you-measure-an-ai-boom.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
         ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 17 Apr 2026 16:00:43 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
+        "imageUrl": "/images/2026-04-18/2026-04-18-policy-AI-015.webp"
       },
       {
-        "id": "AI-021",
-        "title": "Cerebras, an A.I. Chip Maker, Files to Go Public as Tech Offerings Ramp Up",
-        "summary": "The Silicon Valley chip maker filed a prospectus just as SpaceX, Anthropic and OpenAI prepared for their own listings, in what is shaping up to be a wave of enormous initial public offerings.",
-        "content": "The Silicon Valley chip maker filed a prospectus just as SpaceX, Anthropic and OpenAI prepared for their own listings, in what is shaping up to be a wave of enormous initial public offerings.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/04/17/technology/cerebras-public-offering-ai.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 17 Apr 2026 22:03:45 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-022",
+        "id": "AI-016",
         "title": "Hundreds of Fake Pro-Trump Avatars Emerge on Social Media",
         "summary": "The artificial-intelligence-generated fake influencers have surged on TikTok, Instagram, Facebook and YouTube in an apparent bid to hook conservative voters.",
         "content": "The artificial-intelligence-generated fake influencers have surged on TikTok, Instagram, Facebook and YouTube in an apparent bid to hook conservative voters.",
@@ -435,35 +336,57 @@
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Sat, 18 Apr 2026 04:42:04 +0000",
+        "publishedAt": "Sat, 18 Apr 2026 13:16:22 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-18/2026-04-18-policy-AI-016.webp"
       },
       {
-        "id": "AI-023",
-        "title": "Through A.I. Glasses-Powered Translation, Korea’s Theaters Hope for a K-Pop Moment",
-        "summary": "Producers and the cultural authorities hope that technology can overcome a language barrier and take the country’s shows to the world.",
-        "content": "Producers and the cultural authorities hope that technology can overcome a language barrier and take the country’s shows to the world.",
+        "id": "AI-017",
+        "title": "Inside a growing movement warning AI could turn on humanity",
+        "summary": "Groups concerned that AI could evade human control are recruiting content creators to warn the masses about the dangers of smarter machines.",
+        "content": "Groups concerned that AI could evade human control are recruiting content creators to warn the masses about the dangers of smarter machines.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/04/17/arts/korean-theater-ai-glasses-translation.html",
-        "sourceName": "NYT Technology",
+        "sourceUrl": "https://www.washingtonpost.com/technology/2026/04/18/ai-doom-influencers-safety/",
+        "sourceName": "Washington Post Tech",
         "tags": [
-          "NYT Technology"
+          "Washington Post Tech"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Fri, 17 Apr 2026 15:32:15 +0000",
+        "publishedAt": "Sat, 18 Apr 2026 21:09:29 +0000",
         "normalizedTags": [
-          "nyt technology"
-        ]
+          "washington post tech"
+        ],
+        "imageUrl": "/images/2026-04-18/2026-04-18-policy-AI-017.webp"
       }
     ],
     "concerns": [],
     "culture": [
       {
-        "id": "AI-024",
+        "id": "AI-018",
+        "title": "How a fiery attack on Sam Altman’s home unfolded",
+        "summary": "Molotov cocktail attack on OpenAI CEO’s home comes amid growing discontent against artificial intelligence\nIn the early hours of 10 April, a man approached the gate of OpenAI CEO Sam Altman’s house in San Francisco and hurled a molotov cocktail at th",
+        "content": "Molotov cocktail attack on OpenAI CEO’s home comes amid growing discontent against artificial intelligence\nIn the early hours of 10 April, a man approached the gate of OpenAI CEO Sam Altman’s house in San Francisco and hurled a molotov cocktail at the building before fleeing. The suspect, 20-year-old Daniel Moreno-Gama, was arrested less than two hours later while allegedly attempting to break into the headquarters of OpenAI with a jug of kerosene, a lighter and an anti-AI manifesto.\nFederal and",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/apr/18/sam-altman-house-attack-ai",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 18 Apr 2026 14:00:15 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-04-18/2026-04-18-culture-AI-018.webp"
+      },
+      {
+        "id": "AI-019",
         "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
         "summary": "Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won’t blow anything up.",
         "content": "Schematik is a program that aims to help people vibe code for physical devices. Hopefully, it won’t blow anything up.",
@@ -479,10 +402,11 @@
         "publishedAt": "Sat, 18 Apr 2026 10:30:00 +0000",
         "normalizedTags": [
           "wired ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-18/2026-04-18-culture-AI-019.webp"
       },
       {
-        "id": "AI-025",
+        "id": "AI-020",
         "title": "It Takes 2 Minutes to Hack the EU’s New Age-Verification App",
         "summary": "Plus: Major data breaches at a gym chain and hotel giant, a disruptive DDoS attack against Bluesky, dubious ICE hires, and more.",
         "content": "Plus: Major data breaches at a gym chain and hotel giant, a disruptive DDoS attack against Bluesky, dubious ICE hires, and more.",
@@ -499,63 +423,6 @@
         "normalizedTags": [
           "wired ai"
         ]
-      },
-      {
-        "id": "AI-026",
-        "title": "OpenAI Executive Kevin Weil Is Leaving the Company",
-        "summary": "The former Instagram VP is departing the ChatGPT-maker, which is folding the AI science application he led into Codex.",
-        "content": "The former Instagram VP is departing the ChatGPT-maker, which is folding the AI science application he led into Codex.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
-        "sourceName": "Wired AI",
-        "tags": [
-          "Wired AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 17 Apr 2026 19:56:42 +0000",
-        "normalizedTags": [
-          "wired ai"
-        ]
-      },
-      {
-        "id": "AI-027",
-        "title": "Gazing Into Sam Altman’s Orb Now Proves You’re Human on Tinder",
-        "summary": "Honestly, what’s hotter than a real person?",
-        "content": "Honestly, what’s hotter than a real person?",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.wired.com/story/gazing-into-sam-altmans-orb-now-proves-youre-human-on-tinder/",
-        "sourceName": "Wired AI",
-        "tags": [
-          "Wired AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 17 Apr 2026 17:14:51 +0000",
-        "normalizedTags": [
-          "wired ai"
-        ]
-      },
-      {
-        "id": "AI-028",
-        "title": "AI Drafting My Stories? Over My Dead Body",
-        "summary": "AI-assisted writing is creeping into newsrooms under the guise of efficiency. But the tradeoff may be more profound than publishers are willing to admit.",
-        "content": "AI-assisted writing is creeping into newsrooms under the guise of efficiency. But the tradeoff may be more profound than publishers are willing to admit.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.wired.com/story/backchannel-the-problem-with-letting-ai-do-the-writing/",
-        "sourceName": "Wired AI",
-        "tags": [
-          "Wired AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 17 Apr 2026 15:46:06 +0000",
-        "normalizedTags": [
-          "wired ai"
-        ]
       }
     ]
   },
@@ -565,34 +432,27 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
-    "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
-    "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
-    "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
-    "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
+    "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+    "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+    "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
+    "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
+    "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
+    "https://the-decoder.com/salesforce-ceo-marc-benioff-says-apis-are-the-new-ui-for-ai-agents/",
+    "https://the-decoder.com/just-ten-minutes-of-using-ai-as-an-answer-machine-can-measurably-erode-problem-solving-skills-new-study-finds/",
     "https://the-decoder.com/anthropic-ceo-amodei-declares-there-is-no-end-to-the-rainbow-for-ai-scaling/",
     "https://the-decoder.com/self-improving-ai-startup-recursive-superintelligence-pulls-in-500-million-just-four-months-after-founding/",
     "https://the-decoder.com/the-myth-of-claude-mythos-crumbles-as-small-open-models-hunt-the-same-cybersecurity-bugs-anthropic-showcased/",
-    "https://the-decoder.com/deepseek-reportedly-seeks-outside-funding-for-the-first-time-at-10-billion-valuation/",
-    "https://the-decoder.com/zuckerberg-reportedly-trades-headcount-for-compute-as-meta-readies-to-cut-10-percent-of-its-workforce-to-fund-ai-infrastructure/",
-    "https://www.technologyreview.com/2026/04/17/1136121/pie-day-links/",
-    "https://www.technologyreview.com/2026/04/17/1136112/the-download-inner-neanderthal-ai-war-human-in-the-loop/",
-    "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
+    "https://www.cnbc.com/2026/04/18/the-3-forces-that-drove-a-remarkable-record-setting-week-on-wall-street.html",
+    "https://www.cnbc.com/2026/04/18/nvidia-ai-backlash-gamers-geforce-gpu.html",
     "https://www.cnbc.com/2026/04/17/jim-cramer-remarkable-rally-what-to-watch-ahead.html",
     "https://www.cnbc.com/2026/04/17/openai-executives-leave.html",
-    "https://www.cnbc.com/2026/04/17/ai-tokens-anthropic-openai-nvidia.html",
-    "https://www.cnbc.com/2026/04/17/cerebras-new-ipo-ai-chips.html",
-    "https://www.cnbc.com/2026/04/17/anthropic-dario-amodei-trump-mythos.html",
     "https://www.nytimes.com/2026/04/17/technology/white-house-anthropic-artificial-intelligence.html",
-    "https://www.nytimes.com/2026/04/17/technology/how-do-you-measure-an-ai-boom.html",
-    "https://www.nytimes.com/2026/04/17/technology/cerebras-public-offering-ai.html",
     "https://www.nytimes.com/2026/04/17/business/media/artificial-intelligence-trump-social-media.html",
-    "https://www.nytimes.com/2026/04/17/arts/korean-theater-ai-glasses-translation.html",
+    "https://www.washingtonpost.com/technology/2026/04/18/ai-doom-influencers-safety/",
+    "https://www.theguardian.com/technology/2026/apr/18/sam-altman-house-attack-ai",
     "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
-    "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
-    "https://www.wired.com/story/openai-executive-kevin-weil-is-leaving-the-company/",
-    "https://www.wired.com/story/gazing-into-sam-altmans-orb-now-proves-youre-human-on-tinder/",
-    "https://www.wired.com/story/backchannel-the-problem-with-letting-ai-do-the-writing/"
+    "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/"
   ],
-  "generatedAt": "2026-04-18T11:31:59.413Z"
+  "generatedAt": "2026-04-18T23:26:25.586Z",
+  "simpleSummaryImageUrl": "/images/2026-04-18/2026-04-18-summary.webp"
 }
