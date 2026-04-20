@@ -2,9 +2,9 @@
   "date": "2026-04-20",
   "dateFormatted": "April 20, 2026",
   "headline": {
-    "title": "OpenAI’s existential questions",
-    "summary": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
-    "sourceUrl": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+    "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
+    "summary": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return.",
+    "sourceUrl": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
     "sourceName": "TechCrunch AI",
     "imageUrl": "/images/2026-04-20/2026-04-20-hero.webp"
   },
@@ -16,19 +16,19 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "OpenAI’s existential questions",
-        "summary": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
-        "content": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
+        "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
+        "summary": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return.",
+        "content": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+        "sourceUrl": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Sun, 19 Apr 2026 21:24:06 +0000",
+        "publishedAt": "Mon, 20 Apr 2026 23:10:27 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ],
@@ -36,19 +36,19 @@
       },
       {
         "id": "AI-002",
-        "title": "The 12-month window",
-        "summary": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
-        "content": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever.",
+        "title": "Google rolls out Gemini in Chrome in 7 new countries",
+        "summary": "Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam. The company is rolling this feature out to both desktop and iOS in all of these countries except Japan.",
+        "content": "Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam. The company is rolling this feature out to both desktop and iOS in all of these countries except Japan.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+        "sourceUrl": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Sun, 19 Apr 2026 19:30:00 +0000",
+        "publishedAt": "Mon, 20 Apr 2026 22:00:00 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ],
@@ -56,19 +56,19 @@
       },
       {
         "id": "AI-003",
-        "title": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures",
-        "summary": "Palantir's ideological bent has come under more scrutiny as it's worked with ICE and positioned itself as a defender of \"the West.\"",
-        "content": "Palantir's ideological bent has come under more scrutiny as it's worked with ICE and positioned itself as a defender of \"the West.\"",
+        "title": "It’s not just one thing — it’s another thing",
+        "summary": "This sentence construction (\"It's not just this — it's that\") has become so common in AI-generated writing that it's no longer just a clue that a piece of writing may be synthetic — it's almost a guarantee.",
+        "content": "This sentence construction (\"It's not just this — it's that\") has become so common in AI-generated writing that it's no longer just a clue that a piece of writing may be synthetic — it's almost a guarantee.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
+        "sourceUrl": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Sun, 19 Apr 2026 16:30:00 +0000",
+        "publishedAt": "Mon, 20 Apr 2026 19:37:07 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ],
@@ -76,19 +76,19 @@
       },
       {
         "id": "AI-004",
-        "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
-        "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
-        "content": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+        "title": "NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud",
+        "summary": "NSA is said to be using Anthropic's restricted Mythos AI model.",
+        "content": "NSA is said to be using Anthropic's restricted Mythos AI model.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
+        "sourceUrl": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Sun, 19 Apr 2026 16:01:00 +0000",
+        "publishedAt": "Mon, 20 Apr 2026 16:06:21 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ],
@@ -96,21 +96,21 @@
       },
       {
         "id": "AI-005",
-        "title": "Cloud development platform Vercel was hacked",
-        "summary": "Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data. A person claiming to be a member of ShinyHunters, which was behind the recent hack of Rockstar Games, posted so",
-        "content": "Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data. A person claiming to be a member of ShinyHunters, which was behind the recent hack of Rockstar Games, posted some data online, including employee names, email addresses, and activity time stamps. Vercel confirmed in a post on X that a \"security incident\" had occurred, and that it impacted a \"limited subset\" of its customers. Vercel said that a compromised thi",
+        "title": "CEO and CFO suddenly depart AI nuclear power upstart Fermi",
+        "summary": "The startup, co-founded by former U.S. Energy Secretary Rick Perry, has faced headwinds with its AI campus in Texas.",
+        "content": "The startup, co-founded by former U.S. Energy Secretary Rick Perry, has faced headwinds with its AI campus in Texas.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theverge.com/tech/914723/vercel-hacked",
-        "sourceName": "The Verge AI",
+        "sourceUrl": "https://techcrunch.com/2026/04/20/fermi-ceo-and-cfo-depart-texas-nuclear-power-ai/",
+        "sourceName": "TechCrunch AI",
         "tags": [
-          "The Verge AI"
+          "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "2026-04-19T19:54:52.000Z",
+        "publishedAt": "Mon, 20 Apr 2026 15:30:19 +0000",
         "normalizedTags": [
-          "the verge ai"
+          "techcrunch ai"
         ],
         "imageUrl": "/images/2026-04-20/2026-04-20-tools-AI-005.webp"
       }
@@ -118,19 +118,19 @@
     "creative": [
       {
         "id": "AI-006",
-        "title": "The NSA is using Anthropic's most powerful AI model Mythos",
-        "summary": "The NSA, the US intelligence agency responsible for electronic surveillance, is using Anthropic's most powerful AI model, \"Mythos Preview.\"\nThe article The NSA is using Anthropic's most powerful AI model Mythos appeared first on The Decoder.",
-        "content": "The NSA, the US intelligence agency responsible for electronic surveillance, is using Anthropic's most powerful AI model, \"Mythos Preview.\"\nThe article The NSA is using Anthropic's most powerful AI model Mythos appeared first on The Decoder.",
+        "title": "OpenAI's Codex now watches your screen to remember what you're working on",
+        "summary": "OpenAI is giving Codex a memory of what's on screen. The new Chronicle feature tracks what users are working on and remembers it for future tasks, but it also amplifies familiar security risks.\nThe article OpenAI's Codex now watches your screen to re",
+        "content": "OpenAI is giving Codex a memory of what's on screen. The new Chronicle feature tracks what users are working on and remembers it for future tasks, but it also amplifies familiar security risks.\nThe article OpenAI's Codex now watches your screen to remember what you're working on appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/the-nsa-is-using-anthropics-most-powerful-ai-model-mythos/",
+        "sourceUrl": "https://the-decoder.com/openais-codex-now-watches-your-screen-to-remember-what-youre-working-on/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Mon, 20 Apr 2026 09:26:04 +0000",
+        "publishedAt": "Mon, 20 Apr 2026 18:41:32 +0000",
         "normalizedTags": [
           "the decoder"
         ],
@@ -138,19 +138,19 @@
       },
       {
         "id": "AI-007",
-        "title": "Anthropic's revenue surge reportedly fuels talk of trillion-dollar valuation",
-        "summary": "Anthropic reportedly has flipped from money-loser to revenue powerhouse in just a few months. Annualized revenue now tops $30 billion, possibly edging out OpenAI, and investors are already floating valuations as high as $1 trillion.\nThe article Anthr",
-        "content": "Anthropic reportedly has flipped from money-loser to revenue powerhouse in just a few months. Annualized revenue now tops $30 billion, possibly edging out OpenAI, and investors are already floating valuations as high as $1 trillion.\nThe article Anthropic's revenue surge reportedly fuels talk of trillion-dollar valuation appeared first on The Decoder.",
+        "title": "Open-weight Kimi K2.6 takes on GPT-5.4 and Claude Opus 4.6 with agent swarms",
+        "summary": "Moonshot AI has released Kimi K2.6 as an open-weight model. It's built to match GPT-5.4 and Claude Opus 4.6 on coding benchmarks, and it can run up to 300 agents in parallel.\nThe article Open-weight Kimi K2.6 takes on GPT-5.4 and Claude Opus 4.6 with",
+        "content": "Moonshot AI has released Kimi K2.6 as an open-weight model. It's built to match GPT-5.4 and Claude Opus 4.6 on coding benchmarks, and it can run up to 300 agents in parallel.\nThe article Open-weight Kimi K2.6 takes on GPT-5.4 and Claude Opus 4.6 with agent swarms appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/anthropics-revenue-surge-reportedly-fuels-talk-of-trillion-dollar-valuation/",
+        "sourceUrl": "https://the-decoder.com/open-weight-kimi-k2-6-takes-on-gpt-5-4-and-claude-opus-4-6-with-agent-swarms/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Sun, 19 Apr 2026 14:40:00 +0000",
+        "publishedAt": "Mon, 20 Apr 2026 17:13:04 +0000",
         "normalizedTags": [
           "the decoder"
         ],
@@ -158,19 +158,19 @@
       },
       {
         "id": "AI-008",
-        "title": "German court rules AI comic adaptation of copyrighted photo doesn't violate the original",
-        "summary": "An AI turns a photo into a comic—and according to a German Higher Regional Court, that's fair game as long as only the motif is copied.\nThe article German court rules AI comic adaptation of copyrighted photo doesn't violate the original appeared firs",
-        "content": "An AI turns a photo into a comic—and according to a German Higher Regional Court, that's fair game as long as only the motif is copied.\nThe article German court rules AI comic adaptation of copyrighted photo doesn't violate the original appeared first on The Decoder.",
+        "title": "Google builds elite team to close the coding gap with Anthropic",
+        "summary": "Google is doubling down on AI coding and betting on models that can eventually improve themselves. Sergey Brin is once again leading the charge to keep Google's AI competitive.\nThe article Google builds elite team to close the coding gap with Anthrop",
+        "content": "Google is doubling down on AI coding and betting on models that can eventually improve themselves. Sergey Brin is once again leading the charge to keep Google's AI competitive.\nThe article Google builds elite team to close the coding gap with Anthropic appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/german-court-rules-ai-comic-adaptation-of-copyrighted-photo-doesnt-violate-the-original/",
+        "sourceUrl": "https://the-decoder.com/google-builds-elite-team-to-close-the-coding-gap-with-anthropic/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Sun, 19 Apr 2026 13:08:17 +0000",
+        "publishedAt": "Mon, 20 Apr 2026 16:30:15 +0000",
         "normalizedTags": [
           "the decoder"
         ],
@@ -178,41 +178,41 @@
       },
       {
         "id": "AI-009",
-        "title": " From Stranger Things x KFC to McDonald's x Friends: 5 ways brands can build meaningful partnerships ",
-        "summary": "Top tips and tricks on how to navigate a successful collab.",
-        "content": "Top tips and tricks on how to navigate a successful collab.",
+        "title": "Adobe fights AI disruption of its own business model with new enterprise agent platform",
+        "summary": "The software giant is responding to growing pressure from AI-native competitors with a new enterprise agent platform. At the same time, the company is looking for its next chief executive.\nThe article Adobe fights AI disruption of its own business mo",
+        "content": "The software giant is responding to growing pressure from AI-native competitors with a new enterprise agent platform. At the same time, the company is looking for its next chief executive.\nThe article Adobe fights AI disruption of its own business model with new enterprise agent platform appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.creativebloq.com/design/branding/from-stranger-things-x-kfc-to-mcdonalds-x-friends-5-ways-brands-can-build-meaningful-partnerships",
-        "sourceName": "Creative Bloq",
+        "sourceUrl": "https://the-decoder.com/adobe-fights-ai-disruption-of-its-own-business-model-with-new-enterprise-agent-platform/",
+        "sourceName": "The Decoder",
         "tags": [
-          "Creative Bloq"
+          "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Mon, 20 Apr 2026 09:00:00 +0000",
+        "publishedAt": "Mon, 20 Apr 2026 14:39:14 +0000",
         "normalizedTags": [
-          "creative bloq"
+          "the decoder"
         ],
         "imageUrl": "/images/2026-04-20/2026-04-20-creative-AI-009.webp"
       },
       {
         "id": "AI-010",
-        "title": " This artist blends nature and fantasy in stunningly detailed paintings ",
-        "summary": "Discover the world of Turkish artist Deniz Defne Acerol.",
-        "content": "Discover the world of Turkish artist Deniz Defne Acerol.",
+        "title": "Humanoid robots outrun humans at Beijing's second robot half marathon",
+        "summary": "At the second half marathon for humanoid robots in Beijing, Chinese machines posted dramatically faster times on Sunday compared to last year.\nThe article Humanoid robots outrun humans at Beijing's second robot half marathon appeared first on The Dec",
+        "content": "At the second half marathon for humanoid robots in Beijing, Chinese machines posted dramatically faster times on Sunday compared to last year.\nThe article Humanoid robots outrun humans at Beijing's second robot half marathon appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.creativebloq.com/art/deniz-defne-acerol",
-        "sourceName": "Creative Bloq",
+        "sourceUrl": "https://the-decoder.com/humanoid-robots-outrun-humans-at-beijings-second-robot-half-marathon/",
+        "sourceName": "The Decoder",
         "tags": [
-          "Creative Bloq"
+          "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Mon, 20 Apr 2026 08:00:00 +0000",
+        "publishedAt": "Mon, 20 Apr 2026 13:24:02 +0000",
         "normalizedTags": [
-          "creative bloq"
+          "the decoder"
         ],
         "imageUrl": "/images/2026-04-20/2026-04-20-creative-AI-010.webp"
       }
@@ -220,6 +220,26 @@
     "research": [
       {
         "id": "AI-011",
+        "title": "The Download: murderous ‘mirror’ bacteria, and Chinese workers fighting AI doubles",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. No one’s sure if synthetic mirror life will kill us all In February 2019, a group of scientists proposed a high-",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. No one’s sure if synthetic mirror life will kill us all In February 2019, a group of scientists proposed a high-risk, cutting-edge, irresistibly exciting idea that the National Science Foundation should…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/04/20/1136154/the-download-murderous-mirror-bacteria-chinese-workers-fight-ai-agents/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 20 Apr 2026 12:10:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ],
+        "imageUrl": "/images/2026-04-20/2026-04-20-research-AI-011.webp"
+      },
+      {
+        "id": "AI-012",
         "title": "Colossal Biosciences said it cloned red wolves. Is it for real?",
         "summary": "If you want to capture something wolflike, it’s best to embark before dawn. So on a morning this January, with the eastern horizon still pink-hued, I drove with two young scientists into a blanket of fog. Forty miles to the west, the industrial spraw",
         "content": "If you want to capture something wolflike, it’s best to embark before dawn. So on a morning this January, with the eastern horizon still pink-hued, I drove with two young scientists into a blanket of fog. Forty miles to the west, the industrial sprawl of Houston spawned a golden glow. Tanner Broussard’s old Toyota Tacoma…",
@@ -236,10 +256,10 @@
         "normalizedTags": [
           "mit tech review"
         ],
-        "imageUrl": "/images/2026-04-20/2026-04-20-research-AI-011.webp"
+        "imageUrl": "/images/2026-04-20/2026-04-20-research-AI-012.webp"
       },
       {
-        "id": "AI-012",
+        "id": "AI-013",
         "title": "Chinese tech workers are starting to train their AI doubles–and pushing back",
         "summary": "Tech workers in China are being instructed by their bosses to train AI agents to replace them—and it’s prompting a wave of soul-searching among otherwise enthusiastic early adopters.  Earlier this month a GitHub project called Colleague Skill, which ",
         "content": "Tech workers in China are being instructed by their bosses to train AI agents to replace them—and it’s prompting a wave of soul-searching among otherwise enthusiastic early adopters.  Earlier this month a GitHub project called Colleague Skill, which claimed workers could use it to “distill” their colleagues’ skills and personality traits and replicate them with…",
@@ -256,10 +276,10 @@
         "normalizedTags": [
           "mit tech review"
         ],
-        "imageUrl": "/images/2026-04-20/2026-04-20-research-AI-012.webp"
+        "imageUrl": "/images/2026-04-20/2026-04-20-research-AI-013.webp"
       },
       {
-        "id": "AI-013",
+        "id": "AI-014",
         "title": "DeepER-Med: Advancing Deep Evidence-Based Research in Medicine Through Agentic AI",
         "summary": "arXiv:2604.15456v1 Announce Type: new \nAbstract: Trustworthiness and transparency are essential for the clinical adoption of artificial intelligence (AI) in healthcare and biomedical research. Recent deep research systems aim to accelerate evidence-g",
         "content": "arXiv:2604.15456v1 Announce Type: new \nAbstract: Trustworthiness and transparency are essential for the clinical adoption of artificial intelligence (AI) in healthcare and biomedical research. Recent deep research systems aim to accelerate evidence-grounded scientific discovery by integrating AI agents with multi-hop information retrieval, reasoning, and synthesis. However, most existing systems lack explicit and inspectable criteria for evidence appraisal, creating a risk of compounding errors ",
@@ -276,36 +296,16 @@
         "normalizedTags": [
           "arxiv cs.ai"
         ],
-        "imageUrl": "/images/2026-04-20/2026-04-20-research-AI-013.webp"
+        "imageUrl": "/images/2026-04-20/2026-04-20-research-AI-014.webp"
       },
       {
-        "id": "AI-014",
+        "id": "AI-015",
         "title": "GIST: Multimodal Knowledge Extraction and Spatial Grounding via Intelligent Semantic Topology",
         "summary": "arXiv:2604.15495v1 Announce Type: new \nAbstract: Navigating complex, densely packed environments like retail stores, warehouses, and hospitals poses a significant spatial grounding challenge for humans and embodied AI. In these spaces, dense visual f",
         "content": "arXiv:2604.15495v1 Announce Type: new \nAbstract: Navigating complex, densely packed environments like retail stores, warehouses, and hospitals poses a significant spatial grounding challenge for humans and embodied AI. In these spaces, dense visual features quickly become stale given the quasi-static nature of items, and long-tail semantic distributions challenge traditional computer vision. While Vision-Language Models (VLMs) help assistive systems navigate semantically-rich spaces, they still ",
         "keyTakeaways": [],
         "whyItMatters": "",
         "sourceUrl": "https://arxiv.org/abs/2604.15495",
-        "sourceName": "ArXiv CS.AI",
-        "tags": [
-          "ArXiv CS.AI"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 20 Apr 2026 00:00:00 -0400",
-        "normalizedTags": [
-          "arxiv cs.ai"
-        ],
-        "imageUrl": "/images/2026-04-20/2026-04-20-research-AI-014.webp"
-      },
-      {
-        "id": "AI-015",
-        "title": "Bureaucratic Silences: What the Canadian AI Register Reveals, Omits, and Obscures",
-        "summary": "arXiv:2604.15514v1 Announce Type: new \nAbstract: In November 2025, the Government of Canada operationalized its commitment to transparency by releasing its first Federal AI Register. In this paper, we argue that such registers are not neutral mirrors",
-        "content": "arXiv:2604.15514v1 Announce Type: new \nAbstract: In November 2025, the Government of Canada operationalized its commitment to transparency by releasing its first Federal AI Register. In this paper, we argue that such registers are not neutral mirrors of government activity, but active instruments of ontological design that configure the boundaries of accountability. We analyzed the Register's complete dataset of 409 systems using the Algorithmic Decision-Making Adapted for the Public Sector (ADM",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://arxiv.org/abs/2604.15514",
         "sourceName": "ArXiv CS.AI",
         "tags": [
           "ArXiv CS.AI"
@@ -323,19 +323,19 @@
     "business": [
       {
         "id": "AI-016",
-        "title": "AI startup Cursor in talks to raise $2 billion funding round at valuation of over $50 billion",
-        "summary": "Artificial intelligence startup Cursor in talks to raise a $2 billion fundraising round at an over $50 billion valuation, which does not include the investment.",
-        "content": "Artificial intelligence startup Cursor in talks to raise a $2 billion fundraising round at an over $50 billion valuation, which does not include the investment.",
+        "title": "Tim Cook reactions: Sam Altman, Palmer Luckey react to Apple CEO move",
+        "summary": "Apple CEO Tim Cook's move to executive chair spurred commentary from tech leaders Sam Altman and Palmer Luckey.",
+        "content": "Apple CEO Tim Cook's move to executive chair spurred commentary from tech leaders Sam Altman and Palmer Luckey.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/19/cursor-ai-2-billion-funding-round.html",
+        "sourceUrl": "https://www.cnbc.com/2026/04/20/tim-cook-apple-reactions-ceo.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Sun, 19 Apr 2026 21:19:57 GMT",
+        "publishedAt": "Mon, 20 Apr 2026 23:00:20 GMT",
         "normalizedTags": [
           "cnbc tech"
         ],
@@ -343,19 +343,19 @@
       },
       {
         "id": "AI-017",
-        "title": "Nvidia AI chip rivals attract record funding as competition heats up",
-        "summary": "A growing crop of startups are set on challenging the chip giant's supremacy.",
-        "content": "A growing crop of startups are set on challenging the chip giant's supremacy.",
+        "title": "Jim Cramer gives four reasons why the market keeps shrugging off the Iran war",
+        "summary": "CNBC's Jim Cramer explained why the stock market keeps shrugging off the Iran war.",
+        "content": "CNBC's Jim Cramer explained why the stock market keeps shrugging off the Iran war.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/17/nvidia-ai-chip-rivals-funding-euclyd-fractile.html",
+        "sourceUrl": "https://www.cnbc.com/2026/04/20/jim-cramer-explains-why-the-market-keeps-shrugging-off-the-iran-war.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Mon, 20 Apr 2026 10:01:58 GMT",
+        "publishedAt": "Mon, 20 Apr 2026 22:24:28 GMT",
         "normalizedTags": [
           "cnbc tech"
         ],
@@ -363,74 +363,174 @@
       },
       {
         "id": "AI-018",
-        "title": "Nvidia rival tells CNBC it's seeking at least $100 million in funding as European AI chip market booms",
-        "summary": "Investor interest for AI chip startups is rising, but big challenges remain for the nascent sector.",
-        "content": "Investor interest for AI chip startups is rising, but big challenges remain for the nascent sector.",
+        "title": "Marvell pops on report it will help Google with custom AI chips. Broadcom shares sink",
+        "summary": "Marvell saw a $2 billion investment from Nvidia in March, as AI demand continues to surge.",
+        "content": "Marvell saw a $2 billion investment from Nvidia in March, as AI demand continues to surge.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/17/nvidia-rivals-chip-market-funding-ai-asml-euclyd.html",
+        "sourceUrl": "https://www.cnbc.com/2026/04/20/marvell-stock-google-custom-ai-chips.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Mon, 20 Apr 2026 10:02:21 GMT",
+        "publishedAt": "Mon, 20 Apr 2026 20:43:47 GMT",
         "normalizedTags": [
           "cnbc tech"
         ],
         "imageUrl": "/images/2026-04-20/2026-04-20-business-AI-018.webp"
+      },
+      {
+        "id": "AI-019",
+        "title": "Apple taps John Ternus as CEO to replace Tim Cook, who will become chairman",
+        "summary": "Apple said on Monday that John Ternus is succeeding Tim Cook as CEO, with Cook assuming the role of executive chairman on Sept. 1.",
+        "content": "Apple said on Monday that John Ternus is succeeding Tim Cook as CEO, with Cook assuming the role of executive chairman on Sept. 1.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/04/20/apple-names-john-ternus-ceo-replacing-tim-cook-who-becomes-chairman.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 20 Apr 2026 22:26:47 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ],
+        "imageUrl": "/images/2026-04-20/2026-04-20-business-AI-019.webp"
+      },
+      {
+        "id": "AI-020",
+        "title": "Amazon to invest up to another $25 billion in Anthropic as part of AI infrastructure deal",
+        "summary": "Amazon is boosting its investment in Anthropic, which is committing to spending over $100 billion on Amazon cloud services over the next decade.",
+        "content": "Amazon is boosting its investment in Anthropic, which is committing to spending over $100 billion on Amazon cloud services over the next decade.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/04/20/amazon-invest-up-to-25-billion-in-anthropic-part-of-ai-infrastructure.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 20 Apr 2026 21:44:47 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ],
+        "imageUrl": "/images/2026-04-20/2026-04-20-business-AI-020.webp"
       }
     ],
     "policy": [
       {
-        "id": "AI-019",
-        "title": "Cerebras, an A.I. Chip Maker, Files to Go Public as Tech Offerings Ramp Up",
-        "summary": "The Silicon Valley chip maker filed a prospectus just as SpaceX, Anthropic and OpenAI prepared for their own listings, in what is shaping up to be a wave of enormous initial public offerings.",
-        "content": "The Silicon Valley chip maker filed a prospectus just as SpaceX, Anthropic and OpenAI prepared for their own listings, in what is shaping up to be a wave of enormous initial public offerings.",
+        "id": "AI-021",
+        "title": "Tim Cook Will Step Down as Apple C.E.O.",
+        "summary": "The longtime leader of the iPhone maker will be replaced by John Ternus, the company’s head of hardware engineering.",
+        "content": "The longtime leader of the iPhone maker will be replaced by John Ternus, the company’s head of hardware engineering.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/04/17/technology/cerebras-public-offering-ai.html",
+        "sourceUrl": "https://www.nytimes.com/2026/04/20/technology/tim-cook-apple-ceo-steps-down.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Sun, 19 Apr 2026 18:00:42 +0000",
+        "publishedAt": "Mon, 20 Apr 2026 22:36:58 +0000",
         "normalizedTags": [
           "nyt technology"
         ],
-        "imageUrl": "/images/2026-04-20/2026-04-20-policy-AI-019.webp"
+        "imageUrl": "/images/2026-04-20/2026-04-20-policy-AI-021.webp"
       },
       {
-        "id": "AI-020",
-        "title": "Through A.I. Glasses-Powered Translation, Korea’s Theaters Hope for a K-Pop Moment",
-        "summary": "Producers and the cultural authorities hope that technology can overcome a language barrier and take the country’s shows to the world.",
-        "content": "Producers and the cultural authorities hope that technology can overcome a language barrier and take the country’s shows to the world.",
+        "id": "AI-022",
+        "title": "Apple C.E.O.s Through the Years: From Michael Scott (Not That One) to John Ternus",
+        "summary": "Apple’s corner office has been a seat from which executives like Steve Jobs changed how we interact with technology.",
+        "content": "Apple’s corner office has been a seat from which executives like Steve Jobs changed how we interact with technology.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/04/17/arts/korean-theater-ai-glasses-translation.html",
+        "sourceUrl": "https://www.nytimes.com/2026/04/20/technology/apple-ceos-photos.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Sun, 19 Apr 2026 20:32:16 +0000",
+        "publishedAt": "Mon, 20 Apr 2026 21:49:39 +0000",
         "normalizedTags": [
           "nyt technology"
         ],
-        "imageUrl": "/images/2026-04-20/2026-04-20-policy-AI-020.webp"
+        "imageUrl": "/images/2026-04-20/2026-04-20-policy-AI-022.webp"
+      },
+      {
+        "id": "AI-023",
+        "title": "Amazon Plans to Invest Up to $25 Billion in Anthropic",
+        "summary": "Anthropic also committed to spending $100 billion on Amazon technologies that can help build and deploy A.I. systems.",
+        "content": "Anthropic also committed to spending $100 billion on Amazon technologies that can help build and deploy A.I. systems.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/04/20/technology/amazon-anthropic-investment.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 20 Apr 2026 22:52:29 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-04-20/2026-04-20-policy-AI-023.webp"
+      },
+      {
+        "id": "AI-024",
+        "title": "California Accuses Amazon of Price Fixing in Legal Filing",
+        "summary": "The state claimed the e-commerce giant pressured brands like Levi’s and Hanes to ask competing retailers to raise prices on certain products.",
+        "content": "The state claimed the e-commerce giant pressured brands like Levi’s and Hanes to ask competing retailers to raise prices on certain products.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/04/20/technology/amazon-antitrust-suit-california.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 20 Apr 2026 21:29:04 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-04-20/2026-04-20-policy-AI-024.webp"
+      },
+      {
+        "id": "AI-025",
+        "title": "Elon Musk Ignores French Prosecutors, Widening Tech Rift With Europe",
+        "summary": "Prosecutors investigating his social media company, X, had summoned him for a meeting. His no-show reflected a broader dispute over regulation.",
+        "content": "Prosecutors investigating his social media company, X, had summoned him for a meeting. His no-show reflected a broader dispute over regulation.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/04/20/world/europe/elon-musk-ignores-french-summons.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 20 Apr 2026 18:54:58 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-04-20/2026-04-20-policy-AI-025.webp"
       }
     ],
     "concerns": [],
     "culture": [
       {
-        "id": "AI-021",
-        "title": "French prosecutors summon Elon Musk over alleged child abuse images on X",
-        "summary": "Owner of X summoned along with former CEO Linda Yaccarino over investigation by cybercrime unit\n\nBusiness live – latest updates\n\nEurope live – latest updates\n\nElon Musk has been summoned to Paris, where investigators are looking into allegations of m",
-        "content": "Owner of X summoned along with former CEO Linda Yaccarino over investigation by cybercrime unit\n\nBusiness live – latest updates\n\nEurope live – latest updates\n\nElon Musk has been summoned to Paris, where investigators are looking into allegations of misconduct related to the social media platform X, including the spread of child sexual abuse material and deepfake content.\nThe world’s richest man and Linda Yaccarino – the former chief executive of X – were on Monday summoned for “voluntary intervi",
+        "id": "AI-026",
+        "title": "Elon Musk snubs Paris legal summons over alleged child abuse images on X",
+        "summary": "Billionaire owner elects not to attend voluntary interview as part of investigation by French cybercrime unit\nElon Musk did not appear on Monday for a voluntary interview with lawyers in Paris, who had summoned the American tech billionaire over an i",
+        "content": "Billionaire owner elects not to attend voluntary interview as part of investigation by French cybercrime unit\nElon Musk did not appear on Monday for a voluntary interview with lawyers in Paris, who had summoned the American tech billionaire over an investigation into his social media platform X and AI chatbot Grok.\nThe prosecutors told AFP that they had “taken note of the absence of the first people summoned”, without mentioning Musk’s name. The billionaire called the French authorities involved",
         "keyTakeaways": [],
         "whyItMatters": "",
         "sourceUrl": "https://www.theguardian.com/technology/2026/apr/20/french-prosecutors-summon-elon-musk-over-alleged-child-abuse-images-on-x",
@@ -440,14 +540,54 @@
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Mon, 20 Apr 2026 08:49:31 GMT",
+        "publishedAt": "Mon, 20 Apr 2026 17:14:00 GMT",
         "normalizedTags": [
           "the guardian ai"
         ],
-        "imageUrl": "/images/2026-04-20/2026-04-20-culture-AI-021.webp"
+        "imageUrl": "/images/2026-04-20/2026-04-20-culture-AI-026.webp"
       },
       {
-        "id": "AI-022",
+        "id": "AI-027",
+        "title": "Is Richard Tice’s picture AI-manipulated? Here are five giveaways",
+        "summary": "Experts and social media sleuths studying the Reform deputy leader’s image of an apparent campaign event say the sausage fingers point to sleight of hand\n***\nAfter Richard Tice posted a picture of an apparent Reform campaign event on Sunday, experts ",
+        "content": "Experts and social media sleuths studying the Reform deputy leader’s image of an apparent campaign event say the sausage fingers point to sleight of hand\n***\nAfter Richard Tice posted a picture of an apparent Reform campaign event on Sunday, experts and social media detectives took a closer look and concluded from a variety of telltale signs that the image had either been edited or generated by artificial intelligence. Here are some of the elements that critics called into question.\n Continue re",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/politics/ng-interactive/2026/apr/20/five-signs-richard-tice-picture-ai-manipulated",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 20 Apr 2026 16:56:01 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-04-20/2026-04-20-culture-AI-027.webp"
+      },
+      {
+        "id": "AI-028",
+        "title": "Reform’s Richard Tice posts picture with telltale signs of AI manipulation, say experts",
+        "summary": "Deputy leader’s image on X was almost certainly generated or altered using AI, according to Peryton Intelligence\n\nDo the sausage fingers point to sleight of hand?\n\nIn a picture of a blue-skied day in Birmingham, a diverse group of Reform supporters g",
+        "content": "Deputy leader’s image on X was almost certainly generated or altered using AI, according to Peryton Intelligence\n\nDo the sausage fingers point to sleight of hand?\n\nIn a picture of a blue-skied day in Birmingham, a diverse group of Reform supporters gathered with placards and cheesy grins to knock on doors for their party. Richard Tice, the party’s deputy leader, posted the picture as evidence of the activists’ commitment through thick and thin.\n“That is what resilience looks like,” he wrote. “Th",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/politics/2026/apr/20/reform-richard-tice-picture-ai-manipulation",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 20 Apr 2026 15:31:06 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-04-20/2026-04-20-culture-AI-028.webp"
+      },
+      {
+        "id": "AI-029",
         "title": "Grimes joining LinkedIn is artwashing at its most brazen. I should know – I released my new film on there",
         "summary": "The networking platform – social media’s answer to boomer grandparents – is rapidly becoming an AI slop dystopia. Which made it the perfect place for my Nvidia-inspired fairytale\nWhen electronic musician Grimes – AKA Claire Boucher – took to X last y",
         "content": "The networking platform – social media’s answer to boomer grandparents – is rapidly becoming an AI slop dystopia. Which made it the perfect place for my Nvidia-inspired fairytale\nWhen electronic musician Grimes – AKA Claire Boucher – took to X last year to claim she was “only gonna be releasing music on LinkedIn from now on”, it seemed like yet another provocation from an often eccentric artist. But the ex-partner of Elon Musk may have followed through on her promise. Last month, a profile purpo",
@@ -464,10 +604,10 @@
         "normalizedTags": [
           "the guardian ai"
         ],
-        "imageUrl": "/images/2026-04-20/2026-04-20-culture-AI-022.webp"
+        "imageUrl": "/images/2026-04-20/2026-04-20-culture-AI-029.webp"
       },
       {
-        "id": "AI-023",
+        "id": "AI-030",
         "title": "Teacher v chatbot: my journey into the classroom in the age of AI – podcast",
         "summary": "I was a newcomer, negotiating all of the usual classroom difficulties for the first time. Throwing AI into the mix felt like downing a coffee in the middle of a panic attack\nBy Peter C Baker. Read by Adam Sims\n Continue reading...",
         "content": "I was a newcomer, negotiating all of the usual classroom difficulties for the first time. Throwing AI into the mix felt like downing a coffee in the middle of a panic attack\nBy Peter C Baker. Read by Adam Sims\n Continue reading...",
@@ -484,27 +624,7 @@
         "normalizedTags": [
           "the guardian ai"
         ],
-        "imageUrl": "/images/2026-04-20/2026-04-20-culture-AI-023.webp"
-      },
-      {
-        "id": "AI-024",
-        "title": "Tech CEOs Think AI Will Let Them Be Everywhere at Once",
-        "summary": "Mark Zuckerberg and Jack Dorsey have different visions for how to use AI for management purposes, but both imagine a system of heightened control.",
-        "content": "Mark Zuckerberg and Jack Dorsey have different visions for how to use AI for management purposes, but both imagine a system of heightened control.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.wired.com/story/tech-ceos-using-ai-to-be-everywhere-at-once/",
-        "sourceName": "Wired AI",
-        "tags": [
-          "Wired AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 20 Apr 2026 11:00:00 +0000",
-        "normalizedTags": [
-          "wired ai"
-        ],
-        "imageUrl": "/images/2026-04-20/2026-04-20-culture-AI-024.webp"
+        "imageUrl": "/images/2026-04-20/2026-04-20-culture-AI-030.webp"
       }
     ]
   },
@@ -514,31 +634,37 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/04/19/openais-existential-questions/",
-    "https://techcrunch.com/2026/04/19/the-12-month-window/",
-    "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
-    "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
-    "https://www.theverge.com/tech/914723/vercel-hacked",
-    "https://the-decoder.com/the-nsa-is-using-anthropics-most-powerful-ai-model-mythos/",
-    "https://the-decoder.com/anthropics-revenue-surge-reportedly-fuels-talk-of-trillion-dollar-valuation/",
-    "https://the-decoder.com/german-court-rules-ai-comic-adaptation-of-copyrighted-photo-doesnt-violate-the-original/",
-    "https://www.creativebloq.com/design/branding/from-stranger-things-x-kfc-to-mcdonalds-x-friends-5-ways-brands-can-build-meaningful-partnerships",
-    "https://www.creativebloq.com/art/deniz-defne-acerol",
+    "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
+    "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
+    "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
+    "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
+    "https://techcrunch.com/2026/04/20/fermi-ceo-and-cfo-depart-texas-nuclear-power-ai/",
+    "https://the-decoder.com/openais-codex-now-watches-your-screen-to-remember-what-youre-working-on/",
+    "https://the-decoder.com/open-weight-kimi-k2-6-takes-on-gpt-5-4-and-claude-opus-4-6-with-agent-swarms/",
+    "https://the-decoder.com/google-builds-elite-team-to-close-the-coding-gap-with-anthropic/",
+    "https://the-decoder.com/adobe-fights-ai-disruption-of-its-own-business-model-with-new-enterprise-agent-platform/",
+    "https://the-decoder.com/humanoid-robots-outrun-humans-at-beijings-second-robot-half-marathon/",
+    "https://www.technologyreview.com/2026/04/20/1136154/the-download-murderous-mirror-bacteria-chinese-workers-fight-ai-agents/",
     "https://www.technologyreview.com/2026/04/20/1135222/red-wolves-colossal-biosciences-clones/",
     "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
     "https://arxiv.org/abs/2604.15456",
     "https://arxiv.org/abs/2604.15495",
-    "https://arxiv.org/abs/2604.15514",
-    "https://www.cnbc.com/2026/04/19/cursor-ai-2-billion-funding-round.html",
-    "https://www.cnbc.com/2026/04/17/nvidia-ai-chip-rivals-funding-euclyd-fractile.html",
-    "https://www.cnbc.com/2026/04/17/nvidia-rivals-chip-market-funding-ai-asml-euclyd.html",
-    "https://www.nytimes.com/2026/04/17/technology/cerebras-public-offering-ai.html",
-    "https://www.nytimes.com/2026/04/17/arts/korean-theater-ai-glasses-translation.html",
+    "https://www.cnbc.com/2026/04/20/tim-cook-apple-reactions-ceo.html",
+    "https://www.cnbc.com/2026/04/20/jim-cramer-explains-why-the-market-keeps-shrugging-off-the-iran-war.html",
+    "https://www.cnbc.com/2026/04/20/marvell-stock-google-custom-ai-chips.html",
+    "https://www.cnbc.com/2026/04/20/apple-names-john-ternus-ceo-replacing-tim-cook-who-becomes-chairman.html",
+    "https://www.cnbc.com/2026/04/20/amazon-invest-up-to-25-billion-in-anthropic-part-of-ai-infrastructure.html",
+    "https://www.nytimes.com/2026/04/20/technology/tim-cook-apple-ceo-steps-down.html",
+    "https://www.nytimes.com/2026/04/20/technology/apple-ceos-photos.html",
+    "https://www.nytimes.com/2026/04/20/technology/amazon-anthropic-investment.html",
+    "https://www.nytimes.com/2026/04/20/technology/amazon-antitrust-suit-california.html",
+    "https://www.nytimes.com/2026/04/20/world/europe/elon-musk-ignores-french-summons.html",
     "https://www.theguardian.com/technology/2026/apr/20/french-prosecutors-summon-elon-musk-over-alleged-child-abuse-images-on-x",
+    "https://www.theguardian.com/politics/ng-interactive/2026/apr/20/five-signs-richard-tice-picture-ai-manipulated",
+    "https://www.theguardian.com/politics/2026/apr/20/reform-richard-tice-picture-ai-manipulation",
     "https://www.theguardian.com/film/2026/apr/20/grimes-linkedin-ai-nvidia",
-    "https://www.theguardian.com/news/audio/2026/apr/20/teacher-v-chatbot-classroom-age-of-ai-podcast",
-    "https://www.wired.com/story/tech-ceos-using-ai-to-be-everywhere-at-once/"
+    "https://www.theguardian.com/news/audio/2026/apr/20/teacher-v-chatbot-classroom-age-of-ai-podcast"
   ],
-  "generatedAt": "2026-04-20T12:01:49.221Z",
+  "generatedAt": "2026-04-20T23:35:07.444Z",
   "simpleSummaryImageUrl": "/images/2026-04-20/2026-04-20-summary.webp"
 }
