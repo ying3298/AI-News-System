@@ -2,10 +2,11 @@
   "date": "2026-04-22",
   "dateFormatted": "April 22, 2026",
   "headline": {
-    "title": "Meta will record employees’ keystrokes and use it to train its AI models",
-    "summary": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models.",
-    "sourceUrl": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
-    "sourceName": "TechCrunch AI"
+    "title": "Google updates Workspace to make AI your new office intern",
+    "summary": "Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system.",
+    "sourceUrl": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
+    "sourceName": "TechCrunch AI",
+    "imageUrl": "/images/2026-04-22/2026-04-22-hero.webp"
   },
   "simpleSummary": [
     "Today's edition was assembled directly from RSS feeds without AI curation.",
@@ -15,200 +16,230 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "Meta will record employees’ keystrokes and use it to train its AI models",
-        "summary": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models.",
-        "content": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models.",
+        "title": "Google updates Workspace to make AI your new office intern",
+        "summary": "Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system.",
+        "content": "Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
+        "sourceUrl": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Tue, 21 Apr 2026 23:45:21 +0000",
+        "publishedAt": "Wed, 22 Apr 2026 22:44:26 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-22/2026-04-22-tools-AI-001.webp"
       },
       {
         "id": "AI-002",
-        "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
-        "summary": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted.",
-        "content": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted.",
+        "title": "Hands on with X’s new AI-powered custom feeds",
+        "summary": "X's AI-powered custom timelines are replacing Communities, with Grok-curated feeds...and new ad slots.",
+        "content": "X's AI-powered custom timelines are replacing Communities, with Grok-curated feeds...and new ad slots.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
+        "sourceUrl": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Tue, 21 Apr 2026 23:26:45 +0000",
+        "publishedAt": "Wed, 22 Apr 2026 22:25:53 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-22/2026-04-22-tools-AI-002.webp"
       },
       {
         "id": "AI-003",
-        "title": "SpaceX is working with Cursor and has an option to buy the startup for $60B",
-        "summary": "The move could shore up weaknesses at each company, but it also reveals them. Neither Cursor nor xAI has proprietary models that can match the leading offerings from Anthropic and OpenAI — the same companies now competing directly with Cursor for the",
-        "content": "The move could shore up weaknesses at each company, but it also reveals them. Neither Cursor nor xAI has proprietary models that can match the leading offerings from Anthropic and OpenAI — the same companies now competing directly with Cursor for the developer market.",
+        "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
+        "summary": "Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billion acquisition.",
+        "content": "Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billion acquisition.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
+        "sourceUrl": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Tue, 21 Apr 2026 22:58:22 +0000",
+        "publishedAt": "Wed, 22 Apr 2026 19:51:51 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-22/2026-04-22-tools-AI-003.webp"
       },
       {
         "id": "AI-004",
-        "title": "Apple’s John Ternus will run one of the world’s most powerful companies; the job is a minefield",
-        "summary": "Apple's top job comes with almost unrivaled power and money, but it comes with plenty of baggage, too.",
-        "content": "Apple's top job comes with almost unrivaled power and money, but it comes with plenty of baggage, too.",
+        "title": "Google Cloud launches two new AI chips to compete with Nvidia",
+        "summary": "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now.",
+        "content": "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/",
+        "sourceUrl": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Tue, 21 Apr 2026 20:23:24 +0000",
+        "publishedAt": "Wed, 22 Apr 2026 18:39:27 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-22/2026-04-22-tools-AI-004.webp"
       },
       {
         "id": "AI-005",
-        "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
-        "summary": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain.",
-        "content": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain.",
+        "title": "Google turns Chrome into an AI co-worker for the workplace",
+        "summary": "Google brings Gemini-powered \"auto browse\" capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and more.",
+        "content": "Google brings Gemini-powered \"auto browse\" capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and more.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
+        "sourceUrl": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Tue, 21 Apr 2026 19:11:29 +0000",
+        "publishedAt": "Wed, 22 Apr 2026 17:30:00 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-22/2026-04-22-tools-AI-005.webp"
       }
     ],
     "creative": [
       {
         "id": "AI-006",
-        "title": "ChatGPT Images 2.0 is a breakthrough that could fundamentally reshape graphic generation",
-        "summary": "OpenAI is adding reasoning and web search to its ChatGPT Images 2.0 image generator. The model can now create up to eight consistent images from a single prompt and handles text in general, and especially in non-Latin scripts, significantly better.\nT",
-        "content": "OpenAI is adding reasoning and web search to its ChatGPT Images 2.0 image generator. The model can now create up to eight consistent images from a single prompt and handles text in general, and especially in non-Latin scripts, significantly better.\nThe article ChatGPT Images 2.0 is a breakthrough that could fundamentally reshape graphic generation appeared first on The Decoder.",
+        "title": "Ex-OpenAI researcher Jerry Tworek launches Core Automation to build the most automated AI lab in the world",
+        "summary": "New AI lab, familiar face: former OpenAI researcher Jerry Tworek wants to push past the limits of today's AI architectures with a small team and new learning methods.\nThe article Ex-OpenAI researcher Jerry Tworek launches Core Automation to build the",
+        "content": "New AI lab, familiar face: former OpenAI researcher Jerry Tworek wants to push past the limits of today's AI architectures with a small team and new learning methods.\nThe article Ex-OpenAI researcher Jerry Tworek launches Core Automation to build the most automated AI lab in the world appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/openais-chatgpt-images-2-0-thinks-before-it-generates-adding-reasoning-and-web-search-to-image-creation/",
+        "sourceUrl": "https://the-decoder.com/ex-openai-researcher-jerry-tworek-launches-core-automation-to-build-the-most-automated-ai-lab-in-the-world/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Tue, 21 Apr 2026 19:55:49 +0000",
+        "publishedAt": "Wed, 22 Apr 2026 18:44:36 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-22/2026-04-22-creative-AI-006.webp"
       },
       {
         "id": "AI-007",
-        "title": "Google launches Deep Research and Deep Research Max agents to automate complex research",
-        "summary": "Google Deepmind is rolling out Deep Research Max, a new AI agent built on Gemini 3.1 Pro that runs autonomous research across the web and proprietary data sources. For the first time, developers can plug in financial feeds and other specialized sourc",
-        "content": "Google Deepmind is rolling out Deep Research Max, a new AI agent built on Gemini 3.1 Pro that runs autonomous research across the web and proprietary data sources. For the first time, developers can plug in financial feeds and other specialized sources through the Model Context Protocol. The benchmarks come with the usual lack of transparency.\nThe article Google launches Deep Research and Deep Research Max agents to automate complex research appeared first on The Decoder.",
+        "title": "OpenAI launches workspace agents that turn ChatGPT from a chatbot into a team automation platform",
+        "summary": "OpenAI is rolling out workspace agents in ChatGPT, an evolution of custom GPTs. Powered by Codex, the agents automate complex team workflows and keep running even when no one is watching. Existing custom GPTs will stick around for now, with a migrati",
+        "content": "OpenAI is rolling out workspace agents in ChatGPT, an evolution of custom GPTs. Powered by Codex, the agents automate complex team workflows and keep running even when no one is watching. Existing custom GPTs will stick around for now, with a migration path coming later.\nThe article OpenAI launches workspace agents that turn ChatGPT from a chatbot into a team automation platform appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/google-launches-deep-research-and-deep-research-max-agents-to-automate-complex-research/",
+        "sourceUrl": "https://the-decoder.com/openai-launches-workspace-agents-that-turn-chatgpt-from-a-chatbot-into-a-team-automation-platform/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Tue, 21 Apr 2026 18:11:38 +0000",
+        "publishedAt": "Wed, 22 Apr 2026 18:23:33 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-22/2026-04-22-creative-AI-007.webp"
       },
       {
         "id": "AI-008",
-        "title": "The flood of AI music is reshaping how streaming platforms handle new uploads",
-        "summary": "Music streaming service Deezer reports that 44 percent of all songs uploaded to its platform daily are now fully AI-generated. The company uses its own detection technology and plans to license it to the broader music industry.\nThe article The flood ",
-        "content": "Music streaming service Deezer reports that 44 percent of all songs uploaded to its platform daily are now fully AI-generated. The company uses its own detection technology and plans to license it to the broader music industry.\nThe article The flood of AI music is reshaping how streaming platforms handle new uploads appeared first on The Decoder.",
+        "title": "Google's new AI tools put film scouting in Street View and promise to cut weeks of satellite analysis to minutes",
+        "summary": "At Cloud Next, Google unveiled three new AI imaging tools. Creatives can drop AI-generated images into real Street View locations, Google says city planners will be able to analyze satellite imagery in minutes instead of weeks, and developers get new",
+        "content": "At Cloud Next, Google unveiled three new AI imaging tools. Creatives can drop AI-generated images into real Street View locations, Google says city planners will be able to analyze satellite imagery in minutes instead of weeks, and developers get new models that can identify objects like bridges and power lines.\nThe article Google's new AI tools put film scouting in Street View and promise to cut weeks of satellite analysis to minutes appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/the-flood-of-ai-music-is-reshaping-how-streaming-platforms-handle-new-uploads/",
+        "sourceUrl": "https://the-decoder.com/googles-new-ai-tools-put-film-scouting-in-street-view-and-promise-to-cut-weeks-of-satellite-analysis-to-minutes/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Tue, 21 Apr 2026 12:24:00 +0000",
+        "publishedAt": "Wed, 22 Apr 2026 17:22:59 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-22/2026-04-22-creative-AI-008.webp"
       },
       {
         "id": "AI-009",
-        "title": "Corporate America's favorite ChatGPT phrase doubled twice since 2024",
-        "summary": "A new language analysis reveals how one telltale sentence pattern exposes companies that are letting ChatGPT handle their communications. Usage has quadrupled since 2024.\nThe article Corporate America's favorite ChatGPT phrase doubled twice since 202",
-        "content": "A new language analysis reveals how one telltale sentence pattern exposes companies that are letting ChatGPT handle their communications. Usage has quadrupled since 2024.\nThe article Corporate America's favorite ChatGPT phrase doubled twice since 2024 appeared first on The Decoder.",
+        "title": "Google unveils 8th-gen TPUs, agent platform, and Workspace AI layer at Cloud Next '26",
+        "summary": "Google used its Cloud Next '26 conference to unveil its eighth-generation TPUs, a revamped agent platform, and a new AI layer for Workspace. The company is pitching the whole package under the banner \"Agentic Enterprise.\"\nThe article Google unveils 8",
+        "content": "Google used its Cloud Next '26 conference to unveil its eighth-generation TPUs, a revamped agent platform, and a new AI layer for Workspace. The company is pitching the whole package under the banner \"Agentic Enterprise.\"\nThe article Google unveils 8th-gen TPUs, agent platform, and Workspace AI layer at Cloud Next '26 appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/corporate-americas-favorite-chatgpt-phrase-doubled-twice-since-2024/",
+        "sourceUrl": "https://the-decoder.com/google-unveils-8th-gen-tpus-agent-platform-and-workspace-ai-layer-at-cloud-next-26/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Tue, 21 Apr 2026 12:20:48 +0000",
+        "publishedAt": "Wed, 22 Apr 2026 15:34:51 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-22/2026-04-22-creative-AI-009.webp"
       },
       {
         "id": "AI-010",
-        "title": " I wish I could afford the new Fujifilm X Oberwerth camera bag collection ",
-        "summary": "It’s the kind of luxury I deserve but would never indulge.",
-        "content": "It’s the kind of luxury I deserve but would never indulge.",
+        "title": "Anthropic manager hints that Pro and Max plans are outgrown by today's Claude workloads",
+        "summary": "Anthropic briefly removed Claude Code from its Pro subscription for new customers and reversed the change after public pushback. Head of Growth Amol Avasare signaled that the current subscription plans fundamentally no longer match how people are usi",
+        "content": "Anthropic briefly removed Claude Code from its Pro subscription for new customers and reversed the change after public pushback. Head of Growth Amol Avasare signaled that the current subscription plans fundamentally no longer match how people are using Claude.\nThe article Anthropic manager hints that Pro and Max plans are outgrown by today's Claude workloads appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.creativebloq.com/photography/cameras-accessories/i-wish-i-could-afford-the-new-fujifilm-x-oberwerth-camera-bag-collection",
-        "sourceName": "Creative Bloq",
+        "sourceUrl": "https://the-decoder.com/anthropic-manager-hints-that-pro-and-max-plans-are-outgrown-by-todays-claude-workloads/",
+        "sourceName": "The Decoder",
         "tags": [
-          "Creative Bloq"
+          "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Wed, 22 Apr 2026 11:00:00 +0000",
+        "publishedAt": "Wed, 22 Apr 2026 13:38:59 +0000",
         "normalizedTags": [
-          "creative bloq"
-        ]
+          "the decoder"
+        ],
+        "imageUrl": "/images/2026-04-22/2026-04-22-creative-AI-010.webp"
       }
     ],
     "research": [
       {
         "id": "AI-011",
+        "title": "The Download: introducing the 10 Things That Matter in AI Right Now",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: 10 Things That Matter in AI Right Now What actually matters in AI right now? It’s getting harder to",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: 10 Things That Matter in AI Right Now What actually matters in AI right now? It’s getting harder to tell amid the constant launches, hype, and warnings. To cut through…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 22 Apr 2026 12:10:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ],
+        "imageUrl": "/images/2026-04-22/2026-04-22-research-AI-011.webp"
+      },
+      {
+        "id": "AI-012",
         "title": "AI needs a strong data fabric to deliver business value",
         "summary": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the en",
         "content": "Artificial intelligence is moving quickly in the enterprise, from experimentation to everyday use. Organizations are deploying copilots, agents, and predictive systems across finance, supply chains, human resources, and customer operations. By the end of 2025, half of companies used AI in at least three business functions, according to a recent survey. But as AI becomes…",
@@ -224,10 +255,11 @@
         "publishedAt": "Wed, 22 Apr 2026 10:05:06 +0000",
         "normalizedTags": [
           "mit tech review"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-22/2026-04-22-research-AI-012.webp"
       },
       {
-        "id": "AI-012",
+        "id": "AI-013",
         "title": "3 things Michelle Kim is into right now",
         "summary": "Isegye Idol If you thought K-pop was weird, virtual idols—humans who perform as anime-style digital characters via motion capture—will blow your mind. My favorite is a girl group called Isegye Idol, created by Woowakgood, a Korean VTuber (a streamer ",
         "content": "Isegye Idol If you thought K-pop was weird, virtual idols—humans who perform as anime-style digital characters via motion capture—will blow your mind. My favorite is a girl group called Isegye Idol, created by Woowakgood, a Korean VTuber (a streamer who likewise performs as a digital persona). Isegye Idol’s six members are anonymous, which seems to…",
@@ -243,10 +275,11 @@
         "publishedAt": "Wed, 22 Apr 2026 10:00:00 +0000",
         "normalizedTags": [
           "mit tech review"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-22/2026-04-22-research-AI-013.webp"
       },
       {
-        "id": "AI-013",
+        "id": "AI-014",
         "title": "One town’s scheme to get rid of its geese",
         "summary": "“Pull over!” I order my brother one sunny February afternoon. Our target is in sight: a gaggle of Canada geese, pecking at grass near the dog park. As I approach, tiptoeing over their grayish-white poop, I notice that one bird wears a white cuff arou",
         "content": "“Pull over!” I order my brother one sunny February afternoon. Our target is in sight: a gaggle of Canada geese, pecking at grass near the dog park. As I approach, tiptoeing over their grayish-white poop, I notice that one bird wears a white cuff around its slender black neck. It’s a GPS tracker—part of a…",
@@ -262,10 +295,11 @@
         "publishedAt": "Wed, 22 Apr 2026 10:00:00 +0000",
         "normalizedTags": [
           "mit tech review"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-22/2026-04-22-research-AI-014.webp"
       },
       {
-        "id": "AI-014",
+        "id": "AI-015",
         "title": "There is no nature anymore",
         "summary": "When people talk about “nature,” they’re generally talking about things that aren’t made by human beings. Rocks. Reefs. Red wolves. But while there is plenty of God’s creation to go around, it is hard to think of anything on Earth that human hands ha",
         "content": "When people talk about “nature,” they’re generally talking about things that aren’t made by human beings. Rocks. Reefs. Red wolves. But while there is plenty of God’s creation to go around, it is hard to think of anything on Earth that human hands haven’t affected. In the Brazilian rainforest, scientists have found microplastics in the…",
@@ -281,129 +315,176 @@
         "publishedAt": "Wed, 22 Apr 2026 10:00:00 +0000",
         "normalizedTags": [
           "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-015",
-        "title": "Los Angeles is finally going underground",
-        "summary": "Los Angeles deserves its reputation as the quintessential car city—the rhythms of its 2,200 square miles are dictated by wide boulevards and concrete arcs of freeways. But it once had a world-class rail transit system, and for the last three decades,",
-        "content": "Los Angeles deserves its reputation as the quintessential car city—the rhythms of its 2,200 square miles are dictated by wide boulevards and concrete arcs of freeways. But it once had a world-class rail transit system, and for the last three decades, the city has been rebuilding a network of trolleys and subways. In May, a…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/04/22/1135449/los-angeles-subway-going-underground/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
         ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Wed, 22 Apr 2026 10:00:00 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
+        "imageUrl": "/images/2026-04-22/2026-04-22-research-AI-015.webp"
       }
     ],
     "applications": [],
     "business": [
       {
         "id": "AI-016",
-        "title": "Palantir inks $300 million deal with USDA to safeguard food supply",
-        "summary": "Palantir is continuing to diversify its business beyond cornerstone military and defense contracts.",
-        "content": "Palantir is continuing to diversify its business beyond cornerstone military and defense contracts.",
+        "title": "SK Hynix posts record first-quarter profit, in line with estimates as memory prices climb",
+        "summary": "SK Hynix posted yet another quarter of record profit and revenue, as prices for its products continue to surge amid strong AI demand.",
+        "content": "SK Hynix posted yet another quarter of record profit and revenue, as prices for its products continue to surge amid strong AI demand.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/22/palantir-inks-300-million-deal-with-usda-to-safeguard-food-supply.html",
+        "sourceUrl": "https://www.cnbc.com/2026/04/23/sk-hynix-earnings-ai-memory-shortage-hbm-demand.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Wed, 22 Apr 2026 11:00:01 GMT",
+        "publishedAt": "Wed, 22 Apr 2026 23:12:17 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-22/2026-04-22-business-AI-016.webp"
       },
       {
         "id": "AI-017",
-        "title": "CEO of Southeast Asia’s largest bank names the 'new war' keeping her up at night",
-        "summary": "For DBS CEO Tan Su Shan, the biggest risk keeping her up at night is not just market volatility or geopolitical shocks, but cyberattacks.",
-        "content": "For DBS CEO Tan Su Shan, the biggest risk keeping her up at night is not just market volatility or geopolitical shocks, but cyberattacks.",
+        "title": "AI will boost productivity so ServiceNow won't have to backfill open jobs, CEO says",
+        "summary": "ServiceNow's stock has slumped this year, along with other software names, as AI has threatened to disrupt the industry's business model.",
+        "content": "ServiceNow's stock has slumped this year, along with other software names, as AI has threatened to disrupt the industry's business model.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/22/dbs-ceo-tan-su-shan-cyber-threats-are-keeping-her-up-at-night.html",
+        "sourceUrl": "https://www.cnbc.com/2026/04/22/servicenow-mcdermott-ai-jobs-earnings.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Wed, 22 Apr 2026 11:07:20 GMT",
+        "publishedAt": "Wed, 22 Apr 2026 22:29:49 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-22/2026-04-22-business-AI-017.webp"
       },
       {
         "id": "AI-018",
-        "title": "Lawmakers seek to override state data privacy laws with new bill",
-        "summary": "Pair of bills would create a national standard and prevent individuals from suing companies.",
-        "content": "Pair of bills would create a national standard and prevent individuals from suing companies.",
+        "title": "Jim Cramer's strategy to avoid missing out on big winners",
+        "summary": "CNBC's Jim Cramer outlined an investing strategy to avoid missing out on big winners during momentum-driven markets.",
+        "content": "CNBC's Jim Cramer outlined an investing strategy to avoid missing out on big winners during momentum-driven markets.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/22/data-privacy-bill-congress-states.html",
+        "sourceUrl": "https://www.cnbc.com/2026/04/22/jim-cramers-strategy-to-avoid-missing-out-on-big-winners.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Wed, 22 Apr 2026 09:00:01 GMT",
+        "publishedAt": "Wed, 22 Apr 2026 22:17:35 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-22/2026-04-22-business-AI-018.webp"
       },
       {
         "id": "AI-019",
-        "title": "Jim Cramer says Tim Cook accomplished something 'almost impossible' as Apple CEO",
-        "summary": "CNBC's Jim Cramer reflects on Apple CEO Tim Cook's legacy building the \"greatest consumer-based enterprise in history.\"",
-        "content": "CNBC's Jim Cramer reflects on Apple CEO Tim Cook's legacy building the \"greatest consumer-based enterprise in history.\"",
+        "title": "IBM CEO Krishna says Iran, other uncertainty is weighing on company's outlook",
+        "summary": "IBM CEO Arvind Krishna said he expects others to quickly catch up to the power and performance of Anthropic's Mythos AI model.",
+        "content": "IBM CEO Arvind Krishna said he expects others to quickly catch up to the power and performance of Anthropic's Mythos AI model.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/21/cramer-tim-cook-accomplished-something-almost-impossible-apple-ceo.html",
+        "sourceUrl": "https://www.cnbc.com/2026/04/22/ibm-ceo-arvind-krishna-earnings-iran-anthropic.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Tue, 21 Apr 2026 23:00:01 GMT",
+        "publishedAt": "Wed, 22 Apr 2026 22:29:04 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-22/2026-04-22-business-AI-019.webp"
       },
       {
         "id": "AI-020",
-        "title": "Jim Cramer says these stocks show why you need to trade on fundamentals, not fear",
-        "summary": "CNBC's Jim Cramer highlighted stocks whose turnaround stories explained why investors need to focus on fundamentals, not fear, when trading.",
-        "content": "CNBC's Jim Cramer highlighted stocks whose turnaround stories explained why investors need to focus on fundamentals, not fear, when trading.",
+        "title": "ServiceNow stock sinks 14% as subscription revenue takes hit from Iran war",
+        "summary": "The software company beat expectations for earnings and revenue as it continued to expand its artificial intelligence offerings.",
+        "content": "The software company beat expectations for earnings and revenue as it continued to expand its artificial intelligence offerings.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/21/jim-cramer-these-stocks-show-why-you-trade-on-fundamentals-not-fear.html",
+        "sourceUrl": "https://www.cnbc.com/2026/04/22/servicenow-now-earnings-q1-2026.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Tue, 21 Apr 2026 22:36:32 GMT",
+        "publishedAt": "Wed, 22 Apr 2026 21:08:37 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-22/2026-04-22-business-AI-020.webp"
       }
     ],
     "policy": [
       {
         "id": "AI-021",
+        "title": "Anthropic’s New Mythos A.I. Model Sets Off Global Alarms",
+        "summary": "Mythos has triggered emergency responses from central banks and intelligence agencies globally, as Anthropic decides who has access to the powerful model.",
+        "content": "Mythos has triggered emergency responses from central banks and intelligence agencies globally, as Anthropic decides who has access to the powerful model.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/04/22/technology/anthropics-mythos-ai.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 22 Apr 2026 19:48:53 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-04-22/2026-04-22-policy-AI-021.webp"
+      },
+      {
+        "id": "AI-022",
+        "title": "Leaked Code for Anthropic’s Claude Code Tests Copyright Challenges in A.I. Era",
+        "summary": "Artificial intelligence tools are making it faster than ever to reproduce creative work. Does copyright even matter anymore?",
+        "content": "Artificial intelligence tools are making it faster than ever to reproduce creative work. Does copyright even matter anymore?",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/04/22/technology/anthropic-code-leak-copyright.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 22 Apr 2026 14:37:38 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-04-22/2026-04-22-policy-AI-022.webp"
+      },
+      {
+        "id": "AI-023",
+        "title": "Musk’s SpaceX Goals Shift Ahead of Its I.P.O.",
+        "summary": "As SpaceX prepares to go public, Mr. Musk has proposed moonshots that differ from the company’s original aim of reaching Mars.",
+        "content": "As SpaceX prepares to go public, Mr. Musk has proposed moonshots that differ from the company’s original aim of reaching Mars.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/04/22/technology/elon-musk-spacex-ipo-goals.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 22 Apr 2026 14:56:26 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-04-22/2026-04-22-policy-AI-023.webp"
+      },
+      {
+        "id": "AI-024",
         "title": "SpaceX Strikes Deal With Cursor for $60 Billion",
         "summary": "The potential acquisition comes as Elon Musk’s rocket and satellite maker, which has been emphasizing artificial intelligence, is preparing to go public.",
         "content": "The potential acquisition comes as Elon Musk’s rocket and satellite maker, which has been emphasizing artificial intelligence, is preparing to go public.",
@@ -419,181 +500,131 @@
         "publishedAt": "Wed, 22 Apr 2026 00:22:29 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-022",
-        "title": "Tim Cook Was Very, Very Good at Making Money",
-        "summary": "If the Steve Jobs era was defined by technological innovation, the Tim Cook period was one of exceptional financial growth.",
-        "content": "If the Steve Jobs era was defined by technological innovation, the Tim Cook period was one of exceptional financial growth.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/04/21/business/how-apple-became-a-4-trillion-company-under-tim-cook.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
         ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Tue, 21 Apr 2026 15:43:25 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-023",
-        "title": "Even Without Internet Access, Prisoners Are Trying to Benefit From A.I.",
-        "summary": "Most prisons forbid online access. But inmates are finding ways to ask chatbots questions anyway.",
-        "content": "Most prisons forbid online access. But inmates are finding ways to ask chatbots questions anyway.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/04/21/business/ai-chatbots-prisoners.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Tue, 21 Apr 2026 14:19:03 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-024",
-        "title": "Musk’s SpaceX Goals Shift Ahead of Its I.P.O.",
-        "summary": "As SpaceX prepares to go public, Mr. Musk has proposed moonshots that differ from the company’s original aim of reaching Mars.",
-        "content": "As SpaceX prepares to go public, Mr. Musk has proposed moonshots that differ from the company’s original aim of reaching Mars.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/04/22/technology/elon-musk-spacex-ipo-goals.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Wed, 22 Apr 2026 09:01:02 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
+        "imageUrl": "/images/2026-04-22/2026-04-22-policy-AI-024.webp"
       },
       {
         "id": "AI-025",
-        "title": "Aging in Place: How Technology Might Help You Grow Old at Home",
-        "summary": "The budding field is turning dreams into reality for older adults who are eager to age in place, filling caregiving gaps and easing minds as America ages rapidly.",
-        "content": "The budding field is turning dreams into reality for older adults who are eager to age in place, filling caregiving gaps and easing minds as America ages rapidly.",
+        "title": "Crypto Entrepreneur Justin Sun Sues Trump Family’s World Liberty Financial, Accusing It of Fraud",
+        "summary": "Justin Sun, one of the largest backers of World Liberty Financial, sued the Trump family’s crypto start-up, accusing it of a fraudulent scheme to pressure him into buying digital coins.",
+        "content": "Justin Sun, one of the largest backers of World Liberty Financial, sued the Trump family’s crypto start-up, accusing it of a fraudulent scheme to pressure him into buying digital coins.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/04/22/business/seniors-home-care-tech.html",
+        "sourceUrl": "https://www.nytimes.com/2026/04/22/technology/justin-sun-crypto-world-liberty-trump.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Wed, 22 Apr 2026 09:00:07 +0000",
+        "publishedAt": "Wed, 22 Apr 2026 17:58:07 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-22/2026-04-22-policy-AI-025.webp"
       }
     ],
     "concerns": [],
     "culture": [
       {
         "id": "AI-026",
-        "title": "Anthropic investigates report of rogue access to hack-enabling Mythos AI",
-        "summary": "‘Handful’ of people allegedly gain unauthorised access to model adept at detecting cybersecurity vulnerabilities\n\nBusiness live – latest updates\n\nThe AI developer Anthropic has confirmed it is investigating a report that unauthorised users have gaine",
-        "content": "‘Handful’ of people allegedly gain unauthorised access to model adept at detecting cybersecurity vulnerabilities\n\nBusiness live – latest updates\n\nThe AI developer Anthropic has confirmed it is investigating a report that unauthorised users have gained access to its Mythos model, which it has warned poses risks to cybersecurity.\nThe US startup made the statement after Bloomberg reported on Wednesday that a small group of people had accessed the model, which has not been released to the public bec",
+        "title": "What is Mythos AI and why could it be a threat to global cybersecurity?",
+        "summary": "Anthropic’s decision to restrict access to its powerful new model increases fears about the advanced technology\nAnthropic has ruled out releasing its latest AI model, Mythos, to the public because of the threat it poses to global cybersecurity.\nHowev",
+        "content": "Anthropic’s decision to restrict access to its powerful new model increases fears about the advanced technology\nAnthropic has ruled out releasing its latest AI model, Mythos, to the public because of the threat it poses to global cybersecurity.\nHowever, the US tech startup behind the Claude chatbot confirmed on Wednesday it was investigating a report that a group of people had gained unauthorised access to Mythos. The alleged incident has raised concerns over the pace of development and the abil",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/apr/22/anthropic-investigates-report-of-rogue-access-to-hack-enabling-mythos-ai",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/apr/22/what-is-anthropic-mythos-ai-threat-global-cybersecurity",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Wed, 22 Apr 2026 08:58:06 GMT",
+        "publishedAt": "Wed, 22 Apr 2026 15:03:44 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-22/2026-04-22-culture-AI-026.webp"
       },
       {
         "id": "AI-027",
-        "title": "AI hallucinations found in high-profile Wall Street law firm filing",
-        "summary": "Sullivan & Cromwell apologises to New York federal judge for string of errors in documents for Prince Group case\n\nBusiness live – latest updates\n\nThe elite Wall Street law firm Sullivan & Cromwell has told a court that a major filing it made in a hig",
-        "content": "Sullivan & Cromwell apologises to New York federal judge for string of errors in documents for Prince Group case\n\nBusiness live – latest updates\n\nThe elite Wall Street law firm Sullivan & Cromwell has told a court that a major filing it made in a high-profile case contained errors resulting from hallucinations generated by artificial intelligence.\nAndrew Dietderich, the co-head of the firm’s global restructuring group, apologised in a letter to the New York federal judge Martin Glenn on Saturday",
+        "title": "What Trump’s Bible stunt says about his complicated history with Christianity",
+        "summary": "On Tuesday, the president read from the Bible in a taped message. Religious scholars were not impressed\n\nThis was originally published in This Week in Trumpland. Sign up to receive it in your inbox every Wednesday\n\nDonald Trump, who recently posted a",
+        "content": "On Tuesday, the president read from the Bible in a taped message. Religious scholars were not impressed\n\nThis was originally published in This Week in Trumpland. Sign up to receive it in your inbox every Wednesday\n\nDonald Trump, who recently posted an image on social media which portrayed him as Jesus Christ (or, rather, “a doctor”), and who seems unable to stop attacking the pope, read the Bible to America on Tuesday night.\nSitting behind his desk in the Oval Office, hands resting on a book tha",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/apr/22/ai-hallucinations-found-in-high-profile-wall-street-law-firm-filing",
+        "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/22/trumps-special-relationship-with-christianity",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Wed, 22 Apr 2026 08:09:34 GMT",
+        "publishedAt": "Wed, 22 Apr 2026 18:00:32 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-22/2026-04-22-culture-AI-027.webp"
       },
       {
         "id": "AI-028",
-        "title": "UK could face ‘hacktivist attacks at scale’, says head of security agency",
-        "summary": "Officials warn a conflict situation could cause disruption similar to recent major ransomware incidents\nThe UK could face “hacktivist attacks at scale” if it becomes embroiled in a conflict and the impact could be similar to recent high-profile ranso",
-        "content": "Officials warn a conflict situation could cause disruption similar to recent major ransomware incidents\nThe UK could face “hacktivist attacks at scale” if it becomes embroiled in a conflict and the impact could be similar to recent high-profile ransomware incidents, according to the head of the country’s online security agency.\nRichard Horne, chief executive of the National Cyber Security Centre (NCSC), will warn today that nation states now account for the most significant incidents the NCSC de",
+        "title": "Pentagon asks for $54bn in pivot towards AI-powered war",
+        "summary": "Budget outlines funding for autonomous drone warfare program as experts say military unprepared for risks\nThe Pentagon is aiming to increase funding more than a hundredfold for an autonomous drone warfare program, according to budget documents releas",
+        "content": "Budget outlines funding for autonomous drone warfare program as experts say military unprepared for risks\nThe Pentagon is aiming to increase funding more than a hundredfold for an autonomous drone warfare program, according to budget documents released this week, signalling a major pivot towards AI-powered war.\nIn its 2027 budget, the Pentagon has asked for over $54bn to fund the Defense Autonomous Warfare Group, a 24,000% increase on last year.\n Continue reading...",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/apr/22/uk-hacktivist-attacks-at-scale-security-agency",
+        "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/22/pentagon-asks-for-54bn-in-pivot-towards-ai-powered-war",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Wed, 22 Apr 2026 05:00:10 GMT",
+        "publishedAt": "Wed, 22 Apr 2026 17:24:02 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-22/2026-04-22-culture-AI-028.webp"
       },
       {
         "id": "AI-029",
-        "title": "SpaceX secures option to buy AI startup Cursor for $60bn or partner for $10bn",
-        "summary": "Cursor is a Silicon Valley startup using AI to automate coding as Elon Musk’s firm seeks foothold in the AI market\nSpaceX said it has secured an option to either acquire code-generation startup Cursor for $60bn later this year, or pay $10bn for their",
-        "content": "Cursor is a Silicon Valley startup using AI to automate coding as Elon Musk’s firm seeks foothold in the AI market\nSpaceX said it has secured an option to either acquire code-generation startup Cursor for $60bn later this year, or pay $10bn for their new partnership, as it pushes deeper into the lucrative market for AI developer tools.\nAlong with OpenAI and Anthropic, Cursor is one of several Silicon Valley startups that has drawn waves of developers by using artificial intelligence to automate ",
+        "title": "AI-powered robot beats elite table tennis players",
+        "summary": "In feat hailed as milestone in robotics, Sony AI’s Ace wins three out of five matches played under official rules\nAn AI-powered robot has beaten elite players at table tennis in a significant achievement for a machine faced with human athletes in a r",
+        "content": "In feat hailed as milestone in robotics, Sony AI’s Ace wins three out of five matches played under official rules\nAn AI-powered robot has beaten elite players at table tennis in a significant achievement for a machine faced with human athletes in a real-world competitive sport.\nNamed Ace, the robotic system developed by Sony AI, won three out of five matches against elite players, but lost the two it played against professionals, clawing back only one game in the seven contests.\n Continue readin",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/apr/21/spacex-cursor-ai-startup",
+        "sourceUrl": "https://www.theguardian.com/science/2026/apr/22/ai-powered-robot-beats-elite-table-tennis-players-milestone-robotics",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Wed, 22 Apr 2026 00:13:51 GMT",
+        "publishedAt": "Wed, 22 Apr 2026 15:00:30 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-22/2026-04-22-culture-AI-029.webp"
       },
       {
         "id": "AI-030",
-        "title": "Florida to open criminal investigation into OpenAI over ChatGPT’s influence on alleged mass shooter",
-        "summary": "State attorney general said inquiry will look into whether AI tool offered ‘significant advice’ to campus shooting suspect\n\nSign up for the Breaking News US email to get newsletter alerts in your inbox\n\nFlorida’s top prosecutor is to launch a crimina",
-        "content": "State attorney general said inquiry will look into whether AI tool offered ‘significant advice’ to campus shooting suspect\n\nSign up for the Breaking News US email to get newsletter alerts in your inbox\n\nFlorida’s top prosecutor is to launch a criminal investigation into how the tech company OpenAI and its software tool ChatGPT may influence users’ threats of harm to themselves or others, including whether it “offered significant advice” to a gunman accused of conducting a mass shooting in the st",
+        "title": "Met police in talks to buy Palantir AI tech for use in criminal investigations",
+        "summary": "Exclusive: Internal concerns over allowing US firm linked to ICE and Israeli military to process highly sensitive data \nThe Metropolitan police has held talks with Palantir that could lead to the London force buying the US spy-tech company’s AI techn",
+        "content": "Exclusive: Internal concerns over allowing US firm linked to ICE and Israeli military to process highly sensitive data \nThe Metropolitan police has held talks with Palantir that could lead to the London force buying the US spy-tech company’s AI technology to automate intelligence analysis for criminal investigations, the Guardian has learned.\nPalantir, whose software is used by Donald Trump’s ICE immigration enforcement programme and the Israeli military, demonstrated its systems to senior offic",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/21/florida-openai-chatgpt-investigation",
+        "sourceUrl": "https://www.theguardian.com/uk-news/2026/apr/22/met-police-talks-palantir-ai-tech-criminal-investigations-automate-intelligence",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Tue, 21 Apr 2026 21:28:34 GMT",
+        "publishedAt": "Wed, 22 Apr 2026 14:00:26 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-22/2026-04-22-culture-AI-030.webp"
       }
     ]
   },
@@ -603,36 +634,37 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
-    "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
-    "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
-    "https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/",
-    "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
-    "https://the-decoder.com/openais-chatgpt-images-2-0-thinks-before-it-generates-adding-reasoning-and-web-search-to-image-creation/",
-    "https://the-decoder.com/google-launches-deep-research-and-deep-research-max-agents-to-automate-complex-research/",
-    "https://the-decoder.com/the-flood-of-ai-music-is-reshaping-how-streaming-platforms-handle-new-uploads/",
-    "https://the-decoder.com/corporate-americas-favorite-chatgpt-phrase-doubled-twice-since-2024/",
-    "https://www.creativebloq.com/photography/cameras-accessories/i-wish-i-could-afford-the-new-fujifilm-x-oberwerth-camera-bag-collection",
+    "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
+    "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
+    "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
+    "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
+    "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/",
+    "https://the-decoder.com/ex-openai-researcher-jerry-tworek-launches-core-automation-to-build-the-most-automated-ai-lab-in-the-world/",
+    "https://the-decoder.com/openai-launches-workspace-agents-that-turn-chatgpt-from-a-chatbot-into-a-team-automation-platform/",
+    "https://the-decoder.com/googles-new-ai-tools-put-film-scouting-in-street-view-and-promise-to-cut-weeks-of-satellite-analysis-to-minutes/",
+    "https://the-decoder.com/google-unveils-8th-gen-tpus-agent-platform-and-workspace-ai-layer-at-cloud-next-26/",
+    "https://the-decoder.com/anthropic-manager-hints-that-pro-and-max-plans-are-outgrown-by-todays-claude-workloads/",
+    "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/",
     "https://www.technologyreview.com/2026/04/22/1135295/ai-needs-a-strong-data-fabric-to-deliver-business-value/",
     "https://www.technologyreview.com/2026/04/22/1135423/3-things-michelle-kim/",
     "https://www.technologyreview.com/2026/04/22/1135430/california-town-scheme-get-rid-geese/",
     "https://www.technologyreview.com/2026/04/22/1135440/editors-letter-may-2026/",
-    "https://www.technologyreview.com/2026/04/22/1135449/los-angeles-subway-going-underground/",
-    "https://www.cnbc.com/2026/04/22/palantir-inks-300-million-deal-with-usda-to-safeguard-food-supply.html",
-    "https://www.cnbc.com/2026/04/22/dbs-ceo-tan-su-shan-cyber-threats-are-keeping-her-up-at-night.html",
-    "https://www.cnbc.com/2026/04/22/data-privacy-bill-congress-states.html",
-    "https://www.cnbc.com/2026/04/21/cramer-tim-cook-accomplished-something-almost-impossible-apple-ceo.html",
-    "https://www.cnbc.com/2026/04/21/jim-cramer-these-stocks-show-why-you-trade-on-fundamentals-not-fear.html",
-    "https://www.nytimes.com/2026/04/21/business/spacex-cursor-deal.html",
-    "https://www.nytimes.com/2026/04/21/business/how-apple-became-a-4-trillion-company-under-tim-cook.html",
-    "https://www.nytimes.com/2026/04/21/business/ai-chatbots-prisoners.html",
+    "https://www.cnbc.com/2026/04/23/sk-hynix-earnings-ai-memory-shortage-hbm-demand.html",
+    "https://www.cnbc.com/2026/04/22/servicenow-mcdermott-ai-jobs-earnings.html",
+    "https://www.cnbc.com/2026/04/22/jim-cramers-strategy-to-avoid-missing-out-on-big-winners.html",
+    "https://www.cnbc.com/2026/04/22/ibm-ceo-arvind-krishna-earnings-iran-anthropic.html",
+    "https://www.cnbc.com/2026/04/22/servicenow-now-earnings-q1-2026.html",
+    "https://www.nytimes.com/2026/04/22/technology/anthropics-mythos-ai.html",
+    "https://www.nytimes.com/2026/04/22/technology/anthropic-code-leak-copyright.html",
     "https://www.nytimes.com/2026/04/22/technology/elon-musk-spacex-ipo-goals.html",
-    "https://www.nytimes.com/2026/04/22/business/seniors-home-care-tech.html",
-    "https://www.theguardian.com/technology/2026/apr/22/anthropic-investigates-report-of-rogue-access-to-hack-enabling-mythos-ai",
-    "https://www.theguardian.com/technology/2026/apr/22/ai-hallucinations-found-in-high-profile-wall-street-law-firm-filing",
-    "https://www.theguardian.com/technology/2026/apr/22/uk-hacktivist-attacks-at-scale-security-agency",
-    "https://www.theguardian.com/technology/2026/apr/21/spacex-cursor-ai-startup",
-    "https://www.theguardian.com/us-news/2026/apr/21/florida-openai-chatgpt-investigation"
+    "https://www.nytimes.com/2026/04/21/business/spacex-cursor-deal.html",
+    "https://www.nytimes.com/2026/04/22/technology/justin-sun-crypto-world-liberty-trump.html",
+    "https://www.theguardian.com/technology/2026/apr/22/what-is-anthropic-mythos-ai-threat-global-cybersecurity",
+    "https://www.theguardian.com/us-news/2026/apr/22/trumps-special-relationship-with-christianity",
+    "https://www.theguardian.com/us-news/2026/apr/22/pentagon-asks-for-54bn-in-pivot-towards-ai-powered-war",
+    "https://www.theguardian.com/science/2026/apr/22/ai-powered-robot-beats-elite-table-tennis-players-milestone-robotics",
+    "https://www.theguardian.com/uk-news/2026/apr/22/met-police-talks-palantir-ai-tech-criminal-investigations-automate-intelligence"
   ],
-  "generatedAt": "2026-04-22T11:58:16.283Z"
+  "generatedAt": "2026-04-22T23:39:04.453Z",
+  "simpleSummaryImageUrl": "/images/2026-04-22/2026-04-22-summary.webp"
 }
