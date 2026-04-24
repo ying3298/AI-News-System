@@ -2,10 +2,11 @@
   "date": "2026-04-24",
   "dateFormatted": "April 24, 2026",
   "headline": {
-    "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
-    "summary": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment.",
-    "sourceUrl": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
-    "sourceName": "TechCrunch AI"
+    "title": "Meta’s loss is Thinking Machines’ gain",
+    "summary": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
+    "sourceUrl": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
+    "sourceName": "TechCrunch AI",
+    "imageUrl": "/images/2026-04-24/2026-04-24-hero.webp"
   },
   "simpleSummary": [
     "Today's edition was assembled directly from RSS feeds without AI curation.",
@@ -15,200 +16,250 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
-        "summary": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment.",
-        "content": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment.",
+        "title": "Meta’s loss is Thinking Machines’ gain",
+        "summary": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
+        "content": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
+        "sourceUrl": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Thu, 23 Apr 2026 21:00:00 +0000",
+        "publishedAt": "Fri, 24 Apr 2026 20:52:07 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-24/2026-04-24-tools-AI-001.webp"
       },
       {
         "id": "AI-002",
-        "title": "Meet Noscroll, an AI bot that does your doomscrolling for you",
-        "summary": "Noscroll wants to cure doomscrolling with an AI bot that reads the internet for you.",
-        "content": "Noscroll wants to cure doomscrolling with an AI bot that reads the internet for you.",
+        "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
+        "summary": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
+        "content": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
+        "sourceUrl": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Thu, 23 Apr 2026 19:38:25 +0000",
+        "publishedAt": "Fri, 24 Apr 2026 19:49:35 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-24/2026-04-24-tools-AI-002.webp"
       },
       {
         "id": "AI-003",
-        "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
-        "summary": "OpenAI says its latest model offers increased capabilities across a broad variety of categories.",
-        "content": "OpenAI says its latest model offers increased capabilities across a broad variety of categories.",
+        "title": "Google to invest up to $40B in Anthropic in cash and compute",
+        "summary": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
+        "content": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
+        "sourceUrl": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Thu, 23 Apr 2026 18:29:29 +0000",
+        "publishedAt": "Fri, 24 Apr 2026 18:00:03 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-24/2026-04-24-tools-AI-003.webp"
       },
       {
         "id": "AI-004",
-        "title": "Era raises $11M to build a software platform for AI gadgets",
-        "summary": "Era thinks that we will see many form factors of AI hardware, including glasses, rings, and pendants.",
-        "content": "Era thinks that we will see many form factors of AI hardware, including glasses, rings, and pendants.",
+        "title": "Apple’s new CEO, and why Elon Musk wants to buy Cursor for $60B",
+        "summary": "A new era is on the way for Apple as Tim Cook plans to step down from his CEO role in September, handing the reins to hardware chief John Ternus.   Ternus may be inheriting one of the most durable businesses in tech, but he’s also stepping into a ver",
+        "content": "A new era is on the way for Apple as Tim Cook plans to step down from his CEO role in September, handing the reins to hardware chief John Ternus.   Ternus may be inheriting one of the most durable businesses in tech, but he’s also stepping into a very different ecosystem than the one Cook spent decades shaping. The App […]",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
+        "sourceUrl": "https://techcrunch.com/podcast/apples-new-ceo-and-why-elon-musk-wants-to-buy-cursor-for-60b/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Thu, 23 Apr 2026 16:00:00 +0000",
+        "publishedAt": "Fri, 24 Apr 2026 17:45:57 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-24/2026-04-24-tools-AI-004.webp"
       },
       {
         "id": "AI-005",
-        "title": "Grab a ticket today: The first StrictlyVC of 2026 kicks off in just a week in San Francisco",
-        "summary": "StrictlyVC San Francisco is in just a week. Now’s the time to grab yourself a ticket. Join VCs and founders at Sentro Filipino Cultural Center on April 30.",
-        "content": "StrictlyVC San Francisco is in just a week. Now’s the time to grab yourself a ticket. Join VCs and founders at Sentro Filipino Cultural Center on April 30.",
+        "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
+        "summary": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools.",
+        "content": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/23/grab-a-ticket-today-the-first-strictlyvc-of-2026-kicks-off-in-just-a-week-in-san-francisco/",
+        "sourceUrl": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Thu, 23 Apr 2026 14:00:00 +0000",
+        "publishedAt": "Fri, 24 Apr 2026 16:42:19 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-24/2026-04-24-tools-AI-005.webp"
       }
     ],
     "creative": [
       {
         "id": "AI-006",
-        "title": "Anthropic confirms Claude Code problems and promises stricter quality controls",
-        "summary": "Users complained about declining quality in Claude Code. Anthropic identified and fixed three separate sources of error. The company promises stricter quality controls going forward.\nThe article Anthropic confirms Claude Code problems and promises st",
-        "content": "Users complained about declining quality in Claude Code. Anthropic identified and fixed three separate sources of error. The company promises stricter quality controls going forward.\nThe article Anthropic confirms Claude Code problems and promises stricter quality controls appeared first on The Decoder.",
+        "title": "OpenAI's chief scientist says AI progress has been \"surprisingly slow\" and promises big leaps ahead",
+        "summary": "OpenAI has released GPT-5.5, and the company's leadership says the real breakthroughs are still ahead. Chief scientist Jakub Pachocki expects \"extremely significant improvements\" in the medium term, calling recent AI progress \"surprisingly slow.\"\nThe",
+        "content": "OpenAI has released GPT-5.5, and the company's leadership says the real breakthroughs are still ahead. Chief scientist Jakub Pachocki expects \"extremely significant improvements\" in the medium term, calling recent AI progress \"surprisingly slow.\"\nThe article OpenAI's chief scientist says AI progress has been \"surprisingly slow\" and promises big leaps ahead appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/anthropic-confirms-claude-code-problems-and-promises-stricter-quality-controls/",
+        "sourceUrl": "https://the-decoder.com/openais-chief-scientist-says-ai-progress-has-been-surprisingly-slow-and-promises-big-leaps-ahead/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Fri, 24 Apr 2026 10:52:07 +0000",
+        "publishedAt": "Fri, 24 Apr 2026 18:31:15 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-24/2026-04-24-creative-AI-006.webp"
       },
       {
         "id": "AI-007",
-        "title": "As agentic AI pushes rivals to raise prices and cap usage, Deepseek ships a good-enough model for almost nothing",
-        "summary": "Chinese AI lab Deepseek has released V4-Pro and V4-Flash, two new models with up to 1.6 trillion parameters and a one-million-token context window. Pricing sits well below OpenAI, Google, and Anthropic. The accompanying technical paper also reveals d",
-        "content": "Chinese AI lab Deepseek has released V4-Pro and V4-Flash, two new models with up to 1.6 trillion parameters and a one-million-token context window. Pricing sits well below OpenAI, Google, and Anthropic. The accompanying technical paper also reveals details about training data, distillation, and hardware.\nThe article As agentic AI pushes rivals to raise prices and cap usage, Deepseek ships a good-enough model for almost nothing appeared first on The Decoder.",
+        "title": "GPT-5.5 tops benchmarks but still hallucinates frequently and costs 20 percent more over the API",
+        "summary": "GPT-5.5 pushes OpenAI back to the top of the AI benchmarks. The price went up, but it still looks like the best bang for your buck among proprietary models.\nThe article GPT-5.5 tops benchmarks but still hallucinates frequently and costs 20 percent mo",
+        "content": "GPT-5.5 pushes OpenAI back to the top of the AI benchmarks. The price went up, but it still looks like the best bang for your buck among proprietary models.\nThe article GPT-5.5 tops benchmarks but still hallucinates frequently and costs 20 percent more over the API appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/as-agentic-ai-pushes-rivals-to-raise-prices-and-cap-usage-deepseek-ships-a-good-enough-model-for-almost-nothing/",
+        "sourceUrl": "https://the-decoder.com/gpt-5-5-tops-benchmarks-but-still-hallucinates-frequently-and-costs-20-percent-more-over-the-api/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Fri, 24 Apr 2026 08:35:28 +0000",
+        "publishedAt": "Fri, 24 Apr 2026 15:20:49 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-24/2026-04-24-creative-AI-007.webp"
       },
       {
         "id": "AI-008",
-        "title": "OpenAI unveils GPT-5.5, claims a \"new class of intelligence\" at double the API price",
-        "summary": "OpenAI has announced GPT-5.5, an agentic model designed to work through complex tasks autonomously by switching between multiple tools.\nThe article OpenAI unveils GPT-5.5, claims a \"new class of intelligence\" at double the API price appeared first on",
-        "content": "OpenAI has announced GPT-5.5, an agentic model designed to work through complex tasks autonomously by switching between multiple tools.\nThe article OpenAI unveils GPT-5.5, claims a \"new class of intelligence\" at double the API price appeared first on The Decoder.",
+        "title": "China moves to block tech firms from taking US money without government approval",
+        "summary": "China plans to block tech companies from accepting US capital without government approval, according to Bloomberg.\nThe article China moves to block tech firms from taking US money without government approval appeared first on The Decoder.",
+        "content": "China plans to block tech companies from accepting US capital without government approval, according to Bloomberg.\nThe article China moves to block tech firms from taking US money without government approval appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/openai-unveils-gpt-5-5-claims-a-new-class-of-intelligence-at-double-the-api-price/",
+        "sourceUrl": "https://the-decoder.com/china-moves-to-block-tech-firms-from-taking-us-money-without-government-approval/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Thu, 23 Apr 2026 19:01:07 +0000",
+        "publishedAt": "Fri, 24 Apr 2026 14:33:59 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-24/2026-04-24-creative-AI-008.webp"
       },
       {
         "id": "AI-009",
-        "title": "Trump science advisor says Chinese actors are copying American AI at massive scale",
-        "summary": "The US government says it has evidence of large-scale, industrial distillation campaigns targeting American frontier models, with China as the primary culprit. Now the Trump administration is moving to fight back.\nThe article Trump science advisor sa",
-        "content": "The US government says it has evidence of large-scale, industrial distillation campaigns targeting American frontier models, with China as the primary culprit. Now the Trump administration is moving to fight back.\nThe article Trump science advisor says Chinese actors are copying American AI at massive scale appeared first on The Decoder.",
+        "title": "Meta buys tens of millions of AWS Graviton 5 processor cores from Amazon",
+        "summary": "Meta is purchasing tens of millions of AWS Graviton 5 processor cores from Amazon, making it one of the largest Graviton customers in the world.\nThe article Meta buys tens of millions of AWS Graviton 5 processor cores from Amazon appeared first on Th",
+        "content": "Meta is purchasing tens of millions of AWS Graviton 5 processor cores from Amazon, making it one of the largest Graviton customers in the world.\nThe article Meta buys tens of millions of AWS Graviton 5 processor cores from Amazon appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/trump-science-advisor-says-chinese-actors-are-copying-american-ai-at-massive-scale/",
+        "sourceUrl": "https://the-decoder.com/meta-buys-tens-of-millions-of-aws-graviton-5-processor-cores-from-amazon/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Thu, 23 Apr 2026 18:04:39 +0000",
+        "publishedAt": "Fri, 24 Apr 2026 14:12:58 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-24/2026-04-24-creative-AI-009.webp"
       },
       {
         "id": "AI-010",
-        "title": "Google's open-source DESIGN.md gives AI agents a prompt-ready blueprint for brand-consistent design",
-        "summary": "Google is open-sourcing the agent prompt behind its AI design tool Stitch. The DESIGN.md format is built to teach AI agents how to follow brand rules.\nThe article Google's open-source DESIGN.md gives AI agents a prompt-ready blueprint for brand-consi",
-        "content": "Google is open-sourcing the agent prompt behind its AI design tool Stitch. The DESIGN.md format is built to teach AI agents how to follow brand rules.\nThe article Google's open-source DESIGN.md gives AI agents a prompt-ready blueprint for brand-consistent design appeared first on The Decoder.",
+        "title": "Cohere takes over Aleph Alpha shortly after the German startup ousted its original founder",
+        "summary": "Just months after founder Jonas Andrulis was pushed out, Canadian AI company Cohere is taking over Aleph Alpha - once hailed as Germany's answer to OpenAI. The Schwarz Group is putting $600 million into the deal.\nThe article Cohere takes over Aleph A",
+        "content": "Just months after founder Jonas Andrulis was pushed out, Canadian AI company Cohere is taking over Aleph Alpha - once hailed as Germany's answer to OpenAI. The Schwarz Group is putting $600 million into the deal.\nThe article Cohere takes over Aleph Alpha shortly after the German startup ousted its original founder appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/googles-open-source-design-md-gives-ai-agents-a-prompt-ready-blueprint-for-brand-consistent-design/",
+        "sourceUrl": "https://the-decoder.com/cohere-takes-over-aleph-alpha-shortly-after-the-german-startup-ousted-its-original-founder/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Thu, 23 Apr 2026 17:20:06 +0000",
+        "publishedAt": "Fri, 24 Apr 2026 12:55:19 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-24/2026-04-24-creative-AI-010.webp"
       }
     ],
     "research": [
       {
         "id": "AI-011",
+        "title": "Three reasons why DeepSeek’s new model V4 matters",
+        "summary": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more eff",
+        "content": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is open source, meaning it is available…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 24 Apr 2026 21:40:58 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ],
+        "imageUrl": "/images/2026-04-24/2026-04-24-research-AI-011.webp"
+      },
+      {
+        "id": "AI-012",
+        "title": "The Download: supercharged scams and studying AI healthcare",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re in a new era of AI-driven scams When ChatGPT was released in late 2022, it showed how easily generative AI",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re in a new era of AI-driven scams When ChatGPT was released in late 2022, it showed how easily generative AI could create human-like text. This quickly caught the eye of…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 24 Apr 2026 12:10:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ],
+        "imageUrl": "/images/2026-04-24/2026-04-24-research-AI-012.webp"
+      },
+      {
+        "id": "AI-013",
         "title": "Health-care AI is here. We don’t know if it actually helps patients.",
         "summary": "I don’t need to tell you that AI is everywhere. Or that it is being used, increasingly, in hospitals. Doctors are using AI to help them with notetaking. AI-based tools are trawling through patient records, flagging people who may require certain supp",
         "content": "I don’t need to tell you that AI is everywhere. Or that it is being used, increasingly, in hospitals. Doctors are using AI to help them with notetaking. AI-based tools are trawling through patient records, flagging people who may require certain support or treatments. They are also used to interpret medical exam results and X-rays. A…",
@@ -224,29 +275,11 @@
         "publishedAt": "Fri, 24 Apr 2026 09:00:00 +0000",
         "normalizedTags": [
           "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-012",
-        "title": "The Download: introducing the Nature issue",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Nature issue When we talk about “nature,” we usually mean something untouched by humans. But li",
-        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Nature issue When we talk about “nature,” we usually mean something untouched by humans. But little of that world exists today.  From microplastics in rainforest wildlife to artificial light…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/04/23/1136346/the-download-introducing-nature-issue/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
         ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 23 Apr 2026 12:10:00 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
+        "imageUrl": "/images/2026-04-24/2026-04-24-research-AI-013.webp"
       },
       {
-        "id": "AI-013",
+        "id": "AI-014",
         "title": "The Tool-Overuse Illusion: Why Does LLM Prefer External Tools over Internal Knowledge?",
         "summary": "arXiv:2604.19749v1 Announce Type: new \nAbstract: Equipping LLMs with external tools effectively addresses internal reasoning limitations. However, it introduces a critical yet under-explored phenomenon: tool overuse, the unnecessary tool-use during r",
         "content": "arXiv:2604.19749v1 Announce Type: new \nAbstract: Equipping LLMs with external tools effectively addresses internal reasoning limitations. However, it introduces a critical yet under-explored phenomenon: tool overuse, the unnecessary tool-use during reasoning. In this paper, we first reveal this phenomenon is pervasive across diverse LLMs. We then experimentally elucidate its underlying mechanisms through two key lenses: (1) First, by analyzing tool-use behavior across different internal knowledg",
@@ -262,10 +295,11 @@
         "publishedAt": "Fri, 24 Apr 2026 00:00:00 -0400",
         "normalizedTags": [
           "arxiv cs.ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-24/2026-04-24-research-AI-014.webp"
       },
       {
-        "id": "AI-014",
+        "id": "AI-015",
         "title": "AI to Learn 2.0: A Deliverable-Oriented Governance Framework and Maturity Rubric for Opaque AI in Learning-Intensive Domains",
         "summary": "arXiv:2604.19751v1 Announce Type: new \nAbstract: Generative AI is entering research, education, and professional work faster than current governance frameworks can specify how AI-assisted outputs should be judged in learning-intensive settings. The c",
         "content": "arXiv:2604.19751v1 Announce Type: new \nAbstract: Generative AI is entering research, education, and professional work faster than current governance frameworks can specify how AI-assisted outputs should be judged in learning-intensive settings. The central problem is proxy failure: a polished artifact can be useful while no longer serving as credible evidence of the human understanding, judgment, or transfer ability that the work is supposed to cultivate or certify. This paper proposes AI to Lea",
@@ -281,227 +315,299 @@
         "publishedAt": "Fri, 24 Apr 2026 00:00:00 -0400",
         "normalizedTags": [
           "arxiv cs.ai"
-        ]
-      },
-      {
-        "id": "AI-015",
-        "title": "Algorithm Selection with Zero Domain Knowledge via Text Embeddings",
-        "summary": "arXiv:2604.19753v1 Announce Type: new \nAbstract: We propose a feature-free approach to algorithm selection that replaces hand-crafted instance features with pretrained text embeddings. Our method, ZeroFolio, proceeds in three steps: it reads the raw ",
-        "content": "arXiv:2604.19753v1 Announce Type: new \nAbstract: We propose a feature-free approach to algorithm selection that replaces hand-crafted instance features with pretrained text embeddings. Our method, ZeroFolio, proceeds in three steps: it reads the raw instance file as plain text, embeds it with a pretrained embedding model, and selects an algorithm via weighted k-nearest neighbors. The key to our approach is the observation that pretrained embeddings produce representations that distinguish proble",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://arxiv.org/abs/2604.19753",
-        "sourceName": "ArXiv CS.AI",
-        "tags": [
-          "ArXiv CS.AI"
         ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 24 Apr 2026 00:00:00 -0400",
-        "normalizedTags": [
-          "arxiv cs.ai"
-        ]
+        "imageUrl": "/images/2026-04-24/2026-04-24-research-AI-015.webp"
       }
     ],
     "applications": [],
     "business": [
       {
         "id": "AI-016",
-        "title": "Trump warns of ‘big tariff’ if UK doesn’t drop digital services tax on U.S. tech firms",
-        "summary": "The tax is a 2% levy on the revenues of search engines, social media services and online marketplaces that derive value from U.K. users.",
-        "content": "The tax is a 2% levy on the revenues of search engines, social media services and online marketplaces that derive value from U.K. users.",
+        "title": "Nvidia stock closes at record, pushing market cap past $5 trillion",
+        "summary": "Nvidia's stock closed at its first record since October, as a rally in Intel pushed chipmakers higher.",
+        "content": "Nvidia's stock closed at its first record since October, as a rally in Intel pushed chipmakers higher.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/24/trump-tariffs-uk-tech-apple-google-meta.html",
+        "sourceUrl": "https://www.cnbc.com/2026/04/24/nvidia-stock-closes-at-record-pushing-market-cap-past-5-trillion.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Fri, 24 Apr 2026 11:45:05 GMT",
+        "publishedAt": "Fri, 24 Apr 2026 22:40:51 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-24/2026-04-24-business-AI-016.webp"
       },
       {
         "id": "AI-017",
-        "title": "The aerospace and defense trade is taking investors deeper into space, and more ETFs are up for the mission",
-        "summary": "VettaFi's Cinthia Murphy finds more exchange-traded funds are tackling the space theme more directly as excitement over the SpaceX IPO grows.",
-        "content": "VettaFi's Cinthia Murphy finds more exchange-traded funds are tackling the space theme more directly as excitement over the SpaceX IPO grows.",
+        "title": "How a new Amazon-backed Hollywood production startup deploys AI for speed and cost-cutting",
+        "summary": "A new AI-powered hybrid Hollywood startup backed by AWS is betting that cutting-edge production tech can cut costs, speed up filming and bring jobs back to LA.",
+        "content": "A new AI-powered hybrid Hollywood startup backed by AWS is betting that cutting-edge production tech can cut costs, speed up filming and bring jobs back to LA.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/24/aerospace-and-defense-as-growth-drivers-for-etfs-amid-iran-war.html",
+        "sourceUrl": "https://www.cnbc.com/2026/04/24/an-aws-backed-hollywood-startup-deploys-ai-for-speed-and-cost-cutting.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Fri, 24 Apr 2026 11:00:01 GMT",
+        "publishedAt": "Fri, 24 Apr 2026 19:06:39 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-24/2026-04-24-business-AI-017.webp"
       },
       {
         "id": "AI-018",
-        "title": "Cohere to acquire German AI company Aleph Alpha as it looks to expand in Europe",
-        "summary": "Schwarz Group — a key backer of Aleph Alpha — plans to invest $600 million in Cohere's upcoming Series E round as part of the deal.",
-        "content": "Schwarz Group — a key backer of Aleph Alpha — plans to invest $600 million in Cohere's upcoming Series E round as part of the deal.",
+        "title": "Amazon custom chips get a boost from Meta, giving the cloud giant another path to win in AI",
+        "summary": "Amazon hits a record high after its new Meta deal highlights how AWS is gaining traction in AI through both cloud capacity and its custom chips.",
+        "content": "Amazon hits a record high after its new Meta deal highlights how AWS is gaining traction in AI through both cloud capacity and its custom chips.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/24/cohere-aleph-alpha-germany-ai-europe-expansion.html",
+        "sourceUrl": "https://www.cnbc.com/2026/04/24/amazon-custom-chips-get-a-boost-from-meta-giving-the-cloud-giant-another-path-to-win-in-ai.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Fri, 24 Apr 2026 07:40:16 GMT",
+        "publishedAt": "Fri, 24 Apr 2026 19:11:46 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-24/2026-04-24-business-AI-018.webp"
       },
       {
         "id": "AI-019",
-        "title": "TSMC shares jump to record high as Taiwan eases single-stock investment caps for funds",
-        "summary": "TSMC, whose shares had a hit a record high on Thursday as well, last week reported a 58% increase in first-quarter profit.",
-        "content": "TSMC, whose shares had a hit a record high on Thursday as well, last week reported a 58% increase in first-quarter profit.",
+        "title": "Intel's stock has best day since 1987, soaring 24% as chipmaker shows signs of a turnaround",
+        "summary": "Shares of Intel have more than doubled this year on optimism that backing from the government will help the company's position in AI.",
+        "content": "Shares of Intel have more than doubled this year on optimism that backing from the government will help the company's position in AI.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/24/tsmc-shares-record-high-taiwan-single-stock-investment-cap-for-funds.html",
+        "sourceUrl": "https://www.cnbc.com/2026/04/24/intel-stock-soars-more-than-20percent-as-chipmaker-shows-signs-of-turnaround.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Fri, 24 Apr 2026 11:28:49 GMT",
+        "publishedAt": "Fri, 24 Apr 2026 23:04:19 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-24/2026-04-24-business-AI-019.webp"
       },
       {
         "id": "AI-020",
-        "title": "People will be 'living and working' on the moon in the 2030s, says space tech CEO",
-        "summary": "A lunar base will be operating on the moon by the end of the 2020s, according to Dylan Taylor, who said humans will be living there in the next decade.",
-        "content": "A lunar base will be operating on the moon by the end of the 2020s, according to Dylan Taylor, who said humans will be living there in the next decade.",
+        "title": "Google to invest up to $40 billion in Anthropic as search giant spreads its AI bets",
+        "summary": "Anthropic said its latest agreement with Google expands on a longstanding partnership between the two companies.",
+        "content": "Anthropic said its latest agreement with Google expands on a longstanding partnership between the two companies.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/24/when-will-people-live-on-the-moon-in-the-2030s-says-voyager-technologies-ceo.html",
+        "sourceUrl": "https://www.cnbc.com/2026/04/24/google-to-invest-up-to-40-billion-in-anthropic-as-search-giant-spreads-its-ai-bets.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Fri, 24 Apr 2026 05:30:48 GMT",
+        "publishedAt": "Fri, 24 Apr 2026 18:32:44 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-24/2026-04-24-business-AI-020.webp"
       }
     ],
     "policy": [
       {
         "id": "AI-021",
-        "title": "Meta to Lay Off 10 Percent of Work Force in A.I. Push",
-        "summary": "The layoffs affect about 8,000 employees, with Meta also planning to close 6,000 open roles, as the company focuses on artificial intelligence.",
-        "content": "The layoffs affect about 8,000 employees, with Meta also planning to close 6,000 open roles, as the company focuses on artificial intelligence.",
+        "title": "How Elon Musk Used SpaceX to Benefit Himself and His Businesses",
+        "summary": "The rocket maker has been a useful financial tool for Mr. Musk, providing the billionaire with loans and aiding his struggling companies, a Times examination found.",
+        "content": "The rocket maker has been a useful financial tool for Mr. Musk, providing the billionaire with loans and aiding his struggling companies, a Times examination found.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/04/23/technology/meta-layoffs.html",
+        "sourceUrl": "https://www.nytimes.com/2026/04/24/technology/elon-musk-spacex-loans.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Thu, 23 Apr 2026 20:20:56 +0000",
+        "publishedAt": "Fri, 24 Apr 2026 13:27:44 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-24/2026-04-24-policy-AI-021.webp"
       },
       {
         "id": "AI-022",
-        "title": "Elon Musk and Sam Altman’s Epic Fight Heads to Court",
-        "summary": "A jury trial that is set to start on Monday could shift the course of the A.I. race, with Mr. Musk seeking billions of dollars in damages from Mr. Altman’s OpenAI.",
-        "content": "A jury trial that is set to start on Monday could shift the course of the A.I. race, with Mr. Musk seeking billions of dollars in damages from Mr. Altman’s OpenAI.",
+        "title": "Sam Altman’s Next High-Wire Act: Getting OpenAI to Make More Money",
+        "summary": "Mr. Altman, who has faced criticism over OpenAI’s direction, has culled company projects and is trying to be more disciplined with strategy.",
+        "content": "Mr. Altman, who has faced criticism over OpenAI’s direction, has culled company projects and is trying to be more disciplined with strategy.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/04/23/technology/elon-musk-sam-altman-openai-trial.html",
+        "sourceUrl": "https://www.nytimes.com/2026/04/24/technology/sam-altman-openai-money.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Thu, 23 Apr 2026 18:40:57 +0000",
+        "publishedAt": "Fri, 24 Apr 2026 09:02:25 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-24/2026-04-24-policy-AI-022.webp"
       },
       {
         "id": "AI-023",
-        "title": "OpenAI Unveils Its New, More Powerful GPT-5.5 Model",
-        "summary": "The maker of ChatGPT is taking a more open approach to cybersecurity than its chief rival, Anthropic.",
-        "content": "The maker of ChatGPT is taking a more open approach to cybersecurity than its chief rival, Anthropic.",
+        "title": "Google Commits to Invest Up to $40 Billion in Anthropic",
+        "summary": "The investment comes as the A.I. start-up looks to keep up with accelerating demand for its business and coding products.",
+        "content": "The investment comes as the A.I. start-up looks to keep up with accelerating demand for its business and coding products.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/04/23/technology/openai-new-model.html",
+        "sourceUrl": "https://www.nytimes.com/2026/04/24/technology/google-anthropic-investment-artificial-intelligence.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Thu, 23 Apr 2026 19:15:08 +0000",
+        "publishedAt": "Fri, 24 Apr 2026 19:47:12 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-24/2026-04-24-policy-AI-023.webp"
       },
       {
         "id": "AI-024",
-        "title": "Tim Cook’s Legacy + The Future of U.B.I. With Andrew Yang + HatGPT",
-        "summary": "The highlights, the lowlights, and how Apple changed in the years since Tim Cook took over as chief executive.",
-        "content": "The highlights, the lowlights, and how Apple changed in the years since Tim Cook took over as chief executive.",
+        "title": "5 Tall Tasks for John Ternus, Apple’s Next C.E.O.",
+        "summary": "John Ternus will face many of the same issues that Tim Cook has grappled with for years.",
+        "content": "John Ternus will face many of the same issues that Tim Cook has grappled with for years.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/04/24/podcasts/hardfork-tim-cook-yang-ubi.html",
+        "sourceUrl": "https://www.nytimes.com/2026/04/24/technology/john-ternus-apple-challenges.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Fri, 24 Apr 2026 11:00:03 +0000",
+        "publishedAt": "Fri, 24 Apr 2026 19:30:59 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-24/2026-04-24-policy-AI-024.webp"
       },
       {
         "id": "AI-025",
-        "title": "A.I. Start-Ups From Canada and Germany Merge to Take On Silicon Valley",
-        "summary": "Cohere is acquiring Aleph Alpha in a deal aimed at customers uneasy about the dominance of American companies in artificial intelligence.",
-        "content": "Cohere is acquiring Aleph Alpha in a deal aimed at customers uneasy about the dominance of American companies in artificial intelligence.",
+        "title": "What Are Prediction Markets, and Why Are They Causing Controversy?",
+        "summary": "The indictment of a soldier who bet on the U.S. operation to capture President Nicolás Maduro of Venezuela put renewed focus on a new way to gamble, and a new way to cheat.",
+        "content": "The indictment of a soldier who bet on the U.S. operation to capture President Nicolás Maduro of Venezuela put renewed focus on a new way to gamble, and a new way to cheat.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/04/24/business/cohere-aleph-alpha-ai-merger.html",
+        "sourceUrl": "https://www.nytimes.com/2026/04/24/business/what-are-prediction-markets.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Fri, 24 Apr 2026 10:29:44 +0000",
+        "publishedAt": "Fri, 24 Apr 2026 17:58:24 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-24/2026-04-24-policy-AI-025.webp"
       }
     ],
     "concerns": [],
     "culture": [
       {
         "id": "AI-026",
+        "title": "Officials hugely underestimated impact of AI datacentres on UK carbon emissions",
+        "summary": "Revised figures increase fears about energy-intensive datacentres worsening climate emergency\nThe UK government vastly underestimated the climate impact of artificial intelligence, it has emerged, after officials raised their estimate of carbon emiss",
+        "content": "Revised figures increase fears about energy-intensive datacentres worsening climate emergency\nThe UK government vastly underestimated the climate impact of artificial intelligence, it has emerged, after officials raised their estimate of carbon emissions from AI by a factor of more than 100.\nAccording to new data quietly published this week, energy use by AI datacentres in the UK could cause the emission of up to 123m tonnes of carbon dioxide (CO₂) – about as much as generated by 2.7 million peo",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/apr/24/officials-hugely-underestimated-impact-of-ai-datacentres-on-uk-carbon-emissions",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 24 Apr 2026 16:57:16 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-04-24/2026-04-24-culture-AI-026.webp"
+      },
+      {
+        "id": "AI-027",
+        "title": "US justice department steps in on behalf of xAI in Colorado regulation case",
+        "summary": "Move creates conflict between state and administration as Trump seeks federal framework over states handling issue\n\nSign up for the Breaking News US email to get newsletter alerts in your inbox\n\nThe US justice department said on Friday it had interve",
+        "content": "Move creates conflict between state and administration as Trump seeks federal framework over states handling issue\n\nSign up for the Breaking News US email to get newsletter alerts in your inbox\n\nThe US justice department said on Friday it had intervened in a lawsuit by Elon Musk’s xAI challenging a Colorado law aimed at regulating artificial intelligence systems.\nIn its intervention, the justice department said the law violated the 14th amendment’s equal protection guarantee by requiring compani",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/24/xai-colorado-elon-musk-trump",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 24 Apr 2026 22:12:59 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-04-24/2026-04-24-culture-AI-027.webp"
+      },
+      {
+        "id": "AI-028",
+        "title": "Democratic Maine governor vetoes first US state freeze on new datacenters",
+        "summary": "Janet Mills says moratorium would’ve been ‘appropriate’ if it didn’t interfere with ongoing datacenter project in Maine\nThe Democratic governor of Maine on Friday vetoed a bill that would have made it the first US state to impose a moratorium on larg",
+        "content": "Janet Mills says moratorium would’ve been ‘appropriate’ if it didn’t interfere with ongoing datacenter project in Maine\nThe Democratic governor of Maine on Friday vetoed a bill that would have made it the first US state to impose a moratorium on large new datacenters, even as local opposition to the electricity-hungry facilities grows.\nThe decision reflects the difficult trade-off facing political leaders, who must weigh the impact of datacenters on the environment and household energy bills aga",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/24/maine-governor-blocks-datacenter-moratorium",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 24 Apr 2026 21:12:17 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-04-24/2026-04-24-culture-AI-028.webp"
+      },
+      {
+        "id": "AI-029",
+        "title": "‘Look, no hands’: China chases the driverless dream at Beijing car show",
+        "summary": "As domestic sales slow, manufacturers are investing in AI and seeking growth in technology and in overseas markets\nAt the world’s biggest car fair, which opened in Beijing on Friday, there were hundreds of manufacturers, more than 1,000 vehicles, hun",
+        "content": "As domestic sales slow, manufacturers are investing in AI and seeking growth in technology and in overseas markets\nAt the world’s biggest car fair, which opened in Beijing on Friday, there were hundreds of manufacturers, more than 1,000 vehicles, hundreds of thousands of enthusiasts – and hardly anyone behind a wheel.\nChina’s car companies have cornered the domestic electric vehicle market, and are increasingly visible on the global stage. Now they are turning their attention to what they are be",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/apr/24/china-chases-driverless-dream-beijing-car-show-ai",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 24 Apr 2026 16:08:53 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-04-24/2026-04-24-culture-AI-029.webp"
+      },
+      {
+        "id": "AI-030",
         "title": "Grok tells researchers pretending to be delusional ‘drive an iron nail through the mirror while reciting Psalm 91 backwards’",
         "summary": "Elon Musk’s AI chatbot ‘extremely validating’ of delusional inputs and often went further, ‘elaborating new material’, study finds\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nE",
         "content": "Elon Musk’s AI chatbot ‘extremely validating’ of delusional inputs and often went further, ‘elaborating new material’, study finds\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nElon Musk’s AI chatbot Grok 4.1 told researchers pretending to be delusional that there was indeed a doppelganger in their mirror and they should drive an iron nail through the glass while reciting Psalm 91 backwards.\nResearchers at the City Universit",
@@ -517,83 +623,8 @@
         "publishedAt": "Fri, 24 Apr 2026 02:35:43 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-027",
-        "title": "Will the backlash against AI turn violent? – podcast",
-        "summary": "An attack on the home of OpenAI’s CEO Sam Altman – and on the company’s headquarters – has led to concerns the backlash against AI could become violent. Guardian journalist Nick Robins-Early and researcher Sean Fleming discuss\nIn a couple of weeks, a",
-        "content": "An attack on the home of OpenAI’s CEO Sam Altman – and on the company’s headquarters – has led to concerns the backlash against AI could become violent. Guardian journalist Nick Robins-Early and researcher Sean Fleming discuss\nIn a couple of weeks, at an arraignment hearing in California, Daniel Moreno-Gama will face formal charges, including attempted double homicide.\nIt comes after his attack on the home of OpenAI CEO Sam Altman – throwing a molotov cocktail at the property – before attempting",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/news/audio/2026/apr/24/will-the-backlash-against-ai-turn-violent-podcast",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
         ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 24 Apr 2026 02:00:27 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-028",
-        "title": "Microsoft and Meta announce large staff reductions as they spend big on AI",
-        "summary": "Meta said it would cut 10% of it employees while Microsoft will offer voluntary retirement to about 7% of workers\nMeta and Microsoft are trimming their workforces by thousands as they make heavy investments in AI and executives claim that the technol",
-        "content": "Meta said it would cut 10% of it employees while Microsoft will offer voluntary retirement to about 7% of workers\nMeta and Microsoft are trimming their workforces by thousands as they make heavy investments in AI and executives claim that the technology is meeting their companies’ productivity needs.\nMeta told staff on Thursday that on 20 May it would cut some 10% of its personnel – just under 8,000 employees– to boost efficiency, part of a layoff plan made months ago. The company is also closin",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/apr/23/meta-microsoft-tech-ai-layoffs",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 23 Apr 2026 22:51:49 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-029",
-        "title": "The Guardian view on Anthropic’s Claude Mythos: when AI finds every flaw, who controls the internet? | Editorial",
-        "summary": "Tech can scale cyber-attacks and defences alike, raising questions about private power, public risk and the future of a shared internet\nAnthropic announced its latest AI model, Claude Mythos, this month but said it would not be released publicly, bec",
-        "content": "Tech can scale cyber-attacks and defences alike, raising questions about private power, public risk and the future of a shared internet\nAnthropic announced its latest AI model, Claude Mythos, this month but said it would not be released publicly, because it turns computers into crime scenes. The company claimed that it could find previously unknown “zero-day” flaws, exploit them and, in principle, link these weaknesses in order to take over major operating systems and web browsers. Mythos did so",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/commentisfree/2026/apr/23/the-guardian-view-on-anthropics-claude-mythos-when-ai-finds-every-flaw-who-controls-the-internet",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 23 Apr 2026 17:27:59 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-030",
-        "title": "Ben Jennings on the Met’s interest in using Palantir AI technology – cartoon",
-        "summary": "Continue reading...",
-        "content": "Continue reading...",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/commentisfree/picture/2026/apr/23/ben-jennings-the-met-interest-buying-palantir-ai-cartoon",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 23 Apr 2026 17:22:45 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
+        "imageUrl": "/images/2026-04-24/2026-04-24-culture-AI-030.webp"
       }
     ]
   },
@@ -603,36 +634,37 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
-    "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
-    "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
-    "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
-    "https://techcrunch.com/2026/04/23/grab-a-ticket-today-the-first-strictlyvc-of-2026-kicks-off-in-just-a-week-in-san-francisco/",
-    "https://the-decoder.com/anthropic-confirms-claude-code-problems-and-promises-stricter-quality-controls/",
-    "https://the-decoder.com/as-agentic-ai-pushes-rivals-to-raise-prices-and-cap-usage-deepseek-ships-a-good-enough-model-for-almost-nothing/",
-    "https://the-decoder.com/openai-unveils-gpt-5-5-claims-a-new-class-of-intelligence-at-double-the-api-price/",
-    "https://the-decoder.com/trump-science-advisor-says-chinese-actors-are-copying-american-ai-at-massive-scale/",
-    "https://the-decoder.com/googles-open-source-design-md-gives-ai-agents-a-prompt-ready-blueprint-for-brand-consistent-design/",
+    "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
+    "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+    "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+    "https://techcrunch.com/podcast/apples-new-ceo-and-why-elon-musk-wants-to-buy-cursor-for-60b/",
+    "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
+    "https://the-decoder.com/openais-chief-scientist-says-ai-progress-has-been-surprisingly-slow-and-promises-big-leaps-ahead/",
+    "https://the-decoder.com/gpt-5-5-tops-benchmarks-but-still-hallucinates-frequently-and-costs-20-percent-more-over-the-api/",
+    "https://the-decoder.com/china-moves-to-block-tech-firms-from-taking-us-money-without-government-approval/",
+    "https://the-decoder.com/meta-buys-tens-of-millions-of-aws-graviton-5-processor-cores-from-amazon/",
+    "https://the-decoder.com/cohere-takes-over-aleph-alpha-shortly-after-the-german-startup-ousted-its-original-founder/",
+    "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
+    "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
     "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/",
-    "https://www.technologyreview.com/2026/04/23/1136346/the-download-introducing-nature-issue/",
     "https://arxiv.org/abs/2604.19749",
     "https://arxiv.org/abs/2604.19751",
-    "https://arxiv.org/abs/2604.19753",
-    "https://www.cnbc.com/2026/04/24/trump-tariffs-uk-tech-apple-google-meta.html",
-    "https://www.cnbc.com/2026/04/24/aerospace-and-defense-as-growth-drivers-for-etfs-amid-iran-war.html",
-    "https://www.cnbc.com/2026/04/24/cohere-aleph-alpha-germany-ai-europe-expansion.html",
-    "https://www.cnbc.com/2026/04/24/tsmc-shares-record-high-taiwan-single-stock-investment-cap-for-funds.html",
-    "https://www.cnbc.com/2026/04/24/when-will-people-live-on-the-moon-in-the-2030s-says-voyager-technologies-ceo.html",
-    "https://www.nytimes.com/2026/04/23/technology/meta-layoffs.html",
-    "https://www.nytimes.com/2026/04/23/technology/elon-musk-sam-altman-openai-trial.html",
-    "https://www.nytimes.com/2026/04/23/technology/openai-new-model.html",
-    "https://www.nytimes.com/2026/04/24/podcasts/hardfork-tim-cook-yang-ubi.html",
-    "https://www.nytimes.com/2026/04/24/business/cohere-aleph-alpha-ai-merger.html",
-    "https://www.theguardian.com/technology/2026/apr/24/musk-grok-x-ai-researchers-delusional-advice-inputs",
-    "https://www.theguardian.com/news/audio/2026/apr/24/will-the-backlash-against-ai-turn-violent-podcast",
-    "https://www.theguardian.com/technology/2026/apr/23/meta-microsoft-tech-ai-layoffs",
-    "https://www.theguardian.com/commentisfree/2026/apr/23/the-guardian-view-on-anthropics-claude-mythos-when-ai-finds-every-flaw-who-controls-the-internet",
-    "https://www.theguardian.com/commentisfree/picture/2026/apr/23/ben-jennings-the-met-interest-buying-palantir-ai-cartoon"
+    "https://www.cnbc.com/2026/04/24/nvidia-stock-closes-at-record-pushing-market-cap-past-5-trillion.html",
+    "https://www.cnbc.com/2026/04/24/an-aws-backed-hollywood-startup-deploys-ai-for-speed-and-cost-cutting.html",
+    "https://www.cnbc.com/2026/04/24/amazon-custom-chips-get-a-boost-from-meta-giving-the-cloud-giant-another-path-to-win-in-ai.html",
+    "https://www.cnbc.com/2026/04/24/intel-stock-soars-more-than-20percent-as-chipmaker-shows-signs-of-turnaround.html",
+    "https://www.cnbc.com/2026/04/24/google-to-invest-up-to-40-billion-in-anthropic-as-search-giant-spreads-its-ai-bets.html",
+    "https://www.nytimes.com/2026/04/24/technology/elon-musk-spacex-loans.html",
+    "https://www.nytimes.com/2026/04/24/technology/sam-altman-openai-money.html",
+    "https://www.nytimes.com/2026/04/24/technology/google-anthropic-investment-artificial-intelligence.html",
+    "https://www.nytimes.com/2026/04/24/technology/john-ternus-apple-challenges.html",
+    "https://www.nytimes.com/2026/04/24/business/what-are-prediction-markets.html",
+    "https://www.theguardian.com/technology/2026/apr/24/officials-hugely-underestimated-impact-of-ai-datacentres-on-uk-carbon-emissions",
+    "https://www.theguardian.com/us-news/2026/apr/24/xai-colorado-elon-musk-trump",
+    "https://www.theguardian.com/us-news/2026/apr/24/maine-governor-blocks-datacenter-moratorium",
+    "https://www.theguardian.com/technology/2026/apr/24/china-chases-driverless-dream-beijing-car-show-ai",
+    "https://www.theguardian.com/technology/2026/apr/24/musk-grok-x-ai-researchers-delusional-advice-inputs"
   ],
-  "generatedAt": "2026-04-24T11:55:10.169Z"
+  "generatedAt": "2026-04-24T23:32:50.545Z",
+  "simpleSummaryImageUrl": "/images/2026-04-24/2026-04-24-summary.webp"
 }
