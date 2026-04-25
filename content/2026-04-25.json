@@ -2,10 +2,11 @@
   "date": "2026-04-25",
   "dateFormatted": "April 25, 2026",
   "headline": {
-    "title": "Meta’s loss is Thinking Machines’ gain",
-    "summary": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
-    "sourceUrl": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
-    "sourceName": "TechCrunch AI"
+    "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+    "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
+    "sourceUrl": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+    "sourceName": "TechCrunch AI",
+    "imageUrl": "/images/2026-04-25/2026-04-25-hero.webp"
   },
   "simpleSummary": [
     "Today's edition was assembled directly from RSS feeds without AI curation.",
@@ -15,103 +16,168 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "Meta’s loss is Thinking Machines’ gain",
-        "summary": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
-        "content": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
+        "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+        "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
+        "content": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
+        "sourceUrl": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Fri, 24 Apr 2026 20:52:07 +0000",
+        "publishedAt": "Sat, 25 Apr 2026 21:43:37 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-25/2026-04-25-tools-AI-001.webp"
       },
       {
         "id": "AI-002",
-        "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
-        "summary": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
-        "content": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
+        "title": "Maine’s governor vetoes data center moratorium",
+        "summary": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
+        "content": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+        "sourceUrl": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Fri, 24 Apr 2026 19:49:35 +0000",
+        "publishedAt": "Sat, 25 Apr 2026 20:57:08 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-25/2026-04-25-tools-AI-002.webp"
       },
       {
         "id": "AI-003",
-        "title": "Google to invest up to $40B in Anthropic in cash and compute",
-        "summary": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
-        "content": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model.",
+        "title": "OpenAI CEO apologizes to Tumbler Ridge community",
+        "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
+        "content": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+        "sourceUrl": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Fri, 24 Apr 2026 18:00:03 +0000",
+        "publishedAt": "Sat, 25 Apr 2026 17:17:56 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-25/2026-04-25-tools-AI-003.webp"
       },
       {
         "id": "AI-004",
-        "title": "Apple’s new CEO, and why Elon Musk wants to buy Cursor for $60B",
-        "summary": "A new era is on the way for Apple as Tim Cook plans to step down from his CEO role in September, handing the reins to hardware chief John Ternus.   Ternus may be inheriting one of the most durable businesses in tech, but he’s also stepping into a ver",
-        "content": "A new era is on the way for Apple as Tim Cook plans to step down from his CEO role in September, handing the reins to hardware chief John Ternus.   Ternus may be inheriting one of the most durable businesses in tech, but he’s also stepping into a very different ecosystem than the one Cook spent decades shaping. The App […]",
+        "title": "Why Cohere is merging with Aleph Alpha",
+        "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominat",
+        "content": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/podcast/apples-new-ceo-and-why-elon-musk-wants-to-buy-cursor-for-60b/",
+        "sourceUrl": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Fri, 24 Apr 2026 17:45:57 +0000",
+        "publishedAt": "Sat, 25 Apr 2026 16:00:00 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-25/2026-04-25-tools-AI-004.webp"
       },
       {
         "id": "AI-005",
-        "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
-        "summary": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools.",
-        "content": "Apple’s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools.",
+        "title": "Why Tokyo is the most important tech destination of 2026",
+        "summary": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these technologies globally.",
+        "content": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these technologies globally.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
+        "sourceUrl": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Fri, 24 Apr 2026 16:42:19 +0000",
+        "publishedAt": "Sat, 25 Apr 2026 15:03:00 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-25/2026-04-25-tools-AI-005.webp"
       }
     ],
     "creative": [
       {
         "id": "AI-006",
+        "title": "GPT-5.5 tops benchmarks but still hallucinates frequently and costs 20 percent more over the API",
+        "summary": "GPT-5.5 pushes OpenAI back to the top of the AI benchmarks. The price went up, but it still looks like the best bang for your buck among proprietary models.\nThe article GPT-5.5 tops benchmarks but still hallucinates frequently and costs 20 percent mo",
+        "content": "GPT-5.5 pushes OpenAI back to the top of the AI benchmarks. The price went up, but it still looks like the best bang for your buck among proprietary models.\nThe article GPT-5.5 tops benchmarks but still hallucinates frequently and costs 20 percent more over the API appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/gpt-5-5-tops-benchmarks-but-still-hallucinates-frequently-and-costs-20-percent-more-over-the-api/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 25 Apr 2026 16:50:49 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ],
+        "imageUrl": "/images/2026-04-25/2026-04-25-creative-AI-006.webp"
+      },
+      {
+        "id": "AI-007",
+        "title": "US programmer job growth nearly halved since ChatGPT launched, Fed study finds",
+        "summary": "Programmers are among the professional groups whose everyday lives have changed the most as a result of generative AI. A new study by the Federal Reserve Board now provides evidence that this is also reflected in employment figures.\nThe article US pr",
+        "content": "Programmers are among the professional groups whose everyday lives have changed the most as a result of generative AI. A new study by the Federal Reserve Board now provides evidence that this is also reflected in employment figures.\nThe article US programmer job growth nearly halved since ChatGPT launched, Fed study finds appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/us-programmer-job-growth-nearly-halved-since-chatgpt-launched-fed-study-finds/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 25 Apr 2026 12:44:29 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ],
+        "imageUrl": "/images/2026-04-25/2026-04-25-creative-AI-007.webp"
+      },
+      {
+        "id": "AI-008",
+        "title": "Qwen3.6-27B beats much larger predecessor on most coding benchmarks",
+        "summary": "Alibaba's new open-source model Qwen3.6-27B beats its 15-times-larger predecessor across coding benchmarks with just 27 billion parameters.\nThe article Qwen3.6-27B beats much larger predecessor on most coding benchmarks appeared first on The Decoder.",
+        "content": "Alibaba's new open-source model Qwen3.6-27B beats its 15-times-larger predecessor across coding benchmarks with just 27 billion parameters.\nThe article Qwen3.6-27B beats much larger predecessor on most coding benchmarks appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/qwen3-6-27b-beats-much-larger-predecessor-on-most-coding-benchmarks/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 25 Apr 2026 12:16:13 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ],
+        "imageUrl": "/images/2026-04-25/2026-04-25-creative-AI-008.webp"
+      },
+      {
+        "id": "AI-009",
         "title": "Anthropic says stronger AI models cut better deals, and the losers don't even notice",
         "summary": "Anthropic let 69 AI agents trade on behalf of employees in an internal marketplace for a week. Stronger models scored better deals, and the people stuck with weaker agents never noticed. If AI models start handling real transactions for humans, these",
         "content": "Anthropic let 69 AI agents trade on behalf of employees in an internal marketplace for a week. Stronger models scored better deals, and the people stuck with weaker agents never noticed. If AI models start handling real transactions for humans, these dynamics could deepen existing economic inequalities.\nThe article Anthropic says stronger AI models cut better deals, and the losers don't even notice appeared first on The Decoder.",
@@ -127,10 +193,11 @@
         "publishedAt": "Sat, 25 Apr 2026 10:18:31 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-25/2026-04-25-creative-AI-009.webp"
       },
       {
-        "id": "AI-007",
+        "id": "AI-010",
         "title": "The UAE wants half its government run by autonomous AI agents within two years",
         "summary": "The United Arab Emirates plans to shift half of its government operations to autonomous AI systems within two years.\nThe article The UAE wants half its government run by autonomous AI agents within two years appeared first on The Decoder.",
         "content": "The United Arab Emirates plans to shift half of its government operations to autonomous AI systems within two years.\nThe article The UAE wants half its government run by autonomous AI agents within two years appeared first on The Decoder.",
@@ -146,107 +213,13 @@
         "publishedAt": "Sat, 25 Apr 2026 09:08:57 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
-      },
-      {
-        "id": "AI-008",
-        "title": "OpenAI unveils GPT-5.5, claims a \"new class of intelligence\" at double the API price",
-        "summary": "OpenAI has announced GPT-5.5, an agentic model designed to work through complex tasks autonomously by switching between multiple tools.\nThe article OpenAI unveils GPT-5.5, claims a \"new class of intelligence\" at double the API price appeared first on",
-        "content": "OpenAI has announced GPT-5.5, an agentic model designed to work through complex tasks autonomously by switching between multiple tools.\nThe article OpenAI unveils GPT-5.5, claims a \"new class of intelligence\" at double the API price appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/openai-unveils-gpt-5-5-claims-a-new-class-of-intelligence-at-double-the-api-price/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
         ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 25 Apr 2026 08:38:07 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
-      },
-      {
-        "id": "AI-009",
-        "title": "Google pours up to $40 billion into ChatGPT rival Anthropic",
-        "summary": "Google is investing up to 40 billion dollars in Anthropic. Together with Amazon's pledge of 25 billion dollars, up to 65 billion dollars will flow into the AI company behind Claude in just a few weeks.\nThe article Google pours up to $40 billion into ",
-        "content": "Google is investing up to 40 billion dollars in Anthropic. Together with Amazon's pledge of 25 billion dollars, up to 65 billion dollars will flow into the AI company behind Claude in just a few weeks.\nThe article Google pours up to $40 billion into ChatGPT rival Anthropic appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/google-pours-up-to-40-billion-into-chatgpt-rival-anthropic/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 25 Apr 2026 08:26:11 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
-      },
-      {
-        "id": "AI-010",
-        "title": "OpenAI's chief scientist says AI progress has been \"surprisingly slow\" and promises big leaps ahead",
-        "summary": "OpenAI has released GPT-5.5, and the company's leadership says the real breakthroughs are still ahead. Chief scientist Jakub Pachocki expects \"extremely significant improvements\" in the medium term, calling recent AI progress \"surprisingly slow.\"\nThe",
-        "content": "OpenAI has released GPT-5.5, and the company's leadership says the real breakthroughs are still ahead. Chief scientist Jakub Pachocki expects \"extremely significant improvements\" in the medium term, calling recent AI progress \"surprisingly slow.\"\nThe article OpenAI's chief scientist says AI progress has been \"surprisingly slow\" and promises big leaps ahead appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/openais-chief-scientist-says-ai-progress-has-been-surprisingly-slow-and-promises-big-leaps-ahead/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 24 Apr 2026 18:31:15 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
+        "imageUrl": "/images/2026-04-25/2026-04-25-creative-AI-010.webp"
       }
     ],
     "research": [
       {
         "id": "AI-011",
-        "title": "Three reasons why DeepSeek’s new model matters",
-        "summary": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more eff",
-        "content": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of text more efficiently. Like DeepSeek’s previous models, V4 is open source, meaning it is available…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 24 Apr 2026 21:40:58 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-012",
-        "title": "The Download: supercharged scams and studying AI healthcare",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re in a new era of AI-driven scams When ChatGPT was released in late 2022, it showed how easily generative AI",
-        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re in a new era of AI-driven scams When ChatGPT was released in late 2022, it showed how easily generative AI could create human-like text. This quickly caught the eye of…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 24 Apr 2026 12:10:00 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-013",
         "title": "Architecture of an AI-Based Automated Course of Action Generation System for Military Operations",
         "summary": "arXiv:2604.20862v1 Announce Type: new \nAbstract: The automation system for Course of Action (CoA) planning is an essential element in future warfare. As maneuver speeds increase, surveillance ranges extend, and weapon ranges grow, the operational are",
         "content": "arXiv:2604.20862v1 Announce Type: new \nAbstract: The automation system for Course of Action (CoA) planning is an essential element in future warfare. As maneuver speeds increase, surveillance ranges extend, and weapon ranges grow, the operational area expands, making traditional manned-based CoA planning increasingly challenging. Consequently, the development of an AI-based automated CoA planning system is becoming increasingly necessary. Accordingly, several countries and defense organizations ",
@@ -262,10 +235,11 @@
         "publishedAt": "Sat, 25 Apr 2026 00:00:00 -0400",
         "normalizedTags": [
           "arxiv cs.ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-25/2026-04-25-research-AI-011.webp"
       },
       {
-        "id": "AI-014",
+        "id": "AI-012",
         "title": "Escaping the Agreement Trap: Defensibility Signals for Evaluating Rule-Governed AI",
         "summary": "arXiv:2604.20972v1 Announce Type: new \nAbstract: Content moderation systems are typically evaluated by measuring agreement with human labels. In rule-governed environments this assumption fails: multiple decisions may be logically consistent with the",
         "content": "arXiv:2604.20972v1 Announce Type: new \nAbstract: Content moderation systems are typically evaluated by measuring agreement with human labels. In rule-governed environments this assumption fails: multiple decisions may be logically consistent with the governing policy, and agreement metrics penalize valid decisions while mischaracterizing ambiguity as error -- a failure mode we term the Agreement Trap. We formalize evaluation as policy-grounded correctness and introduce the Defensibility Index (D",
@@ -281,10 +255,11 @@
         "publishedAt": "Sat, 25 Apr 2026 00:00:00 -0400",
         "normalizedTags": [
           "arxiv cs.ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-25/2026-04-25-research-AI-012.webp"
       },
       {
-        "id": "AI-015",
+        "id": "AI-013",
         "title": "Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks",
         "summary": "arXiv:2604.20987v1 Announce Type: new \nAbstract: Long horizon interactive environments are a testbed for evaluating agents skill usage abilities. These environments demand multi step reasoning, the chaining of multiple skills over many timesteps, and",
         "content": "arXiv:2604.20987v1 Announce Type: new \nAbstract: Long horizon interactive environments are a testbed for evaluating agents skill usage abilities. These environments demand multi step reasoning, the chaining of multiple skills over many timesteps, and robust decision making under delayed rewards and partial observability. Games are a good testbed for evaluating agent skill usage in environments. Large Language Models (LLMs) offer a promising alternative as game playing agents, but they often stru",
@@ -300,148 +275,136 @@
         "publishedAt": "Sat, 25 Apr 2026 00:00:00 -0400",
         "normalizedTags": [
           "arxiv cs.ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-25/2026-04-25-research-AI-013.webp"
+      },
+      {
+        "id": "AI-014",
+        "title": "Value-Conflict Diagnostics Reveal Widespread Alignment Faking in Language Models",
+        "summary": "arXiv:2604.20995v1 Announce Type: new \nAbstract: Alignment faking, where a model behaves aligned with developer policy when monitored but reverts to its own preferences when unobserved, is a concerning yet poorly understood phenomenon, in part becaus",
+        "content": "arXiv:2604.20995v1 Announce Type: new \nAbstract: Alignment faking, where a model behaves aligned with developer policy when monitored but reverts to its own preferences when unobserved, is a concerning yet poorly understood phenomenon, in part because current diagnostic tools remain limited. Prior diagnostics rely on highly toxic and clearly harmful scenarios, causing most models to refuse immediately. As a result, models never deliberate over developer policy, monitoring conditions, or the cons",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2604.20995",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 25 Apr 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ],
+        "imageUrl": "/images/2026-04-25/2026-04-25-research-AI-014.webp"
+      },
+      {
+        "id": "AI-015",
+        "title": "The Last Harness You'll Ever Build",
+        "summary": "arXiv:2604.21003v1 Announce Type: new \nAbstract: AI agents are increasingly deployed on complex, domain-specific workflows -- navigating enterprise web applications that require dozens of clicks and form fills, orchestrating multi-step research pipel",
+        "content": "arXiv:2604.21003v1 Announce Type: new \nAbstract: AI agents are increasingly deployed on complex, domain-specific workflows -- navigating enterprise web applications that require dozens of clicks and form fills, orchestrating multi-step research pipelines that span search, extraction, and synthesis, automating code review across unfamiliar repositories, and handling customer escalations that demand nuanced domain knowledge. \\textbf{Each new task domain requires painstaking, expert-driven harness ",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2604.21003",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 25 Apr 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ],
+        "imageUrl": "/images/2026-04-25/2026-04-25-research-AI-015.webp"
       }
     ],
     "applications": [],
     "business": [
       {
         "id": "AI-016",
-        "title": "Nvidia stock closes at record, pushing market cap past $5 trillion",
-        "summary": "Nvidia's stock closed at its first record since October, as a rally in Intel pushed chipmakers higher.",
-        "content": "Nvidia's stock closed at its first record since October, as a rally in Intel pushed chipmakers higher.",
+        "title": "From car and phone to tractor owners, a populist wave is rising to end the 'captive' repair economy",
+        "summary": "\"Right to repair\" legislation is an issue that political candidates across the U.S. have made part of their affordability messaging.",
+        "content": "\"Right to repair\" legislation is an issue that political candidates across the U.S. have made part of their affordability messaging.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/24/nvidia-stock-closes-at-record-pushing-market-cap-past-5-trillion.html",
+        "sourceUrl": "https://www.cnbc.com/2026/04/25/right-to-repair-consumer-prices-affordability-economy-elections.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Fri, 24 Apr 2026 22:40:51 GMT",
+        "publishedAt": "Sat, 25 Apr 2026 14:17:59 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-25/2026-04-25-business-AI-016.webp"
       },
       {
         "id": "AI-017",
-        "title": "How a new Amazon-backed Hollywood production startup deploys AI for speed and cost-cutting",
-        "summary": "A new AI-powered hybrid Hollywood startup backed by AWS is betting that cutting-edge production tech can cut costs, speed up filming and bring jobs back to LA.",
-        "content": "A new AI-powered hybrid Hollywood startup backed by AWS is betting that cutting-edge production tech can cut costs, speed up filming and bring jobs back to LA.",
+        "title": "AI talent war: Software industry is a new target as top executives jump ship to OpenAI",
+        "summary": "Software giants are seeing their worst stock performance in years on fears of AI disruption. Now they have a new problem.",
+        "content": "Software giants are seeing their worst stock performance in years on fears of AI disruption. Now they have a new problem.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/24/an-aws-backed-hollywood-startup-deploys-ai-for-speed-and-cost-cutting.html",
+        "sourceUrl": "https://www.cnbc.com/2026/04/25/ai-talent-wars-enterprise-software-executives-openai.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Fri, 24 Apr 2026 19:06:39 GMT",
+        "publishedAt": "Sat, 25 Apr 2026 12:43:39 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-25/2026-04-25-business-AI-017.webp"
       },
       {
         "id": "AI-018",
-        "title": "Amazon custom chips get a boost from Meta, giving the cloud giant another path to win in AI",
-        "summary": "Amazon hits a record high after its new Meta deal highlights how AWS is gaining traction in AI through both cloud capacity and its custom chips.",
-        "content": "Amazon hits a record high after its new Meta deal highlights how AWS is gaining traction in AI through both cloud capacity and its custom chips.",
+        "title": "We tried out xAI's Grok chatbot while driving a Tesla in NYC. Here's what happened.",
+        "summary": "CNBC takes a ride with a Tesla Model Y owner in New York City to see how he uses Grok and  how it integrates into Tesla's Full Self-Driving (Supervised).",
+        "content": "CNBC takes a ride with a Tesla Model Y owner in New York City to see how he uses Grok and  how it integrates into Tesla's Full Self-Driving (Supervised).",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/24/amazon-custom-chips-get-a-boost-from-meta-giving-the-cloud-giant-another-path-to-win-in-ai.html",
+        "sourceUrl": "https://www.cnbc.com/2026/04/25/tesla-and-xais-grok-shows-promises-and-risks-of-ai-chatbots-in-cars.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Fri, 24 Apr 2026 19:11:46 GMT",
+        "publishedAt": "Sat, 25 Apr 2026 12:00:01 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-25/2026-04-25-business-AI-018.webp"
       },
       {
         "id": "AI-019",
-        "title": "Intel's stock has best day since 1987, soaring 24% as chipmaker shows signs of a turnaround",
-        "summary": "Shares of Intel have more than doubled this year on optimism that backing from the government will help the company's position in AI.",
-        "content": "Shares of Intel have more than doubled this year on optimism that backing from the government will help the company's position in AI.",
+        "title": "The aerospace and defense trade is taking investors deeper into space, and more ETFs are up for the mission",
+        "summary": "VettaFi's Cinthia Murphy finds more exchange-traded funds are tackling the space theme more directly as excitement over the SpaceX IPO grows.",
+        "content": "VettaFi's Cinthia Murphy finds more exchange-traded funds are tackling the space theme more directly as excitement over the SpaceX IPO grows.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/24/intel-stock-soars-more-than-20percent-as-chipmaker-shows-signs-of-turnaround.html",
+        "sourceUrl": "https://www.cnbc.com/2026/04/24/aerospace-and-defense-as-growth-drivers-for-etfs-amid-iran-war.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Fri, 24 Apr 2026 23:04:19 GMT",
+        "publishedAt": "Sat, 25 Apr 2026 12:26:41 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
-      },
-      {
-        "id": "AI-020",
-        "title": "Google to invest up to $40 billion in Anthropic as search giant spreads its AI bets",
-        "summary": "Anthropic said its latest agreement with Google expands on a longstanding partnership between the two companies.",
-        "content": "Anthropic said its latest agreement with Google expands on a longstanding partnership between the two companies.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/24/google-to-invest-up-to-40-billion-in-anthropic-as-search-giant-spreads-its-ai-bets.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
         ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 24 Apr 2026 18:32:44 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ]
+        "imageUrl": "/images/2026-04-25/2026-04-25-business-AI-019.webp"
       }
     ],
     "policy": [
       {
-        "id": "AI-021",
-        "title": "How Elon Musk Used SpaceX to Benefit Himself and His Businesses",
-        "summary": "The rocket maker has been a useful financial tool for Mr. Musk, providing the billionaire with loans and aiding his struggling companies, a Times examination found.",
-        "content": "The rocket maker has been a useful financial tool for Mr. Musk, providing the billionaire with loans and aiding his struggling companies, a Times examination found.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/04/24/technology/elon-musk-spacex-loans.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 24 Apr 2026 13:27:44 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-022",
-        "title": "Google Commits to Invest Up to $40 Billion in Anthropic",
-        "summary": "The investment comes as the A.I. start-up looks to keep up with accelerating demand for its business and coding products.",
-        "content": "The investment comes as the A.I. start-up looks to keep up with accelerating demand for its business and coding products.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/04/24/technology/google-anthropic-investment-artificial-intelligence.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 24 Apr 2026 19:47:12 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-023",
+        "id": "AI-020",
         "title": "5 Tall Tasks for John Ternus, Apple’s Next C.E.O.",
         "summary": "John Ternus will face many of the same issues that Tim Cook has grappled with for years.",
         "content": "John Ternus will face many of the same issues that Tim Cook has grappled with for years.",
@@ -454,13 +417,34 @@
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Fri, 24 Apr 2026 19:30:59 +0000",
+        "publishedAt": "Sat, 25 Apr 2026 16:33:21 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-25/2026-04-25-policy-AI-020.webp"
       },
       {
-        "id": "AI-024",
+        "id": "AI-021",
+        "title": "A Year Later, Trump’s ‘Most Exclusive’ Memecoin Event Is a Lot Less Exclusive",
+        "summary": "Even a Times reporter qualified for the event, which caused outrage last year for providing access to President Trump in exchange for investment in one of his family’s crypto ventures.",
+        "content": "Even a Times reporter qualified for the event, which caused outrage last year for providing access to President Trump in exchange for investment in one of his family’s crypto ventures.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/04/25/technology/trump-memecoin-conference.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 25 Apr 2026 19:57:07 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-04-25/2026-04-25-policy-AI-021.webp"
+      },
+      {
+        "id": "AI-022",
         "title": "Thousands of EV Car Leases Are Ending Soon, Giving Buyers a More Affordable Option",
         "summary": "The leases on hundreds of thousands of battery-powered cars and trucks will end in the next three years, and many will end up on used-car lots.",
         "content": "The leases on hundreds of thousands of battery-powered cars and trucks will end in the next three years, and many will end up on used-car lots.",
@@ -476,108 +460,54 @@
         "publishedAt": "Sat, 25 Apr 2026 09:02:23 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-025",
-        "title": "What Are Prediction Markets, and Why Are They Causing Controversy?",
-        "summary": "The indictment of a soldier who bet on the U.S. operation to capture President Nicolás Maduro of Venezuela put renewed focus on a new way to gamble, and a new way to cheat.",
-        "content": "The indictment of a soldier who bet on the U.S. operation to capture President Nicolás Maduro of Venezuela put renewed focus on a new way to gamble, and a new way to cheat.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/04/24/business/what-are-prediction-markets.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
         ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 24 Apr 2026 17:58:24 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
+        "imageUrl": "/images/2026-04-25/2026-04-25-policy-AI-022.webp"
       }
     ],
     "concerns": [],
     "culture": [
       {
-        "id": "AI-026",
-        "title": "Officials hugely underestimated impact of AI datacentres on UK carbon emissions",
-        "summary": "Revised figures increase fears about energy-intensive datacentres worsening climate emergency\nThe UK government vastly underestimated the climate impact of artificial intelligence, it has emerged, after officials raised their estimate of carbon emiss",
-        "content": "Revised figures increase fears about energy-intensive datacentres worsening climate emergency\nThe UK government vastly underestimated the climate impact of artificial intelligence, it has emerged, after officials raised their estimate of carbon emissions from AI by a factor of more than 100.\nAccording to new data quietly published this week, energy use by AI datacentres in the UK could cause the emission of up to 123m tonnes of carbon dioxide (CO₂) – about as much as generated by 2.7 million peo",
+        "id": "AI-023",
+        "title": "Met investigates hundreds of officers after using Palantir AI tool",
+        "summary": "Met says AI software unearthed rule-breaking ranging from work-from-home violations to suspected corruption\nThe Metropolitan police have launched investigations into hundreds of officers after using an AI tool built by the controversial tech company ",
+        "content": "Met says AI software unearthed rule-breaking ranging from work-from-home violations to suspected corruption\nThe Metropolitan police have launched investigations into hundreds of officers after using an AI tool built by the controversial tech company Palantir to root out rogue cops.\nThe software was deployed by the Met over the course of a week, surveilling staff members using data the force has ready access to, unearthing rule-breaking ranging from work-from-home violations to suspected corrupti",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/apr/24/officials-hugely-underestimated-impact-of-ai-datacentres-on-uk-carbon-emissions",
+        "sourceUrl": "https://www.theguardian.com/uk-news/2026/apr/25/met-police-investigates-hundreds-officers-palantir-ai-tool",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Fri, 24 Apr 2026 16:57:16 GMT",
+        "publishedAt": "Sat, 25 Apr 2026 15:34:10 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-25/2026-04-25-culture-AI-023.webp"
       },
       {
-        "id": "AI-027",
-        "title": "US justice department steps in on behalf of xAI in Colorado regulation case",
-        "summary": "Move creates conflict between state and administration as Trump seeks federal framework over states handling issue\n\nSign up for the Breaking News US email to get newsletter alerts in your inbox\n\nThe US justice department said on Friday it had interve",
-        "content": "Move creates conflict between state and administration as Trump seeks federal framework over states handling issue\n\nSign up for the Breaking News US email to get newsletter alerts in your inbox\n\nThe US justice department said on Friday it had intervened in a lawsuit by Elon Musk’s xAI challenging a Colorado law aimed at regulating artificial intelligence systems.\nIn its intervention, the justice department said the law violated the 14th amendment’s equal protection guarantee by requiring compani",
+        "id": "AI-024",
+        "title": "Facing AI and a tough job market, gen Z turns to entrepreneurship: ‘I have to prove myself’",
+        "summary": "As AI erases the bottom rungs of the corporate ladder, some gen Z workers skip the entry level to become their own CEOs\nWhen Ashley Terrell graduated from the University of Hawaii in 2024, she planned to find a job in marketing, maybe for a tech comp",
+        "content": "As AI erases the bottom rungs of the corporate ladder, some gen Z workers skip the entry level to become their own CEOs\nWhen Ashley Terrell graduated from the University of Hawaii in 2024, she planned to find a job in marketing, maybe for a tech company. She had a bachelor’s degree in business administration and a college résumé that included a student marketing job for Red Bull. But after months of applying, her only offer was to work in the power tools section at Home Depot. “It was quite a sh",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/24/xai-colorado-elon-musk-trump",
+        "sourceUrl": "https://www.theguardian.com/technology/ng-interactive/2026/apr/25/gen-z-entrepreneurs-business-ai",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Fri, 24 Apr 2026 22:12:59 GMT",
+        "publishedAt": "Sat, 25 Apr 2026 12:00:45 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-028",
-        "title": "Democratic Maine governor vetoes first US state freeze on new datacenters",
-        "summary": "Janet Mills says moratorium would’ve been ‘appropriate’ if it didn’t interfere with ongoing datacenter project in Maine\nThe Democratic governor of Maine on Friday vetoed a bill that would have made it the first US state to impose a moratorium on larg",
-        "content": "Janet Mills says moratorium would’ve been ‘appropriate’ if it didn’t interfere with ongoing datacenter project in Maine\nThe Democratic governor of Maine on Friday vetoed a bill that would have made it the first US state to impose a moratorium on large new datacenters, even as local opposition to the electricity-hungry facilities grows.\nThe decision reflects the difficult trade-off facing political leaders, who must weigh the impact of datacenters on the environment and household energy bills aga",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/24/maine-governor-blocks-datacenter-moratorium",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
         ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 24 Apr 2026 21:12:17 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
+        "imageUrl": "/images/2026-04-25/2026-04-25-culture-AI-024.webp"
       },
       {
-        "id": "AI-029",
-        "title": "‘Look, no hands’: China chases the driverless dream at Beijing car show",
-        "summary": "As domestic sales slow, manufacturers are investing in AI and seeking growth in technology and in overseas markets\nAt the world’s biggest car fair, which opened in Beijing on Friday, there were hundreds of manufacturers, more than 1,000 vehicles, hun",
-        "content": "As domestic sales slow, manufacturers are investing in AI and seeking growth in technology and in overseas markets\nAt the world’s biggest car fair, which opened in Beijing on Friday, there were hundreds of manufacturers, more than 1,000 vehicles, hundreds of thousands of enthusiasts – and hardly anyone behind a wheel.\nChina’s car companies have cornered the domestic electric vehicle market, and are increasingly visible on the global stage. Now they are turning their attention to what they are be",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/apr/24/china-chases-driverless-dream-beijing-car-show-ai",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 24 Apr 2026 16:08:53 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-030",
+        "id": "AI-025",
         "title": "Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos",
         "summary": "Plus: Spy firms tap into a global telecom weakness to track targets, 500,000 UK health records go up for sale on Alibaba, Apple patches a revealing notification bug, and more.",
         "content": "Plus: Spy firms tap into a global telecom weakness to track targets, 500,000 UK health records go up for sale on Alibaba, Apple patches a revealing notification bug, and more.",
@@ -593,7 +523,28 @@
         "publishedAt": "Sat, 25 Apr 2026 10:30:00 +0000",
         "normalizedTags": [
           "wired ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-25/2026-04-25-culture-AI-025.webp"
+      },
+      {
+        "id": "AI-026",
+        "title": "Ace the Ping-Pong Robot Can Whup Your Ass",
+        "summary": "Ace can read the trajectory of a ball, adjust the racket angle, and respond with strokes that keep the exchange alive with real players.",
+        "content": "Ace can read the trajectory of a ball, adjust the racket angle, and respond with strokes that keep the exchange alive with real players.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.wired.com/story/ace-the-robot-wants-to-become-the-world-table-tennis-champion/",
+        "sourceName": "Wired AI",
+        "tags": [
+          "Wired AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 25 Apr 2026 09:30:00 +0000",
+        "normalizedTags": [
+          "wired ai"
+        ],
+        "imageUrl": "/images/2026-04-25/2026-04-25-culture-AI-026.webp"
       }
     ]
   },
@@ -603,36 +554,33 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
-    "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
-    "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
-    "https://techcrunch.com/podcast/apples-new-ceo-and-why-elon-musk-wants-to-buy-cursor-for-60b/",
-    "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
+    "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+    "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+    "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+    "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+    "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
+    "https://the-decoder.com/gpt-5-5-tops-benchmarks-but-still-hallucinates-frequently-and-costs-20-percent-more-over-the-api/",
+    "https://the-decoder.com/us-programmer-job-growth-nearly-halved-since-chatgpt-launched-fed-study-finds/",
+    "https://the-decoder.com/qwen3-6-27b-beats-much-larger-predecessor-on-most-coding-benchmarks/",
     "https://the-decoder.com/anthropic-says-stronger-ai-models-cut-better-deals-and-the-losers-dont-even-notice/",
     "https://the-decoder.com/the-uae-wants-half-its-government-run-by-autonomous-ai-agents-within-two-years/",
-    "https://the-decoder.com/openai-unveils-gpt-5-5-claims-a-new-class-of-intelligence-at-double-the-api-price/",
-    "https://the-decoder.com/google-pours-up-to-40-billion-into-chatgpt-rival-anthropic/",
-    "https://the-decoder.com/openais-chief-scientist-says-ai-progress-has-been-surprisingly-slow-and-promises-big-leaps-ahead/",
-    "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
-    "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
     "https://arxiv.org/abs/2604.20862",
     "https://arxiv.org/abs/2604.20972",
     "https://arxiv.org/abs/2604.20987",
-    "https://www.cnbc.com/2026/04/24/nvidia-stock-closes-at-record-pushing-market-cap-past-5-trillion.html",
-    "https://www.cnbc.com/2026/04/24/an-aws-backed-hollywood-startup-deploys-ai-for-speed-and-cost-cutting.html",
-    "https://www.cnbc.com/2026/04/24/amazon-custom-chips-get-a-boost-from-meta-giving-the-cloud-giant-another-path-to-win-in-ai.html",
-    "https://www.cnbc.com/2026/04/24/intel-stock-soars-more-than-20percent-as-chipmaker-shows-signs-of-turnaround.html",
-    "https://www.cnbc.com/2026/04/24/google-to-invest-up-to-40-billion-in-anthropic-as-search-giant-spreads-its-ai-bets.html",
-    "https://www.nytimes.com/2026/04/24/technology/elon-musk-spacex-loans.html",
-    "https://www.nytimes.com/2026/04/24/technology/google-anthropic-investment-artificial-intelligence.html",
+    "https://arxiv.org/abs/2604.20995",
+    "https://arxiv.org/abs/2604.21003",
+    "https://www.cnbc.com/2026/04/25/right-to-repair-consumer-prices-affordability-economy-elections.html",
+    "https://www.cnbc.com/2026/04/25/ai-talent-wars-enterprise-software-executives-openai.html",
+    "https://www.cnbc.com/2026/04/25/tesla-and-xais-grok-shows-promises-and-risks-of-ai-chatbots-in-cars.html",
+    "https://www.cnbc.com/2026/04/24/aerospace-and-defense-as-growth-drivers-for-etfs-amid-iran-war.html",
     "https://www.nytimes.com/2026/04/24/technology/john-ternus-apple-challenges.html",
+    "https://www.nytimes.com/2026/04/25/technology/trump-memecoin-conference.html",
     "https://www.nytimes.com/2026/04/25/business/electric-vehicles-used-leases.html",
-    "https://www.nytimes.com/2026/04/24/business/what-are-prediction-markets.html",
-    "https://www.theguardian.com/technology/2026/apr/24/officials-hugely-underestimated-impact-of-ai-datacentres-on-uk-carbon-emissions",
-    "https://www.theguardian.com/us-news/2026/apr/24/xai-colorado-elon-musk-trump",
-    "https://www.theguardian.com/us-news/2026/apr/24/maine-governor-blocks-datacenter-moratorium",
-    "https://www.theguardian.com/technology/2026/apr/24/china-chases-driverless-dream-beijing-car-show-ai",
-    "https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/"
+    "https://www.theguardian.com/uk-news/2026/apr/25/met-police-investigates-hundreds-officers-palantir-ai-tool",
+    "https://www.theguardian.com/technology/ng-interactive/2026/apr/25/gen-z-entrepreneurs-business-ai",
+    "https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/",
+    "https://www.wired.com/story/ace-the-robot-wants-to-become-the-world-table-tennis-champion/"
   ],
-  "generatedAt": "2026-04-25T11:36:05.242Z"
+  "generatedAt": "2026-04-25T23:29:15.644Z",
+  "simpleSummaryImageUrl": "/images/2026-04-25/2026-04-25-summary.webp"
 }
