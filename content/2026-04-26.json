@@ -2,9 +2,9 @@
   "date": "2026-04-26",
   "dateFormatted": "April 26, 2026",
   "headline": {
-    "title": "Anthropic created a test marketplace for agent-on-agent commerce",
-    "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
-    "sourceUrl": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+    "title": "To buy this Bay Area home, you’ll need Anthropic equity",
+    "summary": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.",
+    "sourceUrl": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
     "sourceName": "TechCrunch AI",
     "imageUrl": "/images/2026-04-26/2026-04-26-hero.webp"
   },
@@ -16,19 +16,19 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "Anthropic created a test marketplace for agent-on-agent commerce",
-        "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
-        "content": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
+        "title": "To buy this Bay Area home, you’ll need Anthropic equity",
+        "summary": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.",
+        "content": "Someone’s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+        "sourceUrl": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Sat, 25 Apr 2026 21:43:37 +0000",
+        "publishedAt": "Sun, 26 Apr 2026 15:30:00 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ],
@@ -36,88 +36,48 @@
       },
       {
         "id": "AI-002",
-        "title": "Maine’s governor vetoes data center moratorium",
-        "summary": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
-        "content": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
+        "title": "Our Principles",
+        "summary": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
+        "content": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
-        "sourceName": "TechCrunch AI",
+        "sourceUrl": "https://openai.com/index/our-principles",
+        "sourceName": "OpenAI Blog",
         "tags": [
-          "TechCrunch AI"
+          "OpenAI Blog"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Sat, 25 Apr 2026 20:57:08 +0000",
+        "publishedAt": "Sun, 26 Apr 2026 16:00:00 GMT",
         "normalizedTags": [
-          "techcrunch ai"
+          "openai blog"
         ],
         "imageUrl": "/images/2026-04-26/2026-04-26-tools-AI-002.webp"
-      },
-      {
-        "id": "AI-003",
-        "title": "OpenAI CEO apologizes to Tumbler Ridge community",
-        "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
-        "content": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
-        "sourceName": "TechCrunch AI",
-        "tags": [
-          "TechCrunch AI"
-        ],
-        "section": "tools",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 25 Apr 2026 17:17:56 +0000",
-        "normalizedTags": [
-          "techcrunch ai"
-        ],
-        "imageUrl": "/images/2026-04-26/2026-04-26-tools-AI-003.webp"
-      },
-      {
-        "id": "AI-004",
-        "title": "Why Cohere is merging with Aleph Alpha",
-        "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominat",
-        "content": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
-        "sourceName": "TechCrunch AI",
-        "tags": [
-          "TechCrunch AI"
-        ],
-        "section": "tools",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 25 Apr 2026 16:00:00 +0000",
-        "normalizedTags": [
-          "techcrunch ai"
-        ],
-        "imageUrl": "/images/2026-04-26/2026-04-26-tools-AI-004.webp"
-      },
-      {
-        "id": "AI-005",
-        "title": "Why Tokyo is the most important tech destination of 2026",
-        "summary": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these technologies globally.",
-        "content": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these technologies globally.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
-        "sourceName": "TechCrunch AI",
-        "tags": [
-          "TechCrunch AI"
-        ],
-        "section": "tools",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 25 Apr 2026 15:03:00 +0000",
-        "normalizedTags": [
-          "techcrunch ai"
-        ],
-        "imageUrl": "/images/2026-04-26/2026-04-26-tools-AI-005.webp"
       }
     ],
     "creative": [
       {
-        "id": "AI-006",
+        "id": "AI-003",
+        "title": "OpenAI kills its dedicated coding model Codex again, folding it into GPT-5.5",
+        "summary": "OpenAI has once again retired its dedicated Codex coding model, folding its capabilities directly into the main model. GPT-5.5 promises stronger agentic coding and lower token usage, OpenAI says.\nThe article OpenAI kills its dedicated coding model Co",
+        "content": "OpenAI has once again retired its dedicated Codex coding model, folding its capabilities directly into the main model. GPT-5.5 promises stronger agentic coding and lower token usage, OpenAI says.\nThe article OpenAI kills its dedicated coding model Codex again, folding it into GPT-5.5 appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/openai-kills-its-dedicated-coding-model-codex-again-folding-it-into-gpt-5-5/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 26 Apr 2026 12:49:27 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ],
+        "imageUrl": "/images/2026-04-26/2026-04-26-creative-AI-003.webp"
+      },
+      {
+        "id": "AI-004",
         "title": "OpenAI says old prompts are holding GPT-5.5 back and developers need a fresh baseline",
         "summary": "OpenAI says developers shouldn't carry over old prompts for GPT-5.5. Instead, start minimal and from scratch. Role definitions, which some had written off as unnecessary, are back at the front of the framework.\nThe article OpenAI says old prompts are",
         "content": "OpenAI says developers shouldn't carry over old prompts for GPT-5.5. Instead, start minimal and from scratch. Role definitions, which some had written off as unnecessary, are back at the front of the framework.\nThe article OpenAI says old prompts are holding GPT-5.5 back and developers need a fresh baseline appeared first on The Decoder.",
@@ -134,10 +94,10 @@
         "normalizedTags": [
           "the decoder"
         ],
-        "imageUrl": "/images/2026-04-26/2026-04-26-creative-AI-006.webp"
+        "imageUrl": "/images/2026-04-26/2026-04-26-creative-AI-004.webp"
       },
       {
-        "id": "AI-007",
+        "id": "AI-005",
         "title": "500 investment bankers review AI outputs and find none ready for client delivery",
         "summary": "A new benchmark puts top models like GPT-5.4 and Claude Opus 4.6 to work on the kinds of tasks junior investment bankers handle every day. Not a single AI output was rated ready to send to a client; the results are too imprecise or flat-out wrong. St",
         "content": "A new benchmark puts top models like GPT-5.4 and Claude Opus 4.6 to work on the kinds of tasks junior investment bankers handle every day. Not a single AI output was rated ready to send to a client; the results are too imprecise or flat-out wrong. Still, more than half of the bankers said they'd use the output as a starting point.\nThe article 500 investment bankers review AI outputs and find none ready for client delivery appeared first on The Decoder.",
@@ -154,10 +114,10 @@
         "normalizedTags": [
           "the decoder"
         ],
-        "imageUrl": "/images/2026-04-26/2026-04-26-creative-AI-007.webp"
+        "imageUrl": "/images/2026-04-26/2026-04-26-creative-AI-005.webp"
       },
       {
-        "id": "AI-008",
+        "id": "AI-006",
         "title": "Survey finds Claude's weekly active users in the US skew far wealthier than any rival AI assistant",
         "summary": "A survey shows Claude users earn significantly more than users of other AI services. Here's how income breaks down across ChatGPT, Gemini, and the rest.\nThe article Survey finds Claude's weekly active users in the US skew far wealthier than any rival",
         "content": "A survey shows Claude users earn significantly more than users of other AI services. Here's how income breaks down across ChatGPT, Gemini, and the rest.\nThe article Survey finds Claude's weekly active users in the US skew far wealthier than any rival AI assistant appeared first on The Decoder.",
@@ -174,10 +134,10 @@
         "normalizedTags": [
           "the decoder"
         ],
-        "imageUrl": "/images/2026-04-26/2026-04-26-creative-AI-008.webp"
+        "imageUrl": "/images/2026-04-26/2026-04-26-creative-AI-006.webp"
       },
       {
-        "id": "AI-009",
+        "id": "AI-007",
         "title": "AI agents aren't replacing software engineering but expanding it far beyond code, researchers argue",
         "summary": "The popular story goes that AI agents are swallowing up more programming work and developers are headed for obsolescence. A new paper from researchers at Chalmers University of Technology and the Volvo Group argues that view misses the mark.\nThe arti",
         "content": "The popular story goes that AI agents are swallowing up more programming work and developers are headed for obsolescence. A new paper from researchers at Chalmers University of Technology and the Volvo Group argues that view misses the mark.\nThe article AI agents aren't replacing software engineering but expanding it far beyond code, researchers argue appeared first on The Decoder.",
@@ -194,159 +154,58 @@
         "normalizedTags": [
           "the decoder"
         ],
-        "imageUrl": "/images/2026-04-26/2026-04-26-creative-AI-009.webp"
-      },
-      {
-        "id": "AI-010",
-        "title": "GPT-5.5 tops benchmarks but still hallucinates frequently and costs 20 percent more over the API",
-        "summary": "GPT-5.5 pushes OpenAI back to the top of the AI benchmarks. The price went up, but it still looks like the best bang for your buck among proprietary models.\nThe article GPT-5.5 tops benchmarks but still hallucinates frequently and costs 20 percent mo",
-        "content": "GPT-5.5 pushes OpenAI back to the top of the AI benchmarks. The price went up, but it still looks like the best bang for your buck among proprietary models.\nThe article GPT-5.5 tops benchmarks but still hallucinates frequently and costs 20 percent more over the API appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/gpt-5-5-tops-benchmarks-but-still-hallucinates-frequently-and-costs-20-percent-more-over-the-api/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 25 Apr 2026 16:50:49 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ],
-        "imageUrl": "/images/2026-04-26/2026-04-26-creative-AI-010.webp"
+        "imageUrl": "/images/2026-04-26/2026-04-26-creative-AI-007.webp"
       }
     ],
     "research": [],
     "applications": [],
-    "business": [
-      {
-        "id": "AI-011",
-        "title": "From car and phone to tractor owners, a populist wave is rising to end the 'captive' repair economy",
-        "summary": "\"Right to repair\" legislation is an issue that political candidates across the U.S. have made part of their affordability messaging.",
-        "content": "\"Right to repair\" legislation is an issue that political candidates across the U.S. have made part of their affordability messaging.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/25/right-to-repair-consumer-prices-affordability-economy-elections.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 25 Apr 2026 14:17:59 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ],
-        "imageUrl": "/images/2026-04-26/2026-04-26-business-AI-011.webp"
-      },
-      {
-        "id": "AI-012",
-        "title": "AI talent war: Software industry is a new target as top executives jump ship to OpenAI",
-        "summary": "Software giants are seeing their worst stock performance in years on fears of AI disruption. Now they have a new problem.",
-        "content": "Software giants are seeing their worst stock performance in years on fears of AI disruption. Now they have a new problem.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/25/ai-talent-wars-enterprise-software-executives-openai.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 25 Apr 2026 12:43:39 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ],
-        "imageUrl": "/images/2026-04-26/2026-04-26-business-AI-012.webp"
-      },
-      {
-        "id": "AI-013",
-        "title": "We tried out xAI's Grok chatbot while driving a Tesla in NYC. Here's what happened.",
-        "summary": "CNBC takes a ride with a Tesla Model Y owner in New York City to see how he uses Grok and  how it integrates into Tesla's Full Self-Driving (Supervised).",
-        "content": "CNBC takes a ride with a Tesla Model Y owner in New York City to see how he uses Grok and  how it integrates into Tesla's Full Self-Driving (Supervised).",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/25/tesla-and-xais-grok-shows-promises-and-risks-of-ai-chatbots-in-cars.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 25 Apr 2026 12:00:01 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ],
-        "imageUrl": "/images/2026-04-26/2026-04-26-business-AI-013.webp"
-      },
-      {
-        "id": "AI-014",
-        "title": "The aerospace and defense trade is taking investors deeper into space, and more ETFs are up for the mission",
-        "summary": "VettaFi's Cinthia Murphy finds more exchange-traded funds are tackling the space theme more directly as excitement over the SpaceX IPO grows.",
-        "content": "VettaFi's Cinthia Murphy finds more exchange-traded funds are tackling the space theme more directly as excitement over the SpaceX IPO grows.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/24/aerospace-and-defense-as-growth-drivers-for-etfs-amid-iran-war.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 25 Apr 2026 12:26:41 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ],
-        "imageUrl": "/images/2026-04-26/2026-04-26-business-AI-014.webp"
-      }
-    ],
+    "business": [],
     "policy": [
       {
-        "id": "AI-015",
-        "title": "5 Tall Tasks for John Ternus, Apple’s Next C.E.O.",
-        "summary": "John Ternus will face many of the same issues that Tim Cook has grappled with for years.",
-        "content": "John Ternus will face many of the same issues that Tim Cook has grappled with for years.",
+        "id": "AI-008",
+        "title": "After Correspondents Dinner Shooting, Rumors and Conspiracy Theories Swirl Online",
+        "summary": "Influencers jumped to fill the information void with conspiracy theories about the attack at the White House Correspondents’ dinner on Saturday.",
+        "content": "Influencers jumped to fill the information void with conspiracy theories about the attack at the White House Correspondents’ dinner on Saturday.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/04/24/technology/john-ternus-apple-challenges.html",
+        "sourceUrl": "https://www.nytimes.com/2026/04/26/technology/white-house-correspondents-dinner-shooting-conspiracy-theories.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Sat, 25 Apr 2026 16:33:21 +0000",
+        "publishedAt": "Sun, 26 Apr 2026 20:54:26 +0000",
         "normalizedTags": [
           "nyt technology"
         ],
-        "imageUrl": "/images/2026-04-26/2026-04-26-policy-AI-015.webp"
+        "imageUrl": "/images/2026-04-26/2026-04-26-policy-AI-008.webp"
       },
       {
-        "id": "AI-016",
-        "title": "A Year Later, Trump’s ‘Most Exclusive’ Memecoin Event Is a Lot Less Exclusive",
-        "summary": "Even a Times reporter qualified for the event, which caused outrage last year for providing access to President Trump in exchange for investment in one of his family’s crypto ventures.",
-        "content": "Even a Times reporter qualified for the event, which caused outrage last year for providing access to President Trump in exchange for investment in one of his family’s crypto ventures.",
+        "id": "AI-009",
+        "title": "Social Media Captures the Chaos and Mundane of Shooting at Correspondents’ Dinner",
+        "summary": "Journalists and guests shared the surreal and confusing scenes from the White House Correspondents’ Association dinner after gunfire erupted on Saturday.",
+        "content": "Journalists and guests shared the surreal and confusing scenes from the White House Correspondents’ Association dinner after gunfire erupted on Saturday.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/04/25/technology/trump-memecoin-conference.html",
+        "sourceUrl": "https://www.nytimes.com/2026/04/26/us/politics/correspondents-dinner-shooting-social-media.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Sat, 25 Apr 2026 19:57:07 +0000",
+        "publishedAt": "Sun, 26 Apr 2026 17:03:20 +0000",
         "normalizedTags": [
           "nyt technology"
         ],
-        "imageUrl": "/images/2026-04-26/2026-04-26-policy-AI-016.webp"
+        "imageUrl": "/images/2026-04-26/2026-04-26-policy-AI-009.webp"
       }
     ],
     "concerns": [],
     "culture": [
       {
-        "id": "AI-017",
+        "id": "AI-010",
         "title": "UK departments at odds over energy demands of AI datacentres",
         "summary": "Discrepancy in forecasts raises questions over government planning for net zero\nOne vision of the UK’s future involves a decarbonised economy powered by clean, renewable energy. Another involves making the UK an AI superpower.\nThe government departme",
         "content": "Discrepancy in forecasts raises questions over government planning for net zero\nOne vision of the UK’s future involves a decarbonised economy powered by clean, renewable energy. Another involves making the UK an AI superpower.\nThe government departments responsible for these two visions do not appear to have agreed on their numbers.\n Continue reading...",
@@ -363,10 +222,30 @@
         "normalizedTags": [
           "the guardian ai"
         ],
-        "imageUrl": "/images/2026-04-26/2026-04-26-culture-AI-017.webp"
+        "imageUrl": "/images/2026-04-26/2026-04-26-culture-AI-010.webp"
       },
       {
-        "id": "AI-018",
+        "id": "AI-011",
+        "title": "Bosses don’t like the sound of a ‘four-day workweek’. Maybe it’s time to rebrand it",
+        "summary": "Some employers are reluctant to cut workers’ hours but pay them the same – but it just might be the future of work\nWe keep hearing that the four-day workweek is the future. So why are so few businesses actually adopting it?\nBelgium, Iceland and Lithu",
+        "content": "Some employers are reluctant to cut workers’ hours but pay them the same – but it just might be the future of work\nWe keep hearing that the four-day workweek is the future. So why are so few businesses actually adopting it?\nBelgium, Iceland and Lithuania have passed legislation requiring the practice, and other countries in Europe are piloting the idea. Hundreds of companies in the UK have signed up for to give this a try. Microsoft tested the concept in Japan. Non-profits such as the 4 Day Week",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/business/2026/apr/26/four-day-workweek-employment",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 26 Apr 2026 14:00:16 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-04-26/2026-04-26-culture-AI-011.webp"
+      },
+      {
+        "id": "AI-012",
         "title": "Cannes AI film festival raises eyebrows – and questions about future",
         "summary": "While emerging technology is banned from the Palme d’Or, an upstart movement is gaining investment and attention\nIn Cannes’ darkened screening rooms, the supposed future of cinema flickered into life this week and it was strange. The first edition of",
         "content": "While emerging technology is banned from the Palme d’Or, an upstart movement is gaining investment and attention\nIn Cannes’ darkened screening rooms, the supposed future of cinema flickered into life this week and it was strange. The first edition of the World AI film festival (WAIFF) showcased visions of men with fish scales erupting from their necks and seaweed from their mouths, a heroine with a heart beating outside her body and so many massed armies of AI-generated tanned men sweeping acros",
@@ -383,47 +262,7 @@
         "normalizedTags": [
           "the guardian ai"
         ],
-        "imageUrl": "/images/2026-04-26/2026-04-26-culture-AI-018.webp"
-      },
-      {
-        "id": "AI-019",
-        "title": "Met investigates hundreds of officers after using Palantir AI tool",
-        "summary": "Met says AI software unearthed rule-breaking ranging from work-from-home violations to suspected corruption\nThe Metropolitan police have launched investigations into hundreds of officers after using an AI tool built by the controversial tech company ",
-        "content": "Met says AI software unearthed rule-breaking ranging from work-from-home violations to suspected corruption\nThe Metropolitan police have launched investigations into hundreds of officers after using an AI tool built by the controversial tech company Palantir to root out rogue cops.\nThe software was deployed by the Met over the course of a week, surveilling staff members using data the force has ready access to, unearthing rule-breaking ranging from work-from-home violations to suspected corrupti",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/uk-news/2026/apr/25/met-police-investigates-hundreds-officers-palantir-ai-tool",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 25 Apr 2026 15:34:10 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ],
-        "imageUrl": "/images/2026-04-26/2026-04-26-culture-AI-019.webp"
-      },
-      {
-        "id": "AI-020",
-        "title": "Facing AI and a tough job market, gen Z turns to entrepreneurship: ‘I have to prove myself’",
-        "summary": "As AI erases the bottom rungs of the corporate ladder, some gen Z workers skip the entry level to become their own CEOs\nWhen Ashley Terrell graduated from the University of Hawaii in 2024, she planned to find a job in marketing, maybe for a tech comp",
-        "content": "As AI erases the bottom rungs of the corporate ladder, some gen Z workers skip the entry level to become their own CEOs\nWhen Ashley Terrell graduated from the University of Hawaii in 2024, she planned to find a job in marketing, maybe for a tech company. She had a bachelor’s degree in business administration and a college résumé that included a student marketing job for Red Bull. But after months of applying, her only offer was to work in the power tools section at Home Depot. “It was quite a sh",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/ng-interactive/2026/apr/25/gen-z-entrepreneurs-business-ai",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 25 Apr 2026 12:00:45 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ],
-        "imageUrl": "/images/2026-04-26/2026-04-26-culture-AI-020.webp"
+        "imageUrl": "/images/2026-04-26/2026-04-26-culture-AI-012.webp"
       }
     ]
   },
@@ -433,27 +272,19 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
-    "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
-    "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
-    "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
-    "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
+    "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
+    "https://openai.com/index/our-principles",
+    "https://the-decoder.com/openai-kills-its-dedicated-coding-model-codex-again-folding-it-into-gpt-5-5/",
     "https://the-decoder.com/openai-says-old-prompts-are-holding-gpt-5-5-back-and-developers-need-a-fresh-baseline/",
     "https://the-decoder.com/500-investment-bankers-review-ai-outputs-and-find-none-ready-for-client-delivery/",
     "https://the-decoder.com/survey-finds-claudes-weekly-active-users-in-the-us-skew-far-wealthier-than-any-rival-ai-assistant/",
     "https://the-decoder.com/ai-agents-arent-replacing-software-engineering-but-expanding-it-far-beyond-code-researchers-argue/",
-    "https://the-decoder.com/gpt-5-5-tops-benchmarks-but-still-hallucinates-frequently-and-costs-20-percent-more-over-the-api/",
-    "https://www.cnbc.com/2026/04/25/right-to-repair-consumer-prices-affordability-economy-elections.html",
-    "https://www.cnbc.com/2026/04/25/ai-talent-wars-enterprise-software-executives-openai.html",
-    "https://www.cnbc.com/2026/04/25/tesla-and-xais-grok-shows-promises-and-risks-of-ai-chatbots-in-cars.html",
-    "https://www.cnbc.com/2026/04/24/aerospace-and-defense-as-growth-drivers-for-etfs-amid-iran-war.html",
-    "https://www.nytimes.com/2026/04/24/technology/john-ternus-apple-challenges.html",
-    "https://www.nytimes.com/2026/04/25/technology/trump-memecoin-conference.html",
+    "https://www.nytimes.com/2026/04/26/technology/white-house-correspondents-dinner-shooting-conspiracy-theories.html",
+    "https://www.nytimes.com/2026/04/26/us/politics/correspondents-dinner-shooting-social-media.html",
     "https://www.theguardian.com/technology/2026/apr/26/uk-departments-at-odds-over-energy-demands-of-ai-datacentres",
-    "https://www.theguardian.com/technology/2026/apr/26/cannes-ai-film-festival-raises-eyebrows-questions-future",
-    "https://www.theguardian.com/uk-news/2026/apr/25/met-police-investigates-hundreds-officers-palantir-ai-tool",
-    "https://www.theguardian.com/technology/ng-interactive/2026/apr/25/gen-z-entrepreneurs-business-ai"
+    "https://www.theguardian.com/business/2026/apr/26/four-day-workweek-employment",
+    "https://www.theguardian.com/technology/2026/apr/26/cannes-ai-film-festival-raises-eyebrows-questions-future"
   ],
-  "generatedAt": "2026-04-26T11:37:03.275Z",
+  "generatedAt": "2026-04-26T23:30:47.924Z",
   "simpleSummaryImageUrl": "/images/2026-04-26/2026-04-26-summary.webp"
 }
