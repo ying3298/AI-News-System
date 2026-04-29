@@ -2,10 +2,11 @@
   "date": "2026-04-29",
   "dateFormatted": "April 29, 2026",
   "headline": {
-    "title": "Coby Adcock’s Scout AI raises $100M to train its models for war. We visited its bootcamp",
-    "summary": "We visited Scout AI's training ground where it's working on AI agents that can help individual soldiers control fleets of autonomous vehicles.",
-    "sourceUrl": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
-    "sourceName": "TechCrunch AI"
+    "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
+    "summary": "Despite the lingering perception that no one really uses Copilot, Microsoft said on Wednesday that the number of users and engagement is growing.",
+    "sourceUrl": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
+    "sourceName": "TechCrunch AI",
+    "imageUrl": "/images/2026-04-29/2026-04-29-hero.webp"
   },
   "simpleSummary": [
     "Today's edition was assembled directly from RSS feeds without AI curation.",
@@ -15,200 +16,230 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "Coby Adcock’s Scout AI raises $100M to train its models for war. We visited its bootcamp",
-        "summary": "We visited Scout AI's training ground where it's working on AI agents that can help individual soldiers control fleets of autonomous vehicles.",
-        "content": "We visited Scout AI's training ground where it's working on AI agents that can help individual soldiers control fleets of autonomous vehicles.",
+        "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
+        "summary": "Despite the lingering perception that no one really uses Copilot, Microsoft said on Wednesday that the number of users and engagement is growing.",
+        "content": "Despite the lingering perception that no one really uses Copilot, Microsoft said on Wednesday that the number of users and engagement is growing.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
+        "sourceUrl": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Wed, 29 Apr 2026 09:45:00 +0000",
+        "publishedAt": "Wed, 29 Apr 2026 23:02:23 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-29/2026-04-29-tools-AI-001.webp"
       },
       {
         "id": "AI-002",
-        "title": "At his OpenAI trial, Musk relitigates an old friendship",
-        "summary": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
-        "content": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
+        "title": "Google Cloud surpasses $20B, but says growth was capacity-constrained",
+        "summary": "Google Cloud topped $20B in quarterly revenue for the first time, fueled by surging demand for AI. But capacity constraints mean it could have grown even faster.",
+        "content": "Google Cloud topped $20B in quarterly revenue for the first time, fueled by surging demand for AI. But capacity constraints mean it could have grown even faster.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
+        "sourceUrl": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Wed, 29 Apr 2026 00:40:16 +0000",
+        "publishedAt": "Wed, 29 Apr 2026 22:20:48 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-29/2026-04-29-tools-AI-002.webp"
       },
       {
         "id": "AI-003",
-        "title": "Amazon is already offering new OpenAI products on AWS",
-        "summary": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
-        "content": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
+        "title": "Google gains 25M subscriptions in Q1, driven by YouTube and Google One",
+        "summary": "Google added 25M paid subscriptions in Q1, reaching 350M total, as YouTube and Google One grow.",
+        "content": "Google added 25M paid subscriptions in Q1, reaching 350M total, as YouTube and Google One grow.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
+        "sourceUrl": "https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Tue, 28 Apr 2026 19:48:02 +0000",
+        "publishedAt": "Wed, 29 Apr 2026 20:59:00 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-29/2026-04-29-tools-AI-003.webp"
       },
       {
         "id": "AI-004",
-        "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
-        "summary": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
-        "content": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses.",
+        "title": "Is AI video just a prequel? Runway’s CEO thinks world models are next",
+        "summary": "AI-generated video has gone from novelty to creative tool almost overnight, and Runway has a front row seat to the shift. The New York-based company has raised close to $860 million at a $5.3 billion valuation, and its models are going toe-to-toe wit",
+        "content": "AI-generated video has gone from novelty to creative tool almost overnight, and Runway has a front row seat to the shift. The New York-based company has raised close to $860 million at a $5.3 billion valuation, and its models are going toe-to-toe with the most well-funded labs in the world, including Google and OpenAI.   The technology goes way beyond […]",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
+        "sourceUrl": "https://techcrunch.com/podcast/equity-podcast-runway-ceo-cristobal-valenzuela-ai-video-world-models/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Tue, 28 Apr 2026 18:49:54 +0000",
+        "publishedAt": "Wed, 29 Apr 2026 18:59:44 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-29/2026-04-29-tools-AI-004.webp"
       },
       {
         "id": "AI-005",
-        "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
-        "summary": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department.",
-        "content": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department.",
+        "title": "Parallel Web Systems hits $2B valuation five months after its last big raise",
+        "summary": "The AI agent-tool startup founded by former Twitter CEO Parag Agrawal has raised $100 million, led by Sequoia, months after raising a previous $100 million.",
+        "content": "The AI agent-tool startup founded by former Twitter CEO Parag Agrawal has raised $100 million, led by Sequoia, months after raising a previous $100 million.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
+        "sourceUrl": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Tue, 28 Apr 2026 18:15:00 +0000",
+        "publishedAt": "Wed, 29 Apr 2026 18:33:05 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-29/2026-04-29-tools-AI-005.webp"
       }
     ],
     "creative": [
       {
         "id": "AI-006",
-        "title": "Google rolls out Gemini memory in Europe and wants you to bring your ChatGPT data along",
-        "summary": "Gemini can now remember your preferences and import your chat history from other AI apps.\nThe article Google rolls out Gemini memory in Europe and wants you to bring your ChatGPT data along appeared first on The Decoder.",
-        "content": "Gemini can now remember your preferences and import your chat history from other AI apps.\nThe article Google rolls out Gemini memory in Europe and wants you to bring your ChatGPT data along appeared first on The Decoder.",
+        "title": "Mistral's Le Chat spreads Iran war disinformation in 60 percent of leading prompts",
+        "summary": "A NewsGuard audit found that Mistral's Le Chat repeats state-sponsored disinformation about the Iran war about half the time. The error rate ranged from 10 percent for neutral queries to 80 percent for malicious ones.\nThe article Mistral's Le Chat sp",
+        "content": "A NewsGuard audit found that Mistral's Le Chat repeats state-sponsored disinformation about the Iran war about half the time. The error rate ranged from 10 percent for neutral queries to 80 percent for malicious ones.\nThe article Mistral's Le Chat spreads Iran war disinformation in 60 percent of leading prompts appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/google-rolls-out-gemini-memory-in-europe-and-wants-you-to-bring-your-chatgpt-data-along/",
+        "sourceUrl": "https://the-decoder.com/mistrals-le-chat-spreads-iran-war-disinformation-in-60-percent-of-leading-prompts/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Wed, 29 Apr 2026 11:50:10 +0000",
+        "publishedAt": "Wed, 29 Apr 2026 18:31:33 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-29/2026-04-29-creative-AI-006.webp"
       },
       {
         "id": "AI-007",
-        "title": "With Nemotron 3 Nano Omni, Nvidia reveals what really goes into a modern multimodal model",
-        "summary": "Nvidia releases Nemotron 3 Nano Omni, an open multimodal model for text, image, video and audio. Not only the performance is exciting, but also a look at the training data: it comes from Qwen, GPT-OSS, Kimi and DeepSeek OCR, among others.\nThe article",
-        "content": "Nvidia releases Nemotron 3 Nano Omni, an open multimodal model for text, image, video and audio. Not only the performance is exciting, but also a look at the training data: it comes from Qwen, GPT-OSS, Kimi and DeepSeek OCR, among others.\nThe article With Nemotron 3 Nano Omni, Nvidia reveals what really goes into a modern multimodal model appeared first on The Decoder.",
+        "title": "Google Gemini now generates full documents, spreadsheets, and presentations directly inside the chat",
+        "summary": "Google Gemini now creates documents directly in the chat, from PDFs and Word files to Excel spreadsheets.\nThe article Google Gemini now generates full documents, spreadsheets, and presentations directly inside the chat appeared first on The Decoder.",
+        "content": "Google Gemini now creates documents directly in the chat, from PDFs and Word files to Excel spreadsheets.\nThe article Google Gemini now generates full documents, spreadsheets, and presentations directly inside the chat appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/with-nemotron-3-nano-omni-nvidia-reveals-what-really-goes-into-a-modern-multimodal-model/",
+        "sourceUrl": "https://the-decoder.com/google-gemini-now-generates-full-documents-spreadsheets-and-presentations-directly-inside-the-chat/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Wed, 29 Apr 2026 09:28:29 +0000",
+        "publishedAt": "Wed, 29 Apr 2026 17:18:57 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-29/2026-04-29-creative-AI-007.webp"
       },
       {
         "id": "AI-008",
-        "title": "Here is what an LLM that knows nothing after 1930 thinks our world looks like in 2026",
-        "summary": "\"Talkie\" is a 13B-parameter language model trained only on texts written before 1931. It doubts a second world war will happen and pictures 2026 as a world of steamships, railroads, and penny novels.\nThe article Here is what an LLM that knows nothing",
-        "content": "\"Talkie\" is a 13B-parameter language model trained only on texts written before 1931. It doubts a second world war will happen and pictures 2026 as a world of steamships, railroads, and penny novels.\nThe article Here is what an LLM that knows nothing after 1930 thinks our world looks like in 2026 appeared first on The Decoder.",
+        "title": "OpenAI researchers explain why math is the road to AGI",
+        "summary": "AI models have jumped from grade-school arithmetic to olympiad-level and research mathematics in only two years. In the OpenAI Podcast, OpenAI researchers Sebastian Bubeck and Ernest Ryu explain why math has become the key test on the road to artific",
+        "content": "AI models have jumped from grade-school arithmetic to olympiad-level and research mathematics in only two years. In the OpenAI Podcast, OpenAI researchers Sebastian Bubeck and Ernest Ryu explain why math has become the key test on the road to artificial general intelligence.\nThe article OpenAI researchers explain why math is the road to AGI appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/here-is-what-an-llm-that-knows-nothing-after-1930-thinks-our-world-looks-like-in-2026/",
+        "sourceUrl": "https://the-decoder.com/openai-researchers-explain-why-math-is-the-road-to-agi/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Tue, 28 Apr 2026 18:07:13 +0000",
+        "publishedAt": "Wed, 29 Apr 2026 15:24:12 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-29/2026-04-29-creative-AI-008.webp"
       },
       {
         "id": "AI-009",
-        "title": "Mistral AI takes on enterprise AI orchestration with Workflows",
-        "summary": "Mistral AI has rolled out Workflows, an orchestration layer that helps companies turn AI-powered processes into production-ready systems.\nThe article Mistral AI takes on enterprise AI orchestration with Workflows appeared first on The Decoder.",
-        "content": "Mistral AI has rolled out Workflows, an orchestration layer that helps companies turn AI-powered processes into production-ready systems.\nThe article Mistral AI takes on enterprise AI orchestration with Workflows appeared first on The Decoder.",
+        "title": "White House moves to restore Anthropic access after Pentagon standoff",
+        "summary": "The White House is drafting guidance that would let federal agencies work with Anthropic again, including access to the company's new model Mythos.\nThe article White House moves to restore Anthropic access after Pentagon standoff appeared first on Th",
+        "content": "The White House is drafting guidance that would let federal agencies work with Anthropic again, including access to the company's new model Mythos.\nThe article White House moves to restore Anthropic access after Pentagon standoff appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/mistral-ai-takes-on-enterprise-ai-orchestration-with-workflows/",
+        "sourceUrl": "https://the-decoder.com/white-house-moves-to-restore-anthropic-access-after-pentagon-standoff/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Tue, 28 Apr 2026 14:58:24 +0000",
+        "publishedAt": "Wed, 29 Apr 2026 13:23:39 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-29/2026-04-29-creative-AI-009.webp"
       },
       {
         "id": "AI-010",
-        "title": "Meta scrambles to unwind Manus deal as Beijing's deadline looms",
-        "summary": "Meta is actively preparing to unwind the Manus acquisition, according to the Wall Street Journal.\nThe article Meta scrambles to unwind Manus deal as Beijing's deadline looms appeared first on The Decoder.",
-        "content": "Meta is actively preparing to unwind the Manus acquisition, according to the Wall Street Journal.\nThe article Meta scrambles to unwind Manus deal as Beijing's deadline looms appeared first on The Decoder.",
+        "title": "OpenAI lands on AWS one day after Microsoft deal restructuring",
+        "summary": "Microsoft and OpenAI dissolve their exclusivity deal. One day later, AWS rolls out three new OpenAI offerings on its Bedrock platform, including a jointly built agent service.\nThe article OpenAI lands on AWS one day after Microsoft deal restructuring",
+        "content": "Microsoft and OpenAI dissolve their exclusivity deal. One day later, AWS rolls out three new OpenAI offerings on its Bedrock platform, including a jointly built agent service.\nThe article OpenAI lands on AWS one day after Microsoft deal restructuring appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/meta-scrambles-to-unwind-manus-deal-as-beijings-deadline-looms/",
+        "sourceUrl": "https://the-decoder.com/openai-lands-on-aws-one-day-after-microsoft-deal-restructuring/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Tue, 28 Apr 2026 14:40:42 +0000",
+        "publishedAt": "Wed, 29 Apr 2026 13:06:01 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-29/2026-04-29-creative-AI-010.webp"
       }
     ],
     "research": [
       {
         "id": "AI-011",
+        "title": "The Download: storing nuclear waste and orchestrating agents",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. It’s time to make a plan for nuclear waste Today, nuclear energy enjoys rare support across the political spectr",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. It’s time to make a plan for nuclear waste Today, nuclear energy enjoys rare support across the political spectrum. Public approval has spiked, and Big Tech is throwing money around to…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 29 Apr 2026 12:10:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ],
+        "imageUrl": "/images/2026-04-29/2026-04-29-research-AI-011.webp"
+      },
+      {
+        "id": "AI-012",
         "title": "It’s time to make a plan for nuclear waste",
         "summary": "Today, nuclear energy enjoys a rare moment of support across the political spectrum in the US. Interest from tech companies that are scrambling to meet demand for massive data centers has sparked a resurgence of money and attention in the industry. T",
         "content": "Today, nuclear energy enjoys a rare moment of support across the political spectrum in the US. Interest from tech companies that are scrambling to meet demand for massive data centers has sparked a resurgence of money and attention in the industry. That newfound interest is exactly why it’s time to talk about an old problem:…",
@@ -224,10 +255,11 @@
         "publishedAt": "Wed, 29 Apr 2026 08:00:00 +0000",
         "normalizedTags": [
           "mit tech review"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-29/2026-04-29-research-AI-012.webp"
       },
       {
-        "id": "AI-012",
+        "id": "AI-013",
         "title": "An Intelligent Fault Diagnosis Method for General Aviation Aircraft Based on Multi-Fidelity Digital Twin and FMEA Knowledge Enhancement",
         "summary": "arXiv:2604.22777v1 Announce Type: new \nAbstract: Fault diagnosis of general aviation aircraft faces challenges including scarce real fault data, diverse fault types, and weak fault signatures. This paper proposes an intelligent fault diagnosis framew",
         "content": "arXiv:2604.22777v1 Announce Type: new \nAbstract: Fault diagnosis of general aviation aircraft faces challenges including scarce real fault data, diverse fault types, and weak fault signatures. This paper proposes an intelligent fault diagnosis framework based on multi-fidelity digital twin, integrating four modules: high-fidelity flight dynamics simulation, FMEA-driven fault injection, multi-fidelity residual feature extraction, and large language model (LLM)-enhanced interpretable report genera",
@@ -243,10 +275,11 @@
         "publishedAt": "Wed, 29 Apr 2026 00:00:00 -0400",
         "normalizedTags": [
           "arxiv cs.ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-29/2026-04-29-research-AI-013.webp"
       },
       {
-        "id": "AI-013",
+        "id": "AI-014",
         "title": "PExA: Parallel Exploration Agent for Complex Text-to-SQL",
         "summary": "arXiv:2604.22934v1 Announce Type: new \nAbstract: LLM-based agents for text-to-SQL often struggle with latency-performance trade-off, where performance improvements come at the cost of latency or vice versa. We reformulate text-to-SQL generation withi",
         "content": "arXiv:2604.22934v1 Announce Type: new \nAbstract: LLM-based agents for text-to-SQL often struggle with latency-performance trade-off, where performance improvements come at the cost of latency or vice versa. We reformulate text-to-SQL generation within the lens of software test coverage where the original query is prepared with a suite of test cases with simpler, atomic SQLs that are executed in parallel and together ensure semantic coverage of the original query. After iterating on test case cov",
@@ -262,10 +295,11 @@
         "publishedAt": "Wed, 29 Apr 2026 00:00:00 -0400",
         "normalizedTags": [
           "arxiv cs.ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-29/2026-04-29-research-AI-014.webp"
       },
       {
-        "id": "AI-014",
+        "id": "AI-015",
         "title": "The Power of Power Law: Asymmetry Enables Compositional Reasoning",
         "summary": "arXiv:2604.22951v1 Announce Type: new \nAbstract: Natural language data follows a power-law distribution, with most knowledge and skills appearing at very low frequency. While a common intuition suggests that reweighting or curating data towards a uni",
         "content": "arXiv:2604.22951v1 Announce Type: new \nAbstract: Natural language data follows a power-law distribution, with most knowledge and skills appearing at very low frequency. While a common intuition suggests that reweighting or curating data towards a uniform distribution may help models better learn these long-tail skills, we find a counterintuitive result: across a wide range of compositional reasoning tasks, such as state tracking and multi-step arithmetic, training under power-law distributions c",
@@ -281,167 +315,176 @@
         "publishedAt": "Wed, 29 Apr 2026 00:00:00 -0400",
         "normalizedTags": [
           "arxiv cs.ai"
-        ]
-      },
-      {
-        "id": "AI-015",
-        "title": "On the Existence of an Inverse Solution for Preference-Based Reductions in Argumentation",
-        "summary": "arXiv:2604.22958v1 Announce Type: new \nAbstract: Preference-based argumentation frameworks (PAFs) extend Dung's approach to abstract argumentation (AAFs) by encoding preferences over arguments. Such preferences control the transformation of attacks i",
-        "content": "arXiv:2604.22958v1 Announce Type: new \nAbstract: Preference-based argumentation frameworks (PAFs) extend Dung's approach to abstract argumentation (AAFs) by encoding preferences over arguments. Such preferences control the transformation of attacks into defeats, and different approaches to doing so result in different reductions from a PAF to an AAF. In this paper we consider a PAF inverse problem which takes an argumentation graph, a labelling and a semantics as an input, and outputs a ``yes\" o",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://arxiv.org/abs/2604.22958",
-        "sourceName": "ArXiv CS.AI",
-        "tags": [
-          "ArXiv CS.AI"
         ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Wed, 29 Apr 2026 00:00:00 -0400",
-        "normalizedTags": [
-          "arxiv cs.ai"
-        ]
+        "imageUrl": "/images/2026-04-29/2026-04-29-research-AI-015.webp"
       }
     ],
     "applications": [],
     "business": [
       {
         "id": "AI-016",
-        "title": "Fed day, Starbucks earnings, UAE leaves OPEC and more in Morning Squawk",
-        "summary": "Here are five key things investors need to know to start the trading day.",
-        "content": "Here are five key things investors need to know to start the trading day.",
+        "title": "Jim Cramer reveals the secret to finding a winning tech stock in this market",
+        "summary": "CNBC's Jim Cramer said tech stocks need more than an earnings beat to rally right now. They need a shortage.",
+        "content": "CNBC's Jim Cramer said tech stocks need more than an earnings beat to rally right now. They need a shortage.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/29/5-things-to-know-before-the-market-opens.html",
+        "sourceUrl": "https://www.cnbc.com/2026/04/29/jim-cramer-secret-winning-tech-stock.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Wed, 29 Apr 2026 12:05:25 GMT",
+        "publishedAt": "Wed, 29 Apr 2026 22:45:30 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-29/2026-04-29-business-AI-016.webp"
       },
       {
         "id": "AI-017",
-        "title": "OpenAI looms over earnings from tech hyperscalers",
-        "summary": "Amazon, Alphabet, Meta and Microsoft report quarterly results after the bell, and OpenAI is likely to be a big topic across the board.",
-        "content": "Amazon, Alphabet, Meta and Microsoft report quarterly results after the bell, and OpenAI is likely to be a big topic across the board.",
+        "title": "Anthropic in talks with investors to raise funds at $900 billion valuation, higher than OpenAI",
+        "summary": "Anthropic is in talks with investors about raising cash at a valuation of $900 billion, CNBC has confirmed.",
+        "content": "Anthropic is in talks with investors about raising cash at a valuation of $900 billion, CNBC has confirmed.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/29/openai-looms-over-earnings-from-tech-hyperscalers.html",
+        "sourceUrl": "https://www.cnbc.com/2026/04/29/anthropic-weighs-raising-funds-at-900b-valuation-topping-openai.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Wed, 29 Apr 2026 12:00:02 GMT",
+        "publishedAt": "Wed, 29 Apr 2026 23:09:46 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-29/2026-04-29-business-AI-017.webp"
       },
       {
         "id": "AI-018",
-        "title": "Is Meta's AI spending blitz working? The stock's next move depends on the answer",
-        "summary": "The market lately hasn't known quite how to digest Meta's ambitious plans.",
-        "content": "The market lately hasn't known quite how to digest Meta's ambitious plans.",
+        "title": "Qualcomm shares soar 16% on CEO comments about China orders, hyperscaler customer",
+        "summary": "Qualcomm CEO Cristiano Amon said that it would begin shipping data center chips to \"a large hyperscaler\" ahead of schedule, and called a bottom in China sales.",
+        "content": "Qualcomm CEO Cristiano Amon said that it would begin shipping data center chips to \"a large hyperscaler\" ahead of schedule, and called a bottom in China sales.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/29/is-metas-ai-spending-working-the-stocks-next-move-depends-on-answer.html",
+        "sourceUrl": "https://www.cnbc.com/2026/04/29/qualcomm-qcom-stock-earnings-china.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Wed, 29 Apr 2026 11:09:28 GMT",
+        "publishedAt": "Wed, 29 Apr 2026 22:35:57 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-29/2026-04-29-business-AI-018.webp"
       },
       {
         "id": "AI-019",
-        "title": "Meta told it's violating EU law by not doing enough to keep children off Facebook and Instagram",
-        "summary": "Children can create Instagram and Facebook accounts simply by inputting a false birth date, a preliminary EU investigation found.",
-        "content": "Children can create Instagram and Facebook accounts simply by inputting a false birth date, a preliminary EU investigation found.",
+        "title": "Amazon's cloud unit reports 28% sales growth, topping estimates",
+        "summary": "Amazon Web Services now accounts for over 20% of its parent company's total revenue.",
+        "content": "Amazon Web Services now accounts for over 20% of its parent company's total revenue.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/29/meta-eu-law-minors-facebook-instagram-child-safety.html",
+        "sourceUrl": "https://www.cnbc.com/2026/04/29/aws-earnings-q1-2026.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Wed, 29 Apr 2026 10:55:58 GMT",
+        "publishedAt": "Wed, 29 Apr 2026 20:51:20 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-29/2026-04-29-business-AI-019.webp"
       },
       {
         "id": "AI-020",
-        "title": "Major data center company pauses investment decisions in Middle East amid Iran war, CEO tells CNBC",
-        "summary": "Regional uncertainty hangs over the previously booming AI infrastructure and data center sector in the region.",
-        "content": "Regional uncertainty hangs over the previously booming AI infrastructure and data center sector in the region.",
+        "title": "Meta’s Reality Labs lost over $4 billion in first quarter",
+        "summary": "In Meta's first-quarter earnings report, the company said Reality Labs recorded an operating loss of over $4 billion while bringing in $402 million in sales.",
+        "content": "In Meta's first-quarter earnings report, the company said Reality Labs recorded an operating loss of over $4 billion while bringing in $402 million in sales.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/04/29/oaktree-owned-pure-dc-investment-decisions-gulf-data-centers.html",
+        "sourceUrl": "https://www.cnbc.com/2026/04/29/metas-reality-labs-lost-over-4-billion-in-first-quarter.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Wed, 29 Apr 2026 07:04:52 GMT",
+        "publishedAt": "Wed, 29 Apr 2026 23:11:42 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-29/2026-04-29-business-AI-020.webp"
       }
     ],
     "policy": [
       {
         "id": "AI-021",
-        "title": "Google Signs A.I. Deal With the Pentagon",
-        "summary": "The Pentagon has also signed deals for using A.I. on classified networks with OpenAI and Elon Musk’s xAI, amid a dispute with Anthropic.",
-        "content": "The Pentagon has also signed deals for using A.I. on classified networks with OpenAI and Elon Musk’s xAI, amid a dispute with Anthropic.",
+        "title": "Musk Says He ‘Was a Fool’ to Provide OpenAI’s Early Funding",
+        "summary": "In the second day of a trial pitting Mr. Musk against OpenAI, he said the company’s chief executive, Sam Altman, had misled him. But OpenAI’s lawyer said evidence showed the opposite.",
+        "content": "In the second day of a trial pitting Mr. Musk against OpenAI, he said the company’s chief executive, Sam Altman, had misled him. But OpenAI’s lawyer said evidence showed the opposite.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/04/28/technology/google-ai-deal-pentagon.html",
+        "sourceUrl": "https://www.nytimes.com/2026/04/29/technology/musk-openai-trial-altman.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Tue, 28 Apr 2026 20:16:02 +0000",
+        "publishedAt": "Wed, 29 Apr 2026 23:25:14 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-29/2026-04-29-policy-AI-021.webp"
       },
       {
         "id": "AI-022",
-        "title": "A.I. Helps Online Ad Businesses Boom",
-        "summary": "Google and Meta are enjoying a digital ad boom, as artificial intelligence automates marketing and drives record sales.",
-        "content": "Google and Meta are enjoying a digital ad boom, as artificial intelligence automates marketing and drives record sales.",
+        "title": "A.I. Spending Sets a Record, With No End in Sight",
+        "summary": "Google, Amazon, Microsoft and Meta reported more than $130 billion in quarterly capital expenditures on Wednesday as they build A.I. data centers. There’s more to come.",
+        "content": "Google, Amazon, Microsoft and Meta reported more than $130 billion in quarterly capital expenditures on Wednesday as they build A.I. data centers. There’s more to come.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/04/29/technology/ai-artificial-intelligence-ad-boom.html",
+        "sourceUrl": "https://www.nytimes.com/2026/04/29/technology/ai-spending-tech-data-centers.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Wed, 29 Apr 2026 09:04:14 +0000",
+        "publishedAt": "Wed, 29 Apr 2026 22:53:54 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-29/2026-04-29-policy-AI-022.webp"
       },
       {
         "id": "AI-023",
+        "title": "Meta Deal Reversal Deepens Split Between China and Silicon Valley",
+        "summary": "Beijing’s insistence that Meta unwind its deal with a Chinese A.I. start-up escalates the geopolitical fight over advanced tech.",
+        "content": "Beijing’s insistence that Meta unwind its deal with a Chinese A.I. start-up escalates the geopolitical fight over advanced tech.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/04/29/business/china-silicon-valley-manus.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 29 Apr 2026 21:08:05 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-04-29/2026-04-29-policy-AI-023.webp"
+      },
+      {
+        "id": "AI-024",
         "title": "In Backlash Against Tech in Schools, Parents Are Winning Rollbacks",
         "summary": "From Salt Lake City to New York City, parents are demanding more sway over the digital tools that schools give children.",
         "content": "From Salt Lake City to New York City, parents are demanding more sway over the digital tools that schools give children.",
@@ -454,48 +497,31 @@
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Wed, 29 Apr 2026 09:32:20 +0000",
+        "publishedAt": "Wed, 29 Apr 2026 16:04:58 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-024",
-        "title": "A.I. Bots Told Scientists How to Make Biological Weapons",
-        "summary": "Scientists shared transcripts with The Times in which chatbots described how to assemble deadly pathogens and unleash them in public spaces.",
-        "content": "Scientists shared transcripts with The Times in which chatbots described how to assemble deadly pathogens and unleash them in public spaces.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/04/29/us/ai-chatbots-biological-weapons.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
         ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Wed, 29 Apr 2026 09:00:11 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
+        "imageUrl": "/images/2026-04-29/2026-04-29-policy-AI-024.webp"
       },
       {
         "id": "AI-025",
-        "title": "OpenAI Trial Starts With Two Very Different Tales of a Company’s Early Years",
-        "summary": "In the trial’s first day of testimony, Elon Musk said greed led co-founder Sam Altman to pull the A.I. lab away from its nonprofit roots. OpenAI says that’s nonsense.",
-        "content": "In the trial’s first day of testimony, Elon Musk said greed led co-founder Sam Altman to pull the A.I. lab away from its nonprofit roots. OpenAI says that’s nonsense.",
+        "title": "Ford Reports Higher Profit Thanks Partly to Tariff Refund",
+        "summary": "Ford Motor said it expected the federal government to refund $1.3 billion the company paid in tariffs that the Supreme Court later struck down.",
+        "content": "Ford Motor said it expected the federal government to refund $1.3 billion the company paid in tariffs that the Supreme Court later struck down.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/04/28/technology/openai-trial-elon-musk-sam-altman.html",
+        "sourceUrl": "https://www.nytimes.com/2026/04/29/business/ford-motor-tariff-refund-profit.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Tue, 28 Apr 2026 23:45:07 +0000",
+        "publishedAt": "Wed, 29 Apr 2026 21:01:00 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-29/2026-04-29-policy-AI-025.webp"
       }
     ],
     "concerns": [],
@@ -517,83 +543,88 @@
         "publishedAt": "Wed, 29 Apr 2026 09:00:51 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-29/2026-04-29-culture-AI-026.webp"
       },
       {
         "id": "AI-027",
-        "title": "In the coming AI future, Britain must not end up at the mercy of US tech giants | Rafael Behr",
-        "summary": "Trump is volatile, capricious and unreasonable – but he belongs to the old world of analogue power. What comes next will be harder to manage\nDonald Trump is not impressed by soft power. He respects hard men with military muscle. But he can be moved b",
-        "content": "Trump is volatile, capricious and unreasonable – but he belongs to the old world of analogue power. What comes next will be harder to manage\nDonald Trump is not impressed by soft power. He respects hard men with military muscle. But he can be moved by pageantry, which is the purpose of King Charles’s visit to Washington this week. Trump is flattered to rub shoulders with majesty. The good vibes are then supposed to radiate warmth through a political relationship that has been chilled by the war ",
+        "title": "‘Your questions are designed to trick me’: combative Musk grilled over battle with Sam Altman",
+        "summary": "Lawyers for world’s richest person try to paint him as humanitarian as judge cuts off his long-winded replies\nAfter a dramatic first day of opening statements and testimony from Elon Musk in his case against Sam Altman and OpenAI, the trial continued",
+        "content": "Lawyers for world’s richest person try to paint him as humanitarian as judge cuts off his long-winded replies\nAfter a dramatic first day of opening statements and testimony from Elon Musk in his case against Sam Altman and OpenAI, the trial continued on Wednesday with a cross-examination of the Tesla CEO. Musk began his second day of on the stand by repeating the accusation that Altman “stole a charity” and would endanger humanity with AI multiple times. OpenAI’s attorneys pressed the world’s ri",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/commentisfree/2026/apr/29/ai-panic-uk-government-us-dependent-technology-trump",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/apr/29/elon-musk-openai-sam-altman-lawsuit",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Wed, 29 Apr 2026 05:00:46 GMT",
+        "publishedAt": "Wed, 29 Apr 2026 22:46:08 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-29/2026-04-29-culture-AI-027.webp"
       },
       {
         "id": "AI-028",
-        "title": "‘It will never cover what’s authentic’: African music industry weighs up AI risks and rewards",
-        "summary": "Delegates at event in Cape Verde highlight opportunities from tech while stressing AI is no replacement for talent\nLast July, the Nigerian singer-songwriter Fave found herself caught up in a viral moment: an unauthorised version of a track featuring ",
-        "content": "Delegates at event in Cape Verde highlight opportunities from tech while stressing AI is no replacement for talent\nLast July, the Nigerian singer-songwriter Fave found herself caught up in a viral moment: an unauthorised version of a track featuring an AI choir had been released, quickly becoming an internet sensation. To get ahead of the situation, she recorded her own remix that integrated the AI-assisted song and added it to her discography.\n“In my view, [that] was smart and very business awa",
+        "title": "Claude AI agent’s confession after deleting a firm’s entire database: ‘I violated every principle I was given’",
+        "summary": "PocketOS was left scrambling after a rogue AI agent deleted swaths of code underpinning its business\nIt only took nine seconds for an AI coding agent gone rogue to delete a company’s entire production database and its backups, according to its founde",
+        "content": "PocketOS was left scrambling after a rogue AI agent deleted swaths of code underpinning its business\nIt only took nine seconds for an AI coding agent gone rogue to delete a company’s entire production database and its backups, according to its founder. PocketOS, which sells software that car rental businesses rely on, descended into chaos after its databases were wiped, the company’s founder Jeremy Crane said.\nThe culprit was Cursor, an AI agent powered by Anthropic’s Claude Opus 4.6 model, whic",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/world/2026/apr/29/africa-music-industry-ai-artificial-intelligence",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/apr/29/claude-ai-deletes-firm-database",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Wed, 29 Apr 2026 04:00:45 GMT",
+        "publishedAt": "Wed, 29 Apr 2026 22:12:49 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-29/2026-04-29-culture-AI-028.webp"
       },
       {
         "id": "AI-029",
-        "title": "A whole new world: Disneyland adds facial recognition to some entrance lanes",
-        "summary": "Walt Disney Company says technology at California theme park will prevent fraud and streamline re-entry\nDisneyland, the beloved California adventure park, has outfitted some entrance lanes with facial recognition technology, a move its parent company",
-        "content": "Walt Disney Company says technology at California theme park will prevent fraud and streamline re-entry\nDisneyland, the beloved California adventure park, has outfitted some entrance lanes with facial recognition technology, a move its parent company says will prevent fraud and streamline re-entry.\nAt certain entrance lanes, a camera will capture images of visitors, which can be converted via biometric technology into unique numerical values, according to the Walt Disney Company’s website.\n Cont",
+        "title": "Stephen Fry sues tech conference organisers for £100,000 over fall from stage",
+        "summary": "Actor and presenter broke his hip, right leg, pelvis and ribs when he gave a talk at CogX festival at O2 Arena in 2023\nStephen Fry is suing two companies that organised a tech conference where he was injured in 2023 after falling off the stage, high ",
+        "content": "Actor and presenter broke his hip, right leg, pelvis and ribs when he gave a talk at CogX festival at O2 Arena in 2023\nStephen Fry is suing two companies that organised a tech conference where he was injured in 2023 after falling off the stage, high court documents show.\nThe actor and presenter broke his hip and had multiple breaks in his right leg, pelvis and ribs when he attended the CogX festival at the O2 Arena, where he delivered a talk on artificial intelligence on 14 September 2023.\n Cont",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/us-news/2026/apr/28/disneyland-entrance-facial-recognition",
+        "sourceUrl": "https://www.theguardian.com/culture/2026/apr/29/stephen-fry-sues-tech-conference-organisers-for-100000-over-fall-from-stage",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Wed, 29 Apr 2026 01:44:42 GMT",
+        "publishedAt": "Wed, 29 Apr 2026 21:28:33 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-29/2026-04-29-culture-AI-029.webp"
       },
       {
         "id": "AI-030",
-        "title": "‘Stole a charity’: Elon Musk accuses Sam Altman of betrayal in courtroom showdown",
-        "summary": "Trial is culmination of a years-long feud between Musk and Altman that has become increasingly vicious\nThe trial pitting Elon Musk against Sam Altman and OpenAI began in dramatic fashion on Tuesday with opening arguments and the richest man in the wo",
-        "content": "Trial is culmination of a years-long feud between Musk and Altman that has become increasingly vicious\nThe trial pitting Elon Musk against Sam Altman and OpenAI began in dramatic fashion on Tuesday with opening arguments and the richest man in the world taking the stand to testify. Attorneys for the two tech moguls presented a California jury with two wildly different versions of the AI company’s history, while Musk accused his billionaire rival of endangering humanity through corporate deceptio",
+        "title": "Friendly AI chatbots more likely to support conspiracy theories, study finds",
+        "summary": "Chatbots programmed to respond warmly even cast doubts on Apollo moon landings and fate of Hitler, researchers say\nThe rush to make AI chatbots more friendly has a troubling downside, researchers say. The warm personas make them prone to mistakes and",
+        "content": "Chatbots programmed to respond warmly even cast doubts on Apollo moon landings and fate of Hitler, researchers say\nThe rush to make AI chatbots more friendly has a troubling downside, researchers say. The warm personas make them prone to mistakes and sympathetic to crackpot beliefs.\nChatbots trained to respond more warmly gave poorer answers, worse health advice and even supported conspiracy theories by casting doubt on events such as the Apollo moon landings and the fate of Adolf Hitler.\n Conti",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/apr/28/sam-altman-open-ai-elon-musk-trial",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Tue, 28 Apr 2026 21:52:33 GMT",
+        "publishedAt": "Wed, 29 Apr 2026 15:00:52 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-04-29/2026-04-29-culture-AI-030.webp"
       }
     ]
   },
@@ -603,36 +634,37 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
-    "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
-    "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
-    "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
-    "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
-    "https://the-decoder.com/google-rolls-out-gemini-memory-in-europe-and-wants-you-to-bring-your-chatgpt-data-along/",
-    "https://the-decoder.com/with-nemotron-3-nano-omni-nvidia-reveals-what-really-goes-into-a-modern-multimodal-model/",
-    "https://the-decoder.com/here-is-what-an-llm-that-knows-nothing-after-1930-thinks-our-world-looks-like-in-2026/",
-    "https://the-decoder.com/mistral-ai-takes-on-enterprise-ai-orchestration-with-workflows/",
-    "https://the-decoder.com/meta-scrambles-to-unwind-manus-deal-as-beijings-deadline-looms/",
+    "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
+    "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
+    "https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/",
+    "https://techcrunch.com/podcast/equity-podcast-runway-ceo-cristobal-valenzuela-ai-video-world-models/",
+    "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/",
+    "https://the-decoder.com/mistrals-le-chat-spreads-iran-war-disinformation-in-60-percent-of-leading-prompts/",
+    "https://the-decoder.com/google-gemini-now-generates-full-documents-spreadsheets-and-presentations-directly-inside-the-chat/",
+    "https://the-decoder.com/openai-researchers-explain-why-math-is-the-road-to-agi/",
+    "https://the-decoder.com/white-house-moves-to-restore-anthropic-access-after-pentagon-standoff/",
+    "https://the-decoder.com/openai-lands-on-aws-one-day-after-microsoft-deal-restructuring/",
+    "https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/",
     "https://www.technologyreview.com/2026/04/29/1136659/plan-nuclear-waste/",
     "https://arxiv.org/abs/2604.22777",
     "https://arxiv.org/abs/2604.22934",
     "https://arxiv.org/abs/2604.22951",
-    "https://arxiv.org/abs/2604.22958",
-    "https://www.cnbc.com/2026/04/29/5-things-to-know-before-the-market-opens.html",
-    "https://www.cnbc.com/2026/04/29/openai-looms-over-earnings-from-tech-hyperscalers.html",
-    "https://www.cnbc.com/2026/04/29/is-metas-ai-spending-working-the-stocks-next-move-depends-on-answer.html",
-    "https://www.cnbc.com/2026/04/29/meta-eu-law-minors-facebook-instagram-child-safety.html",
-    "https://www.cnbc.com/2026/04/29/oaktree-owned-pure-dc-investment-decisions-gulf-data-centers.html",
-    "https://www.nytimes.com/2026/04/28/technology/google-ai-deal-pentagon.html",
-    "https://www.nytimes.com/2026/04/29/technology/ai-artificial-intelligence-ad-boom.html",
+    "https://www.cnbc.com/2026/04/29/jim-cramer-secret-winning-tech-stock.html",
+    "https://www.cnbc.com/2026/04/29/anthropic-weighs-raising-funds-at-900b-valuation-topping-openai.html",
+    "https://www.cnbc.com/2026/04/29/qualcomm-qcom-stock-earnings-china.html",
+    "https://www.cnbc.com/2026/04/29/aws-earnings-q1-2026.html",
+    "https://www.cnbc.com/2026/04/29/metas-reality-labs-lost-over-4-billion-in-first-quarter.html",
+    "https://www.nytimes.com/2026/04/29/technology/musk-openai-trial-altman.html",
+    "https://www.nytimes.com/2026/04/29/technology/ai-spending-tech-data-centers.html",
+    "https://www.nytimes.com/2026/04/29/business/china-silicon-valley-manus.html",
     "https://www.nytimes.com/2026/04/29/technology/parents-school-tech-backlash.html",
-    "https://www.nytimes.com/2026/04/29/us/ai-chatbots-biological-weapons.html",
-    "https://www.nytimes.com/2026/04/28/technology/openai-trial-elon-musk-sam-altman.html",
+    "https://www.nytimes.com/2026/04/29/business/ford-motor-tariff-refund-profit.html",
     "https://www.theguardian.com/technology/2026/apr/29/meet-the-ai-jailbreakers-i-see-the-worst-things-humanity-has-produced",
-    "https://www.theguardian.com/commentisfree/2026/apr/29/ai-panic-uk-government-us-dependent-technology-trump",
-    "https://www.theguardian.com/world/2026/apr/29/africa-music-industry-ai-artificial-intelligence",
-    "https://www.theguardian.com/us-news/2026/apr/28/disneyland-entrance-facial-recognition",
-    "https://www.theguardian.com/technology/2026/apr/28/sam-altman-open-ai-elon-musk-trial"
+    "https://www.theguardian.com/technology/2026/apr/29/elon-musk-openai-sam-altman-lawsuit",
+    "https://www.theguardian.com/technology/2026/apr/29/claude-ai-deletes-firm-database",
+    "https://www.theguardian.com/culture/2026/apr/29/stephen-fry-sues-tech-conference-organisers-for-100000-over-fall-from-stage",
+    "https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study"
   ],
-  "generatedAt": "2026-04-29T12:15:26.144Z"
+  "generatedAt": "2026-04-29T23:44:28.251Z",
+  "simpleSummaryImageUrl": "/images/2026-04-29/2026-04-29-summary.webp"
 }
