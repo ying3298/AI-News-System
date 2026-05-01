@@ -1,0 +1,638 @@
+{
+  "date": "2026-05-01",
+  "dateFormatted": "May 1, 2026",
+  "headline": {
+    "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
+    "summary": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits.",
+    "sourceUrl": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
+    "sourceName": "TechCrunch AI"
+  },
+  "simpleSummary": [
+    "Today's edition was assembled directly from RSS feeds without AI curation.",
+    "Browse the stories below for the latest AI news."
+  ],
+  "sections": {
+    "tools": [
+      {
+        "id": "AI-001",
+        "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
+        "summary": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits.",
+        "content": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals — from avatars to cinematic portraits.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 01 May 2026 02:00:00 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-002",
+        "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
+        "summary": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter.",
+        "content": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 30 Apr 2026 23:07:56 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-003",
+        "title": "Apple was surprised by AI-driven demand for Macs",
+        "summary": "Apple said it will be supply-constrained on Mac mini, Studio, and Neo in the next quarter, too.",
+        "content": "Apple said it will be supply-constrained on Mac mini, Studio, and Neo in the next quarter, too.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 30 Apr 2026 22:12:52 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-004",
+        "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
+        "summary": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf, and now have dueling ad campaigns.",
+        "content": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf, and now have dueling ad campaigns.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 30 Apr 2026 20:14:47 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-005",
+        "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
+        "summary": "OpenAI will begin rolling out its cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first.",
+        "content": "OpenAI will begin rolling out its cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 30 Apr 2026 19:27:41 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      }
+    ],
+    "creative": [
+      {
+        "id": "AI-006",
+        "title": "GPT-5.5 matches Claude Mythos in cyber attack tests, UK AI Security Institute finds",
+        "summary": "OpenAI's GPT-5.5 is the second AI model capable of autonomously solving a full network attack simulation, according to the UK AI Security Institute. Its performance is nearly on par with Anthropic's Claude Mythos, which is still only available to a s",
+        "content": "OpenAI's GPT-5.5 is the second AI model capable of autonomously solving a full network attack simulation, according to the UK AI Security Institute. Its performance is nearly on par with Anthropic's Claude Mythos, which is still only available to a small group. GPT-5.5, meanwhile, is already shipping in ChatGPT and through the API.\nThe article GPT-5.5 matches Claude Mythos in cyber attack tests, UK AI Security Institute finds appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/gpt-5-5-matches-claude-mythos-in-cyber-attack-tests-uk-ai-security-institute-finds/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 01 May 2026 10:25:37 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-007",
+        "title": "Google Deepmind's \"AI co-clinician\" beats GPT-5.4 in blind doctor tests but still trails experienced physicians",
+        "summary": "Google Deepmind is building an \"AI co-clinician\" to help doctors care for patients. The system shows promising results in simulation studies but still trails experienced physicians. The research also shows why ChatGPT's voice mode isn't ready for ser",
+        "content": "Google Deepmind is building an \"AI co-clinician\" to help doctors care for patients. The system shows promising results in simulation studies but still trails experienced physicians. The research also shows why ChatGPT's voice mode isn't ready for serious tasks, let alone medical consultations.\nThe article Google Deepmind's \"AI co-clinician\" beats GPT-5.4 in blind doctor tests but still trails experienced physicians appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/google-deepminds-ai-co-clinician-beats-gpt-5-4-in-blind-doctor-tests-but-still-trails-experienced-physicians/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 01 May 2026 09:21:32 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-008",
+        "title": "Mistral's new flagship Medium 3.5 folds chat, reasoning, and code into one model",
+        "summary": "Mistral's new flagship, Mistral Medium 3.5, merges what used to be separate models for chat, reasoning, and code into a single product. The French company is also adding asynchronous cloud agents to its coding tool Vibe and giving Le Chat a new agent",
+        "content": "Mistral's new flagship, Mistral Medium 3.5, merges what used to be separate models for chat, reasoning, and code into a single product. The French company is also adding asynchronous cloud agents to its coding tool Vibe and giving Le Chat a new agent mode.\nThe article Mistral's new flagship Medium 3.5 folds chat, reasoning, and code into one model appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/mistrals-new-flagship-medium-3-5-folds-chat-reasoning-and-code-into-one-model/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 01 May 2026 08:21:14 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-009",
+        "title": "Microsoft CEO Satya Nadella says AI success is \"more about getting intense users and intense usage\" than seat counts",
+        "summary": "Microsoft is posting record profits and strong cloud growth, but just like Google, the company is saying little about how its generative AI business is actually performing.\nThe article Microsoft CEO Satya Nadella says AI success is \"more about gettin",
+        "content": "Microsoft is posting record profits and strong cloud growth, but just like Google, the company is saying little about how its generative AI business is actually performing.\nThe article Microsoft CEO Satya Nadella says AI success is \"more about getting intense users and intense usage\" than seat counts appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/microsoft-ceo-satya-nadella-says-ai-success-is-more-about-getting-intense-users-and-intense-usage-than-seat-counts/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 30 Apr 2026 17:49:04 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-010",
+        "title": "Google CEO says Pichai says people \"love\" AI Overviews and keep coming back to search more",
+        "summary": "Alphabet is investing up to $190 billion in AI and cloud infrastructure through 2026, and the company says spending will rise \"significantly\" again in 2027.\nThe article Google CEO says Pichai says people \"love\" AI Overviews and keep coming back to se",
+        "content": "Alphabet is investing up to $190 billion in AI and cloud infrastructure through 2026, and the company says spending will rise \"significantly\" again in 2027.\nThe article Google CEO says Pichai says people \"love\" AI Overviews and keep coming back to search more appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/google-ceo-says-pichai-says-people-love-ai-overviews-and-keep-coming-back-to-search-more/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 30 Apr 2026 13:38:54 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      }
+    ],
+    "research": [
+      {
+        "id": "AI-011",
+        "title": "Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining",
+        "summary": "Smack dab between Australia and South America, the US National Oceanic and Atmospheric Administration (NOAA) research vessel Rainier is currently on a mission to map more than 8,000 square nautical miles of the Pacific seafloor in search of critical ",
+        "content": "Smack dab between Australia and South America, the US National Oceanic and Atmospheric Administration (NOAA) research vessel Rainier is currently on a mission to map more than 8,000 square nautical miles of the Pacific seafloor in search of critical mineral deposits. But it isn’t doing it alone; for a month starting this week, it will…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/05/01/1136734/inexpensive-seafloor-hopping-submersibles-could-stoke-deep-sea-science-and-mining/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 01 May 2026 10:00:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-012",
+        "title": "Trump’s mass firing just dealt another blow to American science",
+        "summary": "This past week delivered another gut punch for science in the US. This time, the target was the National Science Foundation—a federal agency that funds major research projects to the tune of around $9 billion. The foundation’s efforts were overseen b",
+        "content": "This past week delivered another gut punch for science in the US. This time, the target was the National Science Foundation—a federal agency that funds major research projects to the tune of around $9 billion. The foundation’s efforts were overseen by a board of 22 prominent scientists. On Friday last week, they were all fired.…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/05/01/1136722/mass-firing-trump-fresh-blow-american-science-nsf-nsb/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 01 May 2026 09:00:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-013",
+        "title": "A new US phone network for Christians aims to block porn and gender-related content",
+        "summary": "A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks porn, which experts in network security say marks the first time a US cell plan has used network-level blocking for such content that can’t be turned off ev",
+        "content": "A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks porn, which experts in network security say marks the first time a US cell plan has used network-level blocking for such content that can’t be turned off even by adult account owners. It’s also rolling out a filter…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 01 May 2026 09:00:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-014",
+        "title": "Exclusive eBook: Inside the stealthy startup that pitched brainless human clones",
+        "summary": "The ultimate plan to live forever is a brand new body. This subscriber-only eBook explores R3 Bio, a small startup that has pitched a startling and ethically charged vision for “brainless clones” to serve the role of backup human bodies. by Antonio R",
+        "content": "The ultimate plan to live forever is a brand new body. This subscriber-only eBook explores R3 Bio, a small startup that has pitched a startling and ethically charged vision for “brainless clones” to serve the role of backup human bodies. by Antonio Regalado March 20, 2026 Related Stories: Access all subscriber-only eBooks:",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/04/30/1136684/exclusive-ebook-inside-the-stealthy-startup-that-pitched-brainless-human-clones/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 30 Apr 2026 18:42:50 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-015",
+        "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
+        "summary": "The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a model’s behavior—during training. This could give mo",
+        "content": "The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a model’s behavior—during training. This could give model makers more fine-grained control over how this technology is built than was once thought possible. Goodfire claims Silico…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 30 Apr 2026 15:59:41 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      }
+    ],
+    "applications": [],
+    "business": [
+      {
+        "id": "AI-016",
+        "title": "The Tech Download: Chip stocks surge in ‘historic’ month as investors’ AI buildout concerns ease",
+        "summary": "March saw many chip stocks drop amid concerns over the AI buildout, but their fortunes have reversed in April.",
+        "content": "March saw many chip stocks drop amid concerns over the AI buildout, but their fortunes have reversed in April.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/05/01/tech-download-chip-stocks-surge-historic-month-intel-apple.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 01 May 2026 11:15:01 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-017",
+        "title": "Apple CEO Tim Cook warns of extended memory crunch. 'We'll look at a range of options'",
+        "summary": "In Apple's quarterly earnings report, CEO Tim Cook warned of further memory constraints in the coming quarters.",
+        "content": "In Apple's quarterly earnings report, CEO Tim Cook warned of further memory constraints in the coming quarters.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/05/01/apple-ceo-warns-of-memory-crunch-well-look-at-a-range-of-options.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 01 May 2026 07:00:01 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-018",
+        "title": "China’s EV price war turns into AI arms race beyond cheaper cars",
+        "summary": "Chinese EV firms are rapidly rolling out in-car AI features to gain an edge, but as the price war drags on, those technologies are quickly becoming commoditized.",
+        "content": "Chinese EV firms are rapidly rolling out in-car AI features to gain an edge, but as the price war drags on, those technologies are quickly becoming commoditized.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/05/01/china-ev-ai-features-price-war-bytedance-alibaba-doubao-volcano-engine.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 01 May 2026 04:19:25 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-019",
+        "title": "Japan Airlines begins humanoid robot trials at Tokyo's Haneda airport as labor shortages bite",
+        "summary": "Tokyo's Haneda Airport is beginning a trial of humanoid robots in airport ground services amid chronic labor challenges and a rapidly ageing workforce.",
+        "content": "Tokyo's Haneda Airport is beginning a trial of humanoid robots in airport ground services amid chronic labor challenges and a rapidly ageing workforce.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/05/01/japan-airlines-humanoid-robots-haneda-labor-shortage.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 01 May 2026 06:58:26 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-020",
+        "title": "Apple delivers a nearly perfect quarter, with a CEO change and an AI update ahead",
+        "summary": "In fact, it was the best March quarter in company history, and Apple stock jumped 4% in after-hours trading.",
+        "content": "In fact, it was the best March quarter in company history, and Apple stock jumped 4% in after-hours trading.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/04/30/apple-delivers-a-nearly-perfect-quarter-with-a-ceo-change-and-an-ai-update-ahead.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 30 Apr 2026 23:43:06 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      }
+    ],
+    "policy": [
+      {
+        "id": "AI-021",
+        "title": "Elon Musk’s A.I. Claims of Danger Face Limits in OpenAI Trial",
+        "summary": "One of Elon Musk’s abiding fears is that A.I. could one day threaten humans. But the jurors deciding his suit against OpenAI probably won’t hear about it.",
+        "content": "One of Elon Musk’s abiding fears is that A.I. could one day threaten humans. But the jurors deciding his suit against OpenAI probably won’t hear about it.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/04/30/technology/openai-trial-elon-musk-existential.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 30 Apr 2026 23:24:17 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-022",
+        "title": "Apple Reports 17% Sales Jump, Powered by iPhones",
+        "summary": "John Ternus, who will take over in September, spoke publicly on an investor call for the first time since his new job was announced.",
+        "content": "John Ternus, who will take over in September, spoke publicly on an investor call for the first time since his new job was announced.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/04/30/technology/iphones-apple-sales.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 30 Apr 2026 23:22:26 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-023",
+        "title": "OpenAI’s Big Reset + A.I. in the Doctor’s Office + Talkie, a pre-1930s LLM",
+        "summary": "Will the rising tide of A.I. adoption lift all boats?",
+        "content": "Will the rising tide of A.I. adoption lift all boats?",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/05/01/podcasts/hardfork-openai-doctors-talkie.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 01 May 2026 11:00:03 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-024",
+        "title": "Why So Many People Already Own Shares of Elon Musk’s SpaceX",
+        "summary": "Even before the rocket company holds a major initial public offering, many people own stock in it through so-called special purpose vehicles.",
+        "content": "Even before the rocket company holds a major initial public offering, many people own stock in it through so-called special purpose vehicles.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/05/01/technology/elon-musk-spacex-private-company-stock.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 01 May 2026 09:01:11 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-025",
+        "title": "Musk vs. Altman: What Is This Really About?",
+        "summary": "In a landmark trial between Elon Musk and OpenAI’s Sam Altman, the origins of OpenAI are being examined. The Times’s technology reporter Cade Metz explains what’s behind it all.",
+        "content": "In a landmark trial between Elon Musk and OpenAI’s Sam Altman, the origins of OpenAI are being examined. The Times’s technology reporter Cade Metz explains what’s behind it all.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/video/technology/100000010865043/musk-vs-altman-what-is-this-really-about.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 01 May 2026 00:01:39 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      }
+    ],
+    "concerns": [],
+    "culture": [
+      {
+        "id": "AI-026",
+        "title": "‘Awkward and humiliating’: UK job hunters share frustration with AI interviews",
+        "summary": "People describe unnatural process as survey finds nearly half of job seekers have been interviewed by AI\nNearly half (47%) of UK job seekers have had an AI interview, research from the hiring platform Greenhouse has found.\nIn its survey of 2,950 acti",
+        "content": "People describe unnatural process as survey finds nearly half of job seekers have been interviewed by AI\nNearly half (47%) of UK job seekers have had an AI interview, research from the hiring platform Greenhouse has found.\nIn its survey of 2,950 active job seekers, including 1,132 UK-based workers, with additional respondents from the US, Germany, Australia and Ireland, it found that 30% of UK candidates had walked away from a hiring process because it included an AI interview.\n Continue reading",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/may/01/uk-job-hunters-frustration-ai-interviews",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 01 May 2026 05:00:38 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-027",
+        "title": "UN warns women in public life face increasingly sophisticated online violence",
+        "summary": "UN Women report says AI, anonymity and lack of effective laws are increasing the risks of engaging in digital spaces\nWomen in public life are facing growing and increasingly sophisticated forms of online violence, the UN has said, warning that “AI-as",
+        "content": "UN Women report says AI, anonymity and lack of effective laws are increasing the risks of engaging in digital spaces\nWomen in public life are facing growing and increasingly sophisticated forms of online violence, the UN has said, warning that “AI-assisted ‘virtual rape’ is now at the fingertips of perpetrators”.\nFemale rights campaigners, journalists and other public communicators face a deepening threat due to a combination of artificial intelligence, anonymity and the absence of effective law",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/society/2026/may/01/un-warns-women-in-public-life-face-increasingly-sophisticated-online-violence",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 01 May 2026 07:00:42 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-028",
+        "title": "Robo athletes miss the point of sport – there is no drama without emotion | Emma John",
+        "summary": "We are in a world where robots compete against humans and while perfect scores might be impressive, they are also dull\nIt hurts to miss an unmarked shot in basketball. And it certainly seemed to pain the Alvark Tokyo shooter, halfway through April’s ",
+        "content": "We are in a world where robots compete against humans and while perfect scores might be impressive, they are also dull\nIt hurts to miss an unmarked shot in basketball. And it certainly seemed to pain the Alvark Tokyo shooter, halfway through April’s Japanese league game against Shimane Susanoo Magic. As the ball bounded off the rim, the player wheeled away, head lowered, eyes downcast. The disappointment looked glaringly real.\nWhich is interesting, because it was not. The player could not have c",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/sport/2026/may/01/robo-athletes-robots-sport-ai-technology",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 01 May 2026 07:00:39 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-029",
+        "title": "Judge cuts off Musk’s AI doomsday talk as his testimony ends in OpenAI case",
+        "summary": "Trial continues after heated back-and-forth during OpenAI’s cross-examination of the Tesla CEO\nElon Musk’s court case against Sam Altman continued on Thursday, after a day of contentious exchanges during OpenAI’s cross-examination of the Tesla CEO. M",
+        "content": "Trial continues after heated back-and-forth during OpenAI’s cross-examination of the Tesla CEO\nElon Musk’s court case against Sam Altman continued on Thursday, after a day of contentious exchanges during OpenAI’s cross-examination of the Tesla CEO. Musk faced more combative questioning throughout the morning, in a glimpse of what may await other prominent witnesses set to take the stand.\nWitness testimony and evidence has revealed formerly private emails, text messages and diary entries surround",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/apr/30/openai-founding-trial-elon-musk-sam-altman",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 30 Apr 2026 20:05:46 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-030",
+        "title": "Spotify rolls out ‘Verified’ badge to distinguish human artists from AI",
+        "summary": "Green checkmark will appear on artist profiles to signal they meet the platform’s standard for authenticity\nSpotify on Thursday unveiled a new verification system designed to help listeners distinguish human musicians from AI-generated content, as pe",
+        "content": "Green checkmark will appear on artist profiles to signal they meet the platform’s standard for authenticity\nSpotify on Thursday unveiled a new verification system designed to help listeners distinguish human musicians from AI-generated content, as people flood streaming platforms with a growing volume of synthetic tracks made with artificial intelligence.\nThe Swedish streaming giant said its “Verified by Spotify” badge – marked by a green checkmark – will begin appearing on artist profiles and i",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/apr/30/spotify-verified-badge-human-artists-from-ai",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 30 Apr 2026 19:56:12 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      }
+    ]
+  },
+  "quote": {
+    "text": "The best way to predict the future is to invent it.",
+    "author": "Alan Kay",
+    "authorTitle": "Computer Scientist"
+  },
+  "sources": [
+    "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
+    "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
+    "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/",
+    "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
+    "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
+    "https://the-decoder.com/gpt-5-5-matches-claude-mythos-in-cyber-attack-tests-uk-ai-security-institute-finds/",
+    "https://the-decoder.com/google-deepminds-ai-co-clinician-beats-gpt-5-4-in-blind-doctor-tests-but-still-trails-experienced-physicians/",
+    "https://the-decoder.com/mistrals-new-flagship-medium-3-5-folds-chat-reasoning-and-code-into-one-model/",
+    "https://the-decoder.com/microsoft-ceo-satya-nadella-says-ai-success-is-more-about-getting-intense-users-and-intense-usage-than-seat-counts/",
+    "https://the-decoder.com/google-ceo-says-pichai-says-people-love-ai-overviews-and-keep-coming-back-to-search-more/",
+    "https://www.technologyreview.com/2026/05/01/1136734/inexpensive-seafloor-hopping-submersibles-could-stoke-deep-sea-science-and-mining/",
+    "https://www.technologyreview.com/2026/05/01/1136722/mass-firing-trump-fresh-blow-american-science-nsf-nsb/",
+    "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/",
+    "https://www.technologyreview.com/2026/04/30/1136684/exclusive-ebook-inside-the-stealthy-startup-that-pitched-brainless-human-clones/",
+    "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
+    "https://www.cnbc.com/2026/05/01/tech-download-chip-stocks-surge-historic-month-intel-apple.html",
+    "https://www.cnbc.com/2026/05/01/apple-ceo-warns-of-memory-crunch-well-look-at-a-range-of-options.html",
+    "https://www.cnbc.com/2026/05/01/china-ev-ai-features-price-war-bytedance-alibaba-doubao-volcano-engine.html",
+    "https://www.cnbc.com/2026/05/01/japan-airlines-humanoid-robots-haneda-labor-shortage.html",
+    "https://www.cnbc.com/2026/04/30/apple-delivers-a-nearly-perfect-quarter-with-a-ceo-change-and-an-ai-update-ahead.html",
+    "https://www.nytimes.com/2026/04/30/technology/openai-trial-elon-musk-existential.html",
+    "https://www.nytimes.com/2026/04/30/technology/iphones-apple-sales.html",
+    "https://www.nytimes.com/2026/05/01/podcasts/hardfork-openai-doctors-talkie.html",
+    "https://www.nytimes.com/2026/05/01/technology/elon-musk-spacex-private-company-stock.html",
+    "https://www.nytimes.com/video/technology/100000010865043/musk-vs-altman-what-is-this-really-about.html",
+    "https://www.theguardian.com/technology/2026/may/01/uk-job-hunters-frustration-ai-interviews",
+    "https://www.theguardian.com/society/2026/may/01/un-warns-women-in-public-life-face-increasingly-sophisticated-online-violence",
+    "https://www.theguardian.com/sport/2026/may/01/robo-athletes-robots-sport-ai-technology",
+    "https://www.theguardian.com/technology/2026/apr/30/openai-founding-trial-elon-musk-sam-altman",
+    "https://www.theguardian.com/technology/2026/apr/30/spotify-verified-badge-human-artists-from-ai"
+  ],
+  "generatedAt": "2026-05-01T11:57:04.219Z"
+}
