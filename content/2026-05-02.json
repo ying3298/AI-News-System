@@ -2,9 +2,9 @@
   "date": "2026-05-02",
   "dateFormatted": "May 2, 2026",
   "headline": {
-    "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
-    "summary": "At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a world where rival Cursor is reportedly in talks t",
-    "sourceUrl": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
+    "title": "AI-generated actors and scripts are now ineligible for Oscars",
+    "summary": "Bad news for Tilly Norwood.",
+    "sourceUrl": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
     "sourceName": "TechCrunch AI",
     "imageUrl": "/images/2026-05-02/2026-05-02-hero.webp"
   },
@@ -16,19 +16,19 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
-        "summary": "At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a world where rival Cursor is reportedly in talks t",
-        "content": "At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a world where rival Cursor is reportedly in talks to be acquired by SpaceX for $60 billion, is Replit also bound to sell?",
+        "title": "AI-generated actors and scripts are now ineligible for Oscars",
+        "summary": "Bad news for Tilly Norwood.",
+        "content": "Bad news for Tilly Norwood.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
+        "sourceUrl": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Fri, 01 May 2026 23:06:50 +0000",
+        "publishedAt": "Sat, 02 May 2026 21:54:58 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ],
@@ -36,88 +36,68 @@
       },
       {
         "id": "AI-002",
-        "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
-        "summary": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
-        "content": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said.",
+        "title": "The best AI dictation apps, tested and ranked",
+        "summary": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
+        "content": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+        "sourceUrl": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Fri, 01 May 2026 22:13:27 +0000",
+        "publishedAt": "Sat, 02 May 2026 16:00:00 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ],
         "imageUrl": "/images/2026-05-02/2026-05-02-tools-AI-002.webp"
-      },
-      {
-        "id": "AI-003",
-        "title": "Did you know you can’t steal a charity? Don’t worry. Elon Musk will remind you.",
-        "summary": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are plenty more witnesses to come. Musk’s ",
-        "content": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are plenty more witnesses to come. Musk’s argument against OpenAI? By converting the company to a for-profit model, Sam Altman betrayed the “nonprofit for the […]",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
-        "sourceName": "TechCrunch AI",
-        "tags": [
-          "TechCrunch AI"
-        ],
-        "section": "tools",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 01 May 2026 17:44:29 +0000",
-        "normalizedTags": [
-          "techcrunch ai"
-        ],
-        "imageUrl": "/images/2026-05-02/2026-05-02-tools-AI-003.webp"
-      },
-      {
-        "id": "AI-004",
-        "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
-        "summary": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
-        "content": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
-        "sourceName": "TechCrunch AI",
-        "tags": [
-          "TechCrunch AI"
-        ],
-        "section": "tools",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 01 May 2026 16:02:36 +0000",
-        "normalizedTags": [
-          "techcrunch ai"
-        ],
-        "imageUrl": "/images/2026-05-02/2026-05-02-tools-AI-004.webp"
-      },
-      {
-        "id": "AI-005",
-        "title": "Musk v. Altman is just getting started",
-        "summary": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are plenty more witnesses to come. Musk’s ",
-        "content": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it’s already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are plenty more witnesses to come. Musk’s argument against OpenAI? By converting the company to a for-profit model, Sam Altman betrayed the “nonprofit for the […]",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
-        "sourceName": "TechCrunch AI",
-        "tags": [
-          "TechCrunch AI"
-        ],
-        "section": "tools",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 01 May 2026 14:00:00 +0000",
-        "normalizedTags": [
-          "techcrunch ai"
-        ],
-        "imageUrl": "/images/2026-05-02/2026-05-02-tools-AI-005.webp"
       }
     ],
     "creative": [
       {
-        "id": "AI-006",
+        "id": "AI-003",
+        "title": "Even the latest AI models make three systematic reasoning errors, ARC-AGI-3 analysis shows",
+        "summary": "The ARC Prize Foundation analyzed 160 game runs of OpenAI's GPT-5.5 and Anthropic's Opus 4.7 on the ARC-AGI-3 benchmark. Three systematic error patterns explain why both models stay below 1 percent on tasks that humans can solve without much trouble.",
+        "content": "The ARC Prize Foundation analyzed 160 game runs of OpenAI's GPT-5.5 and Anthropic's Opus 4.7 on the ARC-AGI-3 benchmark. Three systematic error patterns explain why both models stay below 1 percent on tasks that humans can solve without much trouble.\nThe article Even the latest AI models make three systematic reasoning errors, ARC-AGI-3 analysis shows appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/even-the-latest-ai-models-make-three-systematic-reasoning-errors-arc-agi-3-analysis-shows/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 02 May 2026 13:31:52 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ],
+        "imageUrl": "/images/2026-05-02/2026-05-02-creative-AI-003.webp"
+      },
+      {
+        "id": "AI-004",
+        "title": "xAI's new Custom Voices feature turns a minute of speech into a usable voice clone",
+        "summary": "xAI now lets developers clone their own voices for AI applications. The new \"Custom Voices\" feature builds on the recently launched Grok Speech-to-Text and Text-to-Speech APIs.\nThe article xAI's new Custom Voices feature turns a minute of speech into",
+        "content": "xAI now lets developers clone their own voices for AI applications. The new \"Custom Voices\" feature builds on the recently launched Grok Speech-to-Text and Text-to-Speech APIs.\nThe article xAI's new Custom Voices feature turns a minute of speech into a usable voice clone appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/xais-new-custom-voices-feature-turns-a-minute-of-speech-into-a-usable-voice-clone/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 02 May 2026 12:14:46 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ],
+        "imageUrl": "/images/2026-05-02/2026-05-02-creative-AI-004.webp"
+      },
+      {
+        "id": "AI-005",
         "title": "Nvidia CEO Jensen Huang calls out tech leaders' \"god complex\" over reckless AI job loss predictions",
         "summary": "AI scaremongering costs jobs instead of protecting them, says Nvidia CEO Jensen Huang. Talking young people out of future careers, he argues, does real harm to society.\nThe article Nvidia CEO Jensen Huang calls out tech leaders' \"god complex\" over re",
         "content": "AI scaremongering costs jobs instead of protecting them, says Nvidia CEO Jensen Huang. Talking young people out of future careers, he argues, does real harm to society.\nThe article Nvidia CEO Jensen Huang calls out tech leaders' \"god complex\" over reckless AI job loss predictions appeared first on The Decoder.",
@@ -134,10 +114,10 @@
         "normalizedTags": [
           "the decoder"
         ],
-        "imageUrl": "/images/2026-05-02/2026-05-02-creative-AI-006.webp"
+        "imageUrl": "/images/2026-05-02/2026-05-02-creative-AI-005.webp"
       },
       {
-        "id": "AI-007",
+        "id": "AI-006",
         "title": "Elon Musk calls himself a fool for giving OpenAI $38 million that became an $800 billion company",
         "summary": "Elon Musk called himself a \"fool\" in court, warned of a \"Terminator\" future, and admitted that xAI taps OpenAI's models for its own AI training. Week one of Musk's trial against Sam Altman delivered plenty of drama; and the best may still be ahead.\nT",
         "content": "Elon Musk called himself a \"fool\" in court, warned of a \"Terminator\" future, and admitted that xAI taps OpenAI's models for its own AI training. Week one of Musk's trial against Sam Altman delivered plenty of drama; and the best may still be ahead.\nThe article Elon Musk calls himself a fool for giving OpenAI $38 million that became an $800 billion company appeared first on The Decoder.",
@@ -154,10 +134,10 @@
         "normalizedTags": [
           "the decoder"
         ],
-        "imageUrl": "/images/2026-05-02/2026-05-02-creative-AI-007.webp"
+        "imageUrl": "/images/2026-05-02/2026-05-02-creative-AI-006.webp"
       },
       {
-        "id": "AI-008",
+        "id": "AI-007",
         "title": "ChatGPT now tracks users for ads by default as OpenAI looks for new revenue",
         "summary": "OpenAI has turned on marketing cookies by default for free ChatGPT users in countries where ads are running. Tracking is automatically active for free accounts but not for paying subscribers. You can disable it in your account settings.\nThe article C",
         "content": "OpenAI has turned on marketing cookies by default for free ChatGPT users in countries where ads are running. Tracking is automatically active for free accounts but not for paying subscribers. You can disable it in your account settings.\nThe article ChatGPT now tracks users for ads by default as OpenAI looks for new revenue appeared first on The Decoder.",
@@ -174,132 +154,12 @@
         "normalizedTags": [
           "the decoder"
         ],
-        "imageUrl": "/images/2026-05-02/2026-05-02-creative-AI-008.webp"
-      },
-      {
-        "id": "AI-009",
-        "title": "Meta acquires Assured Robot Intelligence to accelerate humanoid robot push",
-        "summary": "Meta has acquired robotics AI startup Assured Robot Intelligence to accelerate its work on humanoid robots. The goal is an open platform for the entire industry, similar to what Android did for smartphones.\nThe article Meta acquires Assured Robot Int",
-        "content": "Meta has acquired robotics AI startup Assured Robot Intelligence to accelerate its work on humanoid robots. The goal is an open platform for the entire industry, similar to what Android did for smartphones.\nThe article Meta acquires Assured Robot Intelligence to accelerate humanoid robot push appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/meta-acquires-assured-robot-intelligence-to-accelerate-humanoid-robot-push/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 02 May 2026 08:02:06 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ],
-        "imageUrl": "/images/2026-05-02/2026-05-02-creative-AI-009.webp"
-      },
-      {
-        "id": "AI-010",
-        "title": "xAI drops Grok 4.3 with steep price cuts and an Imagine agent mode for creative projects",
-        "summary": "With Grok 4.3, xAI is leaning into low prices and better tool use. The model shows gains on practical tasks, but it still trails the top models from OpenAI and Anthropic. The release also brings a new agent-based image generator.\nThe article xAI drop",
-        "content": "With Grok 4.3, xAI is leaning into low prices and better tool use. The model shows gains on practical tasks, but it still trails the top models from OpenAI and Anthropic. The release also brings a new agent-based image generator.\nThe article xAI drops Grok 4.3 with steep price cuts and an Imagine agent mode for creative projects appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/xai-drops-grok-4-3-with-steep-price-cuts-and-an-imagine-agent-mode-for-creative-projects/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 02 May 2026 07:35:24 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ],
-        "imageUrl": "/images/2026-05-02/2026-05-02-creative-AI-010.webp"
+        "imageUrl": "/images/2026-05-02/2026-05-02-creative-AI-007.webp"
       }
     ],
     "research": [
       {
-        "id": "AI-011",
-        "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
-        "summary": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he",
-        "content": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along the way, he warned that AI could destroy us all and sat through…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 01 May 2026 22:08:19 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ],
-        "imageUrl": "/images/2026-05-02/2026-05-02-research-AI-011.webp"
-      },
-      {
-        "id": "AI-012",
-        "title": "Cyber-Insecurity in the AI Era",
-        "summary": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Technology Review’s EmTech AI conf",
-        "content": "Cybersecurity was already under strain before AI entered the stack. Now, as AI expands the attack surface and adds new complexity, the limits of legacy approaches are becoming harder to ignore. This session from MIT Technology Review’s EmTech AI conference explores why security must be rethought with AI at its core, not layered on after…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 01 May 2026 15:54:01 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ],
-        "imageUrl": "/images/2026-05-02/2026-05-02-research-AI-012.webp"
-      },
-      {
-        "id": "AI-013",
-        "title": "Operationalizing AI for Scale and Sovereignty",
-        "summary": "Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high‑quality data needed to power reliable insights. This conversation from MIT Technology Review’s ",
-        "content": "Companies are taking control of their own data to tailor AI for their needs. The challenge lies in balancing ownership with the safe, trusted flow of high‑quality data needed to power reliable insights. This conversation from MIT Technology Review’s EmTech AI conference examines how AI factories unlock new levels of scale, sustainability, and governance—positioning data…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 01 May 2026 15:31:09 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ],
-        "imageUrl": "/images/2026-05-02/2026-05-02-research-AI-013.webp"
-      },
-      {
-        "id": "AI-014",
-        "title": "The Download: a new Christian phone network, and debugging LLMs",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new US phone network for Christians aims to block porn and gender-related content A new US-wide cell phone net",
-        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new US phone network for Christians aims to block porn and gender-related content A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 01 May 2026 12:10:00 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ],
-        "imageUrl": "/images/2026-05-02/2026-05-02-research-AI-014.webp"
-      },
-      {
-        "id": "AI-015",
+        "id": "AI-008",
         "title": "Compositional Meta-Learning for Mitigating Task Heterogeneity in Physics-Informed Neural Networks",
         "summary": "arXiv:2604.26999v1 Announce Type: new \nAbstract: Physics-informed neural networks (PINNs) approximate solutions of partial differential equations (PDEs) by embedding physical laws into the loss function. In parameterized PDE families, variations in c",
         "content": "arXiv:2604.26999v1 Announce Type: new \nAbstract: Physics-informed neural networks (PINNs) approximate solutions of partial differential equations (PDEs) by embedding physical laws into the loss function. In parameterized PDE families, variations in coefficients or boundary/initial conditions define distinct tasks. This makes training individual PINNs for each task computationally prohibitive, while cross-task transfer can be sensitive to task heterogeneity. While meta-learning can reduce retrain",
@@ -316,155 +176,135 @@
         "normalizedTags": [
           "arxiv cs.ai"
         ],
-        "imageUrl": "/images/2026-05-02/2026-05-02-research-AI-015.webp"
+        "imageUrl": "/images/2026-05-02/2026-05-02-research-AI-008.webp"
+      },
+      {
+        "id": "AI-009",
+        "title": "Binary Spiking Neural Networks as Causal Models",
+        "summary": "arXiv:2604.27007v1 Announce Type: new \nAbstract: We provide a causal analysis of Binary Spiking Neural Networks (BSNNs) to explain their behavior. We formally define a BSNN and represent its spiking activity as a binary causal model. Thanks to this c",
+        "content": "arXiv:2604.27007v1 Announce Type: new \nAbstract: We provide a causal analysis of Binary Spiking Neural Networks (BSNNs) to explain their behavior. We formally define a BSNN and represent its spiking activity as a binary causal model. Thanks to this causal representation, we are able to explain the output of the network by leveraging logic-based methods. In particular, we show that we can successfully use a SAT as well as a SMT solver to compute abductive explanations from this binary causal mode",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2604.27007",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 02 May 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ],
+        "imageUrl": "/images/2026-05-02/2026-05-02-research-AI-009.webp"
+      },
+      {
+        "id": "AI-010",
+        "title": "When Your LLM Reaches End-of-Life: A Framework for Confident Model Migration in Production Systems",
+        "summary": "arXiv:2604.27082v1 Announce Type: new \nAbstract: We present a framework for migrating production Large Language Model (LLM) based systems when the underlying model reaches end-of-life or requires replacement. The key contribution is a Bayesian statis",
+        "content": "arXiv:2604.27082v1 Announce Type: new \nAbstract: We present a framework for migrating production Large Language Model (LLM) based systems when the underlying model reaches end-of-life or requires replacement. The key contribution is a Bayesian statistical approach that calibrates automated evaluation metrics against human judgments, enabling confident model comparison even with limited manual evaluation data. We demonstrate this framework on a commercial question-answering system serving 5.3M mo",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2604.27082",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 02 May 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ],
+        "imageUrl": "/images/2026-05-02/2026-05-02-research-AI-010.webp"
+      },
+      {
+        "id": "AI-011",
+        "title": "End-to-end autonomous scientific discovery on a real optical platform",
+        "summary": "arXiv:2604.27092v1 Announce Type: new \nAbstract: Scientific research has long been human-led, driving new knowledge and transformative technologies through the continual revision of questions, methods and claims as evidence accumulates. Although larg",
+        "content": "arXiv:2604.27092v1 Announce Type: new \nAbstract: Scientific research has long been human-led, driving new knowledge and transformative technologies through the continual revision of questions, methods and claims as evidence accumulates. Although large language model (LLM)-based agents are beginning to move beyond assisting predefined research workflows, none has yet demonstrated end-to-end autonomous discovery in a real physical system that produces a nontrivial result supported by experimental ",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2604.27092",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 02 May 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ],
+        "imageUrl": "/images/2026-05-02/2026-05-02-research-AI-011.webp"
+      },
+      {
+        "id": "AI-012",
+        "title": "Think it, Run it: Autonomous ML pipeline generation via self-healing multi-agent AI",
+        "summary": "arXiv:2604.27096v1 Announce Type: new \nAbstract: The purpose of our paper is to develop a unified multi-agent architecture that automates end-to-end machine learning (ML) pipeline generation from datasets and natural-language (NL) goals, improving ef",
+        "content": "arXiv:2604.27096v1 Announce Type: new \nAbstract: The purpose of our paper is to develop a unified multi-agent architecture that automates end-to-end machine learning (ML) pipeline generation from datasets and natural-language (NL) goals, improving efficiency, robustness and explainability. A five-agent system is proposed to handle profiling, intent parsing, microservice recommendation, Directed Acyclic Graph (DAG) construction and execution. It integrates code-grounded Retrieval-Augmented Genera",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2604.27096",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 02 May 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ],
+        "imageUrl": "/images/2026-05-02/2026-05-02-research-AI-012.webp"
       }
     ],
     "applications": [],
     "business": [
       {
-        "id": "AI-016",
-        "title": "Jim Cramer says the market powered through a tough earnings week but 'that doesn't mean we're out of the woods yet'",
-        "summary": "CNBC's Jim Cramer looks to the jam-packed earnings week ahead and explains what he's looking for.",
-        "content": "CNBC's Jim Cramer looks to the jam-packed earnings week ahead and explains what he's looking for.",
+        "id": "AI-013",
+        "title": "The S&P 500 and Nasdaq kept their record rallies going. Here are 3 key takeaways",
+        "summary": "It seemed like what really captivated Wall Street though was corporate earnings.",
+        "content": "It seemed like what really captivated Wall Street though was corporate earnings.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/05/01/cramer-look-ahead-earnings.html",
+        "sourceUrl": "https://www.cnbc.com/2026/05/02/the-sp-500-and-nasdaq-kept-their-record-rallies-going-here-are-3-key-takeaways-.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Fri, 01 May 2026 22:33:26 GMT",
+        "publishedAt": "Sat, 02 May 2026 15:13:09 GMT",
         "normalizedTags": [
           "cnbc tech"
         ],
-        "imageUrl": "/images/2026-05-02/2026-05-02-business-AI-016.webp"
+        "imageUrl": "/images/2026-05-02/2026-05-02-business-AI-013.webp"
       },
       {
-        "id": "AI-017",
-        "title": "The market isn't grading all Big Tech earnings the same — here's why",
-        "summary": "After a big week of mega-cap tech earnings, investors are starting to differentiate AI tech winners from those still proving themselves.",
-        "content": "After a big week of mega-cap tech earnings, investors are starting to differentiate AI tech winners from those still proving themselves.",
+        "id": "AI-014",
+        "title": "Musk testimony dominated first week Musk v. Altman. 'You can't just steal a charity'",
+        "summary": "Elon Musk, the world's richest person, took the stand and testified over the course of three days in his trial against OpenAI CEO Sam Altman.",
+        "content": "Elon Musk, the world's richest person, took the stand and testified over the course of three days in his trial against OpenAI CEO Sam Altman.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/05/01/the-market-isnt-grading-all-big-tech-earnings-the-same-heres-why.html",
+        "sourceUrl": "https://www.cnbc.com/2026/05/02/musk-testimony-dominated-first-week-musk-v-altman-trial-in-oakland.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Fri, 01 May 2026 19:11:36 GMT",
+        "publishedAt": "Sat, 02 May 2026 12:00:01 GMT",
         "normalizedTags": [
           "cnbc tech"
         ],
-        "imageUrl": "/images/2026-05-02/2026-05-02-business-AI-017.webp"
-      },
-      {
-        "id": "AI-018",
-        "title": "Apple's stock gains as company execs cite iPhone, Mac demand in boosting guidance",
-        "summary": "On its quarterly earnings call, Apple said revenue growth in the current quarter would be between 14% and 17%, well above analysts' estimates.",
-        "content": "On its quarterly earnings call, Apple said revenue growth in the current quarter would be between 14% and 17%, well above analysts' estimates.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/05/01/apple-stock-rallies-on-q2-earnings-and-q3-guidance.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 01 May 2026 20:11:58 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ],
-        "imageUrl": "/images/2026-05-02/2026-05-02-business-AI-018.webp"
-      },
-      {
-        "id": "AI-019",
-        "title": "Roblox shares plummet 18% as child safety measures weigh on bookings",
-        "summary": "Roblox is facing over 140 federal lawsuits accusing it of failing to prevent child exploitation, and last month settled with Alabama and West Virginia.",
-        "content": "Roblox is facing over 140 federal lawsuits accusing it of failing to prevent child exploitation, and last month settled with Alabama and West Virginia.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/05/01/roblox-rblx-stock-child-safety-earnings.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 01 May 2026 20:01:24 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ],
-        "imageUrl": "/images/2026-05-02/2026-05-02-business-AI-019.webp"
-      },
-      {
-        "id": "AI-020",
-        "title": "Atlassian stock soars 29% after earnings show strong cloud, data center growth",
-        "summary": "Atlassian's stock has been hit hard in the \"SaaS-pocalypse\" sweeping software names as AI threatens to disrupt their business models.",
-        "content": "Atlassian's stock has been hit hard in the \"SaaS-pocalypse\" sweeping software names as AI threatens to disrupt their business models.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/05/01/atlassian-team-q3-stock-2026-earnings.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 01 May 2026 19:21:05 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ],
-        "imageUrl": "/images/2026-05-02/2026-05-02-business-AI-020.webp"
+        "imageUrl": "/images/2026-05-02/2026-05-02-business-AI-014.webp"
       }
     ],
     "policy": [
       {
-        "id": "AI-021",
-        "title": "Why So Many People Already Own Shares of Elon Musk’s SpaceX",
-        "summary": "Even before the rocket company holds a major initial public offering, many people own stock in it through so-called special purpose vehicles.",
-        "content": "Even before the rocket company holds a major initial public offering, many people own stock in it through so-called special purpose vehicles.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/05/01/technology/elon-musk-spacex-private-company-stock.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 01 May 2026 20:32:45 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ],
-        "imageUrl": "/images/2026-05-02/2026-05-02-policy-AI-021.webp"
-      },
-      {
-        "id": "AI-022",
-        "title": "Pentagon Makes Deals With A.I. Companies to Expand Classified Work",
-        "summary": "The agreements with the technology companies come amid the Defense Department’s dispute with Anthropic.",
-        "content": "The agreements with the technology companies come amid the Defense Department’s dispute with Anthropic.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/05/01/us/politics/pentagon-ai-companies-deals.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 01 May 2026 15:59:40 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ],
-        "imageUrl": "/images/2026-05-02/2026-05-02-policy-AI-022.webp"
-      },
-      {
-        "id": "AI-023",
+        "id": "AI-015",
         "title": "How Running Shoes Have Evolved, From Ancient Greece to a Record-Breaking Marathon Time",
         "summary": "The race to near-weightlessness has been a driving force of innovation in running sneakers and helped lead to records shattering at the London Marathon.",
         "content": "The race to near-weightlessness has been a driving force of innovation in running sneakers and helped lead to records shattering at the London Marathon.",
@@ -477,34 +317,14 @@
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Fri, 01 May 2026 16:35:12 +0000",
+        "publishedAt": "Sat, 02 May 2026 14:17:46 +0000",
         "normalizedTags": [
           "nyt technology"
         ],
-        "imageUrl": "/images/2026-05-02/2026-05-02-policy-AI-023.webp"
+        "imageUrl": "/images/2026-05-02/2026-05-02-policy-AI-015.webp"
       },
       {
-        "id": "AI-024",
-        "title": "Musk vs. Altman: What Is This Really About?",
-        "summary": "In a landmark trial between Elon Musk and OpenAI’s Sam Altman, the origins of OpenAI are being examined. The Times’s technology reporter Cade Metz explains what’s behind it all.",
-        "content": "In a landmark trial between Elon Musk and OpenAI’s Sam Altman, the origins of OpenAI are being examined. The Times’s technology reporter Cade Metz explains what’s behind it all.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/video/technology/100000010865043/musk-vs-altman-what-is-this-really-about.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 01 May 2026 22:21:43 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ],
-        "imageUrl": "/images/2026-05-02/2026-05-02-policy-AI-024.webp"
-      },
-      {
-        "id": "AI-025",
+        "id": "AI-016",
         "title": "Elon Musk went to court. The judge wasn’t amused.",
         "summary": "Elon Musk’s outsize reputation, provocative remarks and his friction with a federal judge have dominated the trial in his case against ChatGPT-maker OpenAI.",
         "content": "Elon Musk’s outsize reputation, provocative remarks and his friction with a federal judge have dominated the trial in his case against ChatGPT-maker OpenAI.",
@@ -521,53 +341,33 @@
         "normalizedTags": [
           "washington post tech"
         ],
-        "imageUrl": "/images/2026-05-02/2026-05-02-policy-AI-025.webp"
+        "imageUrl": "/images/2026-05-02/2026-05-02-policy-AI-016.webp"
       }
     ],
     "concerns": [],
     "culture": [
       {
-        "id": "AI-026",
-        "title": "Pentagon inks deals with seven AI companies for classified military work",
-        "summary": "OpenAI, Google, Nvidia and others agreed to ‘any lawful use’ of their tech. Anthropic, feuding with Pentagon over potential AI misuse, was not included\n\nSign up for the Breaking News US email to get newsletter alerts in your inbox\n\nThe Pentagon said ",
-        "content": "OpenAI, Google, Nvidia and others agreed to ‘any lawful use’ of their tech. Anthropic, feuding with Pentagon over potential AI misuse, was not included\n\nSign up for the Breaking News US email to get newsletter alerts in your inbox\n\nThe Pentagon said on Friday it had reached agreements with seven leading artificial intelligence (AI) companies: SpaceX, OpenAI, Google, Nvidia, Reflection, Microsoft and Amazon Web Services.\n“These agreements accelerate the transformation toward establishing the Unit",
+        "id": "AI-017",
+        "title": "Under a cloud: the growing resentment against the massive datacentres sprouting across Australian cities",
+        "summary": "Residents say AI factories with unknown environmental impacts are being rushed into development as proponents argue Australia must ride the data boom or be left behind\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news ema",
+        "content": "Residents say AI factories with unknown environmental impacts are being rushed into development as proponents argue Australia must ride the data boom or be left behind\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nWhen West Footscray resident Sean Brown takes his 19-month-old boy to the park, their walk passes an imposing new building cheerily spruiked as “Australia’s largest hyperscale AI factory”, a datacentre called M3.\nH",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/us-news/2026/may/01/pentagon-us-military-pairs-with-spacex-google-openai",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/may/03/ai-datacentres-australia-opposition",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Fri, 01 May 2026 16:08:06 GMT",
+        "publishedAt": "Sat, 02 May 2026 20:00:35 GMT",
         "normalizedTags": [
           "the guardian ai"
         ],
-        "imageUrl": "/images/2026-05-02/2026-05-02-culture-AI-026.webp"
+        "imageUrl": "/images/2026-05-02/2026-05-02-culture-AI-017.webp"
       },
       {
-        "id": "AI-027",
-        "title": "UN warns women in public life face increasingly sophisticated online violence",
-        "summary": "UN Women report says AI, anonymity and lack of effective laws are increasing the risks of engaging in digital spaces\nWomen in public life are facing growing and increasingly sophisticated forms of online violence, the UN has said, warning that “AI-as",
-        "content": "UN Women report says AI, anonymity and lack of effective laws are increasing the risks of engaging in digital spaces\nWomen in public life are facing growing and increasingly sophisticated forms of online violence, the UN has said, warning that “AI-assisted ‘virtual rape’ is now at the fingertips of perpetrators”.\nFemale rights campaigners, journalists and other public communicators face a deepening threat owing to a combination of artificial intelligence, anonymity and the absence of effective l",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/society/2026/may/01/un-warns-women-in-public-life-face-increasingly-sophisticated-online-violence",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 01 May 2026 15:51:57 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ],
-        "imageUrl": "/images/2026-05-02/2026-05-02-culture-AI-027.webp"
-      },
-      {
-        "id": "AI-028",
+        "id": "AI-018",
         "title": "Disneyland Now Uses Face Recognition on Visitors",
         "summary": "Plus: The NSA tests Anthropic’s Mythos Preview to find vulnerabilities, a Finnish teen is charged over the Scattered Spider hacking spree, and more.",
         "content": "Plus: The NSA tests Anthropic’s Mythos Preview to find vulnerabilities, a Finnish teen is charged over the Scattered Spider hacking spree, and more.",
@@ -584,27 +384,7 @@
         "normalizedTags": [
           "wired ai"
         ],
-        "imageUrl": "/images/2026-05-02/2026-05-02-culture-AI-028.webp"
-      },
-      {
-        "id": "AI-029",
-        "title": "A Dark-Money Campaign Is Paying Influencers to Frame Chinese AI as a Threat",
-        "summary": "Build American AI, a nonprofit linked to a super PAC bankrolled by executives at OpenAI and Andreessen Horowitz, is funding a campaign to spread pro-AI messaging and stoke fears about China.",
-        "content": "Build American AI, a nonprofit linked to a super PAC bankrolled by executives at OpenAI and Andreessen Horowitz, is funding a campaign to spread pro-AI messaging and stoke fears about China.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/",
-        "sourceName": "Wired AI",
-        "tags": [
-          "Wired AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 01 May 2026 20:25:28 +0000",
-        "normalizedTags": [
-          "wired ai"
-        ],
-        "imageUrl": "/images/2026-05-02/2026-05-02-culture-AI-029.webp"
+        "imageUrl": "/images/2026-05-02/2026-05-02-culture-AI-018.webp"
       }
     ]
   },
@@ -614,36 +394,25 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
-    "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
-    "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
-    "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
-    "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
+    "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+    "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
+    "https://the-decoder.com/even-the-latest-ai-models-make-three-systematic-reasoning-errors-arc-agi-3-analysis-shows/",
+    "https://the-decoder.com/xais-new-custom-voices-feature-turns-a-minute-of-speech-into-a-usable-voice-clone/",
     "https://the-decoder.com/nvidia-ceo-jensen-huang-calls-out-tech-leaders-god-complex-over-reckless-ai-job-loss-predictions/",
     "https://the-decoder.com/elon-musk-calls-himself-a-fool-for-giving-openai-38-million-that-became-an-800-billion-company/",
     "https://the-decoder.com/chatgpt-now-tracks-users-for-ads-by-default-as-openai-looks-for-new-revenue/",
-    "https://the-decoder.com/meta-acquires-assured-robot-intelligence-to-accelerate-humanoid-robot-push/",
-    "https://the-decoder.com/xai-drops-grok-4-3-with-steep-price-cuts-and-an-imagine-agent-mode-for-creative-projects/",
-    "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
-    "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
-    "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
-    "https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/",
     "https://arxiv.org/abs/2604.26999",
-    "https://www.cnbc.com/2026/05/01/cramer-look-ahead-earnings.html",
-    "https://www.cnbc.com/2026/05/01/the-market-isnt-grading-all-big-tech-earnings-the-same-heres-why.html",
-    "https://www.cnbc.com/2026/05/01/apple-stock-rallies-on-q2-earnings-and-q3-guidance.html",
-    "https://www.cnbc.com/2026/05/01/roblox-rblx-stock-child-safety-earnings.html",
-    "https://www.cnbc.com/2026/05/01/atlassian-team-q3-stock-2026-earnings.html",
-    "https://www.nytimes.com/2026/05/01/technology/elon-musk-spacex-private-company-stock.html",
-    "https://www.nytimes.com/2026/05/01/us/politics/pentagon-ai-companies-deals.html",
+    "https://arxiv.org/abs/2604.27007",
+    "https://arxiv.org/abs/2604.27082",
+    "https://arxiv.org/abs/2604.27092",
+    "https://arxiv.org/abs/2604.27096",
+    "https://www.cnbc.com/2026/05/02/the-sp-500-and-nasdaq-kept-their-record-rallies-going-here-are-3-key-takeaways-.html",
+    "https://www.cnbc.com/2026/05/02/musk-testimony-dominated-first-week-musk-v-altman-trial-in-oakland.html",
     "https://www.nytimes.com/2026/05/01/sports/running-shoe-history-adidas-sneakers-london-marathon.html",
-    "https://www.nytimes.com/video/technology/100000010865043/musk-vs-altman-what-is-this-really-about.html",
     "https://www.washingtonpost.com/technology/2026/05/02/musk-altman-openai-trial/",
-    "https://www.theguardian.com/us-news/2026/may/01/pentagon-us-military-pairs-with-spacex-google-openai",
-    "https://www.theguardian.com/society/2026/may/01/un-warns-women-in-public-life-face-increasingly-sophisticated-online-violence",
-    "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/",
-    "https://www.wired.com/story/super-pac-backed-by-openai-and-palantir-is-paying-tiktok-influencers-to-fear-monger-about-china/"
+    "https://www.theguardian.com/technology/2026/may/03/ai-datacentres-australia-opposition",
+    "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/"
   ],
-  "generatedAt": "2026-05-02T11:42:04.222Z",
+  "generatedAt": "2026-05-02T23:34:16.788Z",
   "simpleSummaryImageUrl": "/images/2026-05-02/2026-05-02-summary.webp"
 }
