@@ -1,0 +1,585 @@
+{
+  "date": "2026-05-04",
+  "dateFormatted": "May 4, 2026",
+  "headline": {
+    "title": "‘This is fine’ creator says AI startup stole his art",
+    "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+    "sourceUrl": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+    "sourceName": "TechCrunch AI",
+    "imageUrl": "/images/2026-05-04/2026-05-04-hero.webp"
+  },
+  "simpleSummary": [
+    "Today's edition was assembled directly from RSS feeds without AI curation.",
+    "Browse the stories below for the latest AI news."
+  ],
+  "sections": {
+    "tools": [
+      {
+        "id": "AI-001",
+        "title": "‘This is fine’ creator says AI startup stole his art",
+        "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+        "content": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 03 May 2026 20:16:51 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ],
+        "imageUrl": "/images/2026-05-04/2026-05-04-tools-AI-001.webp"
+      },
+      {
+        "id": "AI-002",
+        "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+        "summary": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
+        "content": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases — where at least one model seemed to be more accurate than human doctors.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 03 May 2026 18:00:09 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ],
+        "imageUrl": "/images/2026-05-04/2026-05-04-tools-AI-002.webp"
+      },
+      {
+        "id": "AI-003",
+        "title": "How the internet’s favorite squirrel dad made the hottest camera app of 2026",
+        "summary": "Downey at home in LA with one of his channel’s frequent guest stars. | Image: The Verge; Shutterstock\t\n\nIt's not hyperbole to call DualShot Recorder an overnight sensation. \nIt took only 12 hours from the time it was released to hit number one on the",
+        "content": "Downey at home in LA with one of his channel’s frequent guest stars. | Image: The Verge; Shutterstock\t\n\nIt's not hyperbole to call DualShot Recorder an overnight sensation. \nIt took only 12 hours from the time it was released to hit number one on the App Store's list of top paid apps. It was a surprise success - but what's even more surprising is the app's origin story: it all started with a cadre of friendly neighborhood squirrels and their favorite caretaker.\nDerrick Downey Jr. built a career ",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr",
+        "sourceName": "The Verge AI",
+        "tags": [
+          "The Verge AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "2026-05-03T13:00:00.000Z",
+        "normalizedTags": [
+          "the verge ai"
+        ],
+        "imageUrl": "/images/2026-05-04/2026-05-04-tools-AI-003.webp"
+      }
+    ],
+    "creative": [
+      {
+        "id": "AI-004",
+        "title": "Cerebras targets $40 billion valuation in second IPO attempt",
+        "summary": "AI chip maker Cerebras Systems is heading to the Nasdaq under the ticker CBRS. The IPO roadshow kicks off Monday, with shares targeted between $115 and $125, Reuters reports, citing a person familiar with the matter.\nThe article Cerebras targets $40 ",
+        "content": "AI chip maker Cerebras Systems is heading to the Nasdaq under the ticker CBRS. The IPO roadshow kicks off Monday, with shares targeted between $115 and $125, Reuters reports, citing a person familiar with the matter.\nThe article Cerebras targets $40 billion valuation in second IPO attempt appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/cerebras-targets-40-billion-valuation-in-second-ipo-attempt/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 04 May 2026 11:11:13 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ],
+        "imageUrl": "/images/2026-05-04/2026-05-04-creative-AI-004.webp"
+      },
+      {
+        "id": "AI-005",
+        "title": "OpenAI says human attention is the bottleneck, so it built a system to let agents manage themselves",
+        "summary": "OpenAI's new Symphony spec flips the AI coding workflow on its head: instead of developers babysitting multiple Codex sessions, agents pull their own tickets straight from Linear and run until the job is done.\nThe article OpenAI says human attention ",
+        "content": "OpenAI's new Symphony spec flips the AI coding workflow on its head: instead of developers babysitting multiple Codex sessions, agents pull their own tickets straight from Linear and run until the job is done.\nThe article OpenAI says human attention is the bottleneck, so it built a system to let agents manage themselves appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/openai-says-human-attention-is-the-bottleneck-so-it-built-a-system-to-let-agents-manage-themselves/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 04 May 2026 09:35:53 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ],
+        "imageUrl": "/images/2026-05-04/2026-05-04-creative-AI-005.webp"
+      },
+      {
+        "id": "AI-006",
+        "title": " Motorslice review: a liminal Shadow of the Colossus-inspired must-play ",
+        "summary": "Brutalist and brilliant.",
+        "content": "Brutalist and brilliant.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.creativebloq.com/entertainment/gaming/motorslice-review-a-liminal-shadow-of-the-colossus-inspired-must-play",
+        "sourceName": "Creative Bloq",
+        "tags": [
+          "Creative Bloq"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 04 May 2026 12:00:00 +0000",
+        "normalizedTags": [
+          "creative bloq"
+        ],
+        "imageUrl": "/images/2026-05-04/2026-05-04-creative-AI-006.webp"
+      },
+      {
+        "id": "AI-007",
+        "title": " I promise this optical illusion wasn’t made in MS Paint ",
+        "summary": "But you’d be forgiven for thinking it was.",
+        "content": "But you’d be forgiven for thinking it was.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.creativebloq.com/creative-inspiration/optical-illusions/i-promise-this-optical-illusion-wasnt-made-in-ms-paint",
+        "sourceName": "Creative Bloq",
+        "tags": [
+          "Creative Bloq"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 04 May 2026 11:00:00 +0000",
+        "normalizedTags": [
+          "creative bloq"
+        ],
+        "imageUrl": "/images/2026-05-04/2026-05-04-creative-AI-007.webp"
+      },
+      {
+        "id": "AI-008",
+        "title": " This Unreal Engine 5 Star Wars racer has surprisingly old-school art direction ",
+        "summary": "Star Wars Galactic Racer's key art is perfectly nostalgic.",
+        "content": "Star Wars Galactic Racer's key art is perfectly nostalgic.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.creativebloq.com/entertainment/gaming/this-unreal-engine-5-star-wars-racer-has-surprisingly-old-school-art-direction",
+        "sourceName": "Creative Bloq",
+        "tags": [
+          "Creative Bloq"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 04 May 2026 10:00:00 +0000",
+        "normalizedTags": [
+          "creative bloq"
+        ],
+        "imageUrl": "/images/2026-05-04/2026-05-04-creative-AI-008.webp"
+      }
+    ],
+    "research": [
+      {
+        "id": "AI-009",
+        "title": "TADI: Tool-Augmented Drilling Intelligence via Agentic LLM Orchestration over Heterogeneous Wellsite Data",
+        "summary": "arXiv:2605.00060v1 Announce Type: new \nAbstract: We present TADI (Tool-Augmented Drilling Intelligence), an agentic AI system that transforms drilling operational data into evidence-based analytical intelligence. Applied to the Equinor Volve Field da",
+        "content": "arXiv:2605.00060v1 Announce Type: new \nAbstract: We present TADI (Tool-Augmented Drilling Intelligence), an agentic AI system that transforms drilling operational data into evidence-based analytical intelligence. Applied to the Equinor Volve Field dataset, TADI integrates 1,759 daily drilling reports, selected WITSML real-time objects, 15,634 production records, formation tops, and perforations into a dual-store architecture: DuckDB for structured queries over 12 tables with 65,447 rows, and Chr",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2605.00060",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 04 May 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ],
+        "imageUrl": "/images/2026-05-04/2026-05-04-research-AI-009.webp"
+      },
+      {
+        "id": "AI-010",
+        "title": "AgentReputation: A Decentralized Agentic AI Reputation Framework",
+        "summary": "arXiv:2605.00073v1 Announce Type: new \nAbstract: Decentralized, agentic AI marketplaces are rapidly emerging to support software engineering tasks such as debugging, patch generation, and security auditing, often operating without centralized oversig",
+        "content": "arXiv:2605.00073v1 Announce Type: new \nAbstract: Decentralized, agentic AI marketplaces are rapidly emerging to support software engineering tasks such as debugging, patch generation, and security auditing, often operating without centralized oversight. However, existing reputation mechanisms fail in this setting for three fundamental reasons: agents can strategically optimize against evaluation procedures; demonstrated competence does not reliably transfer across heterogeneous task contexts; an",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2605.00073",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 04 May 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ],
+        "imageUrl": "/images/2026-05-04/2026-05-04-research-AI-010.webp"
+      },
+      {
+        "id": "AI-011",
+        "title": "Minimal, Local, Causal Explanations for Jailbreak Success in Large Language Models",
+        "summary": "arXiv:2605.00123v1 Announce Type: new \nAbstract: Safety trained large language models (LLMs) can often be induced to answer harmful requests through jailbreak prompts. Because we lack a robust understanding of why LLMs are susceptible to jailbreaks, ",
+        "content": "arXiv:2605.00123v1 Announce Type: new \nAbstract: Safety trained large language models (LLMs) can often be induced to answer harmful requests through jailbreak prompts. Because we lack a robust understanding of why LLMs are susceptible to jailbreaks, future frontier models operating more autonomously in higher-stakes settings may similarly be vulnerable to such attacks. Prior work has studied jailbreak success by examining the model's intermediate representations, identifying directions in this s",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2605.00123",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 04 May 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ],
+        "imageUrl": "/images/2026-05-04/2026-05-04-research-AI-011.webp"
+      },
+      {
+        "id": "AI-012",
+        "title": "Are Tools All We Need? Unveiling the Tool-Use Tax in LLM Agents",
+        "summary": "arXiv:2605.00136v1 Announce Type: new \nAbstract: Tool-augmented reasoning has become a popular direction for LLM-based agents, and it is widely assumed to improve reasoning and reliability. However, we demonstrate that this consensus does not always ",
+        "content": "arXiv:2605.00136v1 Announce Type: new \nAbstract: Tool-augmented reasoning has become a popular direction for LLM-based agents, and it is widely assumed to improve reasoning and reliability. However, we demonstrate that this consensus does not always hold: in the presence of semantic distractors, tool-augmented reasoning does not necessarily outperform native CoT. To explain this performance gap, we propose a Factorized Intervention Framework that isolates the cost of prompt formatting, the overh",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2605.00136",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 04 May 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ],
+        "imageUrl": "/images/2026-05-04/2026-05-04-research-AI-012.webp"
+      },
+      {
+        "id": "AI-013",
+        "title": "TUR-DPO: Topology- and Uncertainty-Aware Direct Preference Optimization",
+        "summary": "arXiv:2605.00224v1 Announce Type: new \nAbstract: Aligning large language models (LLMs) with human preferences is commonly done via reinforcement learning from human feedback (RLHF) with Proximal Policy Optimization (PPO) or, more simply, via Direct P",
+        "content": "arXiv:2605.00224v1 Announce Type: new \nAbstract: Aligning large language models (LLMs) with human preferences is commonly done via reinforcement learning from human feedback (RLHF) with Proximal Policy Optimization (PPO) or, more simply, via Direct Preference Optimization (DPO). While DPO is stable and RL-free, it treats preferences as flat winner vs. loser signals and is sensitive to noisy or brittle preferences arising from fragile chains of thought. We propose TUR-DPO, a topology- and uncerta",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2605.00224",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 04 May 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ],
+        "imageUrl": "/images/2026-05-04/2026-05-04-research-AI-013.webp"
+      }
+    ],
+    "applications": [],
+    "business": [
+      {
+        "id": "AI-014",
+        "title": "Meta's public nuisance case in New Mexico has billion-dollar consequences",
+        "summary": "Meta is back in a Santa Fe courthouse in a child safety case that could determine whether the company is a public nuisance.",
+        "content": "Meta is back in a Santa Fe courthouse in a child safety case that could determine whether the company is a public nuisance.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/05/04/meta-new-mexico-child-safety-facebook-instagram.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 04 May 2026 12:00:01 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ],
+        "imageUrl": "/images/2026-05-04/2026-05-04-business-AI-014.webp"
+      },
+      {
+        "id": "AI-015",
+        "title": "AI chipmaker Cerebras targets $3.5 billion raise in IPO",
+        "summary": "The share sale could give the company a valuation of up to $24.5 billion, compared with $23 billion as of February.",
+        "content": "The share sale could give the company a valuation of up to $24.5 billion, compared with $23 billion as of February.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/05/04/cerebras-ipo-ai-chipmaker.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 04 May 2026 10:45:24 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ],
+        "imageUrl": "/images/2026-05-04/2026-05-04-business-AI-015.webp"
+      },
+      {
+        "id": "AI-016",
+        "title": "Denmark faces data center reckoning as power grid overwhelmed by surging demand",
+        "summary": "The data center industry is facing a reckoning as governments around the world consider imposing limits on the growth of the power-hungry facilities.",
+        "content": "The data center industry is facing a reckoning as governments around the world consider imposing limits on the growth of the power-hungry facilities.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/05/04/denmark-data-centers-moratorium-grid-pause-power-demand.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 04 May 2026 05:00:01 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ],
+        "imageUrl": "/images/2026-05-04/2026-05-04-business-AI-016.webp"
+      },
+      {
+        "id": "AI-017",
+        "title": "Big Tech earnings show how big, smart spending can be rewarded by the market",
+        "summary": "It's obvious from this quarter that the bubble talk has been proven wrong.",
+        "content": "It's obvious from this quarter that the bubble talk has been proven wrong.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/05/03/big-tech-earnings-show-how-big-smart-spending-can-be-rewarded-by-the-market.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 03 May 2026 22:31:09 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ],
+        "imageUrl": "/images/2026-05-04/2026-05-04-business-AI-017.webp"
+      },
+      {
+        "id": "AI-018",
+        "title": "Here are the 3 big things we're watching in the stock market in the week ahead",
+        "summary": "A trio of Club holdings report earnings. Plus, there is Corning's investor day and a fresh batch of jobs data.",
+        "content": "A trio of Club holdings report earnings. Plus, there is Corning's investor day and a fresh batch of jobs data.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/05/03/3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 03 May 2026 15:48:16 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ],
+        "imageUrl": "/images/2026-05-04/2026-05-04-business-AI-018.webp"
+      }
+    ],
+    "policy": [
+      {
+        "id": "AI-019",
+        "title": "Jeeves and Ask.com Shut Down After Almost 30 Years",
+        "summary": "The pioneering search engine shut down on May 1, after nearly 30 years in operation.",
+        "content": "The pioneering search engine shut down on May 1, after nearly 30 years in operation.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/05/03/business/ask-jeeves-shuts-down-internet-search-engine.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 03 May 2026 14:36:36 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-05-04/2026-05-04-policy-AI-019.webp"
+      },
+      {
+        "id": "AI-020",
+        "title": "Driving Electric in Costa Rica Is Surprisingly Doable",
+        "summary": "The charging network is spotty, but it’s a small country.",
+        "content": "The charging network is spotty, but it’s a small country.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/05/03/business/costa-rica-electric-vehicle-road-trip.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 03 May 2026 19:24:12 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-05-04/2026-05-04-policy-AI-020.webp"
+      },
+      {
+        "id": "AI-021",
+        "title": "In Backlash Against Tech in Schools, Parents Are Winning Rollbacks",
+        "summary": "From Salt Lake City to New York City, parents are demanding more sway over the digital tools that schools give children.",
+        "content": "From Salt Lake City to New York City, parents are demanding more sway over the digital tools that schools give children.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/04/29/technology/parents-school-tech-backlash.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 03 May 2026 19:16:42 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-05-04/2026-05-04-policy-AI-021.webp"
+      }
+    ],
+    "concerns": [],
+    "culture": [
+      {
+        "id": "AI-022",
+        "title": "Democrats are counting on Trump’s unpopularity to save them. It won’t | Osita Nwanevu",
+        "summary": "Yes, Trump might carry them to victory in the midterms. But he can’t carry them much longer – especially not in the 2028 elections\nAll told, Democrats already seem as though they’re headed for a great midterm election. Voters already troubled by the ",
+        "content": "Yes, Trump might carry them to victory in the midterms. But he can’t carry them much longer – especially not in the 2028 elections\nAll told, Democrats already seem as though they’re headed for a great midterm election. Voters already troubled by the state of the economy now have the impacts of Donald Trump’s teeter-tottering war in Iran to contend with, and polls tell us they aren’t happy ⁠– per poll averages from the analyst Nate Silver, nearly 55% of Americans oppose the war in Iran, 61% of Am",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/commentisfree/2026/may/04/democrats-trump-election-voter-poll",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 04 May 2026 10:00:20 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-023",
+        "title": "Wikipedia founder brands Australia’s social media ban an ‘unmitigated disaster’ and ‘embarrassment’",
+        "summary": "Jimmy Wales remembers a toxic internet even before social media and says AI is ‘not a disaster’ for the free – and freely edited - online encyclopaedia\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or ",
+        "content": "Jimmy Wales remembers a toxic internet even before social media and says AI is ‘not a disaster’ for the free – and freely edited - online encyclopaedia\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nWikipedia’s founder, Jimmy Wales, has branded the Australian social media ban an “unmitigated disaster” and an “embarrassment” that is teaching kids to accept surveillance from tech companies when they go online.\nThe online encycl",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/may/04/wikipedia-founder-brands-australias-social-media-ban-an-unmitigated-disaster-and-an-embarrassment",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 04 May 2026 06:49:38 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-05-04/2026-05-04-culture-AI-023.webp"
+      },
+      {
+        "id": "AI-024",
+        "title": "Flaws in Kenya’s AI-driven health reforms driving up costs for the poorest",
+        "summary": "Exclusive: amid unrest, President William Ruto promised to give all Kenyans access to healthcare. But the algorithm favours the rich, an investigation has found\n\n\r\n An AI system used to predict how much Kenyans can afford to pay for access to healthc",
+        "content": "Exclusive: amid unrest, President William Ruto promised to give all Kenyans access to healthcare. But the algorithm favours the rich, an investigation has found\n\n\r\n An AI system used to predict how much Kenyans can afford to pay for access to healthcare, has systemically driven up costs for the poor, an investigation has found.\nThe healthcare system being rolled out across the country, a key electoral promise of President William Ruto, was launched in October 2024 and intended to replace Kenya’s",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/global-development/2026/may/04/kenya-ai-healthcare-reforms-driving-up-costs-for-poor",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 04 May 2026 06:00:16 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-05-04/2026-05-04-culture-AI-024.webp"
+      },
+      {
+        "id": "AI-025",
+        "title": "AI facial recognition oversight lagging far behind technology, watchdogs warn",
+        "summary": "Exclusive: Biometrics commissioners say face-scanning not as effective as claimed and new laws needed to regulate use\n\nHow does live facial recognition work and how many police forces use it? \n\nGuilty until proven innocent: shoppers falsely identifie",
+        "content": "Exclusive: Biometrics commissioners say face-scanning not as effective as claimed and new laws needed to regulate use\n\nHow does live facial recognition work and how many police forces use it? \n\nGuilty until proven innocent: shoppers falsely identified by facial recognition\n\nBritain’s biometrics watchdogs have warned that national oversight of AI-powered face scanning to catch criminals is lagging far behind the technology’s rapid growth.\nWith the Metropolitan police almost doubling the number of",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/ng-interactive/2026/may/03/ai-facial-recognition-oversight-lagging-far-behind-technology-watchdogs-warn",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 03 May 2026 16:00:02 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-05-04/2026-05-04-culture-AI-025.webp"
+      },
+      {
+        "id": "AI-026",
+        "title": "How does live facial recognition work and how many UK police forces use it?",
+        "summary": "Technology has been deployed since 2020 in London, leading to concerns over data privacy and racial bias\n\nAI facial recognition oversight lagging far behind technology, watchdogs warn\n\nGuilty until proven innocent: shoppers falsely identified by faci",
+        "content": "Technology has been deployed since 2020 in London, leading to concerns over data privacy and racial bias\n\nAI facial recognition oversight lagging far behind technology, watchdogs warn\n\nGuilty until proven innocent: shoppers falsely identified by facial recognition\n\nThe Labour government thinks facial recognition technology is “the biggest breakthrough for catching criminals since DNA matching”. It wants all police forces to use it and recently announced 40 new vans rigged with live facial recogn",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/ng-interactive/2026/may/03/how-does-live-facial-recognition-work-and-how-many-uk-police-forces-use-it",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 03 May 2026 16:00:00 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-05-04/2026-05-04-culture-AI-026.webp"
+      }
+    ]
+  },
+  "quote": {
+    "text": "The best way to predict the future is to invent it.",
+    "author": "Alan Kay",
+    "authorTitle": "Computer Scientist"
+  },
+  "sources": [
+    "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+    "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+    "https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr",
+    "https://the-decoder.com/cerebras-targets-40-billion-valuation-in-second-ipo-attempt/",
+    "https://the-decoder.com/openai-says-human-attention-is-the-bottleneck-so-it-built-a-system-to-let-agents-manage-themselves/",
+    "https://www.creativebloq.com/entertainment/gaming/motorslice-review-a-liminal-shadow-of-the-colossus-inspired-must-play",
+    "https://www.creativebloq.com/creative-inspiration/optical-illusions/i-promise-this-optical-illusion-wasnt-made-in-ms-paint",
+    "https://www.creativebloq.com/entertainment/gaming/this-unreal-engine-5-star-wars-racer-has-surprisingly-old-school-art-direction",
+    "https://arxiv.org/abs/2605.00060",
+    "https://arxiv.org/abs/2605.00073",
+    "https://arxiv.org/abs/2605.00123",
+    "https://arxiv.org/abs/2605.00136",
+    "https://arxiv.org/abs/2605.00224",
+    "https://www.cnbc.com/2026/05/04/meta-new-mexico-child-safety-facebook-instagram.html",
+    "https://www.cnbc.com/2026/05/04/cerebras-ipo-ai-chipmaker.html",
+    "https://www.cnbc.com/2026/05/04/denmark-data-centers-moratorium-grid-pause-power-demand.html",
+    "https://www.cnbc.com/2026/05/03/big-tech-earnings-show-how-big-smart-spending-can-be-rewarded-by-the-market.html",
+    "https://www.cnbc.com/2026/05/03/3-big-things-were-watching-in-the-stock-market-in-the-week-ahead.html",
+    "https://www.nytimes.com/2026/05/03/business/ask-jeeves-shuts-down-internet-search-engine.html",
+    "https://www.nytimes.com/2026/05/03/business/costa-rica-electric-vehicle-road-trip.html",
+    "https://www.nytimes.com/2026/04/29/technology/parents-school-tech-backlash.html",
+    "https://www.theguardian.com/commentisfree/2026/may/04/democrats-trump-election-voter-poll",
+    "https://www.theguardian.com/technology/2026/may/04/wikipedia-founder-brands-australias-social-media-ban-an-unmitigated-disaster-and-an-embarrassment",
+    "https://www.theguardian.com/global-development/2026/may/04/kenya-ai-healthcare-reforms-driving-up-costs-for-poor",
+    "https://www.theguardian.com/technology/ng-interactive/2026/may/03/ai-facial-recognition-oversight-lagging-far-behind-technology-watchdogs-warn",
+    "https://www.theguardian.com/technology/ng-interactive/2026/may/03/how-does-live-facial-recognition-work-and-how-many-uk-police-forces-use-it"
+  ],
+  "generatedAt": "2026-05-04T12:19:56.782Z",
+  "simpleSummaryImageUrl": "/images/2026-05-04/2026-05-04-summary.webp"
+}
