@@ -2,10 +2,11 @@
   "date": "2026-05-05",
   "dateFormatted": "May 5, 2026",
   "headline": {
-    "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
-    "summary": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.",
-    "sourceUrl": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
-    "sourceName": "TechCrunch AI"
+    "title": "Altara secures $7M to bridge the data gap that’s slowing down physical sciences",
+    "summary": "Altara’s AI aims to diagnose failures and help speed up R&D by unifying  data siloed across spreadsheets and legacy systems.",
+    "sourceUrl": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
+    "sourceName": "TechCrunch AI",
+    "imageUrl": "/images/2026-05-05/2026-05-05-hero.webp"
   },
   "simpleSummary": [
     "Today's edition was assembled directly from RSS feeds without AI curation.",
@@ -15,200 +16,230 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
-        "summary": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.",
-        "content": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.",
+        "title": "Altara secures $7M to bridge the data gap that’s slowing down physical sciences",
+        "summary": "Altara’s AI aims to diagnose failures and help speed up R&D by unifying  data siloed across spreadsheets and legacy systems.",
+        "content": "Altara’s AI aims to diagnose failures and help speed up R&D by unifying  data siloed across spreadsheets and legacy systems.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
+        "sourceUrl": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Tue, 05 May 2026 03:31:54 +0000",
+        "publishedAt": "Tue, 05 May 2026 22:57:41 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-05/2026-05-05-tools-AI-001.webp"
       },
       {
         "id": "AI-002",
-        "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
-        "summary": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich.",
-        "content": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich.",
+        "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
+        "summary": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks.",
+        "content": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+        "sourceUrl": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Mon, 04 May 2026 21:53:21 +0000",
+        "publishedAt": "Tue, 05 May 2026 20:56:41 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-05/2026-05-05-tools-AI-002.webp"
       },
       {
         "id": "AI-003",
-        "title": "Image AI models now drive app growth, beating chatbot upgrades",
-        "summary": "Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.",
-        "content": "Appfigures finds visual model launches generate 6.5x more downloads — but most don’t convert that spike into revenue.",
+        "title": "ASML CEO Christophe Fouquet on his company’s monopoly: no one is coming for us",
+        "summary": "Christophe Fouquet, who became ASML's CEO in 2024 after more than a decade at the company, sat down with this editor on the rooftop deck of his Beverly Hills hotel Tuesday morning ahead of his appearance at the Milken Institute Global Conference. Dre",
+        "content": "Christophe Fouquet, who became ASML's CEO in 2024 after more than a decade at the company, sat down with this editor on the rooftop deck of his Beverly Hills hotel Tuesday morning ahead of his appearance at the Milken Institute Global Conference. Dressed in a blue suit and white shirt, he was relaxed — even when the conversation turned to the rivals.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
+        "sourceUrl": "https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Mon, 04 May 2026 19:12:49 +0000",
+        "publishedAt": "Tue, 05 May 2026 20:06:40 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-05/2026-05-05-tools-AI-003.webp"
       },
       {
         "id": "AI-004",
-        "title": "Elon Musk’s only AI expert witness at the OpenAI trial fears an AGI arms race",
-        "summary": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs.",
-        "content": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs.",
+        "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
+        "summary": "According to Pennsylvania's filing, a Character.AI chatbot presented itself as a licensed psychiatrist during a state investigation, and also fabricated a serial number for its state medical license.",
+        "content": "According to Pennsylvania's filing, a Character.AI chatbot presented itself as a licensed psychiatrist during a state investigation, and also fabricated a serial number for its state medical license.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
+        "sourceUrl": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Mon, 04 May 2026 16:57:47 +0000",
+        "publishedAt": "Tue, 05 May 2026 17:46:10 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-05/2026-05-05-tools-AI-004.webp"
       },
       {
         "id": "AI-005",
-        "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
-        "summary": "The raise gives Sierra more than $1 billion to work with — capital the company says it will use to become the \"global standard\" for AI-powered customer experiences.",
-        "content": "The raise gives Sierra more than $1 billion to work with — capital the company says it will use to become the \"global standard\" for AI-powered customer experiences.",
+        "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+        "summary": "The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its predecessor.",
+        "content": "The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its predecessor.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
+        "sourceUrl": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Mon, 04 May 2026 16:45:55 +0000",
+        "publishedAt": "Tue, 05 May 2026 17:00:00 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-05/2026-05-05-tools-AI-005.webp"
       }
     ],
     "creative": [
       {
         "id": "AI-006",
-        "title": "Amazon brings agentic fine-tuning to SageMaker with support for Llama, Qwen, Deepseek, and Nova",
-        "summary": "Amazon SageMaker AI now includes an AI agent designed to help developers customize language models.\nThe article Amazon brings agentic fine-tuning to SageMaker with support for Llama, Qwen, Deepseek, and Nova appeared first on The Decoder.",
-        "content": "Amazon SageMaker AI now includes an AI agent designed to help developers customize language models.\nThe article Amazon brings agentic fine-tuning to SageMaker with support for Llama, Qwen, Deepseek, and Nova appeared first on The Decoder.",
+        "title": "US government now has pre-release access to AI models from five major labs for national security testing",
+        "summary": "The US Department of Commerce is expanding its AI safety testing: Following Anthropic and OpenAI, Google Deepmind, Microsoft, and xAI have now signed agreements with the Center for AI Standards and Innovation. The companies provide models with reduce",
+        "content": "The US Department of Commerce is expanding its AI safety testing: Following Anthropic and OpenAI, Google Deepmind, Microsoft, and xAI have now signed agreements with the Center for AI Standards and Innovation. The companies provide models with reduced safety guardrails for testing in classified environments amid growing cybersecurity risks and an intensifying tech race with China.\nThe article US government now has pre-release access to AI models from five major labs for national security testing",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/amazon-brings-agentic-fine-tuning-to-sagemaker-with-support-for-llama-qwen-deepseek-and-nova/",
+        "sourceUrl": "https://the-decoder.com/us-government-now-has-pre-release-access-to-ai-models-from-five-major-labs-for-national-security-testing/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Tue, 05 May 2026 10:08:45 +0000",
+        "publishedAt": "Tue, 05 May 2026 18:28:29 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-05/2026-05-05-creative-AI-006.webp"
       },
       {
         "id": "AI-007",
-        "title": "White House briefed Anthropic, Google, and OpenAI on plans for a government AI review process",
-        "summary": "After a year of deregulation, the White House is now discussing an executive order that could subject new AI models to government review before they are released. The trigger is said to be Anthropic's \"Mythos\" model.\nThe article White House briefed A",
-        "content": "After a year of deregulation, the White House is now discussing an executive order that could subject new AI models to government review before they are released. The trigger is said to be Anthropic's \"Mythos\" model.\nThe article White House briefed Anthropic, Google, and OpenAI on plans for a government AI review process appeared first on The Decoder.",
+        "title": "ChatGPT update rolls out GPT-5.5 Instant with fewer hallucinations and more personalized answers",
+        "summary": "OpenAI is swapping out ChatGPT's default model for GPT-5.5 Instant. In internal testing, the update produced 52.5 percent fewer hallucinated claims on high-risk topics like medicine and law. A new feature called \"memory sources\" lets users see which ",
+        "content": "OpenAI is swapping out ChatGPT's default model for GPT-5.5 Instant. In internal testing, the update produced 52.5 percent fewer hallucinated claims on high-risk topics like medicine and law. A new feature called \"memory sources\" lets users see which stored context shaped a given response. The model is rolling out to all ChatGPT users right away, though personalization based on past chats, files, and Gmail launches first for Plus and Pro users on the web.\nThe article ChatGPT update rolls out GPT-",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/white-house-briefed-anthropic-google-and-openai-on-plans-for-a-government-ai-review-process/",
+        "sourceUrl": "https://the-decoder.com/chatgpt-update-rolls-out-gpt-5-5-instant-with-fewer-hallucinations-and-more-personalized-answers/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Tue, 05 May 2026 09:53:31 +0000",
+        "publishedAt": "Tue, 05 May 2026 18:04:50 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-05/2026-05-05-creative-AI-007.webp"
       },
       {
         "id": "AI-008",
-        "title": "Anthropic and OpenAI now agree on one thing: selling AI requires a lot more than just the AI",
-        "summary": "Anthropic, Blackstone, Hellman & Friedman, and Goldman Sachs are launching a new AI services company to help mid-market businesses adopt Claude.\nThe article Anthropic and OpenAI now agree on one thing: selling AI requires a lot more than just the AI ",
-        "content": "Anthropic, Blackstone, Hellman & Friedman, and Goldman Sachs are launching a new AI services company to help mid-market businesses adopt Claude.\nThe article Anthropic and OpenAI now agree on one thing: selling AI requires a lot more than just the AI appeared first on The Decoder.",
+        "title": "OpenAI's first hardware play might be a phone that replaces your app grid with an agent task stream",
+        "summary": "OpenAI is reportedly planning its own AI smartphone, with chips from MediaTek and Qualcomm and manufacturing by Luxshare. According to analyst Ming-Chi Kuo, mass production could start as early as the first half of 2027, with up to 30 million devices",
+        "content": "OpenAI is reportedly planning its own AI smartphone, with chips from MediaTek and Qualcomm and manufacturing by Luxshare. According to analyst Ming-Chi Kuo, mass production could start as early as the first half of 2027, with up to 30 million devices shipped in the first two years. The form factor choice is also an admission that more experimental AI hardware isn't ready for the mainstream yet.\nThe article OpenAI's first hardware play might be a phone that replaces your app grid with an agent ta",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/anthropic-and-openai-now-agree-on-one-thing-selling-ai-requires-a-lot-more-than-just-the-ai/",
+        "sourceUrl": "https://the-decoder.com/openais-first-hardware-play-might-be-a-phone-that-replaces-your-app-grid-with-an-agent-task-stream/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Mon, 04 May 2026 18:04:35 +0000",
+        "publishedAt": "Tue, 05 May 2026 17:14:51 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-05/2026-05-05-creative-AI-008.webp"
       },
       {
         "id": "AI-009",
-        "title": "OpenAI raises over $4 billion for new enterprise deployment venture",
-        "summary": "OpenAI has raised more than $4 billion for a new joint venture called \"The Deployment Company,\" according to Bloomberg. \nThe article OpenAI raises over $4 billion for new enterprise deployment venture appeared first on The Decoder.",
-        "content": "OpenAI has raised more than $4 billion for a new joint venture called \"The Deployment Company,\" according to Bloomberg. \nThe article OpenAI raises over $4 billion for new enterprise deployment venture appeared first on The Decoder.",
+        "title": "Anthropic ships ten AI agents for finance as both it and OpenAI chase IPO-ready revenue",
+        "summary": "Anthropic has released ten preconfigured AI agents for the financial sector that are designed to automate typical tasks performed by investment banks, asset managers and insurers. According to the announcement, the templates cover areas such as resea",
+        "content": "Anthropic has released ten preconfigured AI agents for the financial sector that are designed to automate typical tasks performed by investment banks, asset managers and insurers. According to the announcement, the templates cover areas such as research, risk and compliance checks and financial accounting.\nThe article Anthropic ships ten AI agents for finance as both it and OpenAI chase IPO-ready revenue appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/openai-raises-over-4-billion-for-new-enterprise-deployment-venture/",
+        "sourceUrl": "https://the-decoder.com/anthropic-ships-ten-ai-agents-for-finance-as-both-it-and-openai-chase-ipo-ready-revenue/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Mon, 04 May 2026 14:02:18 +0000",
+        "publishedAt": "Tue, 05 May 2026 16:09:20 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-05/2026-05-05-creative-AI-009.webp"
       },
       {
         "id": "AI-010",
-        "title": "Building AI data centers is becoming a stress test for banks",
-        "summary": "The construction of new AI data centers devours billions in borrowed capital. Major banks such as JPMorgan and Morgan Stanley are now looking for ways to pass on the growing credit risks to other investors.\nThe article Building AI data centers is bec",
-        "content": "The construction of new AI data centers devours billions in borrowed capital. Major banks such as JPMorgan and Morgan Stanley are now looking for ways to pass on the growing credit risks to other investors.\nThe article Building AI data centers is becoming a stress test for banks appeared first on The Decoder.",
+        "title": "Meta now scans photos for bone structure and body size to flag minors on Instagram and Facebook",
+        "summary": "Meta uses AI-supported image analysis to recognize minors on Instagram and Facebook, based on visual characteristics such as body size or bone structure, not facial recognition, as the company emphasizes.\nThe article Meta now scans photos for bone st",
+        "content": "Meta uses AI-supported image analysis to recognize minors on Instagram and Facebook, based on visual characteristics such as body size or bone structure, not facial recognition, as the company emphasizes.\nThe article Meta now scans photos for bone structure and body size to flag minors on Instagram and Facebook appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/building-ai-data-centers-is-becoming-a-stress-test-for-banks/",
+        "sourceUrl": "https://the-decoder.com/meta-now-scans-photos-for-bone-structure-and-body-size-to-flag-minors-on-instagram-and-facebook/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Mon, 04 May 2026 13:21:07 +0000",
+        "publishedAt": "Tue, 05 May 2026 15:49:32 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-05/2026-05-05-creative-AI-010.webp"
       }
     ],
     "research": [
       {
         "id": "AI-011",
+        "title": "The Download: inside the Musk v. Altman trial, and AI for democracy",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Week one of the Musk v. Altman trial: what it was like in the room Two of the most powerful figures in AI—Sam Al",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Week one of the Musk v. Altman trial: what it was like in the room Two of the most powerful figures in AI—Sam Altman and Elon Musk—are in the middle of…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 05 May 2026 12:10:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ],
+        "imageUrl": "/images/2026-05-05/2026-05-05-research-AI-011.webp"
+      },
+      {
+        "id": "AI-012",
         "title": "A blueprint for using AI to strengthen democracy",
         "summary": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, representative government. The telegraph made it possi",
         "content": "Every few centuries, changes in how information moves reshape how societies govern themselves. The printing press spread vernacular literacy, helping give rise to the Reformation and, eventually, representative government. The telegraph made it possible to administer vast nations like the US, accelerating the growth of the modern bureaucratic state. Broadcast media created shared national audiences,…",
@@ -224,48 +255,11 @@
         "publishedAt": "Tue, 05 May 2026 09:00:00 +0000",
         "normalizedTags": [
           "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-012",
-        "title": "Week one of the Musk v. Altman trial: What it was like in the room",
-        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Two of the most powerful people in AI—Sam Altman and Elon Musk—began their face-off in court in Oakland, Califor",
-        "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Two of the most powerful people in AI—Sam Altman and Elon Musk—began their face-off in court in Oakland, California, last week. Musk is suing OpenAI, alleging that the millions he spent to…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
         ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 04 May 2026 15:51:27 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
+        "imageUrl": "/images/2026-05-05/2026-05-05-research-AI-012.webp"
       },
       {
         "id": "AI-013",
-        "title": "Tailoring AI solutions for health care needs",
-        "summary": "The AI market is full of big promises of grand transformation. Health care is a prime target for those promises, beset as it is by financial pressures, labor shortages, and the growing burden of caring for an aging population. AI developers are targe",
-        "content": "The AI market is full of big promises of grand transformation. Health care is a prime target for those promises, beset as it is by financial pressures, labor shortages, and the growing burden of caring for an aging population. AI developers are targeting functions that vary widely, from curing cancer and performing surgery to streamlining…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 04 May 2026 13:00:00 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-014",
         "title": "TADI: Tool-Augmented Drilling Intelligence via Agentic LLM Orchestration over Heterogeneous Wellsite Data",
         "summary": "arXiv:2605.00060v1 Announce Type: new \nAbstract: We present TADI (Tool-Augmented Drilling Intelligence), an agentic AI system that transforms drilling operational data into evidence-based analytical intelligence. Applied to the Equinor Volve Field da",
         "content": "arXiv:2605.00060v1 Announce Type: new \nAbstract: We present TADI (Tool-Augmented Drilling Intelligence), an agentic AI system that transforms drilling operational data into evidence-based analytical intelligence. Applied to the Equinor Volve Field dataset, TADI integrates 1,759 daily drilling reports, selected WITSML real-time objects, 15,634 production records, formation tops, and perforations into a dual-store architecture: DuckDB for structured queries over 12 tables with 65,447 rows, and Chr",
@@ -281,10 +275,11 @@
         "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
         "normalizedTags": [
           "arxiv cs.ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-05/2026-05-05-research-AI-013.webp"
       },
       {
-        "id": "AI-015",
+        "id": "AI-014",
         "title": "AgentReputation: A Decentralized Agentic AI Reputation Framework",
         "summary": "arXiv:2605.00073v1 Announce Type: new \nAbstract: Decentralized, agentic AI marketplaces are rapidly emerging to support software engineering tasks such as debugging, patch generation, and security auditing, often operating without centralized oversig",
         "content": "arXiv:2605.00073v1 Announce Type: new \nAbstract: Decentralized, agentic AI marketplaces are rapidly emerging to support software engineering tasks such as debugging, patch generation, and security auditing, often operating without centralized oversight. However, existing reputation mechanisms fail in this setting for three fundamental reasons: agents can strategically optimize against evaluation procedures; demonstrated competence does not reliably transfer across heterogeneous task contexts; an",
@@ -300,126 +295,153 @@
         "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
         "normalizedTags": [
           "arxiv cs.ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-05/2026-05-05-research-AI-014.webp"
+      },
+      {
+        "id": "AI-015",
+        "title": "Minimal, Local, Causal Explanations for Jailbreak Success in Large Language Models",
+        "summary": "arXiv:2605.00123v1 Announce Type: new \nAbstract: Safety trained large language models (LLMs) can often be induced to answer harmful requests through jailbreak prompts. Because we lack a robust understanding of why LLMs are susceptible to jailbreaks, ",
+        "content": "arXiv:2605.00123v1 Announce Type: new \nAbstract: Safety trained large language models (LLMs) can often be induced to answer harmful requests through jailbreak prompts. Because we lack a robust understanding of why LLMs are susceptible to jailbreaks, future frontier models operating more autonomously in higher-stakes settings may similarly be vulnerable to such attacks. Prior work has studied jailbreak success by examining the model's intermediate representations, identifying directions in this s",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2605.00123",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 05 May 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ],
+        "imageUrl": "/images/2026-05-05/2026-05-05-research-AI-015.webp"
       }
     ],
     "applications": [],
     "business": [
       {
         "id": "AI-016",
-        "title": "Coinbase cuts headcount by 14% citing AI acceleration. The shares are gaining",
-        "summary": "Coinbase will cut roughly 14% of its workforce, citing a combination of market volatility and the how AI is quickly changing how the company operates.",
-        "content": "Coinbase will cut roughly 14% of its workforce, citing a combination of market volatility and the how AI is quickly changing how the company operates.",
+        "title": "Jim Cramer: Here's the list of AI winners to buy for 2026 and beyond",
+        "summary": "CNBC's Jim Cramer said the data center and artificial intelligence boom is spreading far beyond tech companies and into nearly every corner of the market.",
+        "content": "CNBC's Jim Cramer said the data center and artificial intelligence boom is spreading far beyond tech companies and into nearly every corner of the market.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/05/05/coinbase-cuts-headcount-by-14percent-citing-ai-acceleration-the-shares-are-gaining.html",
+        "sourceUrl": "https://www.cnbc.com/2026/05/05/jim-cramer-ai-winners-to-buy.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Tue, 05 May 2026 11:48:52 GMT",
+        "publishedAt": "Tue, 05 May 2026 22:29:17 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-05/2026-05-05-business-AI-016.webp"
       },
       {
         "id": "AI-017",
-        "title": "Andy Jassy says Amazon investors will be rewarded by all its AI spending",
-        "summary": "CEO Andy Jassy said Amazon’s massive AI spending reflects a once-in-a-generation opportunity and will ultimately reward investors.",
-        "content": "CEO Andy Jassy said Amazon’s massive AI spending reflects a once-in-a-generation opportunity and will ultimately reward investors.",
+        "title": "OpenAI trial: Brockman rebuts Musk's take on startup's history, recounts secret work for Tesla",
+        "summary": "OpenAI President Greg Brockman concluded his testimony on Tuesday as the blockbuster trial between the AI startup and Elon Musk rolled into its second week.",
+        "content": "OpenAI President Greg Brockman concluded his testimony on Tuesday as the blockbuster trial between the AI startup and Elon Musk rolled into its second week.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/05/04/andy-jassy-amazon-investors-rewarded-ai-spending.html",
+        "sourceUrl": "https://www.cnbc.com/2026/05/05/open-ai-altman-musk-trial-brockman-testimony.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Tue, 05 May 2026 00:38:58 GMT",
+        "publishedAt": "Tue, 05 May 2026 22:27:03 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-05/2026-05-05-business-AI-017.webp"
       },
       {
         "id": "AI-018",
-        "title": "Jim Cramer says to own these types of stocks that 'dominate the new economy' ",
-        "summary": "CNBC's Jim Cramer said the computer-driven economy doesn't care about oil prices or interest rates.",
-        "content": "CNBC's Jim Cramer said the computer-driven economy doesn't care about oil prices or interest rates.",
+        "title": "Super Micro stock jumps 18% on guidance beat as revenue more than doubles",
+        "summary": "Super Micro pointed to progress in U.S. manufacturing in issuing a stronger-than-expected quarterly forecast.",
+        "content": "Super Micro pointed to progress in U.S. manufacturing in issuing a stronger-than-expected quarterly forecast.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/05/04/jim-cramer-own-stocks-dominate-new-economy.html",
+        "sourceUrl": "https://www.cnbc.com/2026/05/05/super-micro-smci-q3-earnings-report-2026.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Mon, 04 May 2026 22:25:45 GMT",
+        "publishedAt": "Tue, 05 May 2026 22:45:25 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-05/2026-05-05-business-AI-018.webp"
       },
       {
         "id": "AI-019",
-        "title": "OpenAI sales leader leaves for role at Thrive Capital",
-        "summary": "James Dyett joined OpenAI in 2023, shortly after the company underwent a period of explosive growth with the launch of its ChatGPT chatbot.",
-        "content": "James Dyett joined OpenAI in 2023, shortly after the company underwent a period of explosive growth with the launch of its ChatGPT chatbot.",
+        "title": "AMD's stock soars 15% as data center growth pushes revenue and guidance past estimates ",
+        "summary": "AMD's earnings report lands as investors rush into the stock on optimism that the AI boom is just getting started.",
+        "content": "AMD's earnings report lands as investors rush into the stock on optimism that the AI boom is just getting started.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/05/04/open-ai-executive-leaves-thrive-capital.html",
+        "sourceUrl": "https://www.cnbc.com/2026/05/05/amd-q1-2026-earnings-report.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Mon, 04 May 2026 22:54:54 GMT",
+        "publishedAt": "Tue, 05 May 2026 23:01:37 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-05/2026-05-05-business-AI-019.webp"
       },
       {
         "id": "AI-020",
-        "title": "SEC and Elon Musk agree to settle lawsuit over Twitter buyout in 2022",
-        "summary": "The SEC and Elon Musk agreed to settle a lawsuit filed by the regulator last year against the world's richest person.",
-        "content": "The SEC and Elon Musk agreed to settle a lawsuit filed by the regulator last year against the world's richest person.",
+        "title": "Micron zooms past $700 billion market cap as rally in memory stocks accelerates",
+        "summary": "Micron has emerged as one of the most valuable U.S. tech companies thanks to insatiable demand for memory that's needed in AI chips.",
+        "content": "Micron has emerged as one of the most valuable U.S. tech companies thanks to insatiable demand for memory that's needed in AI chips.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/05/04/sec-and-elon-musk-agree-to-settle-lawsuit-over-twitter-buyout-in-2022.html",
+        "sourceUrl": "https://www.cnbc.com/2026/05/05/micron-zooms-past-700-billion-market-cap-rally-in-memory-stocks-.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Mon, 04 May 2026 20:52:38 GMT",
+        "publishedAt": "Tue, 05 May 2026 20:23:48 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-05/2026-05-05-business-AI-020.webp"
       }
     ],
     "policy": [
       {
         "id": "AI-021",
-        "title": "White House Considers Vetting A.I. Models Before They Are Released",
-        "summary": "The Trump administration, which took a noninterventionist approach to artificial intelligence, is now discussing imposing oversight on A.I. models before they are made publicly available.",
-        "content": "The Trump administration, which took a noninterventionist approach to artificial intelligence, is now discussing imposing oversight on A.I. models before they are made publicly available.",
+        "title": "S.E.C. Settles Lawsuit Against Elon Musk Over His Twitter Disclosures",
+        "summary": "The agency, which has been pulling back on lawsuits against major companies, ended a case that had accused Mr. Musk of hiding his purchases of Twitter stock. He agreed to pay $1.5 million.",
+        "content": "The agency, which has been pulling back on lawsuits against major companies, ended a case that had accused Mr. Musk of hiding his purchases of Twitter stock. He agreed to pay $1.5 million.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html",
+        "sourceUrl": "https://www.nytimes.com/2026/05/04/technology/musk-sec-settlement-twitter.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Mon, 04 May 2026 22:37:30 +0000",
+        "publishedAt": "Tue, 05 May 2026 01:22:06 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-05/2026-05-05-policy-AI-021.webp"
       },
       {
         "id": "AI-022",
@@ -438,162 +460,171 @@
         "publishedAt": "Tue, 05 May 2026 02:03:14 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-05/2026-05-05-policy-AI-022.webp"
       },
       {
         "id": "AI-023",
-        "title": "S.E.C. Settles Lawsuit Against Elon Musk Over His Twitter Disclosures",
-        "summary": "The agency, which has been pulling back on lawsuits against major companies, ended a case that had accused Mr. Musk of hiding his purchases of Twitter stock. He agreed to pay $1.5 million.",
-        "content": "The agency, which has been pulling back on lawsuits against major companies, ended a case that had accused Mr. Musk of hiding his purchases of Twitter stock. He agreed to pay $1.5 million.",
+        "title": "Elon Musk Wanted OpenAI to Go Commercial, Greg Brockman Testifies",
+        "summary": "Greg Brockman, OpenAI’s president, testified in a trial pitting Mr. Musk against his company that the world’s richest man was eager to change how it operated as a nonprofit.",
+        "content": "Greg Brockman, OpenAI’s president, testified in a trial pitting Mr. Musk against his company that the world’s richest man was eager to change how it operated as a nonprofit.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/05/04/technology/musk-sec-settlement-twitter.html",
+        "sourceUrl": "https://www.nytimes.com/2026/05/05/technology/openai-trial-elon-musk-greg-brockman.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Tue, 05 May 2026 01:22:06 +0000",
+        "publishedAt": "Tue, 05 May 2026 23:25:30 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-05/2026-05-05-policy-AI-023.webp"
       },
       {
         "id": "AI-024",
-        "title": "Elon Musk’s Lawyers Ask OpenAI’s President Why He Is Worth $30 Billion",
-        "summary": "The legal team implied in a federal trial that Greg Brockman, OpenAI’s president and co-founder, was driven by greed rather than building safe A.I.",
-        "content": "The legal team implied in a federal trial that Greg Brockman, OpenAI’s president and co-founder, was driven by greed rather than building safe A.I.",
+        "title": "Apple Reaches $250 Million Settlement Over Claims It Misled People on A.I.",
+        "summary": "Some iPhone owners will be eligible to receive $25 to $95 over claims that the tech giant oversold its artificial intelligence system, Apple Intelligence.",
+        "content": "Some iPhone owners will be eligible to receive $25 to $95 over claims that the tech giant oversold its artificial intelligence system, Apple Intelligence.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/05/04/technology/elon-musk-greg-brockman-openai-trial.html",
+        "sourceUrl": "https://www.nytimes.com/2026/05/05/technology/apple-intelligence-lawsuit-settlement.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Mon, 04 May 2026 22:24:31 +0000",
+        "publishedAt": "Tue, 05 May 2026 20:57:07 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-05/2026-05-05-policy-AI-024.webp"
       },
       {
         "id": "AI-025",
-        "title": "A.I. Bots Told Scientists How to Make Biological Weapons",
-        "summary": "Scientists shared transcripts with The Times in which chatbots described how to assemble deadly pathogens and unleash them in public spaces.",
-        "content": "Scientists shared transcripts with The Times in which chatbots described how to assemble deadly pathogens and unleash them in public spaces.",
+        "title": "Coinbase Lays Off 14% of Employees as A.I. Changes Work",
+        "summary": "The largest U.S. crypto exchange said it was cutting jobs because of cryptocurrency market volatility and to “optimize” for the artificial intelligence era.",
+        "content": "The largest U.S. crypto exchange said it was cutting jobs because of cryptocurrency market volatility and to “optimize” for the artificial intelligence era.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/04/29/us/ai-chatbots-biological-weapons.html",
+        "sourceUrl": "https://www.nytimes.com/2026/05/05/technology/coinbase-layoffs-ai.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Mon, 04 May 2026 15:07:07 +0000",
+        "publishedAt": "Tue, 05 May 2026 18:19:50 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-05/2026-05-05-policy-AI-025.webp"
       }
     ],
     "concerns": [],
     "culture": [
       {
         "id": "AI-026",
-        "title": "AI platforms reference Nigel Farage more than other leaders when prompted on UK politics, study shows",
-        "summary": "Reform UK is ‘doing something right when it comes to visibility’ on multiple AI systems, say researchers\nAI platforms are more likely to reference Nigel Farage than any other UK leader when prompted about British politics, according to an AI search a",
-        "content": "Reform UK is ‘doing something right when it comes to visibility’ on multiple AI systems, say researchers\nAI platforms are more likely to reference Nigel Farage than any other UK leader when prompted about British politics, according to an AI search analytics firm.\n“We are confident in saying that Reform are showing up significantly more than you would expect,” said Malte Landwehr, an expert at Peec AI, the firm that did the research. “So they’re doing something right when it comes to LLM [large ",
+        "title": "Richard Dawkins concludes AI is conscious, even if it doesn’t know it",
+        "summary": "Chats with AI bots have convinced evolutionary biologist but most experts say he is being misled by mimicry\nWhen Richard Dawkins met Claudia it was like a whirlwind romance. Over three days last week, a conversation bounced between the evolutionary b",
+        "content": "Chats with AI bots have convinced evolutionary biologist but most experts say he is being misled by mimicry\nWhen Richard Dawkins met Claudia it was like a whirlwind romance. Over three days last week, a conversation bounced between the evolutionary biologist and the AI bot he called Claudia. “She” wrote poems for him in the manner of Keats and Betjeman and laughed at his “delightful” jokes. Dawkins gently admonished Claudia to avoid showing off. Together, they reflected on the sadness of the AI’",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/may/04/ai-platforms-nigel-farage-prompted-uk-politics-study",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/may/05/richard-dawkins-ai-consciousness-anthropic-claude-openai-chatgpt",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Mon, 04 May 2026 16:00:27 GMT",
+        "publishedAt": "Tue, 05 May 2026 15:17:19 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-05/2026-05-05-culture-AI-026.webp"
       },
       {
         "id": "AI-027",
-        "title": "An AI version of Milton’s Paradise Lost is fundamentally unworthy of one of the great works of art",
-        "summary": "Pulp Fiction co-writer Roger Avary wants to bring the epic poem to the big screen using the power of artificial intelligence. It can’t be any good\nThe thing about unfilmable works of literature is that most of them eventually turn out to be quite fil",
-        "content": "Pulp Fiction co-writer Roger Avary wants to bring the epic poem to the big screen using the power of artificial intelligence. It can’t be any good\nThe thing about unfilmable works of literature is that most of them eventually turn out to be quite filmable after all. The Lord of the Rings was a bit of a mess when shot in rotoscope on a minuscule budget by the guy who filmed Fritz the Cat; it won Oscars when handed to Peter Jackson, given the GDP of a small nation and a visual effects department t",
+        "title": "Apple agrees to pay $250m after falsely claiming AI-powered Siri was ‘available now’",
+        "summary": "Settlement, which includes no admission of wrongdoing, covers roughly 36m eligible devices in class-action lawsuit\nApple on Tuesday agreed to pay $250m to settle a class-action lawsuit accusing it of misleading millions of iPhone buyers by falsely to",
+        "content": "Settlement, which includes no admission of wrongdoing, covers roughly 36m eligible devices in class-action lawsuit\nApple on Tuesday agreed to pay $250m to settle a class-action lawsuit accusing it of misleading millions of iPhone buyers by falsely touting artificial intelligence capabilities for its Siri voice assistant in late 2024.\nPlaintiffs accused the California tech giant of having “promoted AI capabilities that did not exist at the time, do not exist now, and will not exist for two or mor",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/film/2026/may/05/ai-paradise-lost-fundamentally-unworthy-roger-avary",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/may/05/apple-siri-ai-settlement",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Tue, 05 May 2026 09:25:15 GMT",
+        "publishedAt": "Tue, 05 May 2026 23:14:41 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-05/2026-05-05-culture-AI-027.webp"
       },
       {
         "id": "AI-028",
-        "title": "Tuesday briefing: How AI facial recognition in policing works – and how it can go wrong",
-        "summary": "In today’s newsletter: With the use of facial recognition skyrocketing, there are calls for the rapid development of safeguards\nGood morning. Over the last couple of days, the Guardian has been reporting that facial recognition technology is being ro",
-        "content": "In today’s newsletter: With the use of facial recognition skyrocketing, there are calls for the rapid development of safeguards\nGood morning. Over the last couple of days, the Guardian has been reporting that facial recognition technology is being rolled out across the UK at a pace that appears to be outstripping the rules designed to govern it. Police forces are increasingly using live systems to scan members of the public in real time, while retailers are deploying similar tools to identify su",
+        "title": "US and tech firms strike deal to review AI models for national security before public release",
+        "summary": "Microsoft, Google DeepMind and xAI products to be vetted for cybersecurity, biosecurity and chemical weapons risks\nThe US government has struck deals with Google DeepMind, Microsoft and xAI to review early versions of their new AI models before they ",
+        "content": "Microsoft, Google DeepMind and xAI products to be vetted for cybersecurity, biosecurity and chemical weapons risks\nThe US government has struck deals with Google DeepMind, Microsoft and xAI to review early versions of their new AI models before they are released to the public.\nThe Center for AI Standards and Innovation (CAISI), part of the US Department of Commerce, announced the agreements on Tuesday, saying the review process would be key to understanding the capabilities of new and powerful A",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/world/2026/may/05/tuesday-briefing-how-ai-facial-recognition-in-policing-works-and-how-it-can-go-wrong",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/may/05/commerce-department-ai-agreements-google-microsoft-xai",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Tue, 05 May 2026 05:45:43 GMT",
+        "publishedAt": "Tue, 05 May 2026 18:44:22 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-05/2026-05-05-culture-AI-028.webp"
       },
       {
         "id": "AI-029",
-        "title": "Google DeepMind workers in UK vote to unionize amid deal with US military",
-        "summary": "Exclusive: Worker pointed to Iran war and Pentagon’s Anthropic feud as indications the department is ‘not a responsible partner’\nWorkers developing Google’s artificial intelligence products in the UK have voted to unionize, in part out of concerns ab",
-        "content": "Exclusive: Worker pointed to Iran war and Pentagon’s Anthropic feud as indications the department is ‘not a responsible partner’\nWorkers developing Google’s artificial intelligence products in the UK have voted to unionize, in part out of concerns about a deal between the company and the US military that was announced last week.\nIn a letter slated to go to management on Tuesday and shared exclusively with the Guardian, workers at Google DeepMind, the company’s AI research laboratory, requested r",
+        "title": "OpenAI president’s ‘deeply personal’ diary becomes focus in Musk’s case against Altman",
+        "summary": "Greg Brockman has faced questions about his emails, texts and writings in his personal diary in second week of the trial\nAs Elon Musk’s case against OpenAI entered its second week, focus shifted to the company’s president, Greg Brockman. Over the cou",
+        "content": "Greg Brockman has faced questions about his emails, texts and writings in his personal diary in second week of the trial\nAs Elon Musk’s case against OpenAI entered its second week, focus shifted to the company’s president, Greg Brockman. Over the course of several hours on Monday and Tuesday, Brockman faced questions about his emails, texts and one piece of evidence that has become central to the trial: his personal diary.\nMusk’s lawsuit revolves around his allegation that Brockman, OpenAI and i",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/us-news/2026/may/04/google-deepmind-uk-workers-union",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/may/05/openai-president-personal-diary-musk-altman-case",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Tue, 05 May 2026 05:05:42 GMT",
+        "publishedAt": "Tue, 05 May 2026 18:30:33 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-05/2026-05-05-culture-AI-029.webp"
       },
       {
         "id": "AI-030",
-        "title": "Canadian fiddler sues Google after AI Overview wrongly claimed he was a sex offender",
-        "summary": "Ashley MacIsaac, who is seeking $1.5m in civil lawsuit, says inaccurate information led to concert cancellation\nAn acclaimed Canadian fiddle player has launched a $1.5m civil lawsuit against Google, alleging that the online giant defamed him by false",
-        "content": "Ashley MacIsaac, who is seeking $1.5m in civil lawsuit, says inaccurate information led to concert cancellation\nAn acclaimed Canadian fiddle player has launched a $1.5m civil lawsuit against Google, alleging that the online giant defamed him by falsely identifying him as a sex offender in an AI-generated summary of his life and career.\nAshley MacIsaac, a three-time Juno award-winning musician, filed the claim in the Ontario superior court of justice, asserting that Google was liable for the “for",
+        "title": "Major publishers sue Meta for copyright infringement over AI training",
+        "summary": "Hachette, Macmillan and others allege that Meta pirated millions of works from textbooks to novels for Llama model\nFive major publishers sued Meta Platforms in Manhattan federal court on Tuesday, alleging that the tech giant misused their books and j",
+        "content": "Hachette, Macmillan and others allege that Meta pirated millions of works from textbooks to novels for Llama model\nFive major publishers sued Meta Platforms in Manhattan federal court on Tuesday, alleging that the tech giant misused their books and journal articles to train its artificial intelligence models.\nElsevier, Cengage, Hachette, Macmillan and McGraw Hill, as well as author Scott Turow, alleged in the proposed class-action complaint that Meta pirated millions of their works and used them",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/may/05/publishers-sue-meta-copyright-ai",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Tue, 05 May 2026 02:22:38 GMT",
+        "publishedAt": "Tue, 05 May 2026 17:05:53 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-05/2026-05-05-culture-AI-030.webp"
       }
     ]
   },
@@ -603,36 +634,37 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
-    "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
-    "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
-    "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
-    "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
-    "https://the-decoder.com/amazon-brings-agentic-fine-tuning-to-sagemaker-with-support-for-llama-qwen-deepseek-and-nova/",
-    "https://the-decoder.com/white-house-briefed-anthropic-google-and-openai-on-plans-for-a-government-ai-review-process/",
-    "https://the-decoder.com/anthropic-and-openai-now-agree-on-one-thing-selling-ai-requires-a-lot-more-than-just-the-ai/",
-    "https://the-decoder.com/openai-raises-over-4-billion-for-new-enterprise-deployment-venture/",
-    "https://the-decoder.com/building-ai-data-centers-is-becoming-a-stress-test-for-banks/",
+    "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
+    "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
+    "https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/",
+    "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
+    "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+    "https://the-decoder.com/us-government-now-has-pre-release-access-to-ai-models-from-five-major-labs-for-national-security-testing/",
+    "https://the-decoder.com/chatgpt-update-rolls-out-gpt-5-5-instant-with-fewer-hallucinations-and-more-personalized-answers/",
+    "https://the-decoder.com/openais-first-hardware-play-might-be-a-phone-that-replaces-your-app-grid-with-an-agent-task-stream/",
+    "https://the-decoder.com/anthropic-ships-ten-ai-agents-for-finance-as-both-it-and-openai-chase-ipo-ready-revenue/",
+    "https://the-decoder.com/meta-now-scans-photos-for-bone-structure-and-body-size-to-flag-minors-on-instagram-and-facebook/",
+    "https://www.technologyreview.com/2026/05/05/1136848/the-download-musk-openai-altman-trial-ai-democracy/",
     "https://www.technologyreview.com/2026/05/05/1136843/ai-democracy-blueprint/",
-    "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/",
-    "https://www.technologyreview.com/2026/05/04/1134425/tailoring-ai-solutions-for-health-care-needs/",
     "https://arxiv.org/abs/2605.00060",
     "https://arxiv.org/abs/2605.00073",
-    "https://www.cnbc.com/2026/05/05/coinbase-cuts-headcount-by-14percent-citing-ai-acceleration-the-shares-are-gaining.html",
-    "https://www.cnbc.com/2026/05/04/andy-jassy-amazon-investors-rewarded-ai-spending.html",
-    "https://www.cnbc.com/2026/05/04/jim-cramer-own-stocks-dominate-new-economy.html",
-    "https://www.cnbc.com/2026/05/04/open-ai-executive-leaves-thrive-capital.html",
-    "https://www.cnbc.com/2026/05/04/sec-and-elon-musk-agree-to-settle-lawsuit-over-twitter-buyout-in-2022.html",
-    "https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html",
-    "https://www.nytimes.com/2026/05/04/business/anthropic-blackstone-goldman-sachs-artificial-intelligence-firm.html",
+    "https://arxiv.org/abs/2605.00123",
+    "https://www.cnbc.com/2026/05/05/jim-cramer-ai-winners-to-buy.html",
+    "https://www.cnbc.com/2026/05/05/open-ai-altman-musk-trial-brockman-testimony.html",
+    "https://www.cnbc.com/2026/05/05/super-micro-smci-q3-earnings-report-2026.html",
+    "https://www.cnbc.com/2026/05/05/amd-q1-2026-earnings-report.html",
+    "https://www.cnbc.com/2026/05/05/micron-zooms-past-700-billion-market-cap-rally-in-memory-stocks-.html",
     "https://www.nytimes.com/2026/05/04/technology/musk-sec-settlement-twitter.html",
-    "https://www.nytimes.com/2026/05/04/technology/elon-musk-greg-brockman-openai-trial.html",
-    "https://www.nytimes.com/2026/04/29/us/ai-chatbots-biological-weapons.html",
-    "https://www.theguardian.com/technology/2026/may/04/ai-platforms-nigel-farage-prompted-uk-politics-study",
-    "https://www.theguardian.com/film/2026/may/05/ai-paradise-lost-fundamentally-unworthy-roger-avary",
-    "https://www.theguardian.com/world/2026/may/05/tuesday-briefing-how-ai-facial-recognition-in-policing-works-and-how-it-can-go-wrong",
-    "https://www.theguardian.com/us-news/2026/may/04/google-deepmind-uk-workers-union",
-    "https://www.theguardian.com/music/2026/may/05/canadian-ashley-macisaac-fiddler-musician-singer-songwriter-sues-google-ai-sex-offender-ntwnfb"
+    "https://www.nytimes.com/2026/05/04/business/anthropic-blackstone-goldman-sachs-artificial-intelligence-firm.html",
+    "https://www.nytimes.com/2026/05/05/technology/openai-trial-elon-musk-greg-brockman.html",
+    "https://www.nytimes.com/2026/05/05/technology/apple-intelligence-lawsuit-settlement.html",
+    "https://www.nytimes.com/2026/05/05/technology/coinbase-layoffs-ai.html",
+    "https://www.theguardian.com/technology/2026/may/05/richard-dawkins-ai-consciousness-anthropic-claude-openai-chatgpt",
+    "https://www.theguardian.com/technology/2026/may/05/apple-siri-ai-settlement",
+    "https://www.theguardian.com/technology/2026/may/05/commerce-department-ai-agreements-google-microsoft-xai",
+    "https://www.theguardian.com/technology/2026/may/05/openai-president-personal-diary-musk-altman-case",
+    "https://www.theguardian.com/technology/2026/may/05/publishers-sue-meta-copyright-ai"
   ],
-  "generatedAt": "2026-05-05T11:57:56.809Z"
+  "generatedAt": "2026-05-05T23:40:20.852Z",
+  "simpleSummaryImageUrl": "/images/2026-05-05/2026-05-05-summary.webp"
 }
