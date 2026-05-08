@@ -1,0 +1,638 @@
+{
+  "date": "2026-05-08",
+  "dateFormatted": "May 8, 2026",
+  "headline": {
+    "title": "Why you can never get your doctor to call you back",
+    "summary": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the founders say the administrative staff they work with a",
+    "sourceUrl": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
+    "sourceName": "TechCrunch AI"
+  },
+  "simpleSummary": [
+    "Today's edition was assembled directly from RSS feeds without AI curation.",
+    "Browse the stories below for the latest AI news."
+  ],
+  "sections": {
+    "tools": [
+      {
+        "id": "AI-001",
+        "title": "Why you can never get your doctor to call you back",
+        "summary": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the founders say the administrative staff they work with a",
+        "content": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the founders say the administrative staff they work with aren't worried about that; they're more worried about drowning.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 08 May 2026 04:42:29 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-002",
+        "title": "OpenAI launches new voice intelligence features in its API",
+        "summary": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
+        "content": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 07 May 2026 22:24:50 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-003",
+        "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
+        "summary": "AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
+        "content": "AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 07 May 2026 21:02:11 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-004",
+        "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
+        "summary": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm.",
+        "content": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 07 May 2026 20:20:20 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-005",
+        "title": "Perplexity’s Personal Computer is now available to everyone on Mac",
+        "summary": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone.",
+        "content": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 07 May 2026 19:57:59 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      }
+    ],
+    "creative": [
+      {
+        "id": "AI-006",
+        "title": "OpenAI opens GPT-5.5-Cyber to vetted security researchers",
+        "summary": "OpenAI is releasing GPT-5.5-Cyber, a model variant that rejects far fewer security requests and even actively executes exploits against test servers. Access is limited to verified defenders of critical infrastructure, including partners like Cisco, C",
+        "content": "OpenAI is releasing GPT-5.5-Cyber, a model variant that rejects far fewer security requests and even actively executes exploits against test servers. Access is limited to verified defenders of critical infrastructure, including partners like Cisco, CrowdStrike, and Cloudflare. The model competes directly with Anthropic's Mythos Preview.\nThe article OpenAI opens GPT-5.5-Cyber to vetted security researchers appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/openai-opens-gpt-5-5-cyber-to-vetted-security-researchers/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 08 May 2026 11:07:28 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-007",
+        "title": "Mozilla's agentic AI pipeline turns Claude Mythos Preview loose and finds 271 unknown Firefox vulnerabilities",
+        "summary": "Anthropic's Claude Mythos Preview uncovered 271 previously unknown security vulnerabilities in Firefox 150, including bugs up to 20 years old. Mozilla describes an agentic pipeline where the AI builds and runs its own test cases to filter out false p",
+        "content": "Anthropic's Claude Mythos Preview uncovered 271 previously unknown security vulnerabilities in Firefox 150, including bugs up to 20 years old. Mozilla describes an agentic pipeline where the AI builds and runs its own test cases to filter out false positives. Going forward, every new piece of code is to be automatically checked before commit.\nThe article Mozilla's agentic AI pipeline turns Claude Mythos Preview loose and finds 271 unknown Firefox vulnerabilities appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/mozillas-agentic-ai-pipeline-turns-claude-mythos-preview-loose-and-finds-271-unknown-firefox-vulnerabilities/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 08 May 2026 09:23:28 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-008",
+        "title": "OpenAI's new voice model brings GPT-5-level reasoning to real-time conversations",
+        "summary": "OpenAI is shipping three new voice models—GPT-Realtime-2, GPT-Realtime-Translate, and GPT-Realtime-Whisper—that can reason in real time, translate across 70+ languages, and transcribe live speech. GPT-Realtime-2 brings reasoning that OpenAI says matc",
+        "content": "OpenAI is shipping three new voice models—GPT-Realtime-2, GPT-Realtime-Translate, and GPT-Realtime-Whisper—that can reason in real time, translate across 70+ languages, and transcribe live speech. GPT-Realtime-2 brings reasoning that OpenAI says matches GPT-5.\nThe article OpenAI's new voice model brings GPT-5-level reasoning to real-time conversations appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/openais-new-voice-model-brings-gpt-5-level-reasoning-to-real-time-conversations/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 07 May 2026 18:44:08 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-009",
+        "title": "Europe's answer to AI regulation complexity is to just delay most of it",
+        "summary": "The EU has agreed on simplified AI rules. The \"Digital Omnibus on AI\" pushes back deadlines for high-risk AI to late 2027 or 2028 and eases requirements for small and medium-sized businesses. \"Nudification\" apps are now explicitly banned. The labelin",
+        "content": "The EU has agreed on simplified AI rules. The \"Digital Omnibus on AI\" pushes back deadlines for high-risk AI to late 2027 or 2028 and eases requirements for small and medium-sized businesses. \"Nudification\" apps are now explicitly banned. The labeling requirement for deepfakes and AI-generated text still takes effect in August 2026.\nThe article Europe's answer to AI regulation complexity is to just delay most of it appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/europes-answer-to-ai-regulation-complexity-is-to-just-delay-most-of-it/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 07 May 2026 17:36:39 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-010",
+        "title": "AI translation company DeepL cuts around 250 jobs to rebuild as an \"AI-native\" organization",
+        "summary": "DeepL, the German AI-powered translation service that competes with Google Translate and other machine translation tools, is laying off roughly 250 employees.\nThe article AI translation company DeepL cuts around 250 jobs to rebuild as an \"AI-native\" ",
+        "content": "DeepL, the German AI-powered translation service that competes with Google Translate and other machine translation tools, is laying off roughly 250 employees.\nThe article AI translation company DeepL cuts around 250 jobs to rebuild as an \"AI-native\" organization appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/ai-translation-company-deepl-cuts-around-250-jobs-to-rebuild-as-an-ai-native-organization/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 07 May 2026 14:45:19 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      }
+    ],
+    "research": [
+      {
+        "id": "AI-011",
+        "title": "Here’s how technology transformed babymaking",
+        "summary": "Technology is changing the way we make babies. The pioneering work of the scientists who invented IVF led to the birth of the first “test tube baby” in 1978. We’ve come a long, long way since then. This week, I’ve been working on a piece about the cu",
+        "content": "Technology is changing the way we make babies. The pioneering work of the scientists who invented IVF led to the birth of the first “test tube baby” in 1978. We’ve come a long, long way since then. This week, I’ve been working on a piece about the cutting edge of IVF technologies and what’s coming…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/05/08/1136974/heres-how-technology-transformed-babymaking-ivf/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 08 May 2026 09:00:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-012",
+        "title": "The Download: the tech reshaping IVF and the rise of balcony solar",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What’s next for IVF IVF has brought millions of babies into the world over the last four decades. But the proces",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What’s next for IVF IVF has brought millions of babies into the world over the last four decades. But the process can still be slow, painful, and expensive—and far from guaranteed…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/05/07/1136956/the-download-ivf-tech-balcony-solar/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 07 May 2026 12:10:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-013",
+        "title": "LCM: Lossless Context Management",
+        "summary": "arXiv:2605.04050v1 Announce Type: new \nAbstract: We introduce Lossless Context Management (LCM), a deterministic architecture for LLM memory that outperforms Claude Code on long-context tasks. When benchmarked using Opus 4.6, our LCM-augmented coding",
+        "content": "arXiv:2605.04050v1 Announce Type: new \nAbstract: We introduce Lossless Context Management (LCM), a deterministic architecture for LLM memory that outperforms Claude Code on long-context tasks. When benchmarked using Opus 4.6, our LCM-augmented coding agent, Volt, achieves higher scores than Claude Code on the OOLONG long-context eval, including at every context length between 32K and 1M tokens.\n  LCM may be considered both a vindication and extension of the recursive paradigm pioneered by Recurs",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2605.04050",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 08 May 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ]
+      },
+      {
+        "id": "AI-014",
+        "title": "Regularized Centered Emphatic Temporal Difference Learning",
+        "summary": "arXiv:2605.04100v1 Announce Type: new \nAbstract: Off-policy temporal-difference (TD) learning with function approximation faces a structural tradeoff among stability, projection geometry, and variance control. Emphatic TD (ETD) improves the off-polic",
+        "content": "arXiv:2605.04100v1 Announce Type: new \nAbstract: Off-policy temporal-difference (TD) learning with function approximation faces a structural tradeoff among stability, projection geometry, and variance control. Emphatic TD (ETD) improves the off-policy projection geometry through follow-on emphasis, but the follow-on trace can have high variance. We revisit this tradeoff through Bellman-error centering. Although centering naturally removes a common drift term from TD errors, we show that a naive ",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2605.04100",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 08 May 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ]
+      },
+      {
+        "id": "AI-015",
+        "title": "Actionable Real-Time Modeling of Surgical Team Dynamics via Time-Expanded Interaction Graphs",
+        "summary": "arXiv:2605.04169v1 Announce Type: new \nAbstract: Surgical team performance arises from complex interactions between technical execution and non-technical skills, including communication and coordination dynamics. However, current surgical AI systems ",
+        "content": "arXiv:2605.04169v1 Announce Type: new \nAbstract: Surgical team performance arises from complex interactions between technical execution and non-technical skills, including communication and coordination dynamics. However, current surgical AI systems predominantly model visual workflow signals, lacking structured representations of intraoperative team interactions over time. We propose a real-time actionable approach for modeling surgical team dynamics using time-expanded interaction graphs, wher",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2605.04169",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 08 May 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ]
+      }
+    ],
+    "applications": [],
+    "business": [
+      {
+        "id": "AI-016",
+        "title": "A cloud computing stock is soaring more than 22%. Here’s what’s driving the rally",
+        "summary": "Cybersecurity and cloud computing firm Akamai reported first-quarter earnings on Thursday and saw its cloud infrastructure business grow 40% year-on-year.",
+        "content": "Cybersecurity and cloud computing firm Akamai reported first-quarter earnings on Thursday and saw its cloud infrastructure business grow 40% year-on-year.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/05/08/akamai-stock-ai-cloud-infrastructure-deal.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 08 May 2026 11:59:26 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-017",
+        "title": "The Tech Download: Meta, Google enter AI agent race as ‘agentic wars’ heat up",
+        "summary": "The viral personal assistant OpenClaw has triggered a rush among Big Tech to build agentic tools.",
+        "content": "The viral personal assistant OpenClaw has triggered a rush among Big Tech to build agentic tools.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/05/08/ai-agent-meta-google-agentic-wars-tech-download.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 08 May 2026 11:05:35 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-018",
+        "title": "Sony targets double-digit profit growth despite slowdown in PlayStation 5 sales amid memory price crunch",
+        "summary": "While hardware sales took a hit in Sony's fourth-quarter, strong revenue from its image sensing and music businesses offset the dip.",
+        "content": "While hardware sales took a hit in Sony's fourth-quarter, strong revenue from its image sensing and music businesses offset the dip.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/05/08/sony-q4-earnings-ps5-gaming-sales-memory-price.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 08 May 2026 09:20:46 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-019",
+        "title": "Nintendo hikes Switch 2 prices and expects console sales to decline as memory crunch bites",
+        "summary": "Nintendo said the price of the Switch 2 in the U.S. will rise  from $449.99 to $499.99. In Japan, Nintendo will hike the price from 49,980 yen to 59,980 yen.",
+        "content": "Nintendo said the price of the Switch 2 in the U.S. will rise  from $449.99 to $499.99. In Japan, Nintendo will hike the price from 49,980 yen to 59,980 yen.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/05/08/nintendo-switch-2-price-hike-sales-fall-memory-crunch.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 08 May 2026 07:28:13 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-020",
+        "title": "Tech stocks could offer their best value in years, analysts say, after stellar earnings season",
+        "summary": "A succession of strong earnings seasons since then has allowed tech stocks to \"grow into\" their stock prices.",
+        "content": "A succession of strong earnings seasons since then has allowed tech stocks to \"grow into\" their stock prices.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/05/08/us-tech-stocks-cheap-stellar-earnings-where-next.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 08 May 2026 07:34:09 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      }
+    ],
+    "policy": [
+      {
+        "id": "AI-021",
+        "title": "Elon Musk’s SpaceX Plans $55 Billion Investment to Make A.I. Chips",
+        "summary": "The rocket company’s new semiconductor factory, called Terafab, is part of the billionaire’s increasing efforts to dominate artificial intelligence.",
+        "content": "The rocket company’s new semiconductor factory, called Terafab, is part of the billionaire’s increasing efforts to dominate artificial intelligence.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/05/07/business/spacex-chips-terafab.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 07 May 2026 18:02:00 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-022",
+        "title": "Can the U.S. Rein in Prediction Markets? + Joanna Stern on Her Year of A.I. Experiments + Our Producer Goes to Attention School",
+        "summary": "“It seems every other day I am reading a story about a massive insider trading scandal.”",
+        "content": "“It seems every other day I am reading a story about a massive insider trading scandal.”",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/05/08/podcasts/hardfork-prediction-markets.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 08 May 2026 11:00:03 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-023",
+        "title": "The Hopelessness of ‘The Audacity’",
+        "summary": "In AMC’s merciless satire, the tech lords are extracting all they can from the business (and us) before everything goes to hell.",
+        "content": "In AMC’s merciless satire, the tech lords are extracting all they can from the business (and us) before everything goes to hell.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/05/08/arts/television/the-audacity.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 08 May 2026 09:02:16 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-024",
+        "title": "How a new breed of hacking tools is forcing a White House reset",
+        "summary": "As AI systems like Anthropic’s Mythos expose hidden security flaws, Trump officials are starting to rethink their hands-off approach to the technology.",
+        "content": "As AI systems like Anthropic’s Mythos expose hidden security flaws, Trump officials are starting to rethink their hands-off approach to the technology.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.washingtonpost.com/technology/2026/05/08/trump-white-house-ai-regulation-mythos/",
+        "sourceName": "Washington Post Tech",
+        "tags": [
+          "Washington Post Tech"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 08 May 2026 10:00:00 +0000",
+        "normalizedTags": [
+          "washington post tech"
+        ]
+      },
+      {
+        "id": "AI-025",
+        "title": "She had four kids with Elon Musk. Now she’s central to his courtroom fight.",
+        "summary": "In hours of testimony, Elon Musk’s partner Shivon Zilis opened up about their relationship and her role in creating one of the world’s most valuable AI companies.",
+        "content": "In hours of testimony, Elon Musk’s partner Shivon Zilis opened up about their relationship and her role in creating one of the world’s most valuable AI companies.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.washingtonpost.com/technology/2026/05/08/shivon-zilis-elon-musk-trial/",
+        "sourceName": "Washington Post Tech",
+        "tags": [
+          "Washington Post Tech"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 08 May 2026 09:00:00 +0000",
+        "normalizedTags": [
+          "washington post tech"
+        ]
+      }
+    ],
+    "concerns": [],
+    "culture": [
+      {
+        "id": "AI-026",
+        "title": "‘Being human helps’: despite rise of AI is there still hope for Europe’s translators?",
+        "summary": "A booming tech sector has disrupted translation jobs in publishing – but they could be needed for a while longer yet\nIn February 2022, while he was plugging away at rendering the US writer Dana Spiotta’s novel Wayward into French, the literary transl",
+        "content": "A booming tech sector has disrupted translation jobs in publishing – but they could be needed for a while longer yet\nIn February 2022, while he was plugging away at rendering the US writer Dana Spiotta’s novel Wayward into French, the literary translator Yoann Gentric decided he needed a bit of light relief. He would test whether AI could put him out of work.\nGentric had been grappling with a short non-verbal sentence that described the book’s protagonist’s feelings upon opening a window: “Brigh",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/may/08/being-human-helps-despite-rise-of-ai-is-there-still-hope-for-europes-translators",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 08 May 2026 04:00:37 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-027",
+        "title": "How dangerous is Anthropic’s Mythos AI? | Bruce Schneier",
+        "summary": "The system’s power is comparable to others – but it still has frightening implications for the future of hacking\nLast month, Anthropic made a remarkable announcement about its new model, Claude Mythos Preview: it was so good at finding security vulne",
+        "content": "The system’s power is comparable to others – but it still has frightening implications for the future of hacking\nLast month, Anthropic made a remarkable announcement about its new model, Claude Mythos Preview: it was so good at finding security vulnerabilities in software that the company would not release it to the general public. Instead, it would only be available to a select group of companies to scan and fix their own software.\nThe announcement requires context – but it contained an essenti",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/commentisfree/2026/may/08/how-dangerous-is-anthropics-mythos-ai",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 08 May 2026 12:00:27 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-028",
+        "title": "The AI jailbreakers – podcast",
+        "summary": "Journalist Jamie Bartlett on the people trying to get AI to say things it shouldn’t … for the safety of us all\nAll the major AI chatbots – from ChatGPT to Gemini to Grok to Claude – have things they should and shouldn’t say.\nHate speech, criminal mat",
+        "content": "Journalist Jamie Bartlett on the people trying to get AI to say things it shouldn’t … for the safety of us all\nAll the major AI chatbots – from ChatGPT to Gemini to Grok to Claude – have things they should and shouldn’t say.\nHate speech, criminal material, exploitation of vulnerable users – all of this is content that the most successful large language models in the world shouldn’t produce, that their safety features should guard against.\n Continue reading...",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/news/audio/2026/may/08/the-ai-jailbreakers-podcast",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 08 May 2026 02:00:32 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-029",
+        "title": "The Guardian view on facial recognition technology: mistaken identities are a political issue | Editorial",
+        "summary": "Once again, digital tools are running ahead of regulators. Civil liberties must not be sacrificed to policing \nIt is a familiar story. Extravagant claims are made on behalf of novel computerised tools. The public are told that this or that digital ap",
+        "content": "Once again, digital tools are running ahead of regulators. Civil liberties must not be sacrificed to policing \nIt is a familiar story. Extravagant claims are made on behalf of novel computerised tools. The public are told that this or that digital application or system is going to change the world for the better. Efficiencies will be unlocked and problems solved as human limitations are overcome by networked devices plugged into vast stores of data. Anyone who questions the narrative is a pessim",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/commentisfree/2026/may/07/the-guardian-view-on-facial-recognition-technology-mistaken-identities-are-a-political-issue",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 07 May 2026 17:35:10 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-030",
+        "title": "Financial stability risks are rising as AI fuels cyber-attacks, IMF warns; oil below $100 on Iran peace hopes – as it happened",
+        "summary": "Rolling coverage of the latest economic and financial news\n\nClimate campaigners attack Shell over ‘windfall’ profits from Iran war\n\nThe Danish shipping giant Maersk has maintained its profit guidance for the year, even as it reported a spike in fuel ",
+        "content": "Rolling coverage of the latest economic and financial news\n\nClimate campaigners attack Shell over ‘windfall’ profits from Iran war\n\nThe Danish shipping giant Maersk has maintained its profit guidance for the year, even as it reported a spike in fuel costs and warned that traffic through the strait of Hormuz “remains at a near standstill”.\nThe company, which transports goods around the world via sea, road, rail and air, said demand for shipping containers remained strong, but that war in the Midd",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/business/live/2026/may/07/iran-deal-shell-profits-oil-gas-stock-markets-business-live",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 07 May 2026 15:53:57 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      }
+    ]
+  },
+  "quote": {
+    "text": "The best way to predict the future is to invent it.",
+    "author": "Alan Kay",
+    "authorTitle": "Computer Scientist"
+  },
+  "sources": [
+    "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
+    "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+    "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
+    "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
+    "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
+    "https://the-decoder.com/openai-opens-gpt-5-5-cyber-to-vetted-security-researchers/",
+    "https://the-decoder.com/mozillas-agentic-ai-pipeline-turns-claude-mythos-preview-loose-and-finds-271-unknown-firefox-vulnerabilities/",
+    "https://the-decoder.com/openais-new-voice-model-brings-gpt-5-level-reasoning-to-real-time-conversations/",
+    "https://the-decoder.com/europes-answer-to-ai-regulation-complexity-is-to-just-delay-most-of-it/",
+    "https://the-decoder.com/ai-translation-company-deepl-cuts-around-250-jobs-to-rebuild-as-an-ai-native-organization/",
+    "https://www.technologyreview.com/2026/05/08/1136974/heres-how-technology-transformed-babymaking-ivf/",
+    "https://www.technologyreview.com/2026/05/07/1136956/the-download-ivf-tech-balcony-solar/",
+    "https://arxiv.org/abs/2605.04050",
+    "https://arxiv.org/abs/2605.04100",
+    "https://arxiv.org/abs/2605.04169",
+    "https://www.cnbc.com/2026/05/08/akamai-stock-ai-cloud-infrastructure-deal.html",
+    "https://www.cnbc.com/2026/05/08/ai-agent-meta-google-agentic-wars-tech-download.html",
+    "https://www.cnbc.com/2026/05/08/sony-q4-earnings-ps5-gaming-sales-memory-price.html",
+    "https://www.cnbc.com/2026/05/08/nintendo-switch-2-price-hike-sales-fall-memory-crunch.html",
+    "https://www.cnbc.com/2026/05/08/us-tech-stocks-cheap-stellar-earnings-where-next.html",
+    "https://www.nytimes.com/2026/05/07/business/spacex-chips-terafab.html",
+    "https://www.nytimes.com/2026/05/08/podcasts/hardfork-prediction-markets.html",
+    "https://www.nytimes.com/2026/05/08/arts/television/the-audacity.html",
+    "https://www.washingtonpost.com/technology/2026/05/08/trump-white-house-ai-regulation-mythos/",
+    "https://www.washingtonpost.com/technology/2026/05/08/shivon-zilis-elon-musk-trial/",
+    "https://www.theguardian.com/technology/2026/may/08/being-human-helps-despite-rise-of-ai-is-there-still-hope-for-europes-translators",
+    "https://www.theguardian.com/commentisfree/2026/may/08/how-dangerous-is-anthropics-mythos-ai",
+    "https://www.theguardian.com/news/audio/2026/may/08/the-ai-jailbreakers-podcast",
+    "https://www.theguardian.com/commentisfree/2026/may/07/the-guardian-view-on-facial-recognition-technology-mistaken-identities-are-a-political-issue",
+    "https://www.theguardian.com/business/live/2026/may/07/iran-deal-shell-profits-oil-gas-stock-markets-business-live"
+  ],
+  "generatedAt": "2026-05-08T12:06:54.909Z"
+}
