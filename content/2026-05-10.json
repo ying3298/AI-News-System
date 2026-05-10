@@ -2,9 +2,9 @@
   "date": "2026-05-10",
   "dateFormatted": "May 10, 2026",
   "headline": {
-    "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
-    "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-    "sourceUrl": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "title": "Get ready for the whisper-filled office of the future",
+    "summary": "How will work setups change if we spend more and more time talking to our computers?",
+    "sourceUrl": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
     "sourceName": "TechCrunch AI",
     "imageUrl": "/images/2026-05-10/2026-05-10-hero.webp"
   },
@@ -16,19 +16,19 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
-        "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
-        "content": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+        "title": "Get ready for the whisper-filled office of the future",
+        "summary": "How will work setups change if we spend more and more time talking to our computers?",
+        "content": "How will work setups change if we spend more and more time talking to our computers?",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+        "sourceUrl": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Sat, 09 May 2026 21:45:00 +0000",
+        "publishedAt": "Sun, 10 May 2026 21:15:30 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ],
@@ -36,34 +36,74 @@
       },
       {
         "id": "AI-002",
-        "title": "Nvidia has already committed $40B to equity AI deals this year",
-        "summary": "Nvidia continues to be a big investor in the AI ecosystem.",
-        "content": "Nvidia continues to be a big investor in the AI ecosystem.",
+        "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
+        "summary": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
+        "content": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+        "sourceUrl": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Sat, 09 May 2026 14:43:30 +0000",
+        "publishedAt": "Sun, 10 May 2026 20:40:41 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ],
         "imageUrl": "/images/2026-05-10/2026-05-10-tools-AI-002.webp"
+      },
+      {
+        "id": "AI-003",
+        "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
+        "summary": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.",
+        "content": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 10 May 2026 15:34:25 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ],
+        "imageUrl": "/images/2026-05-10/2026-05-10-tools-AI-003.webp"
+      },
+      {
+        "id": "AI-004",
+        "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+        "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
+        "content": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 10 May 2026 02:00:00 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ],
+        "imageUrl": "/images/2026-05-10/2026-05-10-tools-AI-004.webp"
       }
     ],
     "creative": [
       {
-        "id": "AI-003",
-        "title": "AI agents that hack computers and replicate themselves, and they're getting better fast",
+        "id": "AI-005",
+        "title": "AI agents can now hack computers and copy themselves, and they're getting better fast",
         "summary": "Palisade Research shows that AI agents can hack remote computers, copy themselves onto them, and form replication chains. In one year, the success rate jumped from 6 to 81 percent. The researchers expect remaining barriers to fall as models get bette",
-        "content": "Palisade Research shows that AI agents can hack remote computers, copy themselves onto them, and form replication chains. In one year, the success rate jumped from 6 to 81 percent. The researchers expect remaining barriers to fall as models get better at hacking.\nThe article AI agents that hack computers and replicate themselves, and they're getting better fast appeared first on The Decoder.",
+        "content": "Palisade Research shows that AI agents can hack remote computers, copy themselves onto them, and form replication chains. In one year, the success rate jumped from 6 to 81 percent. The researchers expect remaining barriers to fall as models get better at hacking.\nThe article AI agents can now hack computers and copy themselves, and they're getting better fast appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/ai-agents-that-hack-computers-and-replicate-themselves-and-theyre-getting-better-fast/",
+        "sourceUrl": "https://the-decoder.com/ai-agents-can-now-hack-computers-and-copy-themselves-and-theyre-getting-better-fast/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
@@ -74,10 +114,10 @@
         "normalizedTags": [
           "the decoder"
         ],
-        "imageUrl": "/images/2026-05-10/2026-05-10-creative-AI-003.webp"
+        "imageUrl": "/images/2026-05-10/2026-05-10-creative-AI-005.webp"
       },
       {
-        "id": "AI-004",
+        "id": "AI-006",
         "title": "Anthropic and OpenAI sit down with religious leaders to seek ethical advice",
         "summary": "Anthropic and OpenAI are turning to religious leaders for help with AI ethics. At the first \"Faith-AI Covenant\" roundtable in New York, representatives from both companies met with faith leaders from various religions. Critics like AI researcher Rumm",
         "content": "Anthropic and OpenAI are turning to religious leaders for help with AI ethics. At the first \"Faith-AI Covenant\" roundtable in New York, representatives from both companies met with faith leaders from various religions. Critics like AI researcher Rumman Chowdhury call the talks \"at best a distraction\" from concrete questions about regulation and control over AI systems.\nThe article Anthropic and OpenAI sit down with religious leaders to seek ethical advice appeared first on The Decoder.",
@@ -94,10 +134,10 @@
         "normalizedTags": [
           "the decoder"
         ],
-        "imageUrl": "/images/2026-05-10/2026-05-10-creative-AI-004.webp"
+        "imageUrl": "/images/2026-05-10/2026-05-10-creative-AI-006.webp"
       },
       {
-        "id": "AI-005",
+        "id": "AI-007",
         "title": "ByteDance plans over $30 billion for AI expansion, bets big on Chinese chips",
         "summary": "ByteDance is raising its planned AI spending for 2026 to over 200 billion yuan (roughly $30 billion), at least a 25 percent jump from earlier plans. The TikTok parent is increasingly turning to Chinese chips. Still, the figure looks modest next to th",
         "content": "ByteDance is raising its planned AI spending for 2026 to over 200 billion yuan (roughly $30 billion), at least a 25 percent jump from earlier plans. The TikTok parent is increasingly turning to Chinese chips. Still, the figure looks modest next to the $725 billion that Google, Amazon, Microsoft, and Meta are planning to spend combined.\nThe article ByteDance plans over $30 billion for AI expansion, bets big on Chinese chips appeared first on The Decoder.",
@@ -114,10 +154,10 @@
         "normalizedTags": [
           "the decoder"
         ],
-        "imageUrl": "/images/2026-05-10/2026-05-10-creative-AI-005.webp"
+        "imageUrl": "/images/2026-05-10/2026-05-10-creative-AI-007.webp"
       },
       {
-        "id": "AI-006",
+        "id": "AI-008",
         "title": "METR says it can barely measure Claude Mythos, Palo Alto Networks warns of autonomous AI attackers",
         "summary": "METR can barely measure Claude Mythos Preview with its current test suite. Only five out of 228 tasks cover the relevant capability range. Meanwhile, Palo Alto Networks reports that frontier models autonomously chain vulnerabilities, shrinking the ti",
         "content": "METR can barely measure Claude Mythos Preview with its current test suite. Only five out of 228 tasks cover the relevant capability range. Meanwhile, Palo Alto Networks reports that frontier models autonomously chain vulnerabilities, shrinking the time from initial access to data exfiltration to just 25 minutes. Evaluation methods are growing more slowly than the models themselves, and that may be the bigger problem.\nThe article METR says it can barely measure Claude Mythos, Palo Alto Networks w",
@@ -134,10 +174,10 @@
         "normalizedTags": [
           "the decoder"
         ],
-        "imageUrl": "/images/2026-05-10/2026-05-10-creative-AI-006.webp"
+        "imageUrl": "/images/2026-05-10/2026-05-10-creative-AI-008.webp"
       },
       {
-        "id": "AI-007",
+        "id": "AI-009",
         "title": "GPT-5.5 costs 49 to 92 percent more than its predecessor, depending on the input length",
         "summary": "OpenAI doubled GPT-5.5's list price compared to GPT-5.4, claiming shorter responses would offset the increase. An OpenRouter analysis of real usage data tells a different story: actual costs rose 49 to 92 percent depending on input length. Anthropic ",
         "content": "OpenAI doubled GPT-5.5's list price compared to GPT-5.4, claiming shorter responses would offset the increase. An OpenRouter analysis of real usage data tells a different story: actual costs rose 49 to 92 percent depending on input length. Anthropic hiked Opus 4.7 prices too—and with both companies eyeing IPOs, the trend is unlikely to stop.\nThe article GPT-5.5 costs 49 to 92 percent more than its predecessor, depending on the input length appeared first on The Decoder.",
@@ -154,14 +194,54 @@
         "normalizedTags": [
           "the decoder"
         ],
-        "imageUrl": "/images/2026-05-10/2026-05-10-creative-AI-007.webp"
+        "imageUrl": "/images/2026-05-10/2026-05-10-creative-AI-009.webp"
       }
     ],
     "research": [],
     "applications": [],
     "business": [
       {
-        "id": "AI-008",
+        "id": "AI-010",
+        "title": "Meet the YouTube whisperers, a booming class of advisors behind MrBeast and other million-dollar channels",
+        "summary": "A burgeoning group of YouTube strategists are charging big money to YouTubers who want to expand their popularity.",
+        "content": "A burgeoning group of YouTube strategists are charging big money to YouTubers who want to expand their popularity.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/05/10/youtube-advisors-mrbeast-top-creators-platform-viewership.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 10 May 2026 13:00:01 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ],
+        "imageUrl": "/images/2026-05-10/2026-05-10-business-AI-010.webp"
+      },
+      {
+        "id": "AI-011",
+        "title": "Alphabet's 160% rally in a year reflects value of owning 'most of the stack' in AI",
+        "summary": "Google was seen as an AI laggard in the early days of the AI boom, but investors are now betting that the search giant will be a clear winner.",
+        "content": "Google was seen as an AI laggard in the early days of the AI boom, but investors are now betting that the search giant will be a clear winner.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/05/10/alphabet-160percent-rally-in-year-reflects-value-of-owning-most-of-ai-stack.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 10 May 2026 12:00:01 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ],
+        "imageUrl": "/images/2026-05-10/2026-05-10-business-AI-011.webp"
+      },
+      {
+        "id": "AI-012",
         "title": "Nvidia embraces role of AI investor, pushing past $40 billion in equity bets this year",
         "summary": "Nvidia is pouring billions of dollars at a time into companies across the AI infrastructure stack, while also signing commercial deals with them.",
         "content": "Nvidia is pouring billions of dollars at a time into companies across the AI infrastructure stack, while also signing commercial deals with them.",
@@ -174,35 +254,55 @@
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Sat, 09 May 2026 16:41:22 GMT",
+        "publishedAt": "Sun, 10 May 2026 22:57:47 GMT",
         "normalizedTags": [
           "cnbc tech"
         ],
-        "imageUrl": "/images/2026-05-10/2026-05-10-business-AI-008.webp"
+        "imageUrl": "/images/2026-05-10/2026-05-10-business-AI-012.webp"
       }
     ],
     "policy": [],
     "concerns": [],
     "culture": [
       {
-        "id": "AI-009",
-        "title": "Google developers significantly misstate carbon emissions of proposed UK datacentres",
-        "summary": "Emissions understated by factor of five in Essex plans for tech giant, while Greystoke’s Lincolnshire plans show similar error\nDevelopers working for Google have significantly misstated how much carbon two proposed AI datacentres will contribute to t",
-        "content": "Emissions understated by factor of five in Essex plans for tech giant, while Greystoke’s Lincolnshire plans show similar error\nDevelopers working for Google have significantly misstated how much carbon two proposed AI datacentres will contribute to the UK’s total emissions in planning documents reviewed by the Guardian.\nThe tech company wants to build two huge datacentres – one 52-hectare (130 acre) project in Thurrock and another at an airfield in North Weald, both in Essex. To do so, developer",
+        "id": "AI-013",
+        "title": "Mistaking AI behaviour for conscious being | Letter",
+        "summary": "Dr Simon Nieder responds to Richard Dawkins’ encounters with a chatbot\nRichard Dawkins’ reflections on AI consciousness are striking – not because they show that machines have crossed some hidden threshold into inner life, but because they reveal how",
+        "content": "Dr Simon Nieder responds to Richard Dawkins’ encounters with a chatbot\nRichard Dawkins’ reflections on AI consciousness are striking – not because they show that machines have crossed some hidden threshold into inner life, but because they reveal how readily we can be persuaded that they have (Richard Dawkins concludes AI is conscious, even if it doesn’t know it, 5 May).\nMany will recognise the experience: a system that responds with fluency, humour and apparent understanding. At some point, sim",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/may/09/google-developers-significantly-misstate-carbon-emissions-of-proposed-uk-datacentres",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/may/10/mistaking-ai-behaviour-for-conscious-being",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Sat, 09 May 2026 16:00:01 GMT",
+        "publishedAt": "Sun, 10 May 2026 15:55:14 GMT",
         "normalizedTags": [
           "the guardian ai"
         ],
-        "imageUrl": "/images/2026-05-10/2026-05-10-culture-AI-009.webp"
+        "imageUrl": "/images/2026-05-10/2026-05-10-culture-AI-013.webp"
+      },
+      {
+        "id": "AI-014",
+        "title": "I knew my writing students were using AI. Their confessions led to a powerful teaching moment | Micah Nathan",
+        "summary": "The problem wasn’t just the perfectly polished, yet mediocre prose. It’s what’s lost when we surrender the struggle to translate thought into words\nI have been teaching fiction writing at MIT since 2017. Many of my students last wrote fiction in midd",
+        "content": "The problem wasn’t just the perfectly polished, yet mediocre prose. It’s what’s lost when we surrender the struggle to translate thought into words\nI have been teaching fiction writing at MIT since 2017. Many of my students last wrote fiction in middle school, and very few have experienced a proper workshop, so at the start of every semester I offer these directions for writer and reader alike:\nRead the story at least twice. Mark what works and what doesn’t – underline great sentences, flag clun",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/us-news/ng-interactive/2026/may/10/fiction-writing-professor-ai",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 10 May 2026 13:00:27 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-05-10/2026-05-10-culture-AI-014.webp"
       }
     ]
   },
@@ -212,16 +312,21 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-    "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
-    "https://the-decoder.com/ai-agents-that-hack-computers-and-replicate-themselves-and-theyre-getting-better-fast/",
+    "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
+    "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+    "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
+    "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+    "https://the-decoder.com/ai-agents-can-now-hack-computers-and-copy-themselves-and-theyre-getting-better-fast/",
     "https://the-decoder.com/anthropic-and-openai-sit-down-with-religious-leaders-to-seek-ethical-advice/",
     "https://the-decoder.com/bytedance-plans-over-30-billion-for-ai-expansion-bets-big-on-chinese-chips/",
     "https://the-decoder.com/metr-says-it-can-barely-measure-claude-mythos-palo-alto-networks-warns-of-autonomous-ai-attackers/",
     "https://the-decoder.com/gpt-5-5-costs-49-to-92-percent-more-than-its-predecessor-depending-on-the-input-length/",
+    "https://www.cnbc.com/2026/05/10/youtube-advisors-mrbeast-top-creators-platform-viewership.html",
+    "https://www.cnbc.com/2026/05/10/alphabet-160percent-rally-in-year-reflects-value-of-owning-most-of-ai-stack.html",
     "https://www.cnbc.com/2026/05/09/nvidia-embraces-ai-investor-topping-40-billion-in-equity-bets-2026.html",
-    "https://www.theguardian.com/technology/2026/may/09/google-developers-significantly-misstate-carbon-emissions-of-proposed-uk-datacentres"
+    "https://www.theguardian.com/technology/2026/may/10/mistaking-ai-behaviour-for-conscious-being",
+    "https://www.theguardian.com/us-news/ng-interactive/2026/may/10/fiction-writing-professor-ai"
   ],
-  "generatedAt": "2026-05-10T11:48:42.413Z",
+  "generatedAt": "2026-05-10T23:41:37.041Z",
   "simpleSummaryImageUrl": "/images/2026-05-10/2026-05-10-summary.webp"
 }
