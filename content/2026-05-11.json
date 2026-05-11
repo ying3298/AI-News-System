@@ -2,9 +2,9 @@
   "date": "2026-05-11",
   "dateFormatted": "May 11, 2026",
   "headline": {
-    "title": "There aren’t enough rockets for space data centers. Cowboy Space raised $275 million to build them.",
-    "summary": "Cowboy Space Corporation wants to put data centers in orbit. First, it has to build the rockets to get them there.",
-    "sourceUrl": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
+    "title": "Digg tries again, this time as an AI news aggregator",
+    "summary": "In an email to beta testers, the company said the site's goal is to \"track the most influential voices in a space\" and to surface the news that's actually worth \"paying attention to.\"",
+    "sourceUrl": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
     "sourceName": "TechCrunch AI",
     "imageUrl": "/images/2026-05-11/2026-05-11-hero.webp"
   },
@@ -16,9 +16,29 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "There aren’t enough rockets for space data centers. Cowboy Space raised $275 million to build them.",
-        "summary": "Cowboy Space Corporation wants to put data centers in orbit. First, it has to build the rockets to get them there.",
-        "content": "Cowboy Space Corporation wants to put data centers in orbit. First, it has to build the rockets to get them there.",
+        "title": "Digg tries again, this time as an AI news aggregator",
+        "summary": "In an email to beta testers, the company said the site's goal is to \"track the most influential voices in a space\" and to surface the news that's actually worth \"paying attention to.\"",
+        "content": "In an email to beta testers, the company said the site's goal is to \"track the most influential voices in a space\" and to surface the news that's actually worth \"paying attention to.\"",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 11 May 2026 17:02:35 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ],
+        "imageUrl": "/images/2026-05-11/2026-05-11-tools-AI-001.webp"
+      },
+      {
+        "id": "AI-002",
+        "title": "There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them",
+        "summary": "The apparently insatiable demand for AI compute has data center entrepreneurs looking to the stars. There's a key problem: There aren't enough rockets to put data centers in orbit around Earth, and they're too expensive.",
+        "content": "The apparently insatiable demand for AI compute has data center entrepreneurs looking to the stars. There's a key problem: There aren't enough rockets to put data centers in orbit around Earth, and they're too expensive.",
         "keyTakeaways": [],
         "whyItMatters": "",
         "sourceUrl": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
@@ -32,85 +52,65 @@
         "normalizedTags": [
           "techcrunch ai"
         ],
-        "imageUrl": "/images/2026-05-11/2026-05-11-tools-AI-001.webp"
-      },
-      {
-        "id": "AI-002",
-        "title": "Get ready for the whisper-filled office of the future",
-        "summary": "How will work setups change if we spend more and more time talking to our computers?",
-        "content": "How will work setups change if we spend more and more time talking to our computers?",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
-        "sourceName": "TechCrunch AI",
-        "tags": [
-          "TechCrunch AI"
-        ],
-        "section": "tools",
-        "readTime": "2 min",
-        "publishedAt": "Sun, 10 May 2026 21:15:30 +0000",
-        "normalizedTags": [
-          "techcrunch ai"
-        ],
         "imageUrl": "/images/2026-05-11/2026-05-11-tools-AI-002.webp"
       },
       {
         "id": "AI-003",
-        "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
-        "summary": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
-        "content": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
+        "title": "OpenAI just released its answer to Claude Mythos",
+        "summary": "OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create a threat model based on an organization's code and",
+        "content": "OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create a threat model based on an organization's code and focus on possible attack paths, validate likely vulnerabilities, and then automate the detection of the higher risk ones.\nIts launch comes just over a month after rival Anthropic announced Claude Mythos, a security-focused AI model it claimed was to",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
-        "sourceName": "TechCrunch AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
+        "sourceName": "The Verge AI",
         "tags": [
-          "TechCrunch AI"
+          "The Verge AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Sun, 10 May 2026 20:40:41 +0000",
+        "publishedAt": "2026-05-11T23:05:01.000Z",
         "normalizedTags": [
-          "techcrunch ai"
+          "the verge ai"
         ],
         "imageUrl": "/images/2026-05-11/2026-05-11-tools-AI-003.webp"
       },
       {
         "id": "AI-004",
-        "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
-        "summary": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.",
-        "content": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.",
+        "title": "Here&#8217;s what Mira Murati&#8217;s AI company is up to",
+        "summary": "Thinking Machines, the AI company founded by former OpenAI CTO Mira Murati, announced Monday that it's working on something called \"interaction models.\" The idea behind interaction models, according to Thinking Machines, is that they will let people ",
+        "content": "Thinking Machines, the AI company founded by former OpenAI CTO Mira Murati, announced Monday that it's working on something called \"interaction models.\" The idea behind interaction models, according to Thinking Machines, is that they will let people \"collaborate with AI the way we naturally collaborate with each other - they continuously take in audio, video, and text, and think, respond, and act in real time.\"\nAs explained by Thinking Machines:\nToday's models experience reality in a single thre",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
-        "sourceName": "TechCrunch AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
+        "sourceName": "The Verge AI",
         "tags": [
-          "TechCrunch AI"
+          "The Verge AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Sun, 10 May 2026 15:34:25 +0000",
+        "publishedAt": "2026-05-11T22:19:15.000Z",
         "normalizedTags": [
-          "techcrunch ai"
+          "the verge ai"
         ],
         "imageUrl": "/images/2026-05-11/2026-05-11-tools-AI-004.webp"
       },
       {
         "id": "AI-005",
-        "title": "How enterprises are scaling AI",
-        "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
-        "content": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+        "title": "Google stopped a zero-day hack that it says was developed with AI",
+        "summary": "For the first time, Google says it has spotted and stopped a zero-day exploit developed with AI. According to a report from Google Threat Intelligence Group (GTIG), \"prominent cyber crime threat actors\" were planning to use the vulnerability for a \"m",
+        "content": "For the first time, Google says it has spotted and stopped a zero-day exploit developed with AI. According to a report from Google Threat Intelligence Group (GTIG), \"prominent cyber crime threat actors\" were planning to use the vulnerability for a \"mass exploitation event\" that would have allowed them to bypass two-factor authentication on an unnamed \"open-source, web-based system administration tool.\" \nGoogle's researchers found hints in the Python script used for the exploit that indicated hel",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-        "sourceName": "OpenAI Blog",
+        "sourceUrl": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
+        "sourceName": "The Verge AI",
         "tags": [
-          "OpenAI Blog"
+          "The Verge AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Mon, 11 May 2026 10:00:00 GMT",
+        "publishedAt": "2026-05-11T16:09:42.000Z",
         "normalizedTags": [
-          "openai blog"
+          "the verge ai"
         ],
         "imageUrl": "/images/2026-05-11/2026-05-11-tools-AI-005.webp"
       }
@@ -118,19 +118,19 @@
     "creative": [
       {
         "id": "AI-006",
-        "title": "Generative AI turns identity theft into an industrial-scale operation",
-        "summary": "A Bloomberg investigation shows how generative AI and autonomous agents are supercharging identity theft in the US, from social security number lookups on the darknet to deepfake driver's licenses.\nThe article Generative AI turns identity theft into ",
-        "content": "A Bloomberg investigation shows how generative AI and autonomous agents are supercharging identity theft in the US, from social security number lookups on the darknet to deepfake driver's licenses.\nThe article Generative AI turns identity theft into an industrial-scale operation appeared first on The Decoder.",
+        "title": "The EU wants to regulate AI but needs OpenAI and Anthropic to let regulators through the door",
+        "summary": "OpenAI has offered the EU Commission direct access to its new GPT-5.5 Cyber model for security review, with talks already underway. Anthropic is proving harder to pin down: after four to five meetings on its Mythos model, regulators still don't have ",
+        "content": "OpenAI has offered the EU Commission direct access to its new GPT-5.5 Cyber model for security review, with talks already underway. Anthropic is proving harder to pin down: after four to five meetings on its Mythos model, regulators still don't have access. The gap highlights how dependent Europe's AI oversight remains on voluntary cooperation from the companies it aims to regulate.\nThe article The EU wants to regulate AI but needs OpenAI and Anthropic to let regulators through the door appeared",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/generative-ai-turns-identity-theft-into-an-industrial-scale-operation/",
+        "sourceUrl": "https://the-decoder.com/the-eu-wants-to-regulate-ai-but-needs-openai-and-anthropic-to-let-regulators-through-the-door/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Mon, 11 May 2026 12:54:06 +0000",
+        "publishedAt": "Mon, 11 May 2026 18:19:50 +0000",
         "normalizedTags": [
           "the decoder"
         ],
@@ -138,19 +138,19 @@
       },
       {
         "id": "AI-007",
-        "title": "Nvidia pumps over 40 billion dollars into AI partners so far in 2026",
-        "summary": "Nvidia has invested more than $40 billion in AI companies in 2025, cementing its role as the industry's biggest backer.\nThe article Nvidia pumps over 40 billion dollars into AI partners so far in 2026 appeared first on The Decoder.",
-        "content": "Nvidia has invested more than $40 billion in AI companies in 2025, cementing its role as the industry's biggest backer.\nThe article Nvidia pumps over 40 billion dollars into AI partners so far in 2026 appeared first on The Decoder.",
+        "title": "Baidu's Ernie 5.1 cuts 94 percent of pre-training costs while competing with top models",
+        "summary": "Baidu's Ernie 5.1 uses just a third of its predecessor's parameters and reportedly cost only six percent of what comparable models require to pre-train. That's possible thanks to a \"Once-For-All\" approach that extracts smaller sub-models from a singl",
+        "content": "Baidu's Ernie 5.1 uses just a third of its predecessor's parameters and reportedly cost only six percent of what comparable models require to pre-train. That's possible thanks to a \"Once-For-All\" approach that extracts smaller sub-models from a single training run. On the Search Arena leaderboard, Ernie 5.1 ranks 4th globally, behind two Claude Opus variants and GPT-5.5 Search.\nThe article Baidu's Ernie 5.1 cuts 94 percent of pre-training costs while competing with top models appeared first on T",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/nvidia-pumps-over-40-billion-dollars-into-ai-partners-so-far-in-2026/",
+        "sourceUrl": "https://the-decoder.com/baidus-ernie-5-1-cuts-94-percent-of-pre-training-costs-while-competing-with-top-models/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Mon, 11 May 2026 12:50:51 +0000",
+        "publishedAt": "Mon, 11 May 2026 17:08:06 +0000",
         "normalizedTags": [
           "the decoder"
         ],
@@ -158,19 +158,19 @@
       },
       {
         "id": "AI-008",
-        "title": "OpenAI's internal share sale minted roughly 75 multimillionaires who each cashed out the $30 million cap",
-        "summary": "In October 2025, OpenAI organized a $6.6 billion share sale for over 600 current and former employees. Around 75 of them cashed out the maximum cap of $30 million each. President Greg Brockman says he holds shares worth roughly $30 billion.\nThe artic",
-        "content": "In October 2025, OpenAI organized a $6.6 billion share sale for over 600 current and former employees. Around 75 of them cashed out the maximum cap of $30 million each. President Greg Brockman says he holds shares worth roughly $30 billion.\nThe article OpenAI's internal share sale minted roughly 75 multimillionaires who each cashed out the $30 million cap appeared first on The Decoder.",
+        "title": "OpenAI's DeployCo subsidiary adopts Palantir's playbook, building a moat from workflows no lab can simulate",
+        "summary": "OpenAI is building a consulting and implementation business. The \"OpenAI Deployment Company,\" internally called DeployCo, is a majority-controlled subsidiary designed to help companies integrate AI systems into their core operations.\nThe article Open",
+        "content": "OpenAI is building a consulting and implementation business. The \"OpenAI Deployment Company,\" internally called DeployCo, is a majority-controlled subsidiary designed to help companies integrate AI systems into their core operations.\nThe article OpenAI's DeployCo subsidiary adopts Palantir's playbook, building a moat from workflows no lab can simulate appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/openais-internal-share-sale-minted-roughly-75-multimillionaires-who-each-cashed-out-the-30-million-cap/",
+        "sourceUrl": "https://the-decoder.com/openais-deployco-subsidiary-adopts-palantirs-playbook-building-a-moat-from-workflows-no-lab-can-simulate/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Mon, 11 May 2026 11:01:44 +0000",
+        "publishedAt": "Mon, 11 May 2026 15:40:35 +0000",
         "normalizedTags": [
           "the decoder"
         ],
@@ -178,41 +178,41 @@
       },
       {
         "id": "AI-009",
-        "title": " Apple really wants to be king of the fruit logos ",
-        "summary": "Not even citrus is safe from its wrath.",
-        "content": "Not even citrus is safe from its wrath.",
+        "title": "Lawsuit claims ChatGPT coached FSU shooter on gun operation, timing, and victim thresholds",
+        "summary": "OpenAI is facing a lawsuit over the mass shooting at Florida State University. According to the complaint, the shooter spent months talking to ChatGPT about guns and shootings. Florida's attorney general has launched a criminal investigation, saying:",
+        "content": "OpenAI is facing a lawsuit over the mass shooting at Florida State University. According to the complaint, the shooter spent months talking to ChatGPT about guns and shootings. Florida's attorney general has launched a criminal investigation, saying: \"If ChatGPT were a person, it would be facing charges for murder.\" The case adds to a growing wave of lawsuits targeting AI chatbots.\nThe article Lawsuit claims ChatGPT coached FSU shooter on gun operation, timing, and victim thresholds appeared fir",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.creativebloq.com/design/logos-icons/apple-really-wants-to-be-king-of-the-fruit-logos",
-        "sourceName": "Creative Bloq",
+        "sourceUrl": "https://the-decoder.com/lawsuit-claims-chatgpt-coached-fsu-shooter-on-gun-operation-timing-and-victim-thresholds/",
+        "sourceName": "The Decoder",
         "tags": [
-          "Creative Bloq"
+          "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Mon, 11 May 2026 12:15:24 +0000",
+        "publishedAt": "Mon, 11 May 2026 15:19:44 +0000",
         "normalizedTags": [
-          "creative bloq"
+          "the decoder"
         ],
         "imageUrl": "/images/2026-05-11/2026-05-11-creative-AI-009.webp"
       },
       {
         "id": "AI-010",
-        "title": " Prices for PCs, storage and graphics are soaring... but this OLED monitor bucks the trend ",
-        "summary": "Switch between work and fun at will.",
-        "content": "Switch between work and fun at will.",
+        "title": "AI turns patches into working exploits in 30 minutes, and the 90-day disclosure window is the casualty",
+        "summary": "Language models find security flaws faster and turn patches into working exploits in minutes. A veteran researcher says the established disclosure process needs to change.\nThe article AI turns patches into working exploits in 30 minutes, and the 90-d",
+        "content": "Language models find security flaws faster and turn patches into working exploits in minutes. A veteran researcher says the established disclosure process needs to change.\nThe article AI turns patches into working exploits in 30 minutes, and the 90-day disclosure window is the casualty appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.creativebloq.com/tech/headphones-earbuds/prices-for-pcs-storage-and-graphics-are-soaring-but-this-oled-monitor-bucks-the-trend",
-        "sourceName": "Creative Bloq",
+        "sourceUrl": "https://the-decoder.com/ai-turns-patches-into-working-exploits-in-30-minutes-and-the-90-day-disclosure-window-is-the-casualty/",
+        "sourceName": "The Decoder",
         "tags": [
-          "Creative Bloq"
+          "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Mon, 11 May 2026 11:00:00 +0000",
+        "publishedAt": "Mon, 11 May 2026 13:53:20 +0000",
         "normalizedTags": [
-          "creative bloq"
+          "the decoder"
         ],
         "imageUrl": "/images/2026-05-11/2026-05-11-creative-AI-010.webp"
       }
@@ -220,6 +220,46 @@
     "research": [
       {
         "id": "AI-011",
+        "title": "Three things in AI to watch, according to a Nobel-winning economist",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. A few months before he was awarded the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that e",
+        "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. A few months before he was awarded the Nobel Prize in economics in 2024, Daron Acemoglu published a paper that earned him few fans in Silicon Valley. Contrary to what Big Tech…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 11 May 2026 17:35:12 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ],
+        "imageUrl": "/images/2026-05-11/2026-05-11-research-AI-011.webp"
+      },
+      {
+        "id": "AI-012",
+        "title": "Fostering breakthrough AI innovation through customer-back engineering",
+        "summary": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That’s because most big companies begin with technological capabilities and bolt applications ont",
+        "content": "Despite years of digitization, organizations capture less than one-third of the value expected from digital investments, according to McKinsey research. That’s because most big companies begin with technological capabilities and bolt applications onto them, rather than starting with customer needs and working backward to technology solutions. Not prioritizing the customer can create fragmented solutions; disjointed…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 11 May 2026 13:33:06 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ],
+        "imageUrl": "/images/2026-05-11/2026-05-11-research-AI-012.webp"
+      },
+      {
+        "id": "AI-013",
         "title": "Innovation abounds in device charging",
         "summary": "The changes may be less perceptible than in smartphones, tablets, or wearables, but chargers have also been quietly reinvented over the last decade. At one time a bulky mix of tangled cables and connectors, slow to perform and prone to overheating, t",
         "content": "The changes may be less perceptible than in smartphones, tablets, or wearables, but chargers have also been quietly reinvented over the last decade. At one time a bulky mix of tangled cables and connectors, slow to perform and prone to overheating, they’re now smaller, safer, and faster, thanks to a slew of technological advances. These…",
@@ -236,10 +276,10 @@
         "normalizedTags": [
           "mit tech review"
         ],
-        "imageUrl": "/images/2026-05-11/2026-05-11-research-AI-011.webp"
+        "imageUrl": "/images/2026-05-11/2026-05-11-research-AI-013.webp"
       },
       {
-        "id": "AI-012",
+        "id": "AI-014",
         "title": "Implementing advanced AI technologies in finance",
         "summary": "In finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgency. Employees are already using it while leadership races to impose structure, governance, and strate",
         "content": "In finance departments that have long been defined by precision and control, AI has arrived less as a neatly managed upgrade than as a quiet insurgency. Employees are already using it while leadership races to impose structure, governance, and strategy after the fact. The result is a paradox: one of the most tightly regulated functions…",
@@ -256,10 +296,10 @@
         "normalizedTags": [
           "mit tech review"
         ],
-        "imageUrl": "/images/2026-05-11/2026-05-11-research-AI-012.webp"
+        "imageUrl": "/images/2026-05-11/2026-05-11-research-AI-014.webp"
       },
       {
-        "id": "AI-013",
+        "id": "AI-015",
         "title": "The Download: the hantavirus outbreak and Musk v. Altman week 2",
         "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s what you need to know about the cruise ship hantavirus outbreak Last week, eight passengers aboard a Dutc",
         "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s what you need to know about the cruise ship hantavirus outbreak Last week, eight passengers aboard a Dutch-flagged cruise ship contracted a type of hantavirus transmitted by rats. Three have…",
@@ -276,46 +316,6 @@
         "normalizedTags": [
           "mit tech review"
         ],
-        "imageUrl": "/images/2026-05-11/2026-05-11-research-AI-013.webp"
-      },
-      {
-        "id": "AI-014",
-        "title": "GraphDC: A Divide-and-Conquer Multi-Agent System for Scalable Graph Algorithm Reasoning",
-        "summary": "arXiv:2605.06671v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have demonstrated strong potential for many mathematical problems. However, their performance on graph algorithmic tasks is still unsatisfying, since graphs are naturally m",
-        "content": "arXiv:2605.06671v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have demonstrated strong potential for many mathematical problems. However, their performance on graph algorithmic tasks is still unsatisfying, since graphs are naturally more complex in topology and often require systematic multi-step reasoning, especially on larger graphs. Motivated by this gap, we propose GraphDC, a Divide-and-Conquer multi-agent framework for scalable graph algorithm reasoning. Specifically, inspir",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://arxiv.org/abs/2605.06671",
-        "sourceName": "ArXiv CS.AI",
-        "tags": [
-          "ArXiv CS.AI"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
-        "normalizedTags": [
-          "arxiv cs.ai"
-        ],
-        "imageUrl": "/images/2026-05-11/2026-05-11-research-AI-014.webp"
-      },
-      {
-        "id": "AI-015",
-        "title": "More Thinking, More Bias: Length-Driven Position Bias in Reasoning Models",
-        "summary": "arXiv:2605.06672v1 Announce Type: new \nAbstract: Chain-of-thought (CoT) reasoning and reasoning-tuned models such as DeepSeek-R1 are commonly assumed to reduce shallow heuristic biases by thinking carefully. We test this on position bias in multiple-",
-        "content": "arXiv:2605.06672v1 Announce Type: new \nAbstract: Chain-of-thought (CoT) reasoning and reasoning-tuned models such as DeepSeek-R1 are commonly assumed to reduce shallow heuristic biases by thinking carefully. We test this on position bias in multiple-choice QA and find a different story: within any reasoning-capable model, per-question position bias scales with the length of the reasoning trajectory.\n  Across thirteen reasoning-mode configurations (two R1-distilled 7-8B models, two base models pr",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://arxiv.org/abs/2605.06672",
-        "sourceName": "ArXiv CS.AI",
-        "tags": [
-          "ArXiv CS.AI"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 11 May 2026 00:00:00 -0400",
-        "normalizedTags": [
-          "arxiv cs.ai"
-        ],
         "imageUrl": "/images/2026-05-11/2026-05-11-research-AI-015.webp"
       }
     ],
@@ -323,19 +323,19 @@
     "business": [
       {
         "id": "AI-016",
-        "title": "‘The haters will hate’: Dan Ives predicts Nasdaq 30,000 as AI rally expands",
-        "summary": "A solid tech earnings season has seen investor jitters earlier this year evaporate",
-        "content": "A solid tech earnings season has seen investor jitters earlier this year evaporate",
+        "title": "OpenAI revenue chief Dresser says enterprise AI adoption is 'at a tipping point'",
+        "summary": "The OpenAI Development Company is a partnership with 19 investment and consultancy firms and is majority-owned and controlled by the startup.",
+        "content": "The OpenAI Development Company is a partnership with 19 investment and consultancy firms and is majority-owned and controlled by the startup.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/05/11/the-haters-will-hate-dan-ives-predicts-nasdaq-rally.html",
+        "sourceUrl": "https://www.cnbc.com/2026/05/11/open-ai-dresser-enterprise-business.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Mon, 11 May 2026 12:53:03 GMT",
+        "publishedAt": "Mon, 11 May 2026 20:04:09 GMT",
         "normalizedTags": [
           "cnbc tech"
         ],
@@ -343,19 +343,19 @@
       },
       {
         "id": "AI-017",
-        "title": "Micron shares are rising again despite weak overall market. Why memory chip rally seems unstoppable",
-        "summary": "Micron is among the \"most hyped stocks on social media\" as retail enthusiasm simmers",
-        "content": "Micron is among the \"most hyped stocks on social media\" as retail enthusiasm simmers",
+        "title": "Google says it likely thwarted effort by hacker group to use AI for 'mass exploitation event'",
+        "summary": "Hackers are rapidly adopting AI to find previously unknown software flaws even without the help of Anthropic's powerful Mythos model.",
+        "content": "Hackers are rapidly adopting AI to find previously unknown software flaws even without the help of Anthropic's powerful Mythos model.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/05/11/micron-shares-are-rising-again-despite-weak-overall-market-why-memory-chip-rally-seems-unstoppable.html",
+        "sourceUrl": "https://www.cnbc.com/2026/05/11/google-thwarts-effort-hacker-group-use-ai-mass-exploitation-event.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Mon, 11 May 2026 13:42:58 GMT",
+        "publishedAt": "Mon, 11 May 2026 21:13:21 GMT",
         "normalizedTags": [
           "cnbc tech"
         ],
@@ -363,19 +363,19 @@
       },
       {
         "id": "AI-018",
-        "title": "Cerebras bumps up IPO range as it looks to raise up to $4.8 billion",
-        "summary": "Elon Musk was open to having OpenAI merge with Cerebras. Now Cerebras is looking at going public as soon as this week.",
-        "content": "Elon Musk was open to having OpenAI merge with Cerebras. Now Cerebras is looking at going public as soon as this week.",
+        "title": "OpenAI trial: Nadella says Musk never raised concerns to him about Microsoft investment",
+        "summary": "Elon Musk named Microsoft as a defendant in his lawsuit against OpenAI",
+        "content": "Elon Musk named Microsoft as a defendant in his lawsuit against OpenAI",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/05/11/cerebras-raises-ipo-range.html",
+        "sourceUrl": "https://www.cnbc.com/2026/05/11/microsoft-ceo-satya-nadella-musk-altman-trial.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Mon, 11 May 2026 13:44:54 GMT",
+        "publishedAt": "Mon, 11 May 2026 23:30:35 GMT",
         "normalizedTags": [
           "cnbc tech"
         ],
@@ -383,19 +383,19 @@
       },
       {
         "id": "AI-019",
-        "title": "Trump rejects Iran's proposal, Alphabet's rally, Target 'baby boutiques' and more in Morning Squawk",
-        "summary": "Here are five key things investors need to know to start the trading day.",
-        "content": "Here are five key things investors need to know to start the trading day.",
+        "title": "Former Tesla CFO Deepak Ahuja joins EV battery recycler Redwood Materials",
+        "summary": "Before joining Redwood Materials, Ahuja served as chief financial and business officer at the drone delivery startup Zipline for about three years.",
+        "content": "Before joining Redwood Materials, Ahuja served as chief financial and business officer at the drone delivery startup Zipline for about three years.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/05/11/5-things-to-know-before-the-market-opens.html",
+        "sourceUrl": "https://www.cnbc.com/2026/05/11/redwood-materials-deepak-ahuja-tesla-straubel.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Mon, 11 May 2026 12:11:57 GMT",
+        "publishedAt": "Mon, 11 May 2026 19:42:56 GMT",
         "normalizedTags": [
           "cnbc tech"
         ],
@@ -403,19 +403,19 @@
       },
       {
         "id": "AI-020",
-        "title": "OpenAI to give EU access to new cyber model but Anthropic still holding out on Mythos",
-        "summary": "OpenAI announced on Thursday it was granting preview access to its latest cyber model to vetted cybersecurity teams.",
-        "content": "OpenAI announced on Thursday it was granting preview access to its latest cyber model to vetted cybersecurity teams.",
+        "title": "Trump invites Elon Musk, Tim Cook, Larry Fink and other CEOs to join China trip for Xi summit",
+        "summary": "Trump invited Tesla's Elon Musk, Apple's Tim Cook and Blackrock's Larry Fink to join his China trip for talks with Xi Jinping on trade, AI and geopolitics.",
+        "content": "Trump invited Tesla's Elon Musk, Apple's Tim Cook and Blackrock's Larry Fink to join his China trip for talks with Xi Jinping on trade, AI and geopolitics.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/05/11/openai-eu-cyber-model-anthropic-mythos-gpt.html",
+        "sourceUrl": "https://www.cnbc.com/2026/05/11/trump-ceos-elon-musk-tim-cook-larry-fink-xi-china-summit.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Mon, 11 May 2026 11:38:06 GMT",
+        "publishedAt": "Mon, 11 May 2026 17:24:05 GMT",
         "normalizedTags": [
           "cnbc tech"
         ],
@@ -425,7 +425,47 @@
     "policy": [
       {
         "id": "AI-021",
-        "title": "Can the U.S. Rein In Prediction Markets? + Joanna Stern on Her Year of A.I. Experiments + Our Producer Goes to Attention School",
+        "title": "Microsoft’s C.E.O. Intervened When OpenAI Fired Sam Altman, Musk’s Lawyer Claims",
+        "summary": "Elon Musk’s lawyer argued that Microsoft’s Satya Nadella played a role in getting Mr. Altman his job back at OpenAI when he was briefly fired in 2023.",
+        "content": "Elon Musk’s lawyer argued that Microsoft’s Satya Nadella played a role in getting Mr. Altman his job back at OpenAI when he was briefly fired in 2023.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/05/11/technology/satya-nadella-openai-sam-altman.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 11 May 2026 22:15:00 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-05-11/2026-05-11-policy-AI-021.webp"
+      },
+      {
+        "id": "AI-022",
+        "title": "Inside the Elon Musk-OpenAI Trial Courtroom",
+        "summary": "The tech leaders, with combined net worths exceeding $670 billion, have brought props to court and traded icy stares as their legal dispute reaches a denouement.",
+        "content": "The tech leaders, with combined net worths exceeding $670 billion, have brought props to court and traded icy stares as their legal dispute reaches a denouement.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/05/11/technology/courtroom-circus-elon-musk-sam-altman.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 11 May 2026 18:22:08 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-05-11/2026-05-11-policy-AI-022.webp"
+      },
+      {
+        "id": "AI-023",
+        "title": "Can the U.S. Rein in Prediction Markets? + Joanna Stern on Her Year of A.I. Experiments + Our Producer Goes to Attention School",
         "summary": "“It seems every other day I am reading a story about a massive insider trading scandal.”",
         "content": "“It seems every other day I am reading a story about a massive insider trading scandal.”",
         "keyTakeaways": [],
@@ -437,20 +477,80 @@
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Mon, 11 May 2026 08:53:07 +0000",
+        "publishedAt": "Mon, 11 May 2026 16:17:26 +0000",
         "normalizedTags": [
           "nyt technology"
         ],
-        "imageUrl": "/images/2026-05-11/2026-05-11-policy-AI-021.webp"
+        "imageUrl": "/images/2026-05-11/2026-05-11-policy-AI-023.webp"
+      },
+      {
+        "id": "AI-024",
+        "title": "Google Says Criminal Hackers Used A.I. to Find a Major Software Flaw",
+        "summary": "The company said that it had identified, for the first time, hackers using artificial intelligence to discover an unknown bug. The attempted attack represents “a taste of what’s to come,” one expert said.",
+        "content": "The company said that it had identified, for the first time, hackers using artificial intelligence to discover an unknown bug. The attempted attack represents “a taste of what’s to come,” one expert said.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 11 May 2026 13:00:07 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-05-11/2026-05-11-policy-AI-024.webp"
+      },
+      {
+        "id": "AI-025",
+        "title": "See the hidden rules behind AI. Then use them to rewrite this article.",
+        "summary": "Understanding the secret commands that steer the behavior of chatbots like ChatGPT can help you customize them to your needs.",
+        "content": "Understanding the secret commands that steer the behavior of chatbots like ChatGPT can help you customize them to your needs.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.washingtonpost.com/technology/interactive/2026/chatbots-hidden-rules-system-prompts/",
+        "sourceName": "Washington Post Tech",
+        "tags": [
+          "Washington Post Tech"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 11 May 2026 09:00:00 +0000",
+        "normalizedTags": [
+          "washington post tech"
+        ],
+        "imageUrl": "/images/2026-05-11/2026-05-11-policy-AI-025.webp"
       }
     ],
     "concerns": [],
     "culture": [
       {
-        "id": "AI-022",
+        "id": "AI-026",
+        "title": "AI-powered hacking has exploded into industrial-scale threat, Google says",
+        "summary": "Criminal groups and state-linked actors appear to be using commercial models to refine and scale up attacks\n\nBusiness live – latest updates\n\nIn just three months, AI-powered hacking has gone from a nascent problem to an industrial-scale threat, accor",
+        "content": "Criminal groups and state-linked actors appear to be using commercial models to refine and scale up attacks\n\nBusiness live – latest updates\n\nIn just three months, AI-powered hacking has gone from a nascent problem to an industrial-scale threat, according to a report from Google.\nThe findings from Google’s threat intelligence group add to an intensifying, global discussion about how the newest AI models are extremely adept at coding – and becoming extremely powerful tools for exploiting vulnerabi",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/may/11/ai-powered-hacking-industrial-scale-threat-three-months-google",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 11 May 2026 14:43:00 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-05-11/2026-05-11-culture-AI-026.webp"
+      },
+      {
+        "id": "AI-027",
         "title": "Molière Ex Machina: AI used to create ‘new work’ by beloved French playwright",
         "summary": "Comedy debuts at Versailles featuring dialogue, music, costumes and scenery created with help of AI tool Le Chat\n\nEurope live – latest updates\n\n\nMolière is to the French what Shakespeare is to the English: the last word in historical literature, dram",
-        "content": "Comedy debuts at Versailles featuring dialogue, music, costumes and scenery created with help of AI tool Le Chat\n\nEurope live – latest updates\n\n\nMolière is to the French what Shakespeare is to the English: the last word in historical literature, drama, wit and satire.\nNow, more than 350 years after his death, the 17th century dramatist has been revived after scholars at the Sorbonne University in Paris used artificial intelligence to help write an experimental play in his style.\n Continue readin",
+        "content": "Comedy debuts at Versailles featuring dialogue, music, costumes and scenery created with help of AI tool Le Chat\n\nEurope live – latest updates\n\n\nMolière is to the French what Shakespeare is to the English: the last word in historical literature, drama, wit and satire.\nNow, more than 350 years after his death, the 17th-century dramatist has been revived after scholars at the Sorbonne University in Paris used artificial intelligence to help write an experimental play in his style.\n Continue readin",
         "keyTakeaways": [],
         "whyItMatters": "",
         "sourceUrl": "https://www.theguardian.com/stage/2026/may/11/moliere-ex-machina-ai-create-new-work-france-equivalent-shakespeare",
@@ -464,13 +564,13 @@
         "normalizedTags": [
           "the guardian ai"
         ],
-        "imageUrl": "/images/2026-05-11/2026-05-11-culture-AI-022.webp"
+        "imageUrl": "/images/2026-05-11/2026-05-11-culture-AI-027.webp"
       },
       {
-        "id": "AI-023",
+        "id": "AI-028",
         "title": "Palantir’s access to identifiable NHS England patient data is ‘dangerous’, MPs say",
-        "summary": "Decision made to grant US tech firm ‘unlimited access’ to data in project to build integrated platform, according to reports\n\nUK politics live – latest updates\n\nMPs have warned that an NHS decision to grant Palantir access to identifiable patient inf",
-        "content": "Decision made to grant US tech firm ‘unlimited access’ to data in project to build integrated platform, according to reports\n\nUK politics live – latest updates\n\nMPs have warned that an NHS decision to grant Palantir access to identifiable patient information in its plan to use AI to improve the health service is “dangerous” and will fuel public fears that data privacy is not being prioritised.\nNHS England has allowed staff from the US tech firm and other contractors to access patient data before",
+        "summary": "Health service has given US tech firm ‘unlimited access’ to certain data to build integrated platform, according to reports\n\nUK politics live – latest updates\n\nMPs have warned that an NHS decision to grant Palantir access to identifiable patient info",
+        "content": "Health service has given US tech firm ‘unlimited access’ to certain data to build integrated platform, according to reports\n\nUK politics live – latest updates\n\nMPs have warned that an NHS decision to grant Palantir access to identifiable patient information in its plan to use AI to improve the health service is “dangerous” and will fuel public fears that data privacy is not being prioritised.\nNHS England has allowed staff from the US tech firm and other contractors to access patient data before ",
         "keyTakeaways": [],
         "whyItMatters": "",
         "sourceUrl": "https://www.theguardian.com/society/2026/may/11/palantir-access-nhs-england-patient-data",
@@ -484,10 +584,10 @@
         "normalizedTags": [
           "the guardian ai"
         ],
-        "imageUrl": "/images/2026-05-11/2026-05-11-culture-AI-023.webp"
+        "imageUrl": "/images/2026-05-11/2026-05-11-culture-AI-028.webp"
       },
       {
-        "id": "AI-024",
+        "id": "AI-029",
         "title": "Forget the AI job apocalypse. AI’s real threat is worker control and surveillance",
         "summary": "A new divide is emerging: between workers who use AI at work and those who are managed by it\nThe real danger that artificial intelligence poses to work is not just job loss – it is the growing divide between people who use AI to extend their skills a",
         "content": "A new divide is emerging: between workers who use AI at work and those who are managed by it\nThe real danger that artificial intelligence poses to work is not just job loss – it is the growing divide between people who use AI to extend their skills and those whose working lives are increasingly shaped by opaque, AI-powered systems of surveillance and control.\nThe debate about artificial intelligence and how it will affect workers is stuck in the wrong place. On one side are warnings that machine",
@@ -504,30 +604,10 @@
         "normalizedTags": [
           "the guardian ai"
         ],
-        "imageUrl": "/images/2026-05-11/2026-05-11-culture-AI-024.webp"
+        "imageUrl": "/images/2026-05-11/2026-05-11-culture-AI-029.webp"
       },
       {
-        "id": "AI-025",
-        "title": "Mistaking AI behaviour for conscious being | Letter",
-        "summary": "Dr Simon Nieder responds to Richard Dawkins’ encounters with a chatbot\nRichard Dawkins’ reflections on AI consciousness are striking – not because they show that machines have crossed some hidden threshold into inner life, but because they reveal how",
-        "content": "Dr Simon Nieder responds to Richard Dawkins’ encounters with a chatbot\nRichard Dawkins’ reflections on AI consciousness are striking – not because they show that machines have crossed some hidden threshold into inner life, but because they reveal how readily we can be persuaded that they have (Richard Dawkins concludes AI is conscious, even if it doesn’t know it, 5 May).\nMany will recognise the experience: a system that responds with fluency, humour and apparent understanding. At some point, sim",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/may/10/mistaking-ai-behaviour-for-conscious-being",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Sun, 10 May 2026 15:55:14 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ],
-        "imageUrl": "/images/2026-05-11/2026-05-11-culture-AI-025.webp"
-      },
-      {
-        "id": "AI-026",
+        "id": "AI-030",
         "title": "CUDA Proves Nvidia Is a Software Company",
         "summary": "There’s a deep, forbidding moat that surrounds Nvidia—and it has nothing to do with hardware.",
         "content": "There’s a deep, forbidding moat that surrounds Nvidia—and it has nothing to do with hardware.",
@@ -544,7 +624,7 @@
         "normalizedTags": [
           "wired ai"
         ],
-        "imageUrl": "/images/2026-05-11/2026-05-11-culture-AI-026.webp"
+        "imageUrl": "/images/2026-05-11/2026-05-11-culture-AI-030.webp"
       }
     ]
   },
@@ -554,33 +634,37 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
+    "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
     "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
-    "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
-    "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
-    "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
-    "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-    "https://the-decoder.com/generative-ai-turns-identity-theft-into-an-industrial-scale-operation/",
-    "https://the-decoder.com/nvidia-pumps-over-40-billion-dollars-into-ai-partners-so-far-in-2026/",
-    "https://the-decoder.com/openais-internal-share-sale-minted-roughly-75-multimillionaires-who-each-cashed-out-the-30-million-cap/",
-    "https://www.creativebloq.com/design/logos-icons/apple-really-wants-to-be-king-of-the-fruit-logos",
-    "https://www.creativebloq.com/tech/headphones-earbuds/prices-for-pcs-storage-and-graphics-are-soaring-but-this-oled-monitor-bucks-the-trend",
+    "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
+    "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
+    "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
+    "https://the-decoder.com/the-eu-wants-to-regulate-ai-but-needs-openai-and-anthropic-to-let-regulators-through-the-door/",
+    "https://the-decoder.com/baidus-ernie-5-1-cuts-94-percent-of-pre-training-costs-while-competing-with-top-models/",
+    "https://the-decoder.com/openais-deployco-subsidiary-adopts-palantirs-playbook-building-a-moat-from-workflows-no-lab-can-simulate/",
+    "https://the-decoder.com/lawsuit-claims-chatgpt-coached-fsu-shooter-on-gun-operation-timing-and-victim-thresholds/",
+    "https://the-decoder.com/ai-turns-patches-into-working-exploits-in-30-minutes-and-the-90-day-disclosure-window-is-the-casualty/",
+    "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+    "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
     "https://www.technologyreview.com/2026/05/11/1136406/innovation-abounds-in-device-charging/",
     "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
     "https://www.technologyreview.com/2026/05/11/1137031/the-download-hantavirus-outbreak-musk-altman-trial/",
-    "https://arxiv.org/abs/2605.06671",
-    "https://arxiv.org/abs/2605.06672",
-    "https://www.cnbc.com/2026/05/11/the-haters-will-hate-dan-ives-predicts-nasdaq-rally.html",
-    "https://www.cnbc.com/2026/05/11/micron-shares-are-rising-again-despite-weak-overall-market-why-memory-chip-rally-seems-unstoppable.html",
-    "https://www.cnbc.com/2026/05/11/cerebras-raises-ipo-range.html",
-    "https://www.cnbc.com/2026/05/11/5-things-to-know-before-the-market-opens.html",
-    "https://www.cnbc.com/2026/05/11/openai-eu-cyber-model-anthropic-mythos-gpt.html",
+    "https://www.cnbc.com/2026/05/11/open-ai-dresser-enterprise-business.html",
+    "https://www.cnbc.com/2026/05/11/google-thwarts-effort-hacker-group-use-ai-mass-exploitation-event.html",
+    "https://www.cnbc.com/2026/05/11/microsoft-ceo-satya-nadella-musk-altman-trial.html",
+    "https://www.cnbc.com/2026/05/11/redwood-materials-deepak-ahuja-tesla-straubel.html",
+    "https://www.cnbc.com/2026/05/11/trump-ceos-elon-musk-tim-cook-larry-fink-xi-china-summit.html",
+    "https://www.nytimes.com/2026/05/11/technology/satya-nadella-openai-sam-altman.html",
+    "https://www.nytimes.com/2026/05/11/technology/courtroom-circus-elon-musk-sam-altman.html",
     "https://www.nytimes.com/2026/05/08/podcasts/hardfork-prediction-markets.html",
+    "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
+    "https://www.washingtonpost.com/technology/interactive/2026/chatbots-hidden-rules-system-prompts/",
+    "https://www.theguardian.com/technology/2026/may/11/ai-powered-hacking-industrial-scale-threat-three-months-google",
     "https://www.theguardian.com/stage/2026/may/11/moliere-ex-machina-ai-create-new-work-france-equivalent-shakespeare",
     "https://www.theguardian.com/society/2026/may/11/palantir-access-nhs-england-patient-data",
     "https://www.theguardian.com/technology/2026/may/11/ai-worker-control-surveillance",
-    "https://www.theguardian.com/technology/2026/may/10/mistaking-ai-behaviour-for-conscious-being",
     "https://www.wired.com/story/cuda-proves-nvidia-is-a-software-company/"
   ],
-  "generatedAt": "2026-05-11T13:45:53.237Z",
+  "generatedAt": "2026-05-11T23:48:22.398Z",
   "simpleSummaryImageUrl": "/images/2026-05-11/2026-05-11-summary.webp"
 }
