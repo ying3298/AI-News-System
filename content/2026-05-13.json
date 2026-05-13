@@ -2,10 +2,11 @@
   "date": "2026-05-13",
   "dateFormatted": "May 13, 2026",
   "headline": {
-    "title": "Adaption aims big with AutoScientist, an AI tool that helps models train themselves",
-    "summary": "Adaption's new AutoScientist tool is designed to let models adapt to specific capabilities quickly through an automated approach to conventional fine-tuning.",
-    "sourceUrl": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/",
-    "sourceName": "TechCrunch AI"
+    "title": "Notion just turned its workspace into a hub for AI agents",
+    "summary": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
+    "sourceUrl": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+    "sourceName": "TechCrunch AI",
+    "imageUrl": "/images/2026-05-13/2026-05-13-hero.webp"
   },
   "simpleSummary": [
     "Today's edition was assembled directly from RSS feeds without AI curation.",
@@ -15,200 +16,230 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "Adaption aims big with AutoScientist, an AI tool that helps models train themselves",
-        "summary": "Adaption's new AutoScientist tool is designed to let models adapt to specific capabilities quickly through an automated approach to conventional fine-tuning.",
-        "content": "Adaption's new AutoScientist tool is designed to let models adapt to specific capabilities quickly through an automated approach to conventional fine-tuning.",
+        "title": "Notion just turned its workspace into a hub for AI agents",
+        "summary": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
+        "content": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/",
+        "sourceUrl": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Wed, 13 May 2026 12:11:33 +0000",
+        "publishedAt": "Wed, 13 May 2026 21:45:09 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-13/2026-05-13-tools-AI-001.webp"
       },
       {
         "id": "AI-002",
-        "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
-        "summary": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. ACCESS creates that mechanism for the first time.",
-        "content": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. ACCESS creates that mechanism for the first time.",
+        "title": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
+        "summary": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants.",
+        "content": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+        "sourceUrl": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Wed, 13 May 2026 00:26:48 +0000",
+        "publishedAt": "Wed, 13 May 2026 19:49:42 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-13/2026-05-13-tools-AI-002.webp"
       },
       {
         "id": "AI-003",
-        "title": "Musk mulled handing OpenAI to his children, Altman testifies",
-        "summary": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experience running the prominent startup accelerator Y Co",
-        "content": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experience running the prominent startup accelerator Y Combinator, knew \"founders who had control usually did not give it up.\"",
+        "title": "Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
+        "summary": "The head of product for Claude Code and Cowork says that the next big step for AI is proactivity.",
+        "content": "The head of product for Claude Code and Cowork says that the next big step for AI is proactivity.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
+        "sourceUrl": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Tue, 12 May 2026 18:05:15 +0000",
+        "publishedAt": "Wed, 13 May 2026 19:28:06 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-13/2026-05-13-tools-AI-003.webp"
       },
       {
         "id": "AI-004",
-        "title": "Anthropic warns investors against secondary platforms offering access to its shares",
-        "summary": "\"Any sale or transfer of Anthropic stock, or any interest in Anthropic stock, offered by these firms is void and will not be recognized on our books and records,\" the company's support page reads.",
-        "content": "\"Any sale or transfer of Anthropic stock, or any interest in Anthropic stock, offered by these firms is void and will not be recognized on our books and records,\" the company's support page reads.",
+        "title": "Who trusts Sam Altman?",
+        "summary": "\"I believe I am an honest and trustworthy businessperson,\" Altman testified in federal court.",
+        "content": "\"I believe I am an honest and trustworthy businessperson,\" Altman testified in federal court.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
+        "sourceUrl": "https://techcrunch.com/2026/05/13/who-trusts-sam-altman/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Tue, 12 May 2026 17:36:34 +0000",
+        "publishedAt": "Wed, 13 May 2026 16:31:04 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-13/2026-05-13-tools-AI-004.webp"
       },
       {
         "id": "AI-005",
-        "title": "Report: Google and SpaceX in talks to put data centers into orbit",
-        "summary": "Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground.",
-        "content": "Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground.",
+        "title": "Origin Lab raises $8M to help video game companies sell data to world-model builders",
+        "summary": "Origin Lab will serve as a marketplace where AI labs can buy high-quality licensed data, and video-game companies can sell it.",
+        "content": "Origin Lab will serve as a marketplace where AI labs can buy high-quality licensed data, and video-game companies can sell it.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
+        "sourceUrl": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Tue, 12 May 2026 17:30:57 +0000",
+        "publishedAt": "Wed, 13 May 2026 16:22:01 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-13/2026-05-13-tools-AI-005.webp"
       }
     ],
     "creative": [
       {
         "id": "AI-006",
-        "title": "AI startup Recursive emerges from stealth with $650 million to build self-improving AI",
-        "summary": "AI startup Recursive has officially emerged from stealth, calling recursive self-improvement the \"fastest path to superintelligence.\"\nThe article AI startup Recursive emerges from stealth with $650 million to build self-improving AI appeared first on",
-        "content": "AI startup Recursive has officially emerged from stealth, calling recursive self-improvement the \"fastest path to superintelligence.\"\nThe article AI startup Recursive emerges from stealth with $650 million to build self-improving AI appeared first on The Decoder.",
+        "title": "Tencent plans to ramp up AI spending as China's chip supply allegedly improves",
+        "summary": "Tencent plans to significantly boost AI infrastructure spending in the second half of 2026, as Chinese chipmakers ramp up domestic AI chip production. The company also posted strong first-quarter results and is in talks for a stake in Deepseek.\nThe a",
+        "content": "Tencent plans to significantly boost AI infrastructure spending in the second half of 2026, as Chinese chipmakers ramp up domestic AI chip production. The company also posted strong first-quarter results and is in talks for a stake in Deepseek.\nThe article Tencent plans to ramp up AI spending as China's chip supply allegedly improves appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/ai-startup-recursive-emerges-from-stealth-with-650-million-to-build-self-improving-ai/",
+        "sourceUrl": "https://the-decoder.com/tencent-plans-to-ramp-up-ai-spending-as-chinas-chip-supply-allegedly-improves/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Wed, 13 May 2026 10:40:06 +0000",
+        "publishedAt": "Wed, 13 May 2026 18:46:46 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-13/2026-05-13-creative-AI-006.webp"
       },
       {
         "id": "AI-007",
-        "title": "Google is hiring hundreds of engineers to help customers adopt its AI",
-        "summary": "Google is hiring now also hundreds of engineers to help customers adopt its AI. A sign that implementation remains difficult.\nThe article Google is hiring hundreds of engineers to help customers adopt its AI appeared first on The Decoder.",
-        "content": "Google is hiring now also hundreds of engineers to help customers adopt its AI. A sign that implementation remains difficult.\nThe article Google is hiring hundreds of engineers to help customers adopt its AI appeared first on The Decoder.",
+        "title": "Anthropic overtakes OpenAI in B2B adoption for the first time according to Ramp spending data",
+        "summary": "Anthropic now leads OpenAI in B2B adoption for the first time, with 34.4 percent of US companies on the Ramp AI Index compared to OpenAI's 32.3 percent. Anthropic quadrupled its reach in just one year, but three factors could erode that lead quickly.",
+        "content": "Anthropic now leads OpenAI in B2B adoption for the first time, with 34.4 percent of US companies on the Ramp AI Index compared to OpenAI's 32.3 percent. Anthropic quadrupled its reach in just one year, but three factors could erode that lead quickly.\nThe article Anthropic overtakes OpenAI in B2B adoption for the first time according to Ramp spending data appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/google-is-hiring-hundreds-of-engineers-to-help-customers-adopt-its-ai/",
+        "sourceUrl": "https://the-decoder.com/anthropic-overtakes-openai-in-b2b-adoption-for-the-first-time-according-to-ramp-spending-data/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Wed, 13 May 2026 10:17:12 +0000",
+        "publishedAt": "Wed, 13 May 2026 18:23:15 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-13/2026-05-13-creative-AI-007.webp"
       },
       {
         "id": "AI-008",
-        "title": "From Prompt to Pointer Engineering: Deepmind tries to reinvent the mouse cursor for the AI era",
-        "summary": "Pointer Engineering: Deepmind wants to turn the mouse cursor into the key variable in context engineering.\nThe article From Prompt to Pointer Engineering: Deepmind tries to reinvent the mouse cursor for the AI era appeared first on The Decoder.",
-        "content": "Pointer Engineering: Deepmind wants to turn the mouse cursor into the key variable in context engineering.\nThe article From Prompt to Pointer Engineering: Deepmind tries to reinvent the mouse cursor for the AI era appeared first on The Decoder.",
+        "title": "Meta AI gets a private mode where no conversation data is stored on servers",
+        "summary": "Meta is rolling out \"Incognito Chat\" for Meta AI on WhatsApp and in the Meta AI app. According to Mark Zuckerberg, conversations are processed in a protected server environment that even Meta can't access, and chat histories disappear when the sessio",
+        "content": "Meta is rolling out \"Incognito Chat\" for Meta AI on WhatsApp and in the Meta AI app. According to Mark Zuckerberg, conversations are processed in a protected server environment that even Meta can't access, and chat histories disappear when the session ends. Zuckerberg claims Meta is the first AI lab to offer this level of private AI usage.\nThe article Meta AI gets a private mode where no conversation data is stored on servers appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/from-prompt-to-pointer-engineering-deepmind-tries-to-reinvent-the-mouse-cursor-for-the-ai-era/",
+        "sourceUrl": "https://the-decoder.com/meta-ai-gets-a-private-mode-where-no-conversation-data-is-stored-on-servers/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Wed, 13 May 2026 09:36:52 +0000",
+        "publishedAt": "Wed, 13 May 2026 17:47:02 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-13/2026-05-13-creative-AI-008.webp"
       },
       {
         "id": "AI-009",
-        "title": "Android gets AI agents that book trips, fill forms, and clean up your texts",
-        "summary": "With Gemini Intelligence, Google is introducing new AI features for Android that automate multi-step tasks, summarize web content, fill out forms, and turn spoken thoughts into polished text messages.\nThe article Android gets AI agents that book trip",
-        "content": "With Gemini Intelligence, Google is introducing new AI features for Android that automate multi-step tasks, summarize web content, fill out forms, and turn spoken thoughts into polished text messages.\nThe article Android gets AI agents that book trips, fill forms, and clean up your texts appeared first on The Decoder.",
+        "title": "Anthropic launches Claude for Small Business to embed AI into the tools you forgot you pay for",
+        "summary": "Anthropic is launching \"Claude for Small Business,\" a package of 15 agent-based workflows and integrations for tools like QuickBooks, PayPal, and HubSpot. The company is also rolling out free training courses and a workshop tour across ten US cities ",
+        "content": "Anthropic is launching \"Claude for Small Business,\" a package of 15 agent-based workflows and integrations for tools like QuickBooks, PayPal, and HubSpot. The company is also rolling out free training courses and a workshop tour across ten US cities as it pushes to bring AI directly to small businesses.\nThe article Anthropic launches Claude for Small Business to embed AI into the tools you forgot you pay for appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/gemini-intelligence-makes-autofill-chrome-and-gboard-on-android-smarter/",
+        "sourceUrl": "https://the-decoder.com/anthropic-launches-claude-for-small-business-to-embed-ai-into-the-tools-you-forgot-you-pay-for/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Tue, 12 May 2026 19:22:49 +0000",
+        "publishedAt": "Wed, 13 May 2026 17:28:42 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-13/2026-05-13-creative-AI-009.webp"
       },
       {
         "id": "AI-010",
-        "title": "Anthropic expands legal AI offerings with new Claude Cowork plugins",
-        "summary": "Anthropic launches twelve new Claude plugins for legal work covering contract law, employment law, and litigation, while connecting the chatbot to services like Thomson Reuters' CoCounsel Legal and Harvey. According to Anthropic's chief legal officer",
-        "content": "Anthropic launches twelve new Claude plugins for legal work covering contract law, employment law, and litigation, while connecting the chatbot to services like Thomson Reuters' CoCounsel Legal and Harvey. According to Anthropic's chief legal officer, lawyers use Claude more than almost any other profession.\nThe article Anthropic expands legal AI offerings with new Claude Cowork plugins appeared first on The Decoder.",
+        "title": "Luma opens Uni-1.1 image model API at prices and quality matching OpenAI and Google",
+        "summary": "Luma is making its Uni-1.1 image model available via API, with prices starting at $0.04 per image at 2,048-pixel resolution. On the Arena leaderboard, the model ranks third, right behind Google and OpenAI. The API includes web search, built-in reason",
+        "content": "Luma is making its Uni-1.1 image model available via API, with prices starting at $0.04 per image at 2,048-pixel resolution. On the Arena leaderboard, the model ranks third, right behind Google and OpenAI. The API includes web search, built-in reasoning, and support for up to nine reference images.\nThe article Luma opens Uni-1.1 image model API at prices and quality matching OpenAI and Google appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/anthropic-expands-legal-ai-offerings-with-new-cowork-plugins/",
+        "sourceUrl": "https://the-decoder.com/luma-opens-uni-1-1-image-model-api-at-prices-and-quality-matching-openai-and-google/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Tue, 12 May 2026 18:41:05 +0000",
+        "publishedAt": "Wed, 13 May 2026 15:45:46 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-13/2026-05-13-creative-AI-010.webp"
       }
     ],
     "research": [
       {
         "id": "AI-011",
+        "title": "AI chatbots are giving out people’s real phone numbers",
+        "summary": "People report that their personal contact info was surfaced by Google AI—and there’s apparently no easy way to prevent it.  A Redditor recently wrote that he was “desperate for help”: for about a month, he said, his phone had been inundated by calls ",
+        "content": "People report that their personal contact info was surfaced by Google AI—and there’s apparently no easy way to prevent it.  A Redditor recently wrote that he was “desperate for help”: for about a month, he said, his phone had been inundated by calls from “strangers” who were “looking for a lawyer, a product designer, a…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 13 May 2026 18:09:03 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ],
+        "imageUrl": "/images/2026-05-13/2026-05-13-research-AI-011.webp"
+      },
+      {
+        "id": "AI-012",
         "title": "The Download: making drugs in orbit and NASA’s nuclear-powered spacecraft",
         "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A plan to make drugs in orbit is going commercial A startup called Varda Space Industries is betting that the fu",
         "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A plan to make drugs in orbit is going commercial A startup called Varda Space Industries is betting that the future of pharmaceuticals lies in orbit. The company has signed a…",
@@ -224,10 +255,11 @@
         "publishedAt": "Wed, 13 May 2026 12:10:00 +0000",
         "normalizedTags": [
           "mit tech review"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-13/2026-05-13-research-AI-012.webp"
       },
       {
-        "id": "AI-012",
+        "id": "AI-013",
         "title": "A plan to make drugs in orbit is going commercial",
         "summary": "Varda Space Industries, a startup that’s been pitching its ability to perform drug experiments in space, says it has signed up the pharmaceutical company United Therapeutics in what may be remembered as a notable step toward in-orbit manufacturing. T",
         "content": "Varda Space Industries, a startup that’s been pitching its ability to perform drug experiments in space, says it has signed up the pharmaceutical company United Therapeutics in what may be remembered as a notable step toward in-orbit manufacturing. The idea of building things in outer space for use on Earth has so far been explored…",
@@ -243,26 +275,8 @@
         "publishedAt": "Wed, 13 May 2026 10:00:00 +0000",
         "normalizedTags": [
           "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-013",
-        "title": "World Models: 10 Things That Matter in AI Right Now",
-        "summary": "World models recently made our list of 10 Things That Matter in AI Right Now. Watch executive editor Niall Firth explain why this emerging area of AI is gaining so much attention. Join MIT Technology Review editors and reporters for a subscriber-only",
-        "content": "World models recently made our list of 10 Things That Matter in AI Right Now. Watch executive editor Niall Firth explain why this emerging area of AI is gaining so much attention. Join MIT Technology Review editors and reporters for a subscriber-only Roundtables discussion, “Can AI Learn to Understand the World?” exploring how AI may evolve to…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/05/12/1137134/world-models-10-things-that-matter-in-ai-right-now/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
         ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Tue, 12 May 2026 16:22:15 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
+        "imageUrl": "/images/2026-05-13/2026-05-13-research-AI-013.webp"
       },
       {
         "id": "AI-014",
@@ -281,7 +295,8 @@
         "publishedAt": "Wed, 13 May 2026 00:00:00 -0400",
         "normalizedTags": [
           "arxiv cs.ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-13/2026-05-13-research-AI-014.webp"
       },
       {
         "id": "AI-015",
@@ -300,186 +315,156 @@
         "publishedAt": "Wed, 13 May 2026 00:00:00 -0400",
         "normalizedTags": [
           "arxiv cs.ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-13/2026-05-13-research-AI-015.webp"
       }
     ],
     "applications": [],
     "business": [
       {
         "id": "AI-016",
-        "title": "Inflation jumps, Altman's testimony, Huang joins Trump's China visit and more in Morning Squawk",
-        "summary": "Here are five key things investors need to know to start the trading day.",
-        "content": "Here are five key things investors need to know to start the trading day.",
+        "title": "Cerebras prices IPO above expected range, as Wall Street braces for AI tsunami",
+        "summary": "Cerebras raised $5.55 billion in its IPO, and with the chipmaker's offering, investors are gearing up for some even bigger AI deals later this year.",
+        "content": "Cerebras raised $5.55 billion in its IPO, and with the chipmaker's offering, investors are gearing up for some even bigger AI deals later this year.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/05/13/5-things-to-know-before-the-market-opens.html",
+        "sourceUrl": "https://www.cnbc.com/2026/05/13/cerebras-prices-ipo-above-expected-range-wall-street-expects-ai-flood.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Wed, 13 May 2026 12:32:27 GMT",
+        "publishedAt": "Wed, 13 May 2026 23:18:10 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-13/2026-05-13-business-AI-016.webp"
       },
       {
         "id": "AI-017",
-        "title": "Alibaba's core profit plunges 84% even as AI and cloud growth accelerate",
-        "summary": "Alibaba on Wednesday said its core profitability plunged in the March quarter amid heavy investments in tech and e-commerce.",
-        "content": "Alibaba on Wednesday said its core profitability plunged in the March quarter amid heavy investments in tech and e-commerce.",
+        "title": "Microsoft feared being too dependent on OpenAI, Musk-Altman trial testimony reveals",
+        "summary": "Top Microsoft executives testified in Musk v. Altman this week, spelling out concerns they had in the early days of the partnership with OpenAI.",
+        "content": "Top Microsoft executives testified in Musk v. Altman this week, spelling out concerns they had in the early days of the partnership with OpenAI.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/05/13/alibaba-earnings-march-quarter-ai-cloud-growth.html",
+        "sourceUrl": "https://www.cnbc.com/2026/05/13/microsoft-feared-openai-reliance-musk-altman-trial-testimony-reveals.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Wed, 13 May 2026 12:10:05 GMT",
+        "publishedAt": "Wed, 13 May 2026 22:48:19 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-13/2026-05-13-business-AI-017.webp"
       },
       {
         "id": "AI-018",
-        "title": "China's Tencent sees boost from gaming, AI demand even as revenue comes in weaker than expected",
-        "summary": "The tech giant reported its first-quarter 2026 earnings on Wednesday.",
-        "content": "The tech giant reported its first-quarter 2026 earnings on Wednesday.",
+        "title": "Cisco's stock pops 17% on surging AI orders, as company says it's cutting almost 4,000 jobs",
+        "summary": "Cisco's AI story has finally started resonating with Wall Street, with the stock hitting a record late last year and continuing to rally in 2026.",
+        "content": "Cisco's AI story has finally started resonating with Wall Street, with the stock hitting a record late last year and continuing to rally in 2026.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/05/13/tencent-q1-earnings-gaming-ai-demand-revenue-miss.html",
+        "sourceUrl": "https://www.cnbc.com/2026/05/13/cisco-csco-q3-earnings-report-2026.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Wed, 13 May 2026 09:54:31 GMT",
+        "publishedAt": "Wed, 13 May 2026 23:03:12 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-13/2026-05-13-business-AI-018.webp"
       },
       {
         "id": "AI-019",
-        "title": "SoftBank posts $46 billion gain at Vision Fund driven mainly by massive OpenAI bet",
-        "summary": "SoftBank booked a yearly gain of $46 billion at its Vision Fund driven in large part by the huge rise in value of its investment in OpenAI.",
-        "content": "SoftBank booked a yearly gain of $46 billion at its Vision Fund driven in large part by the huge rise in value of its investment in OpenAI.",
+        "title": "AI-driven cyberattacks will start to be the 'new norm' in months, Palo Alto warns",
+        "summary": "The rise of increasingly sophisticated AI models is putting pressure on cybersecurity teams to step up their defenses for newer and faster cyberattacks.",
+        "content": "The rise of increasingly sophisticated AI models is putting pressure on cybersecurity teams to step up their defenses for newer and faster cyberattacks.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/05/13/softbank-earnings-fy-2025-vision-fund-openai-stake.html",
+        "sourceUrl": "https://www.cnbc.com/2026/05/13/palo-alto-ai-cyberattacks-mythos-gpt.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Wed, 13 May 2026 09:05:56 GMT",
+        "publishedAt": "Wed, 13 May 2026 21:58:45 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-13/2026-05-13-business-AI-019.webp"
       },
       {
         "id": "AI-020",
-        "title": "Samsung Electronics recovers $66 billion intraday wipeout after Seoul steps in to calm strike fears",
-        "summary": "Samsung Electronics reversed steep intraday losses after South Korea’s government urged labor and management to resume talks.",
-        "content": "Samsung Electronics reversed steep intraday losses after South Korea’s government urged labor and management to resume talks.",
+        "title": "Why this unheralded AI stock can go higher despite its recent massive rally",
+        "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+        "content": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/05/13/samsung-electronics-pares-66-billion-rout-as-seoul-moves-to-calm-strike-fears-involving-41000-workers.html",
+        "sourceUrl": "https://www.cnbc.com/2026/05/13/jim-cramer-this-unheralded-stock-qnity-has-become-one-of-the-investing-clubs-top-performers.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Wed, 13 May 2026 03:19:05 GMT",
+        "publishedAt": "Wed, 13 May 2026 15:53:11 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-13/2026-05-13-business-AI-020.webp"
       }
     ],
     "policy": [
       {
         "id": "AI-021",
-        "title": "Musk Lawyer’s Question for Sam Altman on the Stand: Are You Trustworthy?",
-        "summary": "Mr. Altman, the C.E.O. of OpenAI, said on Tuesday that he worried Elon Musk wanted control of the A.I. lab.",
-        "content": "Mr. Altman, the C.E.O. of OpenAI, said on Tuesday that he worried Elon Musk wanted control of the A.I. lab.",
+        "title": "Dozens of Polymarket Bets Show Signs of Insider Trading, The Times Finds",
+        "summary": "Dozens of long-shot bets on Polymarket, from the war with Iran to the cryptocurrency market, have defied the odds, according to a New York Times examination.",
+        "content": "Dozens of long-shot bets on Polymarket, from the war with Iran to the cryptocurrency market, have defied the odds, according to a New York Times examination.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/05/12/technology/sam-altman-openai-trial-elon-musk-lawyers.html",
+        "sourceUrl": "https://www.nytimes.com/2026/05/13/technology/polymarket-insider-trading.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Tue, 12 May 2026 23:09:39 +0000",
+        "publishedAt": "Wed, 13 May 2026 18:48:13 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-13/2026-05-13-policy-AI-021.webp"
       },
       {
         "id": "AI-022",
-        "title": "Anthropic in Talks to Raise Funding at a $950 Billion Valuation",
-        "summary": "The start-up, which recently released a powerful A.I. model called Mythos and is separately battling with the Pentagon, was previously valued at $380 billion.",
-        "content": "The start-up, which recently released a powerful A.I. model called Mythos and is separately battling with the Pentagon, was previously valued at $380 billion.",
+        "title": "Andreessen Horowitz Is Playing Politics Like No Other",
+        "summary": "“If you think there’s a lot of money in politics now,” Marc Andreessen said in 2000, “you haven’t seen anything yet.” His firm is now the biggest known spender on this campaign cycle.",
+        "content": "“If you think there’s a lot of money in politics now,” Marc Andreessen said in 2000, “you haven’t seen anything yet.” His firm is now the biggest known spender on this campaign cycle.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/05/12/technology/anthropic-funding-950-billion-valuation.html",
+        "sourceUrl": "https://www.nytimes.com/2026/05/13/technology/andreessen-horowitz-politics.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Tue, 12 May 2026 23:40:35 +0000",
+        "publishedAt": "Wed, 13 May 2026 09:01:05 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-13/2026-05-13-policy-AI-022.webp"
       },
       {
         "id": "AI-023",
-        "title": "A.I. and Humans Battle It Out in a Cybersecurity Showdown",
-        "summary": "Experts and college students used A.I. agents to try to break into and defend computer networks in a national competition. The agents did all right on their own, too.",
-        "content": "Experts and college students used A.I. agents to try to break into and defend computer networks in a national competition. The agents did all right on their own, too.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/05/12/technology/ai-cybersecurity-competition.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Tue, 12 May 2026 16:00:44 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-024",
-        "title": "Is Anthropic’s Claude Mythos Really a Cybersecurity Risk?",
-        "summary": "Anthropic said that Claude Mythos was too dangerous to release to the public. That claim has reopened an old debate over cybersecurity.",
-        "content": "Anthropic said that Claude Mythos was too dangerous to release to the public. That claim has reopened an old debate over cybersecurity.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/05/12/technology/anthropic-claude-mythos.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Tue, 12 May 2026 16:01:26 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-025",
         "title": "Silicon Valley’s A.I. Lobbying Blitz Reaches a Fever Pitch",
         "summary": "OpenAI and Anthropic are opening offices in Washington, hiring lobbyists and spending more than ever to win over federal lawmakers.",
         "content": "OpenAI and Anthropic are opening offices in Washington, hiring lobbyists and spending more than ever to win over federal lawmakers.",
@@ -492,35 +477,97 @@
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Wed, 13 May 2026 09:14:36 +0000",
+        "publishedAt": "Wed, 13 May 2026 17:02:32 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-13/2026-05-13-policy-AI-023.webp"
+      },
+      {
+        "id": "AI-024",
+        "title": "Anduril Raises $5 Billion in Funding and Is Valued at $61 Billion",
+        "summary": "The start-up, which makes A.I.-backed weapons, was valued at $61 billion in the financing round, double what it was a year ago.",
+        "content": "The start-up, which makes A.I.-backed weapons, was valued at $61 billion in the financing round, double what it was a year ago.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/05/13/technology/anduril-raises-5-billion.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 13 May 2026 07:00:22 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-05-13/2026-05-13-policy-AI-024.webp"
+      },
+      {
+        "id": "AI-025",
+        "title": "A Start-Up Aiming to Make Geothermal Energy Mainstream Goes Public",
+        "summary": "Fervo Energy, which uses drilling techniques from the oil and gas industry to produce power from the earth’s heat, raised $1.9 billion in an initial public offering.",
+        "content": "Fervo Energy, which uses drilling techniques from the oil and gas industry to produce power from the earth’s heat, raised $1.9 billion in an initial public offering.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/05/13/business/energy-environment/fervo-geothermal-energy-ipo.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 13 May 2026 20:27:12 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ],
+        "imageUrl": "/images/2026-05-13/2026-05-13-policy-AI-025.webp"
       }
     ],
     "concerns": [],
     "culture": [
       {
         "id": "AI-026",
-        "title": "Florida students boo graduation speaker who called AI ‘next Industrial Revolution’",
-        "summary": "Real estate executive got an unexpected earful when she spoke of ‘living in a time of profound change’\nThough college graduations usually consist of a speaker giving advice to students, one recent ceremony featured students giving the speaker their o",
-        "content": "Real estate executive got an unexpected earful when she spoke of ‘living in a time of profound change’\nThough college graduations usually consist of a speaker giving advice to students, one recent ceremony featured students giving the speaker their opinions – loudly.\nThe University of Central Florida’s 2026 graduating class booed as a real estate development executive spoke about how “the rise of artificial intelligence is the next Industrial Revolution” and about “living in a time of profound c",
+        "title": "One in seven in UK prefer consulting AI chatbots to seeing doctor, study finds",
+        "summary": "Exclusive: Doctors say ‘highly concerning’ poll highlights risk to patients of turning to AI for medical advice\nOne in seven people are using AI chatbots for health advice instead of seeing their GP, a UK study has found.\nThe poll of more than 2,000 ",
+        "content": "Exclusive: Doctors say ‘highly concerning’ poll highlights risk to patients of turning to AI for medical advice\nOne in seven people are using AI chatbots for health advice instead of seeing their GP, a UK study has found.\nThe poll of more than 2,000 people found that – of the 15% turning to chatbots – one in four had done so because of long NHS waiting lists.\n Continue reading...",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/may/12/florida-students-boo-graduation-speaker-ai",
+        "sourceUrl": "https://www.theguardian.com/society/2026/may/13/one-in-seven-prefer-ai-chatbots-to-seeing-doctor-uk-study",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Tue, 12 May 2026 20:30:15 GMT",
+        "publishedAt": "Wed, 13 May 2026 15:55:17 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-13/2026-05-13-culture-AI-026.webp"
       },
       {
         "id": "AI-027",
+        "title": "Chinese court awards compensation to sacked worker replaced by AI",
+        "summary": "Case attracts widespread attention as example of China balancing enthusiastic adoption of AI with job security\nA court in China has ruled in favour of a worker whose company replaced him with artificial intelligence (AI), awarding him more than £28,0",
+        "content": "Case attracts widespread attention as example of China balancing enthusiastic adoption of AI with job security\nA court in China has ruled in favour of a worker whose company replaced him with artificial intelligence (AI), awarding him more than £28,000 in compensation.\nThe worker, whose surname is Zhou, joined a tech company in the eastern city of Hangzhou in 2022 as a quality assurance supervisor overseeing large language models used in AI products.\n Continue reading...",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/world/2026/may/13/china-court-awards-compensation-sacked-worker-replaced-by-ai",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 13 May 2026 14:58:57 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-05-13/2026-05-13-culture-AI-027.webp"
+      },
+      {
+        "id": "AI-028",
         "title": "‘Irresponsible’: backlash as Utah approves datacenter twice the size of Manhattan",
         "summary": "Facility would require more power than entire state uses and suck up vast amount of water in drought-stricken area\nA plan to create one of the world’s largest datacenters, a gargantuan project spanning an area more than twice the size of Manhattan, h",
         "content": "Facility would require more power than entire state uses and suck up vast amount of water in drought-stricken area\nA plan to create one of the world’s largest datacenters, a gargantuan project spanning an area more than twice the size of Manhattan, has provoked a furious public backlash in Utah amid concerns over its vast energy use and impact upon the state’s stressed water supplies.\nThe Stratos artificial intelligence datacenter footprint will cover more than 40,000 acres (62 sq miles) over th",
@@ -536,10 +583,11 @@
         "publishedAt": "Wed, 13 May 2026 11:30:56 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-13/2026-05-13-culture-AI-028.webp"
       },
       {
-        "id": "AI-028",
+        "id": "AI-029",
         "title": "Datacentres using 6% of electricity supply in UK and US, research says",
         "summary": "Industry body says energy consumption driven by AI up 15% globally in two years as it warns of societal backlash\nDatacentres are consuming 6% of electricity in the UK and US, with the growing strain of AI on energy supplies prompting community resist",
         "content": "Industry body says energy consumption driven by AI up 15% globally in two years as it warns of societal backlash\nDatacentres are consuming 6% of electricity in the UK and US, with the growing strain of AI on energy supplies prompting community resistance, according to research.\nThe proportion of electricity used by vast warehouses stacked with microchips to power AI and the internet has risen 15% worldwide in the past two years as annual global investment in datacentres approaches $1tn (£740bn) ",
@@ -555,10 +603,11 @@
         "publishedAt": "Wed, 13 May 2026 10:48:13 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-13/2026-05-13-culture-AI-029.webp"
       },
       {
-        "id": "AI-029",
+        "id": "AI-030",
         "title": "Chelsea flower show garden designers clash over use of AI",
         "summary": "Horticulturalists express alarm after award-winning Matt Keightley launches app that can automate designs\nWith glasses of champagne sipped among the peonies, Chelsea flower show is generally a friendly and genteel occasion. But this year, the secateu",
         "content": "Horticulturalists express alarm after award-winning Matt Keightley launches app that can automate designs\nWith glasses of champagne sipped among the peonies, Chelsea flower show is generally a friendly and genteel occasion. But this year, the secateurs have been drawn as gardeners clash over the use of AI in designing the exhibits.\nMatt Keightley, an award-winning designer who has created gardens for figures including Prince Harry, is using artificial intelligence to design his garden for the pr",
@@ -574,26 +623,8 @@
         "publishedAt": "Wed, 13 May 2026 05:00:19 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-030",
-        "title": "Is Big Brother watching you shop? – podcast",
-        "summary": "From supermarkets to corner shops, live facial recognition could be coming to retailers near you. Jessica Murray on the AI systems increasingly used by the police and stores\nLive facial recognition is being hailed as a powerful new frontier in the fi",
-        "content": "From supermarkets to corner shops, live facial recognition could be coming to retailers near you. Jessica Murray on the AI systems increasingly used by the police and stores\nLive facial recognition is being hailed as a powerful new frontier in the fight against crime, not only by police but by private companies too. Retailers from supermarkets to corner shops hope it will help them fight back against shoplifting.\nBut the Guardian’s social affairs correspondent, Jessica Murray, points out that it",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/news/audio/2026/may/13/is-big-brother-watching-you-shop-podcast",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
         ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Wed, 13 May 2026 02:00:16 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
+        "imageUrl": "/images/2026-05-13/2026-05-13-culture-AI-030.webp"
       }
     ]
   },
@@ -603,36 +634,37 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/",
-    "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
-    "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
-    "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
-    "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
-    "https://the-decoder.com/ai-startup-recursive-emerges-from-stealth-with-650-million-to-build-self-improving-ai/",
-    "https://the-decoder.com/google-is-hiring-hundreds-of-engineers-to-help-customers-adopt-its-ai/",
-    "https://the-decoder.com/from-prompt-to-pointer-engineering-deepmind-tries-to-reinvent-the-mouse-cursor-for-the-ai-era/",
-    "https://the-decoder.com/gemini-intelligence-makes-autofill-chrome-and-gboard-on-android-smarter/",
-    "https://the-decoder.com/anthropic-expands-legal-ai-offerings-with-new-cowork-plugins/",
+    "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+    "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
+    "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
+    "https://techcrunch.com/2026/05/13/who-trusts-sam-altman/",
+    "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/",
+    "https://the-decoder.com/tencent-plans-to-ramp-up-ai-spending-as-chinas-chip-supply-allegedly-improves/",
+    "https://the-decoder.com/anthropic-overtakes-openai-in-b2b-adoption-for-the-first-time-according-to-ramp-spending-data/",
+    "https://the-decoder.com/meta-ai-gets-a-private-mode-where-no-conversation-data-is-stored-on-servers/",
+    "https://the-decoder.com/anthropic-launches-claude-for-small-business-to-embed-ai-into-the-tools-you-forgot-you-pay-for/",
+    "https://the-decoder.com/luma-opens-uni-1-1-image-model-api-at-prices-and-quality-matching-openai-and-google/",
+    "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
     "https://www.technologyreview.com/2026/05/13/1137176/the-download-drugs-in-orbit-nasa-nuclear-spacecraft/",
     "https://www.technologyreview.com/2026/05/13/1137153/varda-united-therapeutics-drug-manufacturing-in-space/",
-    "https://www.technologyreview.com/2026/05/12/1137134/world-models-10-things-that-matter-in-ai-right-now/",
     "https://arxiv.org/abs/2605.11118",
     "https://arxiv.org/abs/2605.11136",
-    "https://www.cnbc.com/2026/05/13/5-things-to-know-before-the-market-opens.html",
-    "https://www.cnbc.com/2026/05/13/alibaba-earnings-march-quarter-ai-cloud-growth.html",
-    "https://www.cnbc.com/2026/05/13/tencent-q1-earnings-gaming-ai-demand-revenue-miss.html",
-    "https://www.cnbc.com/2026/05/13/softbank-earnings-fy-2025-vision-fund-openai-stake.html",
-    "https://www.cnbc.com/2026/05/13/samsung-electronics-pares-66-billion-rout-as-seoul-moves-to-calm-strike-fears-involving-41000-workers.html",
-    "https://www.nytimes.com/2026/05/12/technology/sam-altman-openai-trial-elon-musk-lawyers.html",
-    "https://www.nytimes.com/2026/05/12/technology/anthropic-funding-950-billion-valuation.html",
-    "https://www.nytimes.com/2026/05/12/technology/ai-cybersecurity-competition.html",
-    "https://www.nytimes.com/2026/05/12/technology/anthropic-claude-mythos.html",
+    "https://www.cnbc.com/2026/05/13/cerebras-prices-ipo-above-expected-range-wall-street-expects-ai-flood.html",
+    "https://www.cnbc.com/2026/05/13/microsoft-feared-openai-reliance-musk-altman-trial-testimony-reveals.html",
+    "https://www.cnbc.com/2026/05/13/cisco-csco-q3-earnings-report-2026.html",
+    "https://www.cnbc.com/2026/05/13/palo-alto-ai-cyberattacks-mythos-gpt.html",
+    "https://www.cnbc.com/2026/05/13/jim-cramer-this-unheralded-stock-qnity-has-become-one-of-the-investing-clubs-top-performers.html",
+    "https://www.nytimes.com/2026/05/13/technology/polymarket-insider-trading.html",
+    "https://www.nytimes.com/2026/05/13/technology/andreessen-horowitz-politics.html",
     "https://www.nytimes.com/2026/05/13/technology/ai-lobbying-washington-openai-anthropic.html",
-    "https://www.theguardian.com/technology/2026/may/12/florida-students-boo-graduation-speaker-ai",
+    "https://www.nytimes.com/2026/05/13/technology/anduril-raises-5-billion.html",
+    "https://www.nytimes.com/2026/05/13/business/energy-environment/fervo-geothermal-energy-ipo.html",
+    "https://www.theguardian.com/society/2026/may/13/one-in-seven-prefer-ai-chatbots-to-seeing-doctor-uk-study",
+    "https://www.theguardian.com/world/2026/may/13/china-court-awards-compensation-sacked-worker-replaced-by-ai",
     "https://www.theguardian.com/us-news/2026/may/13/utah-approves-datacenter-backlash",
     "https://www.theguardian.com/technology/2026/may/13/datacentres-electricity-consumption-uk-us-ai",
-    "https://www.theguardian.com/lifeandstyle/2026/may/13/chelsea-flower-show-garden-designers-clash-over-ai",
-    "https://www.theguardian.com/news/audio/2026/may/13/is-big-brother-watching-you-shop-podcast"
+    "https://www.theguardian.com/lifeandstyle/2026/may/13/chelsea-flower-show-garden-designers-clash-over-ai"
   ],
-  "generatedAt": "2026-05-13T13:08:23.508Z"
+  "generatedAt": "2026-05-13T23:49:56.354Z",
+  "simpleSummaryImageUrl": "/images/2026-05-13/2026-05-13-summary.webp"
 }
