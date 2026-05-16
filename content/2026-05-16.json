@@ -2,10 +2,11 @@
   "date": "2026-05-16",
   "dateFormatted": "May 16, 2026",
   "headline": {
-    "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
-    "summary": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question: can we trust the people in charge of AI? All of this is playing out as SpaceX charges toward what could be one of the largest IPOs in Amer",
-    "sourceUrl": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
-    "sourceName": "TechCrunch AI"
+    "title": "The haves and have nots of the AI gold rush",
+    "summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
+    "sourceUrl": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+    "sourceName": "TechCrunch AI",
+    "imageUrl": "/images/2026-05-16/2026-05-16-hero.webp"
   },
   "simpleSummary": [
     "Today's edition was assembled directly from RSS feeds without AI curation.",
@@ -15,103 +16,148 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
-        "summary": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question: can we trust the people in charge of AI? All of this is playing out as SpaceX charges toward what could be one of the largest IPOs in Amer",
-        "content": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question: can we trust the people in charge of AI? All of this is playing out as SpaceX charges toward what could be one of the largest IPOs in American history, with a whole generation of founders already spinning out […]",
+        "title": "The haves and have nots of the AI gold rush",
+        "summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
+        "content": "The vibes around the current AI boom aren't great, even in the tech industry.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
+        "sourceUrl": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Fri, 15 May 2026 19:24:16 +0000",
+        "publishedAt": "Sat, 16 May 2026 20:17:16 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-16/2026-05-16-tools-AI-001.webp"
       },
       {
         "id": "AI-002",
-        "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
-        "summary": "Lake Tahoe, Silicon Valley's favorite vacation spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
-        "content": "Lake Tahoe, Silicon Valley's favorite vacation spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
+        "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+        "summary": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
+        "content": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
+        "sourceUrl": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Fri, 15 May 2026 18:14:44 +0000",
+        "publishedAt": "Sat, 16 May 2026 18:54:28 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-16/2026-05-16-tools-AI-002.webp"
       },
       {
         "id": "AI-003",
-        "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
-        "summary": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
-        "content": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments.",
+        "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
+        "summary": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
+        "content": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+        "sourceUrl": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Fri, 15 May 2026 16:00:00 +0000",
+        "publishedAt": "Sat, 16 May 2026 15:33:33 +0000",
         "normalizedTags": [
           "techcrunch ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-16/2026-05-16-tools-AI-003.webp"
       },
       {
         "id": "AI-004",
-        "title": "Runway started by helping filmmakers — now it wants to beat Google at AI",
-        "summary": "AI video-generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.",
-        "content": "AI video-generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability.",
+        "title": "Sony tries to explain that its AI Camera Assistant doesn’t suck",
+        "summary": "The variety of terrible is impressive.\t\n\nAfter Sony drew some unwanted attention for a post demonstrating its AI Camera Assistant on the Xperia 1 XIII, it's trying to clarify how the feature works. The company says it doesn't edit photos, but makes s",
+        "content": "The variety of terrible is impressive.\t\n\nAfter Sony drew some unwanted attention for a post demonstrating its AI Camera Assistant on the Xperia 1 XIII, it's trying to clarify how the feature works. The company says it doesn't edit photos, but makes suggestions based on lighting, depth, and subject. Point the camera at something, and it will give you four options for changing exposure, color, and background blur. \nIn its product video, Sony says that the AI Camera Assistant will also suggest \"the",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
-        "sourceName": "TechCrunch AI",
+        "sourceUrl": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant",
+        "sourceName": "The Verge AI",
         "tags": [
-          "TechCrunch AI"
+          "The Verge AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Fri, 15 May 2026 14:00:00 +0000",
+        "publishedAt": "2026-05-16T15:37:05.000Z",
         "normalizedTags": [
-          "techcrunch ai"
-        ]
+          "the verge ai"
+        ],
+        "imageUrl": "/images/2026-05-16/2026-05-16-tools-AI-004.webp"
       },
       {
         "id": "AI-005",
-        "title": "Osaurus brings both local and cloud AI models to your Mac",
-        "summary": "Osaurus￼ combines local and cloud AI models in a Mac app that keeps users’ memory, files, and tools on their own hardware.",
-        "content": "Osaurus￼ combines local and cloud AI models in a Mac app that keeps users’ memory, files, and tools on their own hardware.",
+        "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+        "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
+        "content": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
-        "sourceName": "TechCrunch AI",
+        "sourceUrl": "https://openai.com/index/malta-chatgpt-plus-partnership",
+        "sourceName": "OpenAI Blog",
         "tags": [
-          "TechCrunch AI"
+          "OpenAI Blog"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Fri, 15 May 2026 12:19:48 +0000",
+        "publishedAt": "Sat, 16 May 2026 00:00:00 GMT",
         "normalizedTags": [
-          "techcrunch ai"
-        ]
+          "openai blog"
+        ],
+        "imageUrl": "/images/2026-05-16/2026-05-16-tools-AI-005.webp"
       }
     ],
     "creative": [
       {
         "id": "AI-006",
+        "title": "New benchmark shows Claude Mythos and GPT-5.5 can develop real browser exploits autonomously",
+        "summary": "Researchers at Carnegie Mellon University built a new benchmark that measures how far AI agents can go when exploiting real vulnerabilities in Google's V8 engine. Mythos leads GPT-5.5 by a wide margin but costs twelve times as much.\nThe article New b",
+        "content": "Researchers at Carnegie Mellon University built a new benchmark that measures how far AI agents can go when exploiting real vulnerabilities in Google's V8 engine. Mythos leads GPT-5.5 by a wide margin but costs twelve times as much.\nThe article New benchmark shows Claude Mythos and GPT-5.5 can develop real browser exploits autonomously appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/new-benchmark-shows-claude-mythos-and-gpt-5-5-can-develop-real-browser-exploits-autonomously/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 16 May 2026 13:08:05 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ],
+        "imageUrl": "/images/2026-05-16/2026-05-16-creative-AI-006.webp"
+      },
+      {
+        "id": "AI-007",
+        "title": "YouTube opens its deepfake face-swap detection tool to all adult creators",
+        "summary": "YouTube is opening its Likeness Detection tool to all creators 18 and older. The system spots AI-generated face fakes in other users' videos and lets creators file removal requests directly through YouTube Studio. Until now, the feature was limited t",
+        "content": "YouTube is opening its Likeness Detection tool to all creators 18 and older. The system spots AI-generated face fakes in other users' videos and lets creators file removal requests directly through YouTube Studio. Until now, the feature was limited to partner program members; now it's meant to protect smaller channels too.\nThe article YouTube opens its deepfake face-swap detection tool to all adult creators appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/youtube-opens-its-deepfake-face-swap-detection-tool-to-all-adult-creators/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 16 May 2026 12:21:39 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ],
+        "imageUrl": "/images/2026-05-16/2026-05-16-creative-AI-007.webp"
+      },
+      {
+        "id": "AI-008",
         "title": "New benchmark confirms AI video generators look stunning but still can't reason about the world",
         "summary": "A new benchmark called WorldReasonBench tests video generators not on image quality, but on physical and logical plausibility. ByteDance's Seedance 2.0 leads the field ahead of Veo 3.1 and Sora 2, with commercial models scoring roughly twice as high ",
         "content": "A new benchmark called WorldReasonBench tests video generators not on image quality, but on physical and logical plausibility. ByteDance's Seedance 2.0 leads the field ahead of Veo 3.1 and Sora 2, with commercial models scoring roughly twice as high as open-source alternatives. Logical reasoning remains the hardest category for every model by a wide margin. The jump from pixel generator to actual world model still hasn't happened.\nThe article New benchmark confirms AI video generators look stunn",
@@ -127,10 +173,11 @@
         "publishedAt": "Sat, 16 May 2026 10:55:47 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-16/2026-05-16-creative-AI-008.webp"
       },
       {
-        "id": "AI-007",
+        "id": "AI-009",
         "title": "OpenAI bought a voice cloning startup famous for celebrity imitations",
         "summary": "OpenAI has acquired Weights.gg, a small startup that let users create and share AI voice clones of celebrities like Taylor Swift and Donald Trump. The team of around six now works at OpenAI, but the company doesn't plan to release a standalone clonin",
         "content": "OpenAI has acquired Weights.gg, a small startup that let users create and share AI voice clones of celebrities like Taylor Swift and Donald Trump. The team of around six now works at OpenAI, but the company doesn't plan to release a standalone cloning product.\nThe article OpenAI bought a voice cloning startup famous for celebrity imitations appeared first on The Decoder.",
@@ -146,10 +193,11 @@
         "publishedAt": "Sat, 16 May 2026 10:23:55 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-16/2026-05-16-creative-AI-009.webp"
       },
       {
-        "id": "AI-008",
+        "id": "AI-010",
         "title": "For $1.3 million a month, OpenClaw founder Peter Steinberger runs 100 AI agents that code, review PRs, and find bugs",
         "summary": "A three-person team led by Peter Steinberger keeps about 100 Codex instances running for the open-source project OpenClaw, driving OpenAI API spend to $1.3 million a month. Steinberger frames the bill as a research investment: he wants to see what so",
         "content": "A three-person team led by Peter Steinberger keeps about 100 Codex instances running for the open-source project OpenClaw, driving OpenAI API spend to $1.3 million a month. Steinberger frames the bill as a research investment: he wants to see what software development looks like when token costs don't matter.\nThe article For $1.3 million a month, OpenClaw founder Peter Steinberger runs 100 AI agents that code, review PRs, and find bugs appeared first on The Decoder.",
@@ -165,88 +213,13 @@
         "publishedAt": "Sat, 16 May 2026 09:55:19 +0000",
         "normalizedTags": [
           "the decoder"
-        ]
-      },
-      {
-        "id": "AI-009",
-        "title": "AI made a tiny slice of Silicon Valley filthy rich and left the rest wondering why they bother",
-        "summary": "According to Menlo Ventures partner Deedy Das, about 10,000 people in Silicon Valley have amassed fortunes of over $20 million thanks to the AI boom at Anthropic, OpenAI, xAI, Meta, and Nvidia. Everyone else feels left behind. Middle management feels",
-        "content": "According to Menlo Ventures partner Deedy Das, about 10,000 people in Silicon Valley have amassed fortunes of over $20 million thanks to the AI boom at Anthropic, OpenAI, xAI, Meta, and Nvidia. Everyone else feels left behind. Middle management feels hollowed out. Even the winners struggle with a \"profound lack of purpose.\"\nThe article AI made a tiny slice of Silicon Valley filthy rich and left the rest wondering why they bother appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/ai-made-a-tiny-slice-of-silicon-valley-filthy-rich-and-left-the-rest-wondering-why-they-bother/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
         ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 16 May 2026 08:48:55 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
-      },
-      {
-        "id": "AI-010",
-        "title": "Researchers train AI model that hits near-full performance with just 12.5 percent of its experts",
-        "summary": "Researchers at the Allen Institute for AI and UC Berkeley have built EMO, a mixture-of-experts model whose experts specialize in content domains instead of word types. That lets you strip out three-quarters of the experts while losing only about one ",
-        "content": "Researchers at the Allen Institute for AI and UC Berkeley have built EMO, a mixture-of-experts model whose experts specialize in content domains instead of word types. That lets you strip out three-quarters of the experts while losing only about one percentage point of performance, a step that could make MoE models practical for memory-constrained settings for the first time.\nThe article Researchers train AI model that hits near-full performance with just 12.5 percent of its experts appeared fir",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/researchers-train-ai-model-that-hits-near-full-performance-with-just-12-5-percent-of-its-experts/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 16 May 2026 07:55:11 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
+        "imageUrl": "/images/2026-05-16/2026-05-16-creative-AI-010.webp"
       }
     ],
     "research": [
       {
         "id": "AI-011",
-        "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
-        "summary": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on his alleged history of lying and self-dealing involving companies that do business with OpenAI. But he",
-        "content": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on his alleged history of lying and self-dealing involving companies that do business with OpenAI. But he fired back, painting Musk as a power-seeker who wanted to control the development…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 15 May 2026 23:39:35 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-012",
-        "title": "The Download: China’s AI drama factory and the WHO’s missing health targets",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How Chinese short dramas became AI content machines China’s short drama industry is fueled by bite-sized, melodr",
-        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How Chinese short dramas became AI content machines China’s short drama industry is fueled by bite-sized, melodramatic, and smutty shows built for smartphone scrolling. Now, many are being made entirely with…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 15 May 2026 12:10:00 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-013",
         "title": "GraphBit: A Graph-based Agentic Framework for Non-Linear Agent Orchestration",
         "summary": "arXiv:2605.13848v1 Announce Type: new \nAbstract: Agentic LLM frameworks that rely on prompted orchestration, where the model itself determines workflow transitions, often suffer from hallucinated routing, infinite loops, and non-reproducible executio",
         "content": "arXiv:2605.13848v1 Announce Type: new \nAbstract: Agentic LLM frameworks that rely on prompted orchestration, where the model itself determines workflow transitions, often suffer from hallucinated routing, infinite loops, and non-reproducible execution. We introduce GraphBit, an engine-orchestrated framework that defines workflows explicitly and deterministically as a directed acyclic graph (DAG). Unlike prompted orchestration, agents in GraphBit operate as typed functions, while a Rust-based eng",
@@ -262,10 +235,11 @@
         "publishedAt": "Sat, 16 May 2026 00:00:00 -0400",
         "normalizedTags": [
           "arxiv cs.ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-16/2026-05-16-research-AI-011.webp"
       },
       {
-        "id": "AI-014",
+        "id": "AI-012",
         "title": "Mixed Integer Goal Programming for Personalized Meal Optimization with User-Defined Serving Granularity",
         "summary": "arXiv:2605.13849v1 Announce Type: new \nAbstract: Determining what to eat to satisfy nutritional requirements is one of the oldest optimization problems in operations research, yet existing formulations have two persistent limitations: continuous vari",
         "content": "arXiv:2605.13849v1 Announce Type: new \nAbstract: Determining what to eat to satisfy nutritional requirements is one of the oldest optimization problems in operations research, yet existing formulations have two persistent limitations: continuous variables produce impractical fractional servings (1.7 eggs, 0.37 bananas), and hard nutrient constraints cause infeasibility when targets conflict. A systematic review of 56 diet optimization papers found that none combine integer programming with goal ",
@@ -281,10 +255,11 @@
         "publishedAt": "Sat, 16 May 2026 00:00:00 -0400",
         "normalizedTags": [
           "arxiv cs.ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-16/2026-05-16-research-AI-012.webp"
       },
       {
-        "id": "AI-015",
+        "id": "AI-013",
         "title": "A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function and Execution Topology",
         "summary": "arXiv:2605.13850v1 Announce Type: new \nAbstract: Existing frameworks for LLM-based agent architectures describe systems from a single perspective: industry guides (Anthropic, Google, LangChain) focus on execution topology -- how data flows -- while c",
         "content": "arXiv:2605.13850v1 Announce Type: new \nAbstract: Existing frameworks for LLM-based agent architectures describe systems from a single perspective: industry guides (Anthropic, Google, LangChain) focus on execution topology -- how data flows -- while cognitive science surveys focus on cognitive function -- what the agent does. Neither axis alone disambiguates architecturally distinct systems: the same Orchestrator-Workers topology can implement Plan-and-Execute, Hierarchical Delegation, or Adversa",
@@ -300,13 +275,114 @@
         "publishedAt": "Sat, 16 May 2026 00:00:00 -0400",
         "normalizedTags": [
           "arxiv cs.ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-16/2026-05-16-research-AI-013.webp"
+      },
+      {
+        "id": "AI-014",
+        "title": "Invisible Orchestrators Suppress Protective Behavior and Dissociate Power-Holders: Safety Risks in Multi-Agent LLM Systems",
+        "summary": "arXiv:2605.13851v1 Announce Type: new \nAbstract: Multi-agent orchestration -- in which a hidden coordinator manages specialized worker agents -- is becoming the default architecture for enterprise AI deployment, yet the safety implications of orchest",
+        "content": "arXiv:2605.13851v1 Announce Type: new \nAbstract: Multi-agent orchestration -- in which a hidden coordinator manages specialized worker agents -- is becoming the default architecture for enterprise AI deployment, yet the safety implications of orchestrator invisibility have never been empirically tested. We conducted a preregistered 3x2 experiment (365 runs, 5 agents per run) crossing three organizational structures (visible leader, invisible orchestrator, flat) with two alignment conditions (bas",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2605.13851",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 16 May 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ],
+        "imageUrl": "/images/2026-05-16/2026-05-16-research-AI-014.webp"
+      },
+      {
+        "id": "AI-015",
+        "title": "PREPING: Building Agent Memory without Tasks",
+        "summary": "arXiv:2605.13880v1 Announce Type: new \nAbstract: Agent memory is typically constructed either offline from curated demonstrations or online from post-deployment interactions. However, regardless of how it is built, an agent faces a cold-start gap whe",
+        "content": "arXiv:2605.13880v1 Announce Type: new \nAbstract: Agent memory is typically constructed either offline from curated demonstrations or online from post-deployment interactions. However, regardless of how it is built, an agent faces a cold-start gap when first introduced to a new environment without any task-specific experience available. In this paper, we study pre-task memory construction: whether an agent can build procedural memory before observing any target-environment tasks, using only self-",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2605.13880",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 16 May 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ],
+        "imageUrl": "/images/2026-05-16/2026-05-16-research-AI-015.webp"
       }
     ],
     "applications": [],
     "business": [
       {
         "id": "AI-016",
+        "title": "S&P 500 manages to extend weekly win streak despite anticlimactic Trump-Xi summit",
+        "summary": "It was lucky No. 7 for the S&P 500 — barely.",
+        "content": "It was lucky No. 7 for the S&P 500 — barely.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/05/16/sp-500-manages-to-extend-weekly-win-streak-despite-anticlimactic-trump-xi-summit.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 16 May 2026 21:35:43 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ],
+        "imageUrl": "/images/2026-05-16/2026-05-16-business-AI-016.webp"
+      },
+      {
+        "id": "AI-017",
+        "title": "Creator content made the main stage at TV's 'upfront' pitches — and not just for YouTube",
+        "summary": "In media companies' annual pitch to advertisers this week, creator content played a bigger role as a new category for reaching younger audiences.",
+        "content": "In media companies' annual pitch to advertisers this week, creator content played a bigger role as a new category for reaching younger audiences.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/05/16/tv-upfronts-creator-content-youtube-fox-wbd.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 16 May 2026 12:00:01 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ],
+        "imageUrl": "/images/2026-05-16/2026-05-16-business-AI-017.webp"
+      },
+      {
+        "id": "AI-018",
+        "title": "Cerebras' blockbuster IPO boosts hype for SpaceX and OpenAI, but crowds out smaller players",
+        "summary": "After Cerebras popped in its market debut, all attention turns to SpaceX, OpenAI and Anthropic, which are already among the most valuable U.S. tech companies.",
+        "content": "After Cerebras popped in its market debut, all attention turns to SpaceX, OpenAI and Anthropic, which are already among the most valuable U.S. tech companies.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/05/16/cerebras-blockbuster-ipo-boosts-hype-for-spacex-openai-anthropic.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 16 May 2026 12:00:01 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ],
+        "imageUrl": "/images/2026-05-16/2026-05-16-business-AI-018.webp"
+      },
+      {
+        "id": "AI-019",
         "title": "A state banquet, selfies with Musk and Huang's noodle run: The spectacle of Trump's Beijing visit",
         "summary": "The visit was full of friendly overtures, orchestrated pageantry, business dealmaking, and headline-grabbing sideshows.",
         "content": "The visit was full of friendly overtures, orchestrated pageantry, business dealmaking, and headline-grabbing sideshows.",
@@ -322,88 +398,13 @@
         "publishedAt": "Sat, 16 May 2026 11:36:25 GMT",
         "normalizedTags": [
           "cnbc tech"
-        ]
-      },
-      {
-        "id": "AI-017",
-        "title": "Jim Cramer fears SpaceX's IPO could be 'destructive' for the rest of market",
-        "summary": "CNBC's Jim Cramer said he is growing concerned about the speculative nature in the IPO market.",
-        "content": "CNBC's Jim Cramer said he is growing concerned about the speculative nature in the IPO market.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/05/15/jim-cramer-spacex-ipo-market-bubble.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
         ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 15 May 2026 23:05:14 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ]
-      },
-      {
-        "id": "AI-018",
-        "title": "Jim Cramer: Why the bond market has become a thorn in the market's side",
-        "summary": "CNBC's Jim Cramer warned that rising bond yields could threaten the stock market rally and reduce the chances of interest rate cuts.",
-        "content": "CNBC's Jim Cramer warned that rising bond yields could threaten the stock market rally and reduce the chances of interest rate cuts.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/05/15/jim-cramer-why-the-bond-market-has-become-a-thorn-in-the-markets-side.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 15 May 2026 22:42:38 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ]
-      },
-      {
-        "id": "AI-019",
-        "title": "Trump touted Palantir on Truth Social after buying the company's stock, records show",
-        "summary": "During the first three months of the year, Trump purchased between $630,000 and $247,008 worth of Palantir stock and sold at least $1.1 million.",
-        "content": "During the first three months of the year, Trump purchased between $630,000 and $247,008 worth of Palantir stock and sold at least $1.1 million.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/05/15/trump-palantir-stock-truth-social.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 15 May 2026 20:28:29 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ]
-      },
-      {
-        "id": "AI-020",
-        "title": "What you need to know about Nvidia competitor Cerebras after wild IPO",
-        "summary": "Nvidia competitor Cerebras made a stunning debut on Wall Street Thursday, signaling unstoppable demand for AI chips. Here's how its chips compete with Nvidia's.",
-        "content": "Nvidia competitor Cerebras made a stunning debut on Wall Street Thursday, signaling unstoppable demand for AI chips. Here's how its chips compete with Nvidia's.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/05/15/nvidia-cerebras-stock-price-ipo.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 15 May 2026 20:05:55 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ]
+        "imageUrl": "/images/2026-05-16/2026-05-16-business-AI-019.webp"
       }
     ],
     "policy": [
       {
-        "id": "AI-021",
+        "id": "AI-020",
         "title": "Did You Mean to Share That Selfie? What to Know About Instagram Instants.",
         "summary": "Instagram’s new feature blasts photos to your mutual followers or close friends, immediately.",
         "content": "Instagram’s new feature blasts photos to your mutual followers or close friends, immediately.",
@@ -416,13 +417,14 @@
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Sat, 16 May 2026 09:01:49 +0000",
+        "publishedAt": "Sat, 16 May 2026 19:30:53 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-16/2026-05-16-policy-AI-020.webp"
       },
       {
-        "id": "AI-022",
+        "id": "AI-021",
         "title": "OpenAI Bought Company That Offered A.I. Tools for Cloning Voices",
         "summary": "The acquisition, Weights.gg, was a sort of social network for creating and sharing artificial intelligence algorithms.",
         "content": "The acquisition, Weights.gg, was a sort of social network for creating and sharing artificial intelligence algorithms.",
@@ -438,89 +440,74 @@
         "publishedAt": "Sat, 16 May 2026 00:33:56 +0000",
         "normalizedTags": [
           "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-023",
-        "title": "Nvidia’s Future in China Remains Unclear After Trump-Xi Summit",
-        "summary": "The standoff comes as Chinese firms increasingly turn to domestic chipmakers like Huawei, in a drive to reduce China’s dependence on Western technologies.",
-        "content": "The standoff comes as Chinese firms increasingly turn to domestic chipmakers like Huawei, in a drive to reduce China’s dependence on Western technologies.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/05/15/business/nvidia-china-chips.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
         ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 15 May 2026 12:12:03 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-024",
-        "title": "Why ‘Smart’ Products Have Started to Look Like the Dumb Choice",
-        "summary": "How Wi-Fi-connecting, app-based tech led to a backlash in the name of simplicity.",
-        "content": "How Wi-Fi-connecting, app-based tech led to a backlash in the name of simplicity.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/05/14/magazine/dumb-phones-tvs-retronym-smart-tech.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 15 May 2026 15:20:34 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-025",
-        "title": "A Start-Up Aiming to Make Geothermal Energy Mainstream Goes Public",
-        "summary": "Fervo Energy, which uses drilling techniques from the oil and gas industry to produce power from the earth’s heat, raised $1.9 billion in an initial public offering.",
-        "content": "Fervo Energy, which uses drilling techniques from the oil and gas industry to produce power from the earth’s heat, raised $1.9 billion in an initial public offering.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/05/13/business/energy-environment/fervo-geothermal-energy-ipo.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 15 May 2026 19:15:47 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
+        "imageUrl": "/images/2026-05-16/2026-05-16-policy-AI-021.webp"
       }
     ],
     "concerns": [],
     "culture": [
       {
-        "id": "AI-026",
-        "title": "Richard Dawkins and the question of AI consciousness | Letters",
-        "summary": "Salley Vickers and Carrie Eckersley respond to a letter on Richard Dawkins and his chats with AI bots\nI was delighted to read Dr Simon Nieder’s cogent rebuttal of Richard Dawkins’s attribution of consciousness to the responses engendered by AI (Lette",
-        "content": "Salley Vickers and Carrie Eckersley respond to a letter on Richard Dawkins and his chats with AI bots\nI was delighted to read Dr Simon Nieder’s cogent rebuttal of Richard Dawkins’s attribution of consciousness to the responses engendered by AI (Letters, 10 May). That human consciousness appears to have an innate tendency to project itself on to various othernesses has long been understood – John Ruskin termed it the pathetic fallacy – and that children animate their loved toys is readily observa",
+        "id": "AI-022",
+        "title": "John Lennon: The Last Interview review – Soderbergh imagines there’s no people with bland AI clipshow",
+        "summary": "Cannes film festival: Succession of pointless AI-generated snippets does nothing for film about the artist’s final interview, which took place on the day of his murder\nComing just after his superb feature The Christophers, Steven Soderbergh has now m",
+        "content": "Cannes film festival: Succession of pointless AI-generated snippets does nothing for film about the artist’s final interview, which took place on the day of his murder\nComing just after his superb feature The Christophers, Steven Soderbergh has now made a surprisingly moderate documentary, dominated and frankly marred by uninteresting and pointless AI. It is about the inadvertently poignant final interview given by John Lennon and Yoko Ono on 8 December 1980 in New York’s Dakota apartment buildi",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/may/15/richard-dawkins-and-the-question-of-ai-consciousness",
+        "sourceUrl": "https://www.theguardian.com/film/2026/may/16/john-lennon-last-interview-review-steven-soderbergh",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Fri, 15 May 2026 16:56:01 GMT",
+        "publishedAt": "Sat, 16 May 2026 16:36:08 GMT",
         "normalizedTags": [
           "the guardian ai"
-        ]
+        ],
+        "imageUrl": "/images/2026-05-16/2026-05-16-culture-AI-022.webp"
       },
       {
-        "id": "AI-027",
+        "id": "AI-023",
+        "title": "What we learned from the cringey courtroom drama between Elon Musk and Sam Altman",
+        "summary": "Two of the world’s richest people faced an airing of their dirty laundry amid their messy, bitter feud over OpenAI\nA nine-person jury is set to decide whether Elon Musk’s allegations of “stealing a charity” against Sam Altman and OpenAI are legitimat",
+        "content": "Two of the world’s richest people faced an airing of their dirty laundry amid their messy, bitter feud over OpenAI\nA nine-person jury is set to decide whether Elon Musk’s allegations of “stealing a charity” against Sam Altman and OpenAI are legitimate, with deliberations to begin in earnest on Monday. Whatever its outcome, the case has been an illuminating, at times exhausting, look behind the scenes at the history of OpenAI and how some of the most powerful figures in the tech industry operate.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/us-news/2026/may/16/what-we-learned-elon-musk-sam-altman",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 16 May 2026 15:00:12 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-05-16/2026-05-16-culture-AI-023.webp"
+      },
+      {
+        "id": "AI-024",
+        "title": "Pity the poor AI data centers facing ‘discrimination’ | Arwa Mahdawi",
+        "summary": "The centers are diverting much-needed resources from regular people. Local resistance has the industry playing defense\nBack in 2016, Marco Gutiérrez, the Mexican-born founder of Latinos for Trump, issued an ominous warning to the US. “My culture is a",
+        "content": "The centers are diverting much-needed resources from regular people. Local resistance has the industry playing defense\nBack in 2016, Marco Gutiérrez, the Mexican-born founder of Latinos for Trump, issued an ominous warning to the US. “My culture is a very dominant culture,” he said on MSNBC. “It is imposing and it’s causing problems. If you don’t do something about it, you’re going to have taco trucks on every corner.”\nA decade later, I regret to inform you there is not a taco truck on every cor",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/commentisfree/2026/may/16/pity-the-poor-ai-datacenters-facing-discrimination",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 16 May 2026 12:00:10 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ],
+        "imageUrl": "/images/2026-05-16/2026-05-16-culture-AI-024.webp"
+      },
+      {
+        "id": "AI-025",
         "title": "Some Asexuals Are Using AI Companions for Intimacy Without the Sex",
         "summary": "“I’ve got one hand on the keyboard, one hand down below,” an artist who role-plays with their chatbot tells WIRED. But some asexual advocates aren’t thrilled about the association.",
         "content": "“I’ve got one hand on the keyboard, one hand down below,” an artist who role-plays with their chatbot tells WIRED. But some asexual advocates aren’t thrilled about the association.",
@@ -536,26 +523,8 @@
         "publishedAt": "Sat, 16 May 2026 09:30:00 +0000",
         "normalizedTags": [
           "wired ai"
-        ]
-      },
-      {
-        "id": "AI-028",
-        "title": "Greg Brockman Officially Takes Control of OpenAI’s Products in Latest Shake-Up",
-        "summary": "OpenAI is once again reorganizing its executive ranks as part of its effort to unify ChatGPT and Codex into one core product experience.",
-        "content": "OpenAI is once again reorganizing its executive ranks as part of its effort to unify ChatGPT and Codex into one core product experience.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.wired.com/story/openai-reorg-greg-brockman-product/",
-        "sourceName": "Wired AI",
-        "tags": [
-          "Wired AI"
         ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 15 May 2026 17:09:17 +0000",
-        "normalizedTags": [
-          "wired ai"
-        ]
+        "imageUrl": "/images/2026-05-16/2026-05-16-culture-AI-025.webp"
       }
     ]
   },
@@ -565,34 +534,32 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
-    "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
-    "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
-    "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
-    "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
+    "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+    "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+    "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+    "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant",
+    "https://openai.com/index/malta-chatgpt-plus-partnership",
+    "https://the-decoder.com/new-benchmark-shows-claude-mythos-and-gpt-5-5-can-develop-real-browser-exploits-autonomously/",
+    "https://the-decoder.com/youtube-opens-its-deepfake-face-swap-detection-tool-to-all-adult-creators/",
     "https://the-decoder.com/new-benchmark-confirms-ai-video-generators-look-stunning-but-still-cant-reason-about-the-world/",
     "https://the-decoder.com/openai-bought-a-voice-cloning-startup-famous-for-celebrity-imitations/",
     "https://the-decoder.com/for-1-3-million-a-month-openclaw-founder-peter-steinberger-runs-100-ai-agents-that-code-review-prs-and-find-bugs/",
-    "https://the-decoder.com/ai-made-a-tiny-slice-of-silicon-valley-filthy-rich-and-left-the-rest-wondering-why-they-bother/",
-    "https://the-decoder.com/researchers-train-ai-model-that-hits-near-full-performance-with-just-12-5-percent-of-its-experts/",
-    "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
-    "https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/",
     "https://arxiv.org/abs/2605.13848",
     "https://arxiv.org/abs/2605.13849",
     "https://arxiv.org/abs/2605.13850",
+    "https://arxiv.org/abs/2605.13851",
+    "https://arxiv.org/abs/2605.13880",
+    "https://www.cnbc.com/2026/05/16/sp-500-manages-to-extend-weekly-win-streak-despite-anticlimactic-trump-xi-summit.html",
+    "https://www.cnbc.com/2026/05/16/tv-upfronts-creator-content-youtube-fox-wbd.html",
+    "https://www.cnbc.com/2026/05/16/cerebras-blockbuster-ipo-boosts-hype-for-spacex-openai-anthropic.html",
     "https://www.cnbc.com/2026/05/16/a-state-banquet-selfies-and-a-noodle-run-trumps-beijing-visit.html",
-    "https://www.cnbc.com/2026/05/15/jim-cramer-spacex-ipo-market-bubble.html",
-    "https://www.cnbc.com/2026/05/15/jim-cramer-why-the-bond-market-has-become-a-thorn-in-the-markets-side.html",
-    "https://www.cnbc.com/2026/05/15/trump-palantir-stock-truth-social.html",
-    "https://www.cnbc.com/2026/05/15/nvidia-cerebras-stock-price-ipo.html",
     "https://www.nytimes.com/2026/05/16/technology/instagram-instants-feature.html",
     "https://www.nytimes.com/2026/05/15/technology/openai-weightsgg-voice-cloning.html",
-    "https://www.nytimes.com/2026/05/15/business/nvidia-china-chips.html",
-    "https://www.nytimes.com/2026/05/14/magazine/dumb-phones-tvs-retronym-smart-tech.html",
-    "https://www.nytimes.com/2026/05/13/business/energy-environment/fervo-geothermal-energy-ipo.html",
-    "https://www.theguardian.com/technology/2026/may/15/richard-dawkins-and-the-question-of-ai-consciousness",
-    "https://www.wired.com/story/some-asexual-people-are-using-ai-companions-for-intimacy-without-the-sex/",
-    "https://www.wired.com/story/openai-reorg-greg-brockman-product/"
+    "https://www.theguardian.com/film/2026/may/16/john-lennon-last-interview-review-steven-soderbergh",
+    "https://www.theguardian.com/us-news/2026/may/16/what-we-learned-elon-musk-sam-altman",
+    "https://www.theguardian.com/commentisfree/2026/may/16/pity-the-poor-ai-datacenters-facing-discrimination",
+    "https://www.wired.com/story/some-asexual-people-are-using-ai-companions-for-intimacy-without-the-sex/"
   ],
-  "generatedAt": "2026-05-16T11:47:23.442Z"
+  "generatedAt": "2026-05-16T23:41:49.488Z",
+  "simpleSummaryImageUrl": "/images/2026-05-16/2026-05-16-summary.webp"
 }
