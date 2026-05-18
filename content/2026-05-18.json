@@ -2,9 +2,9 @@
   "date": "2026-05-18",
   "dateFormatted": "May 18, 2026",
   "headline": {
-    "title": "South Korea’s LetinAR is building optics behind AI glasses",
-    "summary": "A lens the size of a thumbnail — and the South Korean startup that makes it could become the optical backbone of the AI glasses era.",
-    "sourceUrl": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
+    "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+    "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
+    "sourceUrl": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
     "sourceName": "TechCrunch AI"
   },
   "simpleSummary": [
@@ -15,9 +15,85 @@
     "tools": [
       {
         "id": "AI-001",
+        "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
+        "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
+        "content": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 18 May 2026 21:29:31 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-002",
+        "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+        "summary": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs.",
+        "content": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 18 May 2026 19:27:52 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-003",
+        "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+        "summary": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
+        "content": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 18 May 2026 17:34:43 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-004",
+        "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
+        "summary": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
+        "content": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 18 May 2026 14:56:47 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-005",
         "title": "South Korea’s LetinAR is building optics behind AI glasses",
-        "summary": "A lens the size of a thumbnail — and the South Korean startup that makes it could become the optical backbone of the AI glasses era.",
-        "content": "A lens the size of a thumbnail — and the South Korean startup that makes it could become the optical backbone of the AI glasses era.",
+        "summary": "A lens the size of a thumbnail — and the South Korean startup that makes it — could become the optical backbone of the AI glasses era.",
+        "content": "A lens the size of a thumbnail — and the South Korean startup that makes it — could become the optical backbone of the AI glasses era.",
         "keyTakeaways": [],
         "whyItMatters": "",
         "sourceUrl": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
@@ -31,87 +107,68 @@
         "normalizedTags": [
           "techcrunch ai"
         ]
-      },
-      {
-        "id": "AI-002",
-        "title": "Apple’s Siri revamp could include auto-deleting chats",
-        "summary": "Privacy will be a major theme when Apple unveils a new version of Siri.",
-        "content": "Privacy will be a major theme when Apple unveils a new version of Siri.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
-        "sourceName": "TechCrunch AI",
-        "tags": [
-          "TechCrunch AI"
-        ],
-        "section": "tools",
-        "readTime": "2 min",
-        "publishedAt": "Sun, 17 May 2026 20:15:00 +0000",
-        "normalizedTags": [
-          "techcrunch ai"
-        ]
-      },
-      {
-        "id": "AI-003",
-        "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
-        "summary": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
-        "content": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
-        "sourceName": "TechCrunch AI",
-        "tags": [
-          "TechCrunch AI"
-        ],
-        "section": "tools",
-        "readTime": "2 min",
-        "publishedAt": "Sun, 17 May 2026 19:46:34 +0000",
-        "normalizedTags": [
-          "techcrunch ai"
-        ]
-      },
-      {
-        "id": "AI-004",
-        "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
-        "summary": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
-        "content": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
-        "sourceName": "TechCrunch AI",
-        "tags": [
-          "TechCrunch AI"
-        ],
-        "section": "tools",
-        "readTime": "2 min",
-        "publishedAt": "Sun, 17 May 2026 16:32:04 +0000",
-        "normalizedTags": [
-          "techcrunch ai"
-        ]
-      },
-      {
-        "id": "AI-005",
-        "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
-        "summary": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-        "content": "Welcome back to TechCrunch Mobility — your central hub for news and insights on the future of transportation.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
-        "sourceName": "TechCrunch AI",
-        "tags": [
-          "TechCrunch AI"
-        ],
-        "section": "tools",
-        "readTime": "2 min",
-        "publishedAt": "Sun, 17 May 2026 16:05:00 +0000",
-        "normalizedTags": [
-          "techcrunch ai"
-        ]
       }
     ],
     "creative": [
       {
         "id": "AI-006",
+        "title": "Elon Musk loses his $134 billion lawsuit against OpenAI after jury deliberates for just two hours",
+        "summary": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI. The jury in Oakland dismissed the case after just two hours of deliberation. Musk had sought up to $134 billion. The judge said she would have been ready to dismiss the case \"immediately.\"",
+        "content": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI. The jury in Oakland dismissed the case after just two hours of deliberation. Musk had sought up to $134 billion. The judge said she would have been ready to dismiss the case \"immediately.\" Musk's attorney reserved the right to appeal.\nThe article Elon Musk loses his $134 billion lawsuit against OpenAI after jury deliberates for just two hours appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/elon-musk-loses-his-134-billion-lawsuit-against-openai-after-jury-deliberates-for-just-two-hours/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 18 May 2026 18:20:50 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-007",
+        "title": "Cursor's Composer 2.5 matches Opus 4.7 and GPT-5.5 benchmarks at a fraction of the cost",
+        "summary": "Cursor ships Composer 2.5, an AI coding model built on Kimi K2.5 and trained on 25x more synthetic tasks than its predecessor. It matches Opus 4.7 and GPT-5.5 on benchmarks at a fraction of the price.\nThe article Cursor's Composer 2.5 matches Opus 4.",
+        "content": "Cursor ships Composer 2.5, an AI coding model built on Kimi K2.5 and trained on 25x more synthetic tasks than its predecessor. It matches Opus 4.7 and GPT-5.5 on benchmarks at a fraction of the price.\nThe article Cursor's Composer 2.5 matches Opus 4.7 and GPT-5.5 benchmarks at a fraction of the cost appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/cursors-composer-2-5-matches-opus-4-7-and-gpt-5-5-benchmarks-at-a-fraction-of-the-cost/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 18 May 2026 17:29:01 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-008",
+        "title": "Pope Leo XIV presents first AI encyclical, Anthropic co-founder invited as guest speaker",
+        "summary": "Pope Leo XIV will present his first encyclical on artificial intelligence on May 25. Anthropic co-founder Christopher Olah has been invited as a guest speaker.\nThe article Pope Leo XIV presents first AI encyclical, Anthropic co-founder invited as gue",
+        "content": "Pope Leo XIV will present his first encyclical on artificial intelligence on May 25. Anthropic co-founder Christopher Olah has been invited as a guest speaker.\nThe article Pope Leo XIV presents first AI encyclical, Anthropic co-founder invited as guest speaker appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/pope-leo-xiv-presents-first-ai-encyclical-anthropic-co-founder-invited-as-guest-speaker/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 18 May 2026 15:32:40 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-009",
         "title": "A Stanford student reflects on his ChatGPT class and a culture of \"just a little bit of fraud\"",
         "summary": "Stanford student Theo Baker describes in a guest essay for the New York Times how ChatGPT shaped his entire graduating class. His conclusion: AI turned an already existing culture of dishonesty at the elite university into the default.\nThe article A ",
         "content": "Stanford student Theo Baker describes in a guest essay for the New York Times how ChatGPT shaped his entire graduating class. His conclusion: AI turned an already existing culture of dishonesty at the elite university into the default.\nThe article A Stanford student reflects on his ChatGPT class and a culture of \"just a little bit of fraud\" appeared first on The Decoder.",
@@ -130,7 +187,7 @@
         ]
       },
       {
-        "id": "AI-007",
+        "id": "AI-010",
         "title": "MAGA-aligned groups want government oversight of frontier AI models",
         "summary": "A coalition of conservative organizations led by Humans First has called on President Donald Trump in an open letter to issue an executive order requiring mandatory safety testing for frontier AI models before they ship.\nThe article MAGA-aligned grou",
         "content": "A coalition of conservative organizations led by Humans First has called on President Donald Trump in an open letter to issue an executive order requiring mandatory safety testing for frontier AI models before they ship.\nThe article MAGA-aligned groups want government oversight of frontier AI models appeared first on The Decoder.",
@@ -147,68 +204,68 @@
         "normalizedTags": [
           "the decoder"
         ]
-      },
-      {
-        "id": "AI-008",
-        "title": "Anthropic to brief global financial regulators on cyber flaws found by Claude Mythos",
-        "summary": "Anthropic will brief leading finance ministries and central banks on vulnerabilities in the global financial system's cyber defenses that its new AI model Claude Mythos Preview has uncovered.\nThe article Anthropic to brief global financial regulators",
-        "content": "Anthropic will brief leading finance ministries and central banks on vulnerabilities in the global financial system's cyber defenses that its new AI model Claude Mythos Preview has uncovered.\nThe article Anthropic to brief global financial regulators on cyber flaws found by Claude Mythos appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/anthropic-to-brief-global-financial-regulators-on-cyber-flaws-found-by-claude-mythos/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 18 May 2026 12:40:41 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
-      },
-      {
-        "id": "AI-009",
-        "title": "AI startup revenue hits $80 billion, but Anthropic and OpenAI take almost all of it",
-        "summary": "Anthropic and OpenAI now capture 89 percent of revenue among top AI startups, according to an analysis by The Information.\nThe article AI startup revenue hits $80 billion, but Anthropic and OpenAI take almost all of it appeared first on The Decoder.",
-        "content": "Anthropic and OpenAI now capture 89 percent of revenue among top AI startups, according to an analysis by The Information.\nThe article AI startup revenue hits $80 billion, but Anthropic and OpenAI take almost all of it appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/ai-startup-revenue-hits-80-billion-but-anthropic-and-openai-take-almost-all-of-it/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 18 May 2026 07:52:38 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
-      },
-      {
-        "id": "AI-010",
-        "title": " We won, the new Spotify logo is being laid to rest ",
-        "summary": "Goodbye discomorphism.",
-        "content": "Goodbye discomorphism.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.creativebloq.com/design/logos-icons/we-won-the-new-spotify-logo-is-being-laid-to-rest",
-        "sourceName": "Creative Bloq",
-        "tags": [
-          "Creative Bloq"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 18 May 2026 14:00:00 +0000",
-        "normalizedTags": [
-          "creative bloq"
-        ]
       }
     ],
     "research": [
       {
         "id": "AI-011",
+        "title": "What to expect from Google this week",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When Google opens its doors tomorrow for its annual developer conference, I/O, it will do so as a clear third pl",
+        "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When Google opens its doors tomorrow for its annual developer conference, I/O, it will do so as a clear third place in the foundation model race. A year ago, at Google I/O…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 18 May 2026 17:35:43 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-012",
+        "title": "The Signals That Matter – MIT Insider’s Panel",
+        "summary": "The Signals That Matter – MIT Insider’s Panel",
+        "content": "",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/05/18/1137430/the-signals-that-matter-mit-insiders-panel/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 18 May 2026 16:57:44 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-013",
+        "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
+        "summary": "The defense-tech company Anduril has shared new details about the augmented-reality headset for the military it’s prototyping with Meta, including a vision for ordering drone strikes via eye-tracking and voice commands. Quay Barnett, who leads the ef",
+        "content": "The defense-tech company Anduril has shared new details about the augmented-reality headset for the military it’s prototyping with Meta, including a vision for ordering drone strikes via eye-tracking and voice commands. Quay Barnett, who leads the efforts as a vice president at Anduril following a career in the Army’s Special Operations Command, says his fundamental…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 18 May 2026 16:01:39 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-014",
         "title": "The Download: Musk v. Altman week 3, and Trump’s tech trading",
         "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side",
         "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side. In the final week of the Musk v. Altman trial,…",
@@ -227,7 +284,7 @@
         ]
       },
       {
-        "id": "AI-012",
+        "id": "AI-015",
         "title": "DeepSlide: From Artifacts to Presentation Delivery",
         "summary": "arXiv:2605.15202v1 Announce Type: new \nAbstract: Presentations are a primary medium for scholarly communication, yet most AI slide generators optimize the artifact (a visually plausible deck) while under-optimizing the delivery process (pacing, narra",
         "content": "arXiv:2605.15202v1 Announce Type: new \nAbstract: Presentations are a primary medium for scholarly communication, yet most AI slide generators optimize the artifact (a visually plausible deck) while under-optimizing the delivery process (pacing, narrative, and presentation preparation). We present DeepSlide, a human-in-the-loop multi-agent system that supports preparing the full presentation process, from requirement elicitation and time-budgeted narrative planning, to evidence-grounded slide--sc",
@@ -244,158 +301,101 @@
         "normalizedTags": [
           "arxiv cs.ai"
         ]
-      },
-      {
-        "id": "AI-013",
-        "title": "SDOF: Taming the Alignment Tax in Multi-Agent Orchestration with State-Constrained Dispatch",
-        "summary": "arXiv:2605.15204v1 Announce Type: new \nAbstract: Multi-agent orchestration frameworks such as LangChain, LangGraph, and CrewAI route tasks through graph-based pipelines but do not enforce the stage constraints that govern real business processes. We ",
-        "content": "arXiv:2605.15204v1 Announce Type: new \nAbstract: Multi-agent orchestration frameworks such as LangChain, LangGraph, and CrewAI route tasks through graph-based pipelines but do not enforce the stage constraints that govern real business processes. We present SDOF, a framework that treats multi-agent execution as a constrained state machine. SDOF operates through two primary defensive layers, implemented by three components: (1) an Online-RLHF Specialized Intent Router trained via Generative Rewar",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://arxiv.org/abs/2605.15204",
-        "sourceName": "ArXiv CS.AI",
-        "tags": [
-          "ArXiv CS.AI"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 18 May 2026 00:00:00 -0400",
-        "normalizedTags": [
-          "arxiv cs.ai"
-        ]
-      },
-      {
-        "id": "AI-014",
-        "title": "Does Theory of Mind Improvement Really Benefit Human-AI Interactions? Empirical Findings from Interactive Evaluations",
-        "summary": "arXiv:2605.15205v1 Announce Type: new \nAbstract: Improving the Theory of Mind (ToM) capability of Large Language Models (LLMs) is crucial for effective social interactions between these AI models and humans. However, the existing benchmarks often mea",
-        "content": "arXiv:2605.15205v1 Announce Type: new \nAbstract: Improving the Theory of Mind (ToM) capability of Large Language Models (LLMs) is crucial for effective social interactions between these AI models and humans. However, the existing benchmarks often measure ToM capability improvement through story-reading, multiple-choice questions from a third-person perspective, while ignoring the first-person, dynamic, and open-ended nature of human-AI (HAI) interactions. To directly examine how ToM improvement ",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://arxiv.org/abs/2605.15205",
-        "sourceName": "ArXiv CS.AI",
-        "tags": [
-          "ArXiv CS.AI"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 18 May 2026 00:00:00 -0400",
-        "normalizedTags": [
-          "arxiv cs.ai"
-        ]
-      },
-      {
-        "id": "AI-015",
-        "title": "SkillSmith: Compiling Agent Skills into Boundary-Guided Runtime Interfaces",
-        "summary": "arXiv:2605.15215v1 Announce Type: new \nAbstract: Recently, skills have been widely adopted in large language model (LLM)-based agent systems across various domains. In existing frameworks, skills are typically injected into the agent reasoning loop a",
-        "content": "arXiv:2605.15215v1 Announce Type: new \nAbstract: Recently, skills have been widely adopted in large language model (LLM)-based agent systems across various domains. In existing frameworks, skills are typically injected into the agent reasoning loop as contextual guidance once matched to a runtime task, enabling specialized task-solving capabilities. We find that this execution paradigm introduces two major sources of redundancy: irrelevant context injection and repeated skill-specific reasoning ",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://arxiv.org/abs/2605.15215",
-        "sourceName": "ArXiv CS.AI",
-        "tags": [
-          "ArXiv CS.AI"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 18 May 2026 00:00:00 -0400",
-        "normalizedTags": [
-          "arxiv cs.ai"
-        ]
       }
     ],
     "applications": [],
     "business": [
       {
         "id": "AI-016",
-        "title": "Trump's Iran threat, Berkshire's airline bet, Lululemon's proxy battle and more in Morning Squawk",
-        "summary": "Here are five key things investors need to know to start the trading day.",
-        "content": "Here are five key things investors need to know to start the trading day.",
+        "title": "Intel CEO says foundry business is gaining momentum as customer interest grows",
+        "summary": "Intel CEO Lip-Bu Tan said the company’s Foundry turnaround is gaining traction.",
+        "content": "Intel CEO Lip-Bu Tan said the company’s Foundry turnaround is gaining traction.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/05/18/5-things-to-know-before-the-market-opens.html",
+        "sourceUrl": "https://www.cnbc.com/2026/05/18/intel-ceo-says-foundry-is-gaining-momentum-as-customer-interest-grows.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Mon, 18 May 2026 12:33:32 GMT",
+        "publishedAt": "Mon, 18 May 2026 22:44:30 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-017",
-        "title": "Meta layoffs starting this week stress harsh AI reality inside Zuckerberg’s company",
-        "summary": "Meta is starting layoffs this week, with 8,000 jobs expected to be cut, as employees brace for a new era of AI.",
-        "content": "Meta is starting layoffs this week, with 8,000 jobs expected to be cut, as employees brace for a new era of AI.",
+        "title": "Jim Cramer says this is how to play a market rotation — and one stock he’d buy",
+        "summary": "CNBC’s Jim Cramer said investors should use market pullbacks to selectively buy quality stocks rather than chase short-term rallies during sector rotations.",
+        "content": "CNBC’s Jim Cramer said investors should use market pullbacks to selectively buy quality stocks rather than chase short-term rallies during sector rotations.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/05/18/metas-layoffs-starting-this-week-underscore-zuckerbergs-ai-reality-.html",
+        "sourceUrl": "https://www.cnbc.com/2026/05/18/jim-cramer-says-this-is-how-to-play-a-market-rotation-and-one-stock-hed-buy.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Mon, 18 May 2026 14:14:41 GMT",
+        "publishedAt": "Mon, 18 May 2026 22:24:14 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-018",
-        "title": "Trump says he should've asked for 'more' of Intel when negotiating stake with CEO",
-        "summary": "The chipmaker's stock has soared since the U.S. equity deal in August gave the government 9.9% of the company.",
-        "content": "The chipmaker's stock has soared since the U.S. equity deal in August gave the government 9.9% of the company.",
+        "title": "Google I/O primer: Alphabet's AI showcase is its chance to wow Wall Street",
+        "summary": "After a 140% stock surge and a sweeping Wall Street reset, Google’s developer conference has to prove the AI story is more than a market narrative.",
+        "content": "After a 140% stock surge and a sweeping Wall Street reset, Google’s developer conference has to prove the AI story is more than a market narrative.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/05/18/trump-stake-in-intel.html",
+        "sourceUrl": "https://www.cnbc.com/2026/05/18/google-i-o-alphabet-ai-wall-street.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Mon, 18 May 2026 12:26:40 GMT",
+        "publishedAt": "Mon, 18 May 2026 22:43:41 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-019",
-        "title": "How Elon Musk and Sam Altman went from besties to bitter rivals",
-        "summary": "In the 11 years since Elon Musk and Sam Altman helped start OpenAI, their once tight bond has unwound, leaving the two billionaires fighting it out in court.",
-        "content": "In the 11 years since Elon Musk and Sam Altman helped start OpenAI, their once tight bond has unwound, leaving the two billionaires fighting it out in court.",
+        "title": "It's not too late to buy Nvidia. Here are the reasons we say 'own it, don't trade it'",
+        "summary": "\"If you wanted to buy some here, I totally endorse it. I just feel that we own it, we don't wanna trade it,\" Jim Cramer said Monday.",
+        "content": "\"If you wanted to buy some here, I totally endorse it. I just feel that we own it, we don't wanna trade it,\" Jim Cramer said Monday.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/05/18/how-elon-musk-and-sam-altman-went-from-besties-to-bitter-rivals.html",
+        "sourceUrl": "https://www.cnbc.com/2026/05/18/its-not-too-late-to-buy-nvidia-here-are-the-reasons-we-say-own-it-dont-trade-it.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Mon, 18 May 2026 05:00:01 GMT",
+        "publishedAt": "Mon, 18 May 2026 17:56:50 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-020",
-        "title": "High energy prices could derail Europe’s AI race with U.S. and China",
-        "summary": "Energy costs vary widely across Europe, creating clear winners and losers in attracting investment.",
-        "content": "Energy costs vary widely across Europe, creating clear winners and losers in attracting investment.",
+        "title": "Seagate leads memory sell-off as CEO says it would 'take too long' to build new factories",
+        "summary": "Seagate CEO Dave Mosley's comment sent shares sinking, along with those of Micron, SanDisk and Western Digital.",
+        "content": "Seagate CEO Dave Mosley's comment sent shares sinking, along with those of Micron, SanDisk and Western Digital.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/05/18/europe-ai-energy-electricity-costs-data-centers-china-us.html",
+        "sourceUrl": "https://www.cnbc.com/2026/05/18/seagate-memory-chip-stocks-ai.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Mon, 18 May 2026 05:00:01 GMT",
+        "publishedAt": "Mon, 18 May 2026 20:18:03 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
@@ -404,19 +404,95 @@
     "policy": [
       {
         "id": "AI-021",
-        "title": "Peter G. Neumann, Who Warned of Computer Security Risks, Dies at 93",
-        "summary": "For decades, he criticized the industry’s lax attitudes toward both computer security and individual digital privacy. And he developed solutions.",
-        "content": "For decades, he criticized the industry’s lax attitudes toward both computer security and individual digital privacy. And he developed solutions.",
+        "title": "After Elon Musk’s Court Loss Comes the Long Hot A.I. Summer",
+        "summary": "Even as protests increase, the collapse of Mr. Musk’s suit against OpenAI and Sam Altman will speed up the artificial intelligence juggernaut.",
+        "content": "Even as protests increase, the collapse of Mr. Musk’s suit against OpenAI and Sam Altman will speed up the artificial intelligence juggernaut.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/05/17/obituaries/peter-g-neumann-dead.html",
+        "sourceUrl": "https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Sun, 17 May 2026 22:38:13 +0000",
+        "publishedAt": "Mon, 18 May 2026 21:53:29 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-022",
+        "title": "Elon Musk Loses $150 Billion Suit Against OpenAI and Sam Altman",
+        "summary": "A nine-member jury found that Mr. Musk had waited too long to sue. The setback for the tech mogul frees OpenAI to continue in the artificial intelligence race.",
+        "content": "A nine-member jury found that Mr. Musk had waited too long to sue. The setback for the tech mogul frees OpenAI to continue in the artificial intelligence race.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/05/18/technology/elon-musk-lawsuit-openai-sam-altman.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 18 May 2026 21:31:32 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-023",
+        "title": "Five Takeaways From the Blockbuster Trial Pitting Elon Musk Against OpenAI",
+        "summary": "It took a jury less than two hours to decide that Mr. Musk had waited too long to sue. But the testimony over three weeks was still illuminating.",
+        "content": "It took a jury less than two hours to decide that Mr. Musk had waited too long to sue. But the testimony over three weeks was still illuminating.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial-takeaways.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 18 May 2026 22:45:53 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-024",
+        "title": "Meta Reassigns 7,000 Employees to Focus on A.I.",
+        "summary": "The company announced the changes two days before it plans to lay off 10 percent of its work force, or about 8,000 employees.",
+        "content": "The company announced the changes two days before it plans to lay off 10 percent of its work force, or about 8,000 employees.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/05/18/technology/meta-reassigns-7000-employees-ai.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 18 May 2026 23:30:57 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-025",
+        "title": "What to Know About Elon Musk’s Trial Against OpenAI",
+        "summary": "A jury in Oakland, Calif., reached a decision after a three-week-long trial seen as pivotal for the future of OpenAI and the artificial intelligence race.",
+        "content": "A jury in Oakland, Calif., reached a decision after a three-week-long trial seen as pivotal for the future of OpenAI and the artificial intelligence race.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/05/18/technology/openai-trial-elon-musk-sam-altman.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 18 May 2026 19:35:29 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
@@ -425,96 +501,96 @@
     "concerns": [],
     "culture": [
       {
-        "id": "AI-022",
-        "title": "Anthropic to share Mythos cyber flaw findings with global finance watchdog",
-        "summary": "Startup has declined to release Claude Mythos AI model publicly amid fears it could be used by hackers\n\nBusiness live – latest updates\n\nAnthropic is to brief the global finance watchdog on the implications of its Claude Mythos AI model, whose potenti",
-        "content": "Startup has declined to release Claude Mythos AI model publicly amid fears it could be used by hackers\n\nBusiness live – latest updates\n\nAnthropic is to brief the global finance watchdog on the implications of its Claude Mythos AI model, whose potential threat to cyber defences has alarmed experts.\nThe US startup will discuss Mythos with the Financial Stability Board (FSB), which is chaired by the governor of the Bank of England, Andrew Bailey.\n Continue reading...",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/may/18/anthropic-ai-claude-mythos-cyber-financial-stability-board-fsb",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 18 May 2026 13:19:24 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-023",
-        "title": "Ex-Google CEO Eric Schmidt booed after AI remarks at Arizona commencement",
-        "summary": "Pew research shows Americans are more worried than excited about AI as graduates voiced fears over jobs\nA former Google CEO, Eric Schmidt, was met with students’ boos at a university commencement address in Arizona on Sunday when he raised the topic ",
-        "content": "Pew research shows Americans are more worried than excited about AI as graduates voiced fears over jobs\nA former Google CEO, Eric Schmidt, was met with students’ boos at a university commencement address in Arizona on Sunday when he raised the topic of artificial intelligence (AI) and its effects.\nSchmidt – who led the tech giant for more than a decade, acquiring a multi-billion dollar fortune in the process – was speaking to as many as 10,000 graduating University of Arizona students when he ad",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/us-news/2026/may/18/eric-schmidt-ai-university-commencement-speech-booed",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 18 May 2026 13:15:46 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-024",
-        "title": "Trump cuts to weather data could make forecasts less reliable, warn experts",
-        "summary": "Use of AI is a valuable tool for weather prediction but only when it’s trained with ample data, experts say\nAs the US prepares for hurricane season and a summer of record-breaking heat, experts fear the Trump administration’s cuts to climate and weat",
-        "content": "Use of AI is a valuable tool for weather prediction but only when it’s trained with ample data, experts say\nAs the US prepares for hurricane season and a summer of record-breaking heat, experts fear the Trump administration’s cuts to climate and weather data programming could make the federal government’s weather forecasts less reliable when they are needed most.\nThe National Oceanic and Atmospheric Administration (Noaa) late last year launched a suite of artificial intelligence-powered global w",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/us-news/2026/may/18/trump-cuts-ai-weather-prediction-forecasts",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 18 May 2026 12:00:46 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-025",
-        "title": "The return of Westworld is perfect timing for the flattery-oriented age of AI",
-        "summary": "Now that real life has caught up with science fiction, the imminent danger isn’t malfunctioning cowboys, it’s the robots convincing us that we’re great and everything is totally fine\nAll the best science fiction movies eventually get overtaken by rea",
-        "content": "Now that real life has caught up with science fiction, the imminent danger isn’t malfunctioning cowboys, it’s the robots convincing us that we’re great and everything is totally fine\nAll the best science fiction movies eventually get overtaken by reality. Steven Spielberg’s Minority Report predicted personalised advertising and biometric identification. Spike Jonze’s Her correctly guessed that AI would probably arrive as emotionally responsive digital companions that sound like Scarlett Johansso",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/film/2026/may/18/the-return-of-westworld-is-perfect-timing-for-the-flattery-oriented-age-of-ai",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 18 May 2026 11:01:40 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
-      },
-      {
         "id": "AI-026",
-        "title": "More than 100 UK datacentres plan to burn gas to generate electricity",
-        "summary": "Requests for gas connections by operators amount to more than 15 terawatt hours per year, endangering climate targets\nMore than 100 new datacentres in the UK plan to burn gas to generate electricity, some potentially doing so permanently.\nBritish off",
-        "content": "Requests for gas connections by operators amount to more than 15 terawatt hours per year, endangering climate targets\nMore than 100 new datacentres in the UK plan to burn gas to generate electricity, some potentially doing so permanently.\nBritish officials say this is an inevitable consequence of a years-long wait to connect to the National Grid, and raises an “interesting question” about the UK’s climate targets.\n Continue reading...",
+        "title": "Third of university students in Great Britain think AI job losses will cause social unrest, poll finds",
+        "summary": "Tracker of attitudes towards artificial intelligence also finds almost half of the public would prefer to avoid it\nOne in three university students think AI will wipe out jobs so rapidly it will trigger civil unrest, according to a survey by King’s C",
+        "content": "Tracker of attitudes towards artificial intelligence also finds almost half of the public would prefer to avoid it\nOne in three university students think AI will wipe out jobs so rapidly it will trigger civil unrest, according to a survey by King’s College London (KCL).\nStudents are among the heaviest users of AI, the poll found, with 77% using it at least a few times a month – compared with 46% of workers – and 27% using it daily or almost daily.\n Continue reading...",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/business/2026/may/18/uk-datacentres-plan-to-burn-gas-to-generate-electricity",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/may/19/third-university-students-think-ai-job-losses-cause-social-unrest-poll",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Mon, 18 May 2026 04:00:59 GMT",
+        "publishedAt": "Mon, 18 May 2026 23:01:00 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-027",
+        "title": "Jury hands victory to Sam Altman and OpenAI in battle with Elon Musk",
+        "summary": "OpenAI CEO and president found not liable for breaking contracts made with Musk when founding the startup\nA jury ruled in favor of Sam Altman in the culmination of a long and bitter legal battle that pitted the richest person in the world against a l",
+        "content": "OpenAI CEO and president found not liable for breaking contracts made with Musk when founding the startup\nA jury ruled in favor of Sam Altman in the culmination of a long and bitter legal battle that pitted the richest person in the world against a leader of the AI boom.\nThe federal jury in Oakland, California, found Altman, OpenAI and its president, Greg Brockman, not liable for Elon Musk’s claims that they unjustly enriched themselves and broke a founding contract made with Musk when founding ",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/may/18/sam-altman-trial-victory-elon-musk-openai",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 18 May 2026 22:37:11 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-028",
+        "title": "Pope Leo to issue text on human dignity and AI with Anthropic co-founder",
+        "summary": "The pope’s encyclical will address ‘the protection of the human person in the age of AI’, the Vatican says\nIn the first major text of his papacy, Pope Leo will address the rapid rise of artificial intelligence.\nThe Chicago-born pontiff will present t",
+        "content": "The pope’s encyclical will address ‘the protection of the human person in the age of AI’, the Vatican says\nIn the first major text of his papacy, Pope Leo will address the rapid rise of artificial intelligence.\nThe Chicago-born pontiff will present the document, known as an encyclical, at the Vatican next week during an event attended by Christopher Olah, the co-founder of Anthropic – a US-based AI firm that has clashed with Donald Trump’s administration.\n Continue reading...",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/world/2026/may/18/pope-leo-encyclical-human-dignity-ai-anthropic",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 18 May 2026 19:22:44 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-029",
+        "title": "Tech firms face tougher UK rules on intimate image abuse",
+        "summary": "Ofcom to update codes of practice amid rise in ‘revenge porn’ and AI-generated deepfakes targeting women and girls\nSocial media, messaging platforms and online forums that publish intimate image abuse – often intended to humiliate women and girls – a",
+        "content": "Ofcom to update codes of practice amid rise in ‘revenge porn’ and AI-generated deepfakes targeting women and girls\nSocial media, messaging platforms and online forums that publish intimate image abuse – often intended to humiliate women and girls – are being instructed to follow new guidelines to stop it spreading.\nOfcom said it would change its codes of practice to force service providers to detect and quash intimate image abuse – sometimes called “revenge porn” – and crack down on AI-generated",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/may/18/tech-firms-uk-rules-intimate-image-abuse",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 18 May 2026 18:30:53 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-030",
+        "title": "Melbourne psychiatrist refuses new patients who don’t consent to AI note-taking",
+        "summary": "Registration form informs patients that if they do not wish AI to be used, they will need their referring doctor to refer them to a different service provider\n\nGet our breaking news email, free app or daily news podcast\n\nA Melbourne psychiatrist has ",
+        "content": "Registration form informs patients that if they do not wish AI to be used, they will need their referring doctor to refer them to a different service provider\n\nGet our breaking news email, free app or daily news podcast\n\nA Melbourne psychiatrist has refused new patients unless they agree to allow her to use an AI scribe to transcribe the conversations in their sessions.\nAI-driven note-taking tools are becoming popular within the medical industry – with two in five general practitioners now using",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/australia-news/2026/may/19/melbourne-psychiatrist-ai-note-taking-new-patients",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 18 May 2026 15:00:04 GMT",
         "normalizedTags": [
           "the guardian ai"
         ]
@@ -527,32 +603,36 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
+    "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+    "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+    "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+    "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
     "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
-    "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
-    "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
-    "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
-    "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
+    "https://the-decoder.com/elon-musk-loses-his-134-billion-lawsuit-against-openai-after-jury-deliberates-for-just-two-hours/",
+    "https://the-decoder.com/cursors-composer-2-5-matches-opus-4-7-and-gpt-5-5-benchmarks-at-a-fraction-of-the-cost/",
+    "https://the-decoder.com/pope-leo-xiv-presents-first-ai-encyclical-anthropic-co-founder-invited-as-guest-speaker/",
     "https://the-decoder.com/a-stanford-student-reflects-on-his-chatgpt-class-and-a-culture-of-just-a-little-bit-of-fraud/",
     "https://the-decoder.com/maga-aligned-groups-want-government-oversight-of-frontier-ai-models/",
-    "https://the-decoder.com/anthropic-to-brief-global-financial-regulators-on-cyber-flaws-found-by-claude-mythos/",
-    "https://the-decoder.com/ai-startup-revenue-hits-80-billion-but-anthropic-and-openai-take-almost-all-of-it/",
-    "https://www.creativebloq.com/design/logos-icons/we-won-the-new-spotify-logo-is-being-laid-to-rest",
+    "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
+    "https://www.technologyreview.com/2026/05/18/1137430/the-signals-that-matter-mit-insiders-panel/",
+    "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
     "https://www.technologyreview.com/2026/05/18/1137407/the-download-musk-altman-trial-trump-tech-trading/",
     "https://arxiv.org/abs/2605.15202",
-    "https://arxiv.org/abs/2605.15204",
-    "https://arxiv.org/abs/2605.15205",
-    "https://arxiv.org/abs/2605.15215",
-    "https://www.cnbc.com/2026/05/18/5-things-to-know-before-the-market-opens.html",
-    "https://www.cnbc.com/2026/05/18/metas-layoffs-starting-this-week-underscore-zuckerbergs-ai-reality-.html",
-    "https://www.cnbc.com/2026/05/18/trump-stake-in-intel.html",
-    "https://www.cnbc.com/2026/05/18/how-elon-musk-and-sam-altman-went-from-besties-to-bitter-rivals.html",
-    "https://www.cnbc.com/2026/05/18/europe-ai-energy-electricity-costs-data-centers-china-us.html",
-    "https://www.nytimes.com/2026/05/17/obituaries/peter-g-neumann-dead.html",
-    "https://www.theguardian.com/technology/2026/may/18/anthropic-ai-claude-mythos-cyber-financial-stability-board-fsb",
-    "https://www.theguardian.com/us-news/2026/may/18/eric-schmidt-ai-university-commencement-speech-booed",
-    "https://www.theguardian.com/us-news/2026/may/18/trump-cuts-ai-weather-prediction-forecasts",
-    "https://www.theguardian.com/film/2026/may/18/the-return-of-westworld-is-perfect-timing-for-the-flattery-oriented-age-of-ai",
-    "https://www.theguardian.com/business/2026/may/18/uk-datacentres-plan-to-burn-gas-to-generate-electricity"
+    "https://www.cnbc.com/2026/05/18/intel-ceo-says-foundry-is-gaining-momentum-as-customer-interest-grows.html",
+    "https://www.cnbc.com/2026/05/18/jim-cramer-says-this-is-how-to-play-a-market-rotation-and-one-stock-hed-buy.html",
+    "https://www.cnbc.com/2026/05/18/google-i-o-alphabet-ai-wall-street.html",
+    "https://www.cnbc.com/2026/05/18/its-not-too-late-to-buy-nvidia-here-are-the-reasons-we-say-own-it-dont-trade-it.html",
+    "https://www.cnbc.com/2026/05/18/seagate-memory-chip-stocks-ai.html",
+    "https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial.html",
+    "https://www.nytimes.com/2026/05/18/technology/elon-musk-lawsuit-openai-sam-altman.html",
+    "https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial-takeaways.html",
+    "https://www.nytimes.com/2026/05/18/technology/meta-reassigns-7000-employees-ai.html",
+    "https://www.nytimes.com/2026/05/18/technology/openai-trial-elon-musk-sam-altman.html",
+    "https://www.theguardian.com/technology/2026/may/19/third-university-students-think-ai-job-losses-cause-social-unrest-poll",
+    "https://www.theguardian.com/technology/2026/may/18/sam-altman-trial-victory-elon-musk-openai",
+    "https://www.theguardian.com/world/2026/may/18/pope-leo-encyclical-human-dignity-ai-anthropic",
+    "https://www.theguardian.com/technology/2026/may/18/tech-firms-uk-rules-intimate-image-abuse",
+    "https://www.theguardian.com/australia-news/2026/may/19/melbourne-psychiatrist-ai-note-taking-new-patients"
   ],
-  "generatedAt": "2026-05-18T14:28:36.221Z"
+  "generatedAt": "2026-05-18T23:56:48.761Z"
 }
