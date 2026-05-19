@@ -2,9 +2,9 @@
   "date": "2026-05-19",
   "dateFormatted": "May 19, 2026",
   "headline": {
-    "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
-    "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
-    "sourceUrl": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+    "title": "Google just declared itself a contender in AI design at IO 2026",
+    "summary": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners.",
+    "sourceUrl": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
     "sourceName": "TechCrunch AI"
   },
   "simpleSummary": [
@@ -15,192 +15,192 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
-        "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
-        "content": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it.",
+        "title": "Google just declared itself a contender in AI design at IO 2026",
+        "summary": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners.",
+        "content": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+        "sourceUrl": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Mon, 18 May 2026 21:29:31 +0000",
+        "publishedAt": "Tue, 19 May 2026 21:33:30 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-002",
-        "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
-        "summary": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs.",
-        "content": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs — the libraries developers use to interact with APIs.",
+        "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
+        "summary": "Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
+        "content": "Google expands Gmail’s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+        "sourceUrl": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Mon, 18 May 2026 19:27:52 +0000",
+        "publishedAt": "Tue, 19 May 2026 21:25:31 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-003",
-        "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-        "summary": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
-        "content": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
+        "title": "How to use Google’s new AI agents to go beyond your standard searches",
+        "summary": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
+        "content": "Google is launching AI-powered “information agents” that can monitor topics in the background and proactively alert users to updates and changes.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+        "sourceUrl": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Mon, 18 May 2026 17:34:43 +0000",
+        "publishedAt": "Tue, 19 May 2026 21:16:25 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-004",
-        "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
-        "summary": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
-        "content": "Amazon’s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
+        "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
+        "summary": "Ocean, an agentic email security platform, claims its AI can thoroughly analyze the context of every incoming email to detect fraud and impersonation attempts.",
+        "content": "Ocean, an agentic email security platform, claims its AI can thoroughly analyze the context of every incoming email to detect fraud and impersonation attempts.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
+        "sourceUrl": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Mon, 18 May 2026 14:56:47 +0000",
+        "publishedAt": "Tue, 19 May 2026 21:08:51 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-005",
-        "title": "Gemini is in danger of going full Copilot",
-        "summary": "I actually use the Gemini app quite a bit on my phone, but let’s not get carried away.\t\n\nGemini has a creep problem.\nA few years ago, that little sparkle icon started showing up in all of our Google apps. Gemini in your inbox! Gemini in your Google D",
-        "content": "I actually use the Gemini app quite a bit on my phone, but let’s not get carried away.\t\n\nGemini has a creep problem.\nA few years ago, that little sparkle icon started showing up in all of our Google apps. Gemini in your inbox! Gemini in your Google Drive! It was slow at first, and easy enough to tune out, but something has changed in the past few months. Gemini is creeping. It's showing up in all kinds of places at a relentless pace, and personally, it's starting to really cheese me off. \nThe AI",
+        "title": "Elon Musk said Sam Altman ‘stole’ a non-profit — but the trial showed he had similar aims",
+        "summary": "The jury's speedy decision to reject Elon Musk's lawsuit against the other founders of OpenAI and Microsoft confirmed what we saw in the courtroom: Musk's case was a weak one, in part because he waited so long to file it.",
+        "content": "The jury's speedy decision to reject Elon Musk's lawsuit against the other founders of OpenAI and Microsoft confirmed what we saw in the courtroom: Musk's case was a weak one, in part because he waited so long to file it.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theverge.com/tech/931752/google-io-2026-gemini-icon-docs-workspace",
-        "sourceName": "The Verge AI",
+        "sourceUrl": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
+        "sourceName": "TechCrunch AI",
         "tags": [
-          "The Verge AI"
+          "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "2026-05-19T10:30:00.000Z",
+        "publishedAt": "Tue, 19 May 2026 20:11:00 +0000",
         "normalizedTags": [
-          "the verge ai"
+          "techcrunch ai"
         ]
       }
     ],
     "creative": [
       {
         "id": "AI-006",
-        "title": "Mistral AI acquires Viennese physical AI startup Emmi AI",
-        "summary": "French AI company Mistral AI has acquired Vienna-based startup Emmi AI to expand its offering for industrial clients across Europe.\nThe article Mistral AI acquires Viennese physical AI startup Emmi AI appeared first on The Decoder.",
-        "content": "French AI company Mistral AI has acquired Vienna-based startup Emmi AI to expand its offering for industrial clients across Europe.\nThe article Mistral AI acquires Viennese physical AI startup Emmi AI appeared first on The Decoder.",
+        "title": "Google overhauls its AI subscriptions at I/O 2026 with three tiers starting at $10 a month",
+        "summary": "Google is restructuring its AI subscriptions at I/O 2026: three tiers from $7.99 to $99.99 per month with staggered usage limits, new models like Gemini Omni, and the AI agent Gemini Spark. Instead of daily prompt limits, Google is moving to a consum",
+        "content": "Google is restructuring its AI subscriptions at I/O 2026: three tiers from $7.99 to $99.99 per month with staggered usage limits, new models like Gemini Omni, and the AI agent Gemini Spark. Instead of daily prompt limits, Google is moving to a consumption-based compute model, a trend that's gaining traction across the industry.\nThe article Google overhauls its AI subscriptions at I/O 2026 with three tiers starting at $10 a month appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/mistral-ai-acquires-viennese-physical-ai-startup-emmi-ai/",
+        "sourceUrl": "https://the-decoder.com/google-overhauls-its-ai-subscriptions-at-i-o-2026-with-three-tiers-starting-at-10-a-month/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Tue, 19 May 2026 11:27:09 +0000",
+        "publishedAt": "Tue, 19 May 2026 19:33:12 +0000",
         "normalizedTags": [
           "the decoder"
         ]
       },
       {
         "id": "AI-007",
-        "title": "Cloudflare says Anthropic's Mythos Preview finds exploit chains that earlier frontier models missed",
-        "summary": "Cloudflare tested Anthropic's security-focused AI model Mythos Preview across more than 50 of its own code repositories as part of Project Glasswing.\nThe article Cloudflare says Anthropic's Mythos Preview finds exploit chains that earlier frontier mo",
-        "content": "Cloudflare tested Anthropic's security-focused AI model Mythos Preview across more than 50 of its own code repositories as part of Project Glasswing.\nThe article Cloudflare says Anthropic's Mythos Preview finds exploit chains that earlier frontier models missed appeared first on The Decoder.",
+        "title": "Sorry for the outages: Bot spam is pushing our servers to the limit",
+        "summary": "Since May 17, our site has been hard to reach, and we want to say sorry for the trouble, especially to our subscribers.\nThe article Sorry for the outages: Bot spam is pushing our servers to the limit appeared first on The Decoder.",
+        "content": "Since May 17, our site has been hard to reach, and we want to say sorry for the trouble, especially to our subscribers.\nThe article Sorry for the outages: Bot spam is pushing our servers to the limit appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/cloudflare-says-anthropics-mythos-preview-finds-exploit-chains-that-earlier-frontier-models-missed/",
+        "sourceUrl": "https://the-decoder.com/sorry-for-the-outages-bot-spam-is-pushing-our-servers-to-the-limit/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Tue, 19 May 2026 11:13:48 +0000",
+        "publishedAt": "Tue, 19 May 2026 18:31:14 +0000",
         "normalizedTags": [
           "the decoder"
         ]
       },
       {
         "id": "AI-008",
-        "title": "Anthropic adds self-hosted sandboxes and MCP tunnels to Claude Managed Agents",
-        "summary": "Anthropic is expanding Claude Managed Agents with self-hosted sandboxes and MCP tunnels. Companies can now move their AI agents' tool execution into their own infrastructure. But Anthropic isn't handing over full control of the agent itself.\nThe arti",
-        "content": "Anthropic is expanding Claude Managed Agents with self-hosted sandboxes and MCP tunnels. Companies can now move their AI agents' tool execution into their own infrastructure. But Anthropic isn't handing over full control of the agent itself.\nThe article Anthropic adds self-hosted sandboxes and MCP tunnels to Claude Managed Agents appeared first on The Decoder.",
+        "title": "Prominent AI researcher Andrej Karpathy picks Anthropic over former home OpenAI to get back into frontier LLM research",
+        "summary": "Andrej Karpathy, one of the biggest names in AI, is joining Anthropic. The former OpenAI core team member and Tesla Autopilot architect says he wants to get back into R&D, calling the next few years at the frontier of LLMs \"especially formative.\" Tha",
+        "content": "Andrej Karpathy, one of the biggest names in AI, is joining Anthropic. The former OpenAI core team member and Tesla Autopilot architect says he wants to get back into R&D, calling the next few years at the frontier of LLMs \"especially formative.\" That he chose Anthropic over a return to OpenAI is a clear loss for his former employer.\nThe article Prominent AI researcher Andrej Karpathy picks Anthropic over former home OpenAI to get back into frontier LLM research appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/anthropic-adds-self-hosted-sandboxes-and-mcp-tunnels-to-claude-managed-agents/",
+        "sourceUrl": "https://the-decoder.com/prominent-ai-researcher-andrej-karpathy-picks-anthropic-over-former-home-openai-to-get-back-into-frontier-llm-research/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Tue, 19 May 2026 10:02:11 +0000",
+        "publishedAt": "Tue, 19 May 2026 18:23:27 +0000",
         "normalizedTags": [
           "the decoder"
         ]
       },
       {
         "id": "AI-009",
-        "title": "Elon Musk appeals $134 billion OpenAI loss, calls verdict a \"calendar technicality\"",
-        "summary": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI. The jury in Oakland dismissed the case after just two hours of deliberation. Musk had sought up to $134 billion. The judge said she would have been ready to dismiss the case \"immediately.\"",
-        "content": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI. The jury in Oakland dismissed the case after just two hours of deliberation. Musk had sought up to $134 billion. The judge said she would have been ready to dismiss the case \"immediately.\" Musk's attorney reserved the right to appeal.\nThe article Elon Musk appeals $134 billion OpenAI loss, calls verdict a \"calendar technicality\" appeared first on The Decoder.",
+        "title": "Google's I/O announcements: new models, a cloud agent that never sleeps, and a redesigned Gemini app",
+        "summary": "Google used its I/O developer conference to unveil a wave of new AI products. The highlights: a new model called Gemini 3.5 Flash, a multimodal model called Gemini Omni, and a personal agent named Gemini Spark that runs around the clock in the cloud.",
+        "content": "Google used its I/O developer conference to unveil a wave of new AI products. The highlights: a new model called Gemini 3.5 Flash, a multimodal model called Gemini Omni, and a personal agent named Gemini Spark that runs around the clock in the cloud. The Gemini app also gets a major refresh.\nThe article Google's I/O announcements: new models, a cloud agent that never sleeps, and a redesigned Gemini app appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/elon-musk-appeals-134-billion-openai-loss-calls-verdict-a-calendar-technicality/",
+        "sourceUrl": "https://the-decoder.com/googles-i-o-announcements-new-models-a-cloud-agent-that-never-sleeps-and-a-redesigned-gemini-app/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Tue, 19 May 2026 08:54:50 +0000",
+        "publishedAt": "Tue, 19 May 2026 17:44:17 +0000",
         "normalizedTags": [
           "the decoder"
         ]
       },
       {
         "id": "AI-010",
-        "title": "Cursor's Composer 2.5 matches Opus 4.7 and GPT-5.5 benchmarks at a fraction of the cost",
-        "summary": "Cursor ships Composer 2.5, an AI coding model built on Kimi K2.5 and trained on 25x more synthetic tasks than its predecessor. It matches Opus 4.7 and GPT-5.5 on benchmarks at a fraction of the price.\nThe article Cursor's Composer 2.5 matches Opus 4.",
-        "content": "Cursor ships Composer 2.5, an AI coding model built on Kimi K2.5 and trained on 25x more synthetic tasks than its predecessor. It matches Opus 4.7 and GPT-5.5 on benchmarks at a fraction of the price.\nThe article Cursor's Composer 2.5 matches Opus 4.7 and GPT-5.5 benchmarks at a fraction of the cost appeared first on The Decoder.",
+        "title": "Agora-1 turns the N64 classic GoldenEye into a playable AI simulation for four players",
+        "summary": "Odyssey has released Agora-1, a world model that lets up to four players act simultaneously in an AI-generated world—tested on the N64 classic GoldenEye. Two separate models handle game state simulation and rendering in real time. The team sees poten",
+        "content": "Odyssey has released Agora-1, a world model that lets up to four players act simultaneously in an AI-generated world—tested on the N64 classic GoldenEye. Two separate models handle game state simulation and rendering in real time. The team sees potential in collaborative robotics and AI agent training.\nThe article Agora-1 turns the N64 classic GoldenEye into a playable AI simulation for four players appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/cursors-composer-2-5-matches-opus-4-7-and-gpt-5-5-benchmarks-at-a-fraction-of-the-cost/",
+        "sourceUrl": "https://the-decoder.com/agora-1-turns-the-n64-classic-goldeneye-into-a-playable-ai-simulation-for-four-players/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Mon, 18 May 2026 17:29:01 +0000",
+        "publishedAt": "Tue, 19 May 2026 13:57:38 +0000",
         "normalizedTags": [
           "the decoder"
         ]
@@ -209,6 +209,25 @@
     "research": [
       {
         "id": "AI-011",
+        "title": "Roundtables: Inside the Musk v. Altman Trial",
+        "summary": "Listen to the session or watch below Elon Musk lost his suit against OpenAI, in which he alleged CEO Sam Altman and President Greg Brockman had deceived him over the company’s non-profit status. Watch as AI reporter and attorney Michelle Kim, who cov",
+        "content": "Listen to the session or watch below Elon Musk lost his suit against OpenAI, in which he alleged CEO Sam Altman and President Greg Brockman had deceived him over the company’s non-profit status. Watch as AI reporter and attorney Michelle Kim, who covered the trial for MIT Technology Review, joins in conversation with editor in…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 19 May 2026 20:15:18 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-012",
         "title": "Understanding the modern cybercrime landscape",
         "summary": "Throughout 2025, HPE observed significant changes in how cybercriminals operate. Analyzing real-world threats, our HPE Threat Labs highlighted an industrialization of the cyber criminals’ methods in its new In the Wild Report, enabling greater scale,",
         "content": "Throughout 2025, HPE observed significant changes in how cybercriminals operate. Analyzing real-world threats, our HPE Threat Labs highlighted an industrialization of the cyber criminals’ methods in its new In the Wild Report, enabling greater scale, speed and structure in their campaigns. They typically use automation and AI to exploit longstanding vulnerabilities, and many have adopted…",
@@ -227,7 +246,7 @@
         ]
       },
       {
-        "id": "AI-012",
+        "id": "AI-013",
         "title": "The Download: Musk v. Altman, smart glasses for warfare, and Google I/O",
         "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s why Elon Musk lost his suit against OpenAI Elon Musk has lost his lawsuit against OpenAI, which centered ",
         "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s why Elon Musk lost his suit against OpenAI Elon Musk has lost his lawsuit against OpenAI, which centered on whether the company breached its founding contract as a nonprofit. A…",
@@ -246,8 +265,8 @@
         ]
       },
       {
-        "id": "AI-013",
-        "title": "Colossal Biosciences is growing chickens in a 3D-printed container",
+        "id": "AI-014",
+        "title": "Colossal Biosciences is growing chickens in a 3D-printed artificial eggshell",
         "summary": "The baby chicks were shifting and starting to pip—or trying to hatch. But not from an egg.  Instead, these chickens were growing inside transparent 3D-printed plastic cups at the Dallas headquarters of Colossal Biosciences. The biotech company today ",
         "content": "The baby chicks were shifting and starting to pip—or trying to hatch. But not from an egg.  Instead, these chickens were growing inside transparent 3D-printed plastic cups at the Dallas headquarters of Colossal Biosciences. The biotech company today claimed it has developed a “fully artificial egg” as part of its effort to resurrect extinct avian…",
         "keyTakeaways": [],
@@ -265,7 +284,7 @@
         ]
       },
       {
-        "id": "AI-014",
+        "id": "AI-015",
         "title": "Here’s why Elon Musk lost his suit against OpenAI",
         "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonz",
         "content": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accepted it.  Musk announced on X that he will…",
@@ -282,120 +301,101 @@
         "normalizedTags": [
           "mit tech review"
         ]
-      },
-      {
-        "id": "AI-015",
-        "title": "What to expect from Google this week",
-        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When Google opens its doors tomorrow for its annual developer conference, I/O, it will do so as a clear third pl",
-        "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When Google opens its doors tomorrow for its annual developer conference, I/O, it will do so as a clear third place in the foundation model race. A year ago, at Google I/O…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 18 May 2026 17:35:43 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
       }
     ],
     "applications": [],
     "business": [
       {
         "id": "AI-016",
-        "title": "Musk and Altman take their battle from court to Wall Street ahead of landmark IPOs",
-        "summary": "Now that the Musk-Altman trial has reached a verdict, the two billionaires can turn their attention to readying their companies for the public market.",
-        "content": "Now that the Musk-Altman trial has reached a verdict, the two billionaires can turn their attention to readying their companies for the public market.",
+        "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+        "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.",
+        "content": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.\nAt its annual I/O developer conference, Google announced a sweeping redesign of the search box itself — the literal text field where billions of queries begin every day — transforming it from a simple keyword input into a dynamic, AI-driven conversa",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/05/19/musk-altman-take-their-battle-from-court-to-wall-street-ahead-of-ipos.html",
-        "sourceName": "CNBC Tech",
+        "sourceUrl": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+        "sourceName": "VentureBeat AI",
         "tags": [
-          "CNBC Tech"
+          "VentureBeat AI"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Tue, 19 May 2026 13:28:36 GMT",
+        "publishedAt": "Tue, 19 May 2026 17:45:00 GMT",
         "normalizedTags": [
-          "cnbc tech"
+          "venturebeat ai"
         ]
       },
       {
         "id": "AI-017",
-        "title": "Musk loses in court, Home Depot earnings, DOJ's 'lawfare' fund and more in Morning Squawk",
-        "summary": "Here are five key things investors need to know to start the trading day.",
-        "content": "Here are five key things investors need to know to start the trading day.",
+        "title": "SpaceX picks Goldman Sachs for lead left position on record-breaking IPO, sources say",
+        "summary": "SpaceX has picked Goldman Sachs to lead what's expected to be a record-setting IPO.",
+        "content": "SpaceX has picked Goldman Sachs to lead what's expected to be a record-setting IPO.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/05/19/5-things-to-know-before-the-market-opens.html",
+        "sourceUrl": "https://www.cnbc.com/2026/05/19/spacex-picks-goldman-sachs-to-lead-record-breaking-ipo-sources-say.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Tue, 19 May 2026 12:30:23 GMT",
+        "publishedAt": "Tue, 19 May 2026 23:20:10 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-018",
-        "title": "Modular data center builder Armada raises $230 million, to build Arizona factory with new investor Johnson Controls",
-        "summary": "Modular data center builder Armada has raised $230 million from investors at a valuation of $2 billion, with BlackRock becoming a new investor.",
-        "content": "Modular data center builder Armada has raised $230 million from investors at a valuation of $2 billion, with BlackRock becoming a new investor.",
+        "title": "OpenAI announces new Guaranteed Capacity offering for customers to secure compute",
+        "summary": "Altman said OpenAI will make sure it leaves enough capacity available for its products like ChatGPT and its coding assistant Codex.",
+        "content": "Altman said OpenAI will make sure it leaves enough capacity available for its products like ChatGPT and its coding assistant Codex.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/05/19/modular-data-center-builder-armada-raises-230-million.html",
+        "sourceUrl": "https://www.cnbc.com/2026/05/19/openai-announces-new-guaranteed-capacity-offering-for-customers-to-secure-compute.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Tue, 19 May 2026 11:05:00 GMT",
+        "publishedAt": "Tue, 19 May 2026 21:56:12 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-019",
-        "title": "2026 CNBC Disruptor 50 list: Why Anthropic was No. 1 in this year's rankings",
-        "summary": "Anthropic, posting explosive growth for its powerful AI systems that enterprises trust, has leapfrogged OpenAI on the CNBC Disruptor 50 list as the new No. 1.",
-        "content": "Anthropic, posting explosive growth for its powerful AI systems that enterprises trust, has leapfrogged OpenAI on the CNBC Disruptor 50 list as the new No. 1.",
+        "title": "Google gives first glimpse of new AI glasses ahead of fall launch ",
+        "summary": "At its annual developers conference, Google offered a first look at its audio smart glasses that will be available later this year.",
+        "content": "At its annual developers conference, Google offered a first look at its audio smart glasses that will be available later this year.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/05/19/2026-cnbc-disruptor-50-rankings-anthropic-no-1.html",
+        "sourceUrl": "https://www.cnbc.com/2026/05/19/google-gives-first-glimpse-of-new-ai-glasses-ahead-of-fall-launch-.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Tue, 19 May 2026 11:08:39 GMT",
+        "publishedAt": "Tue, 19 May 2026 22:48:53 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-020",
-        "title": "2026 CNBC Disruptor 50 list: How we chose this year's companies",
-        "summary": "The 2026 CNBC Disruptor 50 list demonstrates how quickly AI has become essential to disruptive business models across every sector of the economy.",
-        "content": "The 2026 CNBC Disruptor 50 list demonstrates how quickly AI has become essential to disruptive business models across every sector of the economy.",
+        "title": "Polymarket launches private company trading so investors can speculate on Anthropic, OpenAI",
+        "summary": "The company is launching prediction markets tied to private company milestones, including valuations, IPO timing and secondary-market activity for names like OpenAI and Anthropic.",
+        "content": "The company is launching prediction markets tied to private company milestones, including valuations, IPO timing and secondary-market activity for names like OpenAI and Anthropic.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/05/19/2026-cnbc-disruptor-50-list-how-we-chose-this-years-companies.html",
+        "sourceUrl": "https://www.cnbc.com/2026/05/19/polymarket-launches-private-company-trading-so-investors-can-speculate-on-anthropic-openai.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Tue, 19 May 2026 11:10:49 GMT",
+        "publishedAt": "Tue, 19 May 2026 19:56:27 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
@@ -404,82 +404,63 @@
     "policy": [
       {
         "id": "AI-021",
-        "title": "After Elon Musk’s Court Loss Comes the Long Hot A.I. Summer",
-        "summary": "Even as protests increase, the collapse of Mr. Musk’s suit against OpenAI and Sam Altman will speed up the artificial intelligence juggernaut.",
-        "content": "Even as protests increase, the collapse of Mr. Musk’s suit against OpenAI and Sam Altman will speed up the artificial intelligence juggernaut.",
+        "title": "Meta Begins Laying Off 8,000 Employees Amid A.I. Transformation",
+        "summary": "Meta told employees last month that it would carry out mass layoffs on May 20, as the Silicon Valley giant tries to transform into an A.I.-first company.",
+        "content": "Meta told employees last month that it would carry out mass layoffs on May 20, as the Silicon Valley giant tries to transform into an A.I.-first company.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial.html",
+        "sourceUrl": "https://www.nytimes.com/2026/05/19/technology/meta-layoffs-ai.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Tue, 19 May 2026 00:12:22 +0000",
+        "publishedAt": "Tue, 19 May 2026 20:00:06 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
       },
       {
         "id": "AI-022",
-        "title": "Elon Musk Loses $150 Billion Suit Against OpenAI and Sam Altman",
-        "summary": "A nine-member jury found that Mr. Musk had waited too long to sue. The setback for the tech mogul frees OpenAI to continue in the artificial intelligence race.",
-        "content": "A nine-member jury found that Mr. Musk had waited too long to sue. The setback for the tech mogul frees OpenAI to continue in the artificial intelligence race.",
+        "title": "How Google Is Starting to Win the A.I. Race",
+        "summary": "Despite its early stumbles, Google’s Gemini has leapfrogged ChatGPT in relevance and usefulness. Soon, it will be ubiquitous.",
+        "content": "Despite its early stumbles, Google’s Gemini has leapfrogged ChatGPT in relevance and usefulness. Soon, it will be ubiquitous.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/05/18/technology/elon-musk-lawsuit-openai-sam-altman.html",
+        "sourceUrl": "https://www.nytimes.com/2026/05/19/technology/personaltech/google-gemini-ai.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Mon, 18 May 2026 21:31:32 +0000",
+        "publishedAt": "Tue, 19 May 2026 19:41:47 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
       },
       {
         "id": "AI-023",
-        "title": "Five Takeaways From the Blockbuster Trial Pitting Elon Musk Against OpenAI",
-        "summary": "It took a jury less than two hours to decide that Mr. Musk had waited too long to sue. But the testimony over three weeks was still illuminating.",
-        "content": "It took a jury less than two hours to decide that Mr. Musk had waited too long to sue. But the testimony over three weeks was still illuminating.",
+        "title": "Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years",
+        "summary": "Using a new Gemini A.I. model, the tech giant is overhauling its search box dimensions to answer longer queries, adding a video-generation tool and simplifying online shopping.",
+        "content": "Using a new Gemini A.I. model, the tech giant is overhauling its search box dimensions to answer longer queries, adding a video-generation tool and simplifying online shopping.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial-takeaways.html",
+        "sourceUrl": "https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Mon, 18 May 2026 22:45:53 +0000",
+        "publishedAt": "Tue, 19 May 2026 18:34:36 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
       },
       {
         "id": "AI-024",
-        "title": "Meta Reassigns 7,000 Employees to Focus on A.I.",
-        "summary": "The company announced the changes two days before it plans to lay off 10 percent of its work force, or about 8,000 employees.",
-        "content": "The company announced the changes two days before it plans to lay off 10 percent of its work force, or about 8,000 employees.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/05/18/technology/meta-reassigns-7000-employees-ai.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Tue, 19 May 2026 00:48:11 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-025",
         "title": "As OpenAI Celebrates Court Win Against Musk, Other Challenges Lie Ahead",
         "summary": "A jury’s rejection of Elon Musk’s $150 billion lawsuit against OpenAI was a major hurdle crossed. But the maker of ChatGPT faces a list of other problems.",
         "content": "A jury’s rejection of Elon Musk’s $150 billion lawsuit against OpenAI was a major hurdle crossed. But the maker of ChatGPT faces a list of other problems.",
@@ -492,7 +473,26 @@
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Tue, 19 May 2026 13:32:35 +0000",
+        "publishedAt": "Tue, 19 May 2026 13:32:36 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-025",
+        "title": "Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid",
+        "summary": "NextEra’s proposed acquisition of Dominion Energy comes as Americans are paying a lot more for electricity, and data centers are demanding a lot more power from utilities.",
+        "content": "NextEra’s proposed acquisition of Dominion Energy comes as Americans are paying a lot more for electricity, and data centers are demanding a lot more power from utilities.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 19 May 2026 15:13:37 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
@@ -502,95 +502,95 @@
     "culture": [
       {
         "id": "AI-026",
-        "title": "Third of university students in Great Britain think AI job losses will cause social unrest, poll finds",
-        "summary": "Tracker of attitudes towards artificial intelligence also finds almost half of the public would prefer to avoid it\nOne in three university students think AI will wipe out jobs so rapidly it will trigger civil unrest, according to a survey by King’s C",
-        "content": "Tracker of attitudes towards artificial intelligence also finds almost half of the public would prefer to avoid it\nOne in three university students think AI will wipe out jobs so rapidly it will trigger civil unrest, according to a survey by King’s College London (KCL).\nStudents are among the heaviest users of AI, the poll found, with 77% using it at least a few times a month – compared with 46% of workers – and 27% using it daily or almost daily.\n Continue reading...",
+        "title": "‘Obvious markers of AI’: doubts raised over winner of short story prize",
+        "summary": "Granta publisher says ‘perhaps we never will know’ true authorship of work that won Commonwealth prize \nA few syntactical tics – and the verdict of an AI detection platform – have sparked a furore over the possibility that a short story given a prest",
+        "content": "Granta publisher says ‘perhaps we never will know’ true authorship of work that won Commonwealth prize \nA few syntactical tics – and the verdict of an AI detection platform – have sparked a furore over the possibility that a short story given a prestigious literary award was written by AI.\nThe foundation that awarded the prize and Granta, the magazine that published the winning story, said they had considered the allegations but had not reached a conclusion as to whether they were true.\n Continu",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/may/19/third-university-students-think-ai-job-losses-cause-social-unrest-poll",
+        "sourceUrl": "https://www.theguardian.com/books/2026/may/19/commonwealth-short-story-prize-winner-doubts-ai-artificial-intelligence",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Mon, 18 May 2026 23:01:00 GMT",
+        "publishedAt": "Tue, 19 May 2026 19:25:56 GMT",
         "normalizedTags": [
           "the guardian ai"
         ]
       },
       {
         "id": "AI-027",
-        "title": "Billionaires are trying to lull us into AI complacency. Don’t let them | Steven Greenhouse",
-        "summary": "As resistance to data centers grows, Musk and others are painting a rosy picture. But the US must institute protections\nAs Americans grow increasingly worried that AI will wipe out millions of jobs and create a permanent new underclass, tech billiona",
-        "content": "As resistance to data centers grows, Musk and others are painting a rosy picture. But the US must institute protections\nAs Americans grow increasingly worried that AI will wipe out millions of jobs and create a permanent new underclass, tech billionaires are rushing to reassure us not to worry – the subtext being: please don’t bring out the anti-AI pitchforks.\nEven Elon Musk, who recently merged SpaceX with his AI company, has joined the effort, essentially telling people “don’t worry, be happy”",
+        "title": "Meta is rapidly reorganizing its workers’ jobs around AI: ‘Transfers aren’t optional’",
+        "summary": "Some employees will be moved to new teams focused on AI agents and cloud infrastructure\nAs Meta races to recenter itself around artificial intelligence, the tech giant is mandating that more than 7,000 workers must move to new teams, and it’s radical",
+        "content": "Some employees will be moved to new teams focused on AI agents and cloud infrastructure\nAs Meta races to recenter itself around artificial intelligence, the tech giant is mandating that more than 7,000 workers must move to new teams, and it’s radically changing some employees’ jobs. The Guardian has also learned that some of these reassigned employees will shift to two new teams: one building AI cloud infrastructure and another that’s building an internal AI agent codenamed Hatch.\nLate last week",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/commentisfree/2026/may/19/billionaires-ai-complacency-resistance",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/may/19/meta-jobs-ai-transfers",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Tue, 19 May 2026 12:00:03 GMT",
+        "publishedAt": "Tue, 19 May 2026 17:51:53 GMT",
         "normalizedTags": [
           "the guardian ai"
         ]
       },
       {
         "id": "AI-028",
-        "title": "Who’s behind the Facebook page posting hateful AI slop about the UK? The answer might lie in south Asia | Niamh McIntyre",
-        "summary": "Our research has uncovered young entrepreneurs in Sri Lanka and Pakistan using AI tools to make deeply objectionable content – and money\n\nNiamh McIntyre is a senior reporter at the Bureau of Investigative Journalism\n\nScroll through any Facebook feed ",
-        "content": "Our research has uncovered young entrepreneurs in Sri Lanka and Pakistan using AI tools to make deeply objectionable content – and money\n\nNiamh McIntyre is a senior reporter at the Bureau of Investigative Journalism\n\nScroll through any Facebook feed in Britain and, between the baby announcements and petty neighbourhood beefs, you’re likely to come across an account with a union jack profile picture and a vague, generic name like Britain Today.\nThese accounts – and there are hundreds, possibly th",
+        "title": "Dangers of putting pupils’ images on school websites | Letters",
+        "summary": "Schools can compromise children’s privacy, exposing them to potential identity fraud, harassment and AI exploitation, says Dr Claire Bessant\nIt was concerning, but sadly unsurprising, to read a Guardian article reporting that UK schools are being bla",
+        "content": "Schools can compromise children’s privacy, exposing them to potential identity fraud, harassment and AI exploitation, says Dr Claire Bessant\nIt was concerning, but sadly unsurprising, to read a Guardian article reporting that UK schools are being blackmailed with AI-generated child sexual abuse images created from photos shared on school websites and social media pages (UK schools should remove pupils’ online photos as AI blackmail threat grows, say experts, 8 May). Lord Russell, in the 2024 deb",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/commentisfree/2026/may/19/social-media-facebook-ai-slop-hateful-south-asia",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/may/19/dangers-of-putting-pupils-images-on-school-websites",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Tue, 19 May 2026 10:40:27 GMT",
+        "publishedAt": "Tue, 19 May 2026 16:49:33 GMT",
         "normalizedTags": [
           "the guardian ai"
         ]
       },
       {
         "id": "AI-029",
-        "title": "Standard Chartered to cut more than 7,000 jobs as it steps up AI use",
-        "summary": "London-headquartered bank will reduce back-office jobs and aims to move some workers to new roles\n\nBusiness live – latest updates\n\nStandard Chartered plans to cut more than 7,000 jobs over the next four years as it increasingly uses artificial intell",
-        "content": "London-headquartered bank will reduce back-office jobs and aims to move some workers to new roles\n\nBusiness live – latest updates\n\nStandard Chartered plans to cut more than 7,000 jobs over the next four years as it increasingly uses artificial intelligence.\nThe London-headquartered lender is one of the first major global banks to lay out plans to cut thousands of jobs, citing AI as a driver to make its operations slimmer as it seeks to increase its profitability and tackle competition.\n Continue",
+        "title": "Musk v Altman: tech bros at war over OpenAI – The Latest",
+        "summary": "A long and bitter legal battle between tech billionaires Elon Musk and Sam Altman has culminated in victory for the OpenAI boss. Musk has vowed to appeal the verdict. But what did the trial reveal about big tech and the global AI race? Lucy Hough spe",
+        "content": "A long and bitter legal battle between tech billionaires Elon Musk and Sam Altman has culminated in victory for the OpenAI boss. Musk has vowed to appeal the verdict. But what did the trial reveal about big tech and the global AI race? Lucy Hough speaks to Guardian US tech and power reporter Nick Robins-Early\n Continue reading...",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/business/2026/may/19/standard-chartered-bank-cut-jobs-ai-london",
+        "sourceUrl": "https://www.theguardian.com/news/video/2026/may/19/musk-v-altman-tech-bros-at-war-over-openai-the-latest",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Tue, 19 May 2026 09:57:06 GMT",
+        "publishedAt": "Tue, 19 May 2026 16:27:23 GMT",
         "normalizedTags": [
           "the guardian ai"
         ]
       },
       {
         "id": "AI-030",
-        "title": "Pocock urges CGT changes as Albanese laughs off AI meme campaign",
-        "summary": "Independent senator warns budget reform could drive tech investment offshore, as PM thanks startups for ‘very flattering’ images\n\nGet our breaking news email, free app or daily news podcast\n\nAnthony Albanese has laughed off an AI-generated meme campa",
-        "content": "Independent senator warns budget reform could drive tech investment offshore, as PM thanks startups for ‘very flattering’ images\n\nGet our breaking news email, free app or daily news podcast\n\nAnthony Albanese has laughed off an AI-generated meme campaign against capital gains tax changes from startup founders, thanking them for “very flattering” doctored photos of him working in their businesses.\nBut independent politicians representing some of Australia’s startup hotspots have raised alarm over ",
+        "title": "What are Samsung union workers demanding and how might a strike play out?",
+        "summary": "Nearly 48,000 workers are threatening an 18-day walkout amid fears of global memory chip shortages\nThe South Korean memory chip maker Samsung Electronics is facing its worst-ever strike, with nearly 48,000 workers threatening to walk off production l",
+        "content": "Nearly 48,000 workers are threatening an 18-day walkout amid fears of global memory chip shortages\nThe South Korean memory chip maker Samsung Electronics is facing its worst-ever strike, with nearly 48,000 workers threatening to walk off production lines on Thursday for 18 days over a dispute about bonus payouts.\nHere are key things to know:\n Continue reading...",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/australia-news/2026/may/19/australia-federal-budget-responses-albanese-ai-memes-david-pocock-warning",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/may/19/samsung-union-strike-explained",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Tue, 19 May 2026 08:23:33 GMT",
+        "publishedAt": "Tue, 19 May 2026 16:05:26 GMT",
         "normalizedTags": [
           "the guardian ai"
         ]
@@ -603,36 +603,36 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
-    "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
-    "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-    "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
-    "https://www.theverge.com/tech/931752/google-io-2026-gemini-icon-docs-workspace",
-    "https://the-decoder.com/mistral-ai-acquires-viennese-physical-ai-startup-emmi-ai/",
-    "https://the-decoder.com/cloudflare-says-anthropics-mythos-preview-finds-exploit-chains-that-earlier-frontier-models-missed/",
-    "https://the-decoder.com/anthropic-adds-self-hosted-sandboxes-and-mcp-tunnels-to-claude-managed-agents/",
-    "https://the-decoder.com/elon-musk-appeals-134-billion-openai-loss-calls-verdict-a-calendar-technicality/",
-    "https://the-decoder.com/cursors-composer-2-5-matches-opus-4-7-and-gpt-5-5-benchmarks-at-a-fraction-of-the-cost/",
+    "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
+    "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
+    "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
+    "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
+    "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
+    "https://the-decoder.com/google-overhauls-its-ai-subscriptions-at-i-o-2026-with-three-tiers-starting-at-10-a-month/",
+    "https://the-decoder.com/sorry-for-the-outages-bot-spam-is-pushing-our-servers-to-the-limit/",
+    "https://the-decoder.com/prominent-ai-researcher-andrej-karpathy-picks-anthropic-over-former-home-openai-to-get-back-into-frontier-llm-research/",
+    "https://the-decoder.com/googles-i-o-announcements-new-models-a-cloud-agent-that-never-sleeps-and-a-redesigned-gemini-app/",
+    "https://the-decoder.com/agora-1-turns-the-n64-classic-goldeneye-into-a-playable-ai-simulation-for-four-players/",
+    "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
     "https://www.technologyreview.com/2026/05/19/1136925/understanding-the-modern-cybercrime-landscape/",
     "https://www.technologyreview.com/2026/05/19/1137505/the-download-musk-altman-trial-smart-glasses-warfare-google-i-o/",
     "https://www.technologyreview.com/2026/05/19/1137471/colossal-biosciences-is-growing-chickens-in-a-3d-printed-container/",
     "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
-    "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
-    "https://www.cnbc.com/2026/05/19/musk-altman-take-their-battle-from-court-to-wall-street-ahead-of-ipos.html",
-    "https://www.cnbc.com/2026/05/19/5-things-to-know-before-the-market-opens.html",
-    "https://www.cnbc.com/2026/05/19/modular-data-center-builder-armada-raises-230-million.html",
-    "https://www.cnbc.com/2026/05/19/2026-cnbc-disruptor-50-rankings-anthropic-no-1.html",
-    "https://www.cnbc.com/2026/05/19/2026-cnbc-disruptor-50-list-how-we-chose-this-years-companies.html",
-    "https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial.html",
-    "https://www.nytimes.com/2026/05/18/technology/elon-musk-lawsuit-openai-sam-altman.html",
-    "https://www.nytimes.com/2026/05/18/technology/elon-musk-openai-trial-takeaways.html",
-    "https://www.nytimes.com/2026/05/18/technology/meta-reassigns-7000-employees-ai.html",
+    "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+    "https://www.cnbc.com/2026/05/19/spacex-picks-goldman-sachs-to-lead-record-breaking-ipo-sources-say.html",
+    "https://www.cnbc.com/2026/05/19/openai-announces-new-guaranteed-capacity-offering-for-customers-to-secure-compute.html",
+    "https://www.cnbc.com/2026/05/19/google-gives-first-glimpse-of-new-ai-glasses-ahead-of-fall-launch-.html",
+    "https://www.cnbc.com/2026/05/19/polymarket-launches-private-company-trading-so-investors-can-speculate-on-anthropic-openai.html",
+    "https://www.nytimes.com/2026/05/19/technology/meta-layoffs-ai.html",
+    "https://www.nytimes.com/2026/05/19/technology/personaltech/google-gemini-ai.html",
+    "https://www.nytimes.com/2026/05/19/business/google-seach-bar-ai-gemini.html",
     "https://www.nytimes.com/2026/05/19/technology/openai-musk-legal-challenges.html",
-    "https://www.theguardian.com/technology/2026/may/19/third-university-students-think-ai-job-losses-cause-social-unrest-poll",
-    "https://www.theguardian.com/commentisfree/2026/may/19/billionaires-ai-complacency-resistance",
-    "https://www.theguardian.com/commentisfree/2026/may/19/social-media-facebook-ai-slop-hateful-south-asia",
-    "https://www.theguardian.com/business/2026/may/19/standard-chartered-bank-cut-jobs-ai-london",
-    "https://www.theguardian.com/australia-news/2026/may/19/australia-federal-budget-responses-albanese-ai-memes-david-pocock-warning"
+    "https://www.nytimes.com/2026/05/19/business/energy-environment/nextera-dominion-electricity-rates-data-centers.html",
+    "https://www.theguardian.com/books/2026/may/19/commonwealth-short-story-prize-winner-doubts-ai-artificial-intelligence",
+    "https://www.theguardian.com/technology/2026/may/19/meta-jobs-ai-transfers",
+    "https://www.theguardian.com/technology/2026/may/19/dangers-of-putting-pupils-images-on-school-websites",
+    "https://www.theguardian.com/news/video/2026/may/19/musk-v-altman-tech-bros-at-war-over-openai-the-latest",
+    "https://www.theguardian.com/technology/2026/may/19/samsung-union-strike-explained"
   ],
-  "generatedAt": "2026-05-19T13:54:05.220Z"
+  "generatedAt": "2026-05-19T23:54:58.722Z"
 }
