@@ -2,9 +2,9 @@
   "date": "2026-05-23",
   "dateFormatted": "May 23, 2026",
   "headline": {
-    "title": "AI is being used to resurrect the voices of dead pilots",
-    "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
-    "sourceUrl": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+    "title": "Ferrari is using IBM’s AI to create F1 superfans",
+    "summary": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
+    "sourceUrl": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
     "sourceName": "TechCrunch AI"
   },
   "simpleSummary": [
@@ -15,103 +15,84 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "AI is being used to resurrect the voices of dead pilots",
-        "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
-        "content": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
+        "title": "Ferrari is using IBM’s AI to create F1 superfans",
+        "summary": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
+        "content": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+        "sourceUrl": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Fri, 22 May 2026 23:03:33 +0000",
+        "publishedAt": "Sat, 23 May 2026 15:08:00 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-002",
-        "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
-        "summary": "You can now disco ball-ify your entire Pixel home screen, says Google.",
-        "content": "You can now disco ball-ify your entire Pixel home screen, says Google.",
+        "title": "Elon Musk has given up on solar power (on Earth)",
+        "summary": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
+        "content": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
+        "sourceUrl": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Fri, 22 May 2026 21:02:36 +0000",
+        "publishedAt": "Sat, 23 May 2026 13:00:00 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-003",
-        "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups ",
-        "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
-        "content": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
+        "title": "Google’s new anything-to-anything AI model is wild",
+        "summary": "Just a stuffed deer having the time of his life. | Image: Gemini / The Verge\t\n\nLast year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation.\nIt was an experiment to see if I could re-create the events depicted in ",
+        "content": "Just a stuffed deer having the time of his life. | Image: Gemini / The Verge\t\n\nLast year I deepfaked my kid's stuffed animal to make it look like his plush deer was on vacation.\nIt was an experiment to see if I could re-create the events depicted in a Gemini ad Google was running, and I never showed the videos of Buddy the deer on his adventures to my four-year-old. But it was a revealing exercise that made me think a lot about the difference between some harmless fun with generative AI and full",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
-        "sourceName": "TechCrunch AI",
+        "sourceUrl": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
+        "sourceName": "The Verge AI",
         "tags": [
-          "TechCrunch AI"
+          "The Verge AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Fri, 22 May 2026 20:40:48 +0000",
+        "publishedAt": "2026-05-23T11:00:00.000Z",
         "normalizedTags": [
-          "techcrunch ai"
-        ]
-      },
-      {
-        "id": "AI-004",
-        "title": "Elon Musk can’t hear you over the sound of his $1.75 trillion IPO",
-        "summary": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total addressable market, a pay package tied to establi",
-        "content": "The SpaceX S-1 is finally here, and the story it tells goes way further than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a $28 trillion total addressable market, a pay package tied to establishing a Mars colony, and a valuation target that would make it the largest IPO in American […]",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/",
-        "sourceName": "TechCrunch AI",
-        "tags": [
-          "TechCrunch AI"
-        ],
-        "section": "tools",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 22 May 2026 18:17:07 +0000",
-        "normalizedTags": [
-          "techcrunch ai"
-        ]
-      },
-      {
-        "id": "AI-005",
-        "title": "You can no longer Google the word ‘disregard’",
-        "summary": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface.",
-        "content": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
-        "sourceName": "TechCrunch AI",
-        "tags": [
-          "TechCrunch AI"
-        ],
-        "section": "tools",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 22 May 2026 16:16:48 +0000",
-        "normalizedTags": [
-          "techcrunch ai"
+          "the verge ai"
         ]
       }
     ],
     "creative": [
       {
-        "id": "AI-006",
+        "id": "AI-004",
+        "title": "Deepseek makes its 75 percent discount permanent, pricing output tokens at least 34x below GPT-5.5",
+        "summary": "Deepseek is making the 75 percent discount on its top model V4-Pro permanent. At $0.435 per million input tokens, it's at least 11.5 times cheaper than GPT-5.5 and over 34 times cheaper on output. For token-hungry agentic systems, this kind of pricin",
+        "content": "Deepseek is making the 75 percent discount on its top model V4-Pro permanent. At $0.435 per million input tokens, it's at least 11.5 times cheaper than GPT-5.5 and over 34 times cheaper on output. For token-hungry agentic systems, this kind of pricing could squeeze Western providers hard.\nThe article Deepseek makes its 75 percent discount permanent, pricing output tokens at least 34x below GPT-5.5 appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/deepseek-makes-its-75-percent-discount-permanent-pricing-output-tokens-at-least-34x-below-gpt-5-5/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 23 May 2026 17:10:59 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-005",
         "title": "One of the world's top law schools draws a hard line against AI in legal education",
         "summary": "UC Berkeley Law will ban AI from nearly all graded work starting in summer 2026, from outlining and drafting to proofreading. Only research use remains allowed. The school’s rationale: future lawyers must first learn to think for themselves before th",
         "content": "UC Berkeley Law will ban AI from nearly all graded work starting in summer 2026, from outlining and drafting to proofreading. Only research use remains allowed. The school’s rationale: future lawyers must first learn to think for themselves before they can use AI meaningfully.\nThe article One of the world's top law schools draws a hard line against AI in legal education appeared first on The Decoder.",
@@ -130,7 +111,7 @@
         ]
       },
       {
-        "id": "AI-007",
+        "id": "AI-006",
         "title": "Alibaba's latest AI model ran autonomously for 35 hours to optimize code for its own custom chip",
         "summary": "Alibaba's Qwen team releases Qwen3.7-Max, a proprietary model built for long-running autonomous agent tasks. It matches Claude Opus 4.6 on benchmarks and beats Chinese rivals like DeepSeek V4 Pro and Kimi K2.6. The team also demos the model steering ",
         "content": "Alibaba's Qwen team releases Qwen3.7-Max, a proprietary model built for long-running autonomous agent tasks. It matches Claude Opus 4.6 on benchmarks and beats Chinese rivals like DeepSeek V4 Pro and Kimi K2.6. The team also demos the model steering a four-legged robot.\nThe article Alibaba's latest AI model ran autonomously for 35 hours to optimize code for its own custom chip appeared first on The Decoder.",
@@ -149,7 +130,7 @@
         ]
       },
       {
-        "id": "AI-008",
+        "id": "AI-007",
         "title": "Google CEO Pichai now calls links a \"part\" of search, redefining the web's role in its own product",
         "summary": "Google CEO Sundar Pichai now calls links and sources a \"part\" of search, when in reality, they're its foundation. The wording is deliberate: new features keep users inside the Google ecosystem, and the company is shifting from traffic distributor to ",
         "content": "Google CEO Sundar Pichai now calls links and sources a \"part\" of search, when in reality, they're its foundation. The wording is deliberate: new features keep users inside the Google ecosystem, and the company is shifting from traffic distributor to AI publisher whose source selection is becoming a question of editorial power.\nThe article Google CEO Pichai now calls links a \"part\" of search, redefining the web's role in its own product appeared first on The Decoder.",
@@ -168,7 +149,7 @@
         ]
       },
       {
-        "id": "AI-009",
+        "id": "AI-008",
         "title": "Anthropic warns Claude Mythos Preview finds bugs faster than developers can patch them",
         "summary": "Anthropic's AI model Claude Mythos Preview, working with about 50 partners as part of Project Glasswing, has found over 10,000 critical vulnerabilities in system-critical software. The bugs are piling up faster than anyone can patch them. Anthropic w",
         "content": "Anthropic's AI model Claude Mythos Preview, working with about 50 partners as part of Project Glasswing, has found over 10,000 critical vulnerabilities in system-critical software. The bugs are piling up faster than anyone can patch them. Anthropic warns this creates a high-risk transition period and says no company, itself included, has built safeguards strong enough to prevent misuse of these models.\nThe article Anthropic warns Claude Mythos Preview finds bugs faster than developers can patch ",
@@ -185,49 +166,11 @@
         "normalizedTags": [
           "the decoder"
         ]
-      },
-      {
-        "id": "AI-010",
-        "title": "Cloudflare CEO Prince says builders and sellers are safe but AI is coming for the measurers",
-        "summary": "Cloudflare CEO Matthew Prince laid off more than 20 percent of the workforce despite record revenue, claiming AI is replacing middle management and compliance roles. But the company offers no hard evidence for that. Falling margins and a headcount th",
-        "content": "Cloudflare CEO Matthew Prince laid off more than 20 percent of the workforce despite record revenue, claiming AI is replacing middle management and compliance roles. But the company offers no hard evidence for that. Falling margins and a headcount that surged 40 percent in two years point to a classic efficiency program wrapped in AI branding.\nThe article Cloudflare CEO Prince says builders and sellers are safe but AI is coming for the measurers appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/cloudflare-ceo-prince-says-builders-and-sellers-are-safe-but-ai-is-coming-for-the-measurers/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 22 May 2026 19:07:55 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
       }
     ],
     "research": [
       {
-        "id": "AI-011",
-        "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic’s Code with Claude showed off coding’s future—whether you like it or not At Anthropic’s developer even",
-        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic’s Code with Claude showed off coding’s future—whether you like it or not At Anthropic’s developer event in London this week, Code with Claude, attendees were asked if they’d shipped code…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 22 May 2026 12:10:00 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-012",
+        "id": "AI-009",
         "title": "Benchmarking and Improving Monitors for Out-Of-Distribution Alignment Failure in LLMs",
         "summary": "arXiv:2605.21602v1 Announce Type: new \nAbstract: Many safety and alignment failures of large language models (LLMs) occur due to out-of-distribution (OOD) situations: unusual prompt or response patterns that are unforeseen by model developers. We sys",
         "content": "arXiv:2605.21602v1 Announce Type: new \nAbstract: Many safety and alignment failures of large language models (LLMs) occur due to out-of-distribution (OOD) situations: unusual prompt or response patterns that are unforeseen by model developers. We systematically study whether LLM monitoring pipelines can detect these OOD alignment failures by introducing a benchmark called Misalignment Out Of Distribution (MOOD). It is difficult to find failures that are truly OOD for off-the-shelf models trained",
@@ -246,7 +189,7 @@
         ]
       },
       {
-        "id": "AI-013",
+        "id": "AI-010",
         "title": "TO-Agents: A Multi-Agent AI Pipeline for Preference-Guided Topology Optimization",
         "summary": "arXiv:2605.21622v1 Announce Type: new \nAbstract: Topology optimization can generate efficient structures, but designers often must manually translate qualitative intent, such as desired visual style, product experience, or manufacturability into solv",
         "content": "arXiv:2605.21622v1 Announce Type: new \nAbstract: Topology optimization can generate efficient structures, but designers often must manually translate qualitative intent, such as desired visual style, product experience, or manufacturability into solver settings that are not directly tied to those preferences. We present TO-Agents, a multi-agent AI framework that connects natural-language design intent with iterative topology optimization. The framework converts a human-provided problem descripti",
@@ -265,7 +208,7 @@
         ]
       },
       {
-        "id": "AI-014",
+        "id": "AI-011",
         "title": "The Shape of Testimony: A Scalable Framework for Oral History Archive Comparison",
         "summary": "arXiv:2605.21623v1 Announce Type: new \nAbstract: Researchers in Holocaust studies have often distinguished between two styles of oral survivor testimony: the USC Shoah Foundation's interviews tend to follow a structured, interviewer-guided format, wh",
         "content": "arXiv:2605.21623v1 Announce Type: new \nAbstract: Researchers in Holocaust studies have often distinguished between two styles of oral survivor testimony: the USC Shoah Foundation's interviews tend to follow a structured, interviewer-guided format, whereas the Yale Fortunoff Video Archive generally favors a more free-form, open-ended style. This distinction has influenced both scholarly research and the development of later archives. In this study, we critically examine that claim by conducting a",
@@ -284,7 +227,7 @@
         ]
       },
       {
-        "id": "AI-015",
+        "id": "AI-012",
         "title": "MindLoom: Composing Thought Modes for Frontier-Level Reasoning Data Synthesis",
         "summary": "arXiv:2605.21630v1 Announce Type: new \nAbstract: Although LLMs have made substantial progress in reasoning, systematically producing frontier-level reasoning data remains difficult. Existing synthesis methods often have limited visibility into the st",
         "content": "arXiv:2605.21630v1 Announce Type: new \nAbstract: Although LLMs have made substantial progress in reasoning, systematically producing frontier-level reasoning data remains difficult. Existing synthesis methods often have limited visibility into the structural factors that govern problem difficulty, which can result in narrow diversity and unstable difficulty control. In this work, we view the difficulty of a reasoning problem as arising from the accumulation of atomic knowledge-reasoning transfor",
@@ -301,12 +244,50 @@
         "normalizedTags": [
           "arxiv cs.ai"
         ]
+      },
+      {
+        "id": "AI-013",
+        "title": "AOP-Wiki EMOD 3.0: Data Model Expansions and Content Evaluation Framework for Using Agentic AI to Improve Integration between AOPs and New Approach Methodologies (NAMs)",
+        "summary": "arXiv:2605.21645v1 Announce Type: new \nAbstract: Adverse Outcome Pathways (AOP) are logic models that causally link biological mechanisms that can be measured in a lab to adverse outcomes, relevant to chemical regulatory endpoints. AOPs contextualize",
+        "content": "arXiv:2605.21645v1 Announce Type: new \nAbstract: Adverse Outcome Pathways (AOP) are logic models that causally link biological mechanisms that can be measured in a lab to adverse outcomes, relevant to chemical regulatory endpoints. AOPs contextualize new approach methodologies (NAMs), in vitro and in silico methods used as alternatives to animal testing and the sequential events in an AOP serve as multi-scale models spanning biological scales. The AOP-Wiki serves as the global repository for AOP",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2605.21645",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 23 May 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ]
       }
     ],
     "applications": [],
     "business": [
       {
-        "id": "AI-016",
+        "id": "AI-014",
+        "title": "Microsoft’s new responsible tech lead on how to humanize high-speed AI development",
+        "summary": "Jenny Lay-Flurrie, head of Microsoft's Trusted Technology Group, says responsible tech is: How do we build it right? And how do we keep it that way?",
+        "content": "Jenny Lay-Flurrie, head of Microsoft's Trusted Technology Group, says responsible tech is: How do we build it right? And how do we keep it that way?",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/05/23/microsofts-new-responsible-tech-lead-on-high-speed-ai-development.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 23 May 2026 13:00:01 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-015",
         "title": "AI wealth must benefit the public, South Korea's deputy PM says amid Samsung labor tensions",
         "summary": "South Korea's deputy PM tells CNBC there are concerns as to whether AI could worsen wealth gaps or lead to job losses.",
         "content": "South Korea's deputy PM tells CNBC there are concerns as to whether AI could worsen wealth gaps or lead to job losses.",
@@ -325,7 +306,7 @@
         ]
       },
       {
-        "id": "AI-017",
+        "id": "AI-016",
         "title": "SpaceX launches Starship test flight on second try ",
         "summary": "SpaceX launched its massive Starship rocket on Friday, a day after the company scrubbed plans before takeoff.",
         "content": "SpaceX launched its massive Starship rocket on Friday, a day after the company scrubbed plans before takeoff.",
@@ -342,147 +323,32 @@
         "normalizedTags": [
           "cnbc tech"
         ]
-      },
-      {
-        "id": "AI-018",
-        "title": "Qualcomm's stock pop shows investors are 'waking up' to boom in AI devices",
-        "summary": "Qualcomm is on a big run, powered by investor bullishness that the company will be at the center of a boom in AI devices.",
-        "content": "Qualcomm is on a big run, powered by investor bullishness that the company will be at the center of a boom in AI devices.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/05/22/qualcomms-stock-pop-shows-investors-waking-up-to-boom-in-ai-devices.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 22 May 2026 20:52:39 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ]
-      },
-      {
-        "id": "AI-019",
-        "title": "Reddit stock drops almost 6% after Meta launches standalone app for online forums",
-        "summary": "Reddit shares fell after Meta released a standalone app for Facebook Groups called Forum.",
-        "content": "Reddit shares fell after Meta released a standalone app for Facebook Groups called Forum.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/05/22/reddit-stock-drops-after-meta-launches-forum-app.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 22 May 2026 20:17:09 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ]
-      },
-      {
-        "id": "AI-020",
-        "title": "Stellantis' turnaround plan, prediction market regulation, Oura's IPO filing and more in Morning Squawk",
-        "summary": "Here are five key things investors need to know to start the trading day.",
-        "content": "Here are five key things investors need to know to start the trading day.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/05/22/5-thing-to-know-before-the-market-opens.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 22 May 2026 14:40:28 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ]
       }
     ],
-    "policy": [
-      {
-        "id": "AI-021",
-        "title": "Waymo Suspends Service in Six Cities After Cars Drove Into Flooded Roads",
-        "summary": "The temporary shutdowns came after videos emerged showing two Waymo cars stopped on swamped streets in Atlanta on Wednesday.",
-        "content": "The temporary shutdowns came after videos emerged showing two Waymo cars stopped on swamped streets in Atlanta on Wednesday.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/05/22/us/waymo-taxi-suspended-atlanta.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 22 May 2026 21:24:50 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-022",
-        "title": "Google Appeals Landmark Ruling Declaring It a Monopolist in Search",
-        "summary": "Google asked a federal appeals court on Friday to reverse a judge’s ruling that it had violated antitrust laws, as well as a requirement it share some data with rivals.",
-        "content": "Google asked a federal appeals court on Friday to reverse a judge’s ruling that it had violated antitrust laws, as well as a requirement it share some data with rivals.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/05/22/technology/google-appeals-search-case.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 22 May 2026 17:59:36 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-023",
-        "title": "Sundar Pichai Understands Why People Are Anxious About A.I.",
-        "summary": "After a busy Google I/O, the company’s chief executive sits down with the hosts of “Hard Fork” to discuss the future of Google Search, how he’s using A.I. agents and his advice for college graduates.",
-        "content": "After a busy Google I/O, the company’s chief executive sits down with the hosts of “Hard Fork” to discuss the future of Google Search, how he’s using A.I. agents and his advice for college graduates.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/05/22/podcasts/sundar-pichai-understands-why-people-are-anxious-about-ai.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 22 May 2026 14:49:56 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-024",
-        "title": "‘Remove illegals,’ the campaign ad said. Its funder: The AI lobby.",
-        "summary": "Deep-pocketed super PACs funded by rival factions inside the tech industry are intervening in congressional primaries in a bid to shape the midterms.",
-        "content": "Deep-pocketed super PACs funded by rival factions inside the tech industry are intervening in congressional primaries in a bid to shape the midterms.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.washingtonpost.com/technology/2026/05/23/ai-industry-super-pacs-are-intervening-midterm-congressional-races/",
-        "sourceName": "Washington Post Tech",
-        "tags": [
-          "Washington Post Tech"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 23 May 2026 09:00:00 +0000",
-        "normalizedTags": [
-          "washington post tech"
-        ]
-      }
-    ],
+    "policy": [],
     "concerns": [],
     "culture": [
       {
-        "id": "AI-025",
+        "id": "AI-017",
+        "title": "How big tech got its way on Trump’s AI executive order",
+        "summary": "The US president’s reversal on calling for a safety review of new AI models is a green light for tech’s unchecked power\nOnly hours before Donald Trump was set to sign a long-awaited executive order on Thursday that would have called for a government ",
+        "content": "The US president’s reversal on calling for a safety review of new AI models is a green light for tech’s unchecked power\nOnly hours before Donald Trump was set to sign a long-awaited executive order on Thursday that would have called for a government safety review of new artificial intelligence models before their release, the president abruptly backed out. Despite growing public backlash to the technology and experts warning new models will pose critical security risks, Trump vowed the US govern",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/may/23/trump-ai-order-big-tech",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 23 May 2026 14:00:29 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-018",
         "title": "‘You can’t control everything’: the rise in plastic surgeons asked to create ‘AI face’",
         "summary": "Growing numbers of people are seeking improbable cosmetic surgery based on  chatbots’ recommendations\nPlastic surgeons are increasingly concerned about the rise of “AI face”, as more and more clients arrive in their offices with unrealistic AI-genera",
         "content": "Growing numbers of people are seeking improbable cosmetic surgery based on  chatbots’ recommendations\nPlastic surgeons are increasingly concerned about the rise of “AI face”, as more and more clients arrive in their offices with unrealistic AI-generated visions of what they want to look like.\nDr Nora Nugent, a cosmetic surgeon from Tunbridge Wells, has seen this first hand. Clients have started coming to her office with photos of themselves beautified by AI and a false expectation that those res",
@@ -501,7 +367,7 @@
         ]
       },
       {
-        "id": "AI-026",
+        "id": "AI-019",
         "title": "Sunrise Movement takes credit for disrupting Trump’s New York state rally – as it happened",
         "summary": "This blog has now closed.\n\nUS intelligence director Tulsi Gabbard leaving post after rocky tenure\n\nSign up for the Breaking News US email\n\n“There’s broad recognition there are going to be eventually less US troops in Europe than historically,” Rubio ",
         "content": "This blog has now closed.\n\nUS intelligence director Tulsi Gabbard leaving post after rocky tenure\n\nSign up for the Breaking News US email\n\n“There’s broad recognition there are going to be eventually less US troops in Europe than historically,” Rubio says\nRubio said he didn’t set the timeline for reducing the number of US troops in Europe, but “it has been an ongoing process that started from the first day of this administration.”\n Continue reading...",
@@ -518,63 +384,6 @@
         "normalizedTags": [
           "the guardian ai"
         ]
-      },
-      {
-        "id": "AI-027",
-        "title": "Has the great AI backlash begun? | Fiona Katauskas",
-        "summary": "The signs are there\n\nSee more of Fiona Katauskas’s cartoons here\n\n Continue reading...",
-        "content": "The signs are there\n\nSee more of Fiona Katauskas’s cartoons here\n\n Continue reading...",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/commentisfree/picture/2026/may/23/has-the-great-ai-backlash-begun",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 22 May 2026 15:00:06 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-028",
-        "title": "Palantir hits back at Sadiq Khan after £50m contract with Met police blocked",
-        "summary": "London mayor accused of ‘putting politics above public safety’ for rejecting deal to use AI in intelligence analysis\n\nUK politics live – latest updates\n\nPalantir has accused Sadiq Khan of “putting politics above public safety” after the London mayor ",
-        "content": "London mayor accused of ‘putting politics above public safety’ for rejecting deal to use AI in intelligence analysis\n\nUK politics live – latest updates\n\nPalantir has accused Sadiq Khan of “putting politics above public safety” after the London mayor blocked its £50m contract with the Metropolitan police in a move that has also led to tensions inside Labour over its involvement with the US tech company.\nLouis Mosley, who heads Palantir in the UK and Europe, accused Khan of politicising procuremen",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/may/22/palantir-hits-back-sadiq-khan-contract-met-police-blocked",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 22 May 2026 13:45:37 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-029",
-        "title": "Even If You Hate AI, You Will Use Google AI Search",
-        "summary": "The search giant’s AI-crafted answers are so convenient, you’ll be sucked in—to the detriment of the web and the artists and thinkers behind it.",
-        "content": "The search giant’s AI-crafted answers are so convenient, you’ll be sucked in—to the detriment of the web and the artists and thinkers behind it.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/",
-        "sourceName": "Wired AI",
-        "tags": [
-          "Wired AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 22 May 2026 15:00:00 +0000",
-        "normalizedTags": [
-          "wired ai"
-        ]
       }
     ]
   },
@@ -584,35 +393,25 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
-    "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
-    "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
-    "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/",
-    "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
+    "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+    "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+    "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
+    "https://the-decoder.com/deepseek-makes-its-75-percent-discount-permanent-pricing-output-tokens-at-least-34x-below-gpt-5-5/",
     "https://the-decoder.com/one-of-the-worlds-top-law-schools-draws-a-hard-line-against-ai-in-legal-education/",
     "https://the-decoder.com/alibabas-latest-ai-model-ran-autonomously-for-35-hours-to-optimize-code-for-its-own-custom-chip/",
     "https://the-decoder.com/google-ceo-pichai-now-calls-links-a-part-of-search-redefining-the-webs-role-in-its-own-product/",
     "https://the-decoder.com/anthropic-warns-claude-mythos-preview-finds-bugs-faster-than-developers-can-patch-them/",
-    "https://the-decoder.com/cloudflare-ceo-prince-says-builders-and-sellers-are-safe-but-ai-is-coming-for-the-measurers/",
-    "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
     "https://arxiv.org/abs/2605.21602",
     "https://arxiv.org/abs/2605.21622",
     "https://arxiv.org/abs/2605.21623",
     "https://arxiv.org/abs/2605.21630",
+    "https://arxiv.org/abs/2605.21645",
+    "https://www.cnbc.com/2026/05/23/microsofts-new-responsible-tech-lead-on-high-speed-ai-development.html",
     "https://www.cnbc.com/2026/05/23/ai-wealth-must-benefit-the-public-south-koreas-deputy-pm-says.html",
     "https://www.cnbc.com/2026/05/22/spacex-prepares-another-attempt-at-starship-launch-after-prior-scrub.html",
-    "https://www.cnbc.com/2026/05/22/qualcomms-stock-pop-shows-investors-waking-up-to-boom-in-ai-devices.html",
-    "https://www.cnbc.com/2026/05/22/reddit-stock-drops-after-meta-launches-forum-app.html",
-    "https://www.cnbc.com/2026/05/22/5-thing-to-know-before-the-market-opens.html",
-    "https://www.nytimes.com/2026/05/22/us/waymo-taxi-suspended-atlanta.html",
-    "https://www.nytimes.com/2026/05/22/technology/google-appeals-search-case.html",
-    "https://www.nytimes.com/2026/05/22/podcasts/sundar-pichai-understands-why-people-are-anxious-about-ai.html",
-    "https://www.washingtonpost.com/technology/2026/05/23/ai-industry-super-pacs-are-intervening-midterm-congressional-races/",
+    "https://www.theguardian.com/technology/2026/may/23/trump-ai-order-big-tech",
     "https://www.theguardian.com/technology/2026/may/23/rise-in-plastic-surgeons-asked-to-create-ai-face-cosmetic-surgery",
-    "https://www.theguardian.com/us-news/live/2026/may/22/donald-trump-ai-china-iran-war-powers-hormuz-latest-news-updates",
-    "https://www.theguardian.com/commentisfree/picture/2026/may/23/has-the-great-ai-backlash-begun",
-    "https://www.theguardian.com/technology/2026/may/22/palantir-hits-back-sadiq-khan-contract-met-police-blocked",
-    "https://www.wired.com/story/even-if-you-hate-ai-you-will-use-google-ai-search/"
+    "https://www.theguardian.com/us-news/live/2026/may/22/donald-trump-ai-china-iran-war-powers-hormuz-latest-news-updates"
   ],
-  "generatedAt": "2026-05-23T11:58:04.227Z"
+  "generatedAt": "2026-05-23T23:49:29.845Z"
 }
