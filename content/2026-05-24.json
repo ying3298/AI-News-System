@@ -2,9 +2,9 @@
   "date": "2026-05-24",
   "dateFormatted": "May 24, 2026",
   "headline": {
-    "title": "Ferrari is using IBM’s AI to create F1 superfans",
-    "summary": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
-    "sourceUrl": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+    "title": "Everyone is navigating AI security in real time — even Google",
+    "summary": "We're in the transition period -- all of us.",
+    "sourceUrl": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
     "sourceName": "TechCrunch AI"
   },
   "simpleSummary": [
@@ -15,46 +15,103 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "Ferrari is using IBM’s AI to create F1 superfans",
-        "summary": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
-        "content": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience.",
+        "title": "Everyone is navigating AI security in real time — even Google",
+        "summary": "We're in the transition period -- all of us.",
+        "content": "We're in the transition period -- all of us.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+        "sourceUrl": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Sat, 23 May 2026 15:08:00 +0000",
+        "publishedAt": "Sun, 24 May 2026 21:39:21 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-002",
-        "title": "Elon Musk has given up on solar power (on Earth)",
-        "summary": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
-        "content": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
+        "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
+        "summary": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
+        "content": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+        "sourceUrl": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Sat, 23 May 2026 13:00:00 +0000",
+        "publishedAt": "Sun, 24 May 2026 15:00:00 +0000",
         "normalizedTags": [
           "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-003",
+        "title": "Hackers are learning to exploit chatbot &#8216;personalities&#8217;",
+        "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI mischief, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nHac",
+        "content": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI mischief, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started\nHacking the first generation of AI chatbots was a laughably simple affair. You didn't need any technical know-how, backdoor access, or even a basic understanding of what a large language model was. You didn't need to code. To get an AI system that had c",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
+        "sourceName": "The Verge AI",
+        "tags": [
+          "The Verge AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "2026-05-24T12:00:00.000Z",
+        "normalizedTags": [
+          "the verge ai"
         ]
       }
     ],
     "creative": [
       {
-        "id": "AI-003",
+        "id": "AI-004",
+        "title": "ByteDance study finds that asking LMMs questions beats making it transcribe text for long document training",
+        "summary": "ByteDance Seed shows that a 7B model can answer questions on long, image-heavy documents more reliably than much larger models, even when documents are four times longer than anything it saw during training. Instead of transcribing pages, the model l",
+        "content": "ByteDance Seed shows that a 7B model can answer questions on long, image-heavy documents more reliably than much larger models, even when documents are four times longer than anything it saw during training. Instead of transcribing pages, the model learns by answering questions and finding the right passages on its own.\nThe article ByteDance study finds that asking LMMs questions beats making it transcribe text for long document training appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/bytedance-study-finds-that-asking-lmms-questions-beats-making-it-transcribe-text-for-long-document-training/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 24 May 2026 13:28:45 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-005",
+        "title": "Deepmind's Hassabis sees humanity \"in the foothills of the singularity\" while LeCun says current AI isn't intelligent",
+        "summary": "Yann LeCun says current AI systems aren't genuinely intelligent. Demis Hassabis thinks humanity is already \"standing in the foothills of the singularity.\" And Gemini co-lead Oriol Vinyals splits the difference: today's models would've looked like AGI",
+        "content": "Yann LeCun says current AI systems aren't genuinely intelligent. Demis Hassabis thinks humanity is already \"standing in the foothills of the singularity.\" And Gemini co-lead Oriol Vinyals splits the difference: today's models would've looked like AGI seven years ago, but they still can't learn from experience or produce real breakthroughs.\nThe article Deepmind's Hassabis sees humanity \"in the foothills of the singularity\" while LeCun says current AI isn't intelligent appeared first on The Decode",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/deepminds-hassabis-sees-humanity-in-the-foothills-of-the-singularity-while-lecun-says-current-ai-isnt-intelligent/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 24 May 2026 12:54:07 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-006",
         "title": "Why you shouldn't leave model selection on default in Copilot, Gemini and other AI tools",
         "summary": "When analyzing data, Microsoft Copilot invents country differences where none exist. Mathematician Adam Kucharski fed the tool identical datasets with different country labels, and Copilot delivered detailed stereotypes instead of accurate results. T",
         "content": "When analyzing data, Microsoft Copilot invents country differences where none exist. Mathematician Adam Kucharski fed the tool identical datasets with different country labels, and Copilot delivered detailed stereotypes instead of accurate results. Thinking models catch the trick, but only if users know when to reach for them.\nThe article Why you shouldn't leave model selection on default in Copilot, Gemini and other AI tools appeared first on The Decoder.",
@@ -73,7 +130,7 @@
         ]
       },
       {
-        "id": "AI-004",
+        "id": "AI-007",
         "title": "Anthropic may keep supplying Claude to the NSA despite being flagged as a supply chain risk by the Pentagon",
         "summary": "Anthropic will likely keep supplying AI models to the NSA despite being labeled a \"supply chain risk.\" Intelligence agencies lack Nvidia's latest Grace Blackwell chips, and Anthropic's \"Mythos\" model reportedly runs on older hardware too. The controv",
         "content": "Anthropic will likely keep supplying AI models to the NSA despite being labeled a \"supply chain risk.\" Intelligence agencies lack Nvidia's latest Grace Blackwell chips, and Anthropic's \"Mythos\" model reportedly runs on older hardware too. The controversial \"any lawful use\" clause that derailed earlier talks is not part of the deal.\nThe article Anthropic may keep supplying Claude to the NSA despite being flagged as a supply chain risk by the Pentagon appeared first on The Decoder.",
@@ -92,7 +149,7 @@
         ]
       },
       {
-        "id": "AI-005",
+        "id": "AI-008",
         "title": "Researchers let Claude Code discover AI scaling algorithms that humans probably wouldn't have designed",
         "summary": "Researchers from UMD, Google, Meta, and other institutions use AutoTTS to let a coding agent independently discover control algorithms for AI reasoning. The algorithm it found cuts compute by about 70 percent compared to standard self-consistency whi",
         "content": "Researchers from UMD, Google, Meta, and other institutions use AutoTTS to let a coding agent independently discover control algorithms for AI reasoning. The algorithm it found cuts compute by about 70 percent compared to standard self-consistency while matching its accuracy. The whole search cost $40 and took 160 minutes.\nThe article Researchers let Claude Code discover AI scaling algorithms that humans probably wouldn't have designed appeared first on The Decoder.",
@@ -109,64 +166,26 @@
         "normalizedTags": [
           "the decoder"
         ]
-      },
-      {
-        "id": "AI-006",
-        "title": "Deepseek makes its 75 percent discount permanent, pricing output tokens at least 34x below GPT-5.5",
-        "summary": "Deepseek is making the 75 percent discount on its top model V4-Pro permanent. At $0.435 per million input tokens, it's at least 11.5 times cheaper than GPT-5.5 and over 34 times cheaper on output. For token-hungry agentic systems, this kind of pricin",
-        "content": "Deepseek is making the 75 percent discount on its top model V4-Pro permanent. At $0.435 per million input tokens, it's at least 11.5 times cheaper than GPT-5.5 and over 34 times cheaper on output. For token-hungry agentic systems, this kind of pricing could squeeze Western providers hard.\nThe article Deepseek makes its 75 percent discount permanent, pricing output tokens at least 34x below GPT-5.5 appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/deepseek-makes-its-75-percent-discount-permanent-pricing-output-tokens-at-least-34x-below-gpt-5-5/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 23 May 2026 17:10:59 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
-      },
-      {
-        "id": "AI-007",
-        "title": " Lego Batman Legacy of the Dark Knight vs Batman movies compared ",
-        "summary": "The new Lego game contains frame-by-frame tributes to previous titles.",
-        "content": "The new Lego game contains frame-by-frame tributes to previous titles.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.creativebloq.com/3d/video-game-design/lego-batman-legacy-of-the-dark-knight-game-vs-movies-compared",
-        "sourceName": "Creative Bloq",
-        "tags": [
-          "Creative Bloq"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Sun, 24 May 2026 10:00:00 +0000",
-        "normalizedTags": [
-          "creative bloq"
-        ]
       }
     ],
     "research": [],
     "applications": [],
     "business": [
       {
-        "id": "AI-008",
-        "title": "Microsoft’s new responsible tech lead on how to humanize high-speed AI development",
-        "summary": "Jenny Lay-Flurrie, head of Microsoft's Trusted Technology Group, says responsible tech is: How do we build it right? And how do we keep it that way?",
-        "content": "Jenny Lay-Flurrie, head of Microsoft's Trusted Technology Group, says responsible tech is: How do we build it right? And how do we keep it that way?",
+        "id": "AI-009",
+        "title": "'The Mandalorian and Grogu' is Disney's lowest-ever Star Wars film opening",
+        "summary": "Disney's \"The Mandalorian and Grogu\" tallied and estimated $82 million in domestic ticket sales through its first three days in theaters.",
+        "content": "Disney's \"The Mandalorian and Grogu\" tallied and estimated $82 million in domestic ticket sales through its first three days in theaters.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/05/23/microsofts-new-responsible-tech-lead-on-high-speed-ai-development.html",
+        "sourceUrl": "https://www.cnbc.com/2026/05/24/the-mandalorian-and-grogu-is-disneys-lowest-star-wars-film-opening.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Sat, 23 May 2026 13:00:01 GMT",
+        "publishedAt": "Sun, 24 May 2026 16:04:57 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
@@ -174,7 +193,7 @@
     ],
     "policy": [
       {
-        "id": "AI-009",
+        "id": "AI-010",
         "title": "UK Institute Is Hunting for Dangers Lurking in AI",
         "summary": "The government’s A.I. Security Institute, staffed by alumni from OpenAI and Google, is becoming a model for countries grappling with A.I.’s emerging risks.",
         "content": "The government’s A.I. Security Institute, staffed by alumni from OpenAI and Google, is becoming a model for countries grappling with A.I.’s emerging risks.",
@@ -187,13 +206,13 @@
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Sun, 24 May 2026 09:01:42 +0000",
+        "publishedAt": "Sun, 24 May 2026 09:01:43 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
       },
       {
-        "id": "AI-010",
+        "id": "AI-011",
         "title": "One Job That Is Growing in the A.I. Era? Cybersecurity Experts.",
         "summary": "Demand for security engineers has surged as artificial intelligence generates a glut of new code and models like Anthropic’s Mythos create new concerns.",
         "content": "Demand for security engineers has surged as artificial intelligence generates a glut of new code and models like Anthropic’s Mythos create new concerns.",
@@ -210,12 +229,31 @@
         "normalizedTags": [
           "nyt technology"
         ]
+      },
+      {
+        "id": "AI-012",
+        "title": "Tech billionaires used performance drugs in secret. Now they’re selling a revolution.",
+        "summary": "As biohacking gains momentum among elites, the Enhanced Games aim to normalize longevity drugs through a Vegas sports spectacle. Critics call the premise dangerous and unethical.",
+        "content": "As biohacking gains momentum among elites, the Enhanced Games aim to normalize longevity drugs through a Vegas sports spectacle. Critics call the premise dangerous and unethical.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.washingtonpost.com/technology/2026/05/24/with-enhanced-games-silicon-valley-investors-turn-doping-into-billion-dollar-business-pitch/",
+        "sourceName": "Washington Post Tech",
+        "tags": [
+          "Washington Post Tech"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 24 May 2026 11:00:00 +0000",
+        "normalizedTags": [
+          "washington post tech"
+        ]
       }
     ],
     "concerns": [],
     "culture": [
       {
-        "id": "AI-011",
+        "id": "AI-013",
         "title": "‘AI washing’: firms are scrambling to rebrand themselves as tech-focused",
         "summary": "PR executives say UK companies are forcing them to present ordinary automation as artificial intelligence \nUK companies are performing “yoga-level” stretches to describe themselves as AI specialists in an attempt to capitalise on the buzz around the ",
         "content": "PR executives say UK companies are forcing them to present ordinary automation as artificial intelligence \nUK companies are performing “yoga-level” stretches to describe themselves as AI specialists in an attempt to capitalise on the buzz around the technology, public relations firms have said.\nWeary communications executives tasked with securing media coverage for brands have complained that bosses in low-tech industries or running businesses that use automation but not generative AI, are incre",
@@ -234,7 +272,26 @@
         ]
       },
       {
-        "id": "AI-012",
+        "id": "AI-014",
+        "title": "Scotland’s ‘green datacentres’ policy ignores emissions impact of AI, analysis shows",
+        "summary": "Definition of green facilities made in 2022, before release of ChatGPT, says Action to Protect Rural Scotland\nA Scottish government policy designed to encourage datacentres to build in Scotland could lead to a massive volume of carbon emissions being",
+        "content": "Definition of green facilities made in 2022, before release of ChatGPT, says Action to Protect Rural Scotland\nA Scottish government policy designed to encourage datacentres to build in Scotland could lead to a massive volume of carbon emissions being ignored, according to an analysis by a Scottish charity.\n“Green datacentres” are at the heart of Scotland’s ambitions to develop economically. Enshrined in national policy, they are part of a larger, UK-wide effort to attract big AI investment to Sc",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/uk-news/2026/may/25/scotland-policy-green-datacentres-emissions-impact-ai-analysis",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 24 May 2026 23:01:09 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-015",
         "title": "I avoid AI tools because thinking is supposed to be hard. It’s what makes us human | Wendy Liu",
         "summary": "As intelligence itself becomes privatised by big tech, allowing your intellectual faculties to wither in service of inane bots seems a dangerous move\nLong before the age of multi-billion-dollar AI companies promising to disrupt the field of software ",
         "content": "As intelligence itself becomes privatised by big tech, allowing your intellectual faculties to wither in service of inane bots seems a dangerous move\nLong before the age of multi-billion-dollar AI companies promising to disrupt the field of software development, I was learning to code the hard way.\nIt was the mid-2000s, and I was a child with unmonitored access to the family computer. With the help of a basic text editor program, I learned how to make websites – first basic, then increasingly co",
@@ -253,7 +310,7 @@
         ]
       },
       {
-        "id": "AI-013",
+        "id": "AI-016",
         "title": "‘We’re expanding the cinematic toolbox’: AI fault lines on show at Cannes",
         "summary": "Darren Aronofsky among proponents of using technology, while Guillermo del Toro says he would ‘rather die’\nUnder a white marquee on Cannes’ Croisette beach, with the Mediterranean glistening behind him and superyachts drifting across the horizon, the",
         "content": "Darren Aronofsky among proponents of using technology, while Guillermo del Toro says he would ‘rather die’\nUnder a white marquee on Cannes’ Croisette beach, with the Mediterranean glistening behind him and superyachts drifting across the horizon, the director Darren Aronofsky addressed an audience of executives and tech evangelists gathered for an “AI for Talent” summit.\n“There’s so much pushback against AI,” said Aronofsky, who has faced criticism over his embrace of generative AI projects thou",
@@ -272,26 +329,7 @@
         ]
       },
       {
-        "id": "AI-014",
-        "title": "How big tech got its way on Trump’s AI executive order",
-        "summary": "The US president’s reversal on calling for a safety review of new AI models is a green light for tech’s unchecked power\nOnly hours before Donald Trump was set to sign a long-awaited executive order on Thursday that would have called for a government ",
-        "content": "The US president’s reversal on calling for a safety review of new AI models is a green light for tech’s unchecked power\nOnly hours before Donald Trump was set to sign a long-awaited executive order on Thursday that would have called for a government safety review of new artificial intelligence models before their release, the president abruptly backed out. Despite growing public backlash to the technology and experts warning new models will pose critical security risks, Trump vowed the US govern",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/may/23/trump-ai-order-big-tech",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 23 May 2026 14:00:29 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-015",
+        "id": "AI-017",
         "title": "These Robots Are Making Meals for a Nonprofit in San Francisco’s Tenderloin",
         "summary": "A nonprofit in the city’s most troubled district has turned to robotic meal prep tech to make up for a dearth of human volunteers.",
         "content": "A nonprofit in the city’s most troubled district has turned to robotic meal prep tech to make up for a dearth of human volunteers.",
@@ -317,21 +355,23 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
-    "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+    "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+    "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+    "https://www.theverge.com/column/935545/hackers-ai-chatbots",
+    "https://the-decoder.com/bytedance-study-finds-that-asking-lmms-questions-beats-making-it-transcribe-text-for-long-document-training/",
+    "https://the-decoder.com/deepminds-hassabis-sees-humanity-in-the-foothills-of-the-singularity-while-lecun-says-current-ai-isnt-intelligent/",
     "https://the-decoder.com/why-you-shouldnt-leave-model-selection-on-default-in-copilot-gemini-and-other-ai-tools/",
     "https://the-decoder.com/anthropic-may-keep-supplying-claude-to-the-nsa-despite-being-flagged-as-a-supply-chain-risk-by-the-pentagon/",
     "https://the-decoder.com/researchers-let-claude-code-discover-ai-scaling-algorithms-that-humans-probably-wouldnt-have-designed/",
-    "https://the-decoder.com/deepseek-makes-its-75-percent-discount-permanent-pricing-output-tokens-at-least-34x-below-gpt-5-5/",
-    "https://www.creativebloq.com/3d/video-game-design/lego-batman-legacy-of-the-dark-knight-game-vs-movies-compared",
-    "https://www.cnbc.com/2026/05/23/microsofts-new-responsible-tech-lead-on-high-speed-ai-development.html",
+    "https://www.cnbc.com/2026/05/24/the-mandalorian-and-grogu-is-disneys-lowest-star-wars-film-opening.html",
     "https://www.nytimes.com/2026/05/24/technology/uk-ai-safety-institute.html",
     "https://www.nytimes.com/2026/05/24/technology/one-job-that-is-growing-in-the-ai-era-cybersecurity-experts.html",
+    "https://www.washingtonpost.com/technology/2026/05/24/with-enhanced-games-silicon-valley-investors-turn-doping-into-billion-dollar-business-pitch/",
     "https://www.theguardian.com/technology/2026/may/24/ai-washing-pr-firms-scrambling-rebrand",
+    "https://www.theguardian.com/uk-news/2026/may/25/scotland-policy-green-datacentres-emissions-impact-ai-analysis",
     "https://www.theguardian.com/commentisfree/2026/may/24/ai-tools-thinking-human-hard-coding-writing-technology",
     "https://www.theguardian.com/technology/2026/may/24/cinematic-toolbox-ai-fault-lines-cannes",
-    "https://www.theguardian.com/technology/2026/may/23/trump-ai-order-big-tech",
     "https://www.wired.com/story/these-robots-are-making-meals-for-a-nonprofit-in-san-franciscos-tenderloin/"
   ],
-  "generatedAt": "2026-05-24T11:59:30.968Z"
+  "generatedAt": "2026-05-24T23:52:02.320Z"
 }
