@@ -1,0 +1,438 @@
+{
+  "date": "2026-05-25",
+  "dateFormatted": "May 25, 2026",
+  "headline": {
+    "title": "Everyone is navigating AI security in real time — even Google",
+    "summary": "We're in the transition period -- all of us.",
+    "sourceUrl": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+    "sourceName": "TechCrunch AI"
+  },
+  "simpleSummary": [
+    "Today's edition was assembled directly from RSS feeds without AI curation.",
+    "Browse the stories below for the latest AI news."
+  ],
+  "sections": {
+    "tools": [
+      {
+        "id": "AI-001",
+        "title": "Everyone is navigating AI security in real time — even Google",
+        "summary": "We're in the transition period -- all of us.",
+        "content": "We're in the transition period -- all of us.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 24 May 2026 21:39:21 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-002",
+        "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
+        "summary": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
+        "content": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 24 May 2026 15:00:00 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-003",
+        "title": "US's big bet on quantum computing may not be entirely legal",
+        "summary": "Deal also launched the first quantum foundry company, but is there a need for it?",
+        "content": "Deal also launched the first quantum foundry company, but is there a need for it?",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
+        "sourceName": "Ars Technica AI",
+        "tags": [
+          "Ars Technica AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 25 May 2026 12:00:15 +0000",
+        "normalizedTags": [
+          "ars technica ai"
+        ]
+      }
+    ],
+    "creative": [
+      {
+        "id": "AI-004",
+        "title": "At the launch of Pope Leo XIV's encyclical, Anthropic co-founder says AI models show signs of introspection",
+        "summary": "Anthropic co-founder Christopher Olah was invited to speak at the launch of Pope Leo XIV's encyclical \"Magnifica Humanitas\" and used the stage to claim AI models show evidence of introspection and emotion-like states. The Pope's own document struck a",
+        "content": "Anthropic co-founder Christopher Olah was invited to speak at the launch of Pope Leo XIV's encyclical \"Magnifica Humanitas\" and used the stage to claim AI models show evidence of introspection and emotion-like states. The Pope's own document struck a different tone: \"These systems merely imitate certain functions of human intelligence.\"\nThe article At the launch of Pope Leo XIV's encyclical, Anthropic co-founder says AI models show signs of introspection appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/at-the-launch-of-pope-leo-xivs-encyclical-anthropic-co-founder-says-ai-models-show-signs-of-introspection/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 25 May 2026 13:40:07 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-005",
+        "title": "Google Deepmind's AlphaProof Nexus solves decades-old math problems for a few hundred dollars",
+        "summary": "Google Deepmind's AlphaProof Nexus has autonomously solved nine open Erdős problems, including two that stumped mathematicians for 56 years, for just a few hundred dollars per problem in inference costs. Unlike OpenAI's natural-language approach, the",
+        "content": "Google Deepmind's AlphaProof Nexus has autonomously solved nine open Erdős problems, including two that stumped mathematicians for 56 years, for just a few hundred dollars per problem in inference costs. Unlike OpenAI's natural-language approach, the system uses the Lean compiler to verify every proof step automatically. Still, the overall success rate sits at just 2.5 percent.\nThe article Google Deepmind's AlphaProof Nexus solves decades-old math problems for a few hundred dollars appeared firs",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solves-decades-old-math-problems-for-a-few-hundred-dollars/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 25 May 2026 10:41:19 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-006",
+        "title": "George Hotz says coding agents will be \"one of the most costly mistakes\" in software development",
+        "summary": "Programmer George Hotz warns that AI coding agents will become one of the industry's most costly mistakes. After six months of testing, his verdict: LLMs deliver fast prototypes but fall apart on the details, producing bugs that keep getting harder t",
+        "content": "Programmer George Hotz warns that AI coding agents will become one of the industry's most costly mistakes. After six months of testing, his verdict: LLMs deliver fast prototypes but fall apart on the details, producing bugs that keep getting harder to spot. His stance is one example of how deeply split the AI community is over the role of LLMs.\nThe article George Hotz says coding agents will be \"one of the most costly mistakes\" in software development appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/george-hotz-says-coding-agents-will-be-one-of-the-most-costly-mistakes-in-software-development/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 25 May 2026 09:05:34 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-007",
+        "title": "AI models often give the right answers but point to the wrong sources",
+        "summary": "Leading AI models like GPT and Gemini routinely cite text passages in document analyses that don't actually support their answers. Even when the answer is right, the cited evidence is often wrong. Researchers at Peking University call this \"attributi",
+        "content": "Leading AI models like GPT and Gemini routinely cite text passages in document analyses that don't actually support their answers. Even when the answer is right, the cited evidence is often wrong. Researchers at Peking University call this \"attribution hallucination,\" a risk for regulated fields like law and medicine. Their new CiteVQA benchmark is the first to test for it systematically.\nThe article AI models often give the right answers but point to the wrong sources appeared first on The Deco",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/ai-models-often-give-the-right-answers-but-point-to-the-wrong-sources/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 25 May 2026 07:30:09 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-008",
+        "title": " Try this sensory haptic gaming vest for 20% less ",
+        "summary": "Feel every critical hit with Woojer tech this Memorial Day.",
+        "content": "Feel every critical hit with Woojer tech this Memorial Day.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.creativebloq.com/entertainment/gaming/try-sensory-gaming-this-memorial-day-with-20-percent-off-woojer-tech",
+        "sourceName": "Creative Bloq",
+        "tags": [
+          "Creative Bloq"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 25 May 2026 13:00:00 +0000",
+        "normalizedTags": [
+          "creative bloq"
+        ]
+      }
+    ],
+    "research": [
+      {
+        "id": "AI-009",
+        "title": "BOHM: Zero-Cost Hierarchical Attribution for Compound AI Systems",
+        "summary": "arXiv:2605.22866v1 Announce Type: new \nAbstract: Compound AI systems route tasks through hierarchies of specialised components. Attribution is dominated by Shapley-based methods (SHAP), which decompose a coalition value function into per-component ma",
+        "content": "arXiv:2605.22866v1 Announce Type: new \nAbstract: Compound AI systems route tasks through hierarchies of specialised components. Attribution is dominated by Shapley-based methods (SHAP), which decompose a coalition value function into per-component marginal contributions and require evaluation of the system on arbitrary component subsets. That requirement fails for third-party APIs, opaque endpoints, and agentic orchestrators that concentrate routing on a few tools, leaving most coalitions un-eva",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2605.22866",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 25 May 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ]
+      },
+      {
+        "id": "AI-010",
+        "title": "NeuroNL2LTL: A Neurosymbolic Framework for Natural Language Translation of Linear Temporal Logic",
+        "summary": "arXiv:2605.22874v1 Announce Type: new \nAbstract: Effectively translating between natural language (NL) and formal logics like Linear Temporal Logic (LTL) requires expertise that limits formal verification's reach in safety-critical development. Templ",
+        "content": "arXiv:2605.22874v1 Announce Type: new \nAbstract: Effectively translating between natural language (NL) and formal logics like Linear Temporal Logic (LTL) requires expertise that limits formal verification's reach in safety-critical development. Template-based approaches sacrifice expressiveness for reliability; neural methods achieve fluency but provide no correctness guarantees. We present NeuroNL2LTL, a neurosymbolic architecture unifying learned translation with formal verification. NeuroNL2L",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2605.22874",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 25 May 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ]
+      },
+      {
+        "id": "AI-011",
+        "title": "RMA: an Agentic System for Research-Level Mathematical Problems",
+        "summary": "arXiv:2605.22875v1 Announce Type: new \nAbstract: We present $\\textbf{Research Math Agents (RMA)}$, an agentic framework for automated reasoning on research-level mathematical problems. Unlike prior studies centered on competition mathematics or forma",
+        "content": "arXiv:2605.22875v1 Announce Type: new \nAbstract: We present $\\textbf{Research Math Agents (RMA)}$, an agentic framework for automated reasoning on research-level mathematical problems. Unlike prior studies centered on competition mathematics or formal theorem proving, RMA targets research-level mathematical problems that require long-horizon reasoning, literature grounding, and iterative proof refinement. RMA decomposes research-level proof solving into specialized modules for problem analysis, ",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2605.22875",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 25 May 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ]
+      },
+      {
+        "id": "AI-012",
+        "title": "SciAtlas: A Large-Scale Knowledge Graph for Automated Scientific Research",
+        "summary": "arXiv:2605.22878v1 Announce Type: new \nAbstract: The exponential growth of global academic output has confronted researchers and AI agents with an unprecedented ``information explosion,'' where fragmented and unstructured knowledge organization imped",
+        "content": "arXiv:2605.22878v1 Announce Type: new \nAbstract: The exponential growth of global academic output has confronted researchers and AI agents with an unprecedented ``information explosion,'' where fragmented and unstructured knowledge organization impedes deep interdisciplinary integration. Current academic retrieval tools predominantly rely on superficial keyword matching or vector-space semantic retrieval, which lack the topological reasoning capabilities required to navigate complex logical conn",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2605.22878",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 25 May 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ]
+      },
+      {
+        "id": "AI-013",
+        "title": "Energy per Successful Goal: Goal-Level Energy Accounting for Agentic AI Systems",
+        "summary": "arXiv:2605.22883v1 Announce Type: new \nAbstract: Current AI energy benchmarks measure consumption at the granularity of a single model invocation or training run. For classical single-turn workloads this unit remains coherent. For agentic systems - w",
+        "content": "arXiv:2605.22883v1 Announce Type: new \nAbstract: Current AI energy benchmarks measure consumption at the granularity of a single model invocation or training run. For classical single-turn workloads this unit remains coherent. For agentic systems - where a single user goal may trigger multi-step orchestration, tool calls, retries, and failure-recovery cycles - the invocation count is an implementation artifact rather than a task property, and inference-level normalization misrepresents the energ",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2605.22883",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 25 May 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ]
+      }
+    ],
+    "applications": [],
+    "business": [
+      {
+        "id": "AI-014",
+        "title": "'The Mandalorian and Grogu' is Disney's lowest-ever Star Wars film opening",
+        "summary": "Disney's \"The Mandalorian and Grogu\" tallied and estimated $82 million in domestic ticket sales through its first three days in theaters.",
+        "content": "Disney's \"The Mandalorian and Grogu\" tallied and estimated $82 million in domestic ticket sales through its first three days in theaters.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/05/24/the-mandalorian-and-grogu-is-disneys-lowest-star-wars-film-opening.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 24 May 2026 16:04:57 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-015",
+        "title": "AI wealth must benefit the public, South Korea's deputy PM says amid Samsung labor tensions",
+        "summary": "South Korea's deputy PM tells CNBC there are concerns as to whether AI could worsen wealth gaps or lead to job losses.",
+        "content": "South Korea's deputy PM tells CNBC there are concerns as to whether AI could worsen wealth gaps or lead to job losses.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/05/23/ai-wealth-must-benefit-the-public-south-koreas-deputy-pm-says.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 25 May 2026 07:21:00 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      }
+    ],
+    "policy": [
+      {
+        "id": "AI-016",
+        "title": "One Job That Is Growing in the A.I. Era? Cybersecurity Experts.",
+        "summary": "Demand for security engineers has surged as artificial intelligence generates a glut of new code and models like Anthropic’s Mythos create new concerns.",
+        "content": "Demand for security engineers has surged as artificial intelligence generates a glut of new code and models like Anthropic’s Mythos create new concerns.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/05/24/technology/one-job-that-is-growing-in-the-ai-era-cybersecurity-experts.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 25 May 2026 12:46:11 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      }
+    ],
+    "concerns": [],
+    "culture": [
+      {
+        "id": "AI-017",
+        "title": "Pope Leo denounces ‘culture of power’ driving rise of AI",
+        "summary": "Pontiff calls for ‘disarming’ of artificial intelligence and apologises for church’s delay in condemning slavery \nPope Leo has denounced the “culture of power” driving the rapid rise of artificial intelligence while warning that the technology must b",
+        "content": "Pontiff calls for ‘disarming’ of artificial intelligence and apologises for church’s delay in condemning slavery \nPope Leo has denounced the “culture of power” driving the rapid rise of artificial intelligence while warning that the technology must be subject to the “most rigorous” ethical constraints as it infiltrates everything from work to war.\nIn his encyclical – the first major text on safeguarding humankind of his papacy – he also apologised for the Catholic church’s long delay in condemni",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/world/2026/may/25/pope-leo-encyclical-ai-artificial-intelligence-slavery",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 25 May 2026 12:29:39 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-018",
+        "title": "A Louisiana state senator helped secure Meta’s largest datacenter. Then he sold the land beside it",
+        "summary": "Jay Morris denies experts’ claims that he violated ethics rules over land deals near the site of Meta’s Hyperion datacenter\nThis story is from Floodlight, a non-profit newsroom that investigates the powers stalling climate action\nFor more than two ye",
+        "content": "Jay Morris denies experts’ claims that he violated ethics rules over land deals near the site of Meta’s Hyperion datacenter\nThis story is from Floodlight, a non-profit newsroom that investigates the powers stalling climate action\nFor more than two years, John “Jay” Morris, a Louisiana state senator, helped pave the way for Meta to build one of the world’s largest datacenters, called Hyperion, in Richland Parish.\n Continue reading...",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/environment/2026/may/25/louisiana-state-senator-jay-morris-meta-datacenter",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 25 May 2026 12:00:25 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-019",
+        "title": "Scotland’s ‘green datacentres’ policy ignores emissions impact of AI, analysis shows",
+        "summary": "Definition of green facilities made in 2022, before release of ChatGPT, says Action to Protect Rural Scotland\nA Scottish government policy designed to encourage datacentres to build in Scotland could lead to a massive volume of carbon emissions being",
+        "content": "Definition of green facilities made in 2022, before release of ChatGPT, says Action to Protect Rural Scotland\nA Scottish government policy designed to encourage datacentres to build in Scotland could lead to a massive volume of carbon emissions being ignored, according to an analysis by a Scottish charity.\n“Green datacentres” are at the heart of Scotland’s ambitions to develop economically. Enshrined in national policy, they are part of a larger, UK-wide effort to attract big AI investment to Sc",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/uk-news/2026/may/25/scotland-policy-green-datacentres-emissions-impact-ai-analysis",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 24 May 2026 23:01:09 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-020",
+        "title": "The AI Era Is Creating a Bug Hunting Arms Race",
+        "summary": "As attackers ramp up their AI exploit development, the search for software vulnerabilities is changing rapidly.",
+        "content": "As attackers ramp up their AI exploit development, the search for software vulnerabilities is changing rapidly.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
+        "sourceName": "Wired AI",
+        "tags": [
+          "Wired AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 25 May 2026 10:30:00 +0000",
+        "normalizedTags": [
+          "wired ai"
+        ]
+      }
+    ]
+  },
+  "quote": {
+    "text": "The best way to predict the future is to invent it.",
+    "author": "Alan Kay",
+    "authorTitle": "Computer Scientist"
+  },
+  "sources": [
+    "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+    "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+    "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
+    "https://the-decoder.com/at-the-launch-of-pope-leo-xivs-encyclical-anthropic-co-founder-says-ai-models-show-signs-of-introspection/",
+    "https://the-decoder.com/google-deepminds-alphaproof-nexus-solves-decades-old-math-problems-for-a-few-hundred-dollars/",
+    "https://the-decoder.com/george-hotz-says-coding-agents-will-be-one-of-the-most-costly-mistakes-in-software-development/",
+    "https://the-decoder.com/ai-models-often-give-the-right-answers-but-point-to-the-wrong-sources/",
+    "https://www.creativebloq.com/entertainment/gaming/try-sensory-gaming-this-memorial-day-with-20-percent-off-woojer-tech",
+    "https://arxiv.org/abs/2605.22866",
+    "https://arxiv.org/abs/2605.22874",
+    "https://arxiv.org/abs/2605.22875",
+    "https://arxiv.org/abs/2605.22878",
+    "https://arxiv.org/abs/2605.22883",
+    "https://www.cnbc.com/2026/05/24/the-mandalorian-and-grogu-is-disneys-lowest-star-wars-film-opening.html",
+    "https://www.cnbc.com/2026/05/23/ai-wealth-must-benefit-the-public-south-koreas-deputy-pm-says.html",
+    "https://www.nytimes.com/2026/05/24/technology/one-job-that-is-growing-in-the-ai-era-cybersecurity-experts.html",
+    "https://www.theguardian.com/world/2026/may/25/pope-leo-encyclical-ai-artificial-intelligence-slavery",
+    "https://www.theguardian.com/environment/2026/may/25/louisiana-state-senator-jay-morris-meta-datacenter",
+    "https://www.theguardian.com/uk-news/2026/may/25/scotland-policy-green-datacentres-emissions-impact-ai-analysis",
+    "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/"
+  ],
+  "generatedAt": "2026-05-25T13:58:06.902Z"
+}
