@@ -2,9 +2,9 @@
   "date": "2026-05-31",
   "dateFormatted": "May 31, 2026",
   "headline": {
-    "title": "SoftBank says it will invest up to €75 billion to build French data centers",
-    "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
-    "sourceUrl": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+    "title": "Erin Brockovich takes aim at data center secrecy",
+    "summary": "Environmental activist Erin Brockovich has a new mission.",
+    "sourceUrl": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
     "sourceName": "TechCrunch AI"
   },
   "simpleSummary": [
@@ -15,103 +15,65 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "SoftBank says it will invest up to €75 billion to build French data centers",
-        "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
-        "content": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
+        "title": "Erin Brockovich takes aim at data center secrecy",
+        "summary": "Environmental activist Erin Brockovich has a new mission.",
+        "content": "Environmental activist Erin Brockovich has a new mission.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+        "sourceUrl": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Sat, 30 May 2026 21:45:00 +0000",
+        "publishedAt": "Sun, 31 May 2026 21:05:14 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-002",
-        "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
-        "summary": "The golden age of Microsoft's Github Copilot appears to be at an end.",
-        "content": "The golden age of Microsoft's Github Copilot appears to be at an end.",
+        "title": "Making sense of the debate over AI psychosis",
+        "summary": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
+        "content": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+        "sourceUrl": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Sat, 30 May 2026 16:30:00 +0000",
+        "publishedAt": "Sun, 31 May 2026 15:30:00 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-003",
-        "title": "Meta is reportedly developing an AI pendant",
-        "summary": "Meta seems to be making big bets on AI-powered hardware.",
-        "content": "Meta seems to be making big bets on AI-powered hardware.",
+        "title": "I went looking for the AI weed vape that gives you Bitcoin for smoking",
+        "summary": "The crypto weed vape found me on 4/20, the high holiday of cannabis enthusiasts everywhere. It arrived over Slack with the thumbnail of a man exhaling a plume of vapor, the words \"every hit delivers Bitcoin\" emblazoned across it. It claimed to be adv",
+        "content": "The crypto weed vape found me on 4/20, the high holiday of cannabis enthusiasts everywhere. It arrived over Slack with the thumbnail of a man exhaling a plume of vapor, the words \"every hit delivers Bitcoin\" emblazoned across it. It claimed to be advertising a device called Gudtrip, and I thought everything about it sounded fake.\nSo I went looking for it. What I eventually found, after weeks of searching, dozens of emails, and a reporting effort that spanned continents, was somehow even dumber t",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
-        "sourceName": "TechCrunch AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape",
+        "sourceName": "The Verge AI",
         "tags": [
-          "TechCrunch AI"
+          "The Verge AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Sat, 30 May 2026 15:59:58 +0000",
+        "publishedAt": "2026-05-31T13:00:00.000Z",
         "normalizedTags": [
-          "techcrunch ai"
-        ]
-      },
-      {
-        "id": "AI-004",
-        "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
-        "summary": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.",
-        "content": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it’s unclear why Google made it a separate product.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
-        "sourceName": "TechCrunch AI",
-        "tags": [
-          "TechCrunch AI"
-        ],
-        "section": "tools",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 30 May 2026 15:30:00 +0000",
-        "normalizedTags": [
-          "techcrunch ai"
-        ]
-      },
-      {
-        "id": "AI-005",
-        "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
-        "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
-        "content": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-        "sourceName": "TechCrunch AI",
-        "tags": [
-          "TechCrunch AI"
-        ],
-        "section": "tools",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 30 May 2026 13:00:00 +0000",
-        "normalizedTags": [
-          "techcrunch ai"
+          "the verge ai"
         ]
       }
     ],
     "creative": [
       {
-        "id": "AI-006",
+        "id": "AI-004",
         "title": "Ask AI what goes with chicken and the answer depends on whether it learned from recipes or molecules",
         "summary": "With \"Epicure,\" London-based startup Kaikaku.AI presents three AI models that are the first to clearly separate whether an ingredient fits a recipe or is chemically related. Trained on 4.14 million recipes in seven languages and the FlavorDB flavor d",
         "content": "With \"Epicure,\" London-based startup Kaikaku.AI presents three AI models that are the first to clearly separate whether an ingredient fits a recipe or is chemically related. Trained on 4.14 million recipes in seven languages and the FlavorDB flavor database, each variant returns different recommendations. The purely chemistry-based model even classifies taste and nutritional values better than the recipe-based alternatives, despite never seeing that information directly.\nThe article Ask AI what ",
@@ -130,7 +92,7 @@
         ]
       },
       {
-        "id": "AI-007",
+        "id": "AI-005",
         "title": "Anthropic bans AI tools during job interviews to see how candidates actually think",
         "summary": "Anthropic bans AI during job interviews and runs candidates through up to five rounds testing skills, values, and ethical thinking. Salaries go up to $850,000, and some applicants pay $4,600 for prep coaching run anonymously by current AI company emp",
         "content": "Anthropic bans AI during job interviews and runs candidates through up to five rounds testing skills, values, and ethical thinking. Salaries go up to $850,000, and some applicants pay $4,600 for prep coaching run anonymously by current AI company employees.\nThe article Anthropic bans AI tools during job interviews to see how candidates actually think appeared first on The Decoder.",
@@ -149,7 +111,7 @@
         ]
       },
       {
-        "id": "AI-008",
+        "id": "AI-006",
         "title": "Anthropic study finds men use AI coding agents more than twice as often as women in social science research",
         "summary": "Researchers with typically male names use coding agents more than twice as often as those with typically female names, even within the same discipline and career level, according to an Anthropic study. Economists lead at 39 percent, while education r",
         "content": "Researchers with typically male names use coding agents more than twice as often as those with typically female names, even within the same discipline and career level, according to an Anthropic study. Economists lead at 39 percent, while education researchers sit at just four percent. The gender gap for coding agents is far wider than for general AI use.\nThe article Anthropic study finds men use AI coding agents more than twice as often as women in social science research appeared first on The ",
@@ -168,7 +130,7 @@
         ]
       },
       {
-        "id": "AI-009",
+        "id": "AI-007",
         "title": "SoftBank plans 75 billion euro AI data center buildout in France",
         "summary": "SoftBank plans to build AI data centers with up to 5 gigawatts of capacity in France, the company's largest AI infrastructure investment in Europe, at up to 75 billion euros. By 2031, facilities worth 45 billion euros are set to go up at three sites ",
         "content": "SoftBank plans to build AI data centers with up to 5 gigawatts of capacity in France, the company's largest AI infrastructure investment in Europe, at up to 75 billion euros. By 2031, facilities worth 45 billion euros are set to go up at three sites in northern France. SoftBank's mega announcements keep stacking up worldwide, but many projects have yet to materialize.\nThe article SoftBank plans 75 billion euro AI data center buildout in France appeared first on The Decoder.",
@@ -187,7 +149,7 @@
         ]
       },
       {
-        "id": "AI-010",
+        "id": "AI-008",
         "title": "AI search agents often confirm what they already know instead of actually researching the web",
         "summary": "Leading AI search agents like GPT-5.4 and Kimi K2.6 don't appear to do much actual research on established benchmarks. They mostly just use the web to confirm what they already learned during training. Researchers at the Harbin Institute of Technolog",
         "content": "Leading AI search agents like GPT-5.4 and Kimi K2.6 don't appear to do much actual research on established benchmarks. They mostly just use the web to confirm what they already learned during training. Researchers at the Harbin Institute of Technology found this using a new time-based benchmark called LiveBrowseComp, which only asks about events from the last 90 days. Once the models can't fall back on memory, performance falls apart and the existing rankings get reshuffled.\nThe article AI searc",
@@ -210,7 +172,7 @@
     "applications": [],
     "business": [
       {
-        "id": "AI-011",
+        "id": "AI-009",
         "title": "This Trump-linked startup plans to put humanoid robots in the military ",
         "summary": "With ties to the Trump family,  Foundation Robotics Labs is aiming to deploy humanoid robots in the military in the next 12 to 18 months.",
         "content": "With ties to the Trump family,  Foundation Robotics Labs is aiming to deploy humanoid robots in the military in the next 12 to 18 months.",
@@ -227,30 +189,11 @@
         "normalizedTags": [
           "cnbc tech"
         ]
-      },
-      {
-        "id": "AI-012",
-        "title": "Tokens or humans? The new corporate trade-off",
-        "summary": "AI is costing far more than companies expected, forcing CFOs into a new trade-off between tokens and humans and posing a risk the market hasn't priced in.",
-        "content": "AI is costing far more than companies expected, forcing CFOs into a new trade-off between tokens and humans and posing a risk the market hasn't priced in.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/05/29/-tokens-or-humans-the-new-corporate-trade-off.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 30 May 2026 12:16:47 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ]
       }
     ],
     "policy": [
       {
-        "id": "AI-013",
+        "id": "AI-010",
         "title": "Joby Demonstrated its Air Taxi in Manhattan, but You Can’t Fly in It Yet",
         "summary": "Aviation start-ups and the Trump administration want to replace helicopters with electric aircraft, but the new vehicles still have to pass arduous tests before the public can use them.",
         "content": "Aviation start-ups and the Trump administration want to replace helicopters with electric aircraft, but the new vehicles still have to pass arduous tests before the public can use them.",
@@ -263,26 +206,7 @@
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Sun, 31 May 2026 09:00:05 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-014",
-        "title": "Powerful A.I. Super PACs Duel Over the Midterms: ‘This Is a War’",
-        "summary": "One super PAC is allied with Anthropic. The other is tied to OpenAI. They’re both spending millions to influence this year’s elections.",
-        "content": "One super PAC is allied with Anthropic. The other is tied to OpenAI. They’re both spending millions to influence this year’s elections.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/05/30/us/politics/anthropic-openai-super-pacs-midterms.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 30 May 2026 14:09:34 +0000",
+        "publishedAt": "Sun, 31 May 2026 09:00:06 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
@@ -291,26 +215,45 @@
     "concerns": [],
     "culture": [
       {
-        "id": "AI-015",
-        "title": "Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’",
-        "summary": "Experts say AI firm’s engagement with Vatican risks creating ‘feelgood’ discourse that lacks critical examination\nWhy did Anthropic’s founder sit beside the pope during a warning about AI?\nIn the first major written teaching of his papacy, Pope Leo X",
-        "content": "Experts say AI firm’s engagement with Vatican risks creating ‘feelgood’ discourse that lacks critical examination\nWhy did Anthropic’s founder sit beside the pope during a warning about AI?\nIn the first major written teaching of his papacy, Pope Leo XIV took artificial intelligence to task. The pontiff delineated the technology’s most concerning threats to humanity: replacing workers, accelerating war and exploiting the environment. At a ceremony honoring the holy teaching the day of its release ",
+        "id": "AI-011",
+        "title": "This model is not a real person: how AI is changing online shopping up – video",
+        "summary": "From digital twins to models ‘sculpted’ by programmers, generative AI has been popping up all over the fashion industry. When an Australian e-commerce retailer started using AI-generated models to sell products, lifestyle editor Alyx Gorman had to se",
+        "content": "From digital twins to models ‘sculpted’ by programmers, generative AI has been popping up all over the fashion industry. When an Australian e-commerce retailer started using AI-generated models to sell products, lifestyle editor Alyx Gorman had to see if the garments were more than mere pixels.\n\nThe Iconic, which sells the dress worn in this video, said in a statement: ‘Where AI-generated imagery is used to advertise products for sale on our platform, our expectation is that it is clearly labell",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/may/30/pope-leo-anthropic-ai",
+        "sourceUrl": "https://www.theguardian.com/fashion/video/2026/jun/01/how-ai-is-shaking-up-fashion-video",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Sat, 30 May 2026 13:00:20 GMT",
+        "publishedAt": "Sun, 31 May 2026 15:00:51 GMT",
         "normalizedTags": [
           "the guardian ai"
         ]
       },
       {
-        "id": "AI-016",
+        "id": "AI-012",
+        "title": "Our tech overlords are planning for conscious AI to conquer the cosmos. What could go wrong? | Eduardo Porter",
+        "summary": "A new belief set is uniting some of the wealthiest men in the world around a ‘transhuman’ future – actual humanity be damned\nSam Altman, the chief executive of OpenAI, took to the Internet a few years ago to propose that homo sapiens would be the fir",
+        "content": "A new belief set is uniting some of the wealthiest men in the world around a ‘transhuman’ future – actual humanity be damned\nSam Altman, the chief executive of OpenAI, took to the Internet a few years ago to propose that homo sapiens would be the first species “to design our own descendants”. In his best case scenario, the “merge” between humans and artificial intelligence occurs at some point over the next 50 years. The alternative, where we remain simply human and the machines follow their own",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/us-news/ng-interactive/2026/may/31/transhuman-silicon-valley-ai",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 31 May 2026 13:00:49 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-013",
         "title": "Are ‘mind children’ the future of reproduction?",
         "summary": "Forget dirty nappies. In Silicon Valley, there’s increasing chatter about virtual offspring\nA few months ago, an AI researcher from Europe attended a dinner party in Silicon Valley. During one of the many courses, the host addressed his guests, all o",
         "content": "Forget dirty nappies. In Silicon Valley, there’s increasing chatter about virtual offspring\nA few months ago, an AI researcher from Europe attended a dinner party in Silicon Valley. During one of the many courses, the host addressed his guests, all of whom worked in AI. The researcher paraphrased his message like this: “Isn’t it amazing that we are the last generation of humans who will need to think about procreating biologically? We were lucky enough to be born at a time where we can simply up",
@@ -329,26 +272,7 @@
         ]
       },
       {
-        "id": "AI-017",
-        "title": "An industry targeting Australia’s ageing population is growing, but can AI deliver more humanity in aged care?",
-        "summary": "While companion robots are being introduced and virtual experiences hope to ‘take loneliness away’, one expert agrees tech should never replace the human element\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, fr",
-        "content": "While companion robots are being introduced and virtual experiences hope to ‘take loneliness away’, one expert agrees tech should never replace the human element\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\n“You’ll never get rid of humans,” Prof Wendy Moyle says, during a discussion about robots and other technology in aged care and residential homes.\nThen, a beat later, she adds: “Well, I don’t think we’ll get rid of human",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/australia-news/2026/may/31/ai-companion-robots-in-aged-care-australia-ageing-population-humanity",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 30 May 2026 20:00:30 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-018",
+        "id": "AI-014",
         "title": "How Turkey Hacked the Hair Transplant Industry",
         "summary": "From specialized motors to the use of machine learning algorithms, Turkey’s billion-dollar hair-transplant industry is the result of a constant process of innovation.",
         "content": "From specialized motors to the use of machine learning algorithms, Turkey’s billion-dollar hair-transplant industry is the result of a constant process of innovation.",
@@ -374,24 +298,20 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
-    "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-    "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
-    "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
-    "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+    "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+    "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+    "https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape",
     "https://the-decoder.com/ask-ai-what-goes-with-chicken-and-the-answer-depends-on-whether-it-learned-from-recipes-or-molecules/",
     "https://the-decoder.com/anthropic-bans-ai-tools-during-job-interviews-to-see-how-candidates-actually-think/",
     "https://the-decoder.com/anthropic-study-finds-men-use-ai-coding-agents-more-than-twice-as-often-as-women-in-social-science-research/",
     "https://the-decoder.com/softbank-plans-75-billion-euro-ai-data-center-buildout-in-france/",
     "https://the-decoder.com/ai-search-agents-often-confirm-what-they-already-know-instead-of-actually-researching-the-web/",
     "https://www.cnbc.com/2026/05/30/humanoid-robots-ukraine-war-foundation-military-ai.html",
-    "https://www.cnbc.com/2026/05/29/-tokens-or-humans-the-new-corporate-trade-off.html",
     "https://www.nytimes.com/2026/05/31/business/air-taxis-joby-helicopters.html",
-    "https://www.nytimes.com/2026/05/30/us/politics/anthropic-openai-super-pacs-midterms.html",
-    "https://www.theguardian.com/technology/2026/may/30/pope-leo-anthropic-ai",
+    "https://www.theguardian.com/fashion/video/2026/jun/01/how-ai-is-shaking-up-fashion-video",
+    "https://www.theguardian.com/us-news/ng-interactive/2026/may/31/transhuman-silicon-valley-ai",
     "https://www.theguardian.com/books/2026/may/31/are-mind-children-the-future-of-reproduction",
-    "https://www.theguardian.com/australia-news/2026/may/31/ai-companion-robots-in-aged-care-australia-ageing-population-humanity",
     "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/"
   ],
-  "generatedAt": "2026-05-31T12:09:21.735Z"
+  "generatedAt": "2026-05-31T23:57:45.115Z"
 }
