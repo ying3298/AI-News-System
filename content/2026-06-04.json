@@ -1,0 +1,618 @@
+{
+  "date": "2026-06-04",
+  "dateFormatted": "June 4, 2026",
+  "headline": {
+    "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+    "summary": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
+    "sourceUrl": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+    "sourceName": "TechCrunch AI"
+  },
+  "simpleSummary": [
+    "Today's edition was assembled directly from RSS feeds without AI curation.",
+    "Browse the stories below for the latest AI news."
+  ],
+  "sections": {
+    "tools": [
+      {
+        "id": "AI-001",
+        "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+        "summary": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
+        "content": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 03 Jun 2026 22:56:51 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-002",
+        "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
+        "summary": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
+        "content": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 03 Jun 2026 19:38:32 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-003",
+        "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
+        "summary": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account.",
+        "content": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 03 Jun 2026 19:07:42 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-004",
+        "title": "Amazon will show AI product images when you search for some reason",
+        "summary": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products.",
+        "content": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 03 Jun 2026 15:50:26 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-005",
+        "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
+        "summary": "The startup's own stack for Africa and Middle East is now handling more than 17,000 calls per day.",
+        "content": "The startup's own stack for Africa and Middle East is now handling more than 17,000 calls per day.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 03 Jun 2026 15:00:00 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      }
+    ],
+    "creative": [
+      {
+        "id": "AI-006",
+        "title": "Google Deepmind's Gemma 4 12B squeezes multimodal AI onto a laptop with just 16 GB of RAM",
+        "summary": "Google Deepmind's Gemma 4 12B is an open-source model that processes text, images, and audio natively and runs on laptops with just 16 GB of RAM. It nearly matches the twice-as-large 26B model in benchmarks and ships under an Apache 2.0 license for c",
+        "content": "Google Deepmind's Gemma 4 12B is an open-source model that processes text, images, and audio natively and runs on laptops with just 16 GB of RAM. It nearly matches the twice-as-large 26B model in benchmarks and ships under an Apache 2.0 license for commercial use.\nThe article Google Deepmind's Gemma 4 12B squeezes multimodal AI onto a laptop with just 16 GB of RAM appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/google-deepminds-gemma-4-12b-squeezes-multimodal-ai-onto-a-laptop-with-just-16-gb-of-ram/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 03 Jun 2026 19:54:13 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-007",
+        "title": "Google lets sites opt out of AI search results, knowing most have nowhere else to go",
+        "summary": "For the first time, Google is giving website operators an opt-out toggle in Search Console for AI search features like AI Overviews and AI Mode, which together already reach more than 3.5 billion monthly users. New performance reports break out impre",
+        "content": "For the first time, Google is giving website operators an opt-out toggle in Search Console for AI search features like AI Overviews and AI Mode, which together already reach more than 3.5 billion monthly users. New performance reports break out impressions separately. The move was prompted by the UK's Competition and Markets Authority (CMA), which sees website operators at a severe disadvantage.\nThe article Google lets sites opt out of AI search results, knowing most have nowhere else to go appe",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/google-lets-sites-opt-out-of-ai-search-results-knowing-most-have-nowhere-else-to-go/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 03 Jun 2026 19:28:29 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-008",
+        "title": "Ideogram 4.0 drops as an open-weight model with native 2K resolution and improved text rendering",
+        "summary": "Ideogram releases version 4.0 of its text-to-image model as an open-weight model with native 2K resolution, bounding box control, and improved text rendering. On the DesignArena leaderboard, it ranks first among all open models; only closed systems f",
+        "content": "Ideogram releases version 4.0 of its text-to-image model as an open-weight model with native 2K resolution, bounding box control, and improved text rendering. On the DesignArena leaderboard, it ranks first among all open models; only closed systems from OpenAI and Google score higher. Commercial use requires a paid license.\nThe article Ideogram 4.0 drops as an open-weight model with native 2K resolution and improved text rendering appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/ideogram-4-0-drops-as-an-open-weight-model-with-native-2k-resolution-and-improved-text-rendering/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 03 Jun 2026 18:34:36 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-009",
+        "title": "Trump's new executive order wants AI companies to voluntarily submit models for government safety reviews",
+        "summary": "The White House has issued an executive order requiring agencies like the Pentagon and CISA to strengthen cyber defense with AI tools within 30 days. AI developers can voluntarily submit models for security testing, but the order explicitly rules out",
+        "content": "The White House has issued an executive order requiring agencies like the Pentagon and CISA to strengthen cyber defense with AI tools within 30 days. AI developers can voluntarily submit models for security testing, but the order explicitly rules out mandatory approval. Given recent government pressure on AI companies, how voluntary this cooperation really is remains an open question.\nThe article Trump's new executive order wants AI companies to voluntarily submit models for government safety re",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/trumps-new-executive-order-wants-ai-companies-to-voluntarily-submit-models-for-government-safety-reviews/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 03 Jun 2026 17:55:21 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-010",
+        "title": "Perplexity announces hybrid AI system that decides what runs locally or in the cloud",
+        "summary": "Perplexity has announced an orchestrator that combines AI models running on your own computer with powerful cloud models and automatically decides which task gets processed where.\nThe article Perplexity announces hybrid AI system that decides what ru",
+        "content": "Perplexity has announced an orchestrator that combines AI models running on your own computer with powerful cloud models and automatically decides which task gets processed where.\nThe article Perplexity announces hybrid AI system that decides what runs locally or in the cloud appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/perplexity-announces-hybrid-ai-system-that-decides-what-runs-locally-or-in-the-cloud/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 03 Jun 2026 13:40:16 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      }
+    ],
+    "research": [
+      {
+        "id": "AI-011",
+        "title": "How virtual power plants could provide energy for data centers",
+        "summary": "Would you take a payment to ramp down your electricity use? Would it change anything if you were doing so to help power a local data center? Google just signed a new deal to help pay for a virtual power plant (VPP) in the largest power grid in the US",
+        "content": "Would you take a payment to ramp down your electricity use? Would it change anything if you were doing so to help power a local data center? Google just signed a new deal to help pay for a virtual power plant (VPP) in the largest power grid in the US. The agreement is with Voltus,…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 03 Jun 2026 16:51:38 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-012",
+        "title": "The Download: Trump’s new AI order, and smart glasses for warfare",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. 5 key points in Trump’s new AI order Less than two weeks after scrapping an executive order on AI, President Don",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. 5 key points in Trump’s new AI order Less than two weeks after scrapping an executive order on AI, President Donald Trump signed a new one on Tuesday. Promising to promote…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 03 Jun 2026 12:10:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-013",
+        "title": "Visual Graph Scaffolds for Structural Reasoning in Large Language Models",
+        "summary": "arXiv:2606.02673v1 Announce Type: new \nAbstract: Graphs have been used to enhance large language models (LLMs) for structured reasoning, mostly as external knowledge sources are provided to models at test time. In this paper, we take a different view",
+        "content": "arXiv:2606.02673v1 Announce Type: new \nAbstract: Graphs have been used to enhance large language models (LLMs) for structured reasoning, mostly as external knowledge sources are provided to models at test time. In this paper, we take a different view: the value of graphs for LLMs lie not only in supplying information, but also in organizing reasoning. Inspired by how humans use graph-structured mind maps to organize branching and converging thoughts, we ask whether graphs can serve as an interna",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2606.02673",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 03 Jun 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ]
+      },
+      {
+        "id": "AI-014",
+        "title": "AURA: Action-Gated Memory for Robot Policies at Constant VRAM",
+        "summary": "arXiv:2606.02775v1 Announce Type: new \nAbstract: The KV-cache is the right memory for datacenters but the wrong memory for robots. Datacenter inference batches many short requests and resets them, amortizing an attention cache across a crowd. Embodie",
+        "content": "arXiv:2606.02775v1 Announce Type: new \nAbstract: The KV-cache is the right memory for datacenters but the wrong memory for robots. Datacenter inference batches many short requests and resets them, amortizing an attention cache across a crowd. Embodied agents instead run one long, non-resetting episode on bandwidth-limited edge hardware, where high-bandwidth memory and flash are scarce, flash has finite write endurance, and memory writes rather than compute can become the binding constraint.\n  AU",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2606.02775",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 03 Jun 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ]
+      },
+      {
+        "id": "AI-015",
+        "title": "Evaluating Transformer and LSTM Frameworks for Prediction in Ungauged Basins",
+        "summary": "arXiv:2606.02791v1 Announce Type: new \nAbstract: Watershed networks exhibit convergent topologies in which multiple tributaries merge into downstream channels,integrating diverse upstream hydrological processes. In ungauged basins, the absence of dir",
+        "content": "arXiv:2606.02791v1 Announce Type: new \nAbstract: Watershed networks exhibit convergent topologies in which multiple tributaries merge into downstream channels,integrating diverse upstream hydrological processes. In ungauged basins, the absence of direct observations increases uncertainty and limits the ability to anticipate extreme events. This study evaluates whether an encoder-only Transformer provides an advantage over an LSTM for upstream streamflow inference under limited hydrologic informa",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2606.02791",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 03 Jun 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ]
+      }
+    ],
+    "applications": [],
+    "business": [
+      {
+        "id": "AI-016",
+        "title": "Amazon engineers in Seattle slam employer for building AI data centers while laying off 30,000 staffers",
+        "summary": "Amazon engineers called out their employer for conducting mass layoffs while it commits to spending $200 billion this year on AI infrastructure.",
+        "content": "Amazon engineers called out their employer for conducting mass layoffs while it commits to spending $200 billion this year on AI infrastructure.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/06/03/amazon-engineers-in-seattle-slam-employer-for-ai-data-amid-layoffs.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 04 Jun 2026 00:00:02 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-017",
+        "title": "Elon Musk's net worth poised to sail past $1 trillion in SpaceX IPO",
+        "summary": "Based on SpaceX's updated IPO prospectus, Elon Musk owns shares in the company worth over $866 billion.",
+        "content": "Based on SpaceX's updated IPO prospectus, Elon Musk owns shares in the company worth over $866 billion.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/06/03/elon-musks-net-worth-poised-to-sail-past-1-trillion-in-spacex-ipo.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 03 Jun 2026 22:58:33 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-018",
+        "title": "Jim Cramer warns excess supply could be the next biggest threat to the bull market",
+        "summary": "CNBC's Jim Cramer warned that a growing wave of AI-related capital raises could overwhelm investor demand and create a near-term headwind for stocks.",
+        "content": "CNBC's Jim Cramer warned that a growing wave of AI-related capital raises could overwhelm investor demand and create a near-term headwind for stocks.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/06/03/jim-cramer-warns-excess-supply-could-be-the-next-biggest-threat-to-the-bull-market.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 03 Jun 2026 22:38:50 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-019",
+        "title": "CrowdStrike narrowly beats estimates on AI tailwinds, but stock falls 10%",
+        "summary": "CrowdStrike shares have rallied nearly 60% this year on skyrocketing demand for cybersecurity in the age of advanced artificial intelligence.",
+        "content": "CrowdStrike shares have rallied nearly 60% this year on skyrocketing demand for cybersecurity in the age of advanced artificial intelligence.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/06/03/crowdstrike-crwd-q1-2027-earnings.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 03 Jun 2026 21:34:25 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-020",
+        "title": "Hidden beneath AI chips, Chinese-made circuit boards raise national security concerns in U.S.",
+        "summary": "With demand booming for printed circuit boards, the U.S. government is trying to boost domestic production to move away from reliance on China.",
+        "content": "With demand booming for printed circuit boards, the U.S. government is trying to boost domestic production to move away from reliance on China.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/06/03/beneath-nvidia-ai-chips-chinese-pcbs-raise-security-concerns-in-us.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 03 Jun 2026 20:46:54 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      }
+    ],
+    "policy": [
+      {
+        "id": "AI-021",
+        "title": "SpaceX IPO to Be Largest Ever at $135 Share Price",
+        "summary": "The $135 share price means Elon Musk’s rocket maker is poised to exceed the 2019 initial public offering of Saudi Aramco in both valuation and money raised.",
+        "content": "The $135 share price means Elon Musk’s rocket maker is poised to exceed the 2019 initial public offering of Saudi Aramco in both valuation and money raised.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/06/03/technology/spacex-ipo-pricing.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 03 Jun 2026 22:04:57 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-022",
+        "title": "European Union Outlines Plan to Reduce Dependence on American Tech",
+        "summary": "The 27-nation European Union outlined how it hopes to expand the region’s data centers, semiconductors and cloud computing capabilities.",
+        "content": "The 27-nation European Union outlined how it hopes to expand the region’s data centers, semiconductors and cloud computing capabilities.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/06/03/technology/european-union-tech-sovereignty.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 03 Jun 2026 18:00:18 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-023",
+        "title": "Scientists Find Way to Supercharge Dangerous Computer ‘Worms’ With A.I.",
+        "summary": "Researchers at the University of Toronto showed how hackers could use artificial intelligence to create a program that could target any known flaw in the world’s computers.",
+        "content": "Researchers at the University of Toronto showed how hackers could use artificial intelligence to create a program that could target any known flaw in the world’s computers.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/06/02/technology/scientists-find-way-to-supercharge-dangerous-computer-worms-with-ai.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 03 Jun 2026 00:37:55 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-024",
+        "title": "Trump Signs Executive Order Seeking Oversight of A.I. Models",
+        "summary": "The order, which signaled a shift from the hands-off approach the White House had previously taken toward A.I., followed debates over how to gain control of A.I. models without disrupting innovation.",
+        "content": "The order, which signaled a shift from the hands-off approach the White House had previously taken toward A.I., followed debates over how to gain control of A.I. models without disrupting innovation.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/06/02/technology/trump-executive-order-ai.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 03 Jun 2026 01:30:54 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      }
+    ],
+    "concerns": [],
+    "culture": [
+      {
+        "id": "AI-025",
+        "title": "What do UK watchdog’s new rules on Google AI results mean for publishers?",
+        "summary": "Giving news websites the power to block their content from being used in AI summaries will have global ramifications\nThe UK’s competition watchdog has ordered Google to change how it uses publishers’ content in its AI-powered search results, in a mov",
+        "content": "Giving news websites the power to block their content from being used in AI summaries will have global ramifications\nThe UK’s competition watchdog has ordered Google to change how it uses publishers’ content in its AI-powered search results, in a move that will have global ramifications.\nThe Competition and Markets Authority (CMA) is using powers that allow it to set bespoke rules for major tech firms that it deems to have “strategic market status”. Google, the world’s largest search engine, is ",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/business/2026/jun/03/what-does-uk-watchdog-new-google-ai-results-rule-means-publishers",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 03 Jun 2026 17:17:37 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-026",
+        "title": "Seattle, home to Amazon and Microsoft, poised to pass moratorium on new datacenters",
+        "summary": "Measure expected to pass next week represents major rebuke to big tech as local disquiet over AI boom grows\nSeattle’s city government is on the verge of passing a year-long ban on the construction of new datacenters, the largest city yet in the US to",
+        "content": "Measure expected to pass next week represents major rebuke to big tech as local disquiet over AI boom grows\nSeattle’s city government is on the verge of passing a year-long ban on the construction of new datacenters, the largest city yet in the US to consider such a moratorium as nationwide backlash grows.\nFour companies sought to build five large datacenters in areas serviced by Seattle’s public utility; if approved, they would have consumed approximately a third of the city’s current daily dem",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/jun/03/seattle-datacenter-moratorium",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 04 Jun 2026 00:17:42 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-027",
+        "title": "In first, California city overwhelmingly votes to permanently ban datacenters",
+        "summary": "While many US city councils have passed moratoriums, Monterey Park is first where residents have voted on a ban\n\nSign up for the Breaking News US newsletter email\n\nResidents in Monterey Park, California, became the first in the US to vote on a perman",
+        "content": "While many US city councils have passed moratoriums, Monterey Park is first where residents have voted on a ban\n\nSign up for the Breaking News US newsletter email\n\nResidents in Monterey Park, California, became the first in the US to vote on a permanent ban on datacenters on Tuesday, and early results indicate a resounding victory for the prohibition.\nWhile many cities and counties have already passed temporary or indefinite moratoriums via their local governments, Monterey Park would be the fir",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/us-news/2026/jun/03/california-monterey-park-datacenters-ban",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 03 Jun 2026 19:40:36 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-028",
+        "title": "Colorado governor vetoes block on surveillance pricing as other states push for bans",
+        "summary": "Consumer advocates decry Democrat Jared Polis for ‘choosing to side with dominant corporations’ over workers\nColorado’s governor vetoed a bill on Tuesday that would have banned companies from using surveillance pricing to set workers’ wages and price",
+        "content": "Consumer advocates decry Democrat Jared Polis for ‘choosing to side with dominant corporations’ over workers\nColorado’s governor vetoed a bill on Tuesday that would have banned companies from using surveillance pricing to set workers’ wages and prices for consumer goods.\nThe measure would have been the strongest in the nation against algorithmic pricing. While Maryland became the first state to approve a law banning surveillance pricing in grocery stores in April, Colorado’s proposed measure was",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/jun/03/colorado-governor-veto-ban-surveillance-pricing",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 03 Jun 2026 19:12:19 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-029",
+        "title": "Labour MP sues Elon Musk’s xAI company over fake sexualised images",
+        "summary": "Jess Asato was portrayed wearing a bikini in Grok-generated images after she criticised creation of such non-consensual pictures\nA Labour MP has taken legal action against Elon Musk’s xAI company after saying its Grok tool helped a user produce fake ",
+        "content": "Jess Asato was portrayed wearing a bikini in Grok-generated images after she criticised creation of such non-consensual pictures\nA Labour MP has taken legal action against Elon Musk’s xAI company after saying its Grok tool helped a user produce fake sexualised pictures of her, part of a wave of such images that flooded the social media platform X earlier this year.\nJess Asato, the MP for Lowestoft, said in January that seeing herself portrayed by the AI tool as wearing a bikini without her conse",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/jun/03/labour-mp-sues-elon-musks-ai-company-over-fake-sexualised-images",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 03 Jun 2026 17:48:06 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      }
+    ]
+  },
+  "quote": {
+    "text": "The best way to predict the future is to invent it.",
+    "author": "Alan Kay",
+    "authorTitle": "Computer Scientist"
+  },
+  "sources": [
+    "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+    "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+    "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+    "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
+    "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
+    "https://the-decoder.com/google-deepminds-gemma-4-12b-squeezes-multimodal-ai-onto-a-laptop-with-just-16-gb-of-ram/",
+    "https://the-decoder.com/google-lets-sites-opt-out-of-ai-search-results-knowing-most-have-nowhere-else-to-go/",
+    "https://the-decoder.com/ideogram-4-0-drops-as-an-open-weight-model-with-native-2k-resolution-and-improved-text-rendering/",
+    "https://the-decoder.com/trumps-new-executive-order-wants-ai-companies-to-voluntarily-submit-models-for-government-safety-reviews/",
+    "https://the-decoder.com/perplexity-announces-hybrid-ai-system-that-decides-what-runs-locally-or-in-the-cloud/",
+    "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/",
+    "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
+    "https://arxiv.org/abs/2606.02673",
+    "https://arxiv.org/abs/2606.02775",
+    "https://arxiv.org/abs/2606.02791",
+    "https://www.cnbc.com/2026/06/03/amazon-engineers-in-seattle-slam-employer-for-ai-data-amid-layoffs.html",
+    "https://www.cnbc.com/2026/06/03/elon-musks-net-worth-poised-to-sail-past-1-trillion-in-spacex-ipo.html",
+    "https://www.cnbc.com/2026/06/03/jim-cramer-warns-excess-supply-could-be-the-next-biggest-threat-to-the-bull-market.html",
+    "https://www.cnbc.com/2026/06/03/crowdstrike-crwd-q1-2027-earnings.html",
+    "https://www.cnbc.com/2026/06/03/beneath-nvidia-ai-chips-chinese-pcbs-raise-security-concerns-in-us.html",
+    "https://www.nytimes.com/2026/06/03/technology/spacex-ipo-pricing.html",
+    "https://www.nytimes.com/2026/06/03/technology/european-union-tech-sovereignty.html",
+    "https://www.nytimes.com/2026/06/02/technology/scientists-find-way-to-supercharge-dangerous-computer-worms-with-ai.html",
+    "https://www.nytimes.com/2026/06/02/technology/trump-executive-order-ai.html",
+    "https://www.theguardian.com/business/2026/jun/03/what-does-uk-watchdog-new-google-ai-results-rule-means-publishers",
+    "https://www.theguardian.com/technology/2026/jun/03/seattle-datacenter-moratorium",
+    "https://www.theguardian.com/us-news/2026/jun/03/california-monterey-park-datacenters-ban",
+    "https://www.theguardian.com/technology/2026/jun/03/colorado-governor-veto-ban-surveillance-pricing",
+    "https://www.theguardian.com/technology/2026/jun/03/labour-mp-sues-elon-musks-ai-company-over-fake-sexualised-images"
+  ],
+  "generatedAt": "2026-06-04T00:25:31.110Z"
+}
