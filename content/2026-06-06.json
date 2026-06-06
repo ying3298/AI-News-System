@@ -2,9 +2,9 @@
   "date": "2026-06-06",
   "dateFormatted": "June 6, 2026",
   "headline": {
-    "title": "Startup Battlefield 200 applications officially close in 3 days",
-    "summary": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West.",
-    "sourceUrl": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
+    "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+    "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
+    "sourceUrl": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
     "sourceName": "TechCrunch AI"
   },
   "simpleSummary": [
@@ -15,103 +15,122 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "Startup Battlefield 200 applications officially close in 3 days",
-        "summary": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West.",
-        "content": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West.",
+        "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+        "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
+        "content": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
+        "sourceUrl": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Fri, 05 Jun 2026 20:00:00 +0000",
+        "publishedAt": "Sat, 06 Jun 2026 20:32:24 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-002",
-        "title": "Google will pay SpaceX $920M per month for compute",
-        "summary": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.",
-        "content": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.",
+        "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+        "summary": "Apple's WWDC nears: Here's what you can look forward to.",
+        "content": "Apple's WWDC nears: Here's what you can look forward to.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+        "sourceUrl": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Fri, 05 Jun 2026 18:57:20 +0000",
+        "publishedAt": "Sat, 06 Jun 2026 18:13:36 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-003",
-        "title": "The most interesting startups right now want to get you off your phone",
-        "summary": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction.  Mirror founder Brynn Putnam just raised money for Board, a startup focused on bringing people together through in-person games and so",
-        "content": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction.  Mirror founder Brynn Putnam just raised money for Board, a startup focused on bringing people together through in-person games and social experiences. Cyberdeck creators are going viral crafting whimsical DIY computers that literally encourage users to touch grass. Unlike the AI-free browser crowd, this doesn’t just feel like backlash, […]",
+        "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+        "summary": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
+        "content": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
+        "sourceUrl": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Fri, 05 Jun 2026 17:17:06 +0000",
+        "publishedAt": "Sat, 06 Jun 2026 17:42:15 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-004",
-        "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
-        "summary": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
-        "content": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\"",
+        "title": "The Trump administration might take an equity stake in OpenAI",
+        "summary": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
+        "content": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+        "sourceUrl": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Fri, 05 Jun 2026 14:49:12 +0000",
+        "publishedAt": "Sat, 06 Jun 2026 16:17:21 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-005",
-        "title": "The ‘together tech’ wave might be the most intriguing startup bet of 2026",
-        "summary": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction.  Mirror founder Brynn Putnam just raised money for Board, a startup focused on bringing people together through in-person games and so",
-        "content": "While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction.  Mirror founder Brynn Putnam just raised money for Board, a startup focused on bringing people together through in-person games and social experiences. Cyberdeck creators are going viral crafting whimsical DIY computers that literally encourage users to touch grass. Unlike the AI-free browser crowd, this doesn’t just feel like backlash, […]",
+        "title": "The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center",
+        "summary": "A proposed $2 billion data center has become a political flashpoint in the small city of Shelbyville, Indiana. And the controversy has only grown more intense after the mayor, Scott Furgeson, was caught on camera saying of the \"No Data Center\" signs ",
+        "content": "A proposed $2 billion data center has become a political flashpoint in the small city of Shelbyville, Indiana. And the controversy has only grown more intense after the mayor, Scott Furgeson, was caught on camera saying of the \"No Data Center\" signs going up that, \"I've seen a lot of these all over town, but I only see them in shitty houses,\" before adding, \"most of them are rentals.\"\nThe woman speaking to him in the clip quickly pushes back, saying that they're \"working class,\" and someone chim",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
-        "sourceName": "TechCrunch AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center",
+        "sourceName": "The Verge AI",
         "tags": [
-          "TechCrunch AI"
+          "The Verge AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Fri, 05 Jun 2026 14:00:00 +0000",
+        "publishedAt": "2026-06-06T15:05:00.000Z",
         "normalizedTags": [
-          "techcrunch ai"
+          "the verge ai"
         ]
       }
     ],
     "creative": [
       {
         "id": "AI-006",
+        "title": "Sakana AI bets AI that improves itself can break the compute arms race of frontier labs",
+        "summary": "Sakana AI has launched a dedicated research lab for recursive self-improvement: AI that iteratively improves itself. The Japanese startup, co-founded by Transformer co-author Llion Jones, sees RSI as an alternative to the raw compute arms race among ",
+        "content": "Sakana AI has launched a dedicated research lab for recursive self-improvement: AI that iteratively improves itself. The Japanese startup, co-founded by Transformer co-author Llion Jones, sees RSI as an alternative to the raw compute arms race among big US labs. Anthropic, meanwhile, warns about the control risks of this very technology.\nThe article Sakana AI bets AI that improves itself can break the compute arms race of frontier labs appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/sakana-ai-bets-ai-that-improves-itself-can-break-the-compute-arms-race-of-frontier-labs/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 06 Jun 2026 13:57:52 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-007",
         "title": "Meta's Hatch AI agent could cost up to $200 a month and marks its first paid AI product",
         "summary": "Meta is developing a paid AI agent product called \"Hatch\" that could cost up to $200 per month. Users describe what they need in simple language, and Hatch builds working tools, schedules appointments, or sends emails. CEO Mark Zuckerberg sees the pr",
         "content": "Meta is developing a paid AI agent product called \"Hatch\" that could cost up to $200 per month. Users describe what they need in simple language, and Hatch builds working tools, schedules appointments, or sends emails. CEO Mark Zuckerberg sees the product as a way to open up new revenue streams beyond advertising and refinance the company's massive AI investments.\nThe article Meta's Hatch AI agent could cost up to $200 a month and marks its first paid AI product appeared first on The Decoder.",
@@ -130,7 +149,7 @@
         ]
       },
       {
-        "id": "AI-007",
+        "id": "AI-008",
         "title": "Elon Musk's xAI reportedly trained its coding models on Claude outputs for months before getting cut off",
         "summary": "Elon Musk's xAI used Anthropic's Claude to train its own coding models for months and kept going even after Anthropic cut off access, using private accounts and the Blackbox AI service. Meanwhile, xAI's pretraining team shrank to fewer than five peop",
         "content": "Elon Musk's xAI used Anthropic's Claude to train its own coding models for months and kept going even after Anthropic cut off access, using private accounts and the Blackbox AI service. Meanwhile, xAI's pretraining team shrank to fewer than five people, and several leads walked out. The compute Musk bought up is now being rented to Anthropic and Google instead of powering his own models.\nThe article Elon Musk's xAI reportedly trained its coding models on Claude outputs for months before getting ",
@@ -149,7 +168,7 @@
         ]
       },
       {
-        "id": "AI-008",
+        "id": "AI-009",
         "title": "New open-source voice model listens nonstop and decides every 0.4 seconds whether to speak or stay silent",
         "summary": "Unlike GPT-4o or Qwen3.5-Omni, Audio Interaction doesn't wait for a recording to end: it translates, transcribes, chats, and picks up everyday noises like coughing in a single stream. Code, model weights, and download instructions are available on Gi",
         "content": "Unlike GPT-4o or Qwen3.5-Omni, Audio Interaction doesn't wait for a recording to end: it translates, transcribes, chats, and picks up everyday noises like coughing in a single stream. Code, model weights, and download instructions are available on GitHub under the Apache 2.0 open-source license, with the training data to follow.\nThe article New open-source voice model listens nonstop and decides every 0.4 seconds whether to speak or stay silent appeared first on The Decoder.",
@@ -168,7 +187,7 @@
         ]
       },
       {
-        "id": "AI-009",
+        "id": "AI-010",
         "title": "SpaceX signs $920 million per month deal with Google for 110,000 Nvidia AI chips ahead of IPO",
         "summary": "SpaceX is leasing AI computing capacity to Google for $920 million per month, according to an SEC filing. The deal gives Google access to about 110,000 Nvidia chips to meet demand for its Gemini Enterprise platform. That one of the world's largest cl",
         "content": "SpaceX is leasing AI computing capacity to Google for $920 million per month, according to an SEC filing. The deal gives Google access to about 110,000 Nvidia chips to meet demand for its Gemini Enterprise platform. That one of the world's largest cloud providers needs to rent capacity externally shows how scarce AI infrastructure has become, and how tightly big tech companies' businesses are now intertwined.\nThe article SpaceX signs $920 million per month deal with Google for 110,000 Nvidia AI ",
@@ -185,49 +204,11 @@
         "normalizedTags": [
           "the decoder"
         ]
-      },
-      {
-        "id": "AI-010",
-        "title": "OpenAI and the Trump administration are negotiating a government stake in the AI startup",
-        "summary": "OpenAI and the Trump administration are negotiating a direct government stake in the AI startup. The idea is a \"Public Wealth Fund\" that would pay out directly to American citizens. Senator Bernie Sanders wants to push through a 50 percent tax on AI ",
-        "content": "OpenAI and the Trump administration are negotiating a direct government stake in the AI startup. The idea is a \"Public Wealth Fund\" that would pay out directly to American citizens. Senator Bernie Sanders wants to push through a 50 percent tax on AI shares by law. Critics fear the arrangement could create a \"too big to fail\" dynamic similar to the 2008 financial crisis.\nThe article OpenAI and the Trump administration are negotiating a government stake in the AI startup appeared first on The Deco",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/openai-and-the-trump-administration-are-negotiating-a-government-stake-in-the-ai-startup/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 06 Jun 2026 07:30:43 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
       }
     ],
     "research": [
       {
         "id": "AI-011",
-        "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Meta hack shows there’s more to AI security than Mythos On Monday, reports emerged that attackers had used M",
-        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Meta hack shows there’s more to AI security than Mythos On Monday, reports emerged that attackers had used Meta’s AI customer support agent to steal Instagram accounts. Their approach was…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 05 Jun 2026 12:10:00 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-012",
         "title": "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment",
         "summary": "arXiv:2606.05256v1 Announce Type: new \nAbstract: This study analyzes a publicly released dataset from a discontinued field experiment on Reddit's r/ChangeMyView. The intervention, conducted by unknown, external researchers and halted following ethica",
         "content": "arXiv:2606.05256v1 Announce Type: new \nAbstract: This study analyzes a publicly released dataset from a discontinued field experiment on Reddit's r/ChangeMyView. The intervention, conducted by unknown, external researchers and halted following ethical backlash, involved undisclosed AI-generated accounts engaging users in live debate. After public disclosure, Reddit authorized moderators to release an archive of the AI-generated comments, creating a rare opportunity to examine how large language ",
@@ -246,7 +227,7 @@
         ]
       },
       {
-        "id": "AI-013",
+        "id": "AI-012",
         "title": "What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems",
         "summary": "arXiv:2606.05304v1 Announce Type: new \nAbstract: Multi-agent systems (MAS) built on large language models are typically organized around roles, pipelines, and turn schedules, while the content that agents pass to one another is often left as unconstr",
         "content": "arXiv:2606.05304v1 Announce Type: new \nAbstract: Multi-agent systems (MAS) built on large language models are typically organized around roles, pipelines, and turn schedules, while the content that agents pass to one another is often left as unconstrained natural language. However, this free-form communication can rapidly inflate token usage, consume the shared context window, and ultimately affect both system performance and inference cost. We analyze five common inter-agent communication strat",
@@ -265,7 +246,7 @@
         ]
       },
       {
-        "id": "AI-014",
+        "id": "AI-013",
         "title": "I Know What You Meme, Even If it Emerged Today: Understanding Evolving Memes through Open-World Knowledge Acquisition",
         "summary": "arXiv:2606.05316v1 Announce Type: new \nAbstract: Multimodal memes are dynamic and often require up to date background knowledge for interpretation. Existing methods often overlook such knowledge or rely on fixed parametric knowledge of pretrained mod",
         "content": "arXiv:2606.05316v1 Announce Type: new \nAbstract: Multimodal memes are dynamic and often require up to date background knowledge for interpretation. Existing methods often overlook such knowledge or rely on fixed parametric knowledge of pretrained models that may be incomplete, outdated, or unavailable for emerging memes. We introduce Query Retrieve Conclude, a zero shot framework that identifies missing knowledge, retrieves open web evidence, and synthesizes evidence grounded background knowledg",
@@ -284,7 +265,7 @@
         ]
       },
       {
-        "id": "AI-015",
+        "id": "AI-014",
         "title": "GITCO: Gated Inference-Time Context Optimization in TSFMs",
         "summary": "arXiv:2606.05332v1 Announce Type: new \nAbstract: Patch-based Time Series Foundation Models (TSFMs) suffer from context poisoning: structurally anomalous patches capture disproportionate attention and silently degrade zero-shot forecast quality. We pr",
         "content": "arXiv:2606.05332v1 Announce Type: new \nAbstract: Patch-based Time Series Foundation Models (TSFMs) suffer from context poisoning: structurally anomalous patches capture disproportionate attention and silently degrade zero-shot forecast quality. We propose improving TSFM accuracy at inference time by optimizing the input context rather than modifying model weights. We present GITCO (Gated Inference-Time Context Optimization), a lightweight three-component framework: Gate, Router, and Critic that ",
@@ -301,12 +282,50 @@
         "normalizedTags": [
           "arxiv cs.ai"
         ]
+      },
+      {
+        "id": "AI-015",
+        "title": "Uncertainty Aware Functional Behavior Prediction and Material Fatigue Assessment for Circular Factory",
+        "summary": "arXiv:2606.05334v1 Announce Type: new \nAbstract: Returned products in circular factories re-enter production with heterogeneous degradation states, usage histories, and remaining capability. Reuse cannot be decided from the current inspection alone, ",
+        "content": "arXiv:2606.05334v1 Announce Type: new \nAbstract: Returned products in circular factories re-enter production with heterogeneous degradation states, usage histories, and remaining capability. Reuse cannot be decided from the current inspection alone, because future function fulfillment and component integrity may evolve differently under the next service scenario. Existing PHM approaches support degradation prediction, but often target fixed operating conditions or isolated component benchmarks, ",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2606.05334",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 06 Jun 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ]
       }
     ],
     "applications": [],
     "business": [
       {
         "id": "AI-016",
+        "title": "Here are 3 forces that drove a whirlwind week for the stock market",
+        "summary": "An avalanche of selling on Friday crushed stocks. It was a dramatic reversal from record highs earlier in the week.",
+        "content": "An avalanche of selling on Friday crushed stocks. It was a dramatic reversal from record highs earlier in the week.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/06/06/here-are-3-forces-that-drove-a-whirlwind-week-for-the-stock-market.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 06 Jun 2026 16:38:29 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-017",
         "title": "Social media bans on teens risk strengthening Big Tech's grip on the sector, Bluesky exec warns",
         "summary": "\"We're living in a world where it's almost impossible for smaller entrants to come in and build healthier spaces,\" Bluesky's COO, Rose Wang, told CNBC.",
         "content": "\"We're living in a world where it's almost impossible for smaller entrants to come in and build healthier spaces,\" Bluesky's COO, Rose Wang, told CNBC.",
@@ -323,106 +342,11 @@
         "normalizedTags": [
           "cnbc tech"
         ]
-      },
-      {
-        "id": "AI-017",
-        "title": "Cramer’s week ahead: Stocks face pressure from rates, oil, and a flood of new offerings",
-        "summary": "CNBC’s Jim Cramer warned that rising interest rates, elevated oil prices, and a wave of AI-related stock offerings could continue to pressure the market.",
-        "content": "CNBC’s Jim Cramer warned that rising interest rates, elevated oil prices, and a wave of AI-related stock offerings could continue to pressure the market.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/06/05/cramers-week-ahead-stocks-face-pressure-from-rates-oil-and-a-flood-of-new-offerings.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 05 Jun 2026 22:27:16 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ]
-      },
-      {
-        "id": "AI-018",
-        "title": "Marvell Technology and Flex to join S&P 500 index, replacing Pool and Campbell's",
-        "summary": "The move highlights the growing importance of the technology sector to the stock market.",
-        "content": "The move highlights the growing importance of the technology sector to the stock market.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/06/05/marvell-technology-flex-sp-500-campbells-pool.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 05 Jun 2026 21:36:23 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ]
-      },
-      {
-        "id": "AI-019",
-        "title": "Mythos rejuvenated the cybersecurity sector. Earnings put the recent rally to the test",
-        "summary": "Mythos gave the cybersecurity sector a boost, but upbeat earnings weren't enough for investors in search of an AI payoff.",
-        "content": "Mythos gave the cybersecurity sector a boost, but upbeat earnings weren't enough for investors in search of an AI payoff.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/06/05/mythos-cybersecurity-earnings-palo-alto-crowdstrike.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 05 Jun 2026 20:25:09 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ]
-      },
-      {
-        "id": "AI-020",
-        "title": "Google to pay SpaceX $920 million a month for compute capacity at xAI data centers",
-        "summary": "Ahead of a planned IPO, SpaceX inked a deal to rent compute capacity to Google for $920 million per month for 32 months.",
-        "content": "Ahead of a planned IPO, SpaceX inked a deal to rent compute capacity to Google for $920 million per month for 32 months.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 05 Jun 2026 21:01:53 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ]
       }
     ],
     "policy": [
       {
-        "id": "AI-021",
-        "title": "Why the SpaceX IPO Will Affect Your 401(k), Like It or Not",
-        "summary": "Elon Musk’s rocket company, on the cusp of the largest initial public offering ever, will soon end up in index funds after rule changes by Nasdaq and other index providers.",
-        "content": "Elon Musk’s rocket company, on the cusp of the largest initial public offering ever, will soon end up in index funds after rule changes by Nasdaq and other index providers.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/06/05/technology/spacex-indexes-401k.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 05 Jun 2026 14:59:26 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-022",
+        "id": "AI-018",
         "title": "People Love to Hate This Fake Private Equity Guy",
         "summary": "Johnny Hilbrant Partridge has found social media fame as PE Guy, a character who embodies obnoxious entitlement.",
         "content": "Johnny Hilbrant Partridge has found social media fame as PE Guy, a character who embodies obnoxious entitlement.",
@@ -441,7 +365,7 @@
         ]
       },
       {
-        "id": "AI-023",
+        "id": "AI-019",
         "title": "SpaceX Has $30 Billion Deal to Provide Google With A.I. Computing Power",
         "summary": "Elon Musk’s rocket company said Google would pay it $920 million a month, as it prepared for its initial public offering.",
         "content": "Elon Musk’s rocket company said Google would pay it $920 million a month, as it prepared for its initial public offering.",
@@ -458,69 +382,31 @@
         "normalizedTags": [
           "nyt technology"
         ]
-      },
-      {
-        "id": "AI-024",
-        "title": "Reid Hoffman to Leave Microsoft’s Board of Directors",
-        "summary": "The LinkedIn co-founder was a key bridge to Microsoft’s relationship with OpenAI, but he also came with some baggage.",
-        "content": "The LinkedIn co-founder was a key bridge to Microsoft’s relationship with OpenAI, but he also came with some baggage.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/06/05/technology/reid-hoffman-leaving-microsoft-board.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 05 Jun 2026 18:25:38 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-025",
-        "title": "SpaceX IPO to Be Largest Ever at $135 Share Price",
-        "summary": "The $135 share price means Elon Musk’s rocket maker is poised to exceed the 2019 initial public offering of Saudi Aramco in both valuation and money raised.",
-        "content": "The $135 share price means Elon Musk’s rocket maker is poised to exceed the 2019 initial public offering of Saudi Aramco in both valuation and money raised.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/06/03/technology/spacex-ipo-pricing.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 05 Jun 2026 13:41:57 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
       }
     ],
     "concerns": [],
     "culture": [
       {
-        "id": "AI-026",
-        "title": "Labour will make AI ‘work for the workers’, says Liz Kendall",
-        "summary": "Technology secretary promises to support people whose jobs are swept away by automation\nLiz Kendall has insisted Labour will make artificial intelligence “work for workers”, and not abandon people whose jobs are swept away by its rapid advance.\nWith ",
-        "content": "Technology secretary promises to support people whose jobs are swept away by automation\nLiz Kendall has insisted Labour will make artificial intelligence “work for workers”, and not abandon people whose jobs are swept away by its rapid advance.\nWith public fears mounting about the impact of AI on employment, particularly for young people, the technology secretary claimed that the government could shape the way it is adopted.\n Continue reading...",
+        "id": "AI-020",
+        "title": "Suit filed against controversial planned Stratos datacenter project in Utah",
+        "summary": "Plan backed by Shark Tank’s Kevin O’Leary had footprint reduced but concerns remain over its health impacts\nUtah residents have teamed up with a progressive non-profit organization to sue over an under-development AI datacenter backed by celebrity in",
+        "content": "Plan backed by Shark Tank’s Kevin O’Leary had footprint reduced but concerns remain over its health impacts\nUtah residents have teamed up with a progressive non-profit organization to sue over an under-development AI datacenter backed by celebrity investor Kevin O’Leary, claiming the planned Stratos project facility “irrevocably” cuts off citizens’ rights by not allowing sufficient public input.\nFiled by the Alliance for a Better Utah and five unnamed residents of the Box Elder county area where",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/jun/05/labour-will-make-ai-work-for-workers-liz-kendall",
+        "sourceUrl": "https://www.theguardian.com/us-news/2026/jun/06/stratos-datacenter-utah-suit",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Fri, 05 Jun 2026 17:00:04 GMT",
+        "publishedAt": "Sat, 06 Jun 2026 20:07:35 GMT",
         "normalizedTags": [
           "the guardian ai"
         ]
       },
       {
-        "id": "AI-027",
+        "id": "AI-021",
         "title": "‘We should not have to sacrifice’: New York could become first state to temporarily ban large datacenters",
         "summary": "Kristen Gonzalez, a state senator who authored the bill, said moratorium would target ‘hyperscale’ datacenters over 20MW\nNew York moved closer toward becoming the first US state to enact a moratorium on large datacenters this week. On Thursday, the s",
         "content": "Kristen Gonzalez, a state senator who authored the bill, said moratorium would target ‘hyperscale’ datacenters over 20MW\nNew York moved closer toward becoming the first US state to enact a moratorium on large datacenters this week. On Thursday, the state legislature approved a one-year ban on the facilities powering the AI boom.\nThe measure now heads to Kathy Hochul, the governor, who will decide whether to sign it into law. The Guardian spoke to a state senator in the wake of the historic vote ",
@@ -539,7 +425,7 @@
         ]
       },
       {
-        "id": "AI-028",
+        "id": "AI-022",
         "title": "It’s no surprise that an AI-faked presidential speech condemning foreign exploitation went viral – the world is suffering from a leadership vacuum",
         "summary": "Attributed to the president of Namibia, the speech is still being shared as citizens across Africa and the Caribbean cry out for moral leaders willing to speak uncomfortable truths\nFor a moment, the speech attributed to Namibia’s president travelled ",
         "content": "Attributed to the president of Namibia, the speech is still being shared as citizens across Africa and the Caribbean cry out for moral leaders willing to speak uncomfortable truths\nFor a moment, the speech attributed to Namibia’s president travelled across the world like a gust of hope. It was fierce. Defiant. Unapologetically sovereign. The speaker denounced corruption, condemned foreign exploitation and declared that Africa’s resources belonged not to politicians or multinational corporations ",
@@ -558,41 +444,22 @@
         ]
       },
       {
-        "id": "AI-029",
-        "title": "Fifa expanding AI use at World Cup to reduce amount of abuse seen by players",
-        "summary": "Social media protection service offered by Fifa\n\nEnglish FA yet to confirm whether it will use service\n\nFifa will expand the use of AI at the World Cup to reduce the amount of abusive messages that teams and players are exposed to on social media.\nWo",
-        "content": "Social media protection service offered by Fifa\n\nEnglish FA yet to confirm whether it will use service\n\nFifa will expand the use of AI at the World Cup to reduce the amount of abusive messages that teams and players are exposed to on social media.\nWorld football’s governing body introduced a social media protection service after the 2022 World Cup in Qatar and has offered its moderation element for free to all football associations at the 2026 tournament, which starts next Thursday. The Football",
+        "id": "AI-023",
+        "title": "Crypto-Funded Chinese Peptide Labs Are Booming",
+        "summary": "Plus: Hackers use Meta’s AI bots to hack Instagram accounts, Anthropic helps NSA hackers, a decades-long GPS satellite mystery may have been solved, and more.",
+        "content": "Plus: Hackers use Meta’s AI bots to hack Instagram accounts, Anthropic helps NSA hackers, a decades-long GPS satellite mystery may have been solved, and more.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/football/2026/jun/05/fifa-expanding-ai-use-at-world-cup-to-reduce-amount-of-abuse-seen-by-players",
-        "sourceName": "The Guardian AI",
+        "sourceUrl": "https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/",
+        "sourceName": "Wired AI",
         "tags": [
-          "The Guardian AI"
+          "Wired AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Fri, 05 Jun 2026 16:00:03 GMT",
+        "publishedAt": "Sat, 06 Jun 2026 10:30:00 +0000",
         "normalizedTags": [
-          "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-030",
-        "title": "Anthropic says the world should have option to ‘pause’ on AI",
-        "summary": "US firm says it will convene policymakers for discussion of dangers, in post detailing progress of its Claude model\nAnthropic has floated the idea of a worldwide “temporary pause” on AI development – and said it was going to convene “policymakers” to",
-        "content": "US firm says it will convene policymakers for discussion of dangers, in post detailing progress of its Claude model\nAnthropic has floated the idea of a worldwide “temporary pause” on AI development – and said it was going to convene “policymakers” to discuss the dangers of advanced AI – in its latest release touting the capabilities of its products.\nIn a long post on Thursday, Anthropic detailed the progress of its AI model, Claude, towards “recursive self-improvement” – that is, being able to m",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/jun/05/anthropic-urges-temporary-pause-on-ai-development-to-discuss-risks",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 05 Jun 2026 15:35:24 GMT",
-        "normalizedTags": [
-          "the guardian ai"
+          "wired ai"
         ]
       }
     ]
@@ -603,36 +470,29 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
-    "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-    "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
-    "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
-    "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
+    "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+    "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+    "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+    "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+    "https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center",
+    "https://the-decoder.com/sakana-ai-bets-ai-that-improves-itself-can-break-the-compute-arms-race-of-frontier-labs/",
     "https://the-decoder.com/metas-hatch-ai-agent-could-cost-up-to-200-a-month-and-marks-its-first-paid-ai-product/",
     "https://the-decoder.com/elon-musks-xai-reportedly-trained-its-coding-models-on-claude-outputs-for-months-before-getting-cut-off/",
     "https://the-decoder.com/new-open-source-voice-model-listens-nonstop-and-decides-every-0-4-seconds-whether-to-speak-or-stay-silent/",
     "https://the-decoder.com/spacex-signs-920-million-per-month-deal-with-google-for-110000-nvidia-ai-chips-ahead-of-ipo/",
-    "https://the-decoder.com/openai-and-the-trump-administration-are-negotiating-a-government-stake-in-the-ai-startup/",
-    "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
     "https://arxiv.org/abs/2606.05256",
     "https://arxiv.org/abs/2606.05304",
     "https://arxiv.org/abs/2606.05316",
     "https://arxiv.org/abs/2606.05332",
+    "https://arxiv.org/abs/2606.05334",
+    "https://www.cnbc.com/2026/06/06/here-are-3-forces-that-drove-a-whirlwind-week-for-the-stock-market.html",
     "https://www.cnbc.com/2026/06/06/bluesky-teen-social-media-ban-monopolies.html",
-    "https://www.cnbc.com/2026/06/05/cramers-week-ahead-stocks-face-pressure-from-rates-oil-and-a-flood-of-new-offerings.html",
-    "https://www.cnbc.com/2026/06/05/marvell-technology-flex-sp-500-campbells-pool.html",
-    "https://www.cnbc.com/2026/06/05/mythos-cybersecurity-earnings-palo-alto-crowdstrike.html",
-    "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
-    "https://www.nytimes.com/2026/06/05/technology/spacex-indexes-401k.html",
     "https://www.nytimes.com/2026/06/06/style/people-love-to-hate-this-fake-private-equity-guy.html",
     "https://www.nytimes.com/2026/06/05/technology/spacex-google-deal.html",
-    "https://www.nytimes.com/2026/06/05/technology/reid-hoffman-leaving-microsoft-board.html",
-    "https://www.nytimes.com/2026/06/03/technology/spacex-ipo-pricing.html",
-    "https://www.theguardian.com/technology/2026/jun/05/labour-will-make-ai-work-for-workers-liz-kendall",
+    "https://www.theguardian.com/us-news/2026/jun/06/stratos-datacenter-utah-suit",
     "https://www.theguardian.com/us-news/2026/jun/06/new-york-datacenter-temporary-ban",
     "https://www.theguardian.com/global-development/2026/jun/06/african-leader-speech-decolonisation-ai-generated-fake-president-namibia-africa-caribbean",
-    "https://www.theguardian.com/football/2026/jun/05/fifa-expanding-ai-use-at-world-cup-to-reduce-amount-of-abuse-seen-by-players",
-    "https://www.theguardian.com/technology/2026/jun/05/anthropic-urges-temporary-pause-on-ai-development-to-discuss-risks"
+    "https://www.wired.com/story/security-news-this-week-crypto-funded-chinese-peptide-labs-are-booming/"
   ],
-  "generatedAt": "2026-06-06T12:04:11.297Z"
+  "generatedAt": "2026-06-06T23:57:15.976Z"
 }
