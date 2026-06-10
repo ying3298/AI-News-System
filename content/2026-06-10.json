@@ -1,0 +1,638 @@
+{
+  "date": "2026-06-10",
+  "dateFormatted": "June 10, 2026",
+  "headline": {
+    "title": "How Justin Ernest invested nearly $400M into hot startups without a traditional VC fund",
+    "summary": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest startups like Anthropic, Anduril, and SpaceX.",
+    "sourceUrl": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-400m-into-hot-startups-without-a-traditional-vc-fund/",
+    "sourceName": "TechCrunch AI"
+  },
+  "simpleSummary": [
+    "Today's edition was assembled directly from RSS feeds without AI curation.",
+    "Browse the stories below for the latest AI news."
+  ],
+  "sections": {
+    "tools": [
+      {
+        "id": "AI-001",
+        "title": "How Justin Ernest invested nearly $400M into hot startups without a traditional VC fund",
+        "summary": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest startups like Anthropic, Anduril, and SpaceX.",
+        "content": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest startups like Anthropic, Anduril, and SpaceX.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-400m-into-hot-startups-without-a-traditional-vc-fund/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 09 Jun 2026 23:17:51 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-002",
+        "title": "Hey, Siri, here’s what I actually want from AI",
+        "summary": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
+        "content": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 09 Jun 2026 20:50:17 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-003",
+        "title": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
+        "summary": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders.",
+        "content": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 09 Jun 2026 20:37:49 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-004",
+        "title": "Can tech companies learn to love cheaper AI models? ",
+        "summary": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
+        "content": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 09 Jun 2026 18:56:09 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-005",
+        "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+        "summary": "Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helping of AI.",
+        "content": "Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helping of AI.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 09 Jun 2026 18:04:24 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      }
+    ],
+    "creative": [
+      {
+        "id": "AI-006",
+        "title": "Anthropic releases Claude Fable 5 and Mythos 5 with major gains in coding and science",
+        "summary": "Anthropic ships two new models, Claude Fable 5 and Mythos 5, that claim to blow past the current Opus generation, especially in coding and research. Fable 5 finished a code migration for Stripe in one day that would have taken a team two months. Myth",
+        "content": "Anthropic ships two new models, Claude Fable 5 and Mythos 5, that claim to blow past the current Opus generation, especially in coding and research. Fable 5 finished a code migration for Stripe in one day that would have taken a team two months. Mythos 5 designed drug candidates on its own but stays locked down for now due to its offensive cyber capabilities.\nThe article Anthropic releases Claude Fable 5 and Mythos 5 with major gains in coding and science appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/anthropic-releases-claude-fable-5-and-mythos-5-with-major-gains-in-coding-and-science/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 09 Jun 2026 18:25:19 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-007",
+        "title": "Google's Gemini 3.5 Live Translate delivers real-time voice translation across 70+ languages",
+        "summary": "Google releases Gemini 3.5 Live Translate, an audio model for real-time translation across more than 70 languages. The system translates continuously without waiting for a sentence to end and claims to preserve the speaker's tone, pace, and pitch. In",
+        "content": "Google releases Gemini 3.5 Live Translate, an audio model for real-time translation across more than 70 languages. The system translates continuously without waiting for a sentence to end and claims to preserve the speaker's tone, pace, and pitch. In Google Meet, language support jumps from five to over 70 languages.\nThe article Google's Gemini 3.5 Live Translate delivers real-time voice translation across 70+ languages appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/googles-gemini-3-5-live-translate-delivers-real-time-voice-translation-across-70-languages/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 09 Jun 2026 17:18:59 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-008",
+        "title": "SpaceX wants to put data centers in orbit, and Musk says it's no big deal",
+        "summary": "SpaceX wants to launch data centers into space, and Elon Musk is pitching it as a near-trivial engineering problem ahead of the company's IPO. A first AI satellite would match the output of a single Nvidia GB300 rack. But Google's own research sugges",
+        "content": "SpaceX wants to launch data centers into space, and Elon Musk is pitching it as a near-trivial engineering problem ahead of the company's IPO. A first AI satellite would match the output of a single Nvidia GB300 rack. But Google's own research suggests real AI training would require about 10,000 tightly coupled satellites.\nThe article SpaceX wants to put data centers in orbit, and Musk says it's no big deal appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/spacex-wants-to-put-data-centers-in-orbit-and-musk-says-its-no-big-deal/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 09 Jun 2026 16:09:18 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-009",
+        "title": "Landmark German ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers",
+        "summary": "A German regional court has ruled that Google is directly liable for the content of its AI search overviews. According to the court, previous limited liability protections for search engine operators don't apply to AI overviews. In this case, Google'",
+        "content": "A German regional court has ruled that Google is directly liable for the content of its AI search overviews. According to the court, previous limited liability protections for search engine operators don't apply to AI overviews. In this case, Google's AI had falsely linked two publishers to fraud and made claims that didn't appear in any of the linked sources. The ruling could set a precedent for AI-generated content liability worldwide.\nThe article Landmark German ruling declares Google's AI Ov",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 09 Jun 2026 15:55:53 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-010",
+        "title": "Beijing's $295 billion AI buildout would require 80 percent domestic chips, locking out US suppliers",
+        "summary": "China plans to invest roughly $295 billion in a nationwide AI data center network over the next five years, Bloomberg reports. At least 80 percent of the technology would come from domestic suppliers like Huawei. Meanwhile, Taiwan is considering maki",
+        "content": "China plans to invest roughly $295 billion in a nationwide AI data center network over the next five years, Bloomberg reports. At least 80 percent of the technology would come from domestic suppliers like Huawei. Meanwhile, Taiwan is considering making AI chip smuggling to China a criminal offense for the first time.\nThe article Beijing's $295 billion AI buildout would require 80 percent domestic chips, locking out US suppliers appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/beijings-295-billion-ai-buildout-would-require-80-percent-domestic-chips-locking-out-us-suppliers/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 09 Jun 2026 13:54:49 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      }
+    ],
+    "research": [
+      {
+        "id": "AI-011",
+        "title": "The Download: whole-body rejuvenation drugs and five things to know about AI",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition The outspoken longevity sci",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition The outspoken longevity scientist David Sinclair has predicted that, one day, you’ll go to the doctor and get a…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/06/09/1138604/the-download-anti-aging-drugs-ai-five-things-to-know/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 09 Jun 2026 12:10:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-012",
+        "title": "Learning to lead in a hybrid human-AI enterprise",
+        "summary": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce.  Unlike existing enterprise-level automation that relies on manual input",
+        "content": "As adoption of AI agents looks set to surge by as much as 300% in the next two years, leadership teams are carefully considering the implications of a hybrid human-AI workforce.  Unlike existing enterprise-level automation that relies on manual input, AI agents are capable of autonomously coordinating complex tasks, interacting with multiple tools and environments across…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 09 Jun 2026 10:20:06 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-013",
+        "title": "David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition",
+        "summary": "The outspoken longevity scientist David Sinclair has been predicting that one day, you’ll go to the doctor and get a prescription that will make you 10 years younger. Now MIT Technology Review has learned that he has plans to launch human tests of an",
+        "content": "The outspoken longevity scientist David Sinclair has been predicting that one day, you’ll go to the doctor and get a prescription that will make you 10 years younger. Now MIT Technology Review has learned that he has plans to launch human tests of an oral “reprogramming” drug as part of a $101 million competition organized…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/06/09/1138545/david-sinclair-plans-to-test-whole-body-rejuvenation-drugs-in-the-xprize-competition/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 09 Jun 2026 10:00:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-014",
+        "title": "Five things you need to know about AI",
+        "summary": "At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 list, an annual guide to the most important trends",
+        "content": "At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 list, an annual guide to the most important trends in this buzzy world,…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 09 Jun 2026 09:16:45 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-015",
+        "title": "PathoSage: Towards Multi-Source Evidence Adjudication in Pathology via Experience-Aware Agentic Workflow",
+        "summary": "arXiv:2606.07549v1 Announce Type: new \nAbstract: Recent advances in Multimodal Large Language Models (MLLMs) and agent workflows have shown strong promise for computational pathology, yet reliable patch-level reasoning remains challenging. End-to-end",
+        "content": "arXiv:2606.07549v1 Announce Type: new \nAbstract: Recent advances in Multimodal Large Language Models (MLLMs) and agent workflows have shown strong promise for computational pathology, yet reliable patch-level reasoning remains challenging. End-to-end pathology MLLMs often hallucinate morphological features, while recent agentic systems usually merge tool outputs and retrieved knowledge into a shared context, making decisions vulnerable to conflicting evidence and context contamination. We propos",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2606.07549",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 09 Jun 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ]
+      }
+    ],
+    "applications": [],
+    "business": [
+      {
+        "id": "AI-016",
+        "title": "Entergy CEO pushes back on fears that AI data centers will drive up electricity bills",
+        "summary": "Entergy CEO Drew Marsh said data centers can be a win for local communities rather than a burden on residents.",
+        "content": "Entergy CEO Drew Marsh said data centers can be a win for local communities rather than a burden on residents.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/06/09/entergy-ceo-pushes-back-fears-ai-data-centers-drive-up-electricity-bills.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 09 Jun 2026 22:49:27 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-017",
+        "title": "Jim Cramer says tech stocks are losing the qualities that made them the leaders of the rally",
+        "summary": "CNBC's Jim Cramer said tech stocks are losing key traits that fueled their leadership since 2023.",
+        "content": "CNBC's Jim Cramer said tech stocks are losing key traits that fueled their leadership since 2023.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/06/09/jim-cramer-tech-stocks-losing-qualities-leaders-rally.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 09 Jun 2026 22:30:41 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-018",
+        "title": "Super Micro stock tumbles on $7 billion financing plans as company touts AI server orders",
+        "summary": "Super Micro is the latest company tied to the AI boom to announce that it's tapping the capital markets.",
+        "content": "Super Micro is the latest company tied to the AI boom to announce that it's tapping the capital markets.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/06/09/super-micro-stock-tumbles-on-7-billion-financing-plans.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 09 Jun 2026 22:29:25 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-019",
+        "title": "GM eyes new battery chemistry to grow AI data center, energy storage business",
+        "summary": "GM is expanding efforts to capitalize on the expected growth of energy storage and data centers and the development of next-generation sodium-ion batteries.",
+        "content": "GM is expanding efforts to capitalize on the expected growth of energy storage and data centers and the development of next-generation sodium-ion batteries.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/06/09/gm-batteries-data-centers-energy-storage-business.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 09 Jun 2026 21:02:10 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-020",
+        "title": "SpaceX IPO explained: The price is set, but retail allocation still up in the air",
+        "summary": "Charles Schwab, Fidelity, Robinhood, SoFi and Morgan Stanley's E-Trade are among the brokerage platforms making SpaceX shares available.",
+        "content": "Charles Schwab, Fidelity, Robinhood, SoFi and Morgan Stanley's E-Trade are among the brokerage platforms making SpaceX shares available.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/06/09/spacex-ipo-explained-stock-price-date.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 09 Jun 2026 20:43:46 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      }
+    ],
+    "policy": [
+      {
+        "id": "AI-021",
+        "title": "Dutch Authorities Block $115 Million Deal by a U.S. Tech Company",
+        "summary": "The Netherlands blocked a U.S. company from buying a Dutch firm that handles its national ID system, saying it would create a “threat to the public interest.”",
+        "content": "The Netherlands blocked a U.S. company from buying a Dutch firm that handles its national ID system, saying it would create a “threat to the public interest.”",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/06/09/technology/solvinity-kyndryl-blocked-deal-us-europe-rift.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 09 Jun 2026 14:52:00 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-022",
+        "title": "Why Apple’s A.I. Upgrade for Siri Won’t Be Available in Europe",
+        "summary": "A regulatory dispute has indefinitely delayed the release of Siri AI.",
+        "content": "A regulatory dispute has indefinitely delayed the release of Siri AI.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/06/09/business/apple-siri-ai-europe.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 09 Jun 2026 18:29:08 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-023",
+        "title": "In the Hybrid A.I.-Human Work Force, Who Will Actually Thrive?",
+        "summary": "A panel of experts explains how job seekers should prepare for the future of work.",
+        "content": "A panel of experts explains how job seekers should prepare for the future of work.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/06/09/magazine/ai-jobs-workforce-labor.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 09 Jun 2026 09:00:38 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-024",
+        "title": "G.M. Plans to Develop Energy Storage Batteries as E.V. Sales Flag",
+        "summary": "The carmaker will follow Tesla in making components for large batteries used by electric utilities, data centers and other businesses to handle fluctuations in power supply and demand.",
+        "content": "The carmaker will follow Tesla in making components for large batteries used by electric utilities, data centers and other businesses to handle fluctuations in power supply and demand.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/06/09/business/energy-environment/general-motors-storage-batteries-electric-vehicles.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 09 Jun 2026 23:29:08 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-025",
+        "title": "Meta A.I. Bug Allowed Hackers to Take Over Instagram Accounts",
+        "summary": "The flaw, which Meta said it had fixed, allowed anyone to take over accounts using a bug in the company’s new artificial intelligence software.",
+        "content": "The flaw, which Meta said it had fixed, allowed anyone to take over accounts using a bug in the company’s new artificial intelligence software.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/06/09/technology/instagram-hack-ai-bug.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 09 Jun 2026 23:51:26 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      }
+    ],
+    "concerns": [],
+    "culture": [
+      {
+        "id": "AI-026",
+        "title": "Anthropic releases ‘safe’ version of Claude Mythos AI model to public",
+        "summary": "AI company restricted access to Fable 5, its most powerful Mythos model, for months over cybersecurity concerns\nAnthropic, the maker of the Claude artificial intelligence (AI) models, made a new version of its technology available to the general publ",
+        "content": "AI company restricted access to Fable 5, its most powerful Mythos model, for months over cybersecurity concerns\nAnthropic, the maker of the Claude artificial intelligence (AI) models, made a new version of its technology available to the general public on Tuesday while restricting its use in sensitive areas.\nDubbed Fable 5, the model is the first to be made widely available from the company’s new Mythos class – its most advanced lineup of AI technology, unveiled in April but restricted to a smal",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/jun/09/anthropic-claude-mythos-ai-model",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 09 Jun 2026 22:28:29 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-027",
+        "title": "Crackdown on tech platforms will go ahead despite US intervention, says No 10",
+        "summary": "US embassy came out against UK’s proposed under-16 social media ban, which would affect American firms\nWhite House displeasure over the prospect of an under-16 social media ban will not deter the UK from cracking down on tech platforms, the British g",
+        "content": "US embassy came out against UK’s proposed under-16 social media ban, which would affect American firms\nWhite House displeasure over the prospect of an under-16 social media ban will not deter the UK from cracking down on tech platforms, the British government has said.\nThe technology secretary, Liz Kendall, told the Guardian she was not concerned “in the slightest” by the Trump administration’s intervention in the debate over restrictions, after the US embassy in London posted a notice warning a",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/uk-news/2026/jun/09/crackdown-on-tech-platforms-will-go-ahead-despite-us-intervention-says-no-10",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 09 Jun 2026 17:47:57 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-028",
+        "title": "Palantir to sue Sadiq Khan over blocked £50m Met police contract",
+        "summary": "US spy-tech company to challenge London mayor’s intervention after he raised concerns over breach of procurement rules\nPalantir intends to sue the London mayor, Sadiq Khan, after he blocked a contract between the US spy-tech firm and the Metropolitan",
+        "content": "US spy-tech company to challenge London mayor’s intervention after he raised concerns over breach of procurement rules\nPalantir intends to sue the London mayor, Sadiq Khan, after he blocked a contract between the US spy-tech firm and the Metropolitan police.\nThe Met had planned to use Palantir’s software to automate intelligence analysis in criminal investigations, until Khan intervened in late May, sparking a row between the UK’s largest police force and the mayor’s office.\n Continue reading...",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/uk-news/2026/jun/09/palantir-sue-khan-blocked-met-contract",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 09 Jun 2026 15:13:56 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-029",
+        "title": "All signs point to Trump pushing AI growth",
+        "summary": "Also: Anthropic advocates for a ‘pause’ on AI advancement – days after filing to go public on the US stock market\nHello, and welcome to TechScape. I’m your host, Blake Montgomery, the US tech editor at the Guardian. Today we’re discussing Donald Trum",
+        "content": "Also: Anthropic advocates for a ‘pause’ on AI advancement – days after filing to go public on the US stock market\nHello, and welcome to TechScape. I’m your host, Blake Montgomery, the US tech editor at the Guardian. Today we’re discussing Donald Trump’s neediness for AI and the contradictions of Anthropic’s safety-first posture.\nOpenAI confidentially files for initial public offering on US stock market\nApple debuts revamped ‘Siri AI’ and new child safety features for iPhones and iPads\nThe Guardi",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/jun/08/trump-ai-growth-anthropic",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 09 Jun 2026 13:06:03 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-030",
+        "title": "Bank of England warns of AI scams as deepfakes of Farage-Bailey fight spread",
+        "summary": "Governor urges people to report videos on X that falsely show the men clashing in the Question Time studio \nThe Bank of England has warned the public against falling for AI-generated scams after deepfake videos of Nigel Farage fighting its governor s",
+        "content": "Governor urges people to report videos on X that falsely show the men clashing in the Question Time studio \nThe Bank of England has warned the public against falling for AI-generated scams after deepfake videos of Nigel Farage fighting its governor spread online.\nAndrew Bailey, the head of the BoE, said AI-generated content related to central banks was spreading and urged people to be “vigilant”.\n Continue reading...",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/business/2026/jun/09/bank-of-england-ai-scams-deepfakes-nigel-farage-andrew-bailey-fight-x-question-time",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 09 Jun 2026 11:01:05 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      }
+    ]
+  },
+  "quote": {
+    "text": "The best way to predict the future is to invent it.",
+    "author": "Alan Kay",
+    "authorTitle": "Computer Scientist"
+  },
+  "sources": [
+    "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-400m-into-hot-startups-without-a-traditional-vc-fund/",
+    "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+    "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
+    "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+    "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+    "https://the-decoder.com/anthropic-releases-claude-fable-5-and-mythos-5-with-major-gains-in-coding-and-science/",
+    "https://the-decoder.com/googles-gemini-3-5-live-translate-delivers-real-time-voice-translation-across-70-languages/",
+    "https://the-decoder.com/spacex-wants-to-put-data-centers-in-orbit-and-musk-says-its-no-big-deal/",
+    "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+    "https://the-decoder.com/beijings-295-billion-ai-buildout-would-require-80-percent-domestic-chips-locking-out-us-suppliers/",
+    "https://www.technologyreview.com/2026/06/09/1138604/the-download-anti-aging-drugs-ai-five-things-to-know/",
+    "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
+    "https://www.technologyreview.com/2026/06/09/1138545/david-sinclair-plans-to-test-whole-body-rejuvenation-drugs-in-the-xprize-competition/",
+    "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
+    "https://arxiv.org/abs/2606.07549",
+    "https://www.cnbc.com/2026/06/09/entergy-ceo-pushes-back-fears-ai-data-centers-drive-up-electricity-bills.html",
+    "https://www.cnbc.com/2026/06/09/jim-cramer-tech-stocks-losing-qualities-leaders-rally.html",
+    "https://www.cnbc.com/2026/06/09/super-micro-stock-tumbles-on-7-billion-financing-plans.html",
+    "https://www.cnbc.com/2026/06/09/gm-batteries-data-centers-energy-storage-business.html",
+    "https://www.cnbc.com/2026/06/09/spacex-ipo-explained-stock-price-date.html",
+    "https://www.nytimes.com/2026/06/09/technology/solvinity-kyndryl-blocked-deal-us-europe-rift.html",
+    "https://www.nytimes.com/2026/06/09/business/apple-siri-ai-europe.html",
+    "https://www.nytimes.com/2026/06/09/magazine/ai-jobs-workforce-labor.html",
+    "https://www.nytimes.com/2026/06/09/business/energy-environment/general-motors-storage-batteries-electric-vehicles.html",
+    "https://www.nytimes.com/2026/06/09/technology/instagram-hack-ai-bug.html",
+    "https://www.theguardian.com/technology/2026/jun/09/anthropic-claude-mythos-ai-model",
+    "https://www.theguardian.com/uk-news/2026/jun/09/crackdown-on-tech-platforms-will-go-ahead-despite-us-intervention-says-no-10",
+    "https://www.theguardian.com/uk-news/2026/jun/09/palantir-sue-khan-blocked-met-contract",
+    "https://www.theguardian.com/technology/2026/jun/08/trump-ai-growth-anthropic",
+    "https://www.theguardian.com/business/2026/jun/09/bank-of-england-ai-scams-deepfakes-nigel-farage-andrew-bailey-fight-x-question-time"
+  ],
+  "generatedAt": "2026-06-10T00:05:12.931Z"
+}
