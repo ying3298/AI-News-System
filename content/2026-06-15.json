@@ -1,0 +1,437 @@
+{
+  "date": "2026-06-15",
+  "dateFormatted": "June 15, 2026",
+  "headline": {
+    "title": "As AI companies race to go public, who else is along for the ride?",
+    "summary": "Startups are trying to \"ride that SpaceX IPO wave.\"",
+    "sourceUrl": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+    "sourceName": "TechCrunch AI"
+  },
+  "simpleSummary": [
+    "Today's edition was assembled directly from RSS feeds without AI curation.",
+    "Browse the stories below for the latest AI news."
+  ],
+  "sections": {
+    "tools": [
+      {
+        "id": "AI-001",
+        "title": "As AI companies race to go public, who else is along for the ride?",
+        "summary": "Startups are trying to \"ride that SpaceX IPO wave.\"",
+        "content": "Startups are trying to \"ride that SpaceX IPO wave.\"",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 14 Jun 2026 16:38:09 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-002",
+        "title": "As Anthropic suspends access to new models, India debates its AI future",
+        "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
+        "content": "Tech leaders debate whether the Anthropic episode is a wake-up call for India’s AI ambitions.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 14 Jun 2026 03:00:00 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-003",
+        "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+        "summary": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
+        "content": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 14 Jun 2026 00:03:49 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-004",
+        "title": "China may have accessed Mythos",
+        "summary": "According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese government actually had access to ",
+        "content": "According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China. If the Chinese government actually had access to Mythos 5 or Fable 5, it would present a serious national security risk. The government could also attempt to reverse engineer the model through distillation, a method in which a \"student\" AI is trained on a more advanced model to replicate its behavi",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+        "sourceName": "The Verge AI",
+        "tags": [
+          "The Verge AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "2026-06-14T18:27:55.000Z",
+        "normalizedTags": [
+          "the verge ai"
+        ]
+      },
+      {
+        "id": "AI-005",
+        "title": "Introducing the OpenAI Partner Network",
+        "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+        "content": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://openai.com/index/introducing-openai-partner-network",
+        "sourceName": "OpenAI Blog",
+        "tags": [
+          "OpenAI Blog"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 14 Jun 2026 17:00:00 GMT",
+        "normalizedTags": [
+          "openai blog"
+        ]
+      }
+    ],
+    "creative": [
+      {
+        "id": "AI-006",
+        "title": "Microsoft Research's Mirage gives video generation a persistent spatial memory that doesn't forget what's around the corner",
+        "summary": "Mirage, a video world model from Microsoft Research and several universities, stores scene information directly in latent space instead of pixel-based point clouds. That slashes compute time and graphics memory while keeping scenes spatially consiste",
+        "content": "Mirage, a video world model from Microsoft Research and several universities, stores scene information directly in latent space instead of pixel-based point clouds. That slashes compute time and graphics memory while keeping scenes spatially consistent through long camera moves. It still can't reliably track moving objects across segments.\nThe article Microsoft Research's Mirage gives video generation a persistent spatial memory that doesn't forget what's around the corner appeared first on The ",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/microsoft-researchs-mirage-gives-video-generation-a-persistent-spatial-memory-that-doesnt-forget-whats-around-the-corner/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 14 Jun 2026 13:58:17 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-007",
+        "title": "Google Cloud's Open Knowledge Format turns scattered docs into Markdown files for AI agents",
+        "summary": "Google Cloud's new Open Knowledge Format (OKF) standardizes scattered organizational knowledge as Markdown files with YAML frontmatter, making it portable and usable for AI agents. The minimalist spec formalizes a pattern Andrej Karpathy recently pop",
+        "content": "Google Cloud's new Open Knowledge Format (OKF) standardizes scattered organizational knowledge as Markdown files with YAML frontmatter, making it portable and usable for AI agents. The minimalist spec formalizes a pattern Andrej Karpathy recently popularized as the \"LLM Wiki.\"\nThe article Google Cloud's Open Knowledge Format turns scattered docs into Markdown files for AI agents appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/google-clouds-open-knowledge-format-turns-scattered-docs-into-markdown-files-for-ai-agents/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 14 Jun 2026 13:29:52 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-008",
+        "title": "KPMG fabricated AI case studies in a report designed to sell clients on AI adoption",
+        "summary": "KPMG published a report on AI in business that contained fabricated case studies involving UBS, the NHS, and other organizations. GPTZero CEO Edward Tian, who helped uncover the errors, warns of \"secondary hallucinations,\" flawed claims from trusted ",
+        "content": "KPMG published a report on AI in business that contained fabricated case studies involving UBS, the NHS, and other organizations. GPTZero CEO Edward Tian, who helped uncover the errors, warns of \"secondary hallucinations,\" flawed claims from trusted consulting firms that spread unchecked. KPMG has since pulled the report.\nThe article KPMG fabricated AI case studies in a report designed to sell clients on AI adoption appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/kpmg-fabricated-ai-case-studies-in-a-report-designed-to-sell-clients-on-ai-adoption/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 14 Jun 2026 09:40:37 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-009",
+        "title": "AI coding agents find the right file but miss the exact lines that matter, study shows",
+        "summary": "AI coding agents like Claude Code or Codex reliably find the right file but miss most of the critical lines within it. The new SWE-Explore benchmark is the first to test code search separately from the actual repair, and it shows that without enough ",
+        "content": "AI coding agents like Claude Code or Codex reliably find the right file but miss most of the critical lines within it. The new SWE-Explore benchmark is the first to test code search separately from the actual repair, and it shows that without enough context, even the best fix will fail.\nThe article AI coding agents find the right file but miss the exact lines that matter, study shows appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/ai-coding-agents-find-the-right-file-but-miss-the-exact-lines-that-matter-study-shows/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 14 Jun 2026 08:54:47 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-010",
+        "title": "Amazon and five other companies reportedly triggered the government crackdown on Anthropic's Fable model",
+        "summary": "Amazon CEO Andy Jassy and executives from other tech companies reportedly warned the Trump administration about security vulnerabilities in Anthropic's Fable model, even though Amazon is one of Anthropic's largest investors. Within hours, the White H",
+        "content": "Amazon CEO Andy Jassy and executives from other tech companies reportedly warned the Trump administration about security vulnerabilities in Anthropic's Fable model, even though Amazon is one of Anthropic's largest investors. Within hours, the White House forced the model offline through an export control order. The move may well be a legitimate security policy decision, but it also reads as a show of force against an inconvenient company.\nThe article Amazon and five other companies reportedly tr",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/amazon-and-five-other-companies-reportedly-triggered-the-government-crackdown-on-anthropics-fable-model/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 14 Jun 2026 08:35:02 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      }
+    ],
+    "research": [],
+    "applications": [],
+    "business": [
+      {
+        "id": "AI-011",
+        "title": "One quality will be most in-demand from job-seekers in the AI era, Animoca co-founder Siu says",
+        "summary": "Yat Siu, the co-founder of Animoca Brands, says AI is going to change what skills are most valuable in the workforce.",
+        "content": "Yat Siu, the co-founder of Animoca Brands, says AI is going to change what skills are most valuable in the workforce.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/06/14/ceo-of-.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 14 Jun 2026 14:03:30 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-012",
+        "title": "Trump heads to G7 summit in France after reaching deal to end war with Iran",
+        "summary": "The G7 is likely to address the Iran peace deal, as well as Russia's war against Ukraine, which continues to rage in eastern Europe.",
+        "content": "The G7 is likely to address the Iran peace deal, as well as Russia's war against Ukraine, which continues to rage in eastern Europe.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/06/14/trump-g7-iran-deal-france-ukraine.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 14 Jun 2026 22:30:57 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-013",
+        "title": "A year after Meta tapped Alexandr Wang to build a new AI model, Zuckerberg has to sell it",
+        "summary": "Mark Zuckerberg's mega spending spree began a year ago, when he lured Alexandr Wang to oversee a new AI strategy. The results so far are underwhelming.",
+        "content": "Mark Zuckerberg's mega spending spree began a year ago, when he lured Alexandr Wang to oversee a new AI strategy. The results so far are underwhelming.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/06/14/meta-hired-alexandr-wang-to-build-ai-its-zuckerbergs-job-to-sell-it.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 14 Jun 2026 15:02:35 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-014",
+        "title": "Elon Musk drifted from Larry Page over a decade ago, but their companies are closer than ever",
+        "summary": "SpaceX and Google have a long and complicated relationship, but they were both celebrating this week after Elon Musk's company held its blockbuster IPO.",
+        "content": "SpaceX and Google have a long and complicated relationship, but they were both celebrating this week after Elon Musk's company held its blockbuster IPO.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/06/14/elon-musk-drifted-from-larry-page-but-spacex-google-closer-than-ever.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 14 Jun 2026 11:30:01 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-015",
+        "title": "SpaceX market cap tops $2 trillion after shares of Elon Musk's rocket company gain 19% on debut",
+        "summary": "SpaceX shares soared on Friday as trading commenced on the Nasdaq.",
+        "content": "SpaceX shares soared on Friday as trading commenced on the Nasdaq.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/06/12/spacex-stock-jumps-2-trillion.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 14 Jun 2026 21:32:00 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      }
+    ],
+    "policy": [
+      {
+        "id": "AI-016",
+        "title": "Merger Cleared, David Ellison to Join Trump at U.F.C. Bouts",
+        "summary": "A U.F.C. fight on President Trump’s birthday will now double as a capstone for Paramount’s successful effort to secure Justice Department approval for a mega media merger.",
+        "content": "A U.F.C. fight on President Trump’s birthday will now double as a capstone for Paramount’s successful effort to secure Justice Department approval for a mega media merger.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/06/14/business/media/trump-ufc-david-ellison.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 14 Jun 2026 16:13:43 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-017",
+        "title": "State Attorneys General Are Investigating OpenAI",
+        "summary": "OpenAI said that a coalition of states had opened an investigation over a wide range of its practices, including its handling of user data, safety of minors and advertising activities.",
+        "content": "OpenAI said that a coalition of states had opened an investigation over a wide range of its practices, including its handling of user data, safety of minors and advertising activities.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 14 Jun 2026 00:57:39 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      }
+    ],
+    "concerns": [],
+    "culture": [
+      {
+        "id": "AI-018",
+        "title": "Scientists are working on headphones that block annoying noises and allow the ones you love? I can’t wait! | Emma Beddington",
+        "summary": "Imagine a world with more birdsong and less Nigel Farage. If this is the future, bring it on\nUnpopular opinion incoming: there’s cool stuff brewing in the world. Microbots might one day mend spinal cords, a petri dish of brain cells can already play ",
+        "content": "Imagine a world with more birdsong and less Nigel Farage. If this is the future, bring it on\nUnpopular opinion incoming: there’s cool stuff brewing in the world. Microbots might one day mend spinal cords, a petri dish of brain cells can already play video games, and now the prospect of a new wonder: according to a New Yorker article on misophonia (the condition where unwanted noise triggers disproportionate, unpleasant cognitive and physiological reactions), a team of miracle workers are “using ",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/commentisfree/2026/jun/12/scientists-headphones-block-annoying-noises",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 14 Jun 2026 13:04:37 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-019",
+        "title": "Elon Musk and co may relish march of the robots but there must be AI boundaries in the workplace | Heather Stewart",
+        "summary": "As technology advances quickly, firms should not lose sight of what qualities humans bring to jobs\nA robot magician called D4YRL was rejected as a member of the Magic Circle last week, for being insufficiently human.\nWhile D4YRL’s tricks were exempla",
+        "content": "As technology advances quickly, firms should not lose sight of what qualities humans bring to jobs\nA robot magician called D4YRL was rejected as a member of the Magic Circle last week, for being insufficiently human.\nWhile D4YRL’s tricks were exemplary, the august organisation decided “he” did not engage the audience’s emotions as a flesh-and-blood performer would.\n Continue reading...",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/business/2026/jun/14/ai-technology-workplace-boundaries-elon-musk",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 14 Jun 2026 11:03:07 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-020",
+        "title": "‘Have I been influenced, or is this actually me?’ How personal taste fell out of fashion",
+        "summary": "Our favourite music, clothes and books used to be markers of individuality – but the algorithm has made us all sheep. Meet the style rebels fighting back\nWhat are you into? What floats your boat? What music, films, clothes, art, books – anything, rea",
+        "content": "Our favourite music, clothes and books used to be markers of individuality – but the algorithm has made us all sheep. Meet the style rebels fighting back\nWhat are you into? What floats your boat? What music, films, clothes, art, books – anything, really – do you actually like? Do you find these questions more difficult to answer than you would have done 10 years ago? How about 20? You do? You’re not alone.\nIt has become impossible to ignore: personal taste has been seriously debased – if not com",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/media/2026/jun/14/have-i-been-influenced-personal-taste-out-of-fashion-algorithm",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 14 Jun 2026 11:00:42 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      }
+    ]
+  },
+  "quote": {
+    "text": "The best way to predict the future is to invent it.",
+    "author": "Alan Kay",
+    "authorTitle": "Computer Scientist"
+  },
+  "sources": [
+    "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+    "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+    "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+    "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+    "https://openai.com/index/introducing-openai-partner-network",
+    "https://the-decoder.com/microsoft-researchs-mirage-gives-video-generation-a-persistent-spatial-memory-that-doesnt-forget-whats-around-the-corner/",
+    "https://the-decoder.com/google-clouds-open-knowledge-format-turns-scattered-docs-into-markdown-files-for-ai-agents/",
+    "https://the-decoder.com/kpmg-fabricated-ai-case-studies-in-a-report-designed-to-sell-clients-on-ai-adoption/",
+    "https://the-decoder.com/ai-coding-agents-find-the-right-file-but-miss-the-exact-lines-that-matter-study-shows/",
+    "https://the-decoder.com/amazon-and-five-other-companies-reportedly-triggered-the-government-crackdown-on-anthropics-fable-model/",
+    "https://www.cnbc.com/2026/06/14/ceo-of-.html",
+    "https://www.cnbc.com/2026/06/14/trump-g7-iran-deal-france-ukraine.html",
+    "https://www.cnbc.com/2026/06/14/meta-hired-alexandr-wang-to-build-ai-its-zuckerbergs-job-to-sell-it.html",
+    "https://www.cnbc.com/2026/06/14/elon-musk-drifted-from-larry-page-but-spacex-google-closer-than-ever.html",
+    "https://www.cnbc.com/2026/06/12/spacex-stock-jumps-2-trillion.html",
+    "https://www.nytimes.com/2026/06/14/business/media/trump-ufc-david-ellison.html",
+    "https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html",
+    "https://www.theguardian.com/commentisfree/2026/jun/12/scientists-headphones-block-annoying-noises",
+    "https://www.theguardian.com/business/2026/jun/14/ai-technology-workplace-boundaries-elon-musk",
+    "https://www.theguardian.com/media/2026/jun/14/have-i-been-influenced-personal-taste-out-of-fashion-algorithm"
+  ],
+  "generatedAt": "2026-06-15T00:03:59.012Z"
+}
