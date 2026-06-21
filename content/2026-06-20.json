@@ -2,9 +2,9 @@
   "date": "2026-06-20",
   "dateFormatted": "June 20, 2026",
   "headline": {
-    "title": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work",
-    "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
-    "sourceUrl": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+    "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+    "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+    "sourceUrl": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
     "sourceName": "TechCrunch AI"
   },
   "simpleSummary": [
@@ -15,192 +15,173 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work",
-        "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
-        "content": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic’s cybersecurity model Mythos.",
+        "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+        "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
+        "content": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.”",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+        "sourceUrl": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Fri, 19 Jun 2026 22:40:14 +0000",
+        "publishedAt": "Sat, 20 Jun 2026 20:32:29 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-002",
-        "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
-        "summary": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails.  Cybersecurity rese",
-        "content": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails.  Cybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models. So is […]",
+        "title": "In the Weights is your new AI-centric vanity search",
+        "summary": "So ... what's your In the Weights score?",
+        "content": "So ... what's your In the Weights score?",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+        "sourceUrl": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Fri, 19 Jun 2026 16:08:17 +0000",
+        "publishedAt": "Sat, 20 Jun 2026 19:41:11 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-003",
-        "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
-        "summary": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails.  Cybersecurity rese",
-        "content": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails.  Cybersecurity researchers have since signed an open letter calling the move dangerous, and Anthropic itself noted the same jailbreaks exist in other models. So is […]",
+        "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+        "summary": "Jumper isn't the only big name leaving Google DeepMind.",
+        "content": "Jumper isn't the only big name leaving Google DeepMind.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+        "sourceUrl": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Fri, 19 Jun 2026 16:01:03 +0000",
+        "publishedAt": "Sat, 20 Jun 2026 16:39:57 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-004",
-        "title": "Billionaire Ambani wants AI in every call, app, and home",
-        "summary": "Reliance is weaving AI into telecom services used by more than 500 million people.",
-        "content": "Reliance is weaving AI into telecom services used by more than 500 million people.",
+        "title": "The Atlantic created a searchable database of the music used to train AI",
+        "summary": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much s",
+        "content": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant amount of training data at over 100,000 songs each.\nAccording to Reisner, the sets have been downloaded thousands of times and, while it's impossible to know exactly who has used them, Google and Stability ha",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
-        "sourceName": "TechCrunch AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+        "sourceName": "The Verge AI",
         "tags": [
-          "TechCrunch AI"
+          "The Verge AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Fri, 19 Jun 2026 15:23:28 +0000",
+        "publishedAt": "2026-06-20T18:46:48.000Z",
         "normalizedTags": [
-          "techcrunch ai"
-        ]
-      },
-      {
-        "id": "AI-005",
-        "title": "The CEO of Allbirds’ new AI biz has a plan, but no team",
-        "summary": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
-        "content": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
-        "sourceName": "TechCrunch AI",
-        "tags": [
-          "TechCrunch AI"
-        ],
-        "section": "tools",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 19 Jun 2026 13:00:00 +0000",
-        "normalizedTags": [
-          "techcrunch ai"
+          "the verge ai"
         ]
       }
     ],
     "creative": [
       {
-        "id": "AI-006",
-        "title": "Norway bans generative AI tools in elementary schools to protect kids' basic learning skills",
-        "summary": "Norway is banning generative AI tools in elementary schools starting in late August. Students in grades 1 through 7 won't be allowed to use AI at all; secondary schools will permit it only under supervision. Prime Minister Stoere says children must f",
-        "content": "Norway is banning generative AI tools in elementary schools starting in late August. Students in grades 1 through 7 won't be allowed to use AI at all; secondary schools will permit it only under supervision. Prime Minister Stoere says children must first \"learn to read, write, and do math.\"\nThe article Norway bans generative AI tools in elementary schools to protect kids' basic learning skills appeared first on The Decoder.",
+        "id": "AI-005",
+        "title": "The EU doesn't really know what a deepfake is, and that's becoming a problem for retail",
+        "summary": "Eurocommerce, the trade association behind Amazon, H&M, and IKEA, wants AI-generated ads exempt from the EU AI Act's transparency rules. The argument: an AI-generated living room image used to sell a sofa isn't a deepfake. Zalando alone says 90 perce",
+        "content": "Eurocommerce, the trade association behind Amazon, H&M, and IKEA, wants AI-generated ads exempt from the EU AI Act's transparency rules. The argument: an AI-generated living room image used to sell a sofa isn't a deepfake. Zalando alone says 90 percent of the marketing content on its platform is already AI-generated.\nThe article The EU doesn't really know what a deepfake is, and that's becoming a problem for retail appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/norway-bans-generative-ai-tools-in-elementary-schools-to-protect-kids-basic-learning-skills/",
+        "sourceUrl": "https://the-decoder.com/the-eu-doesnt-really-know-what-a-deepfake-is-and-thats-becoming-a-problem-for-retail/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Fri, 19 Jun 2026 18:45:10 +0000",
+        "publishedAt": "Sat, 20 Jun 2026 17:17:38 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-006",
+        "title": "OpenAI's Codex can now watch you work once and repeat the task forever",
+        "summary": "OpenAI has released the \"Record & Replay\" feature for its Codex app on macOS: users demonstrate a workflow once, Codex converts it into a reusable \"skill,\" and then repeats it on its own. The feature isn't available yet in the EU, the UK, or Switzerl",
+        "content": "OpenAI has released the \"Record & Replay\" feature for its Codex app on macOS: users demonstrate a workflow once, Codex converts it into a reusable \"skill,\" and then repeats it on its own. The feature isn't available yet in the EU, the UK, or Switzerland.\nThe article OpenAI's Codex can now watch you work once and repeat the task forever appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/openais-codex-can-now-watch-you-work-once-and-repeat-the-task-forever/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 20 Jun 2026 13:15:08 +0000",
         "normalizedTags": [
           "the decoder"
         ]
       },
       {
         "id": "AI-007",
-        "title": "Google Deepmind loses another top AI researcher as Nobel laureate John Jumper leaves for Anthropic",
-        "summary": "Nobel Prize winner John Jumper is leaving Google Deepmind for Anthropic after nearly nine years. Days earlier, Gemini co-lead Noam Shazeer left for OpenAI. Weeks before that, AlphaGo researcher David Silver started his own company. Three of Google's ",
-        "content": "Nobel Prize winner John Jumper is leaving Google Deepmind for Anthropic after nearly nine years. Days earlier, Gemini co-lead Noam Shazeer left for OpenAI. Weeks before that, AlphaGo researcher David Silver started his own company. Three of Google's most prominent AI minds, gone within months.\nThe article Google Deepmind loses another top AI researcher as Nobel laureate John Jumper leaves for Anthropic appeared first on The Decoder.",
+        "title": "NYU finance professor Damodaran warns an AI crash could hit harder than the dot-com bust",
+        "summary": "NYU finance professor Aswath Damodaran believes a potential AI crash would be more painful than the bursting of the dot-com bubble because the industry is building massive amounts of debt-financed physical infrastructure rather than lightweight softw",
+        "content": "NYU finance professor Aswath Damodaran believes a potential AI crash would be more painful than the bursting of the dot-com bubble because the industry is building massive amounts of debt-financed physical infrastructure rather than lightweight software. Even if AI succeeds, he sees a problem. The actual business model is to replace entire jobs, with unclear consequences for society.\nThe article NYU finance professor Damodaran warns an AI crash could hit harder than the dot-com bust appeared fir",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/google-deepmind-loses-another-top-ai-researcher-as-nobel-laureate-john-jumper-leaves-for-anthropic/",
+        "sourceUrl": "https://the-decoder.com/nyu-finance-professor-damodaran-warns-an-ai-crash-could-hit-harder-than-the-dot-com-bust/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Fri, 19 Jun 2026 17:54:14 +0000",
+        "publishedAt": "Sat, 20 Jun 2026 12:26:57 +0000",
         "normalizedTags": [
           "the decoder"
         ]
       },
       {
         "id": "AI-008",
-        "title": "Amazon drops its OpenAI drama film after signing a $50 billion deal with Sam Altman's company",
-        "summary": "Amazon MGM Studios has dropped \"Artificial,\" the nearly finished OpenAI film directed by Luca Guadagnino with Andrew Garfield as Sam Altman. Amazon struck a $50 billion partnership with OpenAI in February. According to an insider, both Altman and Mus",
-        "content": "Amazon MGM Studios has dropped \"Artificial,\" the nearly finished OpenAI film directed by Luca Guadagnino with Andrew Garfield as Sam Altman. Amazon struck a $50 billion partnership with OpenAI in February. According to an insider, both Altman and Musk come off poorly in the film. The case raises questions about how business ties in the tech industry can limit creative freedom.\nThe article Amazon drops its OpenAI drama film after signing a $50 billion deal with Sam Altman's company appeared first",
+        "title": "Data2Story turns a CSV file into a verified interactive news article using seven AI agents",
+        "summary": "Seven AI agents work together like a newsroom. The \"Data Journalist Agent\" from Oxford and Stanford turns a CSV file into a finished interactive article with graphics, web research, and verifiable source links for 93 percent of all statements. In a r",
+        "content": "Seven AI agents work together like a newsroom. The \"Data Journalist Agent\" from Oxford and Stanford turns a CSV file into a finished interactive article with graphics, web research, and verifiable source links for 93 percent of all statements. In a reader study, 74 percent preferred the agent's output over the human original. But against elaborately crafted long-form reports, the agent managed a tie.\nThe article Data2Story turns a CSV file into a verified interactive news article using seven AI ",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/amazon-drops-its-openai-drama-film-after-signing-a-50-billion-deal-with-sam-altmans-company/",
+        "sourceUrl": "https://the-decoder.com/data2story-turns-a-csv-file-into-a-verified-interactive-news-article-using-seven-ai-agents/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Fri, 19 Jun 2026 17:14:33 +0000",
+        "publishedAt": "Sat, 20 Jun 2026 09:51:55 +0000",
         "normalizedTags": [
           "the decoder"
         ]
       },
       {
         "id": "AI-009",
-        "title": "More people get news from AI chatbots, but trust remains low",
-        "summary": "According to the Reuters Institute's Digital News Report 2026, 10 percent of people worldwide now use AI chatbots for news every week, up from 7 percent a year ago. Only 4 percent regularly click through to the original source.\nThe article More peopl",
-        "content": "According to the Reuters Institute's Digital News Report 2026, 10 percent of people worldwide now use AI chatbots for news every week, up from 7 percent a year ago. Only 4 percent regularly click through to the original source.\nThe article More people get news from AI chatbots, but trust remains low appeared first on The Decoder.",
+        "title": "ChatGPT keeps creeping toward becoming your AI personal assistant with new scheduled task controls",
+        "summary": "OpenAI is upgrading ChatGPT's scheduling feature. A new \"Scheduled\" page in the sidebar puts all active tasks in one place, letting users view, pause, edit, or delete them. Research tasks search the web and connected apps, sending alerts only when so",
+        "content": "OpenAI is upgrading ChatGPT's scheduling feature. A new \"Scheduled\" page in the sidebar puts all active tasks in one place, letting users view, pause, edit, or delete them. Research tasks search the web and connected apps, sending alerts only when something actually changes. The previous \"Pulse\" feature is being retired.\nThe article ChatGPT keeps creeping toward becoming your AI personal assistant with new scheduled task controls appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/more-people-get-news-from-ai-chatbots-but-trust-remains-low/",
+        "sourceUrl": "https://the-decoder.com/chatgpt-keeps-creeping-toward-becoming-your-ai-personal-assistant-with-new-scheduled-task-controls/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Fri, 19 Jun 2026 14:42:25 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
-      },
-      {
-        "id": "AI-010",
-        "title": "New benchmark exposes how badly AI struggles with real knowledge work",
-        "summary": "Even the best AI model fails at realistic knowledge work, fully solving just 3 percent of tasks.\nThe article New benchmark exposes how badly AI struggles with real knowledge work appeared first on The Decoder.",
-        "content": "Even the best AI model fails at realistic knowledge work, fully solving just 3 percent of tasks.\nThe article New benchmark exposes how badly AI struggles with real knowledge work appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/new-benchmark-exposes-how-badly-ai-struggles-with-real-knowledge-work/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 19 Jun 2026 13:50:55 +0000",
+        "publishedAt": "Sat, 20 Jun 2026 08:44:19 +0000",
         "normalizedTags": [
           "the decoder"
         ]
@@ -208,83 +189,7 @@
     ],
     "research": [
       {
-        "id": "AI-011",
-        "title": "The Download: AI bottleneck debates, and BCI trials take off",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A startup claims it broke through a bottleneck that’s holding back LLMs AI startup Subquadratic came out of stea",
-        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A startup claims it broke through a bottleneck that’s holding back LLMs AI startup Subquadratic came out of stealth last month with a huge claim: it had solved a mathematical bottleneck…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 19 Jun 2026 12:10:00 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-012",
-        "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-        "summary": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many",
-        "content": "Miami-based AI startup Subquadratic came out of stealth mode last month with a huge claim. It announced that it had solved a mathematical bottleneck that had been holding back large language models for almost a decade. The details were thin, and many people were unconvinced. But Subquadratic has started to bring the receipts, sharing the…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 19 Jun 2026 10:40:24 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-013",
-        "title": "The inevitable weakness of metrics",
-        "summary": "There are plenty of useful things a metric can reveal. There are even more it can obscure or corrupt. It took me well over a decade of tracking my own life in ever greater detail to fully appreciate this duality, which probably reveals something abou",
-        "content": "There are plenty of useful things a metric can reveal. There are even more it can obscure or corrupt. It took me well over a decade of tracking my own life in ever greater detail to fully appreciate this duality, which probably reveals something about both me and the nature of measurement. Like a lot…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 19 Jun 2026 09:00:00 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-014",
-        "title": "Brain-computer interface trials are taking off",
-        "summary": "This week, I covered the story of Casey Harrell—a man with ALS who is “the first power user” of a brain implant, according to the researchers who worked with him. Harrell is paralyzed and unable to speak coherently without the device. He has now spen",
-        "content": "This week, I covered the story of Casey Harrell—a man with ALS who is “the first power user” of a brain implant, according to the researchers who worked with him. Harrell is paralyzed and unable to speak coherently without the device. He has now spent almost three years using a brain-computer interface (BCI) that enables…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 19 Jun 2026 09:00:00 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-015",
+        "id": "AI-010",
         "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
         "summary": "arXiv:2606.19464v1 Announce Type: new \nAbstract: Autonomous agentic AI systems driven by Large Language Models (LLMs) introduce a new class of security, privacy, and compliance challenges: an agent that can invoke tools, manipulate data, install soft",
         "content": "arXiv:2606.19464v1 Announce Type: new \nAbstract: Autonomous agentic AI systems driven by Large Language Models (LLMs) introduce a new class of security, privacy, and compliance challenges: an agent that can invoke tools, manipulate data, install software, and coordinate with peer agents across organizational boundaries must be constrained not just by authentication and access control, but by the full structure of enterprise governance. This includes specifying what agents are permitted and prohi",
@@ -297,7 +202,83 @@
         ],
         "section": "research",
         "readTime": "2 min",
-        "publishedAt": "Fri, 19 Jun 2026 00:00:00 -0400",
+        "publishedAt": "Sat, 20 Jun 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ]
+      },
+      {
+        "id": "AI-011",
+        "title": "Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitive Depth: A Longitudinal Framework Applied to CS2013 and CS2023",
+        "summary": "arXiv:2606.19469v1 Announce Type: new \nAbstract: Undergraduate computer science is governed by international curricular guidelines revised about once a decade, yet programs lack a reliable, reproducible way to measure how completely they cover the cu",
+        "content": "arXiv:2606.19469v1 Announce Type: new \nAbstract: Undergraduate computer science is governed by international curricular guidelines revised about once a decade, yet programs lack a reliable, reproducible way to measure how completely they cover the current guidelines and how that coverage shifts when the guidelines are restructured. We address this with a human-in-the-loop pipeline that measures a program's coverage of an external body of knowledge, applied longitudinally to one accredited BSc in",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2606.19469",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 20 Jun 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ]
+      },
+      {
+        "id": "AI-012",
+        "title": "Diffusion Language Models: An Experimental Analysis",
+        "summary": "arXiv:2606.19475v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have revolutionized language modeling through autoregressive generation, enabling strong performance across a wide range of tasks. Recently, Diffusion Language Models (DLMs",
+        "content": "arXiv:2606.19475v1 Announce Type: new \nAbstract: Large Language Models (LLMs) have revolutionized language modeling through autoregressive generation, enabling strong performance across a wide range of tasks. Recently, Diffusion Language Models (DLMs) have emerged as an alternative paradigm that generates text through iterative denoising rather than next-token prediction, allowing parallel refinement of entire sequences. While numerous diffusion-based architectures have been proposed, difference",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2606.19475",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 20 Jun 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ]
+      },
+      {
+        "id": "AI-013",
+        "title": "Hidden Anchors in Multi-Agent LLM Deliberation",
+        "summary": "arXiv:2606.19494v1 Announce Type: new \nAbstract: Multi-agent LLM deliberation, where agents exchange and revise answers over several rounds, is increasingly used to improve reasoning and accuracy, yet how and why it works is rarely modelled. Such del",
+        "content": "arXiv:2606.19494v1 Announce Type: new \nAbstract: Multi-agent LLM deliberation, where agents exchange and revise answers over several rounds, is increasingly used to improve reasoning and accuracy, yet how and why it works is rarely modelled. Such deliberation mirrors how humans reach decisions. As social animals we are pulled both by the group, the herd effect that classical opinion-dynamics models such as DeGroot and Friedkin--Johnsen capture, and by our own internal belief, which they do not. ",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2606.19494",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 20 Jun 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ]
+      },
+      {
+        "id": "AI-014",
+        "title": "DeXposure-Claw: An Agentic System for DeFi Risk Supervision",
+        "summary": "arXiv:2606.19501v1 Announce Type: new \nAbstract: Decentralized finance exposes supervisors to fast-moving, networked credit risks. General-purpose LLM agents fit this setting poorly: they over-read weak evidence and recommend high-stakes intervention",
+        "content": "arXiv:2606.19501v1 Announce Type: new \nAbstract: Decentralized finance exposes supervisors to fast-moving, networked credit risks. General-purpose LLM agents fit this setting poorly: they over-read weak evidence and recommend high-stakes interventions, while existing evaluations offer no regulator-aligned way to measure the resulting false alarms. We introduce DeXposure-Claw, a forecast-grounded agentic supervision system that routes LLM decisions through structured evidence: (1) DeXposure-FM, a",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2606.19501",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 20 Jun 2026 00:00:00 -0400",
         "normalizedTags": [
           "arxiv cs.ai"
         ]
@@ -306,58 +287,39 @@
     "applications": [],
     "business": [
       {
+        "id": "AI-015",
+        "title": "AI buildout gives tech investors new reasons to watch bond market",
+        "summary": "Tech giants are depleting cash reserves and raising debt in their ambitious data center buildouts, a dynamic that's forcing investors to watch interest rates.",
+        "content": "Tech giants are depleting cash reserves and raising debt in their ambitious data center buildouts, a dynamic that's forcing investors to watch interest rates.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/06/20/ai-buildout-giving-tech-investors-new-reasons-to-watch-bond-market.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 20 Jun 2026 12:00:01 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
         "id": "AI-016",
-        "title": "Memory crisis hits such extremes that 'even Apple can't be safe' ",
-        "summary": "Apple appears poised to take the rare step of increasing prices to deal with what CEO Tim Cook called an \"unsustainable\" memory shortage.",
-        "content": "Apple appears poised to take the rare step of increasing prices to deal with what CEO Tim Cook called an \"unsustainable\" memory shortage.",
+        "title": "Massive bonuses for South Korea's chip workers puts central bank on inflation alert",
+        "summary": "Workers from tech industries receive bonus worth millions of won, prompting the Bank of Korea to warn of the upward pressure to inflation.",
+        "content": "Workers from tech industries receive bonus worth millions of won, prompting the Bank of Korea to warn of the upward pressure to inflation.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/06/19/memory-crisis-hits-such-extremes-that-even-apple-cant-be-safe-.html",
+        "sourceUrl": "https://www.cnbc.com/2026/06/20/south-korea-tech-samsung-sk-hynix-bonus-bank-of-korea.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Fri, 19 Jun 2026 12:00:02 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ]
-      },
-      {
-        "id": "AI-017",
-        "title": "Qualcomm CEO Cristiano Amon on the new world of AI agents ",
-        "summary": "CNBC's Arjun Kharpal sits down with the chip company chief on The Tech Download podcast.",
-        "content": "CNBC's Arjun Kharpal sits down with the chip company chief on The Tech Download podcast.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/06/19/tech-download-qualcomm-ai-agents-amon.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 19 Jun 2026 11:00:01 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ]
-      },
-      {
-        "id": "AI-018",
-        "title": "Musk's SpaceX stake is worth over $1 trillion. Here are the other billionaire shareholders",
-        "summary": "SpaceX shares were up 37% after its historic debut last week, which offered shares at a set price of $135.",
-        "content": "SpaceX shares were up 37% after its historic debut last week, which offered shares at a set price of $135.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/06/19/musk-spacex-billionaire-shareholders.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 19 Jun 2026 10:47:57 GMT",
+        "publishedAt": "Sat, 20 Jun 2026 08:59:40 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
@@ -365,26 +327,26 @@
     ],
     "policy": [
       {
-        "id": "AI-019",
-        "title": "‘Hard Fork’ Live, Part 3: Differing Visions of an A.I. Future",
-        "summary": "One final episode from our live event, featuring a debate, questions from listeners and the dramatic and unplanned collapse of a dancing robot.",
-        "content": "One final episode from our live event, featuring a debate, questions from listeners and the dramatic and unplanned collapse of a dancing robot.",
+        "id": "AI-017",
+        "title": "A Humble 3-Wheel Electric Vehicle Lands Toyota in Federal Court",
+        "summary": "A lawsuit filed in California claims the automaker’s philanthropic arm stole technology intended to help poor farmers, but it is not clear to what end.",
+        "content": "A lawsuit filed in California claims the automaker’s philanthropic arm stole technology intended to help poor farmers, but it is not clear to what end.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/06/19/podcasts/hard-fork-live-part-3-differing-visions-of-an-ai-future.html",
+        "sourceUrl": "https://www.nytimes.com/2026/06/20/business/toyota-africa-electric-vehicles-lawsuit.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Fri, 19 Jun 2026 11:00:03 +0000",
+        "publishedAt": "Sat, 20 Jun 2026 15:58:09 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
       },
       {
-        "id": "AI-020",
+        "id": "AI-018",
         "title": "The Ageless and Undefeated Champs of Tulsa’s Wii Bowling League",
         "summary": "The U.V. Okies have dominated a competition with other senior living facilities for six seasons, but they’re not just there to win.",
         "content": "The U.V. Okies have dominated a competition with other senior living facilities for six seasons, but they’re not just there to win.",
@@ -397,26 +359,7 @@
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Fri, 19 Jun 2026 18:02:14 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-021",
-        "title": "Have You Bought a Tesla Recently? We Want to Hear From You.",
-        "summary": "Tesla sales are rebounding in Europe even though many people have negative feelings about Elon Musk, the company’s chief executive. We want to know why.",
-        "content": "Tesla sales are rebounding in Europe even though many people have negative feelings about Elon Musk, the company’s chief executive. We want to know why.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/06/19/business/energy-environment/tesla-elon-musk-europe.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 19 Jun 2026 04:00:24 +0000",
+        "publishedAt": "Sat, 20 Jun 2026 18:11:07 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
@@ -425,79 +368,98 @@
     "concerns": [],
     "culture": [
       {
-        "id": "AI-022",
-        "title": "Say what?! New insults to use in 2026 | Fiona Katauskas",
-        "summary": "The news is providing a lot of material to work with\n\nSee more of Fiona Katauskas’s cartoons here\n\n Continue reading...",
-        "content": "The news is providing a lot of material to work with\n\nSee more of Fiona Katauskas’s cartoons here\n\n Continue reading...",
+        "id": "AI-019",
+        "title": "A viral doomsday scenario aims to shake Europe out of its AI complacency",
+        "summary": "Does a thought-experiment about US ascendancy in the technology say as much about AI jitters as it does about the reality?\nIt’s 2031 and the US and China are about to tear Europe into pieces.\nThe US ploughed vast sums into datacentres and the EU did ",
+        "content": "Does a thought-experiment about US ascendancy in the technology say as much about AI jitters as it does about the reality?\nIt’s 2031 and the US and China are about to tear Europe into pieces.\nThe US ploughed vast sums into datacentres and the EU did not. China built robots and Europe did not. American companies “restructured” their workflows around AI and fired people, while EU workers went on long lunch breaks and handed over administrative tasks to the AI model Claude.\n Continue reading...",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/commentisfree/picture/2026/jun/20/say-what-new-insults-to-use-in-2026",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/jun/20/europe-sleepwalking-ai-disaster-us-china",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Fri, 19 Jun 2026 15:00:37 GMT",
+        "publishedAt": "Sat, 20 Jun 2026 09:59:12 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-020",
+        "title": "Lloyds Banking Group to hire 300 tech experts to work on AI",
+        "summary": "Exclusive: While recruits will increase headcount for now, broader adoption of AI could lead to jobs cuts in future\nLloyds Banking Group has launched an AI recruitment drive for 300 tech experts, weeks before its chief executive, Charlie Nunn, unveil",
+        "content": "Exclusive: While recruits will increase headcount for now, broader adoption of AI could lead to jobs cuts in future\nLloyds Banking Group has launched an AI recruitment drive for 300 tech experts, weeks before its chief executive, Charlie Nunn, unveils a strategic plan for the 261-year old lender.\nThe bank said it intended the recruits to work on its use and development of agentic AI by September, referring to autonomous artificial intelligence models that can plan and execute tasks with minimal ",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/business/2026/jun/20/lloyds-banking-group-ai-recruitment-drive-300-tech-experts",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 20 Jun 2026 11:00:03 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-021",
+        "title": "How do people in the US describe customer service in 2026? ‘Debilitating, depressing, enraging. Ugh’",
+        "summary": "We asked people in the US about their customer service battles and hundreds responded on the financial and emotional costs\nGuardian readers from across the US wrote in to tell us about their battles with big companies, and the time, expense and emoti",
+        "content": "We asked people in the US about their customer service battles and hundreds responded on the financial and emotional costs\nGuardian readers from across the US wrote in to tell us about their battles with big companies, and the time, expense and emotional toll exacted by businesses they say are prioritizing the bottom line over all else.\nThe top takeaway: people really, really don’t like AI customer service.\n Continue reading...",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/us-news/2026/jun/20/guardian-readers-consumer-battles",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 20 Jun 2026 11:00:03 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-022",
+        "title": "Granta stops publishing short story award winners over AI controversy",
+        "summary": "Literary magazine will no longer engage in ‘external publishing partnerships’ after Commonwealth prize furore\nThe prominent literary magazine Granta will no longer publish the winning entries of the annual Commonwealth short story prize after one of ",
+        "content": "Literary magazine will no longer engage in ‘external publishing partnerships’ after Commonwealth prize furore\nThe prominent literary magazine Granta will no longer publish the winning entries of the annual Commonwealth short story prize after one of this year’s winners drew widespread accusations of AI use.\nThe magazine said it would no longer be involved in “external publishing partnerships” in which it had no editorial control.\n Continue reading...",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/books/2026/jun/20/granta-magazine-commonwealth-short-story-prize-ai",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 20 Jun 2026 09:00:04 GMT",
         "normalizedTags": [
           "the guardian ai"
         ]
       },
       {
         "id": "AI-023",
-        "title": "‘It’s a scam’: Americans express unease over SpaceX’s influence on retirement savings",
-        "summary": "Guardian readers in the US share concerns about how the SpaceX IPO and AI boom affect their retirement accounts\nElon Musk became the world’s first trillionaire last week after SpaceX debuted on the stock market with a valuation of $1.77tn.\nMillions o",
-        "content": "Guardian readers in the US share concerns about how the SpaceX IPO and AI boom affect their retirement accounts\nElon Musk became the world’s first trillionaire last week after SpaceX debuted on the stock market with a valuation of $1.77tn.\nMillions of Americans could soon become indirect investors in SpaceX and other emerging AI-focused companies as US markets increasingly shift toward AI-driven investments.\n Continue reading...",
+        "title": "Siri AI Hands On: A Smart, Helpful Assistant",
+        "summary": "The new Siri AI is conversational, omnipresent, and actually helpful.",
+        "content": "The new Siri AI is conversational, omnipresent, and actually helpful.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/science/2026/jun/19/spacex-retirement-savings-elon-musk",
-        "sourceName": "The Guardian AI",
+        "sourceUrl": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
+        "sourceName": "Wired AI",
         "tags": [
-          "The Guardian AI"
+          "Wired AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Fri, 19 Jun 2026 12:00:33 GMT",
+        "publishedAt": "Sat, 20 Jun 2026 10:00:00 +0000",
         "normalizedTags": [
-          "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-024",
-        "title": "Over-reliance on chatbots can diminish critical-thinking skills, study finds",
-        "summary": "Depending on AI can also potentially decrease the ability to discern misinformation, research says\nA new study from the Massachusetts Institute of Technology is the latest research to find that relying too much on chatbots can diminish critical-think",
-        "content": "Depending on AI can also potentially decrease the ability to discern misinformation, research says\nA new study from the Massachusetts Institute of Technology is the latest research to find that relying too much on chatbots can diminish critical-thinking skills, and potentially decrease our ability to discern misinformation for ourselves.\nAs AI tools are becoming more sophisticated and accessible, manipulated images and misleading headlines are becoming more common. AI can be part of the solution",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/us-news/2026/jun/19/chatbots-critical-thinking-skills",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 19 Jun 2026 11:00:32 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-025",
-        "title": "Jennifer Siebel Newsom’s new film shines a light on the human cost of unregulated social media",
-        "summary": "California first lady’s Miss Representation: Rise Up studies the backlash against women in the era of algorithms and deepfakes\nLife moves pretty fast. It is Monday lunchtime when Jennifer Siebel Newsom drops into the Guardian’s office in Washington, ",
-        "content": "California first lady’s Miss Representation: Rise Up studies the backlash against women in the era of algorithms and deepfakes\nLife moves pretty fast. It is Monday lunchtime when Jennifer Siebel Newsom drops into the Guardian’s office in Washington, just a couple of blocks from the White House, for an interview to promote her new film. Less than two hours later her husband, the California governor, Gavin Newsom, announces that the couple are under investigation by the justice department.\nOne str",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/culture/2026/jun/19/jennifer-siebel-newsom-documentary-miss-representation-rise-up",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 19 Jun 2026 10:00:28 GMT",
-        "normalizedTags": [
-          "the guardian ai"
+          "wired ai"
         ]
       }
     ]
@@ -508,31 +470,29 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-    "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
-    "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
-    "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
-    "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
-    "https://the-decoder.com/norway-bans-generative-ai-tools-in-elementary-schools-to-protect-kids-basic-learning-skills/",
-    "https://the-decoder.com/google-deepmind-loses-another-top-ai-researcher-as-nobel-laureate-john-jumper-leaves-for-anthropic/",
-    "https://the-decoder.com/amazon-drops-its-openai-drama-film-after-signing-a-50-billion-deal-with-sam-altmans-company/",
-    "https://the-decoder.com/more-people-get-news-from-ai-chatbots-but-trust-remains-low/",
-    "https://the-decoder.com/new-benchmark-exposes-how-badly-ai-struggles-with-real-knowledge-work/",
-    "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
-    "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-    "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/",
-    "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
+    "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+    "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+    "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+    "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+    "https://the-decoder.com/the-eu-doesnt-really-know-what-a-deepfake-is-and-thats-becoming-a-problem-for-retail/",
+    "https://the-decoder.com/openais-codex-can-now-watch-you-work-once-and-repeat-the-task-forever/",
+    "https://the-decoder.com/nyu-finance-professor-damodaran-warns-an-ai-crash-could-hit-harder-than-the-dot-com-bust/",
+    "https://the-decoder.com/data2story-turns-a-csv-file-into-a-verified-interactive-news-article-using-seven-ai-agents/",
+    "https://the-decoder.com/chatgpt-keeps-creeping-toward-becoming-your-ai-personal-assistant-with-new-scheduled-task-controls/",
     "https://arxiv.org/abs/2606.19464",
-    "https://www.cnbc.com/2026/06/19/memory-crisis-hits-such-extremes-that-even-apple-cant-be-safe-.html",
-    "https://www.cnbc.com/2026/06/19/tech-download-qualcomm-ai-agents-amon.html",
-    "https://www.cnbc.com/2026/06/19/musk-spacex-billionaire-shareholders.html",
-    "https://www.nytimes.com/2026/06/19/podcasts/hard-fork-live-part-3-differing-visions-of-an-ai-future.html",
+    "https://arxiv.org/abs/2606.19469",
+    "https://arxiv.org/abs/2606.19475",
+    "https://arxiv.org/abs/2606.19494",
+    "https://arxiv.org/abs/2606.19501",
+    "https://www.cnbc.com/2026/06/20/ai-buildout-giving-tech-investors-new-reasons-to-watch-bond-market.html",
+    "https://www.cnbc.com/2026/06/20/south-korea-tech-samsung-sk-hynix-bonus-bank-of-korea.html",
+    "https://www.nytimes.com/2026/06/20/business/toyota-africa-electric-vehicles-lawsuit.html",
     "https://www.nytimes.com/2026/06/19/us/wii-bowling-uv-okies-tulsa.html",
-    "https://www.nytimes.com/2026/06/19/business/energy-environment/tesla-elon-musk-europe.html",
-    "https://www.theguardian.com/commentisfree/picture/2026/jun/20/say-what-new-insults-to-use-in-2026",
-    "https://www.theguardian.com/science/2026/jun/19/spacex-retirement-savings-elon-musk",
-    "https://www.theguardian.com/us-news/2026/jun/19/chatbots-critical-thinking-skills",
-    "https://www.theguardian.com/culture/2026/jun/19/jennifer-siebel-newsom-documentary-miss-representation-rise-up"
+    "https://www.theguardian.com/technology/2026/jun/20/europe-sleepwalking-ai-disaster-us-china",
+    "https://www.theguardian.com/business/2026/jun/20/lloyds-banking-group-ai-recruitment-drive-300-tech-experts",
+    "https://www.theguardian.com/us-news/2026/jun/20/guardian-readers-consumer-battles",
+    "https://www.theguardian.com/books/2026/jun/20/granta-magazine-commonwealth-short-story-prize-ai",
+    "https://www.wired.com/story/siri-ai-hands-on-iphone/"
   ],
-  "generatedAt": "2026-06-20T00:02:56.833Z"
+  "generatedAt": "2026-06-21T00:01:06.038Z"
 }
