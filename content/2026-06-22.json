@@ -2,9 +2,9 @@
   "date": "2026-06-22",
   "dateFormatted": "June 22, 2026",
   "headline": {
-    "title": "When the Trump administration cracks down on Anthropic, who benefits?",
-    "summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
-    "sourceUrl": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+    "title": "The AI world is getting ‘loopy’",
+    "summary": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.",
+    "sourceUrl": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
     "sourceName": "TechCrunch AI"
   },
   "simpleSummary": [
@@ -15,178 +15,389 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "When the Trump administration cracks down on Anthropic, who benefits?",
-        "summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
-        "content": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
+        "title": "The AI world is getting ‘loopy’",
+        "summary": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.",
+        "content": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+        "sourceUrl": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Sun, 21 Jun 2026 15:28:17 +0000",
+        "publishedAt": "Mon, 22 Jun 2026 20:53:11 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-002",
-        "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
-        "summary": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.",
-        "content": "Siri’s AI overhaul may have grabbed the headlines at WWDC, but some of Apple’s most useful AI features are arriving elsewhere in iOS 27.",
+        "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+        "summary": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.",
+        "content": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+        "sourceUrl": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Sun, 21 Jun 2026 14:40:28 +0000",
+        "publishedAt": "Mon, 22 Jun 2026 20:13:58 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-003",
-        "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-        "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
-        "content": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI’s largest enterprise AI rollouts.",
+        "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
+        "summary": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants.",
+        "content": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-        "sourceName": "OpenAI Blog",
+        "sourceUrl": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+        "sourceName": "TechCrunch AI",
         "tags": [
-          "OpenAI Blog"
+          "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Sun, 21 Jun 2026 23:00:00 GMT",
+        "publishedAt": "Mon, 22 Jun 2026 20:08:15 +0000",
         "normalizedTags": [
-          "openai blog"
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-004",
+        "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
+        "summary": "Google DeepMind and A24 are teaming up to build AI filmmaking tools.",
+        "content": "Google DeepMind and A24 are teaming up to build AI filmmaking tools.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 22 Jun 2026 18:49:44 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-005",
+        "title": "Amazon is testing Alexa+ in India with Hindi support",
+        "summary": "Amazon is planning to increase the footprint of its new conversational AI assistant Alexa+ to India and is inviting users in the country to test out a Hindi-language version.",
+        "content": "Amazon is planning to increase the footprint of its new conversational AI assistant Alexa+ to India and is inviting users in the country to test out a Hindi-language version.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 22 Jun 2026 17:31:29 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
         ]
       }
     ],
     "creative": [
       {
-        "id": "AI-004",
-        "title": "AI is inflating student grades, and the effect points to outsourced work, not better learning",
-        "summary": "A UC Berkeley study of more than 500,000 grades found that courses heavy on writing and coding saw grades jump after ChatGPT launched. The effect shows up mainly in homework, a sign that AI is replacing student work rather than improving learning.\nTh",
-        "content": "A UC Berkeley study of more than 500,000 grades found that courses heavy on writing and coding saw grades jump after ChatGPT launched. The effect shows up mainly in homework, a sign that AI is replacing student work rather than improving learning.\nThe article AI is inflating student grades, and the effect points to outsourced work, not better learning appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/ai-is-inflating-student-grades-and-the-effect-points-to-outsourced-work-not-better-learning/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Sun, 21 Jun 2026 12:01:46 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
-      },
-      {
-        "id": "AI-005",
-        "title": "Sam Altman says a whole generation of researchers held AI back by underestimating what scaling could do",
-        "summary": "At a Stanford talk, Sam Altman defended LLM scaling and hit back at skeptics, saying a whole generation of researchers slowed the field by underestimating what scaling could do. He cited OpenAI's recent disproof of a mathematical conjecture as eviden",
-        "content": "At a Stanford talk, Sam Altman defended LLM scaling and hit back at skeptics, saying a whole generation of researchers slowed the field by underestimating what scaling could do. He cited OpenAI's recent disproof of a mathematical conjecture as evidence.\nThe article Sam Altman says a whole generation of researchers held AI back by underestimating what scaling could do appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/sam-altman-says-a-whole-generation-of-researchers-held-ai-back-by-underestimating-what-scaling-could-do/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Sun, 21 Jun 2026 09:12:01 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
-      },
-      {
         "id": "AI-006",
-        "title": "AWS says AI agents lack business context and security, launches two services to patch the gaps",
-        "summary": "At its summit in New York, AWS unveiled two new services. Continuum automatically detects, prioritizes, and fixes code vulnerabilities. Context builds a knowledge graph from corporate data to give AI agents the business context they need. Both tackle",
-        "content": "At its summit in New York, AWS unveiled two new services. Continuum automatically detects, prioritizes, and fixes code vulnerabilities. Context builds a knowledge graph from corporate data to give AI agents the business context they need. Both tackle the same problem: agents that write code fast but get things wrong too often.\nThe article AWS says AI agents lack business context and security, launches two services to patch the gaps appeared first on The Decoder.",
+        "title": "Google makes Interactions API the default interface for Gemini models and agents",
+        "summary": "Google Deepmind has made the Interactions API the default interface for Gemini models and agents. It replaces the old generateContent API and uses a simplified schema with typed steps instead of role-based structures. New agent features will only shi",
+        "content": "Google Deepmind has made the Interactions API the default interface for Gemini models and agents. It replaces the old generateContent API and uses a simplified schema with typed steps instead of role-based structures. New agent features will only ship through this API going forward.\nThe article Google makes Interactions API the default interface for Gemini models and agents appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/aws-says-ai-agents-lack-business-context-and-security-launches-two-services-to-patch-the-gaps/",
+        "sourceUrl": "https://the-decoder.com/google-makes-interactions-api-the-default-interface-for-gemini-models-and-agents/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Sun, 21 Jun 2026 08:25:41 +0000",
+        "publishedAt": "Mon, 22 Jun 2026 18:11:34 +0000",
         "normalizedTags": [
           "the decoder"
         ]
       },
       {
         "id": "AI-007",
-        "title": " How one creator is using AI to build an entire transmedia sci-fi universe ",
-        "summary": "\"Without AI, NUVAGAIA would still be a folder of notes,\" says Gerard Bisbal.",
-        "content": "\"Without AI, NUVAGAIA would still be a folder of notes,\" says Gerard Bisbal.",
+        "title": "Anthropic and Micron want to co-design AI memory architecture",
+        "summary": "Micron is investing in Anthropic's Series H round and getting a multi-year deal to supply memory for Claude's infrastructure. Anthropic co-founder Tom Brown calls memory critical to training and running Claude. Critics say circular deals like this ar",
+        "content": "Micron is investing in Anthropic's Series H round and getting a multi-year deal to supply memory for Claude's infrastructure. Anthropic co-founder Tom Brown calls memory critical to training and running Claude. Critics say circular deals like this are inflating a bubble. Micron's stock has surged more than tenfold in a single year.\nThe article Anthropic and Micron want to co-design AI memory architecture appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.creativebloq.com/ai/how-one-person-is-using-ai-to-create-a-transmedia-universe",
-        "sourceName": "Creative Bloq",
+        "sourceUrl": "https://the-decoder.com/anthropic-and-micron-want-to-co-design-ai-memory-architecture/",
+        "sourceName": "The Decoder",
         "tags": [
-          "Creative Bloq"
+          "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Sun, 21 Jun 2026 18:12:55 +0000",
+        "publishedAt": "Mon, 22 Jun 2026 17:18:59 +0000",
         "normalizedTags": [
-          "creative bloq"
+          "the decoder"
         ]
       },
       {
         "id": "AI-008",
-        "title": " Forget Switch Prime Day deals, the gorgeous GameSir G7 Pro 8K PC controller is perfect and 20% off right now ",
-        "summary": "Yes, I'm an unapologetic PC gamer. Yes, I know it's more expensive. Which is why I'm helping you get those gaming endorphins for less.",
-        "content": "Yes, I'm an unapologetic PC gamer. Yes, I know it's more expensive. Which is why I'm helping you get those gaming endorphins for less.",
+        "title": "Microsoft is building a 2-gigawatt data center in Texas with its own gas plant to dodge the grid",
+        "summary": "Microsoft is building a roughly 2-gigawatt data center campus in Pecos, Texas, one of the biggest single capacity adds in its history. In an open letter, the company promises stable power prices and minimal water use, directly addressing the local ba",
+        "content": "Microsoft is building a roughly 2-gigawatt data center campus in Pecos, Texas, one of the biggest single capacity adds in its history. In an open letter, the company promises stable power prices and minimal water use, directly addressing the local backlash that has killed dozens of data center projects across the US.\nThe article Microsoft is building a 2-gigawatt data center in Texas with its own gas plant to dodge the grid appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.creativebloq.com/entertainment/gaming/forget-switch-prime-day-deals-the-gorgeous-gamesir-g7-pro-8k-pc-controller-is-perfect-and-20-percent-off-right-now",
-        "sourceName": "Creative Bloq",
+        "sourceUrl": "https://the-decoder.com/microsoft-is-building-a-2-gigawatt-data-center-in-texas-with-its-own-gas-plant-to-dodge-the-grid/",
+        "sourceName": "The Decoder",
         "tags": [
-          "Creative Bloq"
+          "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Sun, 21 Jun 2026 18:00:00 +0000",
+        "publishedAt": "Mon, 22 Jun 2026 16:35:54 +0000",
         "normalizedTags": [
-          "creative bloq"
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-009",
+        "title": "Getty Images strikes multi-year deal to put licensed photos in ChatGPT search",
+        "summary": "Getty Images has entered into a multi-year licensing agreement with OpenAI.\nThe article Getty Images strikes multi-year deal to put licensed photos in ChatGPT search appeared first on The Decoder.",
+        "content": "Getty Images has entered into a multi-year licensing agreement with OpenAI.\nThe article Getty Images strikes multi-year deal to put licensed photos in ChatGPT search appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/getty-images-strikes-multi-year-deal-to-put-licensed-photos-in-chatgpt-search/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 22 Jun 2026 15:16:12 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-010",
+        "title": "Google Deepmind and A24 team up on AI filmmaking research",
+        "summary": "Google Deepmind and film studio A24 are entering a long-term research partnership. Google is also investing roughly $75 million in A24, according to the Wall Street Journal.\nThe article Google Deepmind and A24 team up on AI filmmaking research appear",
+        "content": "Google Deepmind and film studio A24 are entering a long-term research partnership. Google is also investing roughly $75 million in A24, according to the Wall Street Journal.\nThe article Google Deepmind and A24 team up on AI filmmaking research appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/google-deepmind-and-a24-team-up-on-ai-filmmaking-research/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 22 Jun 2026 15:03:46 +0000",
+        "normalizedTags": [
+          "the decoder"
         ]
       }
     ],
-    "research": [],
-    "applications": [],
-    "business": [],
-    "policy": [
+    "research": [
       {
-        "id": "AI-009",
-        "title": "Tesla Driver Using Autopilot Crashes Into Home in Texas and Kills a Woman, Officials Say",
-        "summary": "The driver told investigators he was using the vehicle’s automated-driver system when the vehicle left the roadway and crashed into a house in Harris County, Texas.",
-        "content": "The driver told investigators he was using the vehicle’s automated-driver system when the vehicle left the roadway and crashed into a house in Harris County, Texas.",
+        "id": "AI-011",
+        "title": "Three things to watch amid Anthropic’s latest feud with the government",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap:",
+        "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap: In April the company said it had built an AI model called Mythos…",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/06/21/us/tesla-autopilot-crash-texas.html",
+        "sourceUrl": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 22 Jun 2026 18:00:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-012",
+        "title": "The Download: record-breaking subsea tunnels and flexible data centers",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside the world’s deepest and longest subsea road tunnel —Niall Firth I’m currently around 1,000 feet beneath t",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside the world’s deepest and longest subsea road tunnel —Niall Firth I’m currently around 1,000 feet beneath the North Sea, in a dark, dank cave. It smells weird. And I’m increasingly…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 22 Jun 2026 12:10:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-013",
+        "title": "Inside the world’s deepest and longest subsea road tunnel",
+        "summary": "It’s cold, it’s very, very noisy, and—if I can be quite honest with you—I’m not feeling super relaxed. I’m currently around 300 meters, or 1,000 feet, beneath the North Sea, in a dark, dank cave. It smells weird. And I am increasingly aware of the pr",
+        "content": "It’s cold, it’s very, very noisy, and—if I can be quite honest with you—I’m not feeling super relaxed. I’m currently around 300 meters, or 1,000 feet, beneath the North Sea, in a dark, dank cave. It smells weird. And I am increasingly aware of the pressure from millions of tons of seawater just above my…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 22 Jun 2026 08:00:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      }
+    ],
+    "applications": [],
+    "business": [
+      {
+        "id": "AI-014",
+        "title": "Ro Khanna challenges Elon Musk to televised debate after online DOGE battle  ",
+        "summary": "Rep. Ro Khanna, D-Calif., has been a critic of the Elon-Musk-led Department of Government Efficiency cuts.",
+        "content": "Rep. Ro Khanna, D-Calif., has been a critic of the Elon-Musk-led Department of Government Efficiency cuts.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/06/22/ro-khanna-challenges-elon-musk-to-televised-debate-after-doge-battle.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 22 Jun 2026 23:22:22 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-015",
+        "title": "Tesla faces federal probe after Model 3 slams into Texas home, killing 76-year-old",
+        "summary": "Harris County authorities said that the driver, Michael Butler, said that he had been using Tesla's partially automated driving systems.",
+        "content": "Harris County authorities said that the driver, Michael Butler, said that he had been using Tesla's partially automated driving systems.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/06/22/tesla-nhtsa-model-3-crash-autopilot-katy-texas.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 22 Jun 2026 22:18:22 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-016",
+        "title": "Alphabet has its worst day in over a year on AI concerns after high-profile exits",
+        "summary": "Google parent Alphabet has seen consecutive high-profile artificial intelligence researchers leave.",
+        "content": "Google parent Alphabet has seen consecutive high-profile artificial intelligence researchers leave.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 22 Jun 2026 21:04:29 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-017",
+        "title": "These 2 stocks could be big winners from the next generation of AI chips",
+        "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+        "content": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/06/22/these-2-stocks-could-be-big-winners-from-the-next-generation-of-ai-chips.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 22 Jun 2026 15:36:56 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-018",
+        "title": "Meta's WhatsApp head to step down, will be replaced by Indian fintech founder Kunal Shah",
+        "summary": "Will Cathcart will step down as the head of WhatsApp and move into another role at the company. Kunal Shah will take over.",
+        "content": "Will Cathcart will step down as the head of WhatsApp and move into another role at the company. Kunal Shah will take over.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/06/22/meta-kunal-shah-whatsapp-will-cathcart.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 22 Jun 2026 17:11:18 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      }
+    ],
+    "policy": [
+      {
+        "id": "AI-019",
+        "title": "Tesla Crash That Killed a Texas Woman Will be Investigated by Federal Regulators",
+        "summary": "The car’s driver-assistance system was in use when the crash killed a woman on Friday, the police said.",
+        "content": "The car’s driver-assistance system was in use when the crash killed a woman on Friday, the police said.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/06/22/business/tesla-texas-autopilot-crash-nhtsa.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Sun, 21 Jun 2026 19:49:15 +0000",
+        "publishedAt": "Mon, 22 Jun 2026 22:53:42 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-020",
+        "title": "How the ‘Hard Fork’ Hosts Bring Their Tech Podcast to a Live Audience",
+        "summary": "Kevin Roose and Casey Newton explain why they try to include “a little chaos” when they record their New York Times tech podcast in front of a crowd in San Francisco.",
+        "content": "Kevin Roose and Casey Newton explain why they try to include “a little chaos” when they record their New York Times tech podcast in front of a crowd in San Francisco.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/06/17/insider/hard-fork-podcast-live-audience-san-francisco.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 22 Jun 2026 15:14:00 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
@@ -195,60 +406,98 @@
     "concerns": [],
     "culture": [
       {
-        "id": "AI-010",
-        "title": "Brands using AI-generated influencers to promote products on social media",
-        "summary": "Investigation finds AI content that purports to show genuine customers, prompting calls for greater transparency\nBrands promoting their products online are quietly deploying AI-generated influencers on social media, an investigation has found, prompt",
-        "content": "Investigation finds AI content that purports to show genuine customers, prompting calls for greater transparency\nBrands promoting their products online are quietly deploying AI-generated influencers on social media, an investigation has found, prompting calls for greater transparency.\nThe findings suggest companies are increasingly turning to AI-generated content that purports to show genuine customer experiences while giving no obvious indication that the people featured are not real.\n Continue",
+        "id": "AI-021",
+        "title": "HR consultant wins English court case using AI lawyer in apparent legal first",
+        "summary": "Barrister who was given material produced by Garfield AI says advocacy at trial ‘remained fundamentally human’\nAn artificial intelligence law firm has won a case in an English court, in what is believed to be the first time a trial has been won using",
+        "content": "Barrister who was given material produced by Garfield AI says advocacy at trial ‘remained fundamentally human’\nAn artificial intelligence law firm has won a case in an English court, in what is believed to be the first time a trial has been won using an AI lawyer.\nA freelance HR consultant, Tamires Camal Taquidir, paid the firm, Garfield AI, about £400 to send a legal letter and then issue court proceedings over an unpaid debt of £7,000.\n Continue reading...",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/jun/22/artificial-intelligence-law-firm-wins-court-case-in-england-for-first-time",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Sun, 21 Jun 2026 06:00:23 GMT",
+        "publishedAt": "Mon, 22 Jun 2026 21:09:28 GMT",
         "normalizedTags": [
           "the guardian ai"
         ]
       },
       {
-        "id": "AI-011",
-        "title": "Lloyds Banking Group to hire 300 tech experts to work on AI",
-        "summary": "Exclusive: While recruits will increase headcount for now, broader adoption of AI could lead to job cuts in future\nLloyds Banking Group has launched an AI recruitment drive for 300 tech experts, weeks before its chief executive, Charlie Nunn, announc",
-        "content": "Exclusive: While recruits will increase headcount for now, broader adoption of AI could lead to job cuts in future\nLloyds Banking Group has launched an AI recruitment drive for 300 tech experts, weeks before its chief executive, Charlie Nunn, announces a strategic plan for the 261-year-old lender.\nThe bank said it intended the recruits to work on its use and development of agentic AI by September, referring to autonomous AI models that can plan and execute tasks with minimal human oversight.\n Co",
+        "id": "AI-022",
+        "title": "New York City House primary emerges as key battleground in ‘AI civil war’",
+        "summary": "AI-focused Super Pacs are spending heavily in the midterms, and half has gone to a single Manhattan congressional race\nThe artificial intelligence industry is spending heavily in the 2026 midterms, hoping to secure influence over the technology’s fir",
+        "content": "AI-focused Super Pacs are spending heavily in the midterms, and half has gone to a single Manhattan congressional race\nThe artificial intelligence industry is spending heavily in the 2026 midterms, hoping to secure influence over the technology’s first generation of legislation – and New York City’s primary has emerged as the key battleground.\nAI-focused Super Pacs have raised over $100m this cycle, of which $49m has been spent so far, in dozens of congressional races across the country. Half of",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/business/2026/jun/20/lloyds-banking-group-ai-recruitment-drive-300-tech-experts",
+        "sourceUrl": "https://www.theguardian.com/us-news/2026/jun/22/new-york-city-house-primary-race",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Sun, 21 Jun 2026 23:02:43 GMT",
+        "publishedAt": "Mon, 22 Jun 2026 19:03:45 GMT",
         "normalizedTags": [
           "the guardian ai"
         ]
       },
       {
-        "id": "AI-012",
-        "title": "28 Tips to Take Your ChatGPT Prompts to the Next Level",
-        "summary": "Sure, anyone can use OpenAI’s chatbot. But with smart engineering, you can get way more interesting results.",
-        "content": "Sure, anyone can use OpenAI’s chatbot. But with smart engineering, you can get way more interesting results.",
+        "id": "AI-023",
+        "title": "AI models capable of devastating attacks on governments and business months away, rare Five Eyes statement warns",
+        "summary": "Signal agencies in Australia, the US, the UK, New Zealand and Canada sound alarm after Trump blocks foreign nationals from Anthropic’s Fable AI model\nPowerful AI models capable of devastating new cyber attacks on governments and businesses are mere m",
+        "content": "Signal agencies in Australia, the US, the UK, New Zealand and Canada sound alarm after Trump blocks foreign nationals from Anthropic’s Fable AI model\nPowerful AI models capable of devastating new cyber attacks on governments and businesses are mere months away, intelligence agencies for the Five Eyes have warned in a rare joint statement, urging leaders to “act now”.\nThe surprising public intervention by signals agencies for Australia, the US, the UK, New Zealand and Canada comes after the Trump",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/",
-        "sourceName": "Wired AI",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/jun/22/anthropic-claude-fable-ai-model-artificial-intelligence-national-security",
+        "sourceName": "The Guardian AI",
         "tags": [
-          "Wired AI"
+          "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Sun, 21 Jun 2026 10:30:00 +0000",
+        "publishedAt": "Mon, 22 Jun 2026 13:00:24 GMT",
         "normalizedTags": [
-          "wired ai"
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-024",
+        "title": "We are witnessing the slow death of the prestige career | Alice Lassman",
+        "summary": "White-collar work is at risk across the board, including at elite consulting firms that used to be a pathway to the 1%\nConsulting is a delicate contract: endure two challenging, formative years – and in return, get a golden ticket to anywhere. Firms ",
+        "content": "White-collar work is at risk across the board, including at elite consulting firms that used to be a pathway to the 1%\nConsulting is a delicate contract: endure two challenging, formative years – and in return, get a golden ticket to anywhere. Firms like McKinsey tout themselves as the “CEO factory”, and boast they’re “not surprised” to be consistently named the best place for future leaders.\nThe skills they promise to build – synthesis, sharp analysis, crisp communication, client-readiness, hyp",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/commentisfree/2026/jun/22/consulting-ai-prestige-careers",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 22 Jun 2026 10:00:21 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-025",
+        "title": "The Reverse Centaur’s Guide to Life After AI by Cory Doctorow review – the real price of artificial intelligence",
+        "summary": "A vivid and entertaining polemic on the economics of the tech revolution, filled with righteous ire\nAs former Google CEO Eric Schmidt  could tell you, AI is a hard sell these days. Last month, he tried talking up the AI revolution during a commenceme",
+        "content": "A vivid and entertaining polemic on the economics of the tech revolution, filled with righteous ire\nAs former Google CEO Eric Schmidt  could tell you, AI is a hard sell these days. Last month, he tried talking up the AI revolution during a commencement address at the University of Arizona and was loudly booed by students about to enter an AI-ravaged job market. His discombobulation was telling.\nSchmidt is not the only AI booster to crash out with students recently as the popular backlash grows. ",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/books/2026/jun/22/the-reverse-centaurs-guide-to-life-after-ai-by-cory-doctorow-review-the-real-price-of-artificial-intelligence",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 22 Jun 2026 06:00:52 GMT",
+        "normalizedTags": [
+          "the guardian ai"
         ]
       }
     ]
@@ -259,18 +508,31 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
-    "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
-    "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-    "https://the-decoder.com/ai-is-inflating-student-grades-and-the-effect-points-to-outsourced-work-not-better-learning/",
-    "https://the-decoder.com/sam-altman-says-a-whole-generation-of-researchers-held-ai-back-by-underestimating-what-scaling-could-do/",
-    "https://the-decoder.com/aws-says-ai-agents-lack-business-context-and-security-launches-two-services-to-patch-the-gaps/",
-    "https://www.creativebloq.com/ai/how-one-person-is-using-ai-to-create-a-transmedia-universe",
-    "https://www.creativebloq.com/entertainment/gaming/forget-switch-prime-day-deals-the-gorgeous-gamesir-g7-pro-8k-pc-controller-is-perfect-and-20-percent-off-right-now",
-    "https://www.nytimes.com/2026/06/21/us/tesla-autopilot-crash-texas.html",
-    "https://www.theguardian.com/technology/2026/jun/21/brands-using-ai-generated-influencers-to-promote-products-on-social-media",
-    "https://www.theguardian.com/business/2026/jun/20/lloyds-banking-group-ai-recruitment-drive-300-tech-experts",
-    "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/"
+    "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+    "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+    "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+    "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+    "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
+    "https://the-decoder.com/google-makes-interactions-api-the-default-interface-for-gemini-models-and-agents/",
+    "https://the-decoder.com/anthropic-and-micron-want-to-co-design-ai-memory-architecture/",
+    "https://the-decoder.com/microsoft-is-building-a-2-gigawatt-data-center-in-texas-with-its-own-gas-plant-to-dodge-the-grid/",
+    "https://the-decoder.com/getty-images-strikes-multi-year-deal-to-put-licensed-photos-in-chatgpt-search/",
+    "https://the-decoder.com/google-deepmind-and-a24-team-up-on-ai-filmmaking-research/",
+    "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+    "https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/",
+    "https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/",
+    "https://www.cnbc.com/2026/06/22/ro-khanna-challenges-elon-musk-to-televised-debate-after-doge-battle.html",
+    "https://www.cnbc.com/2026/06/22/tesla-nhtsa-model-3-crash-autopilot-katy-texas.html",
+    "https://www.cnbc.com/2026/06/22/alphabet-goog-stock-ai-departures.html",
+    "https://www.cnbc.com/2026/06/22/these-2-stocks-could-be-big-winners-from-the-next-generation-of-ai-chips.html",
+    "https://www.cnbc.com/2026/06/22/meta-kunal-shah-whatsapp-will-cathcart.html",
+    "https://www.nytimes.com/2026/06/22/business/tesla-texas-autopilot-crash-nhtsa.html",
+    "https://www.nytimes.com/2026/06/17/insider/hard-fork-podcast-live-audience-san-francisco.html",
+    "https://www.theguardian.com/technology/2026/jun/22/artificial-intelligence-law-firm-wins-court-case-in-england-for-first-time",
+    "https://www.theguardian.com/us-news/2026/jun/22/new-york-city-house-primary-race",
+    "https://www.theguardian.com/technology/2026/jun/22/anthropic-claude-fable-ai-model-artificial-intelligence-national-security",
+    "https://www.theguardian.com/commentisfree/2026/jun/22/consulting-ai-prestige-careers",
+    "https://www.theguardian.com/books/2026/jun/22/the-reverse-centaurs-guide-to-life-after-ai-by-cory-doctorow-review-the-real-price-of-artificial-intelligence"
   ],
-  "generatedAt": "2026-06-22T00:05:32.903Z"
+  "generatedAt": "2026-06-23T00:02:04.648Z"
 }
