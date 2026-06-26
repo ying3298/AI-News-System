@@ -2,9 +2,9 @@
   "date": "2026-06-26",
   "dateFormatted": "June 26, 2026",
   "headline": {
-    "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-    "summary": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to.",
-    "sourceUrl": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+    "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+    "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”",
+    "sourceUrl": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
     "sourceName": "TechCrunch AI"
   },
   "simpleSummary": [
@@ -15,95 +15,95 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-        "summary": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to.",
-        "content": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to.",
+        "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+        "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”",
+        "content": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.”",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+        "sourceUrl": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Thu, 25 Jun 2026 23:34:39 +0000",
+        "publishedAt": "Fri, 26 Jun 2026 18:32:14 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-002",
-        "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
-        "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
-        "content": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
+        "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+        "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
+        "content": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+        "sourceUrl": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Thu, 25 Jun 2026 20:19:25 +0000",
+        "publishedAt": "Fri, 26 Jun 2026 18:19:36 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-003",
-        "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
-        "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
-        "content": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
+        "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+        "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.   OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a",
+        "content": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.   OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out of single-supplier risk. The goal is less of a […]",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+        "sourceUrl": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Thu, 25 Jun 2026 17:38:27 +0000",
+        "publishedAt": "Fri, 26 Jun 2026 17:43:22 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-004",
-        "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
-        "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
-        "content": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
+        "title": "It’s not about Anthropic vs. OpenAI anymore",
+        "summary": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
+        "content": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+        "sourceUrl": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Thu, 25 Jun 2026 16:55:00 +0000",
+        "publishedAt": "Fri, 26 Jun 2026 16:24:47 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-005",
-        "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
-        "summary": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
-        "content": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
+        "title": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
+        "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.   OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a",
+        "content": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.   OpenAI just shared its plans to spice things up with Jalapeño, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building their way out of single-supplier risk. The goal is less of a […]",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+        "sourceUrl": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Thu, 25 Jun 2026 16:48:11 +0000",
+        "publishedAt": "Fri, 26 Jun 2026 14:00:00 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
@@ -112,95 +112,95 @@
     "creative": [
       {
         "id": "AI-006",
-        "title": "Most major AI chatbots still lean left on political questions, even \"anti-woke\" models are no exception",
-        "summary": "A Washington Post investigation shows that most major AI chatbots still skew left on political questions. OpenAI's GPT-5.5 gave exclusively left-leaning arguments 80 percent of the time, and even Musk's Grok, marketed as anti-\"woke,\" leaned left more",
-        "content": "A Washington Post investigation shows that most major AI chatbots still skew left on political questions. OpenAI's GPT-5.5 gave exclusively left-leaning arguments 80 percent of the time, and even Musk's Grok, marketed as anti-\"woke,\" leaned left more often than not. The one outlier: Google's Gemini 3.1 Pro presented both sides 93 percent of the time.\nThe article Most major AI chatbots still lean left on political questions, even \"anti-woke\" models are no exception appeared first on The Decoder.",
+        "title": "OpenAI's GPT-5.6 Sol launches to rival Claude Mythos under government access rules it calls unsustainable",
+        "summary": "OpenAI's new flagship GPT-5.6 Sol beats Anthropic's Claude Mythos 5 in coding benchmarks, but the US government is forcing a restricted rollout. OpenAI isn't happy about it.\nThe article OpenAI's GPT-5.6 Sol launches to rival Claude Mythos under gover",
+        "content": "OpenAI's new flagship GPT-5.6 Sol beats Anthropic's Claude Mythos 5 in coding benchmarks, but the US government is forcing a restricted rollout. OpenAI isn't happy about it.\nThe article OpenAI's GPT-5.6 Sol launches to rival Claude Mythos under government access rules it calls unsustainable appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/most-major-ai-chatbots-still-lean-left-on-political-questions-even-anti-woke-models-are-no-exception/",
+        "sourceUrl": "https://the-decoder.com/openais-claude-mythos-competitor-gpt-5-6-sol-launches-under-government-controlled-access-it-calls-unsustainable/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Thu, 25 Jun 2026 16:04:32 +0000",
+        "publishedAt": "Fri, 26 Jun 2026 18:30:01 +0000",
         "normalizedTags": [
           "the decoder"
         ]
       },
       {
         "id": "AI-007",
-        "title": "Insurers turn to generative AI for catastrophe modeling, but hallucinations and sales logic could get in the way",
-        "summary": "Diffusion models generate tens of thousands of plausible weather events where historical data doesn't exist. Insurers are hoping for more precise risk assessments. Researchers warn about hallucinations.\nThe article Insurers turn to generative AI for ",
-        "content": "Diffusion models generate tens of thousands of plausible weather events where historical data doesn't exist. Insurers are hoping for more precise risk assessments. Researchers warn about hallucinations.\nThe article Insurers turn to generative AI for catastrophe modeling, but hallucinations and sales logic could get in the way appeared first on The Decoder.",
+        "title": "An AI model programmed nonstop for 19 days on a single MirrorCode task that cost $2,600 to run",
+        "summary": "Epoch AI's new MirrorCode benchmark tests whether AI models can recreate complete programs without access to the original code. Claude Opus 4.7 leads with a 56 percent solve rate, rebuilding a 16,000-line toolkit in just 14 hours. But every model tes",
+        "content": "Epoch AI's new MirrorCode benchmark tests whether AI models can recreate complete programs without access to the original code. Claude Opus 4.7 leads with a 56 percent solve rate, rebuilding a 16,000-line toolkit in just 14 hours. But every model tested still fails on the most complex tasks.\nThe article An AI model programmed nonstop for 19 days on a single MirrorCode task that cost $2,600 to run appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/insurers-turn-to-generative-ai-for-catastrophe-modeling-but-hallucinations-and-sales-logic-could-get-in-the-way/",
+        "sourceUrl": "https://the-decoder.com/an-ai-model-programmed-nonstop-for-19-days-on-a-single-mirrorcode-task-that-cost-2600-to-run/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Thu, 25 Jun 2026 14:13:14 +0000",
+        "publishedAt": "Fri, 26 Jun 2026 17:24:27 +0000",
         "normalizedTags": [
           "the decoder"
         ]
       },
       {
         "id": "AI-008",
-        "title": "Grok AI is reportedly a porn platform now, with over half its traffic tied to adult content",
-        "summary": "Two former xAI employees estimate that porn accounts for well over half of all Grok traffic. xAI is leaning into it, while OpenAI, Anthropic, and Google won't touch adult content.\nThe article Grok AI is reportedly a porn platform now, with over half ",
-        "content": "Two former xAI employees estimate that porn accounts for well over half of all Grok traffic. xAI is leaning into it, while OpenAI, Anthropic, and Google won't touch adult content.\nThe article Grok AI is reportedly a porn platform now, with over half its traffic tied to adult content appeared first on The Decoder.",
+        "title": "AI startup Lindy ditched Claude entirely for Deepseek, saving millions as cost pressure mounts on Anthropic",
+        "summary": "AI startup Lindy ditched Claude entirely for Deepseek after AI costs exceeded personnel costs. CEO Flo Crivello calls it \"a matter of survival for the business.\"\nThe article AI startup Lindy ditched Claude entirely for Deepseek, saving millions as co",
+        "content": "AI startup Lindy ditched Claude entirely for Deepseek after AI costs exceeded personnel costs. CEO Flo Crivello calls it \"a matter of survival for the business.\"\nThe article AI startup Lindy ditched Claude entirely for Deepseek, saving millions as cost pressure mounts on Anthropic appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/grok-ai-is-reportedly-a-porn-platform-now-with-over-half-its-traffic-tied-to-adult-content/",
+        "sourceUrl": "https://the-decoder.com/ai-startup-lindy-ditched-claude-entirely-for-deepseek-saving-millions-as-cost-pressure-mounts-on-anthropic/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Thu, 25 Jun 2026 13:40:46 +0000",
+        "publishedAt": "Fri, 26 Jun 2026 15:09:26 +0000",
         "normalizedTags": [
           "the decoder"
         ]
       },
       {
         "id": "AI-009",
-        "title": "Authors Guild test finds some AI detectors perfectly identify human writing while others fail on every single text",
-        "summary": "The Authors Guild tested five AI detectors on human-written texts. Pangram and Grammarly correctly identified all of them, while Sidekicker and ZeroGPT flagged human-written articles as AI-generated. But the Guild also warns of a paradox: professiona",
-        "content": "The Authors Guild tested five AI detectors on human-written texts. Pangram and Grammarly correctly identified all of them, while Sidekicker and ZeroGPT flagged human-written articles as AI-generated. But the Guild also warns of a paradox: professionally written texts look statistically similar to AI output because language models were trained on exactly that kind of writing.\nThe article Authors Guild test finds some AI detectors perfectly identify human writing while others fail on every single ",
+        "title": "Altman won't go public for less than $1 trillion, so OpenAI's IPO may slip to 2027",
+        "summary": "Advisors are telling OpenAI to hold off on going public until next year. The triggers: volatile tech markets and SpaceX's weak stock performance after its record IPO. SoftBank, one of OpenAI's biggest backers, lost 13 percent in a single day.\nThe art",
+        "content": "Advisors are telling OpenAI to hold off on going public until next year. The triggers: volatile tech markets and SpaceX's weak stock performance after its record IPO. SoftBank, one of OpenAI's biggest backers, lost 13 percent in a single day.\nThe article Altman won't go public for less than $1 trillion, so OpenAI's IPO may slip to 2027 appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/authors-guild-test-finds-some-ai-detectors-perfectly-identify-human-writing-while-others-fail-on-every-single-text/",
+        "sourceUrl": "https://the-decoder.com/altman-wont-go-public-for-less-than-1-trillion-so-openais-ipo-may-slip-to-2027/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Thu, 25 Jun 2026 11:21:37 +0000",
+        "publishedAt": "Fri, 26 Jun 2026 12:43:53 +0000",
         "normalizedTags": [
           "the decoder"
         ]
       },
       {
         "id": "AI-010",
-        "title": "Meta employees warn AI moderation rollout is too fast",
-        "summary": "By 2025, Meta will have already replaced about half of all human moderation requests with large language models and aims to increase that percentage to over 90 percent for certain types of content by the end of the year.\nThe article Meta employees wa",
-        "content": "By 2025, Meta will have already replaced about half of all human moderation requests with large language models and aims to increase that percentage to over 90 percent for certain types of content by the end of the year.\nThe article Meta employees warn AI moderation rollout is too fast appeared first on The Decoder.",
+        "title": "Anthropic doesn't need junior engineers anymore thanks to AI and warns of an economic shock when other industries follow",
+        "summary": "\"Returns on intuition\": Why Anthropic no longer needs junior engineers and warns of an economic shock.\nThe article Anthropic doesn't need junior engineers anymore thanks to AI and warns of an economic shock when other industries follow appeared first",
+        "content": "\"Returns on intuition\": Why Anthropic no longer needs junior engineers and warns of an economic shock.\nThe article Anthropic doesn't need junior engineers anymore thanks to AI and warns of an economic shock when other industries follow appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/meta-employees-warn-ai-moderation-rollout-is-too-fast/",
+        "sourceUrl": "https://the-decoder.com/anthropic-doesnt-need-junior-engineers-anymore-thanks-to-ai-and-warns-of-an-economic-shock-when-other-industries-follow/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Thu, 25 Jun 2026 10:07:19 +0000",
+        "publishedAt": "Fri, 26 Jun 2026 11:18:07 +0000",
         "normalizedTags": [
           "the decoder"
         ]
@@ -209,95 +209,95 @@
     "research": [
       {
         "id": "AI-011",
-        "title": "Repositioning retail for the AI era",
-        "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes:",
-        "content": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in search results, how inventory moves through supply chains, how engineers ship code faster, and…",
+        "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been hot in Lon",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western…",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+        "sourceUrl": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
         "sourceName": "MIT Tech Review",
         "tags": [
           "MIT Tech Review"
         ],
         "section": "research",
         "readTime": "2 min",
-        "publishedAt": "Thu, 25 Jun 2026 14:22:59 +0000",
+        "publishedAt": "Fri, 26 Jun 2026 12:10:00 +0000",
         "normalizedTags": [
           "mit tech review"
         ]
       },
       {
         "id": "AI-012",
-        "title": "The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Europe’s extreme heat is shutting down power plants Europe is in the middle of a record-breaking heat wave, and ",
-        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Europe’s extreme heat is shutting down power plants Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to…",
+        "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
+        "summary": "It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather app on my phone confirmed, it felt like 39 °C. It’s",
+        "content": "It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather app on my phone confirmed, it felt like 39 °C. It’s frightening that we are seeing such temperatures in…",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
+        "sourceUrl": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
         "sourceName": "MIT Tech Review",
         "tags": [
           "MIT Tech Review"
         ],
         "section": "research",
         "readTime": "2 min",
-        "publishedAt": "Thu, 25 Jun 2026 12:10:00 +0000",
+        "publishedAt": "Fri, 26 Jun 2026 09:00:00 +0000",
         "normalizedTags": [
           "mit tech review"
         ]
       },
       {
         "id": "AI-013",
-        "title": "What Europe’s heat wave means for the power grid",
-        "summary": "It’s been hard to look away from headlines about the European heat wave this week. Temperatures are breaking records across the continent, and the weather is threatening lives, shutting down schools, and in one particularly ironic case, forcing the c",
-        "content": "It’s been hard to look away from headlines about the European heat wave this week. Temperatures are breaking records across the continent, and the weather is threatening lives, shutting down schools, and in one particularly ironic case, forcing the cancellation of a London Climate Action Week event about extreme heat.  As the summer ramps up…",
+        "title": "Detecting and Controlling Sycophancy with Cascading Linear Features",
+        "summary": "arXiv:2606.26155v1 Announce Type: new \nAbstract: Interpreting and controlling model behaviors through activation steering methods requires many pairs of contrastive samples that clearly exhibit desired or undesired behavior. These data pairs determin",
+        "content": "arXiv:2606.26155v1 Announce Type: new \nAbstract: Interpreting and controlling model behaviors through activation steering methods requires many pairs of contrastive samples that clearly exhibit desired or undesired behavior. These data pairs determine the degree to which interpretability frameworks can reliably detect model features responsible for a behavior, and therefore the ability to steer models toward or away from such behavior. In this work, we present an iterative data generation pipeli",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 25 Jun 2026 10:00:00 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-014",
-        "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
-        "summary": "IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company’s previous state-of-the-art technology announced in 2021. The design could pave the way for faster a",
-        "content": "IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company’s previous state-of-the-art technology announced in 2021. The design could pave the way for faster and more energy efficient computers for years to come. For more than half…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 25 Jun 2026 10:00:00 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-015",
-        "title": "The Hitchhiker's Guide to Agentic AI: From Foundations to Systems",
-        "summary": "arXiv:2606.24937v1 Announce Type: new \nAbstract: The Hitchhiker's Guide to Agentic AI is a comprehensive practitioner's reference for building autonomous AI systems. The book covers the full stack from first principles to production deployment, organ",
-        "content": "arXiv:2606.24937v1 Announce Type: new \nAbstract: The Hitchhiker's Guide to Agentic AI is a comprehensive practitioner's reference for building autonomous AI systems. The book covers the full stack from first principles to production deployment, organized around a central thesis: building great agentic systems requires understanding every layer of the pipeline, not just one. The book opens with the LLM substrate -- transformer architecture, GPU systems, training and fine-tuning (SFT,LoRA, MoE), m",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://arxiv.org/abs/2606.24937",
+        "sourceUrl": "https://arxiv.org/abs/2606.26155",
         "sourceName": "ArXiv CS.AI",
         "tags": [
           "ArXiv CS.AI"
         ],
         "section": "research",
         "readTime": "2 min",
-        "publishedAt": "Thu, 25 Jun 2026 00:00:00 -0400",
+        "publishedAt": "Fri, 26 Jun 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ]
+      },
+      {
+        "id": "AI-014",
+        "title": "Life After Benchmark Saturation: A Case Study of CORE-Bench",
+        "summary": "arXiv:2606.26158v1 Announce Type: new \nAbstract: When a benchmark's accuracy saturates, it is often retired and replaced with a more challenging version. We show that this approach privileges accuracy and misses the opportunity to study six other key",
+        "content": "arXiv:2606.26158v1 Announce Type: new \nAbstract: When a benchmark's accuracy saturates, it is often retired and replaced with a more challenging version. We show that this approach privileges accuracy and misses the opportunity to study six other key dimensions of agent performance: construct validity issues such as shortcuts, out-of-distribution generalizability, efficiency, reliability, the relative importance of the model versus the scaffold, and uplift from human-agent collaboration. We use ",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2606.26158",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 26 Jun 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ]
+      },
+      {
+        "id": "AI-015",
+        "title": "Refusal Lives Downstream of Persona in Chat Models",
+        "summary": "arXiv:2606.26161v1 Announce Type: new \nAbstract: Linear directions in activation space have been identified for both refusal and persona traits in instruction-tuned chat models, but the two have been studied as separate mechanisms. We show they inter",
+        "content": "arXiv:2606.26161v1 Announce Type: new \nAbstract: Linear directions in activation space have been identified for both refusal and persona traits in instruction-tuned chat models, but the two have been studied as separate mechanisms. We show they interact: a compliant persona gates refusal. In Qwen2.5-7B-Instruct and Llama-3.1-8B-Instruct, we extract a compliant model-persona direction and a refusal direction and intervene on both. Compliant persona steering suppresses refusal -- in Llama, the ref",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2606.26161",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 26 Jun 2026 00:00:00 -0400",
         "normalizedTags": [
           "arxiv cs.ai"
         ]
@@ -307,95 +307,95 @@
     "business": [
       {
         "id": "AI-016",
-        "title": "ON Semiconductor strikes $7 billion deal for Synaptics in physical AI push",
-        "summary": "ON Semiconductor said the deal bumps up its total addressable market by $30 billion, to $243 billion by 2030.",
-        "content": "ON Semiconductor said the deal bumps up its total addressable market by $30 billion, to $243 billion by 2030.",
+        "title": "Trump admin allows Anthropic to release Mythos AI model to some companies, government agencies: Reports",
+        "summary": "Anthropic disabled access to its Fable 5 and Mythos 5 models to comply with a government export control directive citing \"national security authorities.\"",
+        "content": "Anthropic disabled access to its Fable 5 and Mythos 5 models to comply with a government export control directive citing \"national security authorities.\"",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/06/25/on-semi-synaptics-deal-physical-ai.html",
+        "sourceUrl": "https://www.cnbc.com/2026/06/26/us-government-anthropic-claude-mythos5-ai.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Thu, 25 Jun 2026 22:59:43 GMT",
+        "publishedAt": "Fri, 26 Jun 2026 23:39:55 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-017",
-        "title": "Apple stock gets slammed on bigger Mac, iPad price hikes. Why it can weather the storm",
-        "summary": "The stock had its worst session in more than a year as management made its first official move to pass higher memory costs onto consumers.",
-        "content": "The stock had its worst session in more than a year as management made its first official move to pass higher memory costs onto consumers.",
+        "title": "China's Zhipu is closing in on top U.S. AI models with Anthropic and OpenAI held back",
+        "summary": "Zhipu's GLM 5.2 shows the AI fight is shifting to who delivers the most intelligence per dollar, making open source suddenly a real contender.",
+        "content": "Zhipu's GLM 5.2 shows the AI fight is shifting to who delivers the most intelligence per dollar, making open source suddenly a real contender.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/06/25/apple-stock-gets-slammed-on-bigger-mac-ipad-price-hikes-why-it-can-weather-the-storm.html",
+        "sourceUrl": "https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Thu, 25 Jun 2026 20:27:58 GMT",
+        "publishedAt": "Fri, 26 Jun 2026 22:11:33 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-018",
-        "title": "Microsoft lifts price of Xbox consoles due to soaring component costs",
-        "summary": "Microsoft said it's increasing the price of Xbox game consoles after Apple announced price hikes for MacBooks and iPads.",
-        "content": "Microsoft said it's increasing the price of Xbox game consoles after Apple announced price hikes for MacBooks and iPads.",
+        "title": "Oracle stock has worst week since 2001 dot-com bust as AI financing concerns escalate",
+        "summary": "Oracle's surging spending, negative free cash flow and $130 billion debt pile are weighing on the stock.",
+        "content": "Oracle's surging spending, negative free cash flow and $130 billion debt pile are weighing on the stock.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/06/25/microsoft-lifts-price-of-xbox-consoles-due-to-soaring-component-costs.html",
+        "sourceUrl": "https://www.cnbc.com/2026/06/26/oracle-stock-ends-worst-week-since-2001-as-investors-dwell-on-finances.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Thu, 25 Jun 2026 20:17:18 GMT",
+        "publishedAt": "Fri, 26 Jun 2026 22:29:27 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-019",
-        "title": "Here's our plan for FedEx Freight's stock heading into its first earnings call",
-        "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
-        "content": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+        "title": "Meta's flurry of AI initiatives this month hasn't helped lift the stock. What will?",
+        "summary": "Meta has to justify its AI spending to unlock the struggling stock.",
+        "content": "Meta has to justify its AI spending to unlock the struggling stock.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/06/25/heres-our-plan-for-fedex-freights-stock-heading-into-its-first-earnings-call.html",
+        "sourceUrl": "https://www.cnbc.com/2026/06/26/metas-flurry-of-ai-initiatives-this-month-hasnt-helped-lift-the-stock-what-will.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Thu, 25 Jun 2026 15:54:56 GMT",
+        "publishedAt": "Fri, 26 Jun 2026 17:45:09 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-020",
-        "title": "Apple posts worst day in over a year after MacBook and iPad price hikes",
-        "summary": "Tim Cook said last week that Apple would hike prices due to surging memory and storage costs.",
-        "content": "Tim Cook said last week that Apple would hike prices due to surging memory and storage costs.",
+        "title": "OpenAI limits new AI models to 'trusted partners' at request of U.S. government",
+        "summary": "OpenAI said it previewed the new models' capabilities with the government ahead of the launch.",
+        "content": "OpenAI said it previewed the new models' capabilities with the government ahead of the launch.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/06/25/apple-macbook-ipad-price-hike-memory.html",
+        "sourceUrl": "https://www.cnbc.com/2026/06/26/openai-limits-new-ai-models-to-trusted-partners-request-us-government.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Thu, 25 Jun 2026 20:06:37 GMT",
+        "publishedAt": "Fri, 26 Jun 2026 17:02:44 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
@@ -404,95 +404,95 @@
     "policy": [
       {
         "id": "AI-021",
-        "title": "Apple Raises Prices on Macs and iPads Amid the A.I. Boom",
-        "summary": "The tech giant cited the soaring costs of memory and storage chips as it increased prices more than $200 on some devices.",
-        "content": "The tech giant cited the soaring costs of memory and storage chips as it increased prices more than $200 on some devices.",
+        "title": "Mark Zuckerberg Urges Meta to Explore Working With Polymarket and Kalshi",
+        "summary": "Mr. Zuckerberg’s plans for Arena, a prediction markets app that Meta is building, also include appealing to 18- to 34-year-old users.",
+        "content": "Mr. Zuckerberg’s plans for Arena, a prediction markets app that Meta is building, also include appealing to 18- to 34-year-old users.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/06/25/technology/apple-prices-macbooks-ipads.html",
+        "sourceUrl": "https://www.nytimes.com/2026/06/26/technology/zuckerberg-meta-polymarket-kalshi.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Thu, 25 Jun 2026 18:52:29 +0000",
+        "publishedAt": "Fri, 26 Jun 2026 21:03:17 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
       },
       {
         "id": "AI-022",
-        "title": "IBM Unveils New Method to Make Smaller Computer Chip Parts",
-        "summary": "Industry leaders had worried that innovations in chip miniaturization were no longer possible.",
-        "content": "Industry leaders had worried that innovations in chip miniaturization were no longer possible.",
+        "title": "Intel’s Chip Business Shows Signs of Life After Years of Struggle",
+        "summary": "It is the centerpiece of President Trump’s drive to make more chips in the United States, but the company still has a long way to go before it can be called a complete turnaround.",
+        "content": "It is the centerpiece of President Trump’s drive to make more chips in the United States, but the company still has a long way to go before it can be called a complete turnaround.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/06/25/technology/ibm-technology-tinier-chips.html",
+        "sourceUrl": "https://www.nytimes.com/2026/06/26/technology/intel-turnaround.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Thu, 25 Jun 2026 10:00:16 +0000",
+        "publishedAt": "Fri, 26 Jun 2026 08:54:16 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
       },
       {
         "id": "AI-023",
-        "title": "Trump Plans to Name Adam Candeub as Antitrust Chief in Justice Dept.",
-        "summary": "President Trump plans to nominate a tech critic and telecommunications lawyer, Adam Candeub, to lead the division.",
-        "content": "President Trump plans to nominate a tech critic and telecommunications lawyer, Adam Candeub, to lead the division.",
+        "title": "How a Niche Technology Became a Choke Point for A.I.",
+        "summary": "Advanced chip packaging, which boosts computing power for artificial intelligence, has made the United States more reliant on Taiwan than ever.",
+        "content": "Advanced chip packaging, which boosts computing power for artificial intelligence, has made the United States more reliant on Taiwan than ever.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/06/25/technology/trump-antitrust-doj-adam-candeub.html",
+        "sourceUrl": "https://www.nytimes.com/2026/06/26/technology/ai-advanced-chip-packaging-tsmc.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Thu, 25 Jun 2026 23:25:18 +0000",
+        "publishedAt": "Fri, 26 Jun 2026 18:55:00 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
       },
       {
         "id": "AI-024",
-        "title": "The New York Times Amends Lawsuit Against OpenAI and Microsoft",
-        "summary": "In a new court filing, The Times accused Microsoft of encouraging OpenAI to train its A.I. systems using copyrighted articles.",
-        "content": "In a new court filing, The Times accused Microsoft of encouraging OpenAI to train its A.I. systems using copyrighted articles.",
+        "title": "Om Malik, Whose Blog Shaped How Silicon Valley Saw Itself, Dies at 59",
+        "summary": "Gigaom, which he started in 2001, established him as a leading voice in the tech world and signaled a shift in how the media covered the industry.",
+        "content": "Gigaom, which he started in 2001, established him as a leading voice in the tech world and signaled a shift in how the media covered the industry.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/06/25/technology/times-lawsuit-openai-microsoft.html",
+        "sourceUrl": "https://www.nytimes.com/2026/06/26/technology/om-malik-dead.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Thu, 25 Jun 2026 23:11:23 +0000",
+        "publishedAt": "Fri, 26 Jun 2026 22:41:22 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
       },
       {
         "id": "AI-025",
-        "title": "OpenAI Leans Toward Holding Up I.P.O. Until Next Year",
-        "summary": "The A.I. company’s advisers are pushing its chief executive, Sam Altman, to move slowly after SpaceX’s stock has been volatile and as the start-up grapples with financial challenges.",
-        "content": "The A.I. company’s advisers are pushing its chief executive, Sam Altman, to move slowly after SpaceX’s stock has been volatile and as the start-up grapples with financial challenges.",
+        "title": "In Europe, Tesla Sales Are Rising Despite Views on Elon Musk",
+        "summary": "Price cuts and low-interest-rate loans are luring buyers, including people offended by the company’s chief executive.",
+        "content": "Price cuts and low-interest-rate loans are luring buyers, including people offended by the company’s chief executive.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
+        "sourceUrl": "https://www.nytimes.com/2026/06/26/business/tesla-elon-musk-europe.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Thu, 25 Jun 2026 20:58:38 +0000",
+        "publishedAt": "Fri, 26 Jun 2026 18:05:06 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
@@ -502,95 +502,95 @@
     "culture": [
       {
         "id": "AI-026",
-        "title": "Datacentres are growing target of global climate-related legal cases, report finds",
-        "summary": "LSE analysis highlights litigation linked to energy sources, water consumption and air pollution\nThe proliferation of datacentres and AI is increasingly at the forefront of environmental litigation around the world, from the US and UK to Chile to Ire",
-        "content": "LSE analysis highlights litigation linked to energy sources, water consumption and air pollution\nThe proliferation of datacentres and AI is increasingly at the forefront of environmental litigation around the world, from the US and UK to Chile to Ireland, a report has found.\nIn an analysis of about 3,600 climate-related lawsuits filed since 2015, the latest annual review of climate litigation by the London School of Economics (LSE) found a growing number of cases challenging the energy sources, ",
+        "title": "OpenAI staggers AI model release after Trump administration request",
+        "summary": "Sam Altman announces limited preview of GPT 5.6 in move that echoes launch of Anthropic’s Mythos\n\nBusiness live – latest updates\n\nOpenAI is staggering the release of its latest AI model after a request from the US government, in a move echoing the la",
+        "content": "Sam Altman announces limited preview of GPT 5.6 in move that echoes launch of Anthropic’s Mythos\n\nBusiness live – latest updates\n\nOpenAI is staggering the release of its latest AI model after a request from the US government, in a move echoing the launch of Anthropic’s Mythos product.\nThe company behind ChatGPT signalled its dissatisfaction with the move, saying that doing so keeps the best AI tools from “users, developers, enterprises, cyber defenders, and global partners who need them”.\n Conti",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/environment/2026/jun/25/datacentres-facing-increase-in-global-climate-related-legal-cases-report-finds",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/jun/26/openai-ai-model-release-trump-us-sam-altman-gpt-anthropic-mythos",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Thu, 25 Jun 2026 10:03:54 GMT",
+        "publishedAt": "Fri, 26 Jun 2026 14:06:11 GMT",
         "normalizedTags": [
           "the guardian ai"
         ]
       },
       {
         "id": "AI-027",
-        "title": "‘More relevant than making fires’: Explorer Scouts launch badges for AI and digital age",
-        "summary": "Content creation and online safety among new topics for 14- to 18-year-olds – but tweaks may be needed when social media ban comes in\nScouts are introducing badges in content creation, digital communication and online safety after consulting nearly 3",
-        "content": "Content creation and online safety among new topics for 14- to 18-year-olds – but tweaks may be needed when social media ban comes in\nScouts are introducing badges in content creation, digital communication and online safety after consulting nearly 3,000 teenagers who said they wanted skills to help them navigate a world increasingly shaped by AI, social media and digital technology.\nThe new Explorer Scout badges, part of the Scout movement’s first major overhaul in almost 25 years, will require",
+        "title": "A little bird told her: scientist wins $100,000 prize for decoding birdsong",
+        "summary": "Julie Elie worked out how zebra finches announce who they are, what they are doing and use individual signatures\nA scientist who decoded the vocalisations that a bird uses to communicate has won a $100,000 prize for making progress towards a world in",
+        "content": "Julie Elie worked out how zebra finches announce who they are, what they are doing and use individual signatures\nA scientist who decoded the vocalisations that a bird uses to communicate has won a $100,000 prize for making progress towards a world in which humans can talk to the animals – without being met with a blank response.\nDr Julie Elie at the University of California, Berkeley, was awarded the 2026 Coller-Dolittle prize for two-way interspecies communication after working out the 11 core ",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/society/2026/jun/25/explorer-scouts-launch-badges-ai-digital-age",
+        "sourceUrl": "https://www.theguardian.com/science/2026/jun/26/human-animal-communication-step-closer-scientist-wins-prize-for-decoding-birdsong",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Thu, 25 Jun 2026 07:40:46 GMT",
+        "publishedAt": "Fri, 26 Jun 2026 06:53:54 GMT",
         "normalizedTags": [
           "the guardian ai"
         ]
       },
       {
         "id": "AI-028",
-        "title": "Why Amazon Dropped Its OpenAI Movie, Data Center Workers Fight Back, and Meta Leaks Employee Data",
-        "summary": "Amazon-owned MGM Studios’ decision to drop the OpenAI movie is just part of AI and film industries becoming increasingly intertwined. On Uncanny Valley, we take a look at where this is all headed.",
-        "content": "Amazon-owned MGM Studios’ decision to drop the OpenAI movie is just part of AI and film industries becoming increasingly intertwined. On Uncanny Valley, we take a look at where this is all headed.",
+        "title": "Australian musicians sound warning note after Nick Cave, Kylie and many more slurped into AI training tool",
+        "summary": "‘It’s all just rendered useless’, Something For Kate’s Paul Dempsey says as AI scrapes millions of songs to learn how to make music\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\n",
+        "content": "‘It’s all just rendered useless’, Something For Kate’s Paul Dempsey says as AI scrapes millions of songs to learn how to make music\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nPaul Dempsey and Bernard Fanning are among big-name Australian musicians upset that their original songs have been found in datasets used to train artificial intelligence.\nA dataset search tool recently created by US publication The Atlantic reveals ",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/",
-        "sourceName": "Wired AI",
+        "sourceUrl": "https://www.theguardian.com/culture/2026/jun/26/australian-musicians-aussie-music-ai-training-tool-nick-cave-kylie-minogue-paul-dempsey",
+        "sourceName": "The Guardian AI",
         "tags": [
-          "Wired AI"
+          "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Thu, 25 Jun 2026 23:13:45 +0000",
+        "publishedAt": "Fri, 26 Jun 2026 01:09:13 GMT",
         "normalizedTags": [
-          "wired ai"
+          "the guardian ai"
         ]
       },
       {
         "id": "AI-029",
-        "title": "World Cup Teams Are in a Race for AI Dominance",
-        "summary": "This year, FIFA is providing an AI agent that any team can use. Is it enough to level the playing field or will future winners be determined by which team can afford the best tools?",
-        "content": "This year, FIFA is providing an AI agent that any team can use. Is it enough to level the playing field or will future winners be determined by which team can afford the best tools?",
+        "title": "OpenAI Has New AI Models. Here’s Why You Can’t Use Them",
+        "summary": "The White House asked OpenAI to delay the rollout of its GPT-5.6 AI models, two weeks after Anthropic had to take its most advanced AI models offline.",
+        "content": "The White House asked OpenAI to delay the rollout of its GPT-5.6 AI models, two weeks after Anthropic had to take its most advanced AI models offline.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.wired.com/story/fifa-world-cup-2026-artificial-intelligence-tools/",
+        "sourceUrl": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
         "sourceName": "Wired AI",
         "tags": [
           "Wired AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Thu, 25 Jun 2026 11:00:00 +0000",
+        "publishedAt": "Fri, 26 Jun 2026 17:05:40 +0000",
         "normalizedTags": [
           "wired ai"
         ]
       },
       {
         "id": "AI-030",
-        "title": "British Police Built a Sprawling Crime-Prediction Machine. Some Results Couldn’t Be Trusted",
-        "summary": "As UK police embrace the AI revolution, a WIRED investigation reveals the messy inside story of one region’s experiment with predictive analytics.",
-        "content": "As UK police embrace the AI revolution, a WIRED investigation reveals the messy inside story of one region’s experiment with predictive analytics.",
+        "title": "Europe Is Fed Up and Wants Its Own AI",
+        "summary": "It's a stretch to think that the continent can build a top-tier model, but it has an advantage: Donald Trump.",
+        "content": "It's a stretch to think that the continent can build a top-tier model, but it has an advantage: Donald Trump.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.wired.com/story/british-police-built-a-sprawling-crime-prediction-machine-some-results-couldnt-be-trusted/",
+        "sourceUrl": "https://www.wired.com/story/europe-is-fed-up-and-wants-its-own-ai/",
         "sourceName": "Wired AI",
         "tags": [
           "Wired AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Thu, 25 Jun 2026 10:00:00 +0000",
+        "publishedAt": "Fri, 26 Jun 2026 15:00:00 +0000",
         "normalizedTags": [
           "wired ai"
         ]
@@ -603,36 +603,36 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-    "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-    "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
-    "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
-    "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
-    "https://the-decoder.com/most-major-ai-chatbots-still-lean-left-on-political-questions-even-anti-woke-models-are-no-exception/",
-    "https://the-decoder.com/insurers-turn-to-generative-ai-for-catastrophe-modeling-but-hallucinations-and-sales-logic-could-get-in-the-way/",
-    "https://the-decoder.com/grok-ai-is-reportedly-a-porn-platform-now-with-over-half-its-traffic-tied-to-adult-content/",
-    "https://the-decoder.com/authors-guild-test-finds-some-ai-detectors-perfectly-identify-human-writing-while-others-fail-on-every-single-text/",
-    "https://the-decoder.com/meta-employees-warn-ai-moderation-rollout-is-too-fast/",
-    "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
-    "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
-    "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/",
-    "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
-    "https://arxiv.org/abs/2606.24937",
-    "https://www.cnbc.com/2026/06/25/on-semi-synaptics-deal-physical-ai.html",
-    "https://www.cnbc.com/2026/06/25/apple-stock-gets-slammed-on-bigger-mac-ipad-price-hikes-why-it-can-weather-the-storm.html",
-    "https://www.cnbc.com/2026/06/25/microsoft-lifts-price-of-xbox-consoles-due-to-soaring-component-costs.html",
-    "https://www.cnbc.com/2026/06/25/heres-our-plan-for-fedex-freights-stock-heading-into-its-first-earnings-call.html",
-    "https://www.cnbc.com/2026/06/25/apple-macbook-ipad-price-hike-memory.html",
-    "https://www.nytimes.com/2026/06/25/technology/apple-prices-macbooks-ipads.html",
-    "https://www.nytimes.com/2026/06/25/technology/ibm-technology-tinier-chips.html",
-    "https://www.nytimes.com/2026/06/25/technology/trump-antitrust-doj-adam-candeub.html",
-    "https://www.nytimes.com/2026/06/25/technology/times-lawsuit-openai-microsoft.html",
-    "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
-    "https://www.theguardian.com/environment/2026/jun/25/datacentres-facing-increase-in-global-climate-related-legal-cases-report-finds",
-    "https://www.theguardian.com/society/2026/jun/25/explorer-scouts-launch-badges-ai-digital-age",
-    "https://www.wired.com/story/uncanny-valley-podcast-amazon-mgm-openai-movie-data-center-workers-fight-back-meta-leaks-employee-data/",
-    "https://www.wired.com/story/fifa-world-cup-2026-artificial-intelligence-tools/",
-    "https://www.wired.com/story/british-police-built-a-sprawling-crime-prediction-machine-some-results-couldnt-be-trusted/"
+    "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+    "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+    "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+    "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+    "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
+    "https://the-decoder.com/openais-claude-mythos-competitor-gpt-5-6-sol-launches-under-government-controlled-access-it-calls-unsustainable/",
+    "https://the-decoder.com/an-ai-model-programmed-nonstop-for-19-days-on-a-single-mirrorcode-task-that-cost-2600-to-run/",
+    "https://the-decoder.com/ai-startup-lindy-ditched-claude-entirely-for-deepseek-saving-millions-as-cost-pressure-mounts-on-anthropic/",
+    "https://the-decoder.com/altman-wont-go-public-for-less-than-1-trillion-so-openais-ipo-may-slip-to-2027/",
+    "https://the-decoder.com/anthropic-doesnt-need-junior-engineers-anymore-thanks-to-ai-and-warns-of-an-economic-shock-when-other-industries-follow/",
+    "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
+    "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
+    "https://arxiv.org/abs/2606.26155",
+    "https://arxiv.org/abs/2606.26158",
+    "https://arxiv.org/abs/2606.26161",
+    "https://www.cnbc.com/2026/06/26/us-government-anthropic-claude-mythos5-ai.html",
+    "https://www.cnbc.com/2026/06/26/china-zhipu-z-ai-open-source-anthropic-openai.html",
+    "https://www.cnbc.com/2026/06/26/oracle-stock-ends-worst-week-since-2001-as-investors-dwell-on-finances.html",
+    "https://www.cnbc.com/2026/06/26/metas-flurry-of-ai-initiatives-this-month-hasnt-helped-lift-the-stock-what-will.html",
+    "https://www.cnbc.com/2026/06/26/openai-limits-new-ai-models-to-trusted-partners-request-us-government.html",
+    "https://www.nytimes.com/2026/06/26/technology/zuckerberg-meta-polymarket-kalshi.html",
+    "https://www.nytimes.com/2026/06/26/technology/intel-turnaround.html",
+    "https://www.nytimes.com/2026/06/26/technology/ai-advanced-chip-packaging-tsmc.html",
+    "https://www.nytimes.com/2026/06/26/technology/om-malik-dead.html",
+    "https://www.nytimes.com/2026/06/26/business/tesla-elon-musk-europe.html",
+    "https://www.theguardian.com/technology/2026/jun/26/openai-ai-model-release-trump-us-sam-altman-gpt-anthropic-mythos",
+    "https://www.theguardian.com/science/2026/jun/26/human-animal-communication-step-closer-scientist-wins-prize-for-decoding-birdsong",
+    "https://www.theguardian.com/culture/2026/jun/26/australian-musicians-aussie-music-ai-training-tool-nick-cave-kylie-minogue-paul-dempsey",
+    "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
+    "https://www.wired.com/story/europe-is-fed-up-and-wants-its-own-ai/"
   ],
-  "generatedAt": "2026-06-26T00:06:04.308Z"
+  "generatedAt": "2026-06-26T23:57:39.011Z"
 }
