@@ -2,9 +2,9 @@
   "date": "2026-07-02",
   "dateFormatted": "July 2, 2026",
   "headline": {
-    "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
-    "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
-    "sourceUrl": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+    "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+    "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
+    "sourceUrl": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
     "sourceName": "TechCrunch AI"
   },
   "simpleSummary": [
@@ -15,95 +15,95 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
-        "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
-        "content": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
+        "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+        "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
+        "content": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+        "sourceUrl": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Wed, 01 Jul 2026 18:54:18 +0000",
+        "publishedAt": "Thu, 02 Jul 2026 23:38:10 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-002",
-        "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
-        "summary": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that power them.",
-        "content": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that power them.",
+        "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
+        "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
+        "content": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+        "sourceUrl": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Wed, 01 Jul 2026 18:47:22 +0000",
+        "publishedAt": "Thu, 02 Jul 2026 20:11:59 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-003",
-        "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
-        "summary": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.",
-        "content": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.",
+        "title": "Meta quietly launches vibe-coded gaming app Pocket",
+        "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
+        "content": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+        "sourceUrl": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Wed, 01 Jul 2026 17:48:37 +0000",
+        "publishedAt": "Thu, 02 Jul 2026 18:44:02 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-004",
-        "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
-        "summary": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
-        "content": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said.",
+        "title": "Anthropic is discussing a new custom chip with Samsung",
+        "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.",
+        "content": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+        "sourceUrl": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Wed, 01 Jul 2026 14:25:23 +0000",
+        "publishedAt": "Thu, 02 Jul 2026 18:31:09 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-005",
-        "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
-        "summary": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.",
-        "content": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps.",
+        "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+        "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
+        "content": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+        "sourceUrl": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Wed, 01 Jul 2026 14:20:19 +0000",
+        "publishedAt": "Thu, 02 Jul 2026 15:20:51 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
@@ -112,95 +112,95 @@
     "creative": [
       {
         "id": "AI-006",
-        "title": "SpaceX shows investors a slim AI smartphone prototype powered by xAI technology",
-        "summary": "SpaceX showed investors a prototype AI smartphone that's supposedly thinner than an iPhone and integrates xAI tech. The device runs on a Qualcomm Snapdragon chip with its own operating system. Musk wants to build an \"everything app\" modeled after WeC",
-        "content": "SpaceX showed investors a prototype AI smartphone that's supposedly thinner than an iPhone and integrates xAI tech. The device runs on a Qualcomm Snapdragon chip with its own operating system. Musk wants to build an \"everything app\" modeled after WeChat.\nThe article SpaceX shows investors a slim AI smartphone prototype powered by xAI technology appeared first on The Decoder.",
+        "title": "Microsoft launches $2.5 billion \"Frontier Company\" to embed 6,000 AI engineers inside enterprise clients",
+        "summary": "Microsoft is investing $2.5 billion in a new unit called \"Frontier Company\" that puts 6,000 engineers directly at enterprise customers. The goal is to integrate AI into core processes with measurable ROI, not more experimentation. Microsoft is positi",
+        "content": "Microsoft is investing $2.5 billion in a new unit called \"Frontier Company\" that puts 6,000 engineers directly at enterprise customers. The goal is to integrate AI into core processes with measurable ROI, not more experimentation. Microsoft is positioning itself as a platform-neutral alternative to OpenAI and Anthropic, which push their own models through their own deployment companies.\nThe article Microsoft launches $2.5 billion \"Frontier Company\" to embed 6,000 AI engineers inside enterprise c",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/spacex-shows-investors-a-slim-ai-smartphone-prototype-powered-by-xai-technology/",
+        "sourceUrl": "https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Wed, 01 Jul 2026 19:47:31 +0000",
+        "publishedAt": "Thu, 02 Jul 2026 19:18:29 +0000",
         "normalizedTags": [
           "the decoder"
         ]
       },
       {
         "id": "AI-007",
-        "title": "Meta follows SpaceX's playbook and builds a cloud business to sell its spare AI compute to outside customers",
-        "summary": "Meta is building its own cloud business to sell spare AI compute to outside customers. With planned AI investments of up to $145 billion this year alone, the same question that came up with xAI now applies to Meta: why isn't the company putting all t",
-        "content": "Meta is building its own cloud business to sell spare AI compute to outside customers. With planned AI investments of up to $145 billion this year alone, the same question that came up with xAI now applies to Meta: why isn't the company putting all that capacity to work on its own models?\nThe article Meta follows SpaceX's playbook and builds a cloud business to sell its spare AI compute to outside customers appeared first on The Decoder.",
+        "title": "Anthropic reportedly explores custom chip manufacturing with Samsung while insisting Nvidia still matters",
+        "summary": "Anthropic is reportedly in talks with Samsung Electronics about manufacturing a custom AI chip. The project is still early, but Anthropic has already hired chip engineers. After OpenAI's \"Jalapeño,\" yet another major AI company is pushing into chip d",
+        "content": "Anthropic is reportedly in talks with Samsung Electronics about manufacturing a custom AI chip. The project is still early, but Anthropic has already hired chip engineers. After OpenAI's \"Jalapeño,\" yet another major AI company is pushing into chip development to cut infrastructure costs.\nThe article Anthropic reportedly explores custom chip manufacturing with Samsung while insisting Nvidia still matters appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/meta-follows-spacexs-playbook-and-builds-a-cloud-business-to-sell-its-spare-ai-compute-to-outside-customers/",
+        "sourceUrl": "https://the-decoder.com/anthropic-reportedly-explores-custom-chip-manufacturing-with-samsung-while-insisting-nvidia-still-matters/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Wed, 01 Jul 2026 16:00:43 +0000",
+        "publishedAt": "Thu, 02 Jul 2026 17:30:57 +0000",
         "normalizedTags": [
           "the decoder"
         ]
       },
       {
         "id": "AI-008",
-        "title": "Meta's non-invasive brain-to-text AI is closing the gap with surgical implants",
-        "summary": "Meta's FAIR AI team uses Brain2Qwerty v2 to translate brain activity into typed sentences, with no implants or surgery required. The system reads magnetic signals outside the skull and reconstructs what a person is typing. Clinical use for paralyzed ",
-        "content": "Meta's FAIR AI team uses Brain2Qwerty v2 to translate brain activity into typed sentences, with no implants or surgery required. The system reads magnetic signals outside the skull and reconstructs what a person is typing. Clinical use for paralyzed patients is still a long way off, but accuracy keeps improving with every additional recording. AI agents that wrote their own code helped with the optimization.\nThe article Meta's non-invasive brain-to-text AI is closing the gap with surgical implan",
+        "title": "Anthropic says it cut 80 percent of Claude Code's system prompt because Fable 5 models \"want a smaller system prompt\"",
+        "summary": "Anthropic has cut the system prompt for Claude Code by 80 percent. According to staffer Tariq Shihipar, the new Fable 5 models need fewer instructions and examples. Guidelines can even hold the models back because they're \"more imaginative\" than what",
+        "content": "Anthropic has cut the system prompt for Claude Code by 80 percent. According to staffer Tariq Shihipar, the new Fable 5 models need fewer instructions and examples. Guidelines can even hold the models back because they're \"more imaginative\" than what they're given. Instead of strict rules, Anthropic now steers through context.\nThe article Anthropic says it cut 80 percent of Claude Code's system prompt because Fable 5 models \"want a smaller system prompt\" appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/metas-non-invasive-brain-to-text-ai-is-closing-the-gap-with-surgical-implants/",
+        "sourceUrl": "https://the-decoder.com/anthropic-says-it-cut-80-percent-of-claude-codes-system-prompt-because-fable-5-models-want-a-smaller-system-prompt/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Wed, 01 Jul 2026 15:34:09 +0000",
+        "publishedAt": "Thu, 02 Jul 2026 16:20:29 +0000",
         "normalizedTags": [
           "the decoder"
         ]
       },
       {
         "id": "AI-009",
-        "title": "Hidden code in Claude Code secretly flagged Chinese users",
-        "summary": "Anthropic is removing a hidden monitoring feature from its programming tool, Claude Code, after it sparked outrage on social media.\nThe article Hidden code in Claude Code secretly flagged Chinese users appeared first on The Decoder.",
-        "content": "Anthropic is removing a hidden monitoring feature from its programming tool, Claude Code, after it sparked outrage on social media.\nThe article Hidden code in Claude Code secretly flagged Chinese users appeared first on The Decoder.",
+        "title": "Nvidia is bankrolling AI startups to loosen Big Tech's grip on its chip business",
+        "summary": "Nvidia is increasingly acting like a central bank for AI startups, actively shaping the compute market.\nThe article Nvidia is bankrolling AI startups to loosen Big Tech's grip on its chip business appeared first on The Decoder.",
+        "content": "Nvidia is increasingly acting like a central bank for AI startups, actively shaping the compute market.\nThe article Nvidia is bankrolling AI startups to loosen Big Tech's grip on its chip business appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/hidden-code-in-claude-code-secretly-flagged-chinese-users/",
+        "sourceUrl": "https://the-decoder.com/nvidia-is-bankrolling-ai-startups-to-loosen-big-techs-grip-on-its-chip-business/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Wed, 01 Jul 2026 11:27:06 +0000",
+        "publishedAt": "Thu, 02 Jul 2026 13:00:05 +0000",
         "normalizedTags": [
           "the decoder"
         ]
       },
       {
         "id": "AI-010",
-        "title": "Claude Sonnet 5 continues Anthropic's pattern of hiding price increases behind unchanged token rates",
-        "summary": "Claude Sonnet 5 ranks fifth in the Artificial Analysis Intelligence Index with 53 points and even beats the pricier Opus 4.8 on some agent-based tasks. But the model chews through about 40 percent more tokens per task than its predecessor, nearly dou",
-        "content": "Claude Sonnet 5 ranks fifth in the Artificial Analysis Intelligence Index with 53 points and even beats the pricier Opus 4.8 on some agent-based tasks. But the model chews through about 40 percent more tokens per task than its predecessor, nearly doubling real costs despite identical list prices. Anthropic's hidden price hikes are becoming a pattern.\nThe article Claude Sonnet 5 continues Anthropic's pattern of hiding price increases behind unchanged token rates appeared first on The Decoder.",
+        "title": "AI agents can now complete 16 percent of freelance jobs at pro quality, up from 2.5 percent eight months ago",
+        "summary": "The Remote Labor Index measures how often AI agents complete paid freelance projects at professional quality. In eight months, the top automation rate has more than quadrupled.\nThe article AI agents can now complete 16 percent of freelance jobs at pr",
+        "content": "The Remote Labor Index measures how often AI agents complete paid freelance projects at professional quality. In eight months, the top automation rate has more than quadrupled.\nThe article AI agents can now complete 16 percent of freelance jobs at pro quality, up from 2.5 percent eight months ago appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/claude-sonnet-5-continues-anthropics-pattern-of-hiding-price-increases-behind-unchanged-token-rates/",
+        "sourceUrl": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Wed, 01 Jul 2026 11:12:09 +0000",
+        "publishedAt": "Thu, 02 Jul 2026 12:37:49 +0000",
         "normalizedTags": [
           "the decoder"
         ]
@@ -209,95 +209,95 @@
     "research": [
       {
         "id": "AI-011",
-        "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-        "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8",
-        "content": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work every time—but if it…",
+        "title": "Achieving operational excellence with AI",
+        "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and qual",
+        "content": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how work should flow across departments. Both offered a repeatable way to…",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+        "sourceUrl": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
         "sourceName": "MIT Tech Review",
         "tags": [
           "MIT Tech Review"
         ],
         "section": "research",
         "readTime": "2 min",
-        "publishedAt": "Wed, 01 Jul 2026 14:35:16 +0000",
+        "publishedAt": "Thu, 02 Jul 2026 15:37:08 +0000",
         "normalizedTags": [
           "mit tech review"
         ]
       },
       {
         "id": "AI-012",
-        "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an event for pharmaceutical executives, biotech founder",
-        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an event for pharmaceutical executives, biotech founders, and researchers yesterday, Anthropic announced Claude Science, a major new product intended to support scientific research…",
+        "title": "Teaching AI to run with the turbines",
+        "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operationa",
+        "content": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is becoming a core operating layer. With its sprawling industrial systems and constant stream of operational…",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
+        "sourceUrl": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
         "sourceName": "MIT Tech Review",
         "tags": [
           "MIT Tech Review"
         ],
         "section": "research",
         "readTime": "2 min",
-        "publishedAt": "Wed, 01 Jul 2026 12:10:00 +0000",
+        "publishedAt": "Thu, 02 Jul 2026 12:51:44 +0000",
         "normalizedTags": [
           "mit tech review"
         ]
       },
       {
         "id": "AI-013",
-        "title": "What Drives Interactive Improvement from Feedback?",
-        "summary": "arXiv:2606.30774v1 Announce Type: new \nAbstract: We study when natural-language feedback produces improvement beyond the gains obtainable from repeated attempts alone. In multi-turn language agent setting, higher final accuracy can reflect useful fee",
-        "content": "arXiv:2606.30774v1 Announce Type: new \nAbstract: We study when natural-language feedback produces improvement beyond the gains obtainable from repeated attempts alone. In multi-turn language agent setting, higher final accuracy can reflect useful feedback, but it can also arise from resampling, format correction, or additional test-time computation. To separate these effects, we introduce a controlled student-teacher protocol across Omni-MATH, Codeforces, BBEH Linguini, and ARC-AGI1, evaluating ",
+        "title": "The Download: a startup has a solution for AI’s groupthink problem",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying to get them out. Open up your chatbot of choice—Cl",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying to get them out. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1…",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://arxiv.org/abs/2606.30774",
-        "sourceName": "ArXiv CS.AI",
+        "sourceUrl": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
+        "sourceName": "MIT Tech Review",
         "tags": [
-          "ArXiv CS.AI"
+          "MIT Tech Review"
         ],
         "section": "research",
         "readTime": "2 min",
-        "publishedAt": "Wed, 01 Jul 2026 00:00:00 -0400",
+        "publishedAt": "Thu, 02 Jul 2026 12:10:00 +0000",
         "normalizedTags": [
-          "arxiv cs.ai"
+          "mit tech review"
         ]
       },
       {
         "id": "AI-014",
-        "title": "Contrastive Reflection for Iterative Prompt Optimization",
-        "summary": "arXiv:2606.30840v1 Announce Type: new \nAbstract: LLM agents are becoming central to information retrieval: they issue retrieval queries, synthesize answers, and increasingly serve as judges for IR evaluation. Improving the prompts that control these ",
-        "content": "arXiv:2606.30840v1 Announce Type: new \nAbstract: LLM agents are becoming central to information retrieval: they issue retrieval queries, synthesize answers, and increasingly serve as judges for IR evaluation. Improving the prompts that control these agents is an optimization problem, but in applied IR settings it often looks less like blind search and more like debugging. Engineers need to know which behavior failed, which nearby behavior still worked, what distinguishes the two, and whether a p",
+        "title": "Why California’s carbon manure math doesn’t add up",
+        "summary": "Something stinks in California’s climate policies. Years ago, the state set up a system that pays cattle farmers across the country to turn the methane emitted from cattle manure into natural gas, encouraging the dairy sector to produce a gas we burn",
+        "content": "Something stinks in California’s climate policies. Years ago, the state set up a system that pays cattle farmers across the country to turn the methane emitted from cattle manure into natural gas, encouraging the dairy sector to produce a gas we burn instead of one that just pollutes the air. It’s become wildly popular because…",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://arxiv.org/abs/2606.30840",
-        "sourceName": "ArXiv CS.AI",
+        "sourceUrl": "https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/",
+        "sourceName": "MIT Tech Review",
         "tags": [
-          "ArXiv CS.AI"
+          "MIT Tech Review"
         ],
         "section": "research",
         "readTime": "2 min",
-        "publishedAt": "Wed, 01 Jul 2026 00:00:00 -0400",
+        "publishedAt": "Thu, 02 Jul 2026 09:00:00 +0000",
         "normalizedTags": [
-          "arxiv cs.ai"
+          "mit tech review"
         ]
       },
       {
         "id": "AI-015",
-        "title": "How Can AI Find My Model? A Model-Finding Experimental Study Considering Data Formats, Embeddings, and Retrieval Strategies",
-        "summary": "arXiv:2606.30846v1 Announce Type: new \nAbstract: Discovering simulation models for reuse remains a fundamental challenge in Modeling and Simulation (M&S). When many models coexist, identifying those that align with a given modeling intent remains dif",
-        "content": "arXiv:2606.30846v1 Announce Type: new \nAbstract: Discovering simulation models for reuse remains a fundamental challenge in Modeling and Simulation (M&S). When many models coexist, identifying those that align with a given modeling intent remains difficult. Recent advances in Artificial Intelligence (AI), particularly retrieval-based approaches, offer a promising pathway to operate at this semantic layer. In this paper, we present an experimental study investigating the impact of data representa",
+        "title": "Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction",
+        "summary": "arXiv:2607.00001v1 Announce Type: new \nAbstract: Most approaches to AI alignment treat human preferences as fixed targets to be inferred and optimized. This assumption conflicts with extensive empirical evidence showing that preferences are layered, ",
+        "content": "arXiv:2607.00001v1 Announce Type: new \nAbstract: Most approaches to AI alignment treat human preferences as fixed targets to be inferred and optimized. This assumption conflicts with extensive empirical evidence showing that preferences are layered, dynamic, and constructed through interaction--particularly with adaptive technologies. As AI systems become more persistent, personalized, and socially embedded, they increasingly participate in shaping what people attend to, value, and endorse over ",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://arxiv.org/abs/2606.30846",
+        "sourceUrl": "https://arxiv.org/abs/2607.00001",
         "sourceName": "ArXiv CS.AI",
         "tags": [
           "ArXiv CS.AI"
         ],
         "section": "research",
         "readTime": "2 min",
-        "publishedAt": "Wed, 01 Jul 2026 00:00:00 -0400",
+        "publishedAt": "Thu, 02 Jul 2026 00:00:00 -0400",
         "normalizedTags": [
           "arxiv cs.ai"
         ]
@@ -307,95 +307,95 @@
     "business": [
       {
         "id": "AI-016",
-        "title": "Jim Cramer says to use Wednesday's market rotation to your advantage. Here's how he'd play it",
-        "summary": "CNBC’s Jim Cramer said investors should use the latest market rotation to buy some of the biggest winners they may have missed.",
-        "content": "CNBC’s Jim Cramer said investors should use the latest market rotation to buy some of the biggest winners they may have missed.",
+        "title": "Trump bought Apple, Nvidia and other tech giants before tariff reversal fueled rebound",
+        "summary": "The day before President Donald Trump walked back his tariff policy turned out to be one of his busiest days of 2025 for stock buying.",
+        "content": "The day before President Donald Trump walked back his tariff policy turned out to be one of his busiest days of 2025 for stock buying.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/07/01/jim-cramer-says-to-use-wednesdays-market-rotation-to-your-advantage-heres-how-hed-play-it.html",
+        "sourceUrl": "https://www.cnbc.com/2026/07/02/trump-aapl-nvda-tariffs-disclosures.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Wed, 01 Jul 2026 22:29:36 GMT",
+        "publishedAt": "Thu, 02 Jul 2026 21:03:39 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-017",
-        "title": "Chip stocks that notched record rallies in second quarter start Q3 with a dud",
-        "summary": "Memory maker Micron, which jumped over 240% in the second quarter, dropped 11% on Wednesday, wiping out nearly $200 billion of market capitalization.",
-        "content": "Memory maker Micron, which jumped over 240% in the second quarter, dropped 11% on Wednesday, wiping out nearly $200 billion of market capitalization.",
+        "title": "Amazon has deployed enough satellites to launch Leo service later this year",
+        "summary": "Leo will compete with SpaceX's Starlink, which had a four-year start over Amazon and has more than 10,000 satellites in its constellation.",
+        "content": "Leo will compete with SpaceX's Starlink, which had a four-year start over Amazon and has more than 10,000 satellites in its constellation.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/07/01/chip-stocks-notched-record-rallies-in-second-quarter-start-q3-with-dud.html",
+        "sourceUrl": "https://www.cnbc.com/2026/07/02/amazon-has-deployed-enough-satellites-to-launch-leo-service-this-year.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Wed, 01 Jul 2026 20:12:19 GMT",
+        "publishedAt": "Thu, 02 Jul 2026 18:28:35 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-018",
-        "title": "Meta's plan to launch a cloud business eases the biggest overhang on the stock",
-        "summary": "The stock's struggles in 2026 had been due to concerns about its aggressive AI spending.",
-        "content": "The stock's struggles in 2026 had been due to concerns about its aggressive AI spending.",
+        "title": "Autonomous drone startup Quantum Systems raises $1.2 billion as investors pile into defense",
+        "summary": "Defense tech startups are raising record amounts on both sides of the Atlantic amid a flurry of investment in the sector.",
+        "content": "Defense tech startups are raising record amounts on both sides of the Atlantic amid a flurry of investment in the sector.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/07/01/metas-plan-to-launch-a-cloud-business-eases-the-biggest-overhang-on-the-stock.html",
+        "sourceUrl": "https://www.cnbc.com/2026/07/02/autonomous-defense-startup-quantum-systems.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Wed, 01 Jul 2026 19:19:44 GMT",
+        "publishedAt": "Thu, 02 Jul 2026 15:13:11 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-019",
-        "title": "We thought these 5 stocks could make a 2026 comeback. Here’s our midyear scorecard",
-        "summary": "Despite war volatility and AI concerns, the S&P 500 still managed to jump 9.5% year to date.",
-        "content": "Despite war volatility and AI concerns, the S&P 500 still managed to jump 9.5% year to date.",
+        "title": "Tesla stock sinks 7% despite strong deliveries report, posting worst day in nearly a year",
+        "summary": "Tesla is trying to recover from consecutive annual declines in vehicle sales that were partly caused by a consumer backlash against CEO Elon Musk.",
+        "content": "Tesla is trying to recover from consecutive annual declines in vehicle sales that were partly caused by a consumer backlash against CEO Elon Musk.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/07/01/we-thought-these-5-stocks-could-make-a-2026-comeback-heres-our-midyear-scorecard.html",
+        "sourceUrl": "https://www.cnbc.com/2026/07/02/tesla-tsla-q2-2026-vehicle-delivery-production.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Wed, 01 Jul 2026 17:15:51 GMT",
+        "publishedAt": "Thu, 02 Jul 2026 20:18:02 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-020",
-        "title": "Palantir's Karp bashes OpenAI, Anthropic token model: 'Something has gone completely wrong'",
-        "summary": "Karp says skyrocketing token costs are forcing companies to choose open-weight models and prioritize efficiency over so-called tokenmaxxing",
-        "content": "Karp says skyrocketing token costs are forcing companies to choose open-weight models and prioritize efficiency over so-called tokenmaxxing",
+        "title": "Microsoft commits $2.5 billion and 6,000 employees to new AI implementation unit",
+        "summary": "Microsoft is the latest tech company to form a business focused on helping customers understand and implement artificial intelligence.",
+        "content": "Microsoft is the latest tech company to form a business focused on helping customers understand and implement artificial intelligence.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/07/01/palantir-karp-open-ai-anthropic-tokens.html",
+        "sourceUrl": "https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Wed, 01 Jul 2026 20:02:27 GMT",
+        "publishedAt": "Thu, 02 Jul 2026 13:00:02 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
@@ -404,57 +404,76 @@
     "policy": [
       {
         "id": "AI-021",
-        "title": "The Yoto Music Box Is a Ray of Hope Amid the ‘Techlash’",
-        "summary": "Amid widespread “techlash” over addictive screens and apps, the Yoto, an audio player for children, shows there’s still a way to make money while doing something nice.",
-        "content": "Amid widespread “techlash” over addictive screens and apps, the Yoto, an audio player for children, shows there’s still a way to make money while doing something nice.",
+        "title": "Tesla Driver Using Autopilot in Texas Crash Is Charged With Manslaughter",
+        "summary": "A front-door video camera of the crash, which killed a woman inside her home, showed the Tesla plowing into a house through its driveway.",
+        "content": "A front-door video camera of the crash, which killed a woman inside her home, showed the Tesla plowing into a house through its driveway.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/07/01/technology/personaltech/yoto-music-box-screens.html",
+        "sourceUrl": "https://www.nytimes.com/2026/07/02/us/tesla-autopilot-crash-texas-manslaughter.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Wed, 01 Jul 2026 09:01:48 +0000",
+        "publishedAt": "Thu, 02 Jul 2026 21:24:21 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
       },
       {
         "id": "AI-022",
-        "title": "U.S. Lifts Restrictions on Anthropic’s Most Powerful A.I. Models",
-        "summary": "The move allows Anthropic to bring its most powerful technologies back online, de-escalating a feud with the Trump administration.",
-        "content": "The move allows Anthropic to bring its most powerful technologies back online, de-escalating a feud with the Trump administration.",
+        "title": "To Reduce Electrical Grid Strain Amid Heat Wave, Data Centers Are Ordered to Use Backup Power",
+        "summary": "As triple-digit temperatures engulf much of the United States, the Trump administration wants grid managers to require the use of backup power that often goes unused.",
+        "content": "As triple-digit temperatures engulf much of the United States, the Trump administration wants grid managers to require the use of backup power that often goes unused.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/06/30/technology/us-lifts-restrictions-anthropic.html",
+        "sourceUrl": "https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Wed, 01 Jul 2026 03:17:31 +0000",
+        "publishedAt": "Thu, 02 Jul 2026 18:54:00 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
       },
       {
         "id": "AI-023",
-        "title": "Chinese A.I. Models Gain Ground on Anthropic and OpenAI",
-        "summary": "Silicon Valley engineers recently flocked to new technology from a Chinese company, Z.ai, that is almost as good as its American competitors but much cheaper.",
-        "content": "Silicon Valley engineers recently flocked to new technology from a Chinese company, Z.ai, that is almost as good as its American competitors but much cheaper.",
+        "title": "Tesla Sales Surge 25% on Recovery in Europe",
+        "summary": "Price cuts helped the electric automaker rebound in Europe in the second quarter, offsetting declines in the United States.",
+        "content": "Price cuts helped the electric automaker rebound in Europe in the second quarter, offsetting declines in the United States.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/06/25/technology/zai-china-artificial-intelligence-models.html",
+        "sourceUrl": "https://www.nytimes.com/2026/07/02/business/tesla-electric-vehicle-auto-sales.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Wed, 01 Jul 2026 05:16:15 +0000",
+        "publishedAt": "Thu, 02 Jul 2026 15:07:48 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-024",
+        "title": "Is a ‘Frictionless’ Society a Trap?",
+        "summary": "Eliminating whatever stands between you and a task sounds nice, but it probably has more to offer companies than users.",
+        "content": "Eliminating whatever stands between you and a task sounds nice, but it probably has more to offer companies than users.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/07/02/magazine/frictionless-productivity-marketing-tech.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 02 Jul 2026 09:02:10 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
@@ -463,98 +482,79 @@
     "concerns": [],
     "culture": [
       {
-        "id": "AI-024",
-        "title": "Rapid spread of AI may worsen global inequality, UN warns",
-        "summary": "Panel proses shared framework for responsible AI development as adoption grows unevenly across world\nA new United Nations report warns that the development of artificial intelligence may exacerbate global inequality and proposes a shared framework fo",
-        "content": "Panel proses shared framework for responsible AI development as adoption grows unevenly across world\nA new United Nations report warns that the development of artificial intelligence may exacerbate global inequality and proposes a shared framework for how to responsibly develop AI, as adoption and investment into the technology accelerates unevenly across the world.\n“The more AI advances without shared rules, the less say governments and people will have in the outcome,” said António Guterres, t",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/jul/01/un-report-ai-inequality",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Wed, 01 Jul 2026 19:17:11 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
-      },
-      {
         "id": "AI-025",
-        "title": "AI summaries of Tripadvisor hotel reviews downplay serious complaints, investigation finds",
-        "summary": "AI-generated overview found to gloss over allegations of sexual harassment and describes hotel being sued over hygiene as ‘spotless’\nA hotel being sued for mass food poisonings was described as “spotless” and a resort where guests complained of sexua",
-        "content": "AI-generated overview found to gloss over allegations of sexual harassment and describes hotel being sued over hygiene as ‘spotless’\nA hotel being sued for mass food poisonings was described as “spotless” and a resort where guests complained of sexual harassment by staff was praised for “friendly” service by an AI intended to summarise millions of Tripadvisor reviews.\nThe overviews of customer feedback downplayed serious complaints, ranging from the stench of mould to a lack of mains water, acco",
+        "title": "OpenAI ‘in early talks to give 5% stake to US government’",
+        "summary": "CEO Sam Altman argued move would share benefits of AI and it would involve other firms doing similar, report says\n\nBusiness live – latest updates\n\nOpenAI is reportedly in early stage talks to give a 5% stake in the ChatGPT developer to the US governm",
+        "content": "CEO Sam Altman argued move would share benefits of AI and it would involve other firms doing similar, report says\n\nBusiness live – latest updates\n\nOpenAI is reportedly in early stage talks to give a 5% stake in the ChatGPT developer to the US government as artificial intelligence companies attempt to smooth relations with Donald Trump’s administration.\nThe OpenAI chief executive, Sam Altman, has argued that giving the US public a financial stake in the company is the best way to share the benefi",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/business/2026/jul/02/ai-summaries-tripadvisor-hotel-reviews-downplay-serious-complaints",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/jul/02/openai-stake-us-government-ai-sam-altman",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Wed, 01 Jul 2026 23:01:01 GMT",
+        "publishedAt": "Thu, 02 Jul 2026 07:31:15 GMT",
         "normalizedTags": [
           "the guardian ai"
         ]
       },
       {
         "id": "AI-026",
-        "title": "We can live without AI, but can we live without clean water? | Letters",
-        "summary": "Readers respond to an article about Erin Brockovich’s battle against datacentres and voice their fears for the environment \nWhat are the benefits obtained from AI’s massive use of electricity and water (‘We’re up against forces that have all the mone",
-        "content": "Readers respond to an article about Erin Brockovich’s battle against datacentres and voice their fears for the environment \nWhat are the benefits obtained from AI’s massive use of electricity and water (‘We’re up against forces that have all the money in the world’: Erin Brockovich on her battle against AI datacentres, 29 June)? Analysis shows that the top four uses of AI are “therapy/companionship”, “technical assistance and troubleshooting”, “fun and nonsense”, and “fan fiction and storytellin",
+        "title": "Are AI companies getting away with crime? | Fiona Katauskas",
+        "summary": "They’re making an art of stealing intellectual property\n\nSee more of Fiona Katauskas’s cartoons here\n\n Continue reading...",
+        "content": "They’re making an art of stealing intellectual property\n\nSee more of Fiona Katauskas’s cartoons here\n\n Continue reading...",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/jul/01/we-can-live-without-ai-but-can-we-live-without-clean-water",
+        "sourceUrl": "https://www.theguardian.com/commentisfree/picture/2026/jul/02/are-ai-companies-getting-away-with-crime",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Wed, 01 Jul 2026 16:12:05 GMT",
+        "publishedAt": "Thu, 02 Jul 2026 00:57:28 GMT",
         "normalizedTags": [
           "the guardian ai"
         ]
       },
       {
         "id": "AI-027",
-        "title": "Trump accused of ‘disgusting’ greed after being paid over $2bn since return to office",
-        "summary": "Elizabeth Warren and colleagues demand tighter rules on political figures’ crypto dealings, citing disclosures of large-scale Trump family profits\n\nUS politics live – latest updates\n\nDonald Trump has again been accused of “brazen crypto corruption” a",
-        "content": "Elizabeth Warren and colleagues demand tighter rules on political figures’ crypto dealings, citing disclosures of large-scale Trump family profits\n\nUS politics live – latest updates\n\nDonald Trump has again been accused of “brazen crypto corruption” after financial disclosures revealed his family’s cryptocurrency ventures generated more than $1bn in his first year back in the White House.\nA 927-page disclosure, released on Tuesday by the US Office of Government Ethics, showed that the US presiden",
+        "title": "Can Cursor Remain a Platform for OpenAI and Anthropic’s Models Inside SpaceX?",
+        "summary": "Cursor hopes to continue offering third-party AI models after it's acquired by SpaceX, testing the relationships between frontier AI labs.",
+        "content": "Cursor hopes to continue offering third-party AI models after it's acquired by SpaceX, testing the relationships between frontier AI labs.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/us-news/2026/jul/01/trump-accused-one-billion-dollars-crypto-venture",
-        "sourceName": "The Guardian AI",
+        "sourceUrl": "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
+        "sourceName": "Wired AI",
         "tags": [
-          "The Guardian AI"
+          "Wired AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Wed, 01 Jul 2026 15:23:45 GMT",
+        "publishedAt": "Thu, 02 Jul 2026 18:01:20 +0000",
         "normalizedTags": [
-          "the guardian ai"
+          "wired ai"
         ]
       },
       {
         "id": "AI-028",
-        "title": "Short story accused of being AI-written wins overall Commonwealth prize",
-        "summary": "Jamir Nazir’s The Serpent in the Grove, which critics allege has ‘obvious markers’ of AI use, was described as ‘original, poetic and deeply moving’ by the judging chair\nA story widely accused on social media of being written using AI has gone on to w",
-        "content": "Jamir Nazir’s The Serpent in the Grove, which critics allege has ‘obvious markers’ of AI use, was described as ‘original, poetic and deeply moving’ by the judging chair\nA story widely accused on social media of being written using AI has gone on to win the overall Commonwealth short story prize.\nJamir Nazir’s story The Serpent in the Grove went viral after being named as a regional winner in mid-May, with critics on X and Bluesky claiming it showed “obvious markers” of AI use. The literary magaz",
+        "title": "Meta Is Charging a Subscription for Smart Glasses Features. Welcome to the New Era of Consumer Tech",
+        "summary": "You bought the hardware. Now you’ll need to subscribe for “expanded access” to the most advanced features.",
+        "content": "You bought the hardware. Now you’ll need to subscribe for “expanded access” to the most advanced features.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/books/2026/jul/01/judges-claims-ai-use-commonwealth-short-story-prize-jamir-nazir",
-        "sourceName": "The Guardian AI",
+        "sourceUrl": "https://www.wired.com/story/why-meta-is-charging-a-subscription-for-on-device-smart-glasses-features/",
+        "sourceName": "Wired AI",
         "tags": [
-          "The Guardian AI"
+          "Wired AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Wed, 01 Jul 2026 12:44:11 GMT",
+        "publishedAt": "Thu, 02 Jul 2026 09:30:00 +0000",
         "normalizedTags": [
-          "the guardian ai"
+          "wired ai"
         ]
       }
     ]
@@ -565,34 +565,34 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
-    "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
-    "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
-    "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
-    "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
-    "https://the-decoder.com/spacex-shows-investors-a-slim-ai-smartphone-prototype-powered-by-xai-technology/",
-    "https://the-decoder.com/meta-follows-spacexs-playbook-and-builds-a-cloud-business-to-sell-its-spare-ai-compute-to-outside-customers/",
-    "https://the-decoder.com/metas-non-invasive-brain-to-text-ai-is-closing-the-gap-with-surgical-implants/",
-    "https://the-decoder.com/hidden-code-in-claude-code-secretly-flagged-chinese-users/",
-    "https://the-decoder.com/claude-sonnet-5-continues-anthropics-pattern-of-hiding-price-increases-behind-unchanged-token-rates/",
-    "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
-    "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
-    "https://arxiv.org/abs/2606.30774",
-    "https://arxiv.org/abs/2606.30840",
-    "https://arxiv.org/abs/2606.30846",
-    "https://www.cnbc.com/2026/07/01/jim-cramer-says-to-use-wednesdays-market-rotation-to-your-advantage-heres-how-hed-play-it.html",
-    "https://www.cnbc.com/2026/07/01/chip-stocks-notched-record-rallies-in-second-quarter-start-q3-with-dud.html",
-    "https://www.cnbc.com/2026/07/01/metas-plan-to-launch-a-cloud-business-eases-the-biggest-overhang-on-the-stock.html",
-    "https://www.cnbc.com/2026/07/01/we-thought-these-5-stocks-could-make-a-2026-comeback-heres-our-midyear-scorecard.html",
-    "https://www.cnbc.com/2026/07/01/palantir-karp-open-ai-anthropic-tokens.html",
-    "https://www.nytimes.com/2026/07/01/technology/personaltech/yoto-music-box-screens.html",
-    "https://www.nytimes.com/2026/06/30/technology/us-lifts-restrictions-anthropic.html",
-    "https://www.nytimes.com/2026/06/25/technology/zai-china-artificial-intelligence-models.html",
-    "https://www.theguardian.com/technology/2026/jul/01/un-report-ai-inequality",
-    "https://www.theguardian.com/business/2026/jul/02/ai-summaries-tripadvisor-hotel-reviews-downplay-serious-complaints",
-    "https://www.theguardian.com/technology/2026/jul/01/we-can-live-without-ai-but-can-we-live-without-clean-water",
-    "https://www.theguardian.com/us-news/2026/jul/01/trump-accused-one-billion-dollars-crypto-venture",
-    "https://www.theguardian.com/books/2026/jul/01/judges-claims-ai-use-commonwealth-short-story-prize-jamir-nazir"
+    "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+    "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+    "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+    "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+    "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+    "https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients/",
+    "https://the-decoder.com/anthropic-reportedly-explores-custom-chip-manufacturing-with-samsung-while-insisting-nvidia-still-matters/",
+    "https://the-decoder.com/anthropic-says-it-cut-80-percent-of-claude-codes-system-prompt-because-fable-5-models-want-a-smaller-system-prompt/",
+    "https://the-decoder.com/nvidia-is-bankrolling-ai-startups-to-loosen-big-techs-grip-on-its-chip-business/",
+    "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago/",
+    "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+    "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+    "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
+    "https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/",
+    "https://arxiv.org/abs/2607.00001",
+    "https://www.cnbc.com/2026/07/02/trump-aapl-nvda-tariffs-disclosures.html",
+    "https://www.cnbc.com/2026/07/02/amazon-has-deployed-enough-satellites-to-launch-leo-service-this-year.html",
+    "https://www.cnbc.com/2026/07/02/autonomous-defense-startup-quantum-systems.html",
+    "https://www.cnbc.com/2026/07/02/tesla-tsla-q2-2026-vehicle-delivery-production.html",
+    "https://www.cnbc.com/2026/07/02/microsoft-commits-2point5-billion-6000-employees-ai-implementation-unit.html",
+    "https://www.nytimes.com/2026/07/02/us/tesla-autopilot-crash-texas-manslaughter.html",
+    "https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html",
+    "https://www.nytimes.com/2026/07/02/business/tesla-electric-vehicle-auto-sales.html",
+    "https://www.nytimes.com/2026/07/02/magazine/frictionless-productivity-marketing-tech.html",
+    "https://www.theguardian.com/technology/2026/jul/02/openai-stake-us-government-ai-sam-altman",
+    "https://www.theguardian.com/commentisfree/picture/2026/jul/02/are-ai-companies-getting-away-with-crime",
+    "https://www.wired.com/story/can-cursor-remain-an-open-platform-inside-of-spacex/",
+    "https://www.wired.com/story/why-meta-is-charging-a-subscription-for-on-device-smart-glasses-features/"
   ],
-  "generatedAt": "2026-07-02T00:02:57.855Z"
+  "generatedAt": "2026-07-02T23:57:52.769Z"
 }
