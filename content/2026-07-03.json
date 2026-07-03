@@ -2,9 +2,9 @@
   "date": "2026-07-03",
   "dateFormatted": "July 3, 2026",
   "headline": {
-    "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
-    "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
-    "sourceUrl": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+    "title": "The only AI glossary you’ll need this year",
+    "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+    "sourceUrl": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
     "sourceName": "TechCrunch AI"
   },
   "simpleSummary": [
@@ -15,106 +15,163 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
-        "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
-        "content": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
+        "title": "The only AI glossary you’ll need this year",
+        "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+        "content": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+        "sourceUrl": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Thu, 02 Jul 2026 23:38:10 +0000",
+        "publishedAt": "Fri, 03 Jul 2026 21:20:00 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-002",
-        "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
-        "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
-        "content": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold.",
+        "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+        "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+        "content": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+        "sourceUrl": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Thu, 02 Jul 2026 20:11:59 +0000",
+        "publishedAt": "Fri, 03 Jul 2026 18:43:00 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-003",
-        "title": "Meta quietly launches vibe-coded gaming app Pocket",
-        "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
-        "content": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
+        "title": "Anthropic wants to develop its own drugs",
+        "summary": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures and visuals. Anthropic, alread",
+        "content": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures and visuals. Anthropic, already dominating the industry with its popular coding tools and powerful AI models, framed the launch around what it says is AI's potential to \"dramatically accelerate the pace of scientific discovery and the development of healthcare interventions,\" and",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
-        "sourceName": "TechCrunch AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+        "sourceName": "The Verge AI",
         "tags": [
-          "TechCrunch AI"
+          "The Verge AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Thu, 02 Jul 2026 18:44:02 +0000",
+        "publishedAt": "2026-07-03T13:56:52.000Z",
         "normalizedTags": [
-          "techcrunch ai"
+          "the verge ai"
         ]
       },
       {
         "id": "AI-004",
-        "title": "Anthropic is discussing a new custom chip with Samsung",
-        "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.",
-        "content": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom.",
+        "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
+        "summary": "A scan of an imaging phantom, segmented to validate how cleanly structures separate under controlled conditions. | Image: Midjourney Medical\t\n\nMidjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. \nTh",
+        "content": "A scan of an imaging phantom, segmented to validate how cleanly structures separate under controlled conditions. | Image: Midjourney Medical\t\n\nMidjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. \nThe AI startup, best known for generating images, released a behind-the-scenes video of its dunk-tank ultrasound scanner, which it plans to deploy in spas and hopes will transform medicine with cheap, detailed, radiation-free imaging. The nearly 20-min",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-        "sourceName": "TechCrunch AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+        "sourceName": "The Verge AI",
         "tags": [
-          "TechCrunch AI"
+          "The Verge AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Thu, 02 Jul 2026 18:31:09 +0000",
+        "publishedAt": "2026-07-03T11:49:10.000Z",
         "normalizedTags": [
-          "techcrunch ai"
-        ]
-      },
-      {
-        "id": "AI-005",
-        "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
-        "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
-        "content": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
-        "sourceName": "TechCrunch AI",
-        "tags": [
-          "TechCrunch AI"
-        ],
-        "section": "tools",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 02 Jul 2026 15:20:51 +0000",
-        "normalizedTags": [
-          "techcrunch ai"
+          "the verge ai"
         ]
       }
     ],
     "creative": [
       {
+        "id": "AI-005",
+        "title": "Microsoft follows Anthropic and OpenAI into the AI super app race with overhauled Copilot and AutoPilot agents",
+        "summary": "Microsoft reportedly plans to merge its consumer and enterprise Copilot apps into a single app in August. Rarely used features like Copilot Podcasts are getting cut, and new AI agents called \"AutoPilot\" will handle tasks in the background for an extr",
+        "content": "Microsoft reportedly plans to merge its consumer and enterprise Copilot apps into a single app in August. Rarely used features like Copilot Podcasts are getting cut, and new AI agents called \"AutoPilot\" will handle tasks in the background for an extra fee.\nThe article Microsoft follows Anthropic and OpenAI into the AI super app race with overhauled Copilot and AutoPilot agents appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/microsoft-follows-anthropic-and-openai-into-the-ai-super-app-race-with-overhauled-copilot-and-autopilot-agents/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 03 Jul 2026 19:24:40 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
         "id": "AI-006",
+        "title": "Claude Code's complicated China problem involves bans on both sides of the Pacific",
+        "summary": "Anthropic is trying to block Chinese companies like ByteDance and Ant Financial from accessing Claude Code, but they're getting around the restrictions through VPNs and overseas subsidiaries. Alibaba, meanwhile, has banned its own employees from usin",
+        "content": "Anthropic is trying to block Chinese companies like ByteDance and Ant Financial from accessing Claude Code, but they're getting around the restrictions through VPNs and overseas subsidiaries. Alibaba, meanwhile, has banned its own employees from using the tool after hidden code was found that could identify Chinese users.\nThe article Claude Code's complicated China problem involves bans on both sides of the Pacific appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/claude-codes-complicated-china-problem-involves-bans-on-both-sides-of-the-pacific/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 03 Jul 2026 17:11:33 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-007",
+        "title": "Security vulnerability reports have exploded since AI models started hunting for bugs",
+        "summary": "Epoch AI reports a sharp rise in security vulnerability reports. In June 2026, 21 organizations reported about 1,500 high-severity and critical CVEs, more than 3.5 times the previous monthly record. The surge lines up with the launch of AI-powered bu",
+        "content": "Epoch AI reports a sharp rise in security vulnerability reports. In June 2026, 21 organizations reported about 1,500 high-severity and critical CVEs, more than 3.5 times the previous monthly record. The surge lines up with the launch of AI-powered bug-hunting programs.\nThe article Security vulnerability reports have exploded since AI models started hunting for bugs appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/security-vulnerability-reports-have-exploded-since-ai-models-started-hunting-for-bugs/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 03 Jul 2026 16:49:47 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-008",
+        "title": "UK's AI Security Institute finds standard benchmarks systematically underestimate what AI agents can actually do",
+        "summary": "In a study covering seven benchmarks, the UK's AI Security Institute shows that standard AI evaluations systematically underestimate agent capabilities by capping the compute budget. On software engineering tasks, success rates jumped about 25 percen",
+        "content": "In a study covering seven benchmarks, the UK's AI Security Institute shows that standard AI evaluations systematically underestimate agent capabilities by capping the compute budget. On software engineering tasks, success rates jumped about 25 percent when the token budget was increased tenfold. Newer models benefit the most. Depending on the token budget, actual progress at the frontier is about 60 percent steeper than previous measurements suggested, according to AISI.\nThe article UK's AI Secu",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/uks-ai-security-institute-finds-standard-benchmarks-systematically-underestimate-what-ai-agents-can-actually-do/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 03 Jul 2026 16:14:44 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-009",
         "title": "GPT and Claude failed Bridgewater's finance tests because the right answers were never public",
-        "summary": "The hedge fund Bridgewater and Thinking Machines Lab report that a finely tuned open-weight model outperforms the most powerful AI models in the evaluation of financial documents, at a fraction of the cost. The figures come from their own analysis.\nT",
-        "content": "The hedge fund Bridgewater and Thinking Machines Lab report that a finely tuned open-weight model outperforms the most powerful AI models in the evaluation of financial documents, at a fraction of the cost. The figures come from their own analysis.\nThe article GPT and Claude failed Bridgewater's finance tests because the right answers were never public appeared first on The Decoder.",
+        "summary": "Bridgewater and Thinking Machines Lab—the startup from former OpenAI CTO Mira Murati—have fine-tuned a Qwen3-235B model for financial tasks. According to their own testing, the model hits 84.7 percent accuracy, beating Gemini, Claude, and GPT at roug",
+        "content": "Bridgewater and Thinking Machines Lab—the startup from former OpenAI CTO Mira Murati—have fine-tuned a Qwen3-235B model for financial tasks. According to their own testing, the model hits 84.7 percent accuracy, beating Gemini, Claude, and GPT at roughly one-fourteenth of the cost. The numbers haven't been verified by anyone outside the two companies, though.\nThe article GPT and Claude failed Bridgewater's finance tests because the right answers were never public appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
         "sourceUrl": "https://the-decoder.com/gpt-and-claude-failed-bridgewaters-finance-tests-because-the-right-answers-were-never-public/",
@@ -128,85 +185,28 @@
         "normalizedTags": [
           "the decoder"
         ]
-      },
-      {
-        "id": "AI-007",
-        "title": "Meta's AI agent push is moving slower than Zuckerberg planned",
-        "summary": "Mark Zuckerberg admitted to weaknesses in the company's restructuring during an internal town hall. The AI agents Meta reorganized around are progressing slower than planned, Zuckerberg said. His AI chief, meanwhile, painted a rosier picture.\nThe art",
-        "content": "Mark Zuckerberg admitted to weaknesses in the company's restructuring during an internal town hall. The AI agents Meta reorganized around are progressing slower than planned, Zuckerberg said. His AI chief, meanwhile, painted a rosier picture.\nThe article Meta's AI agent push is moving slower than Zuckerberg planned appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/metas-ai-agent-push-is-moving-slower-than-zuckerberg-planned/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 03 Jul 2026 11:05:22 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
-      },
-      {
-        "id": "AI-008",
-        "title": "Tesla caps employee AI spending at $200 per week",
-        "summary": "Tesla caps employee AI spending at $200 per week, according to an internal memo reported by The Information. \nThe article Tesla caps employee AI spending at $200 per week appeared first on The Decoder.",
-        "content": "Tesla caps employee AI spending at $200 per week, according to an internal memo reported by The Information. \nThe article Tesla caps employee AI spending at $200 per week appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/tesla-caps-employee-ai-spending-at-200-per-week/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 03 Jul 2026 10:56:51 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
-      },
-      {
-        "id": "AI-009",
-        "title": "Chinese AI video maker Kling raises $2 billion as it gears up for Hong Kong IPO",
-        "summary": "Kuaishou has raised about $2 billion from investors for its AI video division, Kling.\nThe article Chinese AI video maker Kling raises $2 billion as it gears up for Hong Kong IPO appeared first on The Decoder.",
-        "content": "Kuaishou has raised about $2 billion from investors for its AI video division, Kling.\nThe article Chinese AI video maker Kling raises $2 billion as it gears up for Hong Kong IPO appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/chinese-ai-video-maker-kling-raises-2-billion-as-it-gears-up-for-hong-kong-ipo/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 03 Jul 2026 08:53:16 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
-      },
-      {
-        "id": "AI-010",
-        "title": "Microsoft launches $2.5 billion \"Frontier Company\" to embed 6,000 AI engineers inside enterprise clients",
-        "summary": "Microsoft is investing $2.5 billion in a new unit called \"Frontier Company\" that puts 6,000 engineers directly at enterprise customers. The goal is to integrate AI into core processes with measurable ROI, not more experimentation. Microsoft is positi",
-        "content": "Microsoft is investing $2.5 billion in a new unit called \"Frontier Company\" that puts 6,000 engineers directly at enterprise customers. The goal is to integrate AI into core processes with measurable ROI, not more experimentation. Microsoft is positioning itself as a platform-neutral alternative to OpenAI and Anthropic, which push their own models through their own deployment companies.\nThe article Microsoft launches $2.5 billion \"Frontier Company\" to embed 6,000 AI engineers inside enterprise c",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 02 Jul 2026 19:18:29 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
       }
     ],
     "research": [
+      {
+        "id": "AI-010",
+        "title": " A device that revives eyeballs from dead donors could make eye transplants possible",
+        "summary": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly-transplanted eye wasn’t able to see. But rese",
+        "content": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly-transplanted eye wasn’t able to see. But researchers believe they might have a solution: a device that maintains and…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 03 Jul 2026 17:34:37 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
       {
         "id": "AI-011",
         "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
@@ -247,25 +247,6 @@
       },
       {
         "id": "AI-013",
-        "title": "Achieving operational excellence with AI",
-        "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and qual",
-        "content": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how work should flow across departments. Both offered a repeatable way to…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 02 Jul 2026 15:37:08 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-014",
         "title": "PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Explanations",
         "summary": "arXiv:2607.01306v1 Announce Type: new \nAbstract: Counterfactual explanations explain machine learning predictions by identifying minimal input changes that would alter a model's decision. Although many existing methods successfully generate predictio",
         "content": "arXiv:2607.01306v1 Announce Type: new \nAbstract: Counterfactual explanations explain machine learning predictions by identifying minimal input changes that would alter a model's decision. Although many existing methods successfully generate prediction-changing alternatives, they often produce unrealistic or infeasible recommendations due to a lack of explicit mechanisms for incorporating domain knowledge and intervention constraints. Neuro-symbolic AI offers a promising direction by combining da",
@@ -284,7 +265,7 @@
         ]
       },
       {
-        "id": "AI-015",
+        "id": "AI-014",
         "title": "Auto-FL-Research: Agentic Search for Federated Learning Algorithms",
         "summary": "arXiv:2607.01366v1 Announce Type: new \nAbstract: Federated learning (FL) research often depends on many small but consequential algorithmic choices: optimizer variants, server aggregation rules, local training schedules, normalization, regularization",
         "content": "arXiv:2607.01366v1 Announce Type: new \nAbstract: Federated learning (FL) research often depends on many small but consequential algorithmic choices: optimizer variants, server aggregation rules, local training schedules, normalization, regularization, and model architecture. These choices are expensive to explore manually and difficult to compare fairly when candidate changes can also alter the FL training or evaluation path. In this work, we present Auto-FL-Research (AFR), a constrained coding-",
@@ -306,7 +287,45 @@
     "applications": [],
     "business": [
       {
+        "id": "AI-015",
+        "title": "First known congressional SpaceX stock buys surface after record IPO",
+        "summary": "The SpaceX stock purchases come as Elon Musk’s company deepens its role in federal contracting and remains closely tied to President Donald Trump’s Washington.",
+        "content": "The SpaceX stock purchases come as Elon Musk’s company deepens its role in federal contracting and remains closely tied to President Donald Trump’s Washington.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/07/03/spacex-stock-congress-meuser-cisneros-ipo-disclosure.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 03 Jul 2026 18:16:43 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
         "id": "AI-016",
+        "title": "The hunt for AI's next winners defined the stock market's holiday-shortened week",
+        "summary": "Wall Street kicked off the third quarter with mixed results after a blockbuster first half for stocks.",
+        "content": "Wall Street kicked off the third quarter with mixed results after a blockbuster first half for stocks.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/07/03/the-hunt-for-ais-next-winners-defined-the-stock-markets-holiday-shortened-week.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 03 Jul 2026 15:51:06 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-017",
         "title": "Trump’s Freedom 250 draws corporate sponsors with business before his administration",
         "summary": "Companies with federal interests — including Boeing, Lockheed Martin and Oracle — are sponsoring a Trump-aligned effort celebrating America’s 250th birthday.",
         "content": "Companies with federal interests — including Boeing, Lockheed Martin and Oracle — are sponsoring a Trump-aligned effort celebrating America’s 250th birthday.",
@@ -325,7 +344,7 @@
         ]
       },
       {
-        "id": "AI-017",
+        "id": "AI-018",
         "title": "The Tech Download: Amazon’s devices chief Panos Panay on tech giant's AI gadget push",
         "summary": "CNBC's Arjun Kharpal sits down Amazon's Panay on the latest episode of The Tech Download podcast.",
         "content": "CNBC's Arjun Kharpal sits down Amazon's Panay on the latest episode of The Tech Download podcast.",
@@ -344,58 +363,20 @@
         ]
       },
       {
-        "id": "AI-018",
-        "title": "Trump bought Apple, Nvidia and other tech giants before tariff reversal fueled rebound",
-        "summary": "The day before President Donald Trump walked back his tariff policy turned out to be one of his busiest days of 2025 for stock buying.",
-        "content": "The day before President Donald Trump walked back his tariff policy turned out to be one of his busiest days of 2025 for stock buying.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/07/02/trump-aapl-nvda-tariffs-disclosures.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 02 Jul 2026 21:03:39 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ]
-      },
-      {
         "id": "AI-019",
-        "title": "Amazon has deployed enough satellites to launch Leo service later this year",
-        "summary": "Leo will compete with SpaceX's Starlink, which had a four-year start over Amazon and has more than 10,000 satellites in its constellation.",
-        "content": "Leo will compete with SpaceX's Starlink, which had a four-year start over Amazon and has more than 10,000 satellites in its constellation.",
+        "title": "OpenAI proposes 5% stake to Trump administration to ease Washington pressure: Report",
+        "summary": "Trump said in June that the U.S. taking an ownership stake in AI giants would be \"a beautiful thing\" and make American public \"partners in this revolution.\"",
+        "content": "Trump said in June that the U.S. taking an ownership stake in AI giants would be \"a beautiful thing\" and make American public \"partners in this revolution.\"",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/07/02/amazon-has-deployed-enough-satellites-to-launch-leo-service-this-year.html",
+        "sourceUrl": "https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Thu, 02 Jul 2026 18:28:35 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ]
-      },
-      {
-        "id": "AI-020",
-        "title": "Autonomous drone startup Quantum Systems raises $1.2 billion as investors pile into defense",
-        "summary": "Defense tech startups are raising record amounts on both sides of the Atlantic amid a flurry of investment in the sector.",
-        "content": "Defense tech startups are raising record amounts on both sides of the Atlantic amid a flurry of investment in the sector.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/07/02/autonomous-defense-startup-quantum-systems.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 02 Jul 2026 15:13:11 GMT",
+        "publishedAt": "Fri, 03 Jul 2026 03:44:49 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
@@ -403,7 +384,7 @@
     ],
     "policy": [
       {
-        "id": "AI-021",
+        "id": "AI-020",
         "title": "Fable Ban Reversed + Dr. Dana Suskind on Parenting With A.I. + Prediction Market Drama",
         "summary": "What we learned from the government’s biggest attempt yet to control who can gain access to the most powerful new A.I. models.",
         "content": "What we learned from the government’s biggest attempt yet to control who can gain access to the most powerful new A.I. models.",
@@ -422,7 +403,7 @@
         ]
       },
       {
-        "id": "AI-022",
+        "id": "AI-021",
         "title": "Microsoft Disclosure Provides Rare Glimpse of Tax Haven Tactics",
         "summary": "Other U.S. companies will soon need to provide similar reports as a new European directive takes effect.",
         "content": "Other U.S. companies will soon need to provide similar reports as a new European directive takes effect.",
@@ -441,7 +422,7 @@
         ]
       },
       {
-        "id": "AI-023",
+        "id": "AI-022",
         "title": "Tesla Driver Using Autopilot in Texas Crash Is Charged With Manslaughter",
         "summary": "A front-door video camera of the crash, which killed a woman inside her home, showed the Tesla plowing into a house through its driveway.",
         "content": "A front-door video camera of the crash, which killed a woman inside her home, showed the Tesla plowing into a house through its driveway.",
@@ -458,50 +439,12 @@
         "normalizedTags": [
           "nyt technology"
         ]
-      },
-      {
-        "id": "AI-024",
-        "title": "To Reduce Electrical Grid Strain Amid Heat Wave, Data Centers Are Ordered to Use Backup Power",
-        "summary": "As triple-digit temperatures engulf much of the United States, the Trump administration wants grid managers to require the use of backup power that often goes unused.",
-        "content": "As triple-digit temperatures engulf much of the United States, the Trump administration wants grid managers to require the use of backup power that often goes unused.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 02 Jul 2026 18:54:00 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-025",
-        "title": "Tesla Sales Surge 25% on Recovery in Europe",
-        "summary": "Price cuts helped the electric automaker rebound in Europe in the second quarter, offsetting declines in the United States.",
-        "content": "Price cuts helped the electric automaker rebound in Europe in the second quarter, offsetting declines in the United States.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/07/02/business/tesla-electric-vehicle-auto-sales.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 02 Jul 2026 15:07:49 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
       }
     ],
     "concerns": [],
     "culture": [
       {
-        "id": "AI-026",
+        "id": "AI-023",
         "title": "AI prey: why watchdogs are telling parents to protect children from nudification apps",
         "summary": "As imaging tools become more sophisticated, online predators are using images of children to make extreme pornography\n\nUK parents warned over posting images of children amid AI sexual abuse fears\n\nThe two photos started out as typical teenage selfies",
         "content": "As imaging tools become more sophisticated, online predators are using images of children to make extreme pornography\n\nUK parents warned over posting images of children amid AI sexual abuse fears\n\nThe two photos started out as typical teenage selfies: looking into the mirror, fully clothed. But once online predators had got hold of those pictures and ran them through an AI imaging tool, they had become the basis for extreme pornography videos.\nThese examples come from the Report Remove service, ",
@@ -514,16 +457,16 @@
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Fri, 03 Jul 2026 12:00:27 GMT",
+        "publishedAt": "Fri, 03 Jul 2026 17:30:00 GMT",
         "normalizedTags": [
           "the guardian ai"
         ]
       },
       {
-        "id": "AI-027",
+        "id": "AI-024",
         "title": "UK parents warned over posting images of children amid AI sexual abuse fears",
-        "summary": "Exclusive: National Crime Agency and safety watchdog issue guidance amid rise in explicit material online\n\nAI prey: why watchdogs are telling parents to protect children from nudification apps\n\nThe UK National Crime Agency has recommended parents sho",
-        "content": "Exclusive: National Crime Agency and safety watchdog issue guidance amid rise in explicit material online\n\nAI prey: why watchdogs are telling parents to protect children from nudification apps\n\nThe UK National Crime Agency has recommended parents should not put photos of their children on public display online as part of landmark guidance to tackle the rise of AI-generated sexual abuse material.\nAdvice issued by the NCA and the child safety watchdog the Internet Watch Foundation suggests parents",
+        "summary": "Exclusive: National Crime Agency and safety watchdog issue guidance amid rise in explicit material online\n\nAI prey: why watchdogs are telling parents to protect children from nudification apps\n\nParents should not put photos of their children on publi",
+        "content": "Exclusive: National Crime Agency and safety watchdog issue guidance amid rise in explicit material online\n\nAI prey: why watchdogs are telling parents to protect children from nudification apps\n\nParents should not put photos of their children on public display online, according to landmark guidance issued to tackle the rise of AI-generated sexual abuse material.\nThe recommendation has come from the National Crime Agency and the Internet Watch Foundation, which fear that most people are unaware of",
         "keyTakeaways": [],
         "whyItMatters": "",
         "sourceUrl": "https://www.theguardian.com/society/2026/jul/03/ai-sexual-abuse-fears-uk-parents-warned-posting-images-children-national-crime-agency",
@@ -533,64 +476,64 @@
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Fri, 03 Jul 2026 12:07:34 GMT",
+        "publishedAt": "Fri, 03 Jul 2026 17:22:59 GMT",
         "normalizedTags": [
           "the guardian ai"
         ]
       },
       {
-        "id": "AI-028",
-        "title": "NSW shadow upper house leader steps aside during Icac Liberals inquiry – as it happened",
-        "summary": "This blog is now closed\n\nGet our breaking news email, free app or daily news podcast\n\nA teenager has been charged with murder after a 15-year-old boy was discovered with fatal stab wounds outside a community medical centre.\nAAP reports the boy was fo",
-        "content": "This blog is now closed\n\nGet our breaking news email, free app or daily news podcast\n\nA teenager has been charged with murder after a 15-year-old boy was discovered with fatal stab wounds outside a community medical centre.\nAAP reports the boy was found critically injured outside Craigieburn Community hospital in Melbourne’s north about 7.50pm on Wednesday. A staff member from the clinic rushed to his aid and delivered CPR but he died at the scene.\n Continue reading...",
+        "id": "AI-025",
+        "title": "We can debate the ethics of AI but can’t seem to change course | Letters",
+        "summary": "Readers respond to the profile of Iason Gabriel, a philosopher and research scientist at Google DeepMind\nThe Guardian’s profile of Google DeepMind’s philosopher was encouraging because it showed how seriously many of the people building AI are taking",
+        "content": "Readers respond to the profile of Iason Gabriel, a philosopher and research scientist at Google DeepMind\nThe Guardian’s profile of Google DeepMind’s philosopher was encouraging because it showed how seriously many of the people building AI are taking their ethical responsibilities (‘There’s this deep mystery of what, actually, is this thing?’: the philosopher inside Google DeepMind AI, 30 June). Yet it also left me wondering whether the most important decision has already been made.\nThe article ",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/australia-news/live/2026/jul/03/politics-anthony-albanese-labor-angus-taylor-liberal-party-coalition-antisemitism-royal-commission-nsw-victorian-alps-snow-weather-ntwnfb",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/jul/03/we-can-debate-the-ethics-of-ai-but-cant-seem-to-change-course",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Fri, 03 Jul 2026 07:54:18 GMT",
+        "publishedAt": "Fri, 03 Jul 2026 17:00:52 GMT",
         "normalizedTags": [
           "the guardian ai"
         ]
       },
       {
-        "id": "AI-029",
-        "title": "3,000% bonuses but a growing wealth divide: South Korea grapples with its AI chip boom",
-        "summary": "Powered by chipmakers Samsung Electronics and SK Hynix, South Korea is seeing a surge in wealth, but there are questions over who gets to share in the profits\nWhen South Korea’s most high-profile divorce case returned to court last month, the lawyers",
-        "content": "Powered by chipmakers Samsung Electronics and SK Hynix, South Korea is seeing a surge in wealth, but there are questions over who gets to share in the profits\nWhen South Korea’s most high-profile divorce case returned to court last month, the lawyers were arguing not just about the breakdown of a relationship, but also the exact date at which to value shares in one specific company.\nThe judges’ decision in Seoul could change the value of business tycoon Chey Tae-won’s assets by billions of dolla",
+        "id": "AI-026",
+        "title": "What would our lives look like if we no longer had to work? As a thought experiment I tried to imagine | Brigid Delaney",
+        "summary": "The abundance that AI promises to deliver represents an enormous and radical opportunity – a chance to reconnect with the ancient project of how to live\nFor a long time humanity has dreamed about a life free of toil, spent largely in leisure, learnin",
+        "content": "The abundance that AI promises to deliver represents an enormous and radical opportunity – a chance to reconnect with the ancient project of how to live\nFor a long time humanity has dreamed about a life free of toil, spent largely in leisure, learning and pleasure.\nNow that AI has arrived, what if it was the thing that finally delivers us into a post-work future?\n Continue reading...",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/world/ng-interactive/2026/jul/03/south-korea-wealth-divide-ai-chip-boom",
+        "sourceUrl": "https://www.theguardian.com/commentisfree/2026/jul/04/ai-disruption-dystopia-dont-need-to-work-capitalism-free-time",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Fri, 03 Jul 2026 02:34:40 GMT",
+        "publishedAt": "Fri, 03 Jul 2026 15:00:33 GMT",
         "normalizedTags": [
           "the guardian ai"
         ]
       },
       {
-        "id": "AI-030",
-        "title": "‘Don’t kill music’: Anthony Albanese’s favourite bands beg PM to stop AI companies from stealing their work",
-        "summary": "A potential deal with the government would allow international tech companies to mine the creative work of Australian musicians. Some of the prime minister’s favourite artists told the Guardian how they feel about it\n\nCreatives sound alarm on copyrig",
-        "content": "A potential deal with the government would allow international tech companies to mine the creative work of Australian musicians. Some of the prime minister’s favourite artists told the Guardian how they feel about it\n\nCreatives sound alarm on copyright as Pocock calls $50bn datacentre proposal ‘ultimate dirty deal’\n\n\nBig tech companies are asking for Australian copyright laws to be watered down, to allow them to scrape Australian output – including journalism, music and books – in order to impro",
+        "id": "AI-027",
+        "title": "NSW government ‘absolutely thrilled’ to welcome OpenAI ... until someone mentioned the Terminator films",
+        "summary": "Emails sent between MP Anoulak Chanthivong’s staff take cautious approach to AI giant arriving in Sydney – despite the government’s encouragement\n\nGet our breaking news email, free app or daily news podcast\n\nThe NSW technology minister’s office remov",
+        "content": "Emails sent between MP Anoulak Chanthivong’s staff take cautious approach to AI giant arriving in Sydney – despite the government’s encouragement\n\nGet our breaking news email, free app or daily news podcast\n\nThe NSW technology minister’s office removed a reference to being “absolutely thrilled” about OpenAI opening a Sydney office after staffers joked a dystopian Skynet could be headed for the city within five years.\nArtificial intelligence giant OpenAI announced its first Australian office in A",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/music/2026/jul/03/dont-kill-music-anthony-albaneses-favourite-bands-beg-pm-to-stop-ai-companies-from-stealing-their-work",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/jul/03/nsw-government-openai-arrives-sydney-terminator-films",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Fri, 03 Jul 2026 01:33:50 GMT",
+        "publishedAt": "Fri, 03 Jul 2026 14:54:59 GMT",
         "normalizedTags": [
           "the guardian ai"
         ]
@@ -603,36 +546,33 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-    "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
-    "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
-    "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-    "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+    "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+    "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+    "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+    "https://the-decoder.com/microsoft-follows-anthropic-and-openai-into-the-ai-super-app-race-with-overhauled-copilot-and-autopilot-agents/",
+    "https://the-decoder.com/claude-codes-complicated-china-problem-involves-bans-on-both-sides-of-the-pacific/",
+    "https://the-decoder.com/security-vulnerability-reports-have-exploded-since-ai-models-started-hunting-for-bugs/",
+    "https://the-decoder.com/uks-ai-security-institute-finds-standard-benchmarks-systematically-underestimate-what-ai-agents-can-actually-do/",
     "https://the-decoder.com/gpt-and-claude-failed-bridgewaters-finance-tests-because-the-right-answers-were-never-public/",
-    "https://the-decoder.com/metas-ai-agent-push-is-moving-slower-than-zuckerberg-planned/",
-    "https://the-decoder.com/tesla-caps-employee-ai-spending-at-200-per-week/",
-    "https://the-decoder.com/chinese-ai-video-maker-kling-raises-2-billion-as-it-gears-up-for-hong-kong-ipo/",
-    "https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients/",
+    "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
     "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
     "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
-    "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
     "https://arxiv.org/abs/2607.01306",
     "https://arxiv.org/abs/2607.01366",
+    "https://www.cnbc.com/2026/07/03/spacex-stock-congress-meuser-cisneros-ipo-disclosure.html",
+    "https://www.cnbc.com/2026/07/03/the-hunt-for-ais-next-winners-defined-the-stock-markets-holiday-shortened-week.html",
     "https://www.cnbc.com/2026/07/03/trump-freedom-250-america250-corporate-sponsors-access.html",
     "https://www.cnbc.com/2026/07/03/the-tech-download-amazon-devices-chief-panos-panay.html",
-    "https://www.cnbc.com/2026/07/02/trump-aapl-nvda-tariffs-disclosures.html",
-    "https://www.cnbc.com/2026/07/02/amazon-has-deployed-enough-satellites-to-launch-leo-service-this-year.html",
-    "https://www.cnbc.com/2026/07/02/autonomous-defense-startup-quantum-systems.html",
+    "https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html",
     "https://www.nytimes.com/2026/07/03/podcasts/fable-ban-reversed-dr-dana-suskind-on-parenting-with-ai-prediction-market-drama.html",
     "https://www.nytimes.com/2026/07/03/technology/microsoft-europe-disclosure-tax-havens.html",
     "https://www.nytimes.com/2026/07/02/us/tesla-autopilot-crash-texas-manslaughter.html",
-    "https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html",
-    "https://www.nytimes.com/2026/07/02/business/tesla-electric-vehicle-auto-sales.html",
     "https://www.theguardian.com/society/2026/jul/03/ai-prey-watchdogs-telling-parents-protect-children-nudification-apps",
     "https://www.theguardian.com/society/2026/jul/03/ai-sexual-abuse-fears-uk-parents-warned-posting-images-children-national-crime-agency",
-    "https://www.theguardian.com/australia-news/live/2026/jul/03/politics-anthony-albanese-labor-angus-taylor-liberal-party-coalition-antisemitism-royal-commission-nsw-victorian-alps-snow-weather-ntwnfb",
-    "https://www.theguardian.com/world/ng-interactive/2026/jul/03/south-korea-wealth-divide-ai-chip-boom",
-    "https://www.theguardian.com/music/2026/jul/03/dont-kill-music-anthony-albaneses-favourite-bands-beg-pm-to-stop-ai-companies-from-stealing-their-work"
+    "https://www.theguardian.com/technology/2026/jul/03/we-can-debate-the-ethics-of-ai-but-cant-seem-to-change-course",
+    "https://www.theguardian.com/commentisfree/2026/jul/04/ai-disruption-dystopia-dont-need-to-work-capitalism-free-time",
+    "https://www.theguardian.com/technology/2026/jul/03/nsw-government-openai-arrives-sydney-terminator-films"
   ],
-  "generatedAt": "2026-07-03T12:56:25.174Z"
+  "generatedAt": "2026-07-03T23:59:20.228Z"
 }
