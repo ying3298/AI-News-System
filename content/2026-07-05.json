@@ -2,9 +2,9 @@
   "date": "2026-07-05",
   "dateFormatted": "July 5, 2026",
   "headline": {
-    "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
-    "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
-    "sourceUrl": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+    "title": "Amazon will stop accepting new customers for Mechanical Turk",
+    "summary": "These may be the last days of Amazon’s Mechanical Turk.",
+    "sourceUrl": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
     "sourceName": "TechCrunch AI"
   },
   "simpleSummary": [
@@ -15,84 +15,103 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
-        "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
-        "content": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+        "title": "Amazon will stop accepting new customers for Mechanical Turk",
+        "summary": "These may be the last days of Amazon’s Mechanical Turk.",
+        "content": "These may be the last days of Amazon’s Mechanical Turk.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+        "sourceUrl": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Sat, 04 Jul 2026 20:55:25 +0000",
+        "publishedAt": "Sun, 05 Jul 2026 17:43:36 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-002",
-        "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
-        "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
-        "content": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+        "title": "Some of the nation’s rich are letting AI teach their kids",
+        "summary": "Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealthy, who are turning to AI to teach their kids instead ",
+        "content": "Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealthy, who are turning to AI to teach their kids instead of traditional schools.\nCompanies like Forge Prep and Alpha School are charging families tens of thousands of dollars to turn their kids into beta testers for AI tutors and \"interactive project-based workshops.\" Unsurprisingly, Silicon Valley have be",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
-        "sourceName": "TechCrunch AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+        "sourceName": "The Verge AI",
         "tags": [
-          "TechCrunch AI"
+          "The Verge AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Sat, 04 Jul 2026 18:00:05 +0000",
+        "publishedAt": "2026-07-05T22:30:54.000Z",
         "normalizedTags": [
-          "techcrunch ai"
+          "the verge ai"
         ]
       },
       {
         "id": "AI-003",
-        "title": "Alibaba reportedly bans employees from using Claude Code",
-        "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
-        "content": "Alibaba has reportedly classified Claude Code as high-risk software.",
+        "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
+        "summary": "I call BS: the founding fathers definitely would have been Microsoft Teams users. | Image: Google\t\n\n\"Group project, but make it 1776.\" That's how a new commercial for Google Workspace opens. And things only get cringier from there. The clip imagines ",
+        "content": "I call BS: the founding fathers definitely would have been Microsoft Teams users. | Image: Google\t\n\n\"Group project, but make it 1776.\" That's how a new commercial for Google Workspace opens. And things only get cringier from there. The clip imagines what it would be like if the founding fathers turned to Google's collaboration tools and Gemini to help them draft the Declaration of Independence. \nBen Franklin texts Thomas Jefferson to check on the status of a draft, who takes a photo and uses AI ",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-        "sourceName": "TechCrunch AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+        "sourceName": "The Verge AI",
         "tags": [
-          "TechCrunch AI"
+          "The Verge AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Sat, 04 Jul 2026 16:32:08 +0000",
+        "publishedAt": "2026-07-05T14:23:11.000Z",
         "normalizedTags": [
-          "techcrunch ai"
-        ]
-      },
-      {
-        "id": "AI-004",
-        "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-        "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
-        "content": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-        "sourceName": "TechCrunch AI",
-        "tags": [
-          "TechCrunch AI"
-        ],
-        "section": "tools",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 04 Jul 2026 15:51:32 +0000",
-        "normalizedTags": [
-          "techcrunch ai"
+          "the verge ai"
         ]
       }
     ],
     "creative": [
       {
+        "id": "AI-004",
+        "title": "Claude Code and Fable 5 ported the 2003 PC game Command & Conquer to native iOS in \"a few hours\"",
+        "summary": "A Google Deepmind developer ported the 2003 real-time strategy game \"Command & Conquer: Generals Zero Hour\" to iPhone and iPad using Anthropic's Claude Code. The first build took 40 minutes. The full source code is on GitHub.\nThe article Claude Code ",
+        "content": "A Google Deepmind developer ported the 2003 real-time strategy game \"Command & Conquer: Generals Zero Hour\" to iPhone and iPad using Anthropic's Claude Code. The first build took 40 minutes. The full source code is on GitHub.\nThe article Claude Code and Fable 5 ported the 2003 PC game Command & Conquer to native iOS in \"a few hours\" appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/claude-code-and-fable-5-ported-the-2003-pc-game-command-conquer-to-native-ios-in-a-few-hours/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 05 Jul 2026 15:58:56 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
         "id": "AI-005",
+        "title": "Baidu's \"Unlimited OCR\" processes dozens of document pages in one pass by treating memory like human forgetting",
+        "summary": "Baidu's Unlimited OCR reads dozens of document pages in a single pass, where previous systems topped out at about ten. A modified attention mechanism keeps memory use flat no matter how many pages the model processes. It currently holds the top spot ",
+        "content": "Baidu's Unlimited OCR reads dozens of document pages in a single pass, where previous systems topped out at about ten. A modified attention mechanism keeps memory use flat no matter how many pages the model processes. It currently holds the top spot on the most important OCR benchmark.\nThe article Baidu's \"Unlimited OCR\" processes dozens of document pages in one pass by treating memory like human forgetting appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/baidus-unlimited-ocr-processes-dozens-of-document-pages-in-one-pass-by-treating-memory-like-human-forgetting/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 05 Jul 2026 15:25:07 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-006",
         "title": "AI private schools sell wealthy US families on personalized learning over traditional education",
         "summary": "Wealthy US families are increasingly sending their kids to AI schools like Alpha School, which combines two hours of AI tutoring with project-based workshops for up to $75,000 a year in tuition. The trend highlights a growing education gap in the AI ",
         "content": "Wealthy US families are increasingly sending their kids to AI schools like Alpha School, which combines two hours of AI tutoring with project-based workshops for up to $75,000 a year in tuition. The trend highlights a growing education gap in the AI era, where traditional schools are struggling to adopt the technology, which may do more harm than good if used without the right skills.\nThe article AI private schools sell wealthy US families on personalized learning over traditional education appe",
@@ -111,7 +130,7 @@
         ]
       },
       {
-        "id": "AI-006",
+        "id": "AI-007",
         "title": "Mistral CEO Mensch says proprietary AI models give labs a front-row seat to your business processes",
         "summary": "Mistral founder Arthur Mensch warns companies against relying on closed AI models. He claims AI labs are storing more and more customer data and have, in some cases, used it to go after their own customers as competitors. The concern is valid, but Mi",
         "content": "Mistral founder Arthur Mensch warns companies against relying on closed AI models. He claims AI labs are storing more and more customer data and have, in some cases, used it to go after their own customers as competitors. The concern is valid, but Mistral can't really compete with frontier models from OpenAI or Anthropic on performance and is betting heavily on EU sovereignty as its strategic edge.\nThe article Mistral CEO Mensch says proprietary AI models give labs a front-row seat to your busin",
@@ -130,7 +149,7 @@
         ]
       },
       {
-        "id": "AI-007",
+        "id": "AI-008",
         "title": "Hollywood wants Seedance banned and reportedly also wants to keep using it",
         "summary": "Bytedance's AI video tool Seedance is dividing Hollywood. A viral clip featuring AI-generated Brad Pitt and Tom Cruise prompted the Motion Picture Association's first-ever cease-and-desist against an AI company. But behind the scenes, studios are qui",
         "content": "Bytedance's AI video tool Seedance is dividing Hollywood. A viral clip featuring AI-generated Brad Pitt and Tom Cruise prompted the Motion Picture Association's first-ever cease-and-desist against an AI company. But behind the scenes, studios are quietly using the tool on a \"don't ask, don't tell\" basis, says Simpsons animation producer Joel Kuwahara.\nThe article Hollywood wants Seedance banned and reportedly also wants to keep using it appeared first on The Decoder.",
@@ -147,44 +166,6 @@
         "normalizedTags": [
           "the decoder"
         ]
-      },
-      {
-        "id": "AI-008",
-        "title": "AI search agents don't fail at searching, they fail at asking the right questions when queries get ambiguous",
-        "summary": "AI search agents rarely fail at multi-step research because of the search itself. Their real problem is not asking the user for clarification when queries are ambiguous. A new benchmark called DiscoBench shows that models searching repeatedly instead",
-        "content": "AI search agents rarely fail at multi-step research because of the search itself. Their real problem is not asking the user for clarification when queries are ambiguous. A new benchmark called DiscoBench shows that models searching repeatedly instead of asking follow-up questions actually perform worse, at 51.9 percent, than those that just guess. Even the best model only hits 43 percent overall accuracy. When ambiguity is removed from the queries, accuracy jumps by up to 40 points.\nThe article ",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/ai-search-agents-dont-fail-at-searching-they-fail-at-asking-the-right-questions-when-queries-get-ambiguous/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Sun, 05 Jul 2026 07:52:17 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
-      },
-      {
-        "id": "AI-009",
-        "title": "Open-source tool pxpipe hides text in PNGs to cut Claude Code and Fable 5 token costs up to 70%",
-        "summary": "The open-source tool pxpipe converts long text prompts for Claude Code into compact PNGs, exploiting the fact that Anthropic charges for images by pixel size, not text content. Developer Steven Chong reports cost savings of 59 to 70 percent, at the p",
-        "content": "The open-source tool pxpipe converts long text prompts for Claude Code into compact PNGs, exploiting the fact that Anthropic charges for images by pixel size, not text content. Developer Steven Chong reports cost savings of 59 to 70 percent, at the price of accuracy and speed.\nThe article Open-source tool pxpipe hides text in PNGs to cut Claude Code and Fable 5 token costs up to 70% appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/open-source-tool-pxpipe-hides-text-in-pngs-to-cut-claude-code-and-fable-5-token-costs-up-to-70/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 04 Jul 2026 18:11:33 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
       }
     ],
     "research": [],
@@ -192,10 +173,10 @@
     "business": [],
     "policy": [
       {
-        "id": "AI-010",
+        "id": "AI-009",
         "title": "How Meta’s Threads Became as Popular as X",
-        "summary": "The social platform that Meta once positioned as a rival to Elon Musk’s X now has 500 million users. It increasingly resembles Reddit.",
-        "content": "The social platform that Meta once positioned as a rival to Elon Musk’s X now has 500 million users. It increasingly resembles Reddit.",
+        "summary": "The social platform that Meta once positioned as a rival to Elon Musk’s X now has 500 million monthly users. It increasingly resembles Reddit.",
+        "content": "The social platform that Meta once positioned as a rival to Elon Musk’s X now has 500 million monthly users. It increasingly resembles Reddit.",
         "keyTakeaways": [],
         "whyItMatters": "",
         "sourceUrl": "https://www.nytimes.com/2026/07/05/technology/threads-meta-twitter-x.html",
@@ -205,13 +186,13 @@
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Sun, 05 Jul 2026 09:01:41 +0000",
+        "publishedAt": "Sun, 05 Jul 2026 14:39:41 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
       },
       {
-        "id": "AI-011",
+        "id": "AI-010",
         "title": "In San Francisco’s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough",
         "summary": "As OpenAI and Anthropic prepare to go public, tech workers making six figures are grousing that they cannot compete with the new A.I. elite. Some doubt they can afford to stay.",
         "content": "As OpenAI and Anthropic prepare to go public, tech workers making six figures are grousing that they cannot compete with the new A.I. elite. Some doubt they can afford to stay.",
@@ -233,39 +214,39 @@
     "concerns": [],
     "culture": [
       {
-        "id": "AI-012",
-        "title": "NHS to use AI on its app to direct patients to appropriate services",
-        "summary": "Update in England expected to reach about 200,000 patients over the next year as part of £10bn package to overhaul NHS systems\nThe NHS will begin using AI on its app to direct patients to the appropriate services, it has been announced.\nThe tool will",
-        "content": "Update in England expected to reach about 200,000 patients over the next year as part of £10bn package to overhaul NHS systems\nThe NHS will begin using AI on its app to direct patients to the appropriate services, it has been announced.\nThe tool will be used to triage patients and to ascertain if they should be allocated a GP appointment. Some may be advised to attend a pharmacy or their local A&E department instead, depending on the severity of their condition.\n Continue reading...",
+        "id": "AI-011",
+        "title": "AI poses ‘Hiroshima’-style threat to humanity without global rules, says Cooper",
+        "summary": "Exclusive: Foreign secretary warns of combined risks of AI, climate crisis, irregular migration and foreign interference\nArtificial intelligence poses a “Hiroshima”-style risk to humanity if governments do not agree to curb how it is developed, the f",
+        "content": "Exclusive: Foreign secretary warns of combined risks of AI, climate crisis, irregular migration and foreign interference\nArtificial intelligence poses a “Hiroshima”-style risk to humanity if governments do not agree to curb how it is developed, the foreign secretary has warned.\nYvette Cooper urged countries, including the US and China, to agree international rules for AI, telling the Guardian she believes the issue will dominate foreign policy over the next two years.\n Continue reading...",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/society/2026/jul/04/nhs-ai-app-patients-appropriate-services-health",
+        "sourceUrl": "https://www.theguardian.com/politics/2026/jul/05/ai-hiroshima-style-threat-humanity-global-rules-yvette-cooper",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Sat, 04 Jul 2026 21:30:08 GMT",
+        "publishedAt": "Sun, 05 Jul 2026 19:00:34 GMT",
         "normalizedTags": [
           "the guardian ai"
         ]
       },
       {
-        "id": "AI-013",
-        "title": "Doctors’ soaring use of AI scribes prompts Australian government warning over privacy",
-        "summary": "Exclusive: With the technology fast becoming popular in GP surgeries, regulators are monitoring its implementation and potential pitfalls\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news pod",
-        "content": "Exclusive: With the technology fast becoming popular in GP surgeries, regulators are monitoring its implementation and potential pitfalls\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nThe federal health department has raised concerns about the use of AI scribes by doctors as the health regulator considers the need for safeguards around the technology.\nAI scribe tools record, transcribe and summarise conversations between doc",
+        "id": "AI-012",
+        "title": "What’s Kylie’s favourite masking tape? How does Lena Dunham train pigs? It’s all out there – and I’m loving it | Emma Beddington",
+        "summary": "The more I learn about celebrities and their odd passions, the more encouraged I am. So much for AI drowning us in a flood of bland ‘tasteslop’\nThe internet, as we know, is now a depressing hellhole where everything is a terrifying shot of cortisol s",
+        "content": "The more I learn about celebrities and their odd passions, the more encouraged I am. So much for AI drowning us in a flood of bland ‘tasteslop’\nThe internet, as we know, is now a depressing hellhole where everything is a terrifying shot of cortisol straight into the eyeballs or AI slop, interspersed with adverts for protein. So may I offer a recommendation for a modest corrective? It’s called Perfectly Imperfect.\nIt is a daily newsletter about stuff people like. That’s it; that’s the whole conce",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/05/doctors-ai-scribes-australia-government-privacy-warning",
+        "sourceUrl": "https://www.theguardian.com/commentisfree/2026/jul/05/whats-kylies-favourite-masking-tape-how-does-lena-dunham-train-pigs-its-all-out-there-and-im-loving-it",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Sat, 04 Jul 2026 20:00:07 GMT",
+        "publishedAt": "Sun, 05 Jul 2026 13:00:28 GMT",
         "normalizedTags": [
           "the guardian ai"
         ]
@@ -278,19 +259,18 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
-    "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
-    "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-    "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+    "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+    "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+    "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+    "https://the-decoder.com/claude-code-and-fable-5-ported-the-2003-pc-game-command-conquer-to-native-ios-in-a-few-hours/",
+    "https://the-decoder.com/baidus-unlimited-ocr-processes-dozens-of-document-pages-in-one-pass-by-treating-memory-like-human-forgetting/",
     "https://the-decoder.com/ai-private-schools-sell-wealthy-us-families-on-personalized-learning-over-traditional-education/",
     "https://the-decoder.com/mistral-ceo-mensch-says-proprietary-ai-models-give-labs-a-front-row-seat-to-your-business-processes/",
     "https://the-decoder.com/hollywood-wants-seedance-banned-and-reportedly-also-wants-to-keep-using-it/",
-    "https://the-decoder.com/ai-search-agents-dont-fail-at-searching-they-fail-at-asking-the-right-questions-when-queries-get-ambiguous/",
-    "https://the-decoder.com/open-source-tool-pxpipe-hides-text-in-pngs-to-cut-claude-code-and-fable-5-token-costs-up-to-70/",
     "https://www.nytimes.com/2026/07/05/technology/threads-meta-twitter-x.html",
     "https://www.nytimes.com/2026/06/29/technology/san-francisco-tech-salaries.html",
-    "https://www.theguardian.com/society/2026/jul/04/nhs-ai-app-patients-appropriate-services-health",
-    "https://www.theguardian.com/australia-news/2026/jul/05/doctors-ai-scribes-australia-government-privacy-warning"
+    "https://www.theguardian.com/politics/2026/jul/05/ai-hiroshima-style-threat-humanity-global-rules-yvette-cooper",
+    "https://www.theguardian.com/commentisfree/2026/jul/05/whats-kylies-favourite-masking-tape-how-does-lena-dunham-train-pigs-its-all-out-there-and-im-loving-it"
   ],
-  "generatedAt": "2026-07-05T12:14:55.538Z"
+  "generatedAt": "2026-07-05T23:59:54.007Z"
 }
