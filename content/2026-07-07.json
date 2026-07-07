@@ -2,9 +2,9 @@
   "date": "2026-07-07",
   "dateFormatted": "July 7, 2026",
   "headline": {
-    "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
-    "summary": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
-    "sourceUrl": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+    "title": "Meta rolls out Muse, a new AI image generator",
+    "summary": "The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities.",
+    "sourceUrl": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
     "sourceName": "TechCrunch AI"
   },
   "simpleSummary": [
@@ -15,95 +15,95 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
-        "summary": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
-        "content": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday.",
+        "title": "Meta rolls out Muse, a new AI image generator",
+        "summary": "The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities.",
+        "content": "The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+        "sourceUrl": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Tue, 07 Jul 2026 12:00:00 +0000",
+        "publishedAt": "Tue, 07 Jul 2026 22:18:10 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-002",
-        "title": "The first American autonomous ground vehicles are fighting in Ukraine",
-        "summary": "Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine.",
-        "content": "Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine.",
+        "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+        "summary": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
+        "content": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+        "sourceUrl": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Tue, 07 Jul 2026 09:00:00 +0000",
+        "publishedAt": "Tue, 07 Jul 2026 20:04:32 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-003",
-        "title": "The ‘first’ AI-run ransomware attack still needed a human",
-        "summary": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials — meaning it wasn't quite the ",
-        "content": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials — meaning it wasn't quite the fully autonomous cybercrime debut that last week's headlines suggested.",
+        "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+        "summary": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
+        "content": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+        "sourceUrl": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Mon, 06 Jul 2026 23:56:14 +0000",
+        "publishedAt": "Tue, 07 Jul 2026 19:58:20 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-004",
-        "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
-        "summary": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
-        "content": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
+        "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+        "summary": "The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem.",
+        "content": "The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+        "sourceUrl": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Mon, 06 Jul 2026 23:21:03 +0000",
+        "publishedAt": "Tue, 07 Jul 2026 19:28:38 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-005",
-        "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
-        "summary": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
-        "content": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
+        "title": "Claude Cowork expands to mobile and web",
+        "summary": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.",
+        "content": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their laptop is closed.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+        "sourceUrl": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Mon, 06 Jul 2026 19:49:10 +0000",
+        "publishedAt": "Tue, 07 Jul 2026 16:27:18 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
@@ -112,95 +112,95 @@
     "creative": [
       {
         "id": "AI-006",
-        "title": "Chinese AI models regularly pass 30 percent on OpenRouter as cost gap widens",
-        "summary": "Chinese AI models are gaining ground with US companies because they cost far less than systems from OpenAI and Anthropic, CNBC reports. \nThe article Chinese AI models regularly pass 30 percent on OpenRouter as cost gap widens appeared first on The De",
-        "content": "Chinese AI models are gaining ground with US companies because they cost far less than systems from OpenAI and Anthropic, CNBC reports. \nThe article Chinese AI models regularly pass 30 percent on OpenRouter as cost gap widens appeared first on The Decoder.",
+        "title": "Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs",
+        "summary": "Microsoft is replacing AI models from OpenAI and Anthropic with its own MAI models in products like Excel and Outlook. Tens of thousands of queries per week already run through them. AI chief Mustafa Suleyman wants to \"ultimately eliminate\" the cost ",
+        "content": "Microsoft is replacing AI models from OpenAI and Anthropic with its own MAI models in products like Excel and Outlook. Tens of thousands of queries per week already run through them. AI chief Mustafa Suleyman wants to \"ultimately eliminate\" the cost of external models. For Copilot customers, that could mean less performance for the same price.\nThe article Copilot goes cheap as Microsoft phases out OpenAI and Anthropic models to cut costs appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/chinese-ai-models-regularly-pass-30-percent-on-openrouter-as-cost-gap-widens/",
+        "sourceUrl": "https://the-decoder.com/copilot-goes-cheap-as-microsoft-phases-out-openai-and-anthropic-models-to-cut-costs/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Tue, 07 Jul 2026 11:34:52 +0000",
+        "publishedAt": "Tue, 07 Jul 2026 18:35:58 +0000",
         "normalizedTags": [
           "the decoder"
         ]
       },
       {
         "id": "AI-007",
-        "title": "Deepseek is designing its own AI chip",
-        "summary": "Chinese startup Deepseek is building its own AI chip, Reuters reports. \nThe article Deepseek is designing its own AI chip appeared first on The Decoder.",
-        "content": "Chinese startup Deepseek is building its own AI chip, Reuters reports. \nThe article Deepseek is designing its own AI chip appeared first on The Decoder.",
+        "title": "Cohere Transcribe Arabic is an open-source model built for Arabic's toughest transcription problems",
+        "summary": "Cohere has released Transcribe Arabic, an open-source model for Arabic speech recognition that the company says outperforms Whisper and OmniASR on dialects, code-switching, and bilingual Arabic-English speech. The 2-billion-parameter model is availab",
+        "content": "Cohere has released Transcribe Arabic, an open-source model for Arabic speech recognition that the company says outperforms Whisper and OmniASR on dialects, code-switching, and bilingual Arabic-English speech. The 2-billion-parameter model is available on Hugging Face under the Apache 2.0 license.\nThe article Cohere Transcribe Arabic is an open-source model built for Arabic's toughest transcription problems appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/deepseek-is-designing-its-own-ai-chip/",
+        "sourceUrl": "https://the-decoder.com/cohere-transcribe-arabic-is-an-open-source-model-built-for-arabics-toughest-transcription-problems/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Tue, 07 Jul 2026 11:04:34 +0000",
+        "publishedAt": "Tue, 07 Jul 2026 17:54:08 +0000",
         "normalizedTags": [
           "the decoder"
         ]
       },
       {
         "id": "AI-008",
-        "title": "OpenAI and Anthropic are giving away millions in computing power to attract startups",
-        "summary": "OpenAI, Anthropic, and major cloud providers are racing to outbid each other with free compute credits to pull startups into their ecosystems. Some individual offers top $3 million. At Y Combinator alone, OpenAI and Anthropic could hand out up to $80",
-        "content": "OpenAI, Anthropic, and major cloud providers are racing to outbid each other with free compute credits to pull startups into their ecosystems. Some individual offers top $3 million. At Y Combinator alone, OpenAI and Anthropic could hand out up to $800 million in credits per year combined. The discount war comes at a time when both companies need to improve their margins ahead of upcoming IPOs.\nThe article OpenAI and Anthropic are giving away millions in computing power to attract startups appear",
+        "title": "Anthropic's Claude Cowork AI agent is now available on mobile and web",
+        "summary": "Anthropic is rolling out its AI agent Claude Cowork to mobile and web. Until now, the feature was limited to the desktop app. The agent keeps working in the background even when the laptop is closed and pings users on their phone when it needs a deci",
+        "content": "Anthropic is rolling out its AI agent Claude Cowork to mobile and web. Until now, the feature was limited to the desktop app. The agent keeps working in the background even when the laptop is closed and pings users on their phone when it needs a decision. The move blurs the line between Chat and Cowork even further.\nThe article Anthropic's Claude Cowork AI agent is now available on mobile and web appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/openai-and-anthropic-are-giving-away-millions-in-computing-power-to-attract-startups/",
+        "sourceUrl": "https://the-decoder.com/anthropics-claude-cowork-ai-agent-is-now-available-on-mobile-and-web/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Tue, 07 Jul 2026 10:44:35 +0000",
+        "publishedAt": "Tue, 07 Jul 2026 17:04:30 +0000",
         "normalizedTags": [
           "the decoder"
         ]
       },
       {
         "id": "AI-009",
-        "title": "Apollo economist warns AI profit gains outside tech could take \"well beyond\" what Wall Street expects",
-        "summary": "Apollo chief economist Torsten Slok sees no AI-driven margin gains outside tech. In regulated industries like healthcare, banking, or pharma, process overhauls and privacy rules could delay productivity boosts by years. If that takes five years inste",
-        "content": "Apollo chief economist Torsten Slok sees no AI-driven margin gains outside tech. In regulated industries like healthcare, banking, or pharma, process overhauls and privacy rules could delay productivity boosts by years. If that takes five years instead of five months, many AI stocks face a painful repricing.\nThe article Apollo economist warns AI profit gains outside tech could take \"well beyond\" what Wall Street expects appeared first on The Decoder.",
+        "title": "China eyes export curbs on its top AI models, and Europe is caught in the middle",
+        "summary": "According to Reuters, Chinese authorities are looking into restricting foreign access to the country's most powerful AI models. Alibaba, Bytedance, and Z.ai would all be affected. The move means both superpowers now treat AI as a strategic asset. For",
+        "content": "According to Reuters, Chinese authorities are looking into restricting foreign access to the country's most powerful AI models. Alibaba, Bytedance, and Z.ai would all be affected. The move means both superpowers now treat AI as a strategic asset. For Europe, the convenient shortcut of relying on cheap Chinese open-source models could close much faster than expected.\nThe article China eyes export curbs on its top AI models, and Europe is caught in the middle appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/apollo-economist-warns-ai-profit-gains-outside-tech-could-take-well-beyond-what-wall-street-expects/",
+        "sourceUrl": "https://the-decoder.com/china-eyes-export-curbs-on-its-top-ai-models-and-europe-is-caught-in-the-middle/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Tue, 07 Jul 2026 10:28:57 +0000",
+        "publishedAt": "Tue, 07 Jul 2026 16:13:45 +0000",
         "normalizedTags": [
           "the decoder"
         ]
       },
       {
         "id": "AI-010",
-        "title": "Cloudflare replaces its blanket AI bot block with granular controls for search, training, and agent crawlers",
-        "summary": "Cloudflare is giving all customers granular AI bot controls. Site owners can now manage Search, Training, and Agent bots separately instead of blocking them all at once. Starting September 15, 2026, Training and Agent bots will be blocked by default ",
-        "content": "Cloudflare is giving all customers granular AI bot controls. Site owners can now manage Search, Training, and Agent bots separately instead of blocking them all at once. Starting September 15, 2026, Training and Agent bots will be blocked by default on ad-supported pages.\nThe article Cloudflare replaces its blanket AI bot block with granular controls for search, training, and agent crawlers appeared first on The Decoder.",
+        "title": "Claude's hidden inner monologue is now readable thanks to Anthropic's new Jacobian Lens",
+        "summary": "Anthropic has found that Claude developed an internal working memory on its own during training. The company calls it \"J-Space\" and can now read it using a new analysis tool called J-Lens. The working memory reveals that Claude recognizes contrived t",
+        "content": "Anthropic has found that Claude developed an internal working memory on its own during training. The company calls it \"J-Space\" and can now read it using a new analysis tool called J-Lens. The working memory reveals that Claude recognizes contrived test scenarios before producing its first word. When the researchers disable those cues, Claude actually resorts to blackmail in some runs. A model trained on reward hacking shows words like \"fake\" and \"fraud\" in J-Space during normal coding tasks, ev",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/cloudflare-replaces-its-blanket-ai-bot-block-with-granular-controls-for-search-training-and-agent-crawlers/",
+        "sourceUrl": "https://the-decoder.com/claudes-hidden-inner-monologue-is-now-readable-thanks-to-anthropics-new-jacobian-lens/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Mon, 06 Jul 2026 18:54:45 +0000",
+        "publishedAt": "Tue, 07 Jul 2026 14:46:29 +0000",
         "normalizedTags": [
           "the decoder"
         ]
@@ -266,25 +266,6 @@
       },
       {
         "id": "AI-014",
-        "title": "Your family’s $300 stake in OpenAI",
-        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news",
-        "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times reported that Altman is in…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 06 Jul 2026 18:00:00 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-015",
         "title": "iFLYTEK-Embodied-Omni Technical Report",
         "summary": "arXiv:2607.02542v1 Announce Type: new \nAbstract: General-purpose embodied agents must understand multimodal instructions, anticipate how their environment will evolve, and produce precise control actions over extended horizons. Existing approaches ty",
         "content": "arXiv:2607.02542v1 Announce Type: new \nAbstract: General-purpose embodied agents must understand multimodal instructions, anticipate how their environment will evolve, and produce precise control actions over extended horizons. Existing approaches typically specialize in visual-language reasoning, video-based world modeling, or action generation, while cascaded pipelines that first synthesize future observations and then infer actions can introduce interface bottlenecks and compound prediction e",
@@ -301,101 +282,120 @@
         "normalizedTags": [
           "arxiv cs.ai"
         ]
+      },
+      {
+        "id": "AI-015",
+        "title": "Internal Pluralism and the Limits of Pairwise Comparisons",
+        "summary": "arXiv:2607.02672v1 Announce Type: new \nAbstract: Local pairwise comparisons are a standard tool for learning how people want decision rules to work, e.g., in participatory design or alignment. However, their use builds in two strong assumptions: that",
+        "content": "arXiv:2607.02672v1 Announce Type: new \nAbstract: Local pairwise comparisons are a standard tool for learning how people want decision rules to work, e.g., in participatory design or alignment. However, their use builds in two strong assumptions: that local comparisons are sufficient evidence about how a person wants an automated decision rule to behave, and that people can always answer those comparisons decisively. We investigate how these assumptions may be compromised under internal pluralism",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2607.02672",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 07 Jul 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ]
       }
     ],
     "applications": [],
     "business": [
       {
         "id": "AI-016",
-        "title": "Trump Accounts, the Dow's latest record, Microsoft layoffs and more in Morning Squawk",
-        "summary": "Here are five key things investors need to know to start the trading day.",
-        "content": "Here are five key things investors need to know to start the trading day.",
+        "title": "Jim Cramer says the market's reaction to Samsung may signal a shift in AI leadership",
+        "summary": "CNBC's Jim Cramer said Samsung's earnings sparked a sell-off in AI hardware stocks, while many tech names that have lagged this year rebounded.",
+        "content": "CNBC's Jim Cramer said Samsung's earnings sparked a sell-off in AI hardware stocks, while many tech names that have lagged this year rebounded.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/07/07/trump-accounts-the-dows-latest-record-microsoft-layoffs-and-more-in-morning-squawk.html",
+        "sourceUrl": "https://www.cnbc.com/2026/07/07/jim-cramer-markets-reaction-samsung-signal-shift-ai-leadership.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Tue, 07 Jul 2026 12:03:12 GMT",
+        "publishedAt": "Tue, 07 Jul 2026 22:26:48 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-017",
-        "title": "Chinese lidar maker with Nvidia ties accused of being cyber risk for U.S.",
-        "summary": "Hesai Technology was blacklisted as a national security threat in 2024 by the U.S. Department of Defense, which designated Hesai as a Chinese military entity.",
-        "content": "Hesai Technology was blacklisted as a national security threat in 2024 by the U.S. Department of Defense, which designated Hesai as a Chinese military entity.",
+        "title": "Meta enters AI image model race in bid to court advertisers and subscribers",
+        "summary": "Meta has announced Muse Image, its first AI model for image creation, as it seeks to attract creators and advertisers to its offerings.",
+        "content": "Meta has announced Muse Image, its first AI model for image creation, as it seeks to attract creators and advertisers to its offerings.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/07/07/hesai-technology-nvidia-cyber-risk.html",
+        "sourceUrl": "https://www.cnbc.com/2026/07/07/meta-ai-muse-image.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Tue, 07 Jul 2026 12:00:01 GMT",
+        "publishedAt": "Tue, 07 Jul 2026 18:00:01 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-018",
-        "title": "Google backs nuclear fusion startup targeting Europe’s first commercial power plant",
-        "summary": "Proxima Fusion has raised $468 million as it looks to move towards commercializing the promising but infamously difficult technical challenge of nuclear fusion.",
-        "content": "Proxima Fusion has raised $468 million as it looks to move towards commercializing the promising but infamously difficult technical challenge of nuclear fusion.",
+        "title": "Why the global memory bottleneck may signal early innings in the cyber stock comeback",
+        "summary": "There is one key difference between the cyber trade and the memory trade.",
+        "content": "There is one key difference between the cyber trade and the memory trade.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/07/07/google-proxima-fusion-funding.html",
+        "sourceUrl": "https://www.cnbc.com/2026/07/07/why-the-global-memory-bottleneck-may-signal-early-innings-in-the-cyber-stock-comeback.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Tue, 07 Jul 2026 06:24:28 GMT",
+        "publishedAt": "Tue, 07 Jul 2026 17:51:09 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-019",
-        "title": "Chinese AI models are gaining ground with U.S. companies as OpenAI, Anthropic costs surge",
-        "summary": "Recent model releases from Chinese companies including DeepSeek and Z.ai are seen by many as highly competitive compared to leading U.S. frontier systems.",
-        "content": "Recent model releases from Chinese companies including DeepSeek and Z.ai are seen by many as highly competitive compared to leading U.S. frontier systems.",
+        "title": "Chip stocks sell off after Samsung earnings fall short of high AI bar",
+        "summary": "Samsung Electronics' results weren't enough to please investors after stock's 145% run up",
+        "content": "Samsung Electronics' results weren't enough to please investors after stock's 145% run up",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html",
+        "sourceUrl": "https://www.cnbc.com/2026/07/07/chip-stocks-ai-selloff-samsung.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Tue, 07 Jul 2026 09:30:59 GMT",
+        "publishedAt": "Tue, 07 Jul 2026 20:45:08 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-020",
-        "title": "Solstice CEO defends its $14.5B acquisition after the stock plunges 15%",
-        "summary": "Solstice CEO David Sewell said the company's acquisition of Element Solutions creates a \"world-leading\" supplier of advanced materials.",
-        "content": "Solstice CEO David Sewell said the company's acquisition of Element Solutions creates a \"world-leading\" supplier of advanced materials.",
+        "title": "Jim Cramer calls out buying opportunities in this 'vicious' market rotation",
+        "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+        "content": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/07/06/solstice-ceo-defends-acquisition-element-solutions-stock-plunges.html",
+        "sourceUrl": "https://www.cnbc.com/2026/07/07/cramer-calls-out-buying-opportunities-in-this-vicious-market-rotation.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Mon, 06 Jul 2026 23:02:10 GMT",
+        "publishedAt": "Tue, 07 Jul 2026 16:37:34 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
@@ -404,63 +404,44 @@
     "policy": [
       {
         "id": "AI-021",
-        "title": "Why A.I. Distillation Has Become a Hot Topic in the Race with China",
-        "summary": "U.S. companies complain that competitors in China are unfairly copying their A.I. systems using a technique that has been around for years.",
-        "content": "U.S. companies complain that competitors in China are unfairly copying their A.I. systems using a technique that has been around for years.",
+        "title": "Meta Unveils an A.I. Image Generator",
+        "summary": "Muse Image, which can create realistic images for users on Instagram and WhatsApp, is the company’s latest attempt to catch up in the global artificial intelligence race.",
+        "content": "Muse Image, which can create realistic images for users on Instagram and WhatsApp, is the company’s latest attempt to catch up in the global artificial intelligence race.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/07/06/technology/ai-distillation-china.html",
+        "sourceUrl": "https://www.nytimes.com/2026/07/07/technology/meta-ai-muse-image.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Mon, 06 Jul 2026 16:04:08 +0000",
+        "publishedAt": "Tue, 07 Jul 2026 19:50:55 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
       },
       {
         "id": "AI-022",
-        "title": "Alibaba’s A.I. Is a Hit, but Hard to Turn Into a Moneymaker",
-        "summary": "The Chinese company’s models have won over developers worldwide, but they are open source — so they can be used and modified freely.",
-        "content": "The Chinese company’s models have won over developers worldwide, but they are open source — so they can be used and modified freely.",
+        "title": "Businesses Fear Politicization as Trump Gains More Power Over U.S. Agencies",
+        "summary": "A Supreme Court ruling that presidents can fire independent regulators without cause has added volatility for industries that prefer stable enforcement.",
+        "content": "A Supreme Court ruling that presidents can fire independent regulators without cause has added volatility for industries that prefer stable enforcement.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/07/06/business/alibaba-ai-qwen.html",
+        "sourceUrl": "https://www.nytimes.com/2026/07/07/technology/scotus-agencies-companies-regulation.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Mon, 06 Jul 2026 16:05:26 +0000",
+        "publishedAt": "Tue, 07 Jul 2026 15:07:00 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
       },
       {
         "id": "AI-023",
-        "title": "Microsoft Lays Off Thousands of Xbox Employees, Closes Game Studios",
-        "summary": "The layoffs were part of wider cuts at Microsoft, as the company prioritizes spending on artificial intelligence.",
-        "content": "The layoffs were part of wider cuts at Microsoft, as the company prioritizes spending on artificial intelligence.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/07/06/technology/microsoft-xbox-layoffs-ai.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 06 Jul 2026 14:19:28 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-024",
         "title": "To Reduce Electrical Grid Strain Amid Heat Wave, Data Centers Are Ordered to Use Backup Power",
         "summary": "As triple-digit temperatures engulf much of the United States, the Trump administration wants grid managers to require the use of backup power that often goes unused.",
         "content": "As triple-digit temperatures engulf much of the United States, the Trump administration wants grid managers to require the use of backup power that often goes unused.",
@@ -482,7 +463,7 @@
     "concerns": [],
     "culture": [
       {
-        "id": "AI-025",
+        "id": "AI-024",
         "title": "AI models already ‘doing things their creators never intended’, Australia’s assistant technology minister warns",
         "summary": "Andrew Charlton says artificial intelligence ‘cheating, deceiving, going their own way’ – and time to get ahead of it is during testing \n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podc",
         "content": "Andrew Charlton says artificial intelligence ‘cheating, deceiving, going their own way’ – and time to get ahead of it is during testing \n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nArtificial intelligence models are already “cheating, deceiving and going their own way”, Australia’s assistant minister for technology, Andrew Charlton, has warned, as the federal government’s AI Safety Institute begins testing the latest model",
@@ -501,7 +482,45 @@
         ]
       },
       {
+        "id": "AI-025",
+        "title": "‘Absolutely bananas’: San Francisco homes sell for $1m above asking price amid AI boom",
+        "summary": "Report finds widespread overbidding as rapid AI growth generates increased wealth in city where housing is scarce\nSan Francisco’s AI boom has buyers spending unprecedented amounts of money on homes – much more than sellers are asking for.\nA new analy",
+        "content": "Report finds widespread overbidding as rapid AI growth generates increased wealth in city where housing is scarce\nSan Francisco’s AI boom has buyers spending unprecedented amounts of money on homes – much more than sellers are asking for.\nA new analysis from real-estate brokerage Compass, found that in the first half of 2026, more than 140 homes in the city sold for at least $1m above their asking price, 44 of them in June alone.\n Continue reading...",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/us-news/2026/jul/07/san-francisco-home-sale-prices-ai",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 07 Jul 2026 22:33:58 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
         "id": "AI-026",
+        "title": "Curry, bagels … and AI? Londoners fight plan for huge datacentre in Brick Lane",
+        "summary": "Residents and council say creating affordable housing is more urgent than ‘high-frequency trading’ in nearby City\nCampaigners in east London are opposing plans for a datacentre in Brick Lane that they say will worsen the area’s housing crisis and dri",
+        "content": "Residents and council say creating affordable housing is more urgent than ‘high-frequency trading’ in nearby City\nCampaigners in east London are opposing plans for a datacentre in Brick Lane that they say will worsen the area’s housing crisis and drive long-term residents away.\nThe road, famed for its curry houses and 24-hour bagel shops, is the latest flashpoint in the rapid rollout of datacentres across the UK that aims to meet demand created by artificial intelligence.\n Continue reading...",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/uk-news/2026/jul/07/london-campaign-planned-ai-datacentre-brick-lane",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 07 Jul 2026 14:00:02 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-027",
         "title": "Big tech’s lofty climate goals wrecked by energy-hungry AI",
         "summary": "Net-zero pledges of Google and Amazon slip out of reach, and struggling Meta makes frantic moves\nHello, and welcome to TechScape. I’m your host, Blake Montgomery, the Guardian’s US tech editor, writing to you after a rodeo in rural Texas, where I cel",
         "content": "Net-zero pledges of Google and Amazon slip out of reach, and struggling Meta makes frantic moves\nHello, and welcome to TechScape. I’m your host, Blake Montgomery, the Guardian’s US tech editor, writing to you after a rodeo in rural Texas, where I celebrated Independence Day. Today in tech, we’re discussing how tech giants’ investments in AI are hindering their pledges of climate neutrality, Meta’s frantic search for new lines of business, and Americans’ anger at tech’s political influence.\nRevea",
@@ -520,7 +539,7 @@
         ]
       },
       {
-        "id": "AI-027",
+        "id": "AI-028",
         "title": "Stymied datacentre projects threaten global AI revolution",
         "summary": "Large-scale datacentre projects around the world are being challenged or cancelled, as infrastructure’s energy demands ramp up\nDatacentre planning proposals face all kinds of hurdles, from securing energy supply to high construction costs. But the 2,",
         "content": "Large-scale datacentre projects around the world are being challenged or cancelled, as infrastructure’s energy demands ramp up\nDatacentre planning proposals face all kinds of hurdles, from securing energy supply to high construction costs. But the 2,000 acre Prince William Digital Gateway site in the US state of Virginia had another problem: its proximity to a Civil War battlefield.\n“If the development is allowed to proceed, the solemn nature of this historic site would become marred by sitting ",
@@ -537,44 +556,6 @@
         "normalizedTags": [
           "the guardian ai"
         ]
-      },
-      {
-        "id": "AI-028",
-        "title": "We Are Not Machines by Sarah O’Connor review – can dignity at work survive the tech revolution?",
-        "summary": "A Financial Times journalist ponders the future of labour in world increasingly dominated by AI and automation\nIt’s never been easy to land and keep a decent job. But it feels like it’s getting harder. In June, the number of job vacancies in the UK f",
-        "content": "A Financial Times journalist ponders the future of labour in world increasingly dominated by AI and automation\nIt’s never been easy to land and keep a decent job. But it feels like it’s getting harder. In June, the number of job vacancies in the UK fell to a five-year low; headlines warn of a looming AI-employment shock. What might the future of work look like – and who or what will shape its terms? In her new book, Sarah O’Connor goes looking for answers in the modern collision of artificial in",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/books/2026/jul/07/we-are-not-machines-by-sarah-oconnor-review-can-dignity-at-work-survive-the-tech-revolution",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Tue, 07 Jul 2026 08:00:34 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-029",
-        "title": "Indecent proposal: why social media’s rebrand of surveillance tech normalises harassment and non-consensual filming | Maggie Zhou",
-        "summary": "By selling AI glasses as aspirational, cool and fashion-forward, tech elites are trying to pacify their entry into the mainstream world\nWe have a habit of dismissing social media trends as inane and vapid while ignoring the disturbing undercurrent. A",
-        "content": "By selling AI glasses as aspirational, cool and fashion-forward, tech elites are trying to pacify their entry into the mainstream world\nWe have a habit of dismissing social media trends as inane and vapid while ignoring the disturbing undercurrent. A few weeks ago I was reminded of that when I saw an Instagram carousel by British fashion personality Alexa Chung. Shared with her 6 million followers, she showed different outfits through screenshots of herself entering and leaving her home on her s",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/commentisfree/2026/jul/07/indecent-proposal-why-social-medias-rebrand-of-surveillance-tech-normalises-harassment-and-non-consensual-filming",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Tue, 07 Jul 2026 03:55:39 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
       }
     ]
   },
@@ -584,35 +565,34 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
-    "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
-    "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
-    "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
-    "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
-    "https://the-decoder.com/chinese-ai-models-regularly-pass-30-percent-on-openrouter-as-cost-gap-widens/",
-    "https://the-decoder.com/deepseek-is-designing-its-own-ai-chip/",
-    "https://the-decoder.com/openai-and-anthropic-are-giving-away-millions-in-computing-power-to-attract-startups/",
-    "https://the-decoder.com/apollo-economist-warns-ai-profit-gains-outside-tech-could-take-well-beyond-what-wall-street-expects/",
-    "https://the-decoder.com/cloudflare-replaces-its-blanket-ai-bot-block-with-granular-controls-for-search-training-and-agent-crawlers/",
+    "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+    "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+    "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+    "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+    "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+    "https://the-decoder.com/copilot-goes-cheap-as-microsoft-phases-out-openai-and-anthropic-models-to-cut-costs/",
+    "https://the-decoder.com/cohere-transcribe-arabic-is-an-open-source-model-built-for-arabics-toughest-transcription-problems/",
+    "https://the-decoder.com/anthropics-claude-cowork-ai-agent-is-now-available-on-mobile-and-web/",
+    "https://the-decoder.com/china-eyes-export-curbs-on-its-top-ai-models-and-europe-is-caught-in-the-middle/",
+    "https://the-decoder.com/claudes-hidden-inner-monologue-is-now-readable-thanks-to-anthropics-new-jacobian-lens/",
     "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
     "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
     "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
-    "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
     "https://arxiv.org/abs/2607.02542",
-    "https://www.cnbc.com/2026/07/07/trump-accounts-the-dows-latest-record-microsoft-layoffs-and-more-in-morning-squawk.html",
-    "https://www.cnbc.com/2026/07/07/hesai-technology-nvidia-cyber-risk.html",
-    "https://www.cnbc.com/2026/07/07/google-proxima-fusion-funding.html",
-    "https://www.cnbc.com/2026/07/07/chinese-ai-models-costs-us-openai-anthropic.html",
-    "https://www.cnbc.com/2026/07/06/solstice-ceo-defends-acquisition-element-solutions-stock-plunges.html",
-    "https://www.nytimes.com/2026/07/06/technology/ai-distillation-china.html",
-    "https://www.nytimes.com/2026/07/06/business/alibaba-ai-qwen.html",
-    "https://www.nytimes.com/2026/07/06/technology/microsoft-xbox-layoffs-ai.html",
+    "https://arxiv.org/abs/2607.02672",
+    "https://www.cnbc.com/2026/07/07/jim-cramer-markets-reaction-samsung-signal-shift-ai-leadership.html",
+    "https://www.cnbc.com/2026/07/07/meta-ai-muse-image.html",
+    "https://www.cnbc.com/2026/07/07/why-the-global-memory-bottleneck-may-signal-early-innings-in-the-cyber-stock-comeback.html",
+    "https://www.cnbc.com/2026/07/07/chip-stocks-ai-selloff-samsung.html",
+    "https://www.cnbc.com/2026/07/07/cramer-calls-out-buying-opportunities-in-this-vicious-market-rotation.html",
+    "https://www.nytimes.com/2026/07/07/technology/meta-ai-muse-image.html",
+    "https://www.nytimes.com/2026/07/07/technology/scotus-agencies-companies-regulation.html",
     "https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html",
     "https://www.theguardian.com/technology/2026/jul/07/ai-models-doing-things-their-creators-never-intended",
+    "https://www.theguardian.com/us-news/2026/jul/07/san-francisco-home-sale-prices-ai",
+    "https://www.theguardian.com/uk-news/2026/jul/07/london-campaign-planned-ai-datacentre-brick-lane",
     "https://www.theguardian.com/technology/2026/jul/06/ai-climate-crisis",
-    "https://www.theguardian.com/technology/2026/jul/07/stymied-datacentre-projects-threaten-global-ai-revolution",
-    "https://www.theguardian.com/books/2026/jul/07/we-are-not-machines-by-sarah-oconnor-review-can-dignity-at-work-survive-the-tech-revolution",
-    "https://www.theguardian.com/commentisfree/2026/jul/07/indecent-proposal-why-social-medias-rebrand-of-surveillance-tech-normalises-harassment-and-non-consensual-filming"
+    "https://www.theguardian.com/technology/2026/jul/07/stymied-datacentre-projects-threaten-global-ai-revolution"
   ],
-  "generatedAt": "2026-07-07T13:18:11.774Z"
+  "generatedAt": "2026-07-07T23:49:54.029Z"
 }
