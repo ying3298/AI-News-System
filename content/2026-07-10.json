@@ -2,9 +2,9 @@
   "date": "2026-07-10",
   "dateFormatted": "July 10, 2026",
   "headline": {
-    "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
-    "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
-    "sourceUrl": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+    "title": "Apple sues OpenAI over alleged trade secret theft",
+    "summary": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.",
+    "sourceUrl": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
     "sourceName": "TechCrunch AI"
   },
   "simpleSummary": [
@@ -15,6 +15,82 @@
     "tools": [
       {
         "id": "AI-001",
+        "title": "Apple sues OpenAI over alleged trade secret theft",
+        "summary": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.",
+        "content": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 10 Jul 2026 21:00:29 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-002",
+        "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+        "summary": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune",
+        "content": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start […]",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 10 Jul 2026 19:00:00 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-003",
+        "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+        "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
+        "content": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 10 Jul 2026 17:17:12 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-004",
+        "title": "Hugging Face’s CEO on why companies are done renting their AI",
+        "summary": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune",
+        "content": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start […]",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 10 Jul 2026 14:00:00 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-005",
         "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
         "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
         "content": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps.",
@@ -31,87 +107,68 @@
         "normalizedTags": [
           "techcrunch ai"
         ]
-      },
-      {
-        "id": "AI-002",
-        "title": "Fidji Simo steps down from OpenAI’s No. 2 role",
-        "summary": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in th",
-        "content": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected — a leadership vacuum that comes at a tricky time as the company eyes a possible IPO and races to catch Anthropic in the enterprise market.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
-        "sourceName": "TechCrunch AI",
-        "tags": [
-          "TechCrunch AI"
-        ],
-        "section": "tools",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 09 Jul 2026 23:38:00 +0000",
-        "normalizedTags": [
-          "techcrunch ai"
-        ]
-      },
-      {
-        "id": "AI-003",
-        "title": "OpenAI launches its new family of models with GPT-5.6",
-        "summary": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
-        "content": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
-        "sourceName": "TechCrunch AI",
-        "tags": [
-          "TechCrunch AI"
-        ],
-        "section": "tools",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 09 Jul 2026 22:24:24 +0000",
-        "normalizedTags": [
-          "techcrunch ai"
-        ]
-      },
-      {
-        "id": "AI-004",
-        "title": "An AI agent startup just let its agent run its $100M fundraise",
-        "summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
-        "content": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-        "sourceName": "TechCrunch AI",
-        "tags": [
-          "TechCrunch AI"
-        ],
-        "section": "tools",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 09 Jul 2026 22:08:58 +0000",
-        "normalizedTags": [
-          "techcrunch ai"
-        ]
-      },
-      {
-        "id": "AI-005",
-        "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
-        "summary": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
-        "content": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
-        "sourceName": "TechCrunch AI",
-        "tags": [
-          "TechCrunch AI"
-        ],
-        "section": "tools",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 09 Jul 2026 22:03:54 +0000",
-        "normalizedTags": [
-          "techcrunch ai"
-        ]
       }
     ],
     "creative": [
       {
         "id": "AI-006",
+        "title": "OpenAI's GPT-5.6 Sol autonomously post-trained the smaller Luna model with a \"fairly underspecified prompt\"",
+        "summary": "According to OpenAI, GPT-5.6 Sol independently fine-tuned the smaller Luna model, triggered by a single \"fairly under-specified prompt.\" In OpenAI's internal RSI benchmark for recursive self-improvement, Sol scores 16.2 points higher than GPT-5.5. Op",
+        "content": "According to OpenAI, GPT-5.6 Sol independently fine-tuned the smaller Luna model, triggered by a single \"fairly under-specified prompt.\" In OpenAI's internal RSI benchmark for recursive self-improvement, Sol scores 16.2 points higher than GPT-5.5. OpenAI believes the \"automated researcher\" is within reach.\nThe article OpenAI's GPT-5.6 Sol autonomously post-trained the smaller Luna model with a \"fairly underspecified prompt\" appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/openais-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 10 Jul 2026 21:12:47 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-007",
+        "title": "OpenAI staffer maps out which of GPT-5.6 Sol's five reasoning levels fits which task complexity",
+        "summary": "GPT-5.6 Sol ships with five reasoning levels from \"Light\" to \"xhigh,\" plus \"Max\" and \"Ultra\" modes that deploy multiple sub-agents in parallel. OpenAI's Vaibhav Srivastav recommends starting low and only scaling up when needed.\nThe article OpenAI sta",
+        "content": "GPT-5.6 Sol ships with five reasoning levels from \"Light\" to \"xhigh,\" plus \"Max\" and \"Ultra\" modes that deploy multiple sub-agents in parallel. OpenAI's Vaibhav Srivastav recommends starting low and only scaling up when needed.\nThe article OpenAI staffer maps out which of GPT-5.6 Sol's five reasoning levels fits which task complexity appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/openai-staffer-maps-out-which-of-gpt-5-6-sols-five-reasoning-levels-fits-which-task-complexity/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 10 Jul 2026 17:52:06 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-008",
+        "title": "Tencent moves to buy majority stake in Manus after Beijing forced Meta to unwind its $2 billion deal",
+        "summary": "Tencent is in talks to buy a majority stake in AI agent startup Manus at the same $2 billion valuation, according to the Financial Times, after Beijing blocked Meta's acquisition. Tencent sees overlap with its own agent plans, including for WeChat. U",
+        "content": "Tencent is in talks to buy a majority stake in AI agent startup Manus at the same $2 billion valuation, according to the Financial Times, after Beijing blocked Meta's acquisition. Tencent sees overlap with its own agent plans, including for WeChat. U.S. firm Benchmark is not expected to take part.\nThe article Tencent moves to buy majority stake in Manus after Beijing forced Meta to unwind its $2 billion deal appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/tencent-moves-to-buy-majority-stake-in-manus-after-beijing-forced-meta-to-unwind-its-2-billion-deal/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 10 Jul 2026 16:48:05 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-009",
         "title": "OpenAI kills its Atlas browser after just eight months and folds everything into ChatGPT",
         "summary": "OpenAI is killing its AI browser Atlas less than eight months after launch. Its features are moving into ChatGPT's updated Chrome extension, which will let users run ChatGPT directly in Chrome's sidebar. Atlas joins a growing list of scrapped OpenAI ",
         "content": "OpenAI is killing its AI browser Atlas less than eight months after launch. Its features are moving into ChatGPT's updated Chrome extension, which will let users run ChatGPT directly in Chrome's sidebar. Atlas joins a growing list of scrapped OpenAI products.\nThe article OpenAI kills its Atlas browser after just eight months and folds everything into ChatGPT appeared first on The Decoder.",
@@ -130,7 +187,7 @@
         ]
       },
       {
-        "id": "AI-007",
+        "id": "AI-010",
         "title": "The Fed wants AI investor Marc Andreessen to help figure out if AI can tame inflation",
         "summary": "Fed Chair Kevin Warsh has appointed venture capitalist Marc Andreessen to advise the Federal Reserve on AI's economic impact. Warsh views AI as a \"significant disinflationary force,\" but Andreessen's firm Andreessen Horowitz is heavily invested in AI",
         "content": "Fed Chair Kevin Warsh has appointed venture capitalist Marc Andreessen to advise the Federal Reserve on AI's economic impact. Warsh views AI as a \"significant disinflationary force,\" but Andreessen's firm Andreessen Horowitz is heavily invested in AI companies, raising conflict-of-interest questions.\nThe article The Fed wants AI investor Marc Andreessen to help figure out if AI can tame inflation appeared first on The Decoder.",
@@ -144,63 +201,6 @@
         "section": "creative",
         "readTime": "2 min",
         "publishedAt": "Fri, 10 Jul 2026 12:18:32 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
-      },
-      {
-        "id": "AI-008",
-        "title": "Bun ditches Zig for Rust with help from Claude Fable 5, writes over a million lines of code in 11 days",
-        "summary": "The JavaScript tool Bun has been fully rewritten from Zig to Rust, and Anthropic's Fable 5 did most of the work. \nThe article Bun ditches Zig for Rust with help from Claude Fable 5, writes over a million lines of code in 11 days appeared first on The",
-        "content": "The JavaScript tool Bun has been fully rewritten from Zig to Rust, and Anthropic's Fable 5 did most of the work. \nThe article Bun ditches Zig for Rust with help from Claude Fable 5, writes over a million lines of code in 11 days appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/bun-ditches-zig-for-rust-with-help-from-claude-fable-5-writes-over-a-million-lines-of-code-in-11-days/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 10 Jul 2026 11:09:44 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
-      },
-      {
-        "id": "AI-009",
-        "title": "GPT-5.6 Sol nearly matches Fable 5 on aggregated benchmarks at one-third the cost",
-        "summary": "OpenAI's GPT-5.6 Sol scores 59 points on the Artificial Analysis Intelligence Index, just one point behind Claude Fable 5. At $1.04 per task, it costs a third of what Anthropic's top model charges. In agentic coding, Sol beats every competitor, addin",
-        "content": "OpenAI's GPT-5.6 Sol scores 59 points on the Artificial Analysis Intelligence Index, just one point behind Claude Fable 5. At $1.04 per task, it costs a third of what Anthropic's top model charges. In agentic coding, Sol beats every competitor, adding even more pricing pressure on Anthropic.\nThe article GPT-5.6 Sol nearly matches Fable 5 on aggregated benchmarks at one-third the cost appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/gpt-5-6-sol-nearly-matches-fable-5-on-aggregated-benchmarks-at-one-third-the-cost/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 09 Jul 2026 18:37:51 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
-      },
-      {
-        "id": "AI-010",
-        "title": "OpenAI pairs its GPT-5.6 public rollout with ChatGPT Work, a new agent that handles entire workflows",
-        "summary": "OpenAI is launching ChatGPT Work, an agent-based product powered by Codex and the now publicly available GPT-5.6. The agent can independently handle complex projects across apps like Google Drive, Slack, and Salesforce. ChatGPT Work is available now ",
-        "content": "OpenAI is launching ChatGPT Work, an agent-based product powered by Codex and the now publicly available GPT-5.6. The agent can independently handle complex projects across apps like Google Drive, Slack, and Salesforce. ChatGPT Work is available now on web, mobile, and desktop, though access depends on the subscription plan.\nThe article OpenAI pairs its GPT-5.6 public rollout with ChatGPT Work, a new agent that handles entire workflows appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/openai-pairs-its-gpt-5-6-public-rollout-with-chatgpt-work-a-new-agent-that-handles-entire-workflows/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 09 Jul 2026 17:59:22 +0000",
         "normalizedTags": [
           "the decoder"
         ]
@@ -247,25 +247,6 @@
       },
       {
         "id": "AI-013",
-        "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-        "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. R",
-        "content": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the Jacobian lens (or…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 09 Jul 2026 20:22:28 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-014",
         "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
         "summary": "arXiv:2607.06624v1 Announce Type: new \nAbstract: We present AgentLens, a production-assessed benchmark for interactive code agents. Most code-agent benchmarks reduce a run to a single bit -- did the task pass? -- but the people who actually use these",
         "content": "arXiv:2607.06624v1 Announce Type: new \nAbstract: We present AgentLens, a production-assessed benchmark for interactive code agents. Most code-agent benchmarks reduce a run to a single bit -- did the task pass? -- but the people who actually use these agents experience the entire trajectory: how the agent follows instructions, uses its tools, verifies its own work, recovers from mistakes, and talks to them along the way. AgentLens evaluates that whole trajectory. It pairs formal verification, whe",
@@ -284,7 +265,7 @@
         ]
       },
       {
-        "id": "AI-015",
+        "id": "AI-014",
         "title": "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning",
         "summary": "arXiv:2607.06720v1 Announce Type: new \nAbstract: Training large language models (LLMs) with extended reasoning has enabled in-context search, in which models iteratively generate, critique, and revise solution attempts. We provide a theoretical analy",
         "content": "arXiv:2607.06720v1 Announce Type: new \nAbstract: Training large language models (LLMs) with extended reasoning has enabled in-context search, in which models iteratively generate, critique, and revise solution attempts. We provide a theoretical analysis of in-context search by modeling it as approximate inference over reasoning traces, where the base model defines a prior and self-reflection provides feedback for posterior updates, and study the resulting inference-time sampling complexity - the",
@@ -301,101 +282,120 @@
         "normalizedTags": [
           "arxiv cs.ai"
         ]
+      },
+      {
+        "id": "AI-015",
+        "title": "LLM-powered reasoning in agent-based modeling",
+        "summary": "arXiv:2607.06757v1 Announce Type: new \nAbstract: Agent-based modeling (ABM) has the capability to model millions of individuals and their interactions, which is useful for policy making. However, ABMs have traditionally relied on static prior, which ",
+        "content": "arXiv:2607.06757v1 Announce Type: new \nAbstract: Agent-based modeling (ABM) has the capability to model millions of individuals and their interactions, which is useful for policy making. However, ABMs have traditionally relied on static prior, which prevents the models from adapting to real-time changes. Our research provides a novel approach to addressing this information gap. Large language models (LLMs) offer new opportunities to predict human decision-making. Here, we introduce a scalable Hy",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2607.06757",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 10 Jul 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ]
       }
     ],
     "applications": [],
     "business": [
       {
         "id": "AI-016",
-        "title": "Chip rally, Fed task forces, Delta earnings and more in Morning Squawk",
-        "summary": "Here are five key things investors need to know to start the trading day.",
-        "content": "Here are five key things investors need to know to start the trading day.",
+        "title": "The AI race is shifting from bigger models to cheaper, smarter systems",
+        "summary": "Companies are starting to choose AI models by task, cost and control, not just leaderboard rank.",
+        "content": "Companies are starting to choose AI models by task, cost and control, not just leaderboard rank.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/07/10/5-things-to-know-before-the-stock-market-opens.html",
+        "sourceUrl": "https://www.cnbc.com/2026/07/10/the-ai-race-is-shifting-from-bigger-models-to-cheaper-smarter-systems.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Fri, 10 Jul 2026 12:46:38 GMT",
+        "publishedAt": "Fri, 10 Jul 2026 21:27:18 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-017",
-        "title": "Why the stock market and economy may seem out of sync",
-        "summary": "The stock market has boomed on AI euphoria, while the trajectory of the U.S. economy has been more tepid, economists said.",
-        "content": "The stock market has boomed on AI euphoria, while the trajectory of the U.S. economy has been more tepid, economists said.",
+        "title": "Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level'",
+        "summary": "The two companies entered into a high-profile partnership in 2024 when ChatGPT was integrated into the iPhone's operating system.",
+        "content": "The two companies entered into a high-profile partnership in 2024 when ChatGPT was integrated into the iPhone's operating system.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/07/10/stock-market-and-economy-out-of-sync.html",
+        "sourceUrl": "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Fri, 10 Jul 2026 12:15:02 GMT",
+        "publishedAt": "Fri, 10 Jul 2026 22:44:35 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-018",
-        "title": "Stablecoin issuer Circle just got the greenlight to operate as a bank. The shares are up 12%",
-        "summary": "Stablecoin issuer Circle surged in premarket trading after the U.S. Office of the Comptroller of the Currency granted it approval to operate as a trust bank.",
-        "content": "Stablecoin issuer Circle surged in premarket trading after the U.S. Office of the Comptroller of the Currency granted it approval to operate as a trust bank.",
+        "title": "How Apple stock rode the AI rollercoaster to record highs in 1 chart",
+        "summary": "Apple stayed true to itself in the AI race, and Wall Street is finally rewarding the stock for it.",
+        "content": "Apple stayed true to itself in the AI race, and Wall Street is finally rewarding the stock for it.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/07/10/circle-gets-an-occ-bank-charter-as-stablecoin-competition-heats-up-shares-surge-14percent.html",
+        "sourceUrl": "https://www.cnbc.com/2026/07/10/how-apple-stock-rode-the-ai-rollercoaster-to-record-highs-in-1-chart.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Fri, 10 Jul 2026 12:31:40 GMT",
+        "publishedAt": "Fri, 10 Jul 2026 20:25:11 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-019",
-        "title": "The Tech Download: Teen social media bans miss a key part of the puzzle: AI chatbots",
-        "summary": "Teenagers are increasingly becoming dependent on AI chatbots, echoing a familiar problem with social media in the 2010s.",
-        "content": "Teenagers are increasingly becoming dependent on AI chatbots, echoing a familiar problem with social media in the 2010s.",
+        "title": "Trump admin eases export controls for UAE; Warren blasts 'corrupt' provision",
+        "summary": "The Commerce Department will favorably review exports involving MGX, which used a stablecoin linked to President Trump's family for a $2B Binance investment.",
+        "content": "The Commerce Department will favorably review exports involving MGX, which used a stablecoin linked to President Trump's family for a $2B Binance investment.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/07/10/tech-download-social-media-bans-ai-chatbots.html",
+        "sourceUrl": "https://www.cnbc.com/2026/07/10/trump-uae-mgx-crypto-export-commerce-warren.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Fri, 10 Jul 2026 11:32:53 GMT",
+        "publishedAt": "Fri, 10 Jul 2026 22:02:04 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-020",
-        "title": "Meta found to breach EU laws with 'addictive' Instagram, Facebook designs ",
-        "summary": "Instagram and Facebook's \"addictive\" designs have put Meta in breach of the European Union's digital laws, the EU concluded Friday in a preliminary report.",
-        "content": "Instagram and Facebook's \"addictive\" designs have put Meta in breach of the European Union's digital laws, the EU concluded Friday in a preliminary report.",
+        "title": "Meta stock got the 18% pop Jim Cramer said it could on cloud news. What's next?",
+        "summary": "Investors are also celebrating Meta's launch Thursday of Muse Spark 1.1.",
+        "content": "Investors are also celebrating Meta's launch Thursday of Muse Spark 1.1.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/07/10/meta-instagram-facebook-addictive-design-breach-eu-laws.html",
+        "sourceUrl": "https://www.cnbc.com/2026/07/10/meta-got-18percent-pop-jim-cramer-said-it-could-on-cloud-news-what-is-next.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Fri, 10 Jul 2026 11:48:12 GMT",
+        "publishedAt": "Fri, 10 Jul 2026 19:39:24 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
@@ -404,6 +404,44 @@
     "policy": [
       {
         "id": "AI-021",
+        "title": "Meta Ordered by E.U. to Alter ‘Addictive Design’ of Instagram and Facebook",
+        "summary": "European Union authorities said the company’s use of “addictive design” violated a digital safety law.",
+        "content": "European Union authorities said the company’s use of “addictive design” violated a digital safety law.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 10 Jul 2026 18:20:38 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-022",
+        "title": "Do Social Media Bans Work? + A Conversation About A.I. Consciousness + Tool Time",
+        "summary": "“If the net result is that all the teens in Australia are still using social media, even after they’re technically banned from doing it, why are we doing any of this?”",
+        "content": "“If the net result is that all the teens in Australia are still using social media, even after they’re technically banned from doing it, why are we doing any of this?”",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/07/10/podcasts/hardfork-social-media-bans.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 10 Jul 2026 11:00:04 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-023",
         "title": "A Top OpenAI Executive, Fidji Simo, Steps Down",
         "summary": "Ms. Simo, who was Sam Altman’s second in command before taking a medical leave in April, will become a part-time adviser to the company.",
         "content": "Ms. Simo, who was Sam Altman’s second in command before taking a medical leave in April, will become a part-time adviser to the company.",
@@ -422,77 +460,39 @@
         ]
       },
       {
-        "id": "AI-022",
-        "title": "Meta Launches New A.I. Model as Global Technology Race Heats Up",
-        "summary": "For the first time, the company will offer a paid version of the service, a departure from its longtime philosophy of giving its A.I. away for free.",
-        "content": "For the first time, the company will offer a paid version of the service, a departure from its longtime philosophy of giving its A.I. away for free.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/07/09/technology/meta-muse-spark-artificial-intelligence.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 09 Jul 2026 18:11:41 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-023",
-        "title": "OpenAI Releases GPT-5.6 Sol, Its Most Powerful AI Model Yet",
-        "summary": "The new release was delayed after the U.S. government restricted the latest artificial intelligence models over cybersecurity concerns.",
-        "content": "The new release was delayed after the U.S. government restricted the latest artificial intelligence models over cybersecurity concerns.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/07/09/technology/openai-sol-ai.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 09 Jul 2026 19:34:23 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
-      },
-      {
         "id": "AI-024",
-        "title": "New York Times and Other Publishers Ask Court to Penalize OpenAI",
-        "summary": "The Times, The New York Daily News and other media organizations accused OpenAI of withholding evidence in a lawsuit.",
-        "content": "The Times, The New York Daily News and other media organizations accused OpenAI of withholding evidence in a lawsuit.",
+        "title": "Apple Sues OpenAI, Accusing It of Stealing Company Secrets",
+        "summary": "The two companies struck a deal in 2024 to offer A.I. services on Apple devices, but their partnership has soured.",
+        "content": "The two companies struck a deal in 2024 to offer A.I. services on Apple devices, but their partnership has soured.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/07/09/technology/new-york-times-openai.html",
+        "sourceUrl": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Thu, 09 Jul 2026 18:55:41 +0000",
+        "publishedAt": "Fri, 10 Jul 2026 23:23:26 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
       },
       {
         "id": "AI-025",
-        "title": "Do Social Media Bans Work? + A Conversation About A.I. Consciousness + Tool Time",
-        "summary": "“If the net result is that all the teens in Australia are still using social media, even after they’re technically banned from doing it, why are we doing any of this?”",
-        "content": "“If the net result is that all the teens in Australia are still using social media, even after they’re technically banned from doing it, why are we doing any of this?”",
+        "title": "How Terrorist Groups Are Using A.I. to Gain an Edge in Battle",
+        "summary": "A.I. chatbots are not just a propaganda tool for violent extremists but are aiding in bomb construction and attack planning, new research finds.",
+        "content": "A.I. chatbots are not just a propaganda tool for violent extremists but are aiding in bomb construction and attack planning, new research finds.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/07/10/podcasts/hardfork-social-media-bans.html",
+        "sourceUrl": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Fri, 10 Jul 2026 11:00:04 +0000",
+        "publishedAt": "Fri, 10 Jul 2026 14:10:45 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
@@ -502,9 +502,47 @@
     "culture": [
       {
         "id": "AI-026",
+        "title": "Apple sues OpenAI, alleging artificial intelligence company stole trade secrets",
+        "summary": "Suit claims OpenAI poached Apple workers, coaxing them to share confidential material in bid to create hardware\nApple filed a lawsuit against OpenAI on Friday alleging the artificial intelligence firm stole company trade secrets in a move to create i",
+        "content": "Suit claims OpenAI poached Apple workers, coaxing them to share confidential material in bid to create hardware\nApple filed a lawsuit against OpenAI on Friday alleging the artificial intelligence firm stole company trade secrets in a move to create its own hardware device.\nThe suit claims OpenAI poached Apple employees, coaxing them to hand over confidential material, product designs and other tightly held information.\n Continue reading...",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/jul/10/apple-sues-openai-trade-secrets",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 10 Jul 2026 22:33:21 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-027",
+        "title": "Bank of England handed powers to regulate key tech firms including Amazon and Google",
+        "summary": "Direct oversight of ‘critical third parties’ such as Oracle and Microsoft given to ensure resilient cyber-defences and help safeguard UK economy\nThe Bank of England has been handed powers to regulate important tech firms including Amazon and Google f",
+        "content": "Direct oversight of ‘critical third parties’ such as Oracle and Microsoft given to ensure resilient cyber-defences and help safeguard UK economy\nThe Bank of England has been handed powers to regulate important tech firms including Amazon and Google from next week, amid fears that system failures could threaten financial stability and harm consumers.\nFrom Monday, the Bank and fellow City regulator the Financial Conduct Authority (FCA) will be in charge of ensuring that four large-scale providers ",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/business/2026/jul/10/bank-of-england-handed-powers-to-regulate-key-tech-firms-including-amazon-and-google",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 10 Jul 2026 14:37:13 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-028",
         "title": "The bulging in-tray of challenges Andy Burnham faces upon entering No 10",
-        "summary": "From welfare and defence spending to cost of living and geopolitics, we the look at issues leftover from Keir Starmer\n\nUK politics live – latest updates\n\nAndy Burnham is expected to become prime minister in less than two weeks, and has promised to si",
-        "content": "From welfare and defence spending to cost of living and geopolitics, we the look at issues leftover from Keir Starmer\n\nUK politics live – latest updates\n\nAndy Burnham is expected to become prime minister in less than two weeks, and has promised to significantly change Labour’s agenda and deliver better for all parts of the UK.\nBut he will arrive with a bulging in-tray of challenges on multiple fronts and issues leftover from Keir Starmer – from geopolitics to the cost of living. Here is what Bur",
+        "summary": "From welfare and defence spending to cost of living and geopolitics, we look at the key issues left over from Starmer\nAndy Burnham is expected to become prime minister in less than two weeks and has promised to significantly change Labour’s agenda an",
+        "content": "From welfare and defence spending to cost of living and geopolitics, we look at the key issues left over from Starmer\nAndy Burnham is expected to become prime minister in less than two weeks and has promised to significantly change Labour’s agenda and deliver improvements for all parts of the UK.\nBut he will arrive with a bulging in-tray of challenges and issues left over from Keir Starmer – from geopolitics to the cost of living. Here is what Burnham can expect to find behind the Downing Street",
         "keyTakeaways": [],
         "whyItMatters": "",
         "sourceUrl": "https://www.theguardian.com/politics/2026/jul/10/in-tray-of-challenges-andy-burnham-faces-as-prime-minister",
@@ -514,13 +552,13 @@
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Fri, 10 Jul 2026 13:00:47 GMT",
+        "publishedAt": "Fri, 10 Jul 2026 14:27:42 GMT",
         "normalizedTags": [
           "the guardian ai"
         ]
       },
       {
-        "id": "AI-027",
+        "id": "AI-029",
         "title": "Alarm over launch of facial recognition in UK shops that instantly alerts police",
         "summary": "Civil liberties groups say Facewatch system in stores such as Sainsbury’s and B&M is ‘dangerous escalation’\nFacial recognition technology in shops will soon alert police in real time to the presence of serious offenders, with civil liberties groups w",
         "content": "Civil liberties groups say Facewatch system in stores such as Sainsbury’s and B&M is ‘dangerous escalation’\nFacial recognition technology in shops will soon alert police in real time to the presence of serious offenders, with civil liberties groups warning of a “dangerous escalation” towards surveillance and criminalisation in the retail sector.\nFacewatch, a facial recognition system used by more than 100 businesses including Sainsbury’s, B&M and Spar to monitor thieves, said it was launching a ",
@@ -539,7 +577,7 @@
         ]
       },
       {
-        "id": "AI-028",
+        "id": "AI-030",
         "title": "‘AI accountability agenda’: US senator unveils package of bills to curb tech’s harms",
         "summary": "Exclusive: Senator Ed Markey on why he has proposed legislation aimed at curbing datacenters, automated hiring systems and harm to children\nUS senator Ed Markey is worried about the perils of unregulated artificial intelligence.\nWhat part? All of it:",
         "content": "Exclusive: Senator Ed Markey on why he has proposed legislation aimed at curbing datacenters, automated hiring systems and harm to children\nUS senator Ed Markey is worried about the perils of unregulated artificial intelligence.\nWhat part? All of it: the costs associated with thirsty, energy-guzzling datacenters, intrusive workplace surveillance, bias in discriminatory algorithms, AI overriding workers’ judgments, and deepening economic inequality – as those who profit most from AI rake in extra",
@@ -556,44 +594,6 @@
         "normalizedTags": [
           "the guardian ai"
         ]
-      },
-      {
-        "id": "AI-029",
-        "title": "South Korea chip maker SK hynix rides AI boom raising $26.5bn in huge US listing",
-        "summary": "SK hynix, a supplier of advanced memory chips, has seen profits skyrocket thanks to the global race to build AI datacentres\nSouth Korean chip maker SK hynix set pricing for its mega US listing on Friday, aiming to raise $26.5bn as it takes advantage ",
-        "content": "SK hynix, a supplier of advanced memory chips, has seen profits skyrocket thanks to the global race to build AI datacentres\nSouth Korean chip maker SK hynix set pricing for its mega US listing on Friday, aiming to raise $26.5bn as it takes advantage of the AI boom in what will be one of the world’s biggest ever stock sales.\nThe Asian semiconductor giant plans to issue the equivalent of about 18m shares on Wall Street’s tech-heavy Nasdaq index later in the day.\n Continue reading...",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/world/2026/jul/10/south-korea-chip-maker-sk-hynix-rides-ai-boom-raising-265bn-in-huge-us-listing",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 10 Jul 2026 05:06:57 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-030",
-        "title": "Reeves to launch City ‘skills compact’ committing firms to retrain staff in AI",
-        "summary": "Exclusive: Plan to improve skills of thousands of financial sector workers to keep pace with tech revolution\nChancellor Rachel Reeves is to announce a new City “skills compact” that will commit firms such as Barclays and Lloyds to retraining thousand",
-        "content": "Exclusive: Plan to improve skills of thousands of financial sector workers to keep pace with tech revolution\nChancellor Rachel Reeves is to announce a new City “skills compact” that will commit firms such as Barclays and Lloyds to retraining thousands of financial sector workers for the AI revolution.\nThe financial services skills compact will be launched on Tuesday, during what is likely to be Reeves’s final Mansion House speech to City bosses before Andy Burnham’s expected takeover of No 10. T",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/business/2026/jul/10/rachel-reeves-city-skills-compact-ai-training",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 10 Jul 2026 05:00:12 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
       }
     ]
   },
@@ -603,36 +603,36 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
+    "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+    "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+    "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+    "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
     "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
-    "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
-    "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
-    "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-    "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+    "https://the-decoder.com/openais-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt/",
+    "https://the-decoder.com/openai-staffer-maps-out-which-of-gpt-5-6-sols-five-reasoning-levels-fits-which-task-complexity/",
+    "https://the-decoder.com/tencent-moves-to-buy-majority-stake-in-manus-after-beijing-forced-meta-to-unwind-its-2-billion-deal/",
     "https://the-decoder.com/openai-kills-its-atlas-browser-after-just-eight-months-and-folds-everything-into-chatgpt/",
     "https://the-decoder.com/the-fed-wants-ai-investor-marc-andreessen-to-help-figure-out-if-ai-can-tame-inflation/",
-    "https://the-decoder.com/bun-ditches-zig-for-rust-with-help-from-claude-fable-5-writes-over-a-million-lines-of-code-in-11-days/",
-    "https://the-decoder.com/gpt-5-6-sol-nearly-matches-fable-5-on-aggregated-benchmarks-at-one-third-the-cost/",
-    "https://the-decoder.com/openai-pairs-its-gpt-5-6-public-rollout-with-chatgpt-work-a-new-agent-that-handles-entire-workflows/",
     "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
     "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
-    "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
     "https://arxiv.org/abs/2607.06624",
     "https://arxiv.org/abs/2607.06720",
-    "https://www.cnbc.com/2026/07/10/5-things-to-know-before-the-stock-market-opens.html",
-    "https://www.cnbc.com/2026/07/10/stock-market-and-economy-out-of-sync.html",
-    "https://www.cnbc.com/2026/07/10/circle-gets-an-occ-bank-charter-as-stablecoin-competition-heats-up-shares-surge-14percent.html",
-    "https://www.cnbc.com/2026/07/10/tech-download-social-media-bans-ai-chatbots.html",
-    "https://www.cnbc.com/2026/07/10/meta-instagram-facebook-addictive-design-breach-eu-laws.html",
-    "https://www.nytimes.com/2026/07/09/technology/openai-fidji-simo-exit.html",
-    "https://www.nytimes.com/2026/07/09/technology/meta-muse-spark-artificial-intelligence.html",
-    "https://www.nytimes.com/2026/07/09/technology/openai-sol-ai.html",
-    "https://www.nytimes.com/2026/07/09/technology/new-york-times-openai.html",
+    "https://arxiv.org/abs/2607.06757",
+    "https://www.cnbc.com/2026/07/10/the-ai-race-is-shifting-from-bigger-models-to-cheaper-smarter-systems.html",
+    "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html",
+    "https://www.cnbc.com/2026/07/10/how-apple-stock-rode-the-ai-rollercoaster-to-record-highs-in-1-chart.html",
+    "https://www.cnbc.com/2026/07/10/trump-uae-mgx-crypto-export-commerce-warren.html",
+    "https://www.cnbc.com/2026/07/10/meta-got-18percent-pop-jim-cramer-said-it-could-on-cloud-news-what-is-next.html",
+    "https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html",
     "https://www.nytimes.com/2026/07/10/podcasts/hardfork-social-media-bans.html",
+    "https://www.nytimes.com/2026/07/09/technology/openai-fidji-simo-exit.html",
+    "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
+    "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html",
+    "https://www.theguardian.com/technology/2026/jul/10/apple-sues-openai-trade-secrets",
+    "https://www.theguardian.com/business/2026/jul/10/bank-of-england-handed-powers-to-regulate-key-tech-firms-including-amazon-and-google",
     "https://www.theguardian.com/politics/2026/jul/10/in-tray-of-challenges-andy-burnham-faces-as-prime-minister",
     "https://www.theguardian.com/technology/2026/jul/10/facewatch-facial-recognition-uk-shops-instantly-alerts-police-civil-liberties",
-    "https://www.theguardian.com/technology/2026/jul/10/us-senator-unveils-ai-accountability-agenda-bills",
-    "https://www.theguardian.com/world/2026/jul/10/south-korea-chip-maker-sk-hynix-rides-ai-boom-raising-265bn-in-huge-us-listing",
-    "https://www.theguardian.com/business/2026/jul/10/rachel-reeves-city-skills-compact-ai-training"
+    "https://www.theguardian.com/technology/2026/jul/10/us-senator-unveils-ai-accountability-agenda-bills"
   ],
-  "generatedAt": "2026-07-10T13:11:05.674Z"
+  "generatedAt": "2026-07-10T23:51:02.414Z"
 }
