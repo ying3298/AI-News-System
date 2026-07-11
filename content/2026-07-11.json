@@ -2,9 +2,9 @@
   "date": "2026-07-11",
   "dateFormatted": "July 11, 2026",
   "headline": {
-    "title": "Meta removes controversial AI feature on Instagram after backlash",
-    "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no ",
-    "sourceUrl": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+    "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+    "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+    "sourceUrl": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
     "sourceName": "TechCrunch AI"
   },
   "simpleSummary": [
@@ -15,6 +15,25 @@
     "tools": [
       {
         "id": "AI-001",
+        "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+        "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+        "content": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 11 Jul 2026 14:13:00 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-002",
         "title": "Meta removes controversial AI feature on Instagram after backlash",
         "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no ",
         "content": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedback that this feature missed the mark, so it's no longer available.\"",
@@ -33,83 +52,64 @@
         ]
       },
       {
-        "id": "AI-002",
-        "title": "Apple sues OpenAI over alleged trade secret theft",
-        "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
-        "content": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-        "sourceName": "TechCrunch AI",
-        "tags": [
-          "TechCrunch AI"
-        ],
-        "section": "tools",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 10 Jul 2026 21:00:29 +0000",
-        "normalizedTags": [
-          "techcrunch ai"
-        ]
-      },
-      {
         "id": "AI-003",
-        "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
-        "summary": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune",
-        "content": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start […]",
+        "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+        "summary": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The feature, as originally set up, meant that content from ",
+        "content": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The feature, as originally set up, meant that content from any public Instagram account could be used in AI creations without the account owner's permission.\n\"Earlier this week, we announced that one way for people to generate images in Meta AI is by @-mentioning public Instagram accounts that they want to r",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
-        "sourceName": "TechCrunch AI",
+        "sourceUrl": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+        "sourceName": "The Verge AI",
         "tags": [
-          "TechCrunch AI"
+          "The Verge AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Fri, 10 Jul 2026 19:00:00 +0000",
+        "publishedAt": "2026-07-10T23:49:50.000Z",
         "normalizedTags": [
-          "techcrunch ai"
-        ]
-      },
-      {
-        "id": "AI-004",
-        "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-        "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
-        "content": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
-        "sourceName": "TechCrunch AI",
-        "tags": [
-          "TechCrunch AI"
-        ],
-        "section": "tools",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 10 Jul 2026 17:17:12 +0000",
-        "normalizedTags": [
-          "techcrunch ai"
-        ]
-      },
-      {
-        "id": "AI-005",
-        "title": "Hugging Face’s CEO on why companies are done renting their AI",
-        "summary": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune",
-        "content": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start […]",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
-        "sourceName": "TechCrunch AI",
-        "tags": [
-          "TechCrunch AI"
-        ],
-        "section": "tools",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 10 Jul 2026 14:00:00 +0000",
-        "normalizedTags": [
-          "techcrunch ai"
+          "the verge ai"
         ]
       }
     ],
     "creative": [
+      {
+        "id": "AI-004",
+        "title": "OpenAI's GPT-5.6 Sol Ultra reportedly solves a 50-year-old math problem in under an hour",
+        "summary": "OpenAI's GPT-5.6 Sol Ultra produced a proof of the Cycle Double Cover Conjecture in under an hour, using 64 subagents working in parallel. The conjecture had remained unsolved for 50 years. Mathematician Thomas Bloom calls the proof surprisingly elem",
+        "content": "OpenAI's GPT-5.6 Sol Ultra produced a proof of the Cycle Double Cover Conjecture in under an hour, using 64 subagents working in parallel. The conjecture had remained unsolved for 50 years. Mathematician Thomas Bloom calls the proof surprisingly elementary but criticizes the lack of citations for known prior work. The bigger question remains: Does AI just recombine existing knowledge, or does it create something new?\nThe article OpenAI's GPT-5.6 Sol Ultra reportedly solves a 50-year-old math pro",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/openais-gpt-5-6-sol-ultra-reportedly-solves-a-50-year-old-math-problem-in-under-an-hour/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 11 Jul 2026 17:38:35 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-005",
+        "title": "Terrorist groups are using every major AI chatbot for attack planning and weapons development",
+        "summary": "A Cambridge study found that Boko Haram uses AI chatbots like ChatGPT, Claude, and Gemini to plan attacks, build explosives, and maintain weapons. ISIS operatives have been training the group's commanders on how to bypass safety filters since 2023. G",
+        "content": "A Cambridge study found that Boko Haram uses AI chatbots like ChatGPT, Claude, and Gemini to plan attacks, build explosives, and maintain weapons. ISIS operatives have been training the group's commanders on how to bypass safety filters since 2023. Given that the study found safety filters repeatedly failed to prevent misuse, voluntary self-regulation by AI providers clearly isn't enough.\nThe article Terrorist groups are using every major AI chatbot for attack planning and weapons development ap",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 11 Jul 2026 17:04:28 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
       {
         "id": "AI-006",
         "title": "China's Orca world model matches specialized robotics systems without ever seeing a single action label",
@@ -166,68 +166,11 @@
         "normalizedTags": [
           "the decoder"
         ]
-      },
-      {
-        "id": "AI-009",
-        "title": "Apple sues OpenAI for allegedly running a \"coordinated campaign\" to steal trade secrets through poached employees",
-        "summary": "Apple is suing OpenAI over systematic employee poaching and the alleged theft of trade secrets tied to unreleased products. According to the complaint, more than 400 ex-Apple employees now work at OpenAI, including former iPhone design chief Tang Tan",
-        "content": "Apple is suing OpenAI over systematic employee poaching and the alleged theft of trade secrets tied to unreleased products. According to the complaint, more than 400 ex-Apple employees now work at OpenAI, including former iPhone design chief Tang Tan. The lawsuit hits OpenAI right as it's building out its own hardware division, with its first product not expected to ship until 2027 at the earliest.\nThe article Apple sues OpenAI for allegedly running a \"coordinated campaign\" to steal trade secret",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/apple-sues-openai-for-allegedly-running-a-coordinated-campaign-to-steal-trade-secrets-through-poached-employees/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 11 Jul 2026 06:56:20 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
-      },
-      {
-        "id": "AI-010",
-        "title": "OpenAI's GPT-5.6 Sol autonomously post-trained the smaller Luna model with a \"fairly underspecified prompt\"",
-        "summary": "According to OpenAI, GPT-5.6 Sol independently fine-tuned the smaller Luna model, triggered by a single \"fairly under-specified prompt.\" In OpenAI's internal RSI benchmark for recursive self-improvement, Sol scores 16.2 points higher than GPT-5.5. Op",
-        "content": "According to OpenAI, GPT-5.6 Sol independently fine-tuned the smaller Luna model, triggered by a single \"fairly under-specified prompt.\" In OpenAI's internal RSI benchmark for recursive self-improvement, Sol scores 16.2 points higher than GPT-5.5. OpenAI believes the \"automated researcher\" is within reach.\nThe article OpenAI's GPT-5.6 Sol autonomously post-trained the smaller Luna model with a \"fairly underspecified prompt\" appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/openais-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 10 Jul 2026 21:12:47 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
       }
     ],
     "research": [
       {
-        "id": "AI-011",
-        "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest gli",
-        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on inside large language models as they…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 10 Jul 2026 12:10:00 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-012",
+        "id": "AI-009",
         "title": "Context Graphs for Proactive Enterprise Agents",
         "summary": "arXiv:2607.07721v1 Announce Type: new \nAbstract: Retrieval-Augmented Generation (RAG) and agentic frameworks have advanced enterprise AI considerably, yet agents remain fundamentally reactive: they wait for a human query before acting. This paper arg",
         "content": "arXiv:2607.07721v1 Announce Type: new \nAbstract: Retrieval-Augmented Generation (RAG) and agentic frameworks have advanced enterprise AI considerably, yet agents remain fundamentally reactive: they wait for a human query before acting. This paper argues that genuine enterprise productivity gains require proactive agents: systems that surface relevant, actionable information to workers before they ask. We propose the Context Graph, a live relational data structure that models enterprise entities,",
@@ -246,7 +189,7 @@
         ]
       },
       {
-        "id": "AI-013",
+        "id": "AI-010",
         "title": "AI-integrated models for assessing agricultural resilience",
         "summary": "arXiv:2607.07759v1 Announce Type: new \nAbstract: Agricultural supply chains are vulnerable to disruptions through linked biophysical and economic systems. We develop an AI-powered tool that integrates economic models (GTAP) with biophysical models (A",
         "content": "arXiv:2607.07759v1 Announce Type: new \nAbstract: Agricultural supply chains are vulnerable to disruptions through linked biophysical and economic systems. We develop an AI-powered tool that integrates economic models (GTAP) with biophysical models (APSIM) to analyze supply chain shocks, enabling policymakers and market participants to assess cross-disciplinary impacts through queries and responses written in natural language.",
@@ -265,7 +208,7 @@
         ]
       },
       {
-        "id": "AI-014",
+        "id": "AI-011",
         "title": "Adversarial Social Epistemology for Assemblies of Humans and Large Language Models",
         "summary": "arXiv:2607.07760v1 Announce Type: new \nAbstract: We outline an adversarial social epistemology (ASE) for densely interactive communicative landscapes in which public assertions are scaffolded by chains of testimony, inference, institutional certifica",
         "content": "arXiv:2607.07760v1 Announce Type: new \nAbstract: We outline an adversarial social epistemology (ASE) for densely interactive communicative landscapes in which public assertions are scaffolded by chains of testimony, inference, institutional certification, and tacit trust. In such landscapes, agents have incentives and affordances to distort, color, omit, fabricate, or strategically under-specify information for private, reputational, rhetorical, or material gains. We argue that these phenomena a",
@@ -284,7 +227,7 @@
         ]
       },
       {
-        "id": "AI-015",
+        "id": "AI-012",
         "title": "Aligning Clinical Needs and AI Capabilities: A Survey on LLMs for Medical Reasoning",
         "summary": "arXiv:2607.07761v1 Announce Type: new \nAbstract: Large language models (LLMs) have emerged as important tools in healthcare, showing growing potential for clinical reasoning and patient care. This survey examines recent progress in medical LLMs, focu",
         "content": "arXiv:2607.07761v1 Announce Type: new \nAbstract: Large language models (LLMs) have emerged as important tools in healthcare, showing growing potential for clinical reasoning and patient care. This survey examines recent progress in medical LLMs, focusing on reasoning applications and requirements. We present a dual-view approach that connects clinical practice with computational methods. On the clinical side, we establish a five-level competency scheme following Miller's Pyramid, progressing fro",
@@ -301,31 +244,107 @@
         "normalizedTags": [
           "arxiv cs.ai"
         ]
+      },
+      {
+        "id": "AI-013",
+        "title": "Alignment Plausibility: A New Standard for Assuring AI in Healthcare",
+        "summary": "arXiv:2607.07766v1 Announce Type: new \nAbstract: Large language models (LLMs) have become significant providers of mental health support, yet they remain products of an attention economy whose operational and commercial targets favour sustained engag",
+        "content": "arXiv:2607.07766v1 Announce Type: new \nAbstract: Large language models (LLMs) have become significant providers of mental health support, yet they remain products of an attention economy whose operational and commercial targets favour sustained engagement over the friction that effective psychological support often requires. Developers' safety responses have been largely reactive, addressing the most visible and acute harms while subtler, longer-term patterns of risk (e.g., dependency, boundary ",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2607.07766",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 11 Jul 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ]
       }
     ],
     "applications": [],
     "business": [
       {
-        "id": "AI-016",
-        "title": "The AI race is shifting from bigger models to cheaper, smarter systems",
-        "summary": "Companies are starting to choose AI models by task, cost and control, not just leaderboard rank.",
-        "content": "Companies are starting to choose AI models by task, cost and control, not just leaderboard rank.",
+        "id": "AI-014",
+        "title": "The volatile AI trade marched higher, but oil kept Wall Street on edge last week",
+        "summary": "Chip stocks had a wild but strong week. Meta led our portfolio higher.",
+        "content": "Chip stocks had a wild but strong week. Meta led our portfolio higher.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/07/10/the-ai-race-is-shifting-from-bigger-models-to-cheaper-smarter-systems.html",
+        "sourceUrl": "https://www.cnbc.com/2026/07/11/the-volatile-ai-rally-marched-higher-but-oil-kept-wall-street-on-edge-last-week.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Fri, 10 Jul 2026 21:27:18 GMT",
+        "publishedAt": "Sat, 11 Jul 2026 16:25:58 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-015",
+        "title": "These underperforming trades could yield big returns over next six months",
+        "summary": "ETF Action's Mike Akins is encouraging investors to boost exposure to groups that underperformed compared with major artificial intelligence stocks.",
+        "content": "ETF Action's Mike Akins is encouraging investors to boost exposure to groups that underperformed compared with major artificial intelligence stocks.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/07/11/mag-7-and-software-could-boost-portfolio-in-second-half-etf-action.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 11 Jul 2026 15:00:01 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-016",
+        "title": "While Musk's Neuralink drills into skulls, China's BrainCo bets the future of brain tech is wearable",
+        "summary": "Interest in brain-computer interfaces is rising as it promises to help people with compromised neural abilities.",
+        "content": "Interest in brain-computer interfaces is rising as it promises to help people with compromised neural abilities.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/07/11/chinas-brainco-bets-on-wearable-brain-tech.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 11 Jul 2026 13:47:01 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-017",
+        "title": "Burnout, frustration and heartbreak: Amazon layoffs take their toll in saturated job market",
+        "summary": "In the eight-plus months since Amazon announced its most expansive job cuts ever, laid off workers have been thrust into an increasingly saturated labor market.",
+        "content": "In the eight-plus months since Amazon announced its most expansive job cuts ever, laid off workers have been thrust into an increasingly saturated labor market.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/07/11/burnout-frustration-and-heartbreak-amazon-layoffs-take-their-toll.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 11 Jul 2026 12:00:01 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-018",
         "title": "Apple sues OpenAI alleging trade secret theft, says scheme was 'at every level'",
         "summary": "The two companies entered into a high-profile partnership in 2024 when ChatGPT was integrated into the iPhone's operating system.",
         "content": "The two companies entered into a high-profile partnership in 2024 when ChatGPT was integrated into the iPhone's operating system.",
@@ -342,68 +361,11 @@
         "normalizedTags": [
           "cnbc tech"
         ]
-      },
-      {
-        "id": "AI-018",
-        "title": "How Apple stock rode the AI rollercoaster to record highs in 1 chart",
-        "summary": "Apple stayed true to itself in the AI race, and Wall Street is finally rewarding the stock for it.",
-        "content": "Apple stayed true to itself in the AI race, and Wall Street is finally rewarding the stock for it.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/07/10/how-apple-stock-rode-the-ai-rollercoaster-to-record-highs-in-1-chart.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 10 Jul 2026 20:25:11 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ]
-      },
-      {
-        "id": "AI-019",
-        "title": "Trump admin eases export controls for UAE; Warren blasts 'corrupt' provision",
-        "summary": "The Commerce Department will favorably review exports involving MGX, which used a stablecoin linked to President Trump's family for a $2B Binance investment.",
-        "content": "The Commerce Department will favorably review exports involving MGX, which used a stablecoin linked to President Trump's family for a $2B Binance investment.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/07/10/trump-uae-mgx-crypto-export-commerce-warren.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 10 Jul 2026 22:02:04 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ]
-      },
-      {
-        "id": "AI-020",
-        "title": "Meta stock got the 18% pop Jim Cramer said it could on cloud news. What's next?",
-        "summary": "Investors are also celebrating Meta's launch Thursday of Muse Spark 1.1.",
-        "content": "Investors are also celebrating Meta's launch Thursday of Muse Spark 1.1.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/07/10/meta-got-18percent-pop-jim-cramer-said-it-could-on-cloud-news-what-is-next.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 10 Jul 2026 19:39:24 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ]
       }
     ],
     "policy": [
       {
-        "id": "AI-021",
+        "id": "AI-019",
         "title": "Apple Sues OpenAI, Accusing It of Stealing Company Secrets",
         "summary": "The two companies struck a deal in 2024 to offer A.I. services on Apple devices, but their partnership has soured.",
         "content": "The two companies struck a deal in 2024 to offer A.I. services on Apple devices, but their partnership has soured.",
@@ -416,13 +378,13 @@
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Fri, 10 Jul 2026 23:23:26 +0000",
+        "publishedAt": "Sat, 11 Jul 2026 18:00:01 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
       },
       {
-        "id": "AI-022",
+        "id": "AI-020",
         "title": "Meta Removes A.I. Feature on Instagram After Days of Backlash",
         "summary": "Users and Hollywood agencies raised privacy and copyright concerns about the new tool, Muse Image.",
         "content": "Users and Hollywood agencies raised privacy and copyright concerns about the new tool, Muse Image.",
@@ -435,64 +397,7 @@
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Sat, 11 Jul 2026 02:03:34 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-023",
-        "title": "Meta Ordered by E.U. to Alter ‘Addictive Design’ of Instagram and Facebook",
-        "summary": "European Union authorities said the company’s use of “addictive design” violated a digital safety law.",
-        "content": "European Union authorities said the company’s use of “addictive design” violated a digital safety law.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 10 Jul 2026 18:20:39 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-024",
-        "title": "How Terrorist Groups Are Using A.I. to Gain an Edge in Battle",
-        "summary": "A.I. chatbots are not just a propaganda tool for violent extremists but are aiding in bomb construction and attack planning, new research finds.",
-        "content": "A.I. chatbots are not just a propaganda tool for violent extremists but are aiding in bomb construction and attack planning, new research finds.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 10 Jul 2026 14:10:45 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-025",
-        "title": "Volkswagen Is Cutting Production as Sales in China Plunge",
-        "summary": "The German automaker has struggled to compete with fast-growing Chinese companies that offer more affordable and sophisticated electric vehicles.",
-        "content": "The German automaker has struggled to compete with fast-growing Chinese companies that offer more affordable and sophisticated electric vehicles.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/07/09/business/volkswagen-china-sales.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 10 Jul 2026 13:07:27 +0000",
+        "publishedAt": "Sat, 11 Jul 2026 12:34:16 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
@@ -501,7 +406,26 @@
     "concerns": [],
     "culture": [
       {
-        "id": "AI-026",
+        "id": "AI-021",
+        "title": "AI companies want to water down Australia’s copyright laws. Artists are outraged, Labor is split",
+        "summary": "Anthony Albanese will deliver a landmark speech on AI this week as MPs are torn between attracting datacentre investment and protecting the rights of creatives\n\nGet our breaking news email, free app or daily news podcast\n\nWhen Anna Funder stood befor",
+        "content": "Anthony Albanese will deliver a landmark speech on AI this week as MPs are torn between attracting datacentre investment and protecting the rights of creatives\n\nGet our breaking news email, free app or daily news podcast\n\nWhen Anna Funder stood before a pack of journalists at Parliament House earlier this month, she presented herself not just as a writer but also a “victim of crime”.\nThe Stasiland author was using the analogy to illustrate how technology companies have flagrantly “hoovered up” h",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/jul/12/ai-australia-will-labor-water-down-copyright-laws-datacentres",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 11 Jul 2026 20:00:59 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-022",
         "title": "Datacentres drive up big tech’s carbon emissions to a third of those of France",
         "summary": "Microsoft, Amazon and Google say they still aim to achieve net zero output despite construction boom\nMicrosoft, Amazon and Google’s collective carbon emissions have increased by nearly a fifth in the past year, driven largely by datacentre constructi",
         "content": "Microsoft, Amazon and Google say they still aim to achieve net zero output despite construction boom\nMicrosoft, Amazon and Google’s collective carbon emissions have increased by nearly a fifth in the past year, driven largely by datacentre construction.\nIn the financial year ending March 2026, the three tech companies emitted 119m mTCO₂e (metric tonnes of carbon dioxide equivalent), or about a third of those of France.\n Continue reading...",
@@ -520,7 +444,7 @@
         ]
       },
       {
-        "id": "AI-027",
+        "id": "AI-023",
         "title": "AI ‘actor’ Tilly Norwood has a movie coming out. Spare us this future | Dave Schilling",
         "summary": "Acting is about human connection across cultural and social divides. But we can’t expect much of that in the ‘Tillyverse’\nRejoice, cinema lovers. Tilly Norwood is back! Not familiar? I don’t blame you, as she’s not exactly a household name yet – thou",
         "content": "Acting is about human connection across cultural and social divides. But we can’t expect much of that in the ‘Tillyverse’\nRejoice, cinema lovers. Tilly Norwood is back! Not familiar? I don’t blame you, as she’s not exactly a household name yet – though a fleet of well-fed publicists is certainly trying to rectify that. Tilly Norwood is an “AI actor”, as in, an actor that’s not actually an actor at all. Just a series of digital blobs and lines of code designed to resemble a young woman in the luc",
@@ -539,7 +463,7 @@
         ]
       },
       {
-        "id": "AI-028",
+        "id": "AI-024",
         "title": "Safe from AI: which jobs will help you thrive in the future?",
         "summary": "Experts say there will still be opportunities ahead in everything from teaching to hotels and the law\nEntering the world of work often brings some uncertainty, but now there is another question: how can I AI-proof my career?\nWe asked people from acro",
         "content": "Experts say there will still be opportunities ahead in everything from teaching to hotels and the law\nEntering the world of work often brings some uncertainty, but now there is another question: how can I AI-proof my career?\nWe asked people from across various industries what they think the impact of AI will be on careers, and which jobs may be less affected. While it is still early days for the tech, many had ideas about how you can best prepare yourself for a successful career in this new worl",
@@ -558,7 +482,7 @@
         ]
       },
       {
-        "id": "AI-029",
+        "id": "AI-025",
         "title": "Meta ditches Muse Image AI feature because it ‘misses the mark’ on users’ privacy",
         "summary": "Meta was criticised for feature launched on Tuesday that automatically lets users generate images using content from public Instagram accounts\nMeta has said ⁠it is discontinuing an AI feature launched this week that allowed users to generate images u",
         "content": "Meta was criticised for feature launched on Tuesday that automatically lets users generate images using content from public Instagram accounts\nMeta has said ⁠it is discontinuing an AI feature launched this week that allowed users to generate images using public Instagram ⁠accounts, after drawing widespread ⁠criticism over ​privacy concerns, including from a Hollywood union.\n“Our intent was to provide a useful creative tool and to give people control ⁠over whether their public content could be re",
@@ -575,25 +499,6 @@
         "normalizedTags": [
           "the guardian ai"
         ]
-      },
-      {
-        "id": "AI-030",
-        "title": "Apple sues OpenAI, alleging artificial intelligence company stole trade secrets",
-        "summary": "Suit claims OpenAI poached Apple workers, coaxing them to share confidential material in bid to create hardware\nApple filed a lawsuit against OpenAI on Friday alleging the artificial intelligence firm stole company trade secrets in a move to create i",
-        "content": "Suit claims OpenAI poached Apple workers, coaxing them to share confidential material in bid to create hardware\nApple filed a lawsuit against OpenAI on Friday alleging the artificial intelligence firm stole company trade secrets in a move to create its own hardware device.\nThe suit claims OpenAI poached Apple employees, coaxing them to hand over confidential material, product designs and other tightly held information.\n Continue reading...",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/jul/10/apple-sues-openai-trade-secrets",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 10 Jul 2026 22:33:21 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
       }
     ]
   },
@@ -603,36 +508,31 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
+    "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
     "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-    "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-    "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
-    "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
-    "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+    "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+    "https://the-decoder.com/openais-gpt-5-6-sol-ultra-reportedly-solves-a-50-year-old-math-problem-in-under-an-hour/",
+    "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development/",
     "https://the-decoder.com/chinas-orca-world-model-matches-specialized-robotics-systems-without-ever-seeing-a-single-action-label/",
     "https://the-decoder.com/metas-muse-spark-1-1-outperforms-glm-5-2-in-coding-and-costs-slightly-less/",
     "https://the-decoder.com/openai-admits-it-didnt-get-everything-quite-right-with-chatgpt-work-launch-and-scrambles-to-fix-ux-and-costs/",
-    "https://the-decoder.com/apple-sues-openai-for-allegedly-running-a-coordinated-campaign-to-steal-trade-secrets-through-poached-employees/",
-    "https://the-decoder.com/openais-gpt-5-6-sol-autonomously-post-trained-the-smaller-luna-model-with-a-fairly-underspecified-prompt/",
-    "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
     "https://arxiv.org/abs/2607.07721",
     "https://arxiv.org/abs/2607.07759",
     "https://arxiv.org/abs/2607.07760",
     "https://arxiv.org/abs/2607.07761",
-    "https://www.cnbc.com/2026/07/10/the-ai-race-is-shifting-from-bigger-models-to-cheaper-smarter-systems.html",
+    "https://arxiv.org/abs/2607.07766",
+    "https://www.cnbc.com/2026/07/11/the-volatile-ai-rally-marched-higher-but-oil-kept-wall-street-on-edge-last-week.html",
+    "https://www.cnbc.com/2026/07/11/mag-7-and-software-could-boost-portfolio-in-second-half-etf-action.html",
+    "https://www.cnbc.com/2026/07/11/chinas-brainco-bets-on-wearable-brain-tech.html",
+    "https://www.cnbc.com/2026/07/11/burnout-frustration-and-heartbreak-amazon-layoffs-take-their-toll.html",
     "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html",
-    "https://www.cnbc.com/2026/07/10/how-apple-stock-rode-the-ai-rollercoaster-to-record-highs-in-1-chart.html",
-    "https://www.cnbc.com/2026/07/10/trump-uae-mgx-crypto-export-commerce-warren.html",
-    "https://www.cnbc.com/2026/07/10/meta-got-18percent-pop-jim-cramer-said-it-could-on-cloud-news-what-is-next.html",
     "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
     "https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html",
-    "https://www.nytimes.com/2026/07/10/business/meta-instagram-facebook-europe.html",
-    "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html",
-    "https://www.nytimes.com/2026/07/09/business/volkswagen-china-sales.html",
+    "https://www.theguardian.com/technology/2026/jul/12/ai-australia-will-labor-water-down-copyright-laws-datacentres",
     "https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france",
     "https://www.theguardian.com/commentisfree/2026/jul/11/ai-actor-tilly-norwood-movie",
     "https://www.theguardian.com/money/2026/jul/11/ai-work-jobs-future-medicine-teaching-hotels-law",
-    "https://www.theguardian.com/technology/2026/jul/11/meta-ditches-muse-image-ai-feature-instagram-privacy",
-    "https://www.theguardian.com/technology/2026/jul/10/apple-sues-openai-trade-secrets"
+    "https://www.theguardian.com/technology/2026/jul/11/meta-ditches-muse-image-ai-feature-instagram-privacy"
   ],
-  "generatedAt": "2026-07-11T11:51:21.814Z"
+  "generatedAt": "2026-07-11T23:45:47.873Z"
 }
