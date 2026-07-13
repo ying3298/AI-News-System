@@ -2,10 +2,10 @@
   "date": "2026-07-13",
   "dateFormatted": "July 13, 2026",
   "headline": {
-    "title": "Waze is getting a bunch of new AI-powered features",
-    "summary": "Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users personalize their trips a little more. \nOf the four new updates, only two are being described as involving Ge",
-    "sourceUrl": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
-    "sourceName": "The Verge AI"
+    "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+    "summary": "The company is raising at least $75 million, led by Robot, with significant participation from USV and other prominent investors.",
+    "sourceUrl": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+    "sourceName": "TechCrunch AI"
   },
   "simpleSummary": [
     "Today's edition was assembled directly from RSS feeds without AI curation.",
@@ -15,65 +15,179 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "Waze is getting a bunch of new AI-powered features",
-        "summary": "Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users personalize their trips a little more. \nOf the four new updates, only two are being described as involving Ge",
-        "content": "Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users personalize their trips a little more. \nOf the four new updates, only two are being described as involving Gemini. Waze says its updating its conversation reporting feature, first introduced in 2024, to allow drivers to use conversational voice commands to report traffic incidents and suggest map updates, like a road closure or outdated house number. In add",
+        "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+        "summary": "The company is raising at least $75 million, led by Robot, with significant participation from USV and other prominent investors.",
+        "content": "The company is raising at least $75 million, led by Robot, with significant participation from USV and other prominent investors.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
-        "sourceName": "The Verge AI",
+        "sourceUrl": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+        "sourceName": "TechCrunch AI",
         "tags": [
-          "The Verge AI"
+          "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "2026-07-13T09:00:00.000Z",
+        "publishedAt": "Mon, 13 Jul 2026 23:31:18 +0000",
         "normalizedTags": [
-          "the verge ai"
+          "techcrunch ai"
         ]
       },
       {
         "id": "AI-002",
-        "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
-        "summary": "Lorde performing at the 2026 Governors Ball. | Photo: Siegfried Anthony/Billboard via Getty Images\t\n\nLorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she did",
-        "content": "Lorde performing at the 2026 Governors Ball. | Photo: Siegfried Anthony/Billboard via Getty Images\t\n\nLorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely she was taking a shot at festival sponsor Ray-Ban, which has collaborated with Meta on a pair of AI smartglasses. \nThe comments were captured in videos shared to social media. After thanking the crowd",
+        "title": "Satya Nadella has issued a shocking warning to companies using AI",
+        "summary": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses.",
+        "content": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
-        "sourceName": "The Verge AI",
+        "sourceUrl": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+        "sourceName": "TechCrunch AI",
         "tags": [
-          "The Verge AI"
+          "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "2026-07-12T20:10:19.000Z",
+        "publishedAt": "Mon, 13 Jul 2026 20:59:00 +0000",
         "normalizedTags": [
-          "the verge ai"
+          "techcrunch ai"
         ]
       },
       {
         "id": "AI-003",
-        "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
-        "summary": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerfu",
-        "content": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing. While the car processor was never finished, as Mark Gurman details in his latest Power On newsletter, it did lead to the development of the Neural Engine, the backbone of Apple's on-device AI processing. \nThe Neural Engine ",
+        "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+        "summary": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s m",
+        "content": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
-        "sourceName": "The Verge AI",
+        "sourceUrl": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+        "sourceName": "TechCrunch AI",
         "tags": [
-          "The Verge AI"
+          "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "2026-07-12T16:27:06.000Z",
+        "publishedAt": "Mon, 13 Jul 2026 18:22:10 +0000",
         "normalizedTags": [
-          "the verge ai"
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-004",
+        "title": "Sam Altman’s space data center trash talk is what most experts already believe",
+        "summary": "Responding to Musk accusing him of being a scammer, Altman said, \"homeboy you're the one sellling [sic] public market investors on short-term space datacenters.\"",
+        "content": "Responding to Musk accusing him of being a scammer, Altman said, \"homeboy you're the one sellling [sic] public market investors on short-term space datacenters.\"",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 13 Jul 2026 17:28:37 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-005",
+        "title": "Should AI help you get away with killing your spouse?",
+        "summary": "What does a world of total user-aligned AI actually look like?",
+        "content": "What does a world of total user-aligned AI actually look like?",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 13 Jul 2026 16:31:23 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
         ]
       }
     ],
     "creative": [
       {
-        "id": "AI-004",
+        "id": "AI-006",
+        "title": "OpenAI's new prompting guide tells users to stop overthinking and start with the result",
+        "summary": "OpenAI has released a prompting guide for everyday users, not developers. Instead of rigid formulas, it suggests four optional building blocks: goal, context, format, and constraints. The core advice is simple: describe the result you want, not the s",
+        "content": "OpenAI has released a prompting guide for everyday users, not developers. Instead of rigid formulas, it suggests four optional building blocks: goal, context, format, and constraints. The core advice is simple: describe the result you want, not the steps to get there. It's the first time OpenAI covers both Chat and Codex in a single framework.\nThe article OpenAI's new prompting guide tells users to stop overthinking and start with the result appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 13 Jul 2026 17:47:39 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-007",
+        "title": "Turing Award winner Rich Sutton founds Oak Lab to build AI agents that learn on their own",
+        "summary": "Richard Sutton, 2024 Turing Award winner and co-founder of modern reinforcement learning, has launched a new startup called Oak Lab in Toronto. He calls current deep learning methods \"weak and inefficient\" and wants to build AI agents that learn cont",
+        "content": "Richard Sutton, 2024 Turing Award winner and co-founder of modern reinforcement learning, has launched a new startup called Oak Lab in Toronto. He calls current deep learning methods \"weak and inefficient\" and wants to build AI agents that learn continuously from their environment.\nThe article Turing Award winner Rich Sutton founds Oak Lab to build AI agents that learn on their own appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/turing-award-winner-rich-sutton-founds-oak-lab-to-build-ai-agents-that-learn-on-their-own/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 13 Jul 2026 17:15:58 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-008",
+        "title": "Nobel laureates and AI leaders warn the window to prepare for AI's economic impact is closing fast",
+        "summary": "More than 200 economists and AI researchers, including 16 Nobel laureates and representatives from Google, OpenAI, and Anthropic, are calling for immediate action in a coordinated statement. The AI transformation could surpass the Industrial Revoluti",
+        "content": "More than 200 economists and AI researchers, including 16 Nobel laureates and representatives from Google, OpenAI, and Anthropic, are calling for immediate action in a coordinated statement. The AI transformation could surpass the Industrial Revolution but unfold in a fraction of the time. The paper doesn't propose concrete measures, and studies so far have found no significant AI-driven effects on the labor market.\nThe article Nobel laureates and AI leaders warn the window to prepare for AI's e",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/nobel-laureates-and-ai-leaders-warn-the-window-to-prepare-for-ais-economic-impact-is-closing-fast/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 13 Jul 2026 16:00:24 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-009",
+        "title": "Nadella calls out AI labs like OpenAI and Anthropic for banning distillation while training on everyone else's data",
+        "summary": "Microsoft CEO Satya Nadella is calling out OpenAI and Anthropic for what he calls a \"reverse information paradox.\" They train on public data under fair use but ban distillation of their own models, all while learning from customer interactions. Nadel",
+        "content": "Microsoft CEO Satya Nadella is calling out OpenAI and Anthropic for what he calls a \"reverse information paradox.\" They train on public data under fair use but ban distillation of their own models, all while learning from customer interactions. Nadella wants companies to control their own learning infrastructure. Microsoft, of course, sells exactly that.\nThe article Nadella calls out AI labs like OpenAI and Anthropic for banning distillation while training on everyone else's data appeared first ",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/nadella-calls-out-ai-labs-like-openai-and-anthropic-for-banning-distillation-while-training-on-everyone-elses-data/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 13 Jul 2026 14:28:50 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-010",
         "title": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks in both English and German",
         "summary": "A German research consortium has released Soofi S 30B-A3B, an open language model trained entirely on Deutsche Telekom's cloud infrastructure in Munich. The model uses an efficient hybrid architecture that activates only a fraction of its 31.6 billio",
         "content": "A German research consortium has released Soofi S 30B-A3B, an open language model trained entirely on Deutsche Telekom's cloud infrastructure in Munich. The model uses an efficient hybrid architecture that activates only a fraction of its 31.6 billion parameters per token, keeping throughput steady even at very long contexts. With a training dataset deliberately weighted toward German, Soofi S tops all fully open competitors on both German and English benchmarks.\nThe article German AI consortium",
@@ -90,87 +204,30 @@
         "normalizedTags": [
           "the decoder"
         ]
-      },
-      {
-        "id": "AI-005",
-        "title": "Google’s SensorFM turns messy wearable sensor data into a general-purpose health intelligence layer",
-        "summary": "Google Research's SensorFM is a foundation model trained on more than a trillion minutes of wearable data from five million Fitbit and Pixel Watch users. It beats existing benchmarks on 34 of 35 health and behavioral tasks. SensorFM could eventually ",
-        "content": "Google Research's SensorFM is a foundation model trained on more than a trillion minutes of wearable data from five million Fitbit and Pixel Watch users. It beats existing benchmarks on 34 of 35 health and behavioral tasks. SensorFM could eventually power Google's AI health coach, but the company hasn't announced any integration plans yet.\nThe article Google’s SensorFM turns messy wearable sensor data into a general-purpose health intelligence layer appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/sensorfm/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 13 Jul 2026 09:16:48 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
-      },
-      {
-        "id": "AI-006",
-        "title": "Anthropic extends free Fable 5 access for subscribers as OpenAI's GPT-5.6 Sol heats up the pricing war",
-        "summary": "Anthropic is keeping Claude Fable 5 in its subscription plans through July 19, 2026. The model was supposed to switch to pay-per-use today. Subscribers can use up to 50 percent of their weekly limit for Fable 5. The extension is likely a response to ",
-        "content": "Anthropic is keeping Claude Fable 5 in its subscription plans through July 19, 2026. The model was supposed to switch to pay-per-use today. Subscribers can use up to 50 percent of their weekly limit for Fable 5. The extension is likely a response to pricing pressure from OpenAI's GPT-5.6 Sol and cheaper competing models.\nThe article Anthropic extends free Fable 5 access for subscribers as OpenAI's GPT-5.6 Sol heats up the pricing war appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/anthropic-extends-free-fable-5-access-for-subscribers-as-openais-gpt-5-6-sol-heats-up-the-pricing-war/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 13 Jul 2026 07:54:34 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
-      },
-      {
-        "id": "AI-007",
-        "title": "LinkedIn is the undisputed king of long-form AI slop, according to a study spanning five platforms",
-        "summary": "One in four longer social media posts is entirely AI-generated, according to a Pangram analysis. LinkedIn leads with 41 percent of long-form posts flagged as AI-written. The platform made up only a third of all posts scanned but accounted for nearly ",
-        "content": "One in four longer social media posts is entirely AI-generated, according to a Pangram analysis. LinkedIn leads with 41 percent of long-form posts flagged as AI-written. The platform made up only a third of all posts scanned but accounted for nearly two-thirds of all detected AI content. Because the detection model tends to flag content conservatively, the real rate could be even higher.\nThe article LinkedIn is the undisputed king of long-form AI slop, according to a study spanning five platform",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/linkedin-is-the-undisputed-king-of-long-form-ai-slop-according-to-a-study-spanning-five-platforms/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Sun, 12 Jul 2026 16:41:47 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
-      },
-      {
-        "id": "AI-008",
-        "title": "Claude Code now has a built-in browser that lets the AI read, click, and type on external websites",
-        "summary": "Claude Code now has a built-in browser that lets the AI open, read, and interact with web pages directly inside the development environment. Write actions on external sites are screened by classifiers, and purchases or account creations need user app",
-        "content": "Claude Code now has a built-in browser that lets the AI open, read, and interact with web pages directly inside the development environment. Write actions on external sites are screened by classifiers, and purchases or account creations need user approval.\nThe article Claude Code now has a built-in browser that lets the AI read, click, and type on external websites appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/claude-code-now-has-a-built-in-browser-that-lets-the-ai-read-click-and-type-on-external-websites/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Sun, 12 Jul 2026 15:02:06 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
       }
     ],
     "research": [
       {
-        "id": "AI-009",
+        "id": "AI-011",
+        "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation f",
+        "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and heady research. It’s looking into whether AI models can feel pain, for example,…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 13 Jul 2026 18:00:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-012",
         "title": "The Download: a donor conception cap and world models for AI",
         "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Sperm donors need limits, says a European fertility group Ties van der Meer doesn’t know how many siblings he ha",
         "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Sperm donors need limits, says a European fertility group Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was conceived at a private fertility clinic using sperm…",
@@ -189,7 +246,7 @@
         ]
       },
       {
-        "id": "AI-010",
+        "id": "AI-013",
         "title": "Interval Certifications for Multilayered Perceptrons via Lattice Traversal",
         "summary": "arXiv:2607.08773v1 Announce Type: new \nAbstract: In this work we present a rigorous theoretical framework to a foundational problem of AI safety, namely adversarial robustness. In particular, we show that the adversarial robustness problem can be red",
         "content": "arXiv:2607.08773v1 Announce Type: new \nAbstract: In this work we present a rigorous theoretical framework to a foundational problem of AI safety, namely adversarial robustness. In particular, we show that the adversarial robustness problem can be reduced to a lattice traversal problem. Each element of this lattice corresponds to an interval, i.e., an axis-aligned hyper-rectangle, containing an input point $\\mathbf{x}$. Consider a multilayered perceptron classifier (MLP). An interval $I$ constitu",
@@ -208,7 +265,7 @@
         ]
       },
       {
-        "id": "AI-011",
+        "id": "AI-014",
         "title": "CogniConsole: Externalizing Inference-Time Control as a Formal Abstraction for Reliable LLM Interactions",
         "summary": "arXiv:2607.08774v1 Announce Type: new \nAbstract: Reliability in large language model (LLM) systems is typically framed as a function of model capability. We challenge this by demonstrating that reliability is significantly influenced by \\emph{inferen",
         "content": "arXiv:2607.08774v1 Announce Type: new \nAbstract: Reliability in large language model (LLM) systems is typically framed as a function of model capability. We challenge this by demonstrating that reliability is significantly influenced by \\emph{inference-time control} -- the computational layer governing task framing and context selection. We introduce \\emph{CogniConsole}, an architectural instantiation that externalizes this control into a structured interface combining programmatic coordination ",
@@ -227,7 +284,7 @@
         ]
       },
       {
-        "id": "AI-012",
+        "id": "AI-015",
         "title": "GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning",
         "summary": "arXiv:2607.08894v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents have shown promise in multi-step planning tasks, but existing approaches like LATS (Language Agent Tree Search) and ReAct rely heavily on LLM inference during planning",
         "content": "arXiv:2607.08894v1 Announce Type: new \nAbstract: Large Language Model (LLM) agents have shown promise in multi-step planning tasks, but existing approaches like LATS (Language Agent Tree Search) and ReAct rely heavily on LLM inference during planning, leading to high computational costs and stochastic behavior. We present \\textbf{GATS} (Graph-Augmented Tree Search), a planning framework that combines systematic UCB1-based tree search with a layered world model to eliminate LLM calls during infer",
@@ -244,120 +301,101 @@
         "normalizedTags": [
           "arxiv cs.ai"
         ]
-      },
-      {
-        "id": "AI-013",
-        "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
-        "summary": "arXiv:2607.08964v1 Announce Type: new \nAbstract: AI agents have become capable of autonomously completing short, well-specified tasks. However, existing terminal benchmarks largely focus on simple problems that finish within minutes and are evaluated",
-        "content": "arXiv:2607.08964v1 Announce Type: new \nAbstract: AI agents have become capable of autonomously completing short, well-specified tasks. However, existing terminal benchmarks largely focus on simple problems that finish within minutes and are evaluated only by their final outcome. This setup overlooks intermediate progress and partial solutions, yielding sparse reward signals and an incomplete picture of agent capability. We introduce Long-Horizon-Terminal-Bench, a terminal benchmark of 46 long-ho",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://arxiv.org/abs/2607.08964",
-        "sourceName": "ArXiv CS.AI",
-        "tags": [
-          "ArXiv CS.AI"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 13 Jul 2026 00:00:00 -0400",
-        "normalizedTags": [
-          "arxiv cs.ai"
-        ]
       }
     ],
     "applications": [],
     "business": [
       {
-        "id": "AI-014",
-        "title": "Iran strikes, Lindsey Graham, Apple takes OpenAI to court and more in Morning Squawk",
-        "summary": "Here are five key things investors need to know to start the trading day.",
-        "content": "Here are five key things investors need to know to start the trading day.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/07/13/5-things-to-know-before-the-stock-market-opens.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 13 Jul 2026 12:29:47 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ]
-      },
-      {
-        "id": "AI-015",
-        "title": "AI is changing older workers' careers, research finds — here's how",
-        "summary": "AI may either prompt some older workers to leave their jobs or help make their roles more efficient, research finds. Here's which careers may be most affected.",
-        "content": "AI may either prompt some older workers to leave their jobs or help make their roles more efficient, research finds. Here's which careers may be most affected.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/07/13/ai-older-workers-careers.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 13 Jul 2026 12:15:01 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ]
-      },
-      {
         "id": "AI-016",
-        "title": "Meta's Louisiana data center investment to reach $50 billion, aided by generous tax incentives",
-        "summary": "Meta said the planned Hyperion data center supercluster in Richland Parish, Louisiana, will be a 5GW facility and cost over $50 billion.",
-        "content": "Meta said the planned Hyperion data center supercluster in Richland Parish, Louisiana, will be a 5GW facility and cost over $50 billion.",
+        "title": "CNBC's The China Connection newsletter: Betting on Shenzhen over Silicon Valley",
+        "summary": "The coastal Chinese city of Shenzhen has become a hub for tech hardware that U.S. firms can't ignore.",
+        "content": "The coastal Chinese city of Shenzhen has become a hub for tech hardware that U.S. firms can't ignore.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/07/13/meta-louisiana-data-center-investment-reaches-50-billion-amid-ai-push.html",
+        "sourceUrl": "https://www.cnbc.com/2026/07/13/cnbcs-the-china-connection-newsletter-betting-on-shenzhen-over-silicon-valley.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Mon, 13 Jul 2026 09:30:01 GMT",
+        "publishedAt": "Mon, 13 Jul 2026 23:00:01 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-017",
-        "title": "Europe's Anduril rival Helsing raises $1.8 billion at $18 billion valuation",
-        "summary": "Helsing said \"investor demand significantly exceeded the available allocation\" for its $1.8 billion funding round.",
-        "content": "Helsing said \"investor demand significantly exceeded the available allocation\" for its $1.8 billion funding round.",
+        "title": "Jim Cramer says tech remains the market's best place to find big winners despite recent struggles",
+        "summary": "CNBC's Jim Cramer said tech stocks continue to offer the market's biggest upside.",
+        "content": "CNBC's Jim Cramer said tech stocks continue to offer the market's biggest upside.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/07/13/helsing-fund-raise-defense-18-billion.html",
+        "sourceUrl": "https://www.cnbc.com/2026/07/13/jim-cramer-tech-best-place-find-big-winners.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Mon, 13 Jul 2026 08:13:46 GMT",
+        "publishedAt": "Mon, 13 Jul 2026 22:20:00 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-018",
-        "title": "TSMC, the world's largest contract chipmaker, reports 68% surge in June revenue",
-        "summary": "Ahead of its second-quarter earnings, TSMC reported its June and first-half revenue for 2026.",
-        "content": "Ahead of its second-quarter earnings, TSMC reported its June and first-half revenue for 2026.",
+        "title": "This tech stock just got another Wall Street boost. Why we're on the same page",
+        "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+        "content": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/07/13/tsmc-june-revenue-rises-percent-ahead-second-quarter.html",
+        "sourceUrl": "https://www.cnbc.com/2026/07/13/this-tech-giant-just-got-another-street-boost-were-on-the-same-page.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Mon, 13 Jul 2026 07:29:26 GMT",
+        "publishedAt": "Mon, 13 Jul 2026 15:52:16 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-019",
+        "title": "Trump calls for Congress to pass Clarity Act crypto bill to honor Lindsey Graham",
+        "summary": "The Senate Banking Committee approved the bill 15-9 in May, with two Democrats joining Republicans to advance the legislation.",
+        "content": "The Senate Banking Committee approved the bill 15-9 in May, with two Democrats joining Republicans to advance the legislation.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/07/13/trump-congress-clarity-act-crypto-bill-lindsey-graham.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 13 Jul 2026 16:52:08 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-020",
+        "title": "SpaceX stock sinks for a second-straight day, nearing $135 IPO price",
+        "summary": "SpaceX went public a month ago in a record IPO. Elon Musk's space and AI company was added to the Nasdaq-100 last week.",
+        "content": "SpaceX went public a month ago in a record IPO. Elon Musk's space and AI company was added to the Nasdaq-100 last week.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/07/13/spacex-spcx-stock-ipo-price.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 13 Jul 2026 20:16:36 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
@@ -365,7 +403,7 @@
     ],
     "policy": [
       {
-        "id": "AI-019",
+        "id": "AI-021",
         "title": "Europe Takes Step Toward Possible Social Media Ban for Children",
         "summary": "After the release of a new report, the European Commission is considering changing the rules across the 27-nation bloc.",
         "content": "After the release of a new report, the European Commission is considering changing the rules across the 27-nation bloc.",
@@ -378,13 +416,51 @@
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Mon, 13 Jul 2026 09:34:58 +0000",
+        "publishedAt": "Mon, 13 Jul 2026 13:19:52 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
       },
       {
-        "id": "AI-020",
+        "id": "AI-022",
+        "title": "How a Teacher Revived Backyard Baseball",
+        "summary": "Backyard Baseball, a favorite game for 1990s kids, had been off the market for years. But Lindsay Barnett was determined.",
+        "content": "Backyard Baseball, a favorite game for 1990s kids, had been off the market for years. But Lindsay Barnett was determined.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/07/13/style/backyard-baseball-video-game-teacher.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 13 Jul 2026 16:28:38 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-023",
+        "title": "U.S. Electric Vehicle Sales are Down but E.V. Chargers are Booming",
+        "summary": "Electric vehicle chargers are proliferating in Southern states as fast food restaurants, stores and other businesses try to lure customers.",
+        "content": "Electric vehicle chargers are proliferating in Southern states as fast food restaurants, stores and other businesses try to lure customers.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/07/13/business/electric-vehicles-charging-stations.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 13 Jul 2026 15:00:31 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-024",
         "title": "The eBay Scandal Gets a Thriller-Like Documentary",
         "summary": "A newly available documentary, ‘Whatever It Takes,’ examines eBay workers’ plot to cyberstalk journalists and critics.",
         "content": "A newly available documentary, ‘Whatever It Takes,’ examines eBay workers’ plot to cyberstalk journalists and critics.",
@@ -397,7 +473,7 @@
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Mon, 13 Jul 2026 09:01:41 +0000",
+        "publishedAt": "Mon, 13 Jul 2026 18:07:52 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
@@ -406,10 +482,48 @@
     "concerns": [],
     "culture": [
       {
-        "id": "AI-021",
+        "id": "AI-025",
+        "title": "Can Labor save us from the risks of AI? – podcast",
+        "summary": "The AI revolution is here, and with it a fear that soon it will replace many of us in the workplace.\nThe Australian government is grappling with how to deal with the multi-layered disruption but so far reform has been slow as it weighs up regulation ",
+        "content": "The AI revolution is here, and with it a fear that soon it will replace many of us in the workplace.\nThe Australian government is grappling with how to deal with the multi-layered disruption but so far reform has been slow as it weighs up regulation against the claims of investment opportunities an AI boom presents.\nCould that change on Wednesday when the prime minister delivers a landmark speech addressing the government’s approach to the technology?\nThe chief political correspondent, Dan Jervi",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/australia-news/audio/2026/jul/13/can-labor-save-us-from-the-risks-of-ai-full-story-podcast",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 13 Jul 2026 15:00:51 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-026",
+        "title": "Albanese to compare pivotal moment in AI to renewable energy transition as he outlines approach",
+        "summary": "Labor sources say the PM will discuss safety concerns in speech this week but will not provide an update on copyright reforms to protect artists\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily n",
+        "content": "Labor sources say the PM will discuss safety concerns in speech this week but will not provide an update on copyright reforms to protect artists\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nAnthony Albanese will describe the progress of AI as an inflection point for society on par with the renewable energy transition, but is not expected to detail progress on copyright reforms to protect creative industries.\nThe prime minis",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/14/anthony-albanese-ai-speech-safety-copyright-datacentres-social-licence",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 13 Jul 2026 15:00:50 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-027",
         "title": "The New York nurses replaced by AI: ‘It should concern every patient who cares about quality of care’",
         "summary": "The union for 12 nurses laid off by Montefiore hospital say company broke contract they recently won through a strike\nMarilyn Shuler has worked as a utilization review nurse for 39 years at Montefiore hospital in the Bronx in New York City, helping t",
-        "content": "The union for 12 nurses laid off by Montefiore hospital say company broke contract they recently won through a strike\nMarilyn Shuler has worked as a utilization review nurse for 39 years at Montefiore hospital in the Bronx in New York City, helping to read patient charts and communicate with insurance companies over coverage.\nAfter nearly four decades in her job, Shuler is one of 12 nurses who was laid off Sunday after being replaced with AI-powered software, according to the New York State Nurs",
+        "content": "The union for 12 nurses laid off by Montefiore hospital say company broke contract they recently won through a strike\nMarilyn Shuler has worked as a utilization review nurse for 39 years at Montefiore hospital in the Bronx in New York City, helping to read patient charts and communicate with insurance companies over coverage.\nAfter nearly four decades in her job, Shuler is one of 12 nurses who were laid off Sunday after being replaced with AI-powered software, according to the New York State Nur",
         "keyTakeaways": [],
         "whyItMatters": "",
         "sourceUrl": "https://www.theguardian.com/technology/2026/jul/13/nurses-new-york-ai",
@@ -425,7 +539,7 @@
         ]
       },
       {
-        "id": "AI-022",
+        "id": "AI-028",
         "title": "Is the most popular song played on Australian radio stations the product of generative AI?",
         "summary": "Josh Fawaz’s song, a cover of Like a Prayer, has raised questions about how generative AI is being used in music and whether it should be declared\nAn Australian producer has gone from little-known artist to viral sensation in a matter of months, with",
         "content": "Josh Fawaz’s song, a cover of Like a Prayer, has raised questions about how generative AI is being used in music and whether it should be declared\nAn Australian producer has gone from little-known artist to viral sensation in a matter of months, with his hit song catapulting on to global charts and receiving thousands of radio spins.\nThere’s just one problem: music experts and other musicians are questioning whether he produced it. They claim Josh Fawaz’s most popular song, a cover of Madonna’s ",
@@ -444,7 +558,7 @@
         ]
       },
       {
-        "id": "AI-023",
+        "id": "AI-029",
         "title": "‘Navigating the unknown together’: me and my idiot AI boyfriend – podcast",
         "summary": "I believe that chatbots have no place in a decent society, and am repelled by the topic of AI in general. But could I be seduced?\nBy Lauren Oyler. Read by Kate Handford\nRead the text version here\nSupport the Guardian today: theguardian.com/longreadpo",
         "content": "I believe that chatbots have no place in a decent society, and am repelled by the topic of AI in general. But could I be seduced?\nBy Lauren Oyler. Read by Kate Handford\nRead the text version here\nSupport the Guardian today: theguardian.com/longreadpod\nA version of this piece previously appeared in the Yale Review\n Continue reading...",
@@ -461,44 +575,6 @@
         "normalizedTags": [
           "the guardian ai"
         ]
-      },
-      {
-        "id": "AI-024",
-        "title": "China’s massive AI rollout - podcast",
-        "summary": "Senior China correspondent Amy Hawkins on China’s embrace of AI, from medical avatars to food delivery drones and state surveillance\nWhile the spread of AI has been met perhaps with a lot of scepticism in the west, China has fully embraced the techno",
-        "content": "Senior China correspondent Amy Hawkins on China’s embrace of AI, from medical avatars to food delivery drones and state surveillance\nWhile the spread of AI has been met perhaps with a lot of scepticism in the west, China has fully embraced the technology, explains Amy Hawkins, from millions of users talking to AI doctors, to the use of intelligent robots in factories, and drones delivering food on the Great Wall of China.\nAI has also been eagerly taken up by the state, not least in the opportuni",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/news/audio/2026/jul/13/chinas-massive-ai-rollout-podcast",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 13 Jul 2026 02:00:34 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-025",
-        "title": "Christopher Nolan says people ‘disdain’ AI and the idea it will replace humans is ‘nonsense’",
-        "summary": "Odyssey director addresses industry fears over artificial intelligence and says rightwing criticism of Lupita Nyong’o as Helen of Troy is ‘irrelevant’\nThe Oscar-winning director Christopher Nolan believes the kind of movies he makes – big-budget acti",
-        "content": "Odyssey director addresses industry fears over artificial intelligence and says rightwing criticism of Lupita Nyong’o as Helen of Troy is ‘irrelevant’\nThe Oscar-winning director Christopher Nolan believes the kind of movies he makes – big-budget action films shot mostly on location – would survive the spread of artificial intelligence, a technology he says many people “disdain”.\nThe Oppenheimer and The Dark Knight director is promoting his latest blockbuster, an adaptation of the Greek epic The ",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/film/2026/jul/13/christopher-nolan-odyssey-director-comments-ai-artificial-intelligence",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 13 Jul 2026 00:56:38 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
       }
     ]
   },
@@ -508,31 +584,35 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
-    "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
-    "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+    "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+    "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+    "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+    "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
+    "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+    "https://the-decoder.com/openais-new-prompting-guide-tells-users-to-stop-overthinking-and-start-with-the-result/",
+    "https://the-decoder.com/turing-award-winner-rich-sutton-founds-oak-lab-to-build-ai-agents-that-learn-on-their-own/",
+    "https://the-decoder.com/nobel-laureates-and-ai-leaders-warn-the-window-to-prepare-for-ais-economic-impact-is-closing-fast/",
+    "https://the-decoder.com/nadella-calls-out-ai-labs-like-openai-and-anthropic-for-banning-distillation-while-training-on-everyone-elses-data/",
     "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german/",
-    "https://the-decoder.com/sensorfm/",
-    "https://the-decoder.com/anthropic-extends-free-fable-5-access-for-subscribers-as-openais-gpt-5-6-sol-heats-up-the-pricing-war/",
-    "https://the-decoder.com/linkedin-is-the-undisputed-king-of-long-form-ai-slop-according-to-a-study-spanning-five-platforms/",
-    "https://the-decoder.com/claude-code-now-has-a-built-in-browser-that-lets-the-ai-read-click-and-type-on-external-websites/",
+    "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
     "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
     "https://arxiv.org/abs/2607.08773",
     "https://arxiv.org/abs/2607.08774",
     "https://arxiv.org/abs/2607.08894",
-    "https://arxiv.org/abs/2607.08964",
-    "https://www.cnbc.com/2026/07/13/5-things-to-know-before-the-stock-market-opens.html",
-    "https://www.cnbc.com/2026/07/13/ai-older-workers-careers.html",
-    "https://www.cnbc.com/2026/07/13/meta-louisiana-data-center-investment-reaches-50-billion-amid-ai-push.html",
-    "https://www.cnbc.com/2026/07/13/helsing-fund-raise-defense-18-billion.html",
-    "https://www.cnbc.com/2026/07/13/tsmc-june-revenue-rises-percent-ahead-second-quarter.html",
+    "https://www.cnbc.com/2026/07/13/cnbcs-the-china-connection-newsletter-betting-on-shenzhen-over-silicon-valley.html",
+    "https://www.cnbc.com/2026/07/13/jim-cramer-tech-best-place-find-big-winners.html",
+    "https://www.cnbc.com/2026/07/13/this-tech-giant-just-got-another-street-boost-were-on-the-same-page.html",
+    "https://www.cnbc.com/2026/07/13/trump-congress-clarity-act-crypto-bill-lindsey-graham.html",
+    "https://www.cnbc.com/2026/07/13/spacex-spcx-stock-ipo-price.html",
     "https://www.nytimes.com/2026/07/13/technology/europe-teen-social-media-ban.html",
+    "https://www.nytimes.com/2026/07/13/style/backyard-baseball-video-game-teacher.html",
+    "https://www.nytimes.com/2026/07/13/business/electric-vehicles-charging-stations.html",
     "https://www.nytimes.com/2026/07/13/technology/ebay-documentary-scandal-whatever-it-takes.html",
+    "https://www.theguardian.com/australia-news/audio/2026/jul/13/can-labor-save-us-from-the-risks-of-ai-full-story-podcast",
+    "https://www.theguardian.com/australia-news/2026/jul/14/anthony-albanese-ai-speech-safety-copyright-datacentres-social-licence",
     "https://www.theguardian.com/technology/2026/jul/13/nurses-new-york-ai",
     "https://www.theguardian.com/music/2026/jul/13/josh-fawaz-like-a-prayer-song-is-it-ai-radio",
-    "https://www.theguardian.com/news/audio/2026/jul/13/navigating-the-unknown-together-me-and-my-idiot-ai-boyfriend-podcast",
-    "https://www.theguardian.com/news/audio/2026/jul/13/chinas-massive-ai-rollout-podcast",
-    "https://www.theguardian.com/film/2026/jul/13/christopher-nolan-odyssey-director-comments-ai-artificial-intelligence"
+    "https://www.theguardian.com/news/audio/2026/jul/13/navigating-the-unknown-together-me-and-my-idiot-ai-boyfriend-podcast"
   ],
-  "generatedAt": "2026-07-13T13:21:34.514Z"
+  "generatedAt": "2026-07-13T23:45:16.189Z"
 }
