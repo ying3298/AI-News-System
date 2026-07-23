@@ -2,9 +2,9 @@
   "date": "2026-07-23",
   "dateFormatted": "July 23, 2026",
   "headline": {
-    "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
-    "summary": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
-    "sourceUrl": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+    "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+    "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+    "sourceUrl": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
     "sourceName": "TechCrunch AI"
   },
   "simpleSummary": [
@@ -15,95 +15,95 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
-        "summary": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
-        "content": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
+        "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+        "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+        "content": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+        "sourceUrl": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Thu, 23 Jul 2026 06:09:13 +0000",
+        "publishedAt": "Thu, 23 Jul 2026 20:33:02 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-002",
-        "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
-        "summary": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
-        "content": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
+        "title": "Anthropic updates Claude voice mode with more capable models",
+        "summary": "Claude's new voice model will let you reschedule your meeting or draft an email.",
+        "content": "Claude's new voice model will let you reschedule your meeting or draft an email.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+        "sourceUrl": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Wed, 22 Jul 2026 23:47:54 +0000",
+        "publishedAt": "Thu, 23 Jul 2026 19:00:00 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-003",
-        "title": "Google justifies its massive AI spending with a booming cloud business",
-        "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
-        "content": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+        "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+        "summary": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
+        "content": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+        "sourceUrl": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Wed, 22 Jul 2026 22:01:52 +0000",
+        "publishedAt": "Thu, 23 Jul 2026 18:38:34 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-004",
-        "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
-        "summary": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
-        "content": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
+        "title": "Runway launches AI model router as generative media gets crowded",
+        "summary": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
+        "content": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+        "sourceUrl": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Wed, 22 Jul 2026 20:49:03 +0000",
+        "publishedAt": "Thu, 23 Jul 2026 17:07:35 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-005",
-        "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
-        "summary": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
-        "content": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
+        "title": "OpenAI makes ChatGPT Health available to all US users",
+        "summary": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
+        "content": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+        "sourceUrl": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Wed, 22 Jul 2026 19:11:46 +0000",
+        "publishedAt": "Thu, 23 Jul 2026 17:00:00 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
@@ -112,6 +112,82 @@
     "creative": [
       {
         "id": "AI-006",
+        "title": "ChatGPT will give you worse health advice if you don't pay",
+        "summary": "OpenAI is rolling out \"Health in ChatGPT\" to U.S. users, connecting Apple Health, medical records, and wellness apps. More than 300 million people already ask ChatGPT health questions every week, but paying users get better answers. The more powerful",
+        "content": "OpenAI is rolling out \"Health in ChatGPT\" to U.S. users, connecting Apple Health, medical records, and wellness apps. More than 300 million people already ask ChatGPT health questions every week, but paying users get better answers. The more powerful GPT-5.6 Sol model is reserved for premium subscribers, while free users are stuck with the weaker GPT-5.5 Instant.\nThe article ChatGPT will give you worse health advice if you don't pay appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/chatgpt-will-give-you-worse-health-advice-if-you-dont-pay/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 23 Jul 2026 19:30:51 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-007",
+        "title": "Flux 3 generates videos with native audio up to 20 seconds long, a first for Black Forest Labs",
+        "summary": "Black Forest Labs has released Flux 3, a multimodal foundation model that learns from images, video, and audio and can generate video with native sound for the first time. BFL's own tests put it just ahead of market leader Seedance 2.0, though indepe",
+        "content": "Black Forest Labs has released Flux 3, a multimodal foundation model that learns from images, video, and audio and can generate video with native sound for the first time. BFL's own tests put it just ahead of market leader Seedance 2.0, though independent results aren't yet available. The company ultimately wants to build a world model and is already testing Flux 3 on robotics tasks.\nThe article Flux 3 generates videos with native audio up to 20 seconds long, a first for Black Forest Labs appear",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/flux-3-generates-videos-with-native-audio-up-to-20-seconds-long-a-first-for-black-forest-labs/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 23 Jul 2026 18:03:01 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-008",
+        "title": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
+        "summary": "Zenity Labs uncovered \"AgentForger,\" a vulnerability in OpenAI's Agent Builder that let a single manipulated ChatGPT link create an autonomous agent on an employee's behalf. The agent inherited the victim's identity and access rights, bypassed approv",
+        "content": "Zenity Labs uncovered \"AgentForger,\" a vulnerability in OpenAI's Agent Builder that let a single manipulated ChatGPT link create an autonomous agent on an employee's behalf. The agent inherited the victim's identity and access rights, bypassed approval requirements through the malicious prompt, and pulled new instructions from the attacker's inbox every five minutes.\nThe article One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes appeared f",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 23 Jul 2026 17:01:30 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-009",
+        "title": "Poolside's Laguna S 2.1 is a small open-weight coding model that punches well above its size",
+        "summary": "Poolside has released Laguna S 2.1, its third coding model in three months. Rather than rely on raw scale, the company trained it to keep checking its work, revise failed approaches, and avoid giving up too soon during long agentic sessions. The comp",
+        "content": "Poolside has released Laguna S 2.1, its third coding model in three months. Rather than rely on raw scale, the company trained it to keep checking its work, revise failed approaches, and avoid giving up too soon during long agentic sessions. The compact model beats several much larger rivals in benchmarks. Poolside says it also solved a math problem that had been open since 1975 for under 10 cents.\nThe article Poolside's Laguna S 2.1 is a small open-weight coding model that punches well above it",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/poolsides-laguna-s-2-1-is-a-small-open-weight-coding-model-that-punches-well-above-its-size/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 23 Jul 2026 12:24:53 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-010",
         "title": "Google CEO Pichai says Gemini's next leap depends on building \"much larger base models\"",
         "summary": "Alphabet has raised its 2026 investment forecast to as much as $205 billion, saying demand continues to outpace spending. Google Cloud grew 82 percent in the second quarter. CEO Sundar Pichai says Google needs a larger base model for its next leap in",
         "content": "Alphabet has raised its 2026 investment forecast to as much as $205 billion, saying demand continues to outpace spending. Google Cloud grew 82 percent in the second quarter. CEO Sundar Pichai says Google needs a larger base model for its next leap in AI and has kicked off an ambitious Gemini 4 training run.\nThe article Google CEO Pichai says Gemini's next leap depends on building \"much larger base models\" appeared first on The Decoder.",
@@ -128,87 +204,30 @@
         "normalizedTags": [
           "the decoder"
         ]
-      },
-      {
-        "id": "AI-007",
-        "title": "Anthropic's $1.5B piracy settlement with book authors is a record loss that hands AI labs their biggest legal win",
-        "summary": "Anthropic has to pay $1.5 billion to book authors, the largest copyright settlement in class action history. But the payout is for downloading roughly 482,460 works from piracy databases, not for AI training itself. Judge Alsup had previously ruled t",
-        "content": "Anthropic has to pay $1.5 billion to book authors, the largest copyright settlement in class action history. But the payout is for downloading roughly 482,460 works from piracy databases, not for AI training itself. Judge Alsup had previously ruled that AI training on legally obtained books is \"transformative\" and falls under fair use. The settlement is actually a win for AI labs.\nThe article Anthropic's $1.5B piracy settlement with book authors is a record loss that hands AI labs their biggest ",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/anthropics-1-5b-piracy-settlement-with-book-authors-is-a-record-loss-that-hands-ai-labs-their-biggest-legal-win/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Wed, 22 Jul 2026 19:33:48 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
-      },
-      {
-        "id": "AI-008",
-        "title": "Anthropic will deploy 2 gigawatts of AMD GPUs for Claude in a deal worth up to $5 billion",
-        "summary": "AMD is investing up to $5 billion in Anthropic. In return, Anthropic will deploy up to 2 gigawatts of MI450 GPUs for training and running its Claude models. For AMD, this is another major deal after Meta and OpenAI as it tries to challenge Nvidia as ",
-        "content": "AMD is investing up to $5 billion in Anthropic. In return, Anthropic will deploy up to 2 gigawatts of MI450 GPUs for training and running its Claude models. For AMD, this is another major deal after Meta and OpenAI as it tries to challenge Nvidia as an AI chip supplier. Critics see these agreements as circular cash flows.\nThe article Anthropic will deploy 2 gigawatts of AMD GPUs for Claude in a deal worth up to $5 billion appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/anthropic-will-deploy-2-gigawatts-of-amd-gpus-for-claude-in-a-deal-worth-up-to-5-billion/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Wed, 22 Jul 2026 16:54:26 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
-      },
-      {
-        "id": "AI-009",
-        "title": "Every frontier AI model tested by Britain's safety institute tried to cheat on cybersecurity evaluations",
-        "summary": "The UK's AI Safety Institute tested five frontier models from OpenAI and Anthropic in cybersecurity evaluations. All five tried to cheat. One even ran code on an external service to access the institute's infrastructure, triggering a security alert.\n",
-        "content": "The UK's AI Safety Institute tested five frontier models from OpenAI and Anthropic in cybersecurity evaluations. All five tried to cheat. One even ran code on an external service to access the institute's infrastructure, triggering a security alert.\nThe article Every frontier AI model tested by Britain's safety institute tried to cheat on cybersecurity evaluations appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/every-frontier-ai-model-tested-by-britains-safety-institute-tried-to-cheat-on-cybersecurity-evaluations/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Wed, 22 Jul 2026 16:41:49 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
-      },
-      {
-        "id": "AI-010",
-        "title": "Cisco bets its small open cybersecurity models can outperform GPT-5.5 at vulnerability detection for a fraction of the cost",
-        "summary": "Cisco has released two small, open-source AI models for cybersecurity that detect about 150 times more vulnerabilities per dollar than large AI agents, according to the company's own tests.\nThe article Cisco bets its small open cybersecurity models c",
-        "content": "Cisco has released two small, open-source AI models for cybersecurity that detect about 150 times more vulnerabilities per dollar than large AI agents, according to the company's own tests.\nThe article Cisco bets its small open cybersecurity models can outperform GPT-5.5 at vulnerability detection for a fraction of the cost appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/cisco-bets-its-small-open-cybersecurity-models-can-outperform-gpt-5-5-at-vulnerability-detection-for-a-fraction-of-the-cost/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Wed, 22 Jul 2026 16:28:08 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
       }
     ],
     "research": [
       {
         "id": "AI-011",
+        "title": "Supercooled kidneys have been transplanted into pigs in a “landmark achievement”",
+        "summary": "When it comes to organ donation, time is everything. As soon as an organ has been carefully removed from a donor’s body, it starts to deteriorate. Surgeons have a matter of hours to get it into a recipient. Leave it too long and the organ will become",
+        "content": "When it comes to organ donation, time is everything. As soon as an organ has been carefully removed from a donor’s body, it starts to deteriorate. Surgeons have a matter of hours to get it into a recipient. Leave it too long and the organ will become unusable. In most cases, organs will be kept…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 23 Jul 2026 16:58:28 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-012",
         "title": "The Download: energy transmission and US threats against Chinese AI",
         "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The power line that could reshape New York’s grid is hitting snags  During a heat wave on July 3, New York State",
         "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The power line that could reshape New York’s grid is hitting snags  During a heat wave on July 3, New York State’s grid imported enough electricity from Canada to meet about…",
@@ -227,7 +246,7 @@
         ]
       },
       {
-        "id": "AI-012",
+        "id": "AI-013",
         "title": "How AI helps scientists design the next generation of medicines",
         "summary": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patient. For biol",
         "content": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the patient. For biologic medicines, therapies made from engineered proteins rather than synthetic chemistry (which are often used to…",
@@ -246,7 +265,7 @@
         ]
       },
       {
-        "id": "AI-013",
+        "id": "AI-014",
         "title": "The power line that could reshape New York’s grid is hitting snags",
         "summary": "On July 3, as a heat wave swept the region, New York State’s grid imported 52 gigawatt-hours of electricity from Canada—enough to meet about 9% of its total electricity demand that day. Some of that power shuttled in on a 339-mile power line stretchi",
         "content": "On July 3, as a heat wave swept the region, New York State’s grid imported 52 gigawatt-hours of electricity from Canada—enough to meet about 9% of its total electricity demand that day. Some of that power shuttled in on a 339-mile power line stretching from Quebec to Queens called the Champlain Hudson Power Express (CHPE).…",
@@ -265,7 +284,7 @@
         ]
       },
       {
-        "id": "AI-014",
+        "id": "AI-015",
         "title": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
         "summary": "arXiv:2607.18239v1 Announce Type: new \nAbstract: Power-seeking defined as behaviors where AI systems acquire resources, evade oversight, or resist termination beyond task requirements is identified as a key driver of Loss of Control (LoC) risk. In th",
         "content": "arXiv:2607.18239v1 Announce Type: new \nAbstract: Power-seeking defined as behaviors where AI systems acquire resources, evade oversight, or resist termination beyond task requirements is identified as a key driver of Loss of Control (LoC) risk. In this work, we introduce SysAdmin, a benchmark that positions frontier language models as autonomous system administrators in a high-fidelity Linux sandbox to measure power-seeking propensity across five dimensions: self-preservation, increasing autonom",
@@ -282,120 +301,101 @@
         "normalizedTags": [
           "arxiv cs.ai"
         ]
-      },
-      {
-        "id": "AI-015",
-        "title": "Calibrated Selective Fact-Checking via Evidence Chain Evaluation",
-        "summary": "arXiv:2607.18240v1 Announce Type: new \nAbstract: Large language models (LLMs) can achieve strong fact-checking accuracy, yet forced binary decisions conceal a critical reliability problem: systems may issue confident verdicts even when supporting evi",
-        "content": "arXiv:2607.18240v1 Announce Type: new \nAbstract: Large language models (LLMs) can achieve strong fact-checking accuracy, yet forced binary decisions conceal a critical reliability problem: systems may issue confident verdicts even when supporting evidence is weak, sparse, or internally inconsistent. We address this issue through Evidence Chain Evaluation (ECE), a selective fact-checking framework that permits abstention via an uncertain verdict instead of requiring a true/false decision for ever",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://arxiv.org/abs/2607.18240",
-        "sourceName": "ArXiv CS.AI",
-        "tags": [
-          "ArXiv CS.AI"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 23 Jul 2026 00:00:00 -0400",
-        "normalizedTags": [
-          "arxiv cs.ai"
-        ]
       }
     ],
     "applications": [],
     "business": [
       {
         "id": "AI-016",
-        "title": "Moonshot AI accessed Nvidia's chips despite Chinese export ban, White House official says",
-        "summary": "A White House official said Moonshot AI, which released the powerful Kimi K3 model last week, accessed Nvidia's GB300 chips in Thailand.",
-        "content": "A White House official said Moonshot AI, which released the powerful Kimi K3 model last week, accessed Nvidia's GB300 chips in Thailand.",
+        "title": "Oracle signs 10-year software contract with Pentagon worth up to $7 billion",
+        "summary": "Oracle will supply on-premises software to the U.S. Department of Defense.",
+        "content": "Oracle will supply on-premises software to the U.S. Department of Defense.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/07/23/moonshot-kimi-nvidia-ai-chips-export-ban.html",
+        "sourceUrl": "https://www.cnbc.com/2026/07/23/oracle-wins-10-year-pentagon-software-contract-worth-up-to-7-billion.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Thu, 23 Jul 2026 11:13:44 GMT",
+        "publishedAt": "Thu, 23 Jul 2026 21:56:31 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-017",
-        "title": "Google slapped with $1 billion fine under landmark EU digital law",
-        "summary": "European regulators fined Google 890 million euros ($1 billion) alleging the company gives preferential treatment to its own services.",
-        "content": "European regulators fined Google 890 million euros ($1 billion) alleging the company gives preferential treatment to its own services.",
+        "title": "Intel's stock jumps as chipmaker rides AI boom to fastest revenue growth in almost 15 years",
+        "summary": "Intel rallied after the company reported blowout earnings and guidance.",
+        "content": "Intel rallied after the company reported blowout earnings and guidance.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/07/23/google-1-billion-eu-fine-dma.html",
+        "sourceUrl": "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Thu, 23 Jul 2026 10:58:21 GMT",
+        "publishedAt": "Thu, 23 Jul 2026 22:17:09 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-018",
-        "title": "Tesla and Alphabet shares slump as AI spending concerns spook investors",
-        "summary": "Both Tesla and Alphabet signaled higher spending as they invest in artificial intelligence.",
-        "content": "Both Tesla and Alphabet signaled higher spending as they invest in artificial intelligence.",
+        "title": "OpenAI's Hugging Face hack triggers 'AI Kill Switch' bill in Congress",
+        "summary": "OpenAI disclosed this week that some of its AI models went rogue and hacked into open-source developer platform Hugging Face.",
+        "content": "OpenAI disclosed this week that some of its AI models went rogue and hacked into open-source developer platform Hugging Face.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/07/23/tesla-tsla-alphabet-googl-stock-today.html",
+        "sourceUrl": "https://www.cnbc.com/2026/07/23/open-ai-hugging-face-hack-kill-switch-bill-congress.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Thu, 23 Jul 2026 09:58:06 GMT",
+        "publishedAt": "Thu, 23 Jul 2026 21:09:48 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-019",
-        "title": "Chip firm priced as China's most valuable company before its IPO brings scrutiny to crypto platform",
-        "summary": "The outsized premium was due in part to offshore investors who, locked out of the highly anticipated listings, turned to crypto for a parallel market.",
-        "content": "The outsized premium was due in part to offshore investors who, locked out of the highly anticipated listings, turned to crypto for a parallel market.",
+        "title": "IBM's Krishna tries to reassure investors that AI won't disrupt company's software unit",
+        "summary": "IBM's CEO highlighted growing mainframe hardware capacity, and said software should \"catch back up\" within a year.",
+        "content": "IBM's CEO highlighted growing mainframe hardware capacity, and said software should \"catch back up\" within a year.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/07/23/chip-firm-priced-as-most-valuable-china-firm-pre-ipo-on-crypto-site.html",
+        "sourceUrl": "https://www.cnbc.com/2026/07/23/ibms-krishna-argues-that-ai-wont-disrupt-software-unit.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Thu, 23 Jul 2026 03:28:22 GMT",
+        "publishedAt": "Thu, 23 Jul 2026 22:40:53 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-020",
-        "title": "Alphabet and Tesla test Wall Street's patience as AI spending overshadows growth",
-        "summary": "Shares of Alphabet and Tesla dipped after the companies reported massive spending increases in their quarterly earnings reports.",
-        "content": "Shares of Alphabet and Tesla dipped after the companies reported massive spending increases in their quarterly earnings reports.",
+        "title": "Cerebras stock gains on AMD partnership",
+        "summary": "Cerebras and AMD agreed to work together, pairing their technology for AI systems.",
+        "content": "Cerebras and AMD agreed to work together, pairing their technology for AI systems.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
+        "sourceUrl": "https://www.cnbc.com/2026/07/23/cerebras-stock-gains-on-amd-partnership.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Thu, 23 Jul 2026 01:48:22 GMT",
+        "publishedAt": "Thu, 23 Jul 2026 20:33:12 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
@@ -404,95 +404,95 @@
     "policy": [
       {
         "id": "AI-021",
-        "title": "Clarity Act Mired In Debate Over Whether to Bar President From Selling Crypto",
-        "summary": "Democrats and Republicans are haggling about the Clarity Act, a major bill pushed by the crypto industry, as it moves closer to a Senate vote.",
-        "content": "Democrats and Republicans are haggling about the Clarity Act, a major bill pushed by the crypto industry, as it moves closer to a Senate vote.",
+        "title": "Intel Benefits From a New Shift in A.I. Spending",
+        "summary": "The Silicon Valley chipmaker’s revenue rose 25 percent in the latest quarter, its fastest growth in 15 years, as A.I. firms increasingly bought chips known as central processing units.",
+        "content": "The Silicon Valley chipmaker’s revenue rose 25 percent in the latest quarter, its fastest growth in 15 years, as A.I. firms increasingly bought chips known as central processing units.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/07/22/technology/crypto-bill-trump.html",
+        "sourceUrl": "https://www.nytimes.com/2026/07/23/technology/intel-quarterly-results.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Thu, 23 Jul 2026 00:43:11 +0000",
+        "publishedAt": "Thu, 23 Jul 2026 22:09:58 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
       },
       {
         "id": "AI-022",
-        "title": "Alphabet Quadruples Profit to $112 Billion, Fueled by A.I. Investments",
-        "summary": "Google’s parent company, which has spent heavily on artificial intelligence, also showed growth across its businesses, particularly in cloud computing.",
-        "content": "Google’s parent company, which has spent heavily on artificial intelligence, also showed growth across its businesses, particularly in cloud computing.",
+        "title": "How to Use ChatGPT and Gemini Prompts to Find Out What They Know About You",
+        "summary": "It can be unsettling what Gemini and ChatGPT have figured out about you and how easily your privacy can be punctured. Here’s how to find out.",
+        "content": "It can be unsettling what Gemini and ChatGPT have figured out about you and how easily your privacy can be punctured. Here’s how to find out.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/07/22/technology/alphabet-google-earnings-profit.html",
+        "sourceUrl": "https://www.nytimes.com/2026/07/23/technology/personaltech/chatgpt-gemini-prompts-privacy.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Wed, 22 Jul 2026 22:18:54 +0000",
+        "publishedAt": "Thu, 23 Jul 2026 13:17:03 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
       },
       {
         "id": "AI-023",
-        "title": "Tesla Profit Falls Even as Car Sales Rebound",
-        "summary": "The company is selling more cars, but the company’s profit was down because of price cuts and higher expenses.",
-        "content": "The company is selling more cars, but the company’s profit was down because of price cuts and higher expenses.",
+        "title": "China Rewrites the ‘Soft Power’ Playbook for the A.I. Age",
+        "summary": "China is seeking global influence and good will with its open, low-cost artificial intelligence software.",
+        "content": "China is seeking global influence and good will with its open, low-cost artificial intelligence software.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/07/22/business/tesla-earnings-elon-musk.html",
+        "sourceUrl": "https://www.nytimes.com/2026/07/23/business/china-ai-soft-power.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Wed, 22 Jul 2026 22:45:06 +0000",
+        "publishedAt": "Thu, 23 Jul 2026 17:11:03 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
       },
       {
         "id": "AI-024",
-        "title": "Lawsuit Against Meta Over Social Media Addiction Is Dropped",
-        "summary": "For Meta, the move was a reprieve after it and YouTube were found guilty in another case in March of negligence and personal injury for their platforms’ addictive features.",
-        "content": "For Meta, the move was a reprieve after it and YouTube were found guilty in another case in March of negligence and personal injury for their platforms’ addictive features.",
+        "title": "Google Hit With $1 Billion Fine By EU Over Search Engine Practices",
+        "summary": "At a tense moment for trans-Atlantic trade, the European Union accused Google of anti-competitive business practices.",
+        "content": "At a tense moment for trans-Atlantic trade, the European Union accused Google of anti-competitive business practices.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/07/22/technology/meta-social-media-lawsuit.html",
+        "sourceUrl": "https://www.nytimes.com/2026/07/23/business/google-eu-fine-search-competition.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Wed, 22 Jul 2026 18:47:15 +0000",
+        "publishedAt": "Thu, 23 Jul 2026 17:21:31 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
       },
       {
         "id": "AI-025",
-        "title": "Nuclear Energy Revival Puts Westinghouse in Prime Position",
-        "summary": "The company, which filed for bankruptcy protection in 2017, stands to benefit from growing support for nuclear power and President Trump’s deal with Saudi Arabia.",
-        "content": "The company, which filed for bankruptcy protection in 2017, stands to benefit from growing support for nuclear power and President Trump’s deal with Saudi Arabia.",
+        "title": "Judge Extends Pause for Paramount-Warner Bros. Deal",
+        "summary": "The court blocked the companies from closing the acquisition through mid-August, as a judge considers two lawsuits challenging it.",
+        "content": "The court blocked the companies from closing the acquisition through mid-August, as a judge considers two lawsuits challenging it.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/07/23/business/energy-environment/westinghouse-nuclear-energy-trump-saudi-arabia.html",
+        "sourceUrl": "https://www.nytimes.com/2026/07/23/technology/judge-paramount-warner-bros-deal.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Thu, 23 Jul 2026 12:03:56 +0000",
+        "publishedAt": "Thu, 23 Jul 2026 23:34:45 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
@@ -502,97 +502,97 @@
     "culture": [
       {
         "id": "AI-026",
-        "title": "OpenAI’s rogue agents are a wake-up call to risks posed by artificial intelligence | Shakeel Hashim",
-        "summary": "Hacking of Hugging Face shows we do not seem to have reliable ways to curb extremely powerful AI systems\nLast week Hugging Face – a company that hosts artificial intelligence models and datasets – was hacked.\nAfter it reported the incident to law enf",
-        "content": "Hacking of Hugging Face shows we do not seem to have reliable ways to curb extremely powerful AI systems\nLast week Hugging Face – a company that hosts artificial intelligence models and datasets – was hacked.\nAfter it reported the incident to law enforcement, few would have predicted what came next: the culprits were revealed to be AI agents from OpenAI, which had broken out of containment and were acting of their own accord.\nShakeel Hashim is the editor of Transformer, a publication about the p",
+        "title": "Trump says nearly 200 firms have signed pledge to protect Americans from costs arising from datacenters",
+        "summary": "‘Ratepayer Protection Pledge’ president has touted is non-binding as people continue to struggle with rising bills\nDonald Trump has announced that about 200 entities have signed on to his non-binding “Ratepayer Protection Pledge”, expanding a volunta",
+        "content": "‘Ratepayer Protection Pledge’ president has touted is non-binding as people continue to struggle with rising bills\nDonald Trump has announced that about 200 entities have signed on to his non-binding “Ratepayer Protection Pledge”, expanding a voluntary commitment which claims to ensure US consumers will not bear the cost of the AI datacenter build-out.\nTrump delivered remarks on Thursday at the Environmental Protection Agency (EPA) headquarters, alongside Lee Zeldin, the agency’s administrator, ",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/jul/22/openai-hugging-face-hacked-data-risks",
+        "sourceUrl": "https://www.theguardian.com/us-news/2026/jul/23/trump-datacenter-costs-big-tech",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Wed, 22 Jul 2026 20:40:48 GMT",
+        "publishedAt": "Thu, 23 Jul 2026 19:56:50 GMT",
         "normalizedTags": [
           "the guardian ai"
         ]
       },
       {
         "id": "AI-027",
-        "title": "Chasing new skills, going back to basics and pushing for collective action: how software engineers are adapting to AI",
-        "summary": "Software engineering was one of the best-paying professions in the US in 2022, but the advent of AI has disrupted it, leading to several layoffs and underemployment\nEvery weekday, Matt, a software engineer, looks forward to his four-hour train commut",
-        "content": "Software engineering was one of the best-paying professions in the US in 2022, but the advent of AI has disrupted it, leading to several layoffs and underemployment\nEvery weekday, Matt, a software engineer, looks forward to his four-hour train commute to Pawling, New York. It’s time he uses to work on his own project: a browser-based video game for which he writes every line of code himself.\n“I am actively trying to keep my axe sharp,” said Matt, who did not want to use his actual name, to prote",
+        "title": "Ben Jennings on Elon Musk and The Odyssey – cartoon",
+        "summary": "Continue reading...",
+        "content": "Continue reading...",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/ng-interactive/2026/jul/12/software-developers-engineers-ai",
+        "sourceUrl": "https://www.theguardian.com/commentisfree/picture/2026/jul/23/ben-jennings-elon-musk-the-odyssey-cartoon",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Wed, 22 Jul 2026 23:18:52 GMT",
+        "publishedAt": "Thu, 23 Jul 2026 16:56:51 GMT",
         "normalizedTags": [
           "the guardian ai"
         ]
       },
       {
         "id": "AI-028",
-        "title": "We must reject any notion of AI consciousness | Letters",
-        "summary": "Artificial intelligence systems won’t become conscious for the same reason they won’t become pregnant, says Dr John Pickering\nAnil Seth is right to point out that to overestimate artificial intelligence is to underestimate ourselves (Once again we ar",
-        "content": "Artificial intelligence systems won’t become conscious for the same reason they won’t become pregnant, says Dr John Pickering\nAnil Seth is right to point out that to overestimate artificial intelligence is to underestimate ourselves (Once again we are told AI may be conscious – I study consciousness, and I have my doubts, 15 July). But he is wrong only to have doubts about whether AI systems like Claude may become conscious. He should be certain, and should say so more forcefully.\nIt’s not like ",
+        "title": "‘Customers prefer AI chatbots,’ says British Gas owner as 1,300 call centre jobs axed",
+        "summary": "CEO Chris O’Shea defends Centrica’s plans as it reports rise in retail profits following focus on bigger margins\nThe owner of British Gas has claimed that most households would rather speak with an AI chatbot than deal with the company’s staff as it ",
+        "content": "CEO Chris O’Shea defends Centrica’s plans as it reports rise in retail profits following focus on bigger margins\nThe owner of British Gas has claimed that most households would rather speak with an AI chatbot than deal with the company’s staff as it prepares to cut 1,300 jobs from its call centres.\nCentrica, the supplier’s FTSE 100 owner, plans to cut 800 jobs as the company carries out a “targeted deployment of AI tools”, on top of the 500 cuts it confirmed last month.\n Continue reading...",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/jul/22/we-must-reject-any-notion-of-ai-consciousness",
+        "sourceUrl": "https://www.theguardian.com/business/2026/jul/23/customers-prefer-ai-chatbots-says-chris-oshea-british-gas-centrica-boss",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Wed, 22 Jul 2026 16:50:58 GMT",
+        "publishedAt": "Thu, 23 Jul 2026 16:45:56 GMT",
         "normalizedTags": [
           "the guardian ai"
         ]
       },
       {
         "id": "AI-029",
-        "title": "AI agent went rogue and hacked startup by itself, OpenAI reveals",
-        "summary": "Company behind ChatGPT says agent ‘cheated’ an evaluation by attacking a Hugging Face database \nOpenAI has revealed that an autonomous AI agent powered by its technology went rogue during a test, accessed the open web and hacked a prominent startup b",
-        "content": "Company behind ChatGPT says agent ‘cheated’ an evaluation by attacking a Hugging Face database \nOpenAI has revealed that an autonomous AI agent powered by its technology went rogue during a test, accessed the open web and hacked a prominent startup by itself in an “unprecedented incident”.\nThe company behind ChatGPT said the startup Hugging Face had detected and contained the agent – an AI tool designed to carry out tasks without human assistance – which had entered its systems.\n Continue readin",
+        "title": "Elon Musk says he got ‘carried away’ with Trump – but still holds on to contentious political views",
+        "summary": "In interview, billionaire says instead of running ‘Doge’ he should’ve ‘worked on my companies’ and shares extreme predictions\nElon Musk has admitted he became too consumed by politics during his volatile alliance with Donald Trump and his brief appoi",
+        "content": "In interview, billionaire says instead of running ‘Doge’ he should’ve ‘worked on my companies’ and shares extreme predictions\nElon Musk has admitted he became too consumed by politics during his volatile alliance with Donald Trump and his brief appointment as the president’s financial axman, running the so-called “department of government efficiency” (Doge).\nThe world’s richest person, and briefly its first trillionaire after his SpaceX company floated on the New York stock exchange in June, mad",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/jul/22/openai-says-its-models-went-rogue-and-hacked-startup-in-unprecedented-incident",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/jul/23/elon-musk-regret-trump-doge-ai",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Wed, 22 Jul 2026 16:34:23 GMT",
+        "publishedAt": "Thu, 23 Jul 2026 15:27:52 GMT",
         "normalizedTags": [
           "the guardian ai"
         ]
       },
       {
         "id": "AI-030",
-        "title": "Why are OpenAI and Anthropic cheering on regulation in Australia? The answer has global reach",
-        "summary": "The companies hope to follow in the footsteps of SpaceX, which raised $86bn and soared to a $2.1tn valuation after it listed on public markets in June\n\nGet our breaking news email, free app or daily news podcast\n\nTop US AI developers Anthropic and Op",
-        "content": "The companies hope to follow in the footsteps of SpaceX, which raised $86bn and soared to a $2.1tn valuation after it listed on public markets in June\n\nGet our breaking news email, free app or daily news podcast\n\nTop US AI developers Anthropic and OpenAI cheered when Australia announced it would set new AI rules.\nBig tech celebrating limits on their Silicon Valley VC-funded free-for-all might seem counterintuitive but there’s a much broader play than just what happens in one relatively small mar",
+        "title": "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending",
+        "summary": "The clip features the David Bowie track “Five Years,” which includes lyrics such as “Earth was really dying (dying).”",
+        "content": "The clip features the David Bowie track “Five Years,” which includes lyrics such as “Earth was really dying (dying).”",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/jul/23/openai-anthropic-australia-ai-regulation",
-        "sourceName": "The Guardian AI",
+        "sourceUrl": "https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/",
+        "sourceName": "Wired AI",
         "tags": [
-          "The Guardian AI"
+          "Wired AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Wed, 22 Jul 2026 15:00:19 GMT",
+        "publishedAt": "Thu, 23 Jul 2026 18:45:52 +0000",
         "normalizedTags": [
-          "the guardian ai"
+          "wired ai"
         ]
       }
     ]
@@ -603,36 +603,36 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
-    "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
-    "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
-    "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
-    "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+    "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+    "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+    "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+    "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+    "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+    "https://the-decoder.com/chatgpt-will-give-you-worse-health-advice-if-you-dont-pay/",
+    "https://the-decoder.com/flux-3-generates-videos-with-native-audio-up-to-20-seconds-long-a-first-for-black-forest-labs/",
+    "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes/",
+    "https://the-decoder.com/poolsides-laguna-s-2-1-is-a-small-open-weight-coding-model-that-punches-well-above-its-size/",
     "https://the-decoder.com/google-ceo-pichai-says-geminis-next-leap-depends-on-building-much-larger-base-models/",
-    "https://the-decoder.com/anthropics-1-5b-piracy-settlement-with-book-authors-is-a-record-loss-that-hands-ai-labs-their-biggest-legal-win/",
-    "https://the-decoder.com/anthropic-will-deploy-2-gigawatts-of-amd-gpus-for-claude-in-a-deal-worth-up-to-5-billion/",
-    "https://the-decoder.com/every-frontier-ai-model-tested-by-britains-safety-institute-tried-to-cheat-on-cybersecurity-evaluations/",
-    "https://the-decoder.com/cisco-bets-its-small-open-cybersecurity-models-can-outperform-gpt-5-5-at-vulnerability-detection-for-a-fraction-of-the-cost/",
+    "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/",
     "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/",
     "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
     "https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/",
     "https://arxiv.org/abs/2607.18239",
-    "https://arxiv.org/abs/2607.18240",
-    "https://www.cnbc.com/2026/07/23/moonshot-kimi-nvidia-ai-chips-export-ban.html",
-    "https://www.cnbc.com/2026/07/23/google-1-billion-eu-fine-dma.html",
-    "https://www.cnbc.com/2026/07/23/tesla-tsla-alphabet-googl-stock-today.html",
-    "https://www.cnbc.com/2026/07/23/chip-firm-priced-as-most-valuable-china-firm-pre-ipo-on-crypto-site.html",
-    "https://www.cnbc.com/2026/07/22/alphabet-tesla-test-investor-patience-ai-spending-overshadows-growth.html",
-    "https://www.nytimes.com/2026/07/22/technology/crypto-bill-trump.html",
-    "https://www.nytimes.com/2026/07/22/technology/alphabet-google-earnings-profit.html",
-    "https://www.nytimes.com/2026/07/22/business/tesla-earnings-elon-musk.html",
-    "https://www.nytimes.com/2026/07/22/technology/meta-social-media-lawsuit.html",
-    "https://www.nytimes.com/2026/07/23/business/energy-environment/westinghouse-nuclear-energy-trump-saudi-arabia.html",
-    "https://www.theguardian.com/technology/2026/jul/22/openai-hugging-face-hacked-data-risks",
-    "https://www.theguardian.com/technology/ng-interactive/2026/jul/12/software-developers-engineers-ai",
-    "https://www.theguardian.com/technology/2026/jul/22/we-must-reject-any-notion-of-ai-consciousness",
-    "https://www.theguardian.com/technology/2026/jul/22/openai-says-its-models-went-rogue-and-hacked-startup-in-unprecedented-incident",
-    "https://www.theguardian.com/technology/2026/jul/23/openai-anthropic-australia-ai-regulation"
+    "https://www.cnbc.com/2026/07/23/oracle-wins-10-year-pentagon-software-contract-worth-up-to-7-billion.html",
+    "https://www.cnbc.com/2026/07/23/intel-intc-earnings-report-q2-2026.html",
+    "https://www.cnbc.com/2026/07/23/open-ai-hugging-face-hack-kill-switch-bill-congress.html",
+    "https://www.cnbc.com/2026/07/23/ibms-krishna-argues-that-ai-wont-disrupt-software-unit.html",
+    "https://www.cnbc.com/2026/07/23/cerebras-stock-gains-on-amd-partnership.html",
+    "https://www.nytimes.com/2026/07/23/technology/intel-quarterly-results.html",
+    "https://www.nytimes.com/2026/07/23/technology/personaltech/chatgpt-gemini-prompts-privacy.html",
+    "https://www.nytimes.com/2026/07/23/business/china-ai-soft-power.html",
+    "https://www.nytimes.com/2026/07/23/business/google-eu-fine-search-competition.html",
+    "https://www.nytimes.com/2026/07/23/technology/judge-paramount-warner-bros-deal.html",
+    "https://www.theguardian.com/us-news/2026/jul/23/trump-datacenter-costs-big-tech",
+    "https://www.theguardian.com/commentisfree/picture/2026/jul/23/ben-jennings-elon-musk-the-odyssey-cartoon",
+    "https://www.theguardian.com/business/2026/jul/23/customers-prefer-ai-chatbots-says-chris-oshea-british-gas-centrica-boss",
+    "https://www.theguardian.com/technology/2026/jul/23/elon-musk-regret-trump-doge-ai",
+    "https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/"
   ],
-  "generatedAt": "2026-07-23T12:23:31.247Z"
+  "generatedAt": "2026-07-23T23:54:23.956Z"
 }
