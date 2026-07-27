@@ -2,9 +2,9 @@
   "date": "2026-07-27",
   "dateFormatted": "July 27, 2026",
   "headline": {
-    "title": "Are brain waves the next unlock for physical AI?",
-    "summary": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
-    "sourceUrl": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+    "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+    "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
+    "sourceUrl": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
     "sourceName": "TechCrunch AI"
   },
   "simpleSummary": [
@@ -15,103 +15,179 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "Are brain waves the next unlock for physical AI?",
-        "summary": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
-        "content": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
+        "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+        "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
+        "content": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+        "sourceUrl": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Mon, 27 Jul 2026 00:19:14 +0000",
+        "publishedAt": "Mon, 27 Jul 2026 21:17:11 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-002",
-        "title": "Making sense of the panic over Chinese AI",
-        "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
-        "content": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+        "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+        "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+        "content": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+        "sourceUrl": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Sun, 26 Jul 2026 19:40:57 +0000",
+        "publishedAt": "Mon, 27 Jul 2026 20:19:42 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-003",
-        "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
-        "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
-        "content": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+        "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+        "summary": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
+        "content": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+        "sourceUrl": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Sun, 26 Jul 2026 16:33:13 +0000",
+        "publishedAt": "Mon, 27 Jul 2026 18:32:11 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-004",
-        "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-        "summary": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. \nThe new Open Secure AI Alliance said open tools are required to effectively defend against attacks fro",
-        "content": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. \nThe new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier models. The initiative is a direct response to mounting concerns over the safety of advanced AI systems after a rogue OpenAI model escaped containment and attacked another company during testing. That company, Hugging Face, said it was for",
+        "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+        "summary": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
+        "content": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-        "sourceName": "The Verge AI",
+        "sourceUrl": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+        "sourceName": "TechCrunch AI",
         "tags": [
-          "The Verge AI"
+          "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "2026-07-27T12:06:22.000Z",
+        "publishedAt": "Mon, 27 Jul 2026 17:28:42 +0000",
         "normalizedTags": [
-          "the verge ai"
+          "techcrunch ai"
         ]
       },
       {
         "id": "AI-005",
-        "title": "How AI is expanding what people do at work",
-        "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
-        "content": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+        "title": "Threads users can now chat with Meta AI in their DMs",
+        "summary": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
+        "content": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-        "sourceName": "OpenAI Blog",
+        "sourceUrl": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+        "sourceName": "TechCrunch AI",
         "tags": [
-          "OpenAI Blog"
+          "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Mon, 27 Jul 2026 03:30:00 GMT",
+        "publishedAt": "Mon, 27 Jul 2026 16:45:24 +0000",
         "normalizedTags": [
-          "openai blog"
+          "techcrunch ai"
         ]
       }
     ],
     "creative": [
       {
         "id": "AI-006",
+        "title": "Moonshot AI releases Kimi K3 open weights and infrastructure after shaking up the frontier model race",
+        "summary": "Moonshot AI has released Kimi K3's model weights and made parts of its infrastructure open source. The Chinese model nearly matches Western frontier models such as Fable 5 and GPT-5.6 Sol on popular benchmarks, but independent tests found major gaps ",
+        "content": "Moonshot AI has released Kimi K3's model weights and made parts of its infrastructure open source. The Chinese model nearly matches Western frontier models such as Fable 5 and GPT-5.6 Sol on popular benchmarks, but independent tests found major gaps in cyber and math performance, possibly pointing to distillation.\nThe article Moonshot AI releases Kimi K3 open weights and infrastructure after shaking up the frontier model race appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/moonshot-ai-releases-kimi-k3-open-weights-and-infrastructure-after-shaking-up-the-frontier-model-race/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 27 Jul 2026 19:35:08 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-007",
+        "title": "OpenAI says more workers are using ChatGPT to do other people's jobs",
+        "summary": "OpenAI analyzed over 800,000 work-related ChatGPT messages and found that 43.5 percent of job-specific queries involve tasks from other professions. The company calls this \"task crossover.\" The trend is most pronounced at small businesses, where user",
+        "content": "OpenAI analyzed over 800,000 work-related ChatGPT messages and found that 43.5 percent of job-specific queries involve tasks from other professions. The company calls this \"task crossover.\" The trend is most pronounced at small businesses, where users increasingly handle specialized work without dedicated experts.\nThe article OpenAI says more workers are using ChatGPT to do other people's jobs appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 27 Jul 2026 19:08:51 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-008",
+        "title": "Microsoft launches its own cybersecurity model MAI-Cyber-1-Flash but still depends on OpenAI for the toughest tasks",
+        "summary": "Microsoft introduces MAI-Cyber-1-Flash, a compact security model that scores 96 percent on the CyberGym benchmark when embedded in its MDASH multi-agent system. Microsoft says costs should drop by 50 percent compared to pure frontier models, since on",
+        "content": "Microsoft introduces MAI-Cyber-1-Flash, a compact security model that scores 96 percent on the CyberGym benchmark when embedded in its MDASH multi-agent system. Microsoft says costs should drop by 50 percent compared to pure frontier models, since only tough cases get passed to GPT-5.4. For complex reasoning, Microsoft still relies on OpenAI.\nThe article Microsoft launches its own cybersecurity model MAI-Cyber-1-Flash but still depends on OpenAI for the toughest tasks appeared first on The Decod",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/microsoft-launches-its-own-cybersecurity-model-mai-cyber-1-flash-but-still-depends-on-openai-for-the-toughest-tasks/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 27 Jul 2026 18:50:07 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-009",
+        "title": "Delhi High Court hands OpenAI a win by rejecting major Indian news agency's copyright injunction",
+        "summary": "The Delhi High Court has handed OpenAI a major win in its copyright fight with news agency ANI. For the first time, a court has classified AI training as private use. ANI undermined its own case by citing articles published after the models were trai",
+        "content": "The Delhi High Court has handed OpenAI a major win in its copyright fight with news agency ANI. For the first time, a court has classified AI training as private use. ANI undermined its own case by citing articles published after the models were trained. The main trial is still pending.\nThe article Delhi High Court hands OpenAI a win by rejecting major Indian news agency's copyright injunction appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/delhi-high-court-hands-openai-a-win-by-rejecting-major-indian-news-agencys-copyright-injunction/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 27 Jul 2026 17:55:24 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-010",
         "title": "METR introduces a new metric to calculate exactly when AI agents become more expensive than humans",
         "summary": "METR's new metric, the \"expenditure horizon,\" puts a dollar figure on how cost-effective AI agents are at solving problems. Early results on the NanoGPT speedrun are underwhelming, the metric has blind spots, and the newest generation of models could",
         "content": "METR's new metric, the \"expenditure horizon,\" puts a dollar figure on how cost-effective AI agents are at solving problems. Early results on the NanoGPT speedrun are underwhelming, the metric has blind spots, and the newest generation of models could change the picture.\nThe article METR introduces a new metric to calculate exactly when AI agents become more expensive than humans appeared first on The Decoder.",
@@ -128,87 +204,49 @@
         "normalizedTags": [
           "the decoder"
         ]
-      },
-      {
-        "id": "AI-007",
-        "title": "Shared Claude chats were reportedly showing up in search engines",
-        "summary": "Shared conversations with Anthropic's Claude chatbot briefly appeared in Google search results because the pages lacked a noindex tag. Users said some chats contained crypto keys and legal questions. OpenAI made the same mistake last year.\nThe articl",
-        "content": "Shared conversations with Anthropic's Claude chatbot briefly appeared in Google search results because the pages lacked a noindex tag. Users said some chats contained crypto keys and legal questions. OpenAI made the same mistake last year.\nThe article Shared Claude chats were reportedly showing up in search engines appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/shared-claude-chats-were-reportedly-showing-up-in-search-engines/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 27 Jul 2026 07:51:16 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
-      },
-      {
-        "id": "AI-008",
-        "title": "Cursor's agent swarm suggests cheaper models can handle most coding when frontier models plan the work",
-        "summary": "Cursor asked its upgraded agent swarm and its predecessor to rebuild SQLite in Rust using only the documentation, with no source code or internet access. Every configuration of the new system, which separates planners from workers, eventually scored ",
-        "content": "Cursor asked its upgraded agent swarm and its predecessor to rebuild SQLite in Rust using only the documentation, with no source code or internet access. Every configuration of the new system, which separates planners from workers, eventually scored 100 percent on the test suite. The old swarm choked on merge conflicts of its own making.\nThe article Cursor's agent swarm suggests cheaper models can handle most coding when frontier models plan the work appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/cursors-agent-swarm-suggests-cheaper-models-can-handle-most-coding-when-frontier-models-plan-the-work/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Sun, 26 Jul 2026 15:09:11 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
-      },
-      {
-        "id": "AI-009",
-        "title": " These bizarre pet ads are giving me the creeps ",
-        "summary": "Mousoudi Pet Shop has an unconventional approach to PSAs.",
-        "content": "Mousoudi Pet Shop has an unconventional approach to PSAs.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.creativebloq.com/design/advertising/these-bizarre-pet-ads-are-giving-me-the-creeps",
-        "sourceName": "Creative Bloq",
-        "tags": [
-          "Creative Bloq"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 27 Jul 2026 13:00:00 +0000",
-        "normalizedTags": [
-          "creative bloq"
-        ]
-      },
-      {
-        "id": "AI-010",
-        "title": " Seagate One Touch 24TB review: a smart box that fixes every artist's biggest problem ",
-        "summary": "Huge storage without the desktop clutter.",
-        "content": "Huge storage without the desktop clutter.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.creativebloq.com/tech/seagate-one-touch-24tb-review-a-smart-box-that-fixes-every-artists-biggest-problem",
-        "sourceName": "Creative Bloq",
-        "tags": [
-          "Creative Bloq"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 27 Jul 2026 12:00:00 +0000",
-        "normalizedTags": [
-          "creative bloq"
-        ]
       }
     ],
     "research": [
       {
         "id": "AI-011",
+        "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before. ",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the compute",
+        "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, was the first time I got…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 27 Jul 2026 18:00:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-012",
+        "title": "How lasers could help provide fuel for nuclear reactors",
+        "summary": "Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a now-closed nuclear enrichment facility. Lasers could help get it out. A company called Global Laser En",
+        "content": "Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a now-closed nuclear enrichment facility. Lasers could help get it out. A company called Global Laser Enrichment (GLE) is looking to reprocess this old material with a new technology called laser…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 27 Jul 2026 14:24:42 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-013",
         "title": "The Download: lasers for nuclear fuel, and organ preservation advances",
         "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How lasers could help provide fuel for nuclear reactors  Nuclear power provides about 9% of global electricity t",
         "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How lasers could help provide fuel for nuclear reactors  Nuclear power provides about 9% of global electricity today, and that fraction could tick up as countries look to build new reactors.…",
@@ -227,7 +265,7 @@
         ]
       },
       {
-        "id": "AI-012",
+        "id": "AI-014",
         "title": "The path to artificial superintelligence",
         "summary": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectiv",
         "content": "Imagine a healthcare system made up of multiple AI agents: one that manages symptom assessment, another scheduling, a third insurance, and a fourth pharmacy. Each is an expert in its domain. But they all have their own distinct knowledge and objectives. Today they can exchange data, but they are not yet able to actually coordinate…",
@@ -246,7 +284,7 @@
         ]
       },
       {
-        "id": "AI-013",
+        "id": "AI-015",
         "title": "Closing the data loop in AI-driven drug discovery",
         "summary": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomeno",
         "content": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law. Today, bringing a new drug to market takes an average of 10-15 years and costs…",
@@ -263,120 +301,101 @@
         "normalizedTags": [
           "mit tech review"
         ]
-      },
-      {
-        "id": "AI-014",
-        "title": "Building the enterprise environment for agentic AI",
-        "summary": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built ",
-        "content": "For the enterprise, the promise of agentic AI is much more than just a better chatbot. It is software agents that execute business tasks end-to-end across people, business workflows, data, and systems. The platform best-suited to run agents is built with proper CPU capacity, resilient data access, policy-aware tool use, observability, memory management, and the…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 27 Jul 2026 11:32:58 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-015",
-        "title": "FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills",
-        "summary": "arXiv:2607.21596v1 Announce Type: new \nAbstract: Large language model agents increasingly solve complex tasks by constructing inference-time workflows that combine reasoning, tool use, and code execution. While such workflows enable flexible problem ",
-        "content": "arXiv:2607.21596v1 Announce Type: new \nAbstract: Large language model agents increasingly solve complex tasks by constructing inference-time workflows that combine reasoning, tool use, and code execution. While such workflows enable flexible problem solving, the useful procedures discovered during execution are often transient: they help solve the current task but are not retained in a form that can systematically benefit future tasks. We present FlowEvo, a training-free framework that compiles ",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://arxiv.org/abs/2607.21596",
-        "sourceName": "ArXiv CS.AI",
-        "tags": [
-          "ArXiv CS.AI"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 27 Jul 2026 00:00:00 -0400",
-        "normalizedTags": [
-          "arxiv cs.ai"
-        ]
       }
     ],
     "applications": [],
     "business": [
       {
         "id": "AI-016",
-        "title": "Oil prices cool, AI's 'distillation' debate, Ford's 'Nike shoe drop' and more in Morning Squawk",
-        "summary": "Here are five key things investors need to know to start the trading day.",
-        "content": "Here are five key things investors need to know to start the trading day.",
+        "title": "Microsoft touts cost-saving AI model for cybersecurity",
+        "summary": "Microsoft says that when integrated with OpenAI's GPT-5.4, its new cybersecurity model can beat Anthropic's new Mythos 5.",
+        "content": "Microsoft says that when integrated with OpenAI's GPT-5.4, its new cybersecurity model can beat Anthropic's new Mythos 5.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/07/27/5-things-to-know-before-the-stock-market-opens.html",
+        "sourceUrl": "https://www.cnbc.com/2026/07/27/microsoft-touts-cost-saving-ai-model-for-cybersecurity.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Mon, 27 Jul 2026 12:34:48 GMT",
+        "publishedAt": "Mon, 27 Jul 2026 23:46:25 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-017",
-        "title": "Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues",
-        "summary": "Microsoft, SpaceX, Palantir, alongside dozens of other tech companies from the U.S. and Europe, have joined the Open Secure AI Alliance.",
-        "content": "Microsoft, SpaceX, Palantir, alongside dozens of other tech companies from the U.S. and Europe, have joined the Open Secure AI Alliance.",
+        "title": "Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models ",
+        "summary": "Critics have questioned why Anthropic didn't sign an industry letter last week in support of open-weight models.",
+        "content": "Critics have questioned why Anthropic didn't sign an industry letter last week in support of open-weight models.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/07/27/nvidia-ai-initiative-openai-cyber-attack.html",
+        "sourceUrl": "https://www.cnbc.com/2026/07/27/anthropic-ceo-dario-amodei-isnt-advocating-open-weight-model-ban.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Mon, 27 Jul 2026 11:32:45 GMT",
+        "publishedAt": "Mon, 27 Jul 2026 23:43:50 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-018",
-        "title": "Chipmaker CXMT’s 466% market debut surge makes it the most valuable China-listed company",
-        "summary": "The Hefei-based company raised 57.92 billion yuan ($8.6 billion) after pricing its IPO at 8.66 yuan per share.",
-        "content": "The Hefei-based company raised 57.92 billion yuan ($8.6 billion) after pricing its IPO at 8.66 yuan per share.",
+        "title": "Jim Cramer issues a warning to investors trading with borrowed money",
+        "summary": "\"If you're borrowing money to buy something related to the data center, then tomorrow morning, 9:30 a.m., sell it no matter what,\" said CNBC's Jim Cramer.",
+        "content": "\"If you're borrowing money to buy something related to the data center, then tomorrow morning, 9:30 a.m., sell it no matter what,\" said CNBC's Jim Cramer.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/07/27/cxmt-china-market-debut-chipmaker-ipo.html",
+        "sourceUrl": "https://www.cnbc.com/2026/07/27/jim-cramer-warning-investors-trading-with-borrowed-money.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Mon, 27 Jul 2026 08:03:51 GMT",
+        "publishedAt": "Mon, 27 Jul 2026 23:00:02 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-019",
-        "title": "Finland’s radical answer to renewable energy’s biggest headache: The world’s largest sand battery",
-        "summary": "A small Finnish town has turned to the world's largest commercial sand battery to tackle a major hurdle in the energy transition: intermittency.",
-        "content": "A small Finnish town has turned to the world's largest commercial sand battery to tackle a major hurdle in the energy transition: intermittency.",
+        "title": "Jim Cramer warns AI's circular financing frenzy echoes the dot-com bubble",
+        "summary": "CNBC's Jim Cramer said reports of Nvidia backing OpenAI's data center expansion revived memories of the financing arrangements that preceded the dot-com crash.",
+        "content": "CNBC's Jim Cramer said reports of Nvidia backing OpenAI's data center expansion revived memories of the financing arrangements that preceded the dot-com crash.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/07/25/finland-sand-battery-renewable-energy-storage.html",
+        "sourceUrl": "https://www.cnbc.com/2026/07/27/jim-cramer-warns-ai-circular-financing-echoes-dot-com-bubble.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Mon, 27 Jul 2026 08:46:51 GMT",
+        "publishedAt": "Mon, 27 Jul 2026 22:20:01 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-020",
+        "title": "Apple ends day as world's most valuable company, passing Nvidia",
+        "summary": "Nvidia had held the top spot as the most valuable company since June 2025, when it took the crown from Microsoft.",
+        "content": "Nvidia had held the top spot as the most valuable company since June 2025, when it took the crown from Microsoft.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/07/27/apple-most-valuable-company-nvidia.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 27 Jul 2026 21:12:26 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
@@ -384,7 +403,7 @@
     ],
     "policy": [
       {
-        "id": "AI-020",
+        "id": "AI-021",
         "title": "How Meta Got Everything It Wanted in a Secret Louisiana Data Center Deal",
         "summary": "A Times examination details how the Silicon Valley giant used private talks with local officials to start a project big enough to cover nearly six square miles.",
         "content": "A Times examination details how the Silicon Valley giant used private talks with local officials to start a project big enough to cover nearly six square miles.",
@@ -397,7 +416,83 @@
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Mon, 27 Jul 2026 09:00:20 +0000",
+        "publishedAt": "Mon, 27 Jul 2026 19:54:45 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-022",
+        "title": "5 Things to Know About Meta’s Giant Data Center in Louisiana",
+        "summary": "The road to the giant project was paved with secret meetings and an ever-expanding building plan.",
+        "content": "The road to the giant project was paved with secret meetings and an ever-expanding building plan.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/07/27/business/meta-data-center-louisiana-takeaways.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 27 Jul 2026 14:13:22 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-023",
+        "title": "Apple Regains Spot Over Nvidia as Most Valuable Public Company",
+        "summary": "The company slipped by the chipmaker Nvidia, amid growing concern about costs associated with the artificial intelligence boom.",
+        "content": "The company slipped by the chipmaker Nvidia, amid growing concern about costs associated with the artificial intelligence boom.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/07/27/technology/apple-valuation.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 27 Jul 2026 20:34:32 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-024",
+        "title": "Microsoft Unveils A.I. Cybersecurity Tools",
+        "summary": "As some executives fret over the safety of new A.I. systems, protecting against them could be a big business for tech companies.",
+        "content": "As some executives fret over the safety of new A.I. systems, protecting against them could be a big business for tech companies.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/07/27/technology/microsoft-unveils-ai-cybersecurity-tools.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 27 Jul 2026 16:51:15 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-025",
+        "title": "Nvidia Forms Alliance to Back Open-Source A.I. Amid Debate Over Safety",
+        "summary": "The company is continuing to back A.I. systems that can be freely used by others amid a continuing debate over the use of Chinese-made technology.",
+        "content": "The company is continuing to back A.I. systems that can be freely used by others amid a continuing debate over the use of Chinese-made technology.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/07/27/technology/nvidia-open-source-ai.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 27 Jul 2026 18:32:34 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
@@ -406,7 +501,7 @@
     "concerns": [],
     "culture": [
       {
-        "id": "AI-021",
+        "id": "AI-026",
         "title": "Misleading AI-generated doctors pose ‘huge danger to public safety’",
         "summary": "Research shows AI accounts are gaining millions of views on TikTok by spreading dubious health advice\nMisleading health claims online pose a “huge danger to public safety”, experts have warned, after research has shown that AI-generated doctors are g",
         "content": "Research shows AI accounts are gaining millions of views on TikTok by spreading dubious health advice\nMisleading health claims online pose a “huge danger to public safety”, experts have warned, after research has shown that AI-generated doctors are gaining millions of views on TikTok by spreading dubious health advice.\nThe British Medical Association council deputy chair, Dr Emma Runswick, flagged the risks posed by AI accounts that “peddle medical myths and promote so-called miracle cures”.\n Co",
@@ -425,10 +520,29 @@
         ]
       },
       {
-        "id": "AI-022",
+        "id": "AI-027",
+        "title": "No, Centrica, customers don’t prefer bots to humans | Letter",
+        "summary": "Charles MacKinnon disagrees with the British Gas owner’s justification for cutting 1,300 jobs\nAccording to Centrica’s boss, Chris O’Shea, most people using British Gas prefer to talk to a chatbot rather than a person (Customers prefer AI chatbots, sa",
+        "content": "Charles MacKinnon disagrees with the British Gas owner’s justification for cutting 1,300 jobs\nAccording to Centrica’s boss, Chris O’Shea, most people using British Gas prefer to talk to a chatbot rather than a person (Customers prefer AI chatbots, says British Gas owner as 1,300 call centre and back office jobs axed, 23 July).\nHe says that 90% of his customers prefer to use digital channels than speak to a person in the first instance, and that the number of customer calls has fallen by 20%. Wel",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/business/2026/jul/27/no-centrica-customers-dont-prefer-bots-to-humans",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 27 Jul 2026 16:47:22 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-028",
         "title": "Boss of startup hacked by rogue OpenAI agent urges ‘radical transparency’ in investigation",
-        "summary": "Artificial intelligence firm should provide $100m for cyber defences, says Hugging Face CEO\n\nBusiness live – latest updates\n\nThe boss of the startup hacked by an OpenAI agent has called for the investigation into the incident to show “radical transpa",
-        "content": "Artificial intelligence firm should provide $100m for cyber defences, says Hugging Face CEO\n\nBusiness live – latest updates\n\nThe boss of the startup hacked by an OpenAI agent has called for the investigation into the incident to show “radical transparency”.\nClément Delangue, the chief executive of Hugging Face, said the “unprecedented” attack on his business required a similar response.\n Continue reading...",
+        "summary": "Artificial intelligence firm should provide $100m for cyber defences, says Hugging Face CEO\nThe boss of the startup hacked by an OpenAI agent has called for the investigation into the incident to show “radical transparency”.\nClément Delangue, the chi",
+        "content": "Artificial intelligence firm should provide $100m for cyber defences, says Hugging Face CEO\nThe boss of the startup hacked by an OpenAI agent has called for the investigation into the incident to show “radical transparency”.\nClément Delangue, the chief executive of Hugging Face, said the “unprecedented” attack on his business required a similar response.\n Continue reading...",
         "keyTakeaways": [],
         "whyItMatters": "",
         "sourceUrl": "https://www.theguardian.com/technology/2026/jul/27/startup-hacked-by-rogue-openai-agent-hugging-face-artificial-intelligence",
@@ -444,7 +558,7 @@
         ]
       },
       {
-        "id": "AI-023",
+        "id": "AI-029",
         "title": "AI can fuel biological weapons. We must harness its power for defense | Annie Jacobsen",
         "summary": "The offensive potential is no longer theoretical. We need to develop systems to strengthen public health as quickly as AI is accelerating biological design\nAs artificial intelligence rapidly transforms the biological sciences, it is pushing the futur",
         "content": "The offensive potential is no longer theoretical. We need to develop systems to strengthen public health as quickly as AI is accelerating biological design\nAs artificial intelligence rapidly transforms the biological sciences, it is pushing the future of biology in two opposing directions. AI can help bad actors generate recipes for biological weapons with just a few keystrokes and computational prompts. At the same time, AI can track disease outbreaks and deliver critical public health informat",
@@ -463,7 +577,7 @@
         ]
       },
       {
-        "id": "AI-024",
+        "id": "AI-030",
         "title": "What If We Got AI Right? by Eleanor Drage review – avoiding apocalypse",
         "summary": "The academic’s ambitious guide to the ethics of tech falls short of its promise to provide meaningful answers\nThe AI ethicist Eleanor Drage believes that to thrive alongside artificial intelligence, humans need to recognise AI’s “humanity”. She means",
         "content": "The academic’s ambitious guide to the ethics of tech falls short of its promise to provide meaningful answers\nThe AI ethicist Eleanor Drage believes that to thrive alongside artificial intelligence, humans need to recognise AI’s “humanity”. She means that while we often speak of AI as though it were some mystical, formless thing, it is the product of hours of human labour, in silicon and quartz mines, microchip factories and data labelling centres. If citizens want to wrest power from the tech c",
@@ -480,25 +594,6 @@
         "normalizedTags": [
           "the guardian ai"
         ]
-      },
-      {
-        "id": "AI-025",
-        "title": "When the AI bubble bursts, what will Australia do with the tools it built? One man thinks he has the answer",
-        "summary": "Journalist and author Cory Doctorow is coming to Australia to spread his message – humans will take their jobs back\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nWhen the AI bubb",
-        "content": "Journalist and author Cory Doctorow is coming to Australia to spread his message – humans will take their jobs back\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nWhen the AI bubble bursts, executives who enthusiastically replaced their staff with AI tools will learn that it takes a “really long time” to replace those lost skills, says Cory Doctorow, a science fiction author and journalist.\nBut those in creative fields should",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/australia-news/2026/jul/27/when-the-ai-bubble-bursts-what-will-australia-do-with-the-tools-it-built-one-man-thinks-he-has-the-answer",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Sun, 26 Jul 2026 15:00:16 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
       }
     ]
   },
@@ -508,31 +603,36 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-    "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-    "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-    "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-    "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+    "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+    "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+    "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+    "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+    "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+    "https://the-decoder.com/moonshot-ai-releases-kimi-k3-open-weights-and-infrastructure-after-shaking-up-the-frontier-model-race/",
+    "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs/",
+    "https://the-decoder.com/microsoft-launches-its-own-cybersecurity-model-mai-cyber-1-flash-but-still-depends-on-openai-for-the-toughest-tasks/",
+    "https://the-decoder.com/delhi-high-court-hands-openai-a-win-by-rejecting-major-indian-news-agencys-copyright-injunction/",
     "https://the-decoder.com/metr-introduces-a-new-metric-to-calculate-exactly-when-ai-agents-become-more-expensive-than-humans/",
-    "https://the-decoder.com/shared-claude-chats-were-reportedly-showing-up-in-search-engines/",
-    "https://the-decoder.com/cursors-agent-swarm-suggests-cheaper-models-can-handle-most-coding-when-frontier-models-plan-the-work/",
-    "https://www.creativebloq.com/design/advertising/these-bizarre-pet-ads-are-giving-me-the-creeps",
-    "https://www.creativebloq.com/tech/seagate-one-touch-24tb-review-a-smart-box-that-fixes-every-artists-biggest-problem",
+    "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+    "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/",
     "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/",
     "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
     "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
-    "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
-    "https://arxiv.org/abs/2607.21596",
-    "https://www.cnbc.com/2026/07/27/5-things-to-know-before-the-stock-market-opens.html",
-    "https://www.cnbc.com/2026/07/27/nvidia-ai-initiative-openai-cyber-attack.html",
-    "https://www.cnbc.com/2026/07/27/cxmt-china-market-debut-chipmaker-ipo.html",
-    "https://www.cnbc.com/2026/07/25/finland-sand-battery-renewable-energy-storage.html",
+    "https://www.cnbc.com/2026/07/27/microsoft-touts-cost-saving-ai-model-for-cybersecurity.html",
+    "https://www.cnbc.com/2026/07/27/anthropic-ceo-dario-amodei-isnt-advocating-open-weight-model-ban.html",
+    "https://www.cnbc.com/2026/07/27/jim-cramer-warning-investors-trading-with-borrowed-money.html",
+    "https://www.cnbc.com/2026/07/27/jim-cramer-warns-ai-circular-financing-echoes-dot-com-bubble.html",
+    "https://www.cnbc.com/2026/07/27/apple-most-valuable-company-nvidia.html",
     "https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html",
+    "https://www.nytimes.com/2026/07/27/business/meta-data-center-louisiana-takeaways.html",
+    "https://www.nytimes.com/2026/07/27/technology/apple-valuation.html",
+    "https://www.nytimes.com/2026/07/27/technology/microsoft-unveils-ai-cybersecurity-tools.html",
+    "https://www.nytimes.com/2026/07/27/technology/nvidia-open-source-ai.html",
     "https://www.theguardian.com/technology/2026/jul/27/misleading-ai-generated-doctors-public-safety-danger-tiktok",
+    "https://www.theguardian.com/business/2026/jul/27/no-centrica-customers-dont-prefer-bots-to-humans",
     "https://www.theguardian.com/technology/2026/jul/27/startup-hacked-by-rogue-openai-agent-hugging-face-artificial-intelligence",
     "https://www.theguardian.com/commentisfree/2026/jul/27/ai-biological-weapons-defense",
-    "https://www.theguardian.com/books/2026/jul/27/what-if-we-got-ai-right-by-eleanor-drage-review-avoiding-apocalypse",
-    "https://www.theguardian.com/australia-news/2026/jul/27/when-the-ai-bubble-bursts-what-will-australia-do-with-the-tools-it-built-one-man-thinks-he-has-the-answer"
+    "https://www.theguardian.com/books/2026/jul/27/what-if-we-got-ai-right-by-eleanor-drage-review-avoiding-apocalypse"
   ],
-  "generatedAt": "2026-07-27T13:38:54.589Z"
+  "generatedAt": "2026-07-27T23:57:32.932Z"
 }
