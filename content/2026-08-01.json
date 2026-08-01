@@ -2,9 +2,9 @@
   "date": "2026-08-01",
   "dateFormatted": "August 1, 2026",
   "headline": {
-    "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-    "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
-    "sourceUrl": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+    "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+    "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+    "sourceUrl": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
     "sourceName": "TechCrunch AI"
   },
   "simpleSummary": [
@@ -15,319 +15,203 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-        "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
-        "content": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+        "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+        "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+        "content": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+        "sourceUrl": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Fri, 31 Jul 2026 22:47:26 +0000",
+        "publishedAt": "Sat, 01 Aug 2026 20:26:04 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-002",
-        "title": "India is starting to pay for apps, not just download them",
-        "summary": "India's app market generated a record $345 million in Q2.",
-        "content": "India's app market generated a record $345 million in Q2.",
+        "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+        "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+        "content": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
+        "sourceUrl": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Fri, 31 Jul 2026 21:07:45 +0000",
+        "publishedAt": "Sat, 01 Aug 2026 19:45:45 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-003",
-        "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-        "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
-        "content": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
+        "title": "Sam Altman is still making the case for parenting via ChatGPT",
+        "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
+        "content": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+        "sourceUrl": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Fri, 31 Jul 2026 19:47:28 +0000",
+        "publishedAt": "Sat, 01 Aug 2026 17:07:34 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-004",
-        "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-        "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a bre",
-        "content": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face — though as Equity’s hosts point out, sloppy security seems to have […]",
+        "title": "This $9 key physically locks your most addictive apps",
+        "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
+        "content": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+        "sourceUrl": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Fri, 31 Jul 2026 17:26:32 +0000",
+        "publishedAt": "Sat, 01 Aug 2026 15:58:17 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-005",
-        "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
-        "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
-        "content": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
+        "title": "Is this Billboard Hot 100 hit AI slop?",
+        "summary": "That cover art is almost certainly AI, too. | Image: Fenix Flexin\t\n\nFenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 o",
+        "content": "That cover art is almost certainly AI, too. | Image: Fenix Flexin\t\n\nFenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Hot 100. Almost immediately, though, questions were raised about the song's origins, with many speculating that it was largely, if not entirely, generated by AI. Fenix has denied those accusations, but done little to dispel them.\nPart",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
-        "sourceName": "TechCrunch AI",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
+        "sourceName": "The Verge AI",
         "tags": [
-          "TechCrunch AI"
+          "The Verge AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Fri, 31 Jul 2026 16:49:08 +0000",
+        "publishedAt": "2026-08-01T18:20:00.000Z",
         "normalizedTags": [
-          "techcrunch ai"
+          "the verge ai"
         ]
       }
     ],
     "creative": [
       {
         "id": "AI-006",
-        "title": " Why every web page now needs to work like a homepage ",
-        "summary": "Visitors enter anywhere, so every page must orient them.",
-        "content": "Visitors enter anywhere, so every page must orient them.",
+        "title": "AI keeps cracking unsolved math problems, and mathematicians have mixed feelings",
+        "summary": "OpenAI's refutation of the Unit Distance Conjecture has sparked a wave of AI-assisted advances in mathematics. Fields Medal winner Timothy Gowers says GPT 5.6 Pro solved two problems he had spent considerable time working on, each on its first attemp",
+        "content": "OpenAI's refutation of the Unit Distance Conjecture has sparked a wave of AI-assisted advances in mathematics. Fields Medal winner Timothy Gowers says GPT 5.6 Pro solved two problems he had spent considerable time working on, each on its first attempt. He warns of the \"possible destruction of mathematical culture\" if mathematicians stop building the expertise needed to understand such results. Others simply see AI as a productivity tool.\nThe article AI keeps cracking unsolved math problems, and ",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.creativebloq.com/web-design/why-every-web-page-now-needs-to-work-like-a-homepage",
-        "sourceName": "Creative Bloq",
+        "sourceUrl": "https://the-decoder.com/ai-keeps-cracking-unsolved-math-problems-and-mathematicians-have-mixed-feelings/",
+        "sourceName": "The Decoder",
         "tags": [
-          "Creative Bloq"
+          "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Sat, 01 Aug 2026 11:00:00 +0000",
+        "publishedAt": "Sat, 01 Aug 2026 16:01:31 +0000",
         "normalizedTags": [
-          "creative bloq"
+          "the decoder"
         ]
       },
       {
         "id": "AI-007",
-        "title": " The Lego x Olivia Rodrigo collab is full of secrets ",
-        "summary": "And it’s officially available to buy today.",
-        "content": "And it’s officially available to buy today.",
+        "title": "AI coding agents can modernize research software but can't judge if the science is right",
+        "summary": "A field report from OpenAI and academic partners shows coding agents can modernize neglected research software, with speedups of up to 60x. But the systems are \"eloquent, convincing, and confidently wrong in ways that are easy to miss,\" participants ",
+        "content": "A field report from OpenAI and academic partners shows coding agents can modernize neglected research software, with speedups of up to 60x. But the systems are \"eloquent, convincing, and confidently wrong in ways that are easy to miss,\" participants say. The effort shifts from writing code to the time-consuming work of verifying scientific correctness.\nThe article AI coding agents can modernize research software but can't judge if the science is right appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.creativebloq.com/entertainment/toys-collectibles/the-lego-x-olivia-rodrigo-collab-is-full-of-secrets",
-        "sourceName": "Creative Bloq",
+        "sourceUrl": "https://the-decoder.com/ai-coding-agents-can-modernize-research-software-but-cant-judge-if-the-science-is-right/",
+        "sourceName": "The Decoder",
         "tags": [
-          "Creative Bloq"
+          "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Sat, 01 Aug 2026 08:00:00 +0000",
+        "publishedAt": "Sat, 01 Aug 2026 14:26:28 +0000",
         "normalizedTags": [
-          "creative bloq"
+          "the decoder"
         ]
       },
       {
         "id": "AI-008",
-        "title": " Spider-Man: Brand New Day proves the hero’s greatest power has always been reinvention ",
-        "summary": "For 25 years, Spider-Man movies have mastered the art of making a familiar hero feel fresh again.",
-        "content": "For 25 years, Spider-Man movies have mastered the art of making a familiar hero feel fresh again.",
+        "title": "A security researcher built a self-spreading worm that hides inside Word docs and hijacks Microsoft Copilot",
+        "summary": "A security researcher has demonstrated a worm-like attack on Microsoft Copilot for Word: invisible prompt injections hidden in documents spread automatically into new files every time they're reused. Microsoft confirmed the issue but failed to fix it",
+        "content": "A security researcher has demonstrated a worm-like attack on Microsoft Copilot for Word: invisible prompt injections hidden in documents spread automatically into new files every time they're reused. Microsoft confirmed the issue but failed to fix it after 144 days and two attempts.\nThe article A security researcher built a self-spreading worm that hides inside Word docs and hijacks Microsoft Copilot appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.creativebloq.com/design/branding/spider-man-brand-new-day-proves-the-heros-greatest-power-has-always-been-reinvention",
-        "sourceName": "Creative Bloq",
+        "sourceUrl": "https://the-decoder.com/a-security-researcher-built-a-self-spreading-worm-that-hides-inside-word-docs-and-hijacks-microsoft-copilot/",
+        "sourceName": "The Decoder",
         "tags": [
-          "Creative Bloq"
+          "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Fri, 31 Jul 2026 16:00:00 +0000",
+        "publishedAt": "Sat, 01 Aug 2026 13:51:57 +0000",
         "normalizedTags": [
-          "creative bloq"
+          "the decoder"
         ]
       },
       {
         "id": "AI-009",
-        "title": " Bethesda's new logo design brinks peak gaming nostalgia with a nod to its iconic original branding ",
-        "summary": "\"The first decent logo redesign in recent memory\".",
-        "content": "\"The first decent logo redesign in recent memory\".",
+        "title": "ByteDance's Seedance 2.5 generates 30-second video clips with built-in audio",
+        "summary": "ByteDance just shipped Seedance 2.5, an AI video model that produces video and audio together in one go. Each clip runs up to 30 seconds, three times what Google's Gemini Omni Flash puts out. Users can feed in dozens of images, videos, and audio file",
+        "content": "ByteDance just shipped Seedance 2.5, an AI video model that produces video and audio together in one go. Each clip runs up to 30 seconds, three times what Google's Gemini Omni Flash puts out. Users can feed in dozens of images, videos, and audio files as reference. For ad teams, this could kill the process of cutting together one short clip at a time.\nThe article ByteDance's Seedance 2.5 generates 30-second video clips with built-in audio appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.creativebloq.com/design/logos-icons/looks-fire-gamers-say-of-bethesdas-nostalgic-new-logo-design",
-        "sourceName": "Creative Bloq",
+        "sourceUrl": "https://the-decoder.com/bytedances-seedance-2-5-generates-30-second-video-clips-with-built-in-audio/",
+        "sourceName": "The Decoder",
         "tags": [
-          "Creative Bloq"
+          "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Fri, 31 Jul 2026 15:27:15 +0000",
+        "publishedAt": "Sat, 01 Aug 2026 13:33:41 +0000",
         "normalizedTags": [
-          "creative bloq"
+          "the decoder"
         ]
       },
       {
         "id": "AI-010",
-        "title": "Betye Saar, Simone Forti, Walter Benjamin",
-        "summary": "Your remedy against toxic people, Trump’s war against the Smithsonian, and saying goodbye to two giants of the arts.",
-        "content": "Your remedy against toxic people, Trump’s war against the Smithsonian, and saying goodbye to two giants of the arts.",
+        "title": "German court rules AI music generator Suno violated copyrights, rejects fair use defense",
+        "summary": "A Munich court ruled that AI music generator Suno violated copyrights through both training and output. The court found six songs reproducibly stored in Suno's models and rejected both Germany's text-and-data-mining exception and the US fair use defe",
+        "content": "A Munich court ruled that AI music generator Suno violated copyrights through both training and output. The court found six songs reproducibly stored in Suno's models and rejected both Germany's text-and-data-mining exception and the US fair use defense. The ruling isn't final, and several key questions remain open.\nThe article German court rules AI music generator Suno violated copyrights, rejects fair use defense appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://hyperallergic.com/betye-saar-simone-forti-walter-benjamin/",
-        "sourceName": "Hyperallergic",
+        "sourceUrl": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense/",
+        "sourceName": "The Decoder",
         "tags": [
-          "Hyperallergic"
+          "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Sat, 01 Aug 2026 10:00:32 GMT",
+        "publishedAt": "Sat, 01 Aug 2026 10:40:50 +0000",
         "normalizedTags": [
-          "hyperallergic"
+          "the decoder"
         ]
       }
     ],
-    "research": [
-      {
-        "id": "AI-011",
-        "title": "The Download: Montana’s new experimental drug rules",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward  As of this week in Montana, biotech co",
-        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Montana’s plan to become an experimental medical hub just pushed forward  As of this week in Montana, biotech companies whose drugs have been through preliminary testing—sometimes in as few as 10…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 31 Jul 2026 12:16:00 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
-      }
-    ],
+    "research": [],
     "applications": [],
-    "business": [
-      {
-        "id": "AI-012",
-        "title": "Fintech broker Clear Street offers investors pre-IPO access to $188 billion AI giant Databricks",
-        "summary": "Fintech brokerage Clear Street is launching a private markets platform, beginning with Databricks stakes, to give investors more access to late-stage startups.",
-        "content": "Fintech brokerage Clear Street is launching a private markets platform, beginning with Databricks stakes, to give investors more access to late-stage startups.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 31 Jul 2026 21:49:40 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ]
-      },
-      {
-        "id": "AI-013",
-        "title": "How Leopold Aschenbrenner built a $45 billion AI hedge fund — and lost most of it in days",
-        "summary": "Leopold Aschenbrenner, a former OpenAI researcher-turned-hedge fund manager, saw a dramatic decline this week in his AI-focused fund, Situational Awareness.",
-        "content": "Leopold Aschenbrenner, a former OpenAI researcher-turned-hedge fund manager, saw a dramatic decline this week in his AI-focused fund, Situational Awareness.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 31 Jul 2026 20:19:03 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ]
-      },
-      {
-        "id": "AI-014",
-        "title": "U.S. lawmakers request information from DoorDash on use of Chinese AI models",
-        "summary": "The food delivery company is the latest to be asked to share details of AI use by two House committee conducting a joint investigation.",
-        "content": "The food delivery company is the latest to be asked to share details of AI use by two House committee conducting a joint investigation.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/07/31/us-lawmakers-doordash-chinese-ai-models.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 31 Jul 2026 16:50:38 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ]
-      },
-      {
-        "id": "AI-015",
-        "title": "Dwindling cash and soaring memory costs: Tech's AI buildout has ballooning price tag",
-        "summary": "Amazon, Alphabet and Tesla all reported negative cash flow in the latest quarter, while Meta's cash generation plummeted by 91%.",
-        "content": "Amazon, Alphabet and Tesla all reported negative cash flow in the latest quarter, while Meta's cash generation plummeted by 91%.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/07/31/tech-earnings-cash-memory-ai.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 31 Jul 2026 19:55:13 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ]
-      },
-      {
-        "id": "AI-016",
-        "title": "Tim Cook's last dance, oil majors earnings, IPO avoidance and more in Morning Squawk",
-        "summary": "Here are five key things investors need to know to start the trading day.",
-        "content": "Here are five key things investors need to know to start the trading day.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/07/31/5-things-to-know-before-the-stock-market-opens.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 31 Jul 2026 12:37:32 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ]
-      }
-    ],
+    "business": [],
     "policy": [
       {
-        "id": "AI-017",
+        "id": "AI-011",
         "title": "Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble?",
         "summary": "Inside the 81-year-old billionaire’s risky, debt-fueled scramble to transform his data empire into an A.I. juggernaut.",
         "content": "Inside the 81-year-old billionaire’s risky, debt-fueled scramble to transform his data empire into an A.I. juggernaut.",
@@ -340,13 +224,32 @@
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Sat, 01 Aug 2026 02:27:20 +0000",
+        "publishedAt": "Sat, 01 Aug 2026 02:27:21 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
       },
       {
-        "id": "AI-018",
+        "id": "AI-012",
+        "title": "The German Auto Industry, a Pillar of the National Psyche, Is Trembling",
+        "summary": "The country’s iconic carmakers are struggling with tariffs, the growth of electric vehicles and intense competition from Chinese companies.",
+        "content": "The country’s iconic carmakers are struggling with tariffs, the growth of electric vehicles and intense competition from Chinese companies.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/07/31/business/germany-mercedes-bmw-volkswagen.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 01 Aug 2026 13:14:00 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-013",
         "title": "How the Pro-Trump Media Ecosystem Is Splintering Ahead of the Midterms",
         "summary": "Once united in support of President Trump, right-wing influencers are embroiled in feuds and losing viewers, creating a problem for Republicans in the midterm elections.",
         "content": "Once united in support of President Trump, right-wing influencers are embroiled in feuds and losing viewers, creating a problem for Republicans in the midterm elections.",
@@ -363,31 +266,50 @@
         "normalizedTags": [
           "nyt technology"
         ]
-      },
-      {
-        "id": "AI-019",
-        "title": "When A.I. Invaded ‘Heated Rivalry’ Fan Fiction, the Meltdown Was Epic",
-        "summary": "An anonymous X account posted a detailed breakdown of chatbot text in 38 popular stories inspired by the hockey romance. The fandom spiraled.",
-        "content": "An anonymous X account posted a detailed breakdown of chatbot text in 38 popular stories inspired by the hockey romance. The fandom spiraled.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/07/30/technology/ai-heated-rivalry-fan-fiction.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 31 Jul 2026 21:29:27 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
       }
     ],
     "concerns": [],
     "culture": [
       {
-        "id": "AI-020",
+        "id": "AI-014",
+        "title": "‘More than just objects’: Australian book sellers raise alarm over ‘horrific’ destruction of rare titles to feed AI",
+        "summary": "Secondhand booksellers believe they may have been caught up in the AI supply chain that sees old books scanned then destroyed\n“Sometimes books tell you more than the content,” says Tim White, as he lines up carefully dust-jacketed books and pamphlets",
+        "content": "Secondhand booksellers believe they may have been caught up in the AI supply chain that sees old books scanned then destroyed\n“Sometimes books tell you more than the content,” says Tim White, as he lines up carefully dust-jacketed books and pamphlets in plastic sleeves on temporary shelves in Melbourne University’s Wilson Hall.\nHe’s preparing his stall for this weekend’s Melbourne Rare Book Fair. For people like White, who runs independent bookshop Books for Cooks, the book as a physical object ",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/aug/02/australian-book-sellers-alarm-destruction-rare-titles-ai-supply-chain",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 01 Aug 2026 20:00:02 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-015",
+        "title": "China’s tech advances are causing chaos from Silicon Valley to the White House",
+        "summary": "New AI models, advanced robots and specialty computer chips are unsettling markets and the US tech industry\nOver the past month, a series of advancements in China’s artificial intelligence, chip manufacturing and robotics technologies have rattled fi",
+        "content": "New AI models, advanced robots and specialty computer chips are unsettling markets and the US tech industry\nOver the past month, a series of advancements in China’s artificial intelligence, chip manufacturing and robotics technologies have rattled financial markets, caused divisions among US tech moguls and left the Trump administration scrambling to respond.\nSilicon Valley has long pointed to China’s tech industry as a competitive threat and used its growth as rationale for why US firms should ",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/aug/01/china-silicon-valley-white-house",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 01 Aug 2026 12:00:53 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-016",
         "title": "If you think kids will respect a robot teacher, you have never met a kid | Dave Schilling",
         "summary": "A New York school district has paused plans to bring an android into the classroom. Is this our educational future?\nWhat’s more harrowing than sending your child to school? Maybe getting stuck on a city bus that can’t drop below 55 miles per hour or ",
         "content": "A New York school district has paused plans to bring an android into the classroom. Is this our educational future?\nWhat’s more harrowing than sending your child to school? Maybe getting stuck on a city bus that can’t drop below 55 miles per hour or it will explode, but that’s about it. Once your kid hits school age, you have to decide (if you’re lucky) between public and private education, vet the teachers, and neurotically worry about whether they’re learning enough and are socializing effecti",
@@ -406,64 +328,7 @@
         ]
       },
       {
-        "id": "AI-021",
-        "title": "$2m crime novel deal collapses amid questions over AI use",
-        "summary": "Agents withdraw Jerry Falade’s hotly anticipated debut after saying they can no longer authenticate ‘how the manuscript evolved’\nA high-profile publishing deal for a debut crime novel has collapsed after doubts emerged over whether artificial intelli",
-        "content": "Agents withdraw Jerry Falade’s hotly anticipated debut after saying they can no longer authenticate ‘how the manuscript evolved’\nA high-profile publishing deal for a debut crime novel has collapsed after doubts emerged over whether artificial intelligence played a role in writing it.\nThe hotly anticipated manuscript Call Me, I’ll Hide the Body, by Jerry Falade, was withdrawn from sale by its agent despite reportedly receiving an offer for more than $2m (£1.5m) from Minotaur, owned by Macmillan U",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/books/2026/jul/31/crime-novel-deal-collapses-questions-ai-jerry-falade-call-me-ill-hide-the-body",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 31 Jul 2026 16:45:04 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-022",
-        "title": "What does protest look like in 2026? | Fiona Katauskas",
-        "summary": "You could say we’re in a polycrisis\n\nSee more of Fiona Katauskas’s cartoons here\n\n\n Continue reading...",
-        "content": "You could say we’re in a polycrisis\n\nSee more of Fiona Katauskas’s cartoons here\n\n\n Continue reading...",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/commentisfree/picture/2026/aug/01/what-does-protest-look-like-in-2026",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 31 Jul 2026 15:00:19 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-023",
-        "title": "FTSE 100 on track for best month since first US attacks on Iran five months ago – as it happened",
-        "summary": "Live, rolling coverage as London’s biggest companies defy Middle East disruption and UK petrol prices rise to around £1.60 per litre, the highest since Donald Trump ordered renewed strikes\nThe story piquing the interest of the financial press this mo",
-        "content": "Live, rolling coverage as London’s biggest companies defy Middle East disruption and UK petrol prices rise to around £1.60 per litre, the highest since Donald Trump ordered renewed strikes\nThe story piquing the interest of the financial press this morning is that of Leopold Aschenbrenner, the AI Wunderkind (he’s German-born) who has been forced to sell off his fund in a fire sale after the AI boom ran out of steam.\nThe 24-year-old had persuaded a lot of people to give him a lot of money for a he",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/business/live/2026/jul/31/bp-sell-north-sea-ai-record-korea-kospi-stock-market-latest-news-updates",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 31 Jul 2026 14:10:52 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-024",
+        "id": "AI-017",
         "title": "7 States’ Water Systems Hit by Cyberattacks Likely Tied to Iran",
         "summary": "Plus: The FBI eyes AI-powered tech to detect future crimes, Russia charges Telegram’s founder, xAI sues to stop a state’s “nudification” ban, and the Democrats learn a lesson about getting scammed.",
         "content": "Plus: The FBI eyes AI-powered tech to detect future crimes, Russia charges Telegram’s founder, xAI sues to stop a state’s “nudification” ban, and the Democrats learn a lesson about getting scammed.",
@@ -480,6 +345,25 @@
         "normalizedTags": [
           "wired ai"
         ]
+      },
+      {
+        "id": "AI-018",
+        "title": "The OpenAI and Anthropic AI Hacking Sprees Are a Messy New Legal Frontier",
+        "summary": "Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them. But a bot?",
+        "content": "Both major AI labs’ models broke containment, escaped onto the internet, and hacked other companies. If a human had done that, the law would likely be against them. But a bot?",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
+        "sourceName": "Wired AI",
+        "tags": [
+          "Wired AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 01 Aug 2026 09:30:00 +0000",
+        "normalizedTags": [
+          "wired ai"
+        ]
       }
     ]
   },
@@ -489,30 +373,24 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-    "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
-    "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-    "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-    "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
-    "https://www.creativebloq.com/web-design/why-every-web-page-now-needs-to-work-like-a-homepage",
-    "https://www.creativebloq.com/entertainment/toys-collectibles/the-lego-x-olivia-rodrigo-collab-is-full-of-secrets",
-    "https://www.creativebloq.com/design/branding/spider-man-brand-new-day-proves-the-heros-greatest-power-has-always-been-reinvention",
-    "https://www.creativebloq.com/design/logos-icons/looks-fire-gamers-say-of-bethesdas-nostalgic-new-logo-design",
-    "https://hyperallergic.com/betye-saar-simone-forti-walter-benjamin/",
-    "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
-    "https://www.cnbc.com/2026/07/31/clear-street-pre-ipo-platform-databricks.html",
-    "https://www.cnbc.com/2026/07/31/leopold-aschenbrenner-situational-awareness-fund-fire-sale.html",
-    "https://www.cnbc.com/2026/07/31/us-lawmakers-doordash-chinese-ai-models.html",
-    "https://www.cnbc.com/2026/07/31/tech-earnings-cash-memory-ai.html",
-    "https://www.cnbc.com/2026/07/31/5-things-to-know-before-the-stock-market-opens.html",
+    "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+    "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+    "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+    "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+    "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
+    "https://the-decoder.com/ai-keeps-cracking-unsolved-math-problems-and-mathematicians-have-mixed-feelings/",
+    "https://the-decoder.com/ai-coding-agents-can-modernize-research-software-but-cant-judge-if-the-science-is-right/",
+    "https://the-decoder.com/a-security-researcher-built-a-self-spreading-worm-that-hides-inside-word-docs-and-hijacks-microsoft-copilot/",
+    "https://the-decoder.com/bytedances-seedance-2-5-generates-30-second-video-clips-with-built-in-audio/",
+    "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense/",
     "https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html",
+    "https://www.nytimes.com/2026/07/31/business/germany-mercedes-bmw-volkswagen.html",
     "https://www.nytimes.com/2026/07/31/us/politics/trump-iran-economy-media-critics.html",
-    "https://www.nytimes.com/2026/07/30/technology/ai-heated-rivalry-fan-fiction.html",
+    "https://www.theguardian.com/technology/2026/aug/02/australian-book-sellers-alarm-destruction-rare-titles-ai-supply-chain",
+    "https://www.theguardian.com/technology/2026/aug/01/china-silicon-valley-white-house",
     "https://www.theguardian.com/commentisfree/2026/aug/01/new-york-salamanca-school-robot-teacher-plan",
-    "https://www.theguardian.com/books/2026/jul/31/crime-novel-deal-collapses-questions-ai-jerry-falade-call-me-ill-hide-the-body",
-    "https://www.theguardian.com/commentisfree/picture/2026/aug/01/what-does-protest-look-like-in-2026",
-    "https://www.theguardian.com/business/live/2026/jul/31/bp-sell-north-sea-ai-record-korea-kospi-stock-market-latest-news-updates",
-    "https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/"
+    "https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/",
+    "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/"
   ],
-  "generatedAt": "2026-08-01T12:02:20.904Z"
+  "generatedAt": "2026-08-01T23:50:46.344Z"
 }
