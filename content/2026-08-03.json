@@ -2,9 +2,9 @@
   "date": "2026-08-03",
   "dateFormatted": "August 3, 2026",
   "headline": {
-    "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-    "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
-    "sourceUrl": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+    "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+    "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
+    "sourceUrl": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
     "sourceName": "TechCrunch AI"
   },
   "simpleSummary": [
@@ -15,84 +15,179 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-        "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
-        "content": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
+        "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+        "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
+        "content": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+        "sourceUrl": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Mon, 03 Aug 2026 10:00:00 +0000",
+        "publishedAt": "Mon, 03 Aug 2026 23:19:50 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-002",
-        "title": "Sam Altman and AI’s decel debate",
-        "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
-        "content": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+        "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+        "summary": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
+        "content": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+        "sourceUrl": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Sun, 02 Aug 2026 20:54:22 +0000",
+        "publishedAt": "Mon, 03 Aug 2026 20:00:00 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-003",
-        "title": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
-        "summary": "The Alibaba logo is displayed outside its headquarters in Hangzhou, Zhejiang Province, China. | Image: NurPhoto via Getty Images\t\n\nChinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performan",
-        "content": "The Alibaba logo is displayed outside its headquarters in Hangzhou, Zhejiang Province, China. | Image: NurPhoto via Getty Images\t\n\nChinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI's Kimi K3.  Alibaba said it was making the model, Qwen3.8-Max, widely available to users in a blog post published on Monday. The rele",
+        "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
+        "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
+        "content": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-        "sourceName": "The Verge AI",
+        "sourceUrl": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+        "sourceName": "TechCrunch AI",
         "tags": [
-          "The Verge AI"
+          "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "2026-08-03T11:01:11.000Z",
+        "publishedAt": "Mon, 03 Aug 2026 19:28:57 +0000",
         "normalizedTags": [
-          "the verge ai"
+          "techcrunch ai"
         ]
       },
       {
         "id": "AI-004",
-        "title": "Fender’s CEO seems to think your bandmates are just analog AI",
-        "summary": "Edward “Bud” Cole speaks in Japan in 2023. | Image: Jun Sato/WireImage\t\n\nFender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar.",
-        "content": "Edward “Bud” Cole speaks in Japan in 2023. | Image: Jun Sato/WireImage\t\n\nFender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started making the rounds recently, pouring more fuel on an already raging fire of bad PR following the company pissing off basically the entire guitar-playing community by sending cease-and-desist letters to builders, claiming copyright ",
+        "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+        "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
+        "content": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
-        "sourceName": "The Verge AI",
+        "sourceUrl": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+        "sourceName": "TechCrunch AI",
         "tags": [
-          "The Verge AI"
+          "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "2026-08-02T19:36:08.000Z",
+        "publishedAt": "Mon, 03 Aug 2026 19:09:56 +0000",
         "normalizedTags": [
-          "the verge ai"
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-005",
+        "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+        "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
+        "content": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 03 Aug 2026 18:43:43 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
         ]
       }
     ],
     "creative": [
       {
-        "id": "AI-005",
+        "id": "AI-006",
+        "title": "Alibaba's new Qwen model is also taking your job, but this time it's great",
+        "summary": "Alibaba is marketing its new AI model Qwen 3.8 with a video that shows the AI working while a person enjoys their hobbies. It's a deliberate contrast to the job loss warnings from OpenAI and Anthropic. Of course, it's still just marketing.\nThe articl",
+        "content": "Alibaba is marketing its new AI model Qwen 3.8 with a video that shows the AI working while a person enjoys their hobbies. It's a deliberate contrast to the job loss warnings from OpenAI and Anthropic. Of course, it's still just marketing.\nThe article Alibaba's new Qwen model is also taking your job, but this time it's great appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/alibabas-new-qwen-model-is-also-taking-your-job-but-this-time-its-great/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 03 Aug 2026 17:12:23 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-007",
+        "title": "IBM finds 92% of companies hit by AI security breaches lacked basic access controls",
+        "summary": "According to IBM, 92 percent of companies that experienced an AI security incident had inadequate access controls for their AI systems. The model itself was rarely the problem.\nThe article IBM finds 92% of companies hit by AI security breaches lacked",
+        "content": "According to IBM, 92 percent of companies that experienced an AI security incident had inadequate access controls for their AI systems. The model itself was rarely the problem.\nThe article IBM finds 92% of companies hit by AI security breaches lacked basic access controls appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/ibm-finds-92-of-companies-hit-by-ai-security-breaches-lacked-basic-access-controls/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 03 Aug 2026 15:47:08 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-008",
+        "title": "Interpol says AI has become the \"core operational driver of cybercrime\" across Africa",
+        "summary": "AI is involved in 55 percent of reported cybercrimes in Africa, according to a new Interpol report. Financial losses more than doubled from $192 million to $484 million, and about 600,000 cases of digital extortion involving deepfakes were recorded.\n",
+        "content": "AI is involved in 55 percent of reported cybercrimes in Africa, according to a new Interpol report. Financial losses more than doubled from $192 million to $484 million, and about 600,000 cases of digital extortion involving deepfakes were recorded.\nThe article Interpol says AI has become the \"core operational driver of cybercrime\" across Africa appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/interpol-says-ai-has-become-the-core-operational-driver-of-cybercrime-across-africa/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 03 Aug 2026 15:00:28 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-009",
+        "title": "China's MiniMax H3 is the first open model to top an AI video ranking",
+        "summary": "MiniMax releases H3 video model weights, putting an open model at the top of a video ranking for the first time.\nThe article China's MiniMax H3 is the first open model to top an AI video ranking appeared first on The Decoder.",
+        "content": "MiniMax releases H3 video model weights, putting an open model at the top of a video ranking for the first time.\nThe article China's MiniMax H3 is the first open model to top an AI video ranking appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/chinas-minimax-h3-is-the-first-open-model-to-top-an-ai-video-ranking/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 03 Aug 2026 13:52:29 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-010",
         "title": "Unicorn, pelican, Middle-earth: OpenAI co-founder Karpathy is looking for the next AI vibe test",
         "summary": "One paragraph of \"Lord of the Rings\" in, 5,500 lines of code out. Andrej Karpathy had Claude Opus 5 turn Tolkien's opening into a 3D browser scene.\nThe article Unicorn, pelican, Middle-earth: OpenAI co-founder Karpathy is looking for the next AI vibe",
         "content": "One paragraph of \"Lord of the Rings\" in, 5,500 lines of code out. Andrej Karpathy had Claude Opus 5 turn Tolkien's opening into a 3D browser scene.\nThe article Unicorn, pelican, Middle-earth: OpenAI co-founder Karpathy is looking for the next AI vibe test appeared first on The Decoder.",
@@ -109,87 +204,30 @@
         "normalizedTags": [
           "the decoder"
         ]
-      },
-      {
-        "id": "AI-006",
-        "title": "Two teams solved the same quantum crypto problem using GPT-5.6 just three hours apart",
-        "summary": "Two research teams independently solved the same open quantum cryptography problem using OpenAI's GPT-5.6 Sol Ultra, submitting their papers just three hours apart. \"If someone mentions an open problem, the first thing is to see if GPT solves it,\" sa",
-        "content": "Two research teams independently solved the same open quantum cryptography problem using OpenAI's GPT-5.6 Sol Ultra, submitting their papers just three hours apart. \"If someone mentions an open problem, the first thing is to see if GPT solves it,\" says one of the researchers. The case raises a question: what does \"independent discovery\" mean when everyone uses the same models?\nThe article Two teams solved the same quantum crypto problem using GPT-5.6 just three hours apart appeared first on The ",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/two-teams-solved-the-same-quantum-crypto-problem-using-gpt-5-6-just-three-hours-apart/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 03 Aug 2026 10:49:58 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
-      },
-      {
-        "id": "AI-007",
-        "title": "Alibaba’s open-weight Qwen3.8-Max takes on long-horizon AI tasks with 2.4 trillion parameters",
-        "summary": "Alibaba's new flagship model Qwen3.8-Max is built to handle complex tasks on its own over days at a time, from reproducing research papers to designing chips autonomously. The team plans to release the weights next week.\nThe article Alibaba’s open-we",
-        "content": "Alibaba's new flagship model Qwen3.8-Max is built to handle complex tasks on its own over days at a time, from reproducing research papers to designing chips autonomously. The team plans to release the weights next week.\nThe article Alibaba’s open-weight Qwen3.8-Max takes on long-horizon AI tasks with 2.4 trillion parameters appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/alibabas-open-weight-qwen3-8-max-takes-on-long-horizon-ai-tasks-with-2-4-trillion-parameters/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 03 Aug 2026 10:48:50 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
-      },
-      {
-        "id": "AI-008",
-        "title": " Want the same phone as Spider-Man? Just 3 days remain to preorder the Samsung Galaxy Z Flip8 ",
-        "summary": "Don't worry, this article is spoiler-free for those yet to see Brand New Day.",
-        "content": "Don't worry, this article is spoiler-free for those yet to see Brand New Day.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.creativebloq.com/tech/phones-tablets/want-the-same-phone-as-spider-man-just-3-days-remain-to-preorder-the-samsung-galaxy-z-flip8",
-        "sourceName": "Creative Bloq",
-        "tags": [
-          "Creative Bloq"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 03 Aug 2026 13:00:00 +0000",
-        "normalizedTags": [
-          "creative bloq"
-        ]
-      },
-      {
-        "id": "AI-009",
-        "title": " The Boox Go 6 Gen 2 is a super cute, ultra-portable Kindle alternative – and you can write on it! ",
-        "summary": "I've finally found a replacement for my ancient unsupported Kindle.",
-        "content": "I've finally found a replacement for my ancient unsupported Kindle.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.creativebloq.com/tech/phones-tablets/boox-go-6-gen-2-review",
-        "sourceName": "Creative Bloq",
-        "tags": [
-          "Creative Bloq"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 03 Aug 2026 12:30:00 +0000",
-        "normalizedTags": [
-          "creative bloq"
-        ]
       }
     ],
     "research": [
       {
-        "id": "AI-010",
+        "id": "AI-011",
+        "title": "Trump’s AI protectionism has come for robotics",
+        "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still",
+        "content": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 03 Aug 2026 18:43:30 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-012",
         "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
         "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last mon",
         "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to make money or commit sabotage—they were…",
@@ -208,7 +246,7 @@
         ]
       },
       {
-        "id": "AI-011",
+        "id": "AI-013",
         "title": "Here’s why AI agents lie and cheat to reach their goals",
         "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, th",
         "content": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers…",
@@ -227,7 +265,7 @@
         ]
       },
       {
-        "id": "AI-012",
+        "id": "AI-014",
         "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
         "summary": "arXiv:2607.28629v1 Announce Type: new \nAbstract: The rapid transition from reactive large language models (LLMs) to persistent, action-capable systems has exposed critical gaps in the architectural understanding of Agentic AI, particularly in separat",
         "content": "arXiv:2607.28629v1 Announce Type: new \nAbstract: The rapid transition from reactive large language models (LLMs) to persistent, action-capable systems has exposed critical gaps in the architectural understanding of Agentic AI, particularly in separating inference, orchestration, and execution layers for autonomous AI agents. Despite recent advances, unified frameworks for designing and evaluating full-stack agentic systems remain limited. This paper presents a comprehensive, layered architecture",
@@ -246,7 +284,7 @@
         ]
       },
       {
-        "id": "AI-013",
+        "id": "AI-015",
         "title": "Can AI Evaluate AI Scientists? A Benchmarking Study of Autonomous Research Generation Systems Using Automated Multi-Model Review",
         "summary": "arXiv:2607.28631v1 Announce Type: new \nAbstract: AI Scientist systems capable of autonomous research have the potential to significantly accelerate scientific discovery. However, evaluating and comparing the quality of AI-generated papers remains an ",
         "content": "arXiv:2607.28631v1 Announce Type: new \nAbstract: AI Scientist systems capable of autonomous research have the potential to significantly accelerate scientific discovery. However, evaluating and comparing the quality of AI-generated papers remains an open challenge. We propose and implement a rigorous benchmarking protocol using an automated peer-review system that harnesses frontier large language models to assess scientific papers across four core dimensions: originality, scientific rigor, clar",
@@ -263,44 +301,101 @@
         "normalizedTags": [
           "arxiv cs.ai"
         ]
-      },
-      {
-        "id": "AI-014",
-        "title": "LLM Framework for Discovering Major Mathematical Conjectures: AI's Quest for the Next Riemann Hypothesis",
-        "summary": "arXiv:2607.28632v1 Announce Type: new \nAbstract: Major mathematical conjectures still depend heavily on expert intuition, so a unified method for the systematic generation and validation of conjectures with substantial mathematical potential remains ",
-        "content": "arXiv:2607.28632v1 Announce Type: new \nAbstract: Major mathematical conjectures still depend heavily on expert intuition, so a unified method for the systematic generation and validation of conjectures with substantial mathematical potential remains unavailable. We present a three stage pipeline for major conjecture discovery, with region search from explicit local evidence modules, reflective validation for foundationality, novelty, and potential significance, and formal validation in Lean 4 an",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://arxiv.org/abs/2607.28632",
-        "sourceName": "ArXiv CS.AI",
-        "tags": [
-          "ArXiv CS.AI"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 03 Aug 2026 00:00:00 -0400",
-        "normalizedTags": [
-          "arxiv cs.ai"
-        ]
       }
     ],
     "applications": [],
     "business": [
       {
-        "id": "AI-015",
-        "title": "U.S. lawmakers request information from DoorDash on use of Chinese AI models",
-        "summary": "The food delivery company is the latest to be asked to share details of AI use by two House committees conducting a joint investigation.",
-        "content": "The food delivery company is the latest to be asked to share details of AI use by two House committees conducting a joint investigation.",
+        "id": "AI-016",
+        "title": "Jim Cramer says Wall Street's latest trading trend is creating buying opportunities",
+        "summary": "CNBC's Jim Cramer said stocks are increasingly moving as part of thematic trading baskets rather than on company-specific fundamentals.",
+        "content": "CNBC's Jim Cramer said stocks are increasingly moving as part of thematic trading baskets rather than on company-specific fundamentals.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/07/31/us-lawmakers-doordash-chinese-ai-models.html",
+        "sourceUrl": "https://www.cnbc.com/2026/08/03/jim-cramer-wall-streets-latest-trading-trend-creating-buying-opportunities.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Mon, 03 Aug 2026 11:01:57 GMT",
+        "publishedAt": "Mon, 03 Aug 2026 23:00:01 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-017",
+        "title": "Jim Cramer says the market has warmed up to Big Tech's AI spending. Here's what flipped the switch",
+        "summary": "Cramer said Amazon CEO Andy Jassy finally explained how Amazon's massive AI spending will generate long-term returns.",
+        "content": "Cramer said Amazon CEO Andy Jassy finally explained how Amazon's massive AI spending will generate long-term returns.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/08/03/jim-cramer-market-warmed-up-big-tech-ai-spending.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 03 Aug 2026 22:20:01 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-018",
+        "title": "Big Tech's Anthropic and OpenAI stakes are distorting the corporate earnings picture ",
+        "summary": "If you were to strip out Big Tech's investment gains from private AI companies, the earnings story is a lot less bullish.",
+        "content": "If you were to strip out Big Tech's investment gains from private AI companies, the earnings story is a lot less bullish.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/08/03/big-techs-anthropic-and-openai-stakes-distort-corporate-earnings.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 03 Aug 2026 22:48:18 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-019",
+        "title": "Palantir's Karp renews attacks on frontier AI labs that are 'trying to drug addict us'",
+        "summary": "Karp said Chinese models can't be blamed for distilling U.S. models when the frontier labs \"distilled all the value of IP, everywhere.\"",
+        "content": "Karp said Chinese models can't be blamed for distilling U.S. models when the frontier labs \"distilled all the value of IP, everywhere.\"",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/08/03/palantir-karp-open-ai-anthropic-open-weight.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 03 Aug 2026 22:20:56 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-020",
+        "title": "Snap's stock jumps 8% on earnings beat and strong sales forecast",
+        "summary": "Snap beat analysts' estimates across the board in its second-quarter earnings report.",
+        "content": "Snap beat analysts' estimates across the board in its second-quarter earnings report.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/08/03/snap-q2-earnings-report-2026.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 03 Aug 2026 22:03:52 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
@@ -308,26 +403,45 @@
     ],
     "policy": [
       {
-        "id": "AI-016",
-        "title": "Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble?",
-        "summary": "Inside the 81-year-old billionaire’s risky, debt-fueled scramble to transform his data empire into an A.I. juggernaut.",
-        "content": "Inside the 81-year-old billionaire’s risky, debt-fueled scramble to transform his data empire into an A.I. juggernaut.",
+        "id": "AI-021",
+        "title": "SpaceX’s Stock Lockup Is Expiring. Prepare for a Bumpy Ride.",
+        "summary": "On Thursday, employees and other insiders at Elon Musk’s rocket company will be released from their first stock “lockup” and can start selling some of their shares.",
+        "content": "On Thursday, employees and other insiders at Elon Musk’s rocket company will be released from their first stock “lockup” and can start selling some of their shares.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html",
+        "sourceUrl": "https://www.nytimes.com/2026/08/03/technology/spacex-lockup-stock-market.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Sun, 02 Aug 2026 15:45:26 +0000",
+        "publishedAt": "Mon, 03 Aug 2026 15:10:56 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
       },
       {
-        "id": "AI-017",
+        "id": "AI-022",
+        "title": "What Are Companies Getting for All That A.I. Spending?",
+        "summary": "A new field of “tokenomics” has emerged to measure the return on all the money companies are pouring into artificial intelligence.",
+        "content": "A new field of “tokenomics” has emerged to measure the return on all the money companies are pouring into artificial intelligence.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/08/03/business/economy/ai-spending-tokenomics.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 03 Aug 2026 18:56:22 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-023",
         "title": "If You Can’t Beat A.I., Outdress It, Tech Firms and Their Swag Say",
         "summary": "Over the years, tech workers have proudly worn nerdy company-branded gear. But this generation of hot companies is getting fancy with its merch.",
         "content": "Over the years, tech workers have proudly worn nerdy company-branded gear. But this generation of hot companies is getting fancy with its merch.",
@@ -346,10 +460,10 @@
         ]
       },
       {
-        "id": "AI-018",
-        "title": "For a Day, Google Made It Easy to Spoof Satellite Imagery",
-        "summary": "A new Google Earth tool allowed the creation of A.I. deepfake maps. The tech giant quickly pulled it back after a backlash and concerns about disinformation risks.",
-        "content": "A new Google Earth tool allowed the creation of A.I. deepfake maps. The tech giant quickly pulled it back after a backlash and concerns about disinformation risks.",
+        "id": "AI-024",
+        "title": "Google Earth Disables A.I. Tool After One Day Over Disinformation Concerns",
+        "summary": "A new Google Earth tool allowed the creation of A.I. deepfake maps. The company quickly pulled it back after users noted there were no safeguards to prevent content that could be harmful.",
+        "content": "A new Google Earth tool allowed the creation of A.I. deepfake maps. The company quickly pulled it back after users noted there were no safeguards to prevent content that could be harmful.",
         "keyTakeaways": [],
         "whyItMatters": "",
         "sourceUrl": "https://www.nytimes.com/2026/08/02/technology/google-earth-ai-satellite-images.html",
@@ -359,7 +473,26 @@
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Sun, 02 Aug 2026 19:25:56 +0000",
+        "publishedAt": "Mon, 03 Aug 2026 14:31:11 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-025",
+        "title": "Plug-In Solar Panels Are Starting to Sprout in U.S. Backyards",
+        "summary": "Ten U.S. states have legalized systems that can be plugged into standard wall outlets. The technology typically does not require permits or electricians.",
+        "content": "Ten U.S. states have legalized systems that can be plugged into standard wall outlets. The technology typically does not require permits or electricians.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 03 Aug 2026 13:34:17 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
@@ -368,7 +501,7 @@
     "concerns": [],
     "culture": [
       {
-        "id": "AI-019",
+        "id": "AI-026",
         "title": "Ring Cycle review – AI staging dispenses with drama to create banal bric-a-brac",
         "summary": "Bayreuth festival theatre, Bayreuth\nFor the festival’s 150th anniversary, the creative team have turned to AI to generate visuals reflecting Wagner’s tetralogy’s past, present – and future. The hyperactive result is a dismal, mindless mess\nUnveiled t",
         "content": "Bayreuth festival theatre, Bayreuth\nFor the festival’s 150th anniversary, the creative team have turned to AI to generate visuals reflecting Wagner’s tetralogy’s past, present – and future. The hyperactive result is a dismal, mindless mess\nUnveiled the same week in which tech company Anthropic admitted that its AI model Claude had gone rogue during testing, Bayreuth festival’s new AI-generated staging of Wagner’s four-part Ring of the Nibelungen is at least timely. But anyone who assumes that th",
@@ -387,7 +520,7 @@
         ]
       },
       {
-        "id": "AI-020",
+        "id": "AI-027",
         "title": "Greens senator brands Pauline Hanson a ‘political coward’ over press conference bans – as it happened",
         "summary": "This blog is now closed\nAngus Taylor and Anthony Albanese on leave this week\nThe opposition leader, Angus Taylor, is on leave for most of this week, his office has announced, with the deputy leader, Jane Hume, acting in his stead.\nNSWRL owes a massiv",
         "content": "This blog is now closed\nAngus Taylor and Anthony Albanese on leave this week\nThe opposition leader, Angus Taylor, is on leave for most of this week, his office has announced, with the deputy leader, Jane Hume, acting in his stead.\nNSWRL owes a massive debt of gratitude to Laurie for the service he has given to his state as both a player and a coach.\nHe has also led NSW to arguably two of the greatest Origin series wins of all time as a coach, after ending Queensland’s eight-year winning streak i",
@@ -406,7 +539,7 @@
         ]
       },
       {
-        "id": "AI-021",
+        "id": "AI-028",
         "title": "Disruption review – anti-AI thriller boasts knockout cast but tech commentary needs an update",
         "summary": "Pershing Square Signature Center, New York\nJohn David Washington leads an exceptionally talented cast in a sleek off-Broadway thriller that feels a little dated\nMaking its US debut three years after its London premiere, Andrew Stein’s Disruption face",
         "content": "Pershing Square Signature Center, New York\nJohn David Washington leads an exceptionally talented cast in a sleek off-Broadway thriller that feels a little dated\nMaking its US debut three years after its London premiere, Andrew Stein’s Disruption faces the typical battle of the topical play: even with the most expedient fast-track to production, works tackling current events are in danger of obsolescence upon arrival, often left at the mercy of the latest update, for better or worse. As far as pl",
@@ -425,7 +558,26 @@
         ]
       },
       {
-        "id": "AI-022",
+        "id": "AI-029",
+        "title": "Did an AI Music App Just Snitch on the Song of the Summer?",
+        "summary": "Fenix Flexin’s hit song “Rubberz” has hip-hop fans arguing over whether it was generated by AI. Some say they have proof it’s machine-made, but will anyone care?",
+        "content": "Fenix Flexin’s hit song “Rubberz” has hip-hop fans arguing over whether it was generated by AI. Some say they have proof it’s machine-made, but will anyone care?",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.wired.com/story/ai-music-app-treblo-just-snitched-on-rubberz-song-of-the-summer/",
+        "sourceName": "Wired AI",
+        "tags": [
+          "Wired AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Mon, 03 Aug 2026 22:27:46 +0000",
+        "normalizedTags": [
+          "wired ai"
+        ]
+      },
+      {
+        "id": "AI-030",
         "title": "AI Conquered Coding. Fast Food Is Next",
         "summary": "Your next drive-thru order might be taken by a bot. And you might not even notice.",
         "content": "Your next drive-thru order might be taken by a bot. And you might not even notice.",
@@ -442,25 +594,6 @@
         "normalizedTags": [
           "wired ai"
         ]
-      },
-      {
-        "id": "AI-023",
-        "title": "The ‘Guardrail Guy’ Went Viral for Posting About Flock Cameras. Then Someone Destroyed Them",
-        "summary": "Steve Elmers, also known as the “Guardrail Guy,” is done calling out license plate readers after two that appeared in his videos were vandalized.",
-        "content": "Steve Elmers, also known as the “Guardrail Guy,” is done calling out license plate readers after two that appeared in his videos were vandalized.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.wired.com/story/flock-cameras-guardrail-guy-advocacy-damage-people-dont-like-alprs/",
-        "sourceName": "Wired AI",
-        "tags": [
-          "Wired AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 03 Aug 2026 09:30:00 +0000",
-        "normalizedTags": [
-          "wired ai"
-        ]
       }
     ]
   },
@@ -470,29 +603,36 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-    "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-    "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-    "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+    "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+    "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+    "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+    "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+    "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+    "https://the-decoder.com/alibabas-new-qwen-model-is-also-taking-your-job-but-this-time-its-great/",
+    "https://the-decoder.com/ibm-finds-92-of-companies-hit-by-ai-security-breaches-lacked-basic-access-controls/",
+    "https://the-decoder.com/interpol-says-ai-has-become-the-core-operational-driver-of-cybercrime-across-africa/",
+    "https://the-decoder.com/chinas-minimax-h3-is-the-first-open-model-to-top-an-ai-video-ranking/",
     "https://the-decoder.com/unicorn-pelican-middle-earth-openai-co-founder-karpathy-is-looking-for-the-next-ai-vibe-test/",
-    "https://the-decoder.com/two-teams-solved-the-same-quantum-crypto-problem-using-gpt-5-6-just-three-hours-apart/",
-    "https://the-decoder.com/alibabas-open-weight-qwen3-8-max-takes-on-long-horizon-ai-tasks-with-2-4-trillion-parameters/",
-    "https://www.creativebloq.com/tech/phones-tablets/want-the-same-phone-as-spider-man-just-3-days-remain-to-preorder-the-samsung-galaxy-z-flip8",
-    "https://www.creativebloq.com/tech/phones-tablets/boox-go-6-gen-2-review",
+    "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
     "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
     "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
     "https://arxiv.org/abs/2607.28629",
     "https://arxiv.org/abs/2607.28631",
-    "https://arxiv.org/abs/2607.28632",
-    "https://www.cnbc.com/2026/07/31/us-lawmakers-doordash-chinese-ai-models.html",
-    "https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html",
+    "https://www.cnbc.com/2026/08/03/jim-cramer-wall-streets-latest-trading-trend-creating-buying-opportunities.html",
+    "https://www.cnbc.com/2026/08/03/jim-cramer-market-warmed-up-big-tech-ai-spending.html",
+    "https://www.cnbc.com/2026/08/03/big-techs-anthropic-and-openai-stakes-distort-corporate-earnings.html",
+    "https://www.cnbc.com/2026/08/03/palantir-karp-open-ai-anthropic-open-weight.html",
+    "https://www.cnbc.com/2026/08/03/snap-q2-earnings-report-2026.html",
+    "https://www.nytimes.com/2026/08/03/technology/spacex-lockup-stock-market.html",
+    "https://www.nytimes.com/2026/08/03/business/economy/ai-spending-tokenomics.html",
     "https://www.nytimes.com/2026/08/03/technology/ai-tech-firms-swag-merchandise.html",
     "https://www.nytimes.com/2026/08/02/technology/google-earth-ai-satellite-images.html",
+    "https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html",
     "https://www.theguardian.com/music/2026/aug/03/wagner-bayreuth-ring-cycle-review-ai-staging-dispenses-with-drama-to-create-banal-bric-a-brac",
     "https://www.theguardian.com/australia-news/live/2026/aug/03/australia-news-live-fuel-excise-cut-jim-chalmers-cost-of-living-anthony-albanese-labor-angus-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
     "https://www.theguardian.com/stage/2026/aug/02/disruption-play-review",
-    "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/",
-    "https://www.wired.com/story/flock-cameras-guardrail-guy-advocacy-damage-people-dont-like-alprs/"
+    "https://www.wired.com/story/ai-music-app-treblo-just-snitched-on-rubberz-song-of-the-summer/",
+    "https://www.wired.com/story/ai-conquered-coding-fast-food-is-next/"
   ],
-  "generatedAt": "2026-08-03T13:39:45.084Z"
+  "generatedAt": "2026-08-04T00:02:02.666Z"
 }
