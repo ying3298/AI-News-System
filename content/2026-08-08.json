@@ -44,6 +44,14 @@
           "code generation",
           "developer tools",
           "automation"
+        ],
+        "relatedStories": [
+          {
+            "id": "AI-001",
+            "date": "2026-08-09",
+            "title": "Claude Code auto-executes safely by default, catching 89 percent of dangerous commands",
+            "section": "tools"
+          }
         ]
       },
       {
@@ -76,6 +84,14 @@
           "product integration",
           "chatgpt",
           "productivity"
+        ],
+        "relatedStories": [
+          {
+            "id": "AI-004",
+            "date": "2026-08-09",
+            "title": "OpenAI acquires presentation startup NextSlide, team now working on ChatGPT",
+            "section": "tools"
+          }
         ]
       },
       {
@@ -174,6 +190,14 @@
           "cad",
           "3d models",
           "enterprise"
+        ],
+        "relatedStories": [
+          {
+            "id": "AI-003",
+            "date": "2026-08-09",
+            "title": "Backflip AI turns physical 3D scans into editable CAD models in minutes, not hours",
+            "section": "tools"
+          }
         ]
       }
     ],
@@ -207,6 +231,14 @@
           "perception bias",
           "creative quality",
           "study"
+        ],
+        "relatedStories": [
+          {
+            "id": "AI-005",
+            "date": "2026-08-09",
+            "title": "Readers can't tell AI stories from human ones—until they're told a machine wrote them",
+            "section": "creative"
+          }
         ]
       }
     ],
@@ -275,6 +307,14 @@
           "climate",
           "agents",
           "measurement"
+        ],
+        "relatedStories": [
+          {
+            "id": "AI-013",
+            "date": "2026-08-09",
+            "title": "Amazon's West Texas power plant could emit 33 million tons of CO₂ annually—the dirtiest in America",
+            "section": "concerns"
+          }
         ]
       }
     ],
@@ -504,6 +544,14 @@
           "emissions",
           "energy",
           "corporate responsibility"
+        ],
+        "relatedStories": [
+          {
+            "id": "AI-013",
+            "date": "2026-08-09",
+            "title": "Amazon's West Texas power plant could emit 33 million tons of CO₂ annually—the dirtiest in America",
+            "section": "concerns"
+          }
         ]
       }
     ],
