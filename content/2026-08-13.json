@@ -2,9 +2,9 @@
   "date": "2026-08-13",
   "dateFormatted": "August 13, 2026",
   "headline": {
-    "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-    "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
-    "sourceUrl": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+    "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+    "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+    "sourceUrl": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
     "sourceName": "TechCrunch AI"
   },
   "simpleSummary": [
@@ -15,95 +15,95 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-        "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
-        "content": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+        "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+        "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+        "content": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+        "sourceUrl": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Wed, 12 Aug 2026 22:26:37 +0000",
+        "publishedAt": "Thu, 13 Aug 2026 21:13:24 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-002",
-        "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
-        "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
-        "content": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+        "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+        "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+        "content": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+        "sourceUrl": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Wed, 12 Aug 2026 20:10:40 +0000",
+        "publishedAt": "Thu, 13 Aug 2026 20:14:39 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-003",
-        "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-        "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
-        "content": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
+        "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+        "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+        "content": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+        "sourceUrl": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Wed, 12 Aug 2026 18:19:12 +0000",
+        "publishedAt": "Thu, 13 Aug 2026 19:22:40 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-004",
-        "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-        "summary": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
-        "content": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how America can compete as China advances in Asia.",
+        "title": "IBM partners with OpenAI to bolster enterprise AI push",
+        "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+        "content": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+        "sourceUrl": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Wed, 12 Aug 2026 17:51:00 +0000",
+        "publishedAt": "Thu, 13 Aug 2026 19:19:49 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-005",
-        "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-        "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
-        "content": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
+        "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+        "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
+        "content": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+        "sourceUrl": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Wed, 12 Aug 2026 17:41:29 +0000",
+        "publishedAt": "Thu, 13 Aug 2026 18:28:14 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
@@ -112,6 +112,82 @@
     "creative": [
       {
         "id": "AI-006",
+        "title": "Suno Studio 2.0's new chat feature lets you talk to your DAW like it's a bandmate",
+        "summary": "With Studio 2.0, Suno turns its AI music platform into a full production tool for Premier subscribers. A chat feature creates instruments and plugins via text, while MIDI import and 32-bit export come without limits. That unlimited export clashes wit",
+        "content": "With Studio 2.0, Suno turns its AI music platform into a full production tool for Premier subscribers. A chat feature creates instruments and plugins via text, while MIDI import and 32-bit export come without limits. That unlimited export clashes with Suno's own recently announced download caps designed to combat AI music spam on streaming platforms.\nThe article Suno Studio 2.0's new chat feature lets you talk to your DAW like it's a bandmate appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/suno-studio-2-0s-new-chat-feature-lets-you-talk-to-your-daw-like-its-a-bandmate/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 13 Aug 2026 19:39:54 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-007",
+        "title": "Gemini 3.7 Flash lands with coding gains and undercuts its three-week-old predecessor's price by 50%",
+        "summary": "Google shipped Gemini 3.7 Flash just three weeks after 3.6 Flash. The new model is supposed to be Google's most capable workhorse yet for coding and AI agents, and according to the company's own benchmarks, it beats Claude Sonnet 5 and GPT-5.6 Terra ",
+        "content": "Google shipped Gemini 3.7 Flash just three weeks after 3.6 Flash. The new model is supposed to be Google's most capable workhorse yet for coding and AI agents, and according to the company's own benchmarks, it beats Claude Sonnet 5 and GPT-5.6 Terra at half the price.\nThe article Gemini 3.7 Flash lands with coding gains and undercuts its three-week-old predecessor's price by 50% appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/gemini-3-7-flash-lands-with-coding-gains-and-undercuts-its-three-week-old-predecessors-price-by-50/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 13 Aug 2026 18:41:52 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-008",
+        "title": "Deepseek ships improved V4 Pro, open-sources its agent software, and raises API prices",
+        "summary": "Deepseek has moved its flagship V4-Pro out of the testing phase and released its agent software, Harness v0.1, under the MIT license. API prices are going up at the same time, with cache hits jumping to six times their current cost. For agent workflo",
+        "content": "Deepseek has moved its flagship V4-Pro out of the testing phase and released its agent software, Harness v0.1, under the MIT license. API prices are going up at the same time, with cache hits jumping to six times their current cost. For agent workflows that repeatedly read the same files, that's the biggest price increase in the transition.\nThe article Deepseek ships improved V4 Pro, open-sources its agent software, and raises API prices appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/deepseek-launches-an-improved-v4-pro-model-raises-api-prices-and-makes-its-agent-software-open-source/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 13 Aug 2026 16:27:32 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-009",
+        "title": "Ling 3.0 Flash is the smartest open model at its size",
+        "summary": "Ling 3.0 Flash is the smartest open model in its size class.\nThe article Ling 3.0 Flash is the smartest open model at its size appeared first on The Decoder.",
+        "content": "Ling 3.0 Flash is the smartest open model in its size class.\nThe article Ling 3.0 Flash is the smartest open model at its size appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/ling-3-0-flash-is-the-smartest-open-model-at-its-size/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 13 Aug 2026 15:03:04 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-010",
         "title": "Fable 5's slow adoption suggests corporate willingness to pay for frontier AI has hit a ceiling",
         "summary": "Anthropic's Fable 5 is considered the most powerful AI model on the market, but U.S. companies are barely buying it. According to Ramp data, Fable 5 accounts for only six percent of Anthropic tokens sold. The model's steep price tag suggests corporat",
         "content": "Anthropic's Fable 5 is considered the most powerful AI model on the market, but U.S. companies are barely buying it. According to Ramp data, Fable 5 accounts for only six percent of Anthropic tokens sold. The model's steep price tag suggests corporate AI spending may have hit a ceiling, at least as long as performance gains don't translate into measurable everyday value.\nThe article Fable 5's slow adoption suggests corporate willingness to pay for frontier AI has hit a ceiling appeared first on ",
@@ -128,87 +204,87 @@
         "normalizedTags": [
           "the decoder"
         ]
-      },
-      {
-        "id": "AI-007",
-        "title": "Top AI lab researchers warned about automated AI research, and several of their predicted milestones have already fallen",
-        "summary": "IAPS fellow Severin Field interviewed 25 researchers from OpenAI, Anthropic, Google Deepmind, Meta, and US universities about recursive self-improvement. In a new blog post, he takes stock. Several of the milestones those researchers named have alrea",
-        "content": "IAPS fellow Severin Field interviewed 25 researchers from OpenAI, Anthropic, Google Deepmind, Meta, and US universities about recursive self-improvement. In a new blog post, he takes stock. Several of the milestones those researchers named have already been hit.\nThe article Top AI lab researchers warned about automated AI research, and several of their predicted milestones have already fallen appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/top-ai-lab-researchers-warned-about-automated-ai-research-and-several-of-their-predicted-milestones-have-already-fallen/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 13 Aug 2026 10:42:05 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
-      },
-      {
-        "id": "AI-008",
-        "title": "Anthropic brings Claude Cowork to its Chrome extension, adding skills and plugins to the browser",
-        "summary": "Claude Cowork now runs directly in the side panel of Anthropic's Chrome extension. \nThe article Anthropic brings Claude Cowork to its Chrome extension, adding skills and plugins to the browser appeared first on The Decoder.",
-        "content": "Claude Cowork now runs directly in the side panel of Anthropic's Chrome extension. \nThe article Anthropic brings Claude Cowork to its Chrome extension, adding skills and plugins to the browser appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/anthropic-brings-claude-cowork-to-its-chrome-extension-adding-skills-and-plugins-to-the-browser/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 13 Aug 2026 10:15:29 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
-      },
-      {
-        "id": "AI-009",
-        "title": "SpaceXAI's Grok 4.6 matches OpenAI's best model and undercuts it on price",
-        "summary": "xAI's Grok 4.6 scores 61 points on the Artificial Analysis Intelligence Index, tying GPT-5.6 Sol and trailing only Anthropic's Claude Opus 5. On agentic tasks, it completes complex workflows in about 53 steps where Claude Opus 5 needs 103, at a price",
-        "content": "xAI's Grok 4.6 scores 61 points on the Artificial Analysis Intelligence Index, tying GPT-5.6 Sol and trailing only Anthropic's Claude Opus 5. On agentic tasks, it completes complex workflows in about 53 steps where Claude Opus 5 needs 103, at a price more than 60 percent lower.\nThe article SpaceXAI's Grok 4.6 matches OpenAI's best model and undercuts it on price appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/spacexais-grok-4-6-matches-openais-best-model-and-undercuts-it-on-price/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Wed, 12 Aug 2026 18:33:21 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
-      },
-      {
-        "id": "AI-010",
-        "title": "Researchers can now reverse-engineer LLM prompts from output text with near-perfect accuracy",
-        "summary": "Researchers at IIT Bombay and Adobe Research have built an inverse language model that reconstructs the original prompt from an LLM's output with near-perfect accuracy. Their method, called \"Previous-Token Prediction,\" doesn't need access to model we",
-        "content": "Researchers at IIT Bombay and Adobe Research have built an inverse language model that reconstructs the original prompt from an LLM's output with near-perfect accuracy. Their method, called \"Previous-Token Prediction,\" doesn't need access to model weights and works across different models. For companies relying on proprietary system prompts, this could be a serious security risk.\nThe article Researchers can now reverse-engineer LLM prompts from output text with near-perfect accuracy appeared fir",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/researchers-can-now-reverse-engineer-llm-prompts-from-output-text-with-near-perfect-accuracy/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Wed, 12 Aug 2026 17:32:59 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
       }
     ],
     "research": [
       {
         "id": "AI-011",
+        "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
+        "summary": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. This was fodder for the right-wing information sphere",
+        "content": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. This was fodder for the right-wing information sphere for years—then it began making its way into US policy. Watch a conversation exploring how it started, where…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 13 Aug 2026 21:00:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-012",
+        "title": "Building a practical path to post-quantum cryptography",
+        "summary": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for business leaders navigating the noise, the signal shoul",
+        "content": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a threat to break current cryptography, but for business leaders navigating the noise, the signal should be clear: post-quantum cryptography (PQC) is a manageable evolution, not a crisis. The mathematics behind today’s encrypted digital transactions may…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 13 Aug 2026 18:11:42 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-013",
+        "title": "Flock is tightening its rules in response to a growing surveillance backlash",
+        "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillan",
+        "content": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly at a problem that has made recent headlines:…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 13 Aug 2026 13:41:10 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-014",
+        "title": "The Download: kids’ thoughts on AI, and female clones of male mice",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How kids feel about AI, in their own words —Jen Swetzoff and Keeley McNamara, the founding editors of Anyway, an",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How kids feel about AI, in their own words —Jen Swetzoff and Keeley McNamara, the founding editors of Anyway, an independent print magazine for tweens and teens When we set out…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 13 Aug 2026 12:10:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-015",
         "title": "What’s behind this summer’s heat, and why 2027 could be worse",
         "summary": "This summer has been a scorcher for much of the Northern Hemisphere. June and July marked the hottest two-month stretch in Europe since record-keeping began. The contiguous US endured its hottest month on record in July. South Korea saw its highest-e",
         "content": "This summer has been a scorcher for much of the Northern Hemisphere. June and July marked the hottest two-month stretch in Europe since record-keeping began. The contiguous US endured its hottest month on record in July. South Korea saw its highest-ever recorded temperature.   The heat isn’t over yet, but some scientists are already looking ahead…",
@@ -225,177 +301,101 @@
         "normalizedTags": [
           "mit tech review"
         ]
-      },
-      {
-        "id": "AI-012",
-        "title": "How kids feel about AI, in their own words",
-        "summary": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into the",
-        "content": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 13 Aug 2026 09:00:00 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-013",
-        "title": "Scientists just created female clones of male mice",
-        "summary": "Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove the Y chromosome from male cells and create female clones of male mice.  “No one has done this before",
-        "content": "Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove the Y chromosome from male cells and create female clones of male mice.  “No one has done this before,” says Monika Ward, a reproductive biologist at the University of Hawaii, who…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Wed, 12 Aug 2026 18:59:48 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-014",
-        "title": "Scaling AI agents with trustworthy data",
-        "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the d",
-        "content": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Wed, 12 Aug 2026 16:51:57 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-015",
-        "title": "The Download: our 35 young innovators and the “censorship-industrial complex”",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How we picked 35 of the world’s top young scientists and engineers On September 8, MIT Technology Review will re",
-        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How we picked 35 of the world’s top young scientists and engineers On September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Wed, 12 Aug 2026 12:10:00 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
       }
     ],
     "applications": [],
     "business": [
       {
         "id": "AI-016",
-        "title": "An inside look at SK Hynix $720 billion AI-fueled buildout that's taking over South Korea",
-        "summary": "SK Hynix, the leading maker of high-bandwidth memory, is pouring $720 billion into memory factories to meet AI demand. We got an exclusive first look.",
-        "content": "SK Hynix, the leading maker of high-bandwidth memory, is pouring $720 billion into memory factories to meet AI demand. We got an exclusive first look.",
+        "title": "Cramer says investors shouldn't let past market crashes scare them out of today’s winners",
+        "summary": "CNBC's Jim Cramer warned investors against relying too heavily on historical comparisons, arguing that doing so can cause them to miss what has fundamentally changed.",
+        "content": "CNBC's Jim Cramer warned investors against relying too heavily on historical comparisons, arguing that doing so can cause them to miss what has fundamentally changed.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/08/13/inside-sk-hynixs-720-billion-bet-to-build-enough-memory-for-ai.html",
+        "sourceUrl": "https://www.cnbc.com/2026/08/13/cramer-says-investors-shouldnt-let-past-market-crashes-scare-them-out-of-todays-winners.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Thu, 13 Aug 2026 09:00:01 GMT",
+        "publishedAt": "Thu, 13 Aug 2026 22:27:25 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-017",
-        "title": "South Korea’s Kospi has staged a stunning comeback. How long will the bull market last?",
-        "summary": "South Korea's Kospi has staged a reversal from its latest rout, returning to bull-market territory as investors piled back into the semiconductor giants that dominate the index.",
-        "content": "South Korea's Kospi has staged a reversal from its latest rout, returning to bull-market territory as investors piled back into the semiconductor giants that dominate the index.",
+        "title": "Reddit stock jumps on inclusion in S&P 500",
+        "summary": "Reddit shares jumped on the company's inclusion in the S&P 500.",
+        "content": "Reddit shares jumped on the company's inclusion in the S&P 500.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/08/13/south-korea-kospi-bull-market-sk-hynix-samsung-surge.html",
+        "sourceUrl": "https://www.cnbc.com/2026/08/13/reddit-shares-jump-11percent-on-inclusion-in-sp-500.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Thu, 13 Aug 2026 05:22:03 GMT",
+        "publishedAt": "Thu, 13 Aug 2026 23:04:21 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-018",
-        "title": "South Korea's Kospi swings from bear to bull-market territory in just over a month on AI trade ",
-        "summary": "South Korean stocks rallied on Thursday, pushing the benchmark Kospi into a technical bull market.",
-        "content": "South Korean stocks rallied on Thursday, pushing the benchmark Kospi into a technical bull market.",
+        "title": "Apple's Tim Cook joined by Howard Lutnick in opening Houston manufacturing plant",
+        "summary": "As Tim Cook gets set to step down as Apple CEO, he's offering a glimpse into what he may be doing as chairman.",
+        "content": "As Tim Cook gets set to step down as Apple CEO, he's offering a glimpse into what he may be doing as chairman.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/08/13/south-korea-kospi-bull-market-sk-hynix-samsung-ai-trade.html",
+        "sourceUrl": "https://www.cnbc.com/2026/08/13/apples-tim-cook-and-howard-lutnick-open-houston-manufacturing-plant.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Thu, 13 Aug 2026 02:06:15 GMT",
+        "publishedAt": "Thu, 13 Aug 2026 21:23:35 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-019",
-        "title": "Jim Cramer says the AI data center trade is back. These 6 stocks are leading the comeback",
-        "summary": "CNBC’s Jim Cramer said the AI data center trade is regaining market leadership after weeks of forced selling weighed on the group.",
-        "content": "CNBC’s Jim Cramer said the AI data center trade is regaining market leadership after weeks of forced selling weighed on the group.",
+        "title": "Workday shares post best day in 10 years on Silver Lake takeover report",
+        "summary": "Workday investors have been on edge over the prospect of AI disrupting its business model",
+        "content": "Workday investors have been on edge over the prospect of AI disrupting its business model",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/08/12/jim-cramer-ai-data-center-trade-leading-stocks.html",
+        "sourceUrl": "https://www.cnbc.com/2026/08/13/workday-skyrockets-25percent-before-trading-halted-on-report-of-silver-lake-takeover.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Wed, 12 Aug 2026 22:27:52 GMT",
+        "publishedAt": "Thu, 13 Aug 2026 20:07:24 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-020",
-        "title": "Cisco's stock drops despite earnings, revenue beat",
-        "summary": "Even though Cisco's quarterly results topped estimates, they weren't good enough to satisfy Wall Street.",
-        "content": "Even though Cisco's quarterly results topped estimates, they weren't good enough to satisfy Wall Street.",
+        "title": "Cisco shares slide 8% despite earnings beat and stronger-than-expected guidance",
+        "summary": "Cisco is showing booming demand for AI infrastructure, but its results weren't good enough to satisfy investors.",
+        "content": "Cisco is showing booming demand for AI infrastructure, but its results weren't good enough to satisfy investors.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/08/12/ciscos-stock-drops-despite-earnings-revenue-beat.html",
+        "sourceUrl": "https://www.cnbc.com/2026/08/13/cisco-shares-slide-9percent-despite-earnings-beat-and-strong-guidance.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Wed, 12 Aug 2026 22:54:18 GMT",
+        "publishedAt": "Thu, 13 Aug 2026 20:57:31 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
@@ -423,6 +423,63 @@
       },
       {
         "id": "AI-022",
+        "title": "America Wants to Make Its Own Humanoid Robots. That Won’t Be Easy.",
+        "summary": "China already manufactures humanoid robots by the thousands. A new generation of U.S. start-ups is betting that there is still time to compete.",
+        "content": "China already manufactures humanoid robots by the thousands. A new generation of U.S. start-ups is betting that there is still time to compete.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/08/13/business/humanoid-robot-us-china.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 13 Aug 2026 11:25:30 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-023",
+        "title": "Judge Affirms Settlement Allowing HPE’s Deal for Juniper",
+        "summary": "States had opposed an agreement allowing a Hewlett Packard Enterprise acquisition, calling the settlement ineffective and corrupt.",
+        "content": "States had opposed an agreement allowing a Hewlett Packard Enterprise acquisition, calling the settlement ineffective and corrupt.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/08/13/technology/hpe-juniper-justice-department-settlement.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 13 Aug 2026 22:50:07 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-024",
+        "title": "Another OpenAI Executive, Denise Dresser, Departs the A.I. Start-Up",
+        "summary": "Denise Dresser, who was previously the C.E.O. of Slack, is the latest in a string of executives to leave the artificial intelligence start-up.",
+        "content": "Denise Dresser, who was previously the C.E.O. of Slack, is the latest in a string of executives to leave the artificial intelligence start-up.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/08/13/technology/openai-executive-departure-denise-dresser.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 13 Aug 2026 21:15:40 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-025",
         "title": "3 Ex-Georgia Deputies Used Flock Cameras to Stalk People, Sheriff Says",
         "summary": "The former Bibb County deputies were arrested this week amid a growing national debate over Flock cameras, which can be found on roads in every state but Alaska.",
         "content": "The former Bibb County deputies were arrested this week amid a growing national debate over Flock cameras, which can be found on roads in every state but Alaska.",
@@ -435,64 +492,7 @@
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Wed, 12 Aug 2026 20:27:33 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-023",
-        "title": "Driver Sets Record for Hydrogen-Powered Vehicle at More Than 406 M.P.H.",
-        "summary": "Andy Green, a 64-year-old retired Royal Air Force pilot from Britain, was already the only person to break the sound barrier on land. “The ground comes at you very, very quickly,” he said.",
-        "content": "Andy Green, a 64-year-old retired Royal Air Force pilot from Britain, was already the only person to break the sound barrier on land. “The ground comes at you very, very quickly,” he said.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/08/12/us/land-speed-record-utah-andy-green.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Wed, 12 Aug 2026 19:40:30 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-024",
-        "title": "Thrive Holdings, A.I.-Focused Buyer of Service Firms, Raises $2 Billion",
-        "summary": "The company, Thrive Holdings, acquires businesses to infuse them with artificial intelligence and drew interest from backers like SoftBank.",
-        "content": "The company, Thrive Holdings, acquires businesses to infuse them with artificial intelligence and drew interest from backers like SoftBank.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/08/12/business/dealbook/thrive-holdings-ai-funding.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 13 Aug 2026 03:03:19 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-025",
-        "title": "The Surprising Truth About Instagram’s VHS Dates Videos",
-        "summary": "The Instagram account advertises itself as resurfacing lost dating service videotapes from the 1980s. Social media users have been genuinely touched.",
-        "content": "The Instagram account advertises itself as resurfacing lost dating service videotapes from the 1980s. Social media users have been genuinely touched.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/08/10/arts/vhs-dates-instagram-tapes.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Wed, 12 Aug 2026 21:37:35 +0000",
+        "publishedAt": "Thu, 13 Aug 2026 13:09:46 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
@@ -502,25 +502,82 @@
     "culture": [
       {
         "id": "AI-026",
-        "title": "AI agents aren’t legally responsible for any harm that they cause, experts say. So who is?",
-        "summary": "After Australia’s first reported automated hacking accident, experts warn deployers – and possibly developers – of AI agents could be held liable for the actions of their bots\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking ",
-        "content": "After Australia’s first reported automated hacking accident, experts warn deployers – and possibly developers – of AI agents could be held liable for the actions of their bots\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nThe law is clear, says Prof Jeannie Paterson. “If I deploy an AI agent and it causes harm to someone else, I am responsible for that harm.\n“Even if I didn’t intend for that to happen, it was foreseeable, an",
+        "title": "An AI agent for all? Try using your brain, Mark Zuckerberg | Brief letters",
+        "summary": "Meta AI | Future Guardian writers and Neets | Food for thought | Plants surviving the heat | Living and dying well\nYour article (Zuckerberg pushes ‘superintelligent’ AI for all as Meta releases open-weight model, 10 August) quotes Mark Zuckerberg as ",
+        "content": "Meta AI | Future Guardian writers and Neets | Food for thought | Plants surviving the heat | Living and dying well\nYour article (Zuckerberg pushes ‘superintelligent’ AI for all as Meta releases open-weight model, 10 August) quotes Mark Zuckerberg as saying: “Everyone will have an exceptionally capable personal agent that understands you, your goals, and everything you care about. You’ll be able to interact with your agent through any device, including your glasses.” He is wasting his time, as we",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/aug/13/ai-agents-arent-legally-responsible-for-any-harm-that-they-cause-experts-say-so-who-is",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/aug/13/an-ai-agent-for-all-try-using-your-brain-mark-zuckerberg",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Wed, 12 Aug 2026 15:00:34 GMT",
+        "publishedAt": "Thu, 13 Aug 2026 16:38:44 GMT",
         "normalizedTags": [
           "the guardian ai"
         ]
       },
       {
         "id": "AI-027",
+        "title": "Unemployed young people to join AI boot camps to get job-ready",
+        "summary": "Pilot scheme will provide three weeks of training as part of UK government’s latest attempt to address Neets crisis\nYoung people out of work or at risk of unemployment in the UK are to join “AI boot camps” where they harness the technology to get a f",
+        "content": "Pilot scheme will provide three weeks of training as part of UK government’s latest attempt to address Neets crisis\nYoung people out of work or at risk of unemployment in the UK are to join “AI boot camps” where they harness the technology to get a foothold in the workplace.\nThe government’s latest attempt to address the crisis in Neets – young people not in work or education – involves turning to a technology that many view as a potential threat to employment.\n Continue reading...",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/society/2026/aug/14/unemployed-young-people-to-join-ai-boot-camps-to-get-job-ready",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 13 Aug 2026 23:01:10 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-028",
+        "title": "Massachusetts teen accused of killing mother and brother used ChatGPT",
+        "summary": "District attorney says Arjun Aravind, 17, used internet and AI to search for fantasy stories regarding killing of his family\nA Massachusetts teenager accused of killing his mother and younger brother is being held without bail as authorities investig",
+        "content": "District attorney says Arjun Aravind, 17, used internet and AI to search for fantasy stories regarding killing of his family\nA Massachusetts teenager accused of killing his mother and younger brother is being held without bail as authorities investigate a double-murder case that prosecutors say is connected to his use of ChatGPT.\nArjun Aravind, 17, appeared Thursday morning for his arraignment in Concord district court, where a not-guilty plea was entered on his behalf to murder and several addi",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/13/massachusetts-teen-killing-chatgpt",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 13 Aug 2026 21:34:58 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-029",
+        "title": "Mark Zuckerberg says the future of AI is for everyone. But who owns it? | Raffi Krikorian",
+        "summary": "It’s a nice sentiment, but all AI users should ask three questions about their preferred choice of AI platform\nOn Monday, Mark Zuckerberg published a 6,500-word essay, The Future Is for Everyone. The essay came with something even rarer: a new Meta o",
+        "content": "It’s a nice sentiment, but all AI users should ask three questions about their preferred choice of AI platform\nOn Monday, Mark Zuckerberg published a 6,500-word essay, The Future Is for Everyone. The essay came with something even rarer: a new Meta open-weight model. An open-weight AI model is the kind of AI with which you download the entire thing, and it works on your own computer (with or without the internet) and nobody can switch it off except for you. Almost every mainstream AI tool you us",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/commentisfree/2026/aug/13/mark-zuckerberg-future-of-ai",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 13 Aug 2026 12:00:00 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-030",
         "title": "Lost jobs, inequality, rogue agents: why are we accepting oligarchs’ AI agenda? | Robert Reich",
         "summary": "The dangers of AI become clearer every day. Why are we still acting as if we have no choice about our future?\nRather than producing jobs, the US economy actually lost 23,000 jobs in July, according to Bureau of Labor Statistics data released on Frida",
         "content": "The dangers of AI become clearer every day. Why are we still acting as if we have no choice about our future?\nRather than producing jobs, the US economy actually lost 23,000 jobs in July, according to Bureau of Labor Statistics data released on Friday. In addition, May and June’s job numbers were revised downward, showing a combined 103,000 fewer jobs than previously reported.\nAs if this weren’t bad enough, wage growth has also slowed. Average hourly earnings rose by just 0.1% from June.\n Contin",
@@ -537,63 +594,6 @@
         "normalizedTags": [
           "the guardian ai"
         ]
-      },
-      {
-        "id": "AI-028",
-        "title": "‘I feel like I’m at war’: are we losing the battle against machine-made music?",
-        "summary": "Despite outcry from musicians, AI slop is creeping into the charts as record labels scramble to adapt to a new normal where hits can be made at the click of a button\nThis year, the battle for song of the summer has been eclipsed by a much more compli",
-        "content": "Despite outcry from musicians, AI slop is creeping into the charts as record labels scramble to adapt to a new normal where hits can be made at the click of a button\nThis year, the battle for song of the summer has been eclipsed by a much more complicated – some would even say disturbing – debate. That’s because we find ourselves asking not “What’s the song of the summer?” but rather “Is the song of the summer even real?”\nAmong the top contenders for the title is Fenix Flexin’s Rubberz, a single",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/music/ng-interactive/2026/aug/13/ai-music",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 13 Aug 2026 09:00:55 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-029",
-        "title": "Taiwan says it was hit by ‘abnormal’ AI-assisted cyber-attack",
-        "summary": "Taiwan’s statement comes a day after reports that suspected China-linked hackers had carried out a first-of-a-kind breach\nTaiwan says it detected AI-assisted cyber-attacks on government agencies that came from overseas last month, a new kind of threa",
-        "content": "Taiwan’s statement comes a day after reports that suspected China-linked hackers had carried out a first-of-a-kind breach\nTaiwan says it detected AI-assisted cyber-attacks on government agencies that came from overseas last month, a new kind of threat that has been reported as “first-of-a-kind breach”.\nThe Ministry of Digital Affairs (MDA) said its cybersecurity monitoring units ‌detected the “abnormal attack” targeting government agencies, which began on 20 July. The National Institute of Cyber",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/aug/13/taiwan-ai-assisted-cyber-attacks-overseas",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 13 Aug 2026 05:02:28 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-030",
-        "title": "San Francisco-area estate sells for $70m in sign of AI-fueled wealth explosion",
-        "summary": "New owner is said to be involved in AI industry, as new class of multimillionaires is entering the real estate race\nA luxury Lake Como-inspired estate in the San Francisco Bay Area has sold to a buyer “in the AI world” for a record $70m, in the lates",
-        "content": "New owner is said to be involved in AI industry, as new class of multimillionaires is entering the real estate race\nA luxury Lake Como-inspired estate in the San Francisco Bay Area has sold to a buyer “in the AI world” for a record $70m, in the latest sign of a new tech wealth boom that’s pushing home prices to extraordinary heights in the region\nThe property south of San Francisco not only becomes the most expensive sale in its affluent town of Hillsborough, doubling a previous record, but is a",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/12/san-francisco-70m-estate",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Wed, 12 Aug 2026 23:22:48 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
       }
     ]
   },
@@ -603,36 +603,36 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-    "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-    "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-    "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-    "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+    "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+    "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+    "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+    "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+    "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+    "https://the-decoder.com/suno-studio-2-0s-new-chat-feature-lets-you-talk-to-your-daw-like-its-a-bandmate/",
+    "https://the-decoder.com/gemini-3-7-flash-lands-with-coding-gains-and-undercuts-its-three-week-old-predecessors-price-by-50/",
+    "https://the-decoder.com/deepseek-launches-an-improved-v4-pro-model-raises-api-prices-and-makes-its-agent-software-open-source/",
+    "https://the-decoder.com/ling-3-0-flash-is-the-smartest-open-model-at-its-size/",
     "https://the-decoder.com/fable-5s-slow-adoption-suggests-corporate-willingness-to-pay-for-frontier-ai-has-hit-a-ceiling/",
-    "https://the-decoder.com/top-ai-lab-researchers-warned-about-automated-ai-research-and-several-of-their-predicted-milestones-have-already-fallen/",
-    "https://the-decoder.com/anthropic-brings-claude-cowork-to-its-chrome-extension-adding-skills-and-plugins-to-the-browser/",
-    "https://the-decoder.com/spacexais-grok-4-6-matches-openais-best-model-and-undercuts-it-on-price/",
-    "https://the-decoder.com/researchers-can-now-reverse-engineer-llm-prompts-from-output-text-with-near-perfect-accuracy/",
+    "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
+    "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
+    "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+    "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
     "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/",
-    "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-    "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
-    "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-    "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/",
-    "https://www.cnbc.com/2026/08/13/inside-sk-hynixs-720-billion-bet-to-build-enough-memory-for-ai.html",
-    "https://www.cnbc.com/2026/08/13/south-korea-kospi-bull-market-sk-hynix-samsung-surge.html",
-    "https://www.cnbc.com/2026/08/13/south-korea-kospi-bull-market-sk-hynix-samsung-ai-trade.html",
-    "https://www.cnbc.com/2026/08/12/jim-cramer-ai-data-center-trade-leading-stocks.html",
-    "https://www.cnbc.com/2026/08/12/ciscos-stock-drops-despite-earnings-revenue-beat.html",
+    "https://www.cnbc.com/2026/08/13/cramer-says-investors-shouldnt-let-past-market-crashes-scare-them-out-of-todays-winners.html",
+    "https://www.cnbc.com/2026/08/13/reddit-shares-jump-11percent-on-inclusion-in-sp-500.html",
+    "https://www.cnbc.com/2026/08/13/apples-tim-cook-and-howard-lutnick-open-houston-manufacturing-plant.html",
+    "https://www.cnbc.com/2026/08/13/workday-skyrockets-25percent-before-trading-halted-on-report-of-silver-lake-takeover.html",
+    "https://www.cnbc.com/2026/08/13/cisco-shares-slide-9percent-despite-earnings-beat-and-strong-guidance.html",
     "https://www.nytimes.com/2026/08/13/technology/personaltech/pangram-ai-detector-test.html",
+    "https://www.nytimes.com/2026/08/13/business/humanoid-robot-us-china.html",
+    "https://www.nytimes.com/2026/08/13/technology/hpe-juniper-justice-department-settlement.html",
+    "https://www.nytimes.com/2026/08/13/technology/openai-executive-departure-denise-dresser.html",
     "https://www.nytimes.com/2026/08/12/us/georgia-sheriffs-flock-cameras-stalking.html",
-    "https://www.nytimes.com/2026/08/12/us/land-speed-record-utah-andy-green.html",
-    "https://www.nytimes.com/2026/08/12/business/dealbook/thrive-holdings-ai-funding.html",
-    "https://www.nytimes.com/2026/08/10/arts/vhs-dates-instagram-tapes.html",
-    "https://www.theguardian.com/technology/2026/aug/13/ai-agents-arent-legally-responsible-for-any-harm-that-they-cause-experts-say-so-who-is",
-    "https://www.theguardian.com/commentisfree/2026/aug/13/lost-jobs-inequality-ai-oligarchs",
-    "https://www.theguardian.com/music/ng-interactive/2026/aug/13/ai-music",
-    "https://www.theguardian.com/technology/2026/aug/13/taiwan-ai-assisted-cyber-attacks-overseas",
-    "https://www.theguardian.com/us-news/2026/aug/12/san-francisco-70m-estate"
+    "https://www.theguardian.com/technology/2026/aug/13/an-ai-agent-for-all-try-using-your-brain-mark-zuckerberg",
+    "https://www.theguardian.com/society/2026/aug/14/unemployed-young-people-to-join-ai-boot-camps-to-get-job-ready",
+    "https://www.theguardian.com/us-news/2026/aug/13/massachusetts-teen-killing-chatgpt",
+    "https://www.theguardian.com/commentisfree/2026/aug/13/mark-zuckerberg-future-of-ai",
+    "https://www.theguardian.com/commentisfree/2026/aug/13/lost-jobs-inequality-ai-oligarchs"
   ],
-  "generatedAt": "2026-08-13T11:44:07.113Z"
+  "generatedAt": "2026-08-13T23:33:15.211Z"
 }
