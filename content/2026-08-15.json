@@ -2,9 +2,9 @@
   "date": "2026-08-15",
   "dateFormatted": "August 15, 2026",
   "headline": {
-    "title": "Google will now allow users to remove visible watermark from its AI generations",
-    "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
-    "sourceUrl": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+    "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+    "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+    "sourceUrl": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
     "sourceName": "TechCrunch AI"
   },
   "simpleSummary": [
@@ -15,101 +15,101 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "Google will now allow users to remove visible watermark from its AI generations",
-        "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
-        "content": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+        "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+        "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+        "content": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+        "sourceUrl": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Fri, 14 Aug 2026 16:13:40 +0000",
+        "publishedAt": "Sat, 15 Aug 2026 21:29:19 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-002",
-        "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-        "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from",
-        "content": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]",
+        "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+        "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+        "content": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+        "sourceUrl": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Fri, 14 Aug 2026 15:43:28 +0000",
+        "publishedAt": "Sat, 15 Aug 2026 18:58:39 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-003",
-        "title": "Kog is going deeper to squeeze more inference out of GPUs",
-        "summary": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
-        "content": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+        "title": "SpaceX officially closes its Cursor acquisition",
+        "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
+        "content": "AI coding startup Cursor is now officially a part of SpaceX.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+        "sourceUrl": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Fri, 14 Aug 2026 14:50:11 +0000",
+        "publishedAt": "Sat, 15 Aug 2026 16:30:00 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-004",
-        "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-        "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
-        "content": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
+        "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
+        "summary": "If you squint you can just about make out the hat. | Screenshot: Terrence O’Brien / The Verge\t\n\nYour AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you subm",
+        "content": "If you squint you can just about make out the hat. | Screenshot: Terrence O’Brien / The Verge\t\n\nYour AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as text or image, and then whoever is roleplaying as the AI gets 150 seconds to respond.\nJust like a real LLM, Your AI Slop Bo",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-        "sourceName": "TechCrunch AI",
+        "sourceUrl": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+        "sourceName": "The Verge AI",
         "tags": [
-          "TechCrunch AI"
+          "The Verge AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Fri, 14 Aug 2026 14:05:00 +0000",
+        "publishedAt": "2026-08-15T20:45:00.000Z",
         "normalizedTags": [
-          "techcrunch ai"
-        ]
-      },
-      {
-        "id": "AI-005",
-        "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong ",
-        "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from",
-        "content": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a letter from Mark Zuckerberg arguing AI should be “for everyone” rather than controlled by a handful of labs, but as Equity’s […]",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-        "sourceName": "TechCrunch AI",
-        "tags": [
-          "TechCrunch AI"
-        ],
-        "section": "tools",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 14 Aug 2026 14:00:00 +0000",
-        "normalizedTags": [
-          "techcrunch ai"
+          "the verge ai"
         ]
       }
     ],
     "creative": [
+      {
+        "id": "AI-005",
+        "title": "Investor pressure forces Nvidia to shrink its OpenAI bet just as Anthropic's numbers defy bubble warnings",
+        "summary": "Nvidia has cut its guarantee for OpenAI's planned data center in Ohio nearly in half, from $250 billion to just under $120 billion, after investors pushed back on the risk. Meanwhile, Anthropic is complicating the AI bubble debate with revenue that j",
+        "content": "Nvidia has cut its guarantee for OpenAI's planned data center in Ohio nearly in half, from $250 billion to just under $120 billion, after investors pushed back on the risk. Meanwhile, Anthropic is complicating the AI bubble debate with revenue that jumped from $4.7 billion to $11.5 billion in a single quarter.\nThe article Investor pressure forces Nvidia to shrink its OpenAI bet just as Anthropic's numbers defy bubble warnings appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/investor-pressure-forces-nvidia-to-shrink-its-openai-bet-just-as-anthropics-numbers-defy-bubble-warnings/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 15 Aug 2026 15:41:02 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
       {
         "id": "AI-006",
         "title": "AI-generated books are flooding Amazon and tanking sales for human authors",
@@ -185,49 +185,11 @@
         "normalizedTags": [
           "the decoder"
         ]
-      },
-      {
-        "id": "AI-010",
-        "title": "New benchmark confirms AI models still perform poorly at visual perception",
-        "summary": "Moonshot AI's PerceptionBench tests how well multimodal AI models can actually \"see,\" separate from logical reasoning. No frontier model reaches 60 percent accuracy, and GPT-5.6 Sol leads by a narrow margin. Many supposed reasoning errors actually ha",
-        "content": "Moonshot AI's PerceptionBench tests how well multimodal AI models can actually \"see,\" separate from logical reasoning. No frontier model reaches 60 percent accuracy, and GPT-5.6 Sol leads by a narrow margin. Many supposed reasoning errors actually happen as early as the image-reading stage.\nThe article New benchmark confirms AI models still perform poorly at visual perception appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/new-benchmark-confirms-ai-models-still-perform-poorly-at-visual-perception/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 15 Aug 2026 05:30:18 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
       }
     ],
     "research": [
       {
-        "id": "AI-011",
-        "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flock is chan",
-        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flock is changing officers’ access to its nationwide network of license plate readers. The move comes…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 14 Aug 2026 12:17:21 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-012",
+        "id": "AI-010",
         "title": "Position: Reasoning is a Learnable Rule-Based Process",
         "summary": "arXiv:2608.12325v1 Announce Type: new \nAbstract: Autonomous reasoning is among the most scientifically and economically motivating topics in AI today. Historically the purview of symbolic AI, recent advances have mainly emerged from deep probabilisti",
         "content": "arXiv:2608.12325v1 Announce Type: new \nAbstract: Autonomous reasoning is among the most scientifically and economically motivating topics in AI today. Historically the purview of symbolic AI, recent advances have mainly emerged from deep probabilistic generative models. Despite immense interest and rapid progress, the generative AI community has not clearly converged on operational definitions for reasoning and often implicitly rejects the historical treatment of this topic in logic and verifiab",
@@ -246,7 +208,7 @@
         ]
       },
       {
-        "id": "AI-013",
+        "id": "AI-011",
         "title": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
         "summary": "arXiv:2608.12345v1 Announce Type: new \nAbstract: Language models are increasingly deployed as co-scientists, yet their ability to uphold research integrity under institutional pressure remains unmeasured. We introduce IntegrityBench, a benchmark eval",
         "content": "arXiv:2608.12345v1 Announce Type: new \nAbstract: Language models are increasingly deployed as co-scientists, yet their ability to uphold research integrity under institutional pressure remains unmeasured. We introduce IntegrityBench, a benchmark evaluating misconduct classification, ethical action reasoning and artifact-grounded decision making across 36 paired tasks under a 5-level implicit-explicit pressure protocol spanning 3 domains and 4 research stages. Evaluating 18 frontier model variant",
@@ -265,7 +227,7 @@
         ]
       },
       {
-        "id": "AI-014",
+        "id": "AI-012",
         "title": "Position: The Alignment Community is Unintentionally Building a Censor's Toolkit",
         "summary": "arXiv:2608.12346v1 Announce Type: new \nAbstract: This position paper argues that modern AI alignment methods - originally designed to prevent harmful output - are dual-use technologies that may easily be misused by malicious actors for censorship and",
         "content": "arXiv:2608.12346v1 Announce Type: new \nAbstract: This position paper argues that modern AI alignment methods - originally designed to prevent harmful output - are dual-use technologies that may easily be misused by malicious actors for censorship and manipulation. By mapping current alignment techniques to the possibility and actual cases of misuse, we show that the quest for a \"perfectly aligned\" model inadvertently also provides malicious actors with an ever-improving tool for informational do",
@@ -284,7 +246,7 @@
         ]
       },
       {
-        "id": "AI-015",
+        "id": "AI-013",
         "title": "Agreement Is Not Alignment: Divergent Moral Grounds in Human and LLM Ethical Judgments",
         "summary": "arXiv:2608.12368v1 Announce Type: new \nAbstract: Agreement with human judgments is a common proxy for evaluating the alignment of large language models (LLMs). Yet agreement in final labels does not show that human annotators and models rely on the s",
         "content": "arXiv:2608.12368v1 Announce Type: new \nAbstract: Agreement with human judgments is a common proxy for evaluating the alignment of large language models (LLMs). Yet agreement in final labels does not show that human annotators and models rely on the same moral grounds. Two agents may reach the same judgment while appealing to different principles, contextual assumptions, or interpretations of the situation.\n  We test this distinction using a curated 500-item ETHICS-derived benchmark spanning five",
@@ -301,101 +263,101 @@
         "normalizedTags": [
           "arxiv cs.ai"
         ]
+      },
+      {
+        "id": "AI-014",
+        "title": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing",
+        "summary": "arXiv:2608.12371v1 Announce Type: new \nAbstract: Stream-processing systems increasingly operate across heterogeneous mobile edge--cloud infrastructures, where workload volatility, resource contention, and stringent quality-of-service (QoS) requiremen",
+        "content": "arXiv:2608.12371v1 Announce Type: new \nAbstract: Stream-processing systems increasingly operate across heterogeneous mobile edge--cloud infrastructures, where workload volatility, resource contention, and stringent quality-of-service (QoS) requirements complicate decentralized scheduling. This paper proposes \\emph{MAS-DecStream}, whose main contribution is \\emph{LLM-MR-CNP}: an extension of the classical Contract Net Protocol with semantic CFP formulation, progressive context disclosure, multi-r",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2608.12371",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 15 Aug 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ]
       }
     ],
     "applications": [],
     "business": [
       {
-        "id": "AI-016",
-        "title": "Nvidia discloses $21 billion stake in SpaceX at end of second quarter",
-        "summary": "Nvidia's stake in SpaceX, which came through an investment in xAI, was worth about $21 billion at the end of the second quarter.",
-        "content": "Nvidia's stake in SpaceX, which came through an investment in xAI, was worth about $21 billion at the end of the second quarter.",
+        "id": "AI-015",
+        "title": "Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter",
+        "summary": "The jump in revenue underscores the rapid growth of the Claude chatbot maker as it prepares for a potential blockbuster initial public offering.",
+        "content": "The jump in revenue underscores the rapid growth of the Claude chatbot maker as it prepares for a potential blockbuster initial public offering.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html",
+        "sourceUrl": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Fri, 14 Aug 2026 21:45:19 GMT",
+        "publishedAt": "Sat, 15 Aug 2026 14:45:31 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-016",
+        "title": "Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market",
+        "summary": "No surprises on inflation and new financing developments in the artificial intelligence trade drove the record-breaking action on Wall Street last week.",
+        "content": "No surprises on inflation and new financing developments in the artificial intelligence trade drove the record-breaking action on Wall Street last week.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 15 Aug 2026 14:22:54 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-017",
-        "title": "OpenAI CFO Friar tells investors that enterprise business now bigger than consumer by revenue",
-        "summary": "OpenAI CFO Sarah Friar met with investors following a week of turmoil in the C-suite that included the sudden departure of revenue chief Denise Dresser.",
-        "content": "OpenAI CFO Sarah Friar met with investors following a week of turmoil in the C-suite that included the sudden departure of revenue chief Denise Dresser.",
+        "title": "How long will software-defined cars last? The auto industry doesn't know yet",
+        "summary": "Cars that run on software offer benefits automakers and many customers say older cars cannot compete with. But some analysts worry the vehicles might not last.",
+        "content": "Cars that run on software offer benefits automakers and many customers say older cars cannot compete with. But some analysts worry the vehicles might not last.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/08/14/openai-cfo-friar-tells-investors-that-enterprise-bigger-than-consumer.html",
+        "sourceUrl": "https://www.cnbc.com/2026/08/15/software-defined-vehicles-rivian-tesla.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Fri, 14 Aug 2026 23:01:03 GMT",
+        "publishedAt": "Sat, 15 Aug 2026 12:00:01 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-018",
-        "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO ",
-        "summary": "OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.",
-        "content": "OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.",
+        "title": "I drove Tesla FSD, Rivian Autonomy+ ‘hands-free’ driving systems. Here’s how they compare",
+        "summary": "Rivian is trying to catch up to Tesla's \"hands-free\" capabilities, but with additional safety guardrails that the Elon Musk company doesn't have.",
+        "content": "Rivian is trying to catch up to Tesla's \"hands-free\" capabilities, but with additional safety guardrails that the Elon Musk company doesn't have.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html",
+        "sourceUrl": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Fri, 14 Aug 2026 19:07:11 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ]
-      },
-      {
-        "id": "AI-019",
-        "title": "Drone stocks rally after Trump orders tariffs on foreign-made components",
-        "summary": "The U.S. is looking to scale defense manufacturing and chip away at China's drone dominance.",
-        "content": "The U.S. is looking to scale defense manufacturing and chip away at China's drone dominance.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/08/14/drone-stocks-trump-tariffs.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 14 Aug 2026 20:04:28 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ]
-      },
-      {
-        "id": "AI-020",
-        "title": "Anthropic's investor talks, Workday's stock surge, Apple's new facility and more in Morning Squawk",
-        "summary": "Here are five key things investors need to know to start the trading day.",
-        "content": "Here are five key things investors need to know to start the trading day.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/08/14/5-things-to-know-before-the-market-opens.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 14 Aug 2026 12:17:42 GMT",
+        "publishedAt": "Sat, 15 Aug 2026 12:00:01 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
@@ -403,64 +365,7 @@
     ],
     "policy": [
       {
-        "id": "AI-021",
-        "title": "Google Turns On Gemini A.I. for Students Using Its Classroom App",
-        "summary": "Google enabled A.I. features for K-12 schools that have allowed student access to Gemini. Until this week, Google automatically enabled Gemini in Classroom only for students 18 or older.",
-        "content": "Google enabled A.I. features for K-12 schools that have allowed student access to Gemini. Until this week, Google automatically enabled Gemini in Classroom only for students 18 or older.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/08/14/business/google-gemini-ai-schools.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 14 Aug 2026 18:54:36 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-022",
-        "title": "Amazon and Alphabet’s Profits Reveal Circular Nature of A.I. Boom",
-        "summary": "Investment gains at Alphabet and Amazon reveal a new way in which technology companies’ fortunes are increasingly linked.",
-        "content": "Investment gains at Alphabet and Amazon reveal a new way in which technology companies’ fortunes are increasingly linked.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/08/14/business/ai-tech-profits.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 14 Aug 2026 14:55:08 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-023",
-        "title": "I Tested a Popular A.I. Slop Detector. It Felt Empowering.",
-        "summary": "Pangram excels at distinguishing chatbot-generated words from human writing. But it’s not reliable for spotting artificial images.",
-        "content": "Pangram excels at distinguishing chatbot-generated words from human writing. But it’s not reliable for spotting artificial images.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/08/13/technology/personaltech/pangram-ai-detector-test.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 14 Aug 2026 14:08:52 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-024",
+        "id": "AI-019",
         "title": "The Iranian YouTube Show Posing Questions Few Dare Ask",
         "summary": "Azad, a popular online debate program, has tackled topics that push the limits of Iran’s authoritarian system. Some question how it has remained on air.",
         "content": "Azad, a popular online debate program, has tackled topics that push the limits of Iran’s authoritarian system. Some question how it has remained on air.",
@@ -482,7 +387,7 @@
     "concerns": [],
     "culture": [
       {
-        "id": "AI-025",
+        "id": "AI-020",
         "title": "Secondhand booksellers in UK and Ireland suspect AI firms behind ‘strange’ bulk orders",
         "summary": "Development comes after Anthropic was found to have spent millions on books to scan for ‘data acquisition’\nSecondhand booksellers in the UK and Ireland are reporting a flurry of bulk orders from mystery buyers, amid speculation AI companies are acqui",
         "content": "Development comes after Anthropic was found to have spent millions on books to scan for ‘data acquisition’\nSecondhand booksellers in the UK and Ireland are reporting a flurry of bulk orders from mystery buyers, amid speculation AI companies are acquiring the tomes for their data.\nBookshops contacted by the Guardian say they have been receiving orders from buyers in the US, Canada, continental Europe and the UK. The increase has been replicated around the world, with booksellers in the US, Austra",
@@ -501,79 +406,22 @@
         ]
       },
       {
-        "id": "AI-026",
-        "title": "Why does everything feel meh? We're in the era of joyless decadence – Stateside with Kai and Carter",
-        "summary": "We should, in theory, be happy. Thanks to our phones, we can do practically anything – listen to our favorite bands' entire discographies, have extravagant meals delivered to our door, travel the world through an endless scroll. So why do so many of ",
-        "content": "We should, in theory, be happy. Thanks to our phones, we can do practically anything – listen to our favorite bands' entire discographies, have extravagant meals delivered to our door, travel the world through an endless scroll. So why do so many of these experiences feel so joyless? Why do so many of us feel so empty all the time? Hosts Kai Wright and Carter Sherman wrestle with these questions with academics Michèle Mendelssohn and Charlie Tyson, who argue that we are living in an era of decad",
+        "id": "AI-021",
+        "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
+        "summary": "When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place.",
+        "content": "When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/us-news/video/2026/aug/14/era-of-joyless-decadence-stateside-podcast",
-        "sourceName": "The Guardian AI",
+        "sourceUrl": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
+        "sourceName": "Wired AI",
         "tags": [
-          "The Guardian AI"
+          "Wired AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Fri, 14 Aug 2026 20:45:37 GMT",
+        "publishedAt": "Sat, 15 Aug 2026 09:00:00 +0000",
         "normalizedTags": [
-          "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-027",
-        "title": "Police Scotland warns ‘robust security’ needed to stop attacks on AI datacentres",
-        "summary": "‘A great deal of public opposition is likely’ to a proposed datacentre near Edinburgh, the force says\nPolice in Scotland have issued a stark warning about the need for “robust security measures” to stop proposed AI datacentres from being attacked by ",
-        "content": "‘A great deal of public opposition is likely’ to a proposed datacentre near Edinburgh, the force says\nPolice in Scotland have issued a stark warning about the need for “robust security measures” to stop proposed AI datacentres from being attacked by protesters.\nThere has been mounting opposition to AI infrastructure globally, including in the US where such projects have become a significant political rallying point.\n Continue reading...",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/uk-news/2026/aug/14/scottish-police-expect-public-opposition-larbert-datacentre",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 14 Aug 2026 16:05:31 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-028",
-        "title": "A Queensland man enjoyed soaring profits from a crypto trading app. Then his money started disappearing",
-        "summary": "The administrative work required to run an effective investment scam has been drastically cut by using merging technology\n\nGet our breaking news email, free app or daily news podcast\n\nWithin days of clicking on an online ad for a cryptocurrency tradi",
-        "content": "The administrative work required to run an effective investment scam has been drastically cut by using merging technology\n\nGet our breaking news email, free app or daily news podcast\n\nWithin days of clicking on an online ad for a cryptocurrency trading app, a 29-year-old Queensland man watched his dashboard soar with profits.\nMaking investment gains was as simple as downloading the slick-looking app and browser extension linked to his crypto wallet. So he invested more.\n Continue reading...",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/15/australia-crypto-money-investment-scam-ai-fraud-crime",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 14 Aug 2026 15:00:31 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-029",
-        "title": "As online dating goes into ‘salvage mode’, can AI solve all its problems?",
-        "summary": "Dating apps such as Bumble forced to adapt as ‘swipe fatigue’ grows\nBumble was supposed to be different. When it launched in 2014, it offered women a simple proposition: if you matched with a man, you had to make the first move. The rule was meant to",
-        "content": "Dating apps such as Bumble forced to adapt as ‘swipe fatigue’ grows\nBumble was supposed to be different. When it launched in 2014, it offered women a simple proposition: if you matched with a man, you had to make the first move. The rule was meant to make online dating safer and less intimidating, while giving women control over who got to speak first.\nThis week, Bumble abandoned it.\n Continue reading...",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/lifeandstyle/2026/aug/14/online-dating-salvage-mode--ai-bumble-app",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Fri, 14 Aug 2026 13:00:28 GMT",
-        "normalizedTags": [
-          "the guardian ai"
+          "wired ai"
         ]
       }
     ]
@@ -584,35 +432,27 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-    "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-    "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-    "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-    "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+    "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+    "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+    "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+    "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+    "https://the-decoder.com/investor-pressure-forces-nvidia-to-shrink-its-openai-bet-just-as-anthropics-numbers-defy-bubble-warnings/",
     "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors/",
     "https://the-decoder.com/plaintiff-hid-invisible-ai-instructions-in-court-filings-to-secretly-influence-automated-review/",
     "https://the-decoder.com/world-labs-turns-one-real-world-robot-task-into-thousands-of-simulated-variations-for-training/",
     "https://the-decoder.com/the-tragedy-of-the-cognitive-commons-explains-how-rational-ai-adoption-could-destroy-entire-professions-expertise/",
-    "https://the-decoder.com/new-benchmark-confirms-ai-models-still-perform-poorly-at-visual-perception/",
-    "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
     "https://arxiv.org/abs/2608.12325",
     "https://arxiv.org/abs/2608.12345",
     "https://arxiv.org/abs/2608.12346",
     "https://arxiv.org/abs/2608.12368",
-    "https://www.cnbc.com/2026/08/14/nvidia-discloses-21-billion-stake-in-spacex-at-end-of-second-quarter.html",
-    "https://www.cnbc.com/2026/08/14/openai-cfo-friar-tells-investors-that-enterprise-bigger-than-consumer.html",
-    "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html",
-    "https://www.cnbc.com/2026/08/14/drone-stocks-trump-tariffs.html",
-    "https://www.cnbc.com/2026/08/14/5-things-to-know-before-the-market-opens.html",
-    "https://www.nytimes.com/2026/08/14/business/google-gemini-ai-schools.html",
-    "https://www.nytimes.com/2026/08/14/business/ai-tech-profits.html",
-    "https://www.nytimes.com/2026/08/13/technology/personaltech/pangram-ai-detector-test.html",
+    "https://arxiv.org/abs/2608.12371",
+    "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
+    "https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html",
+    "https://www.cnbc.com/2026/08/15/software-defined-vehicles-rivian-tesla.html",
+    "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html",
     "https://www.nytimes.com/2026/08/15/world/middleeast/iran-youtube-show.html",
     "https://www.theguardian.com/technology/2026/aug/15/uk-ireland-booksellers-suspect-ai-companies-bulk-orders-data-acquisition",
-    "https://www.theguardian.com/us-news/video/2026/aug/14/era-of-joyless-decadence-stateside-podcast",
-    "https://www.theguardian.com/uk-news/2026/aug/14/scottish-police-expect-public-opposition-larbert-datacentre",
-    "https://www.theguardian.com/australia-news/2026/aug/15/australia-crypto-money-investment-scam-ai-fraud-crime",
-    "https://www.theguardian.com/lifeandstyle/2026/aug/14/online-dating-salvage-mode--ai-bumble-app"
+    "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/"
   ],
-  "generatedAt": "2026-08-15T11:18:04.287Z"
+  "generatedAt": "2026-08-15T23:13:40.921Z"
 }
