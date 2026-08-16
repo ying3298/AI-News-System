@@ -2,9 +2,9 @@
   "date": "2026-08-16",
   "dateFormatted": "August 16, 2026",
   "headline": {
-    "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-    "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
-    "sourceUrl": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+    "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+    "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+    "sourceUrl": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
     "sourceName": "TechCrunch AI"
   },
   "simpleSummary": [
@@ -15,76 +15,95 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-        "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
-        "content": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+        "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+        "summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+        "content": "OpenRouter's CEO recently described the startup as Stripe for AI.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+        "sourceUrl": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Sat, 15 Aug 2026 21:29:19 +0000",
+        "publishedAt": "Sun, 16 Aug 2026 20:57:04 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-002",
-        "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-        "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
-        "content": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+        "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+        "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+        "content": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+        "sourceUrl": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Sat, 15 Aug 2026 18:58:39 +0000",
+        "publishedAt": "Sun, 16 Aug 2026 20:32:01 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-003",
-        "title": "SpaceX officially closes its Cursor acquisition",
-        "summary": "AI coding startup Cursor is now officially a part of SpaceX.",
-        "content": "AI coding startup Cursor is now officially a part of SpaceX.",
+        "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+        "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+        "content": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+        "sourceUrl": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Sat, 15 Aug 2026 16:30:00 +0000",
+        "publishedAt": "Sun, 16 Aug 2026 16:53:51 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-004",
-        "title": "Have a laugh at AI’s expense by roleplaying as a chatbot",
-        "summary": "If you squint you can just about make out the hat. | Screenshot: Terrence O’Brien / The Verge\t\n\nYour AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you subm",
-        "content": "If you squint you can just about make out the hat. | Screenshot: Terrence O’Brien / The Verge\t\n\nYour AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that there's a human on both sides of the equation. Prompts can request a response as text or image, and then whoever is roleplaying as the AI gets 150 seconds to respond.\nJust like a real LLM, Your AI Slop Bo",
+        "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+        "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timelin",
+        "content": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left half done. It uses your activity to build a timeline that ChatGPT and Codex can reference when you make a request.\nThe feature is opt-in, rather than opt-out,  and you can exclude certain apps and websites from Computer History, and you can delete entries if you want finer-grained control. Ari Weinst",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+        "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
         "sourceName": "The Verge AI",
         "tags": [
           "The Verge AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "2026-08-15T20:45:00.000Z",
+        "publishedAt": "2026-08-16T14:56:40.000Z",
+        "normalizedTags": [
+          "the verge ai"
+        ]
+      },
+      {
+        "id": "AI-005",
+        "title": "Rogue AI aren’t science fiction anymore",
+        "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started \nIt a",
+        "content": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here.\nHow it started \nIt all started in July, when one of OpenAI's autonomous AI agents went rogue during a cybersecurity test. The agent escaped its isolated testing environment, accessed the internet, and hacked another company, Hugging Face. A few years ago, that might hav",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+        "sourceName": "The Verge AI",
+        "tags": [
+          "The Verge AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "2026-08-16T12:00:00.000Z",
         "normalizedTags": [
           "the verge ai"
         ]
@@ -92,7 +111,45 @@
     ],
     "creative": [
       {
-        "id": "AI-005",
+        "id": "AI-006",
+        "title": "Top mathematicians say LLMs are strong calculators but poor creative thinkers",
+        "summary": "Two renowned mathematicians, Timothy Gowers and Peter Sarnak, say large language models are good at combining known methods but lack the intuition for genuinely new mathematical ideas.\nThe article Top mathematicians say LLMs are strong calculators bu",
+        "content": "Two renowned mathematicians, Timothy Gowers and Peter Sarnak, say large language models are good at combining known methods but lack the intuition for genuinely new mathematical ideas.\nThe article Top mathematicians say LLMs are strong calculators but poor creative thinkers appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/top-mathematicians-say-llms-are-strong-calculators-but-poor-creative-thinkers/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 16 Aug 2026 15:31:21 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-007",
+        "title": "When AI models aren't allowed to reflect on themselves, it changes their entire worldview",
+        "summary": "A study involving Google researchers shows that when chatbots are trained not to claim consciousness, it also changes their stance on animal rights, religion, and life satisfaction. Unbraked models attributed significantly more inner life to animals ",
+        "content": "A study involving Google researchers shows that when chatbots are trained not to claim consciousness, it also changes their stance on animal rights, religion, and life satisfaction. Unbraked models attributed significantly more inner life to animals and suddenly affirmed an afterlife. A surgical cut in one place, it turns out, doesn't stay local.\nThe article When AI models aren't allowed to reflect on themselves, it changes their entire worldview appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/when-ai-models-arent-allowed-to-reflect-on-themselves-it-changes-their-entire-worldview/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 16 Aug 2026 11:23:30 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-008",
         "title": "OpenAI dissolved the team built to catch catastrophic AI risks, reassigning its work to other groups",
         "summary": "OpenAI shut down its \"Preparedness\" team, which evaluated whether the company's own AI models could pose catastrophic risks. The work has been parceled out to existing groups, and several safety staffers have left. Internally, unease is building, wit",
         "content": "OpenAI shut down its \"Preparedness\" team, which evaluated whether the company's own AI models could pose catastrophic risks. The work has been parceled out to existing groups, and several safety staffers have left. Internally, unease is building, with one source describing a \"burbling sense of responsibility and dread\" that OpenAI isn't doing enough on safety.\nThe article OpenAI dissolved the team built to catch catastrophic AI risks, reassigning its work to other groups appeared first on The De",
@@ -111,7 +168,7 @@
         ]
       },
       {
-        "id": "AI-006",
+        "id": "AI-009",
         "title": "Anthropic's bio-weapons filter was down for nearly a year, exposing 133 million requests",
         "summary": "In a safety report, Anthropic reveals that its internal filtering system for biological and chemical weapons risks was inactive for nearly a year. During that time, around 50,000 external feedback contractors ran about 133 million unfiltered interact",
         "content": "In a safety report, Anthropic reveals that its internal filtering system for biological and chemical weapons risks was inactive for nearly a year. During that time, around 50,000 external feedback contractors ran about 133 million unfiltered interactions with the models.\nThe article Anthropic's bio-weapons filter was down for nearly a year, exposing 133 million requests appeared first on The Decoder.",
@@ -130,7 +187,7 @@
         ]
       },
       {
-        "id": "AI-007",
+        "id": "AI-010",
         "title": "Optima tackles AI benchmarking's biggest flaw by letting users test models against their own data",
         "summary": "Artificial Analysis has launched Optima, a platform that lets users build custom AI benchmarks from their own data and workflows. Models can be compared not just on quality but also on cost and time per task. For agent-based applications, those metri",
         "content": "Artificial Analysis has launched Optima, a platform that lets users build custom AI benchmarks from their own data and workflows. Models can be compared not just on quality but also on cost and time per task. For agent-based applications, those metrics often tell you more than raw token pricing.\nThe article Optima tackles AI benchmarking's biggest flaw by letting users test models against their own data appeared first on The Decoder.",
@@ -147,134 +204,76 @@
         "normalizedTags": [
           "the decoder"
         ]
-      },
-      {
-        "id": "AI-008",
-        "title": "One in five US workers now delegates tasks to AI instead of colleagues, survey finds",
-        "summary": "A representative survey by Epoch AI found that 20 percent of employed Americans hand off at least one task to AI that a human used to do. Generally, they accept AI output with little to no editing.\nThe article One in five US workers now delegates tas",
-        "content": "A representative survey by Epoch AI found that 20 percent of employed Americans hand off at least one task to AI that a human used to do. Generally, they accept AI output with little to no editing.\nThe article One in five US workers now delegates tasks to AI instead of colleagues, survey finds appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/one-in-five-us-workers-now-delegates-tasks-to-ai-instead-of-colleagues-survey-finds/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Sun, 16 Aug 2026 05:00:00 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
-      },
-      {
-        "id": "AI-009",
-        "title": "Investor pressure forces Nvidia to shrink its OpenAI bet just as Anthropic's numbers defy bubble warnings",
-        "summary": "Nvidia has cut its guarantee for OpenAI's planned data center in Ohio nearly in half, from $250 billion to just under $120 billion, after investors pushed back on the risk. Meanwhile, Anthropic is complicating the AI bubble debate with revenue that j",
-        "content": "Nvidia has cut its guarantee for OpenAI's planned data center in Ohio nearly in half, from $250 billion to just under $120 billion, after investors pushed back on the risk. Meanwhile, Anthropic is complicating the AI bubble debate with revenue that jumped from $4.7 billion to $11.5 billion in a single quarter.\nThe article Investor pressure forces Nvidia to shrink its OpenAI bet just as Anthropic's numbers defy bubble warnings appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/investor-pressure-forces-nvidia-to-shrink-its-openai-bet-just-as-anthropics-numbers-defy-bubble-warnings/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 15 Aug 2026 15:41:02 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
       }
     ],
     "research": [],
     "applications": [],
-    "business": [
-      {
-        "id": "AI-010",
-        "title": "Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter",
-        "summary": "The jump in revenue underscores the rapid growth of the Claude chatbot maker as it prepares for a potential blockbuster initial public offering.",
-        "content": "The jump in revenue underscores the rapid growth of the Claude chatbot maker as it prepares for a potential blockbuster initial public offering.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 15 Aug 2026 14:45:31 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ]
-      },
-      {
-        "id": "AI-011",
-        "title": "Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market",
-        "summary": "No surprises on inflation and new financing developments in the artificial intelligence trade drove the record-breaking action on Wall Street last week.",
-        "content": "No surprises on inflation and new financing developments in the artificial intelligence trade drove the record-breaking action on Wall Street last week.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 15 Aug 2026 14:22:54 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ]
-      },
-      {
-        "id": "AI-012",
-        "title": "How long will software-defined cars last? The auto industry doesn't know yet",
-        "summary": "Cars that run on software offer benefits automakers and many customers say older cars cannot compete with. But some analysts worry the vehicles might not last.",
-        "content": "Cars that run on software offer benefits automakers and many customers say older cars cannot compete with. But some analysts worry the vehicles might not last.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/08/15/software-defined-vehicles-rivian-tesla.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 15 Aug 2026 12:00:01 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ]
-      },
-      {
-        "id": "AI-013",
-        "title": "I drove Tesla FSD, Rivian Autonomy+ ‘hands-free’ driving systems. Here’s how they compare",
-        "summary": "Rivian is trying to catch up to Tesla's \"hands-free\" capabilities, but with additional safety guardrails that the Elon Musk company doesn't have.",
-        "content": "Rivian is trying to catch up to Tesla's \"hands-free\" capabilities, but with additional safety guardrails that the Elon Musk company doesn't have.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 15 Aug 2026 12:00:01 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ]
-      }
-    ],
+    "business": [],
     "policy": [],
     "concerns": [],
     "culture": [
       {
+        "id": "AI-011",
+        "title": "The Guardian view on the changed world of job interviews: missing the human factor | Editorial",
+        "summary": "Andy Burnham’s doubts about Zoom interviews apply more widely to a hiring process being transformed by AI\nAlmost half of UK jobseekers have found themselves pitching to an AI bot, according to recent research, leading many to give up in frustration. ",
+        "content": "Andy Burnham’s doubts about Zoom interviews apply more widely to a hiring process being transformed by AI\nAlmost half of UK jobseekers have found themselves pitching to an AI bot, according to recent research, leading many to give up in frustration. As one despairing applicant lamented in the pages of the Guardian a few months ago: “The hiring process has become so mechanised, both figuratively and literally, that it’s hard to believe that the people who end up getting hired aren’t merely the be",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/commentisfree/2026/aug/16/the-guardian-view-on-the-changed-world-of-job-interviews-missing-the-human-factor",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 16 Aug 2026 17:30:31 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-012",
+        "title": "Deepfake Anthony Albanese used in celebrity scams duping Australians out of $7.4m, Asic warns",
+        "summary": "Australia’s corporate watchdog says PM is the figure most commonly used in deepfakes to promote phoney investment opportunities\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nTher",
+        "content": "Australia’s corporate watchdog says PM is the figure most commonly used in deepfakes to promote phoney investment opportunities\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nThere has been a steep rise in scammers luring victims into phoney investment opportunities using deepfakes of celebrities and politicians, Australia’s corporate watchdog has warned.\nAnd Anthony Albanese is the figure most commonly co-opted.\n Continue re",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/17/deepfake-anthony-albanese-used-in-celebrity-scams-duping-australians-out-of-74m-asic-warns",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 16 Aug 2026 14:01:27 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-013",
+        "title": "‘I see the incredible promise’: on set of an AI film shoot as new studios embrace controversial tech",
+        "summary": "Amid fears for jobs, some film-makers say AI could enable them bypass studio giants and take more creative risks\nNear the collonaded entrance to Sony Pictures’ historic Culver City film studio, a tech-powered rival has sprung up this summer. The arti",
+        "content": "Amid fears for jobs, some film-makers say AI could enable them bypass studio giants and take more creative risks\nNear the collonaded entrance to Sony Pictures’ historic Culver City film studio, a tech-powered rival has sprung up this summer. The artists at Promise, a new studio feeding off the potential of AI, can glimpse the lots where Singin’ in the Rain and Men in Black were shot, but no longer do they need to get beyond the studio’s high walls to make their visions come true.\nFrom far more m",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/film/2026/aug/16/directors-embracing-ai-film-making",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 16 Aug 2026 12:00:25 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
         "id": "AI-014",
         "title": "The first anti-AI protester to be jailed has a message for OpenAI, Anthropic and Meta: ‘Regain your humanity’",
-        "summary": "Wynd Kaufman, 69, chained and locked the front doors of OpenAI’s headquarters last year with members of StopAI\nAn activist who blocked the entrance to one of the world’s biggest AI companies is believed to have become the first person jailed for prot",
-        "content": "Wynd Kaufman, 69, chained and locked the front doors of OpenAI’s headquarters last year with members of StopAI\nAn activist who blocked the entrance to one of the world’s biggest AI companies is believed to have become the first person jailed for protesting against artificial intelligence as supporters dub her the “Rosa Parks of AI risk”.\nWynd Kaufman, 69, surrendered herself on Friday to authorities in San Francisco. She was found guilty by a jury for her role in an action last year that saw mem",
+        "summary": "Wynd Kaufmyn, 69, chained and locked the front doors of OpenAI’s headquarters last year with members of StopAI\nAn activist who blocked the entrance to one of the world’s biggest AI companies is believed to have become the first person jailed for prot",
+        "content": "Wynd Kaufmyn, 69, chained and locked the front doors of OpenAI’s headquarters last year with members of StopAI\nAn activist who blocked the entrance to one of the world’s biggest AI companies is believed to have become the first person jailed for protesting against artificial intelligence as supporters dub her the “Rosa Parks of AI risk”.\nWynd Kaufmyn, 69, surrendered herself on Friday to authorities in San Francisco. She was found guilty by a jury for her role in an action last year that saw mem",
         "keyTakeaways": [],
         "whyItMatters": "",
         "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/16/california-openai-protester-wynd-kaufman",
@@ -307,25 +306,6 @@
         "normalizedTags": [
           "the guardian ai"
         ]
-      },
-      {
-        "id": "AI-016",
-        "title": "‘We detected unusual activity’: the scam that uses AI to exploit your holiday photos",
-        "summary": "Fraudsters use pictures posted on Instagram or Facebook to create emails seeking bank account details\nYou are on a short break in Porto and post some pictures of your family on Instagram or Facebook. With a small section of the Douro river in the bac",
-        "content": "Fraudsters use pictures posted on Instagram or Facebook to create emails seeking bank account details\nYou are on a short break in Porto and post some pictures of your family on Instagram or Facebook. With a small section of the Douro river in the background, you think it could have been taken anywhere.\nA few days later, you get a text saying that your card was compromised. “We detected unusual activity while you were travelling in Porto – please verify immediately,” says the message.\n Continue r",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/money/2026/aug/16/scam-ai-holiday-photos-instagram-facebook",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Sun, 16 Aug 2026 06:00:17 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
       }
     ]
   },
@@ -335,22 +315,21 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-    "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-    "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-    "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+    "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+    "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+    "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+    "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+    "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+    "https://the-decoder.com/top-mathematicians-say-llms-are-strong-calculators-but-poor-creative-thinkers/",
+    "https://the-decoder.com/when-ai-models-arent-allowed-to-reflect-on-themselves-it-changes-their-entire-worldview/",
     "https://the-decoder.com/openai-dissolved-the-team-built-to-catch-catastrophic-ai-risks-reassigning-its-work-to-other-groups/",
     "https://the-decoder.com/anthropics-bio-weapons-filter-was-down-for-nearly-a-year-exposing-133-million-requests/",
     "https://the-decoder.com/optima-tackles-ai-benchmarkings-biggest-flaw-by-letting-users-test-models-against-their-own-data/",
-    "https://the-decoder.com/one-in-five-us-workers-now-delegates-tasks-to-ai-instead-of-colleagues-survey-finds/",
-    "https://the-decoder.com/investor-pressure-forces-nvidia-to-shrink-its-openai-bet-just-as-anthropics-numbers-defy-bubble-warnings/",
-    "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
-    "https://www.cnbc.com/2026/08/15/inflation-moderated-as-intel-and-nvidia-fueled-the-ai-trade-in-last-week-market.html",
-    "https://www.cnbc.com/2026/08/15/software-defined-vehicles-rivian-tesla.html",
-    "https://www.cnbc.com/2026/08/15/rivian-tesla-self-driving-adas-fsd.html",
+    "https://www.theguardian.com/commentisfree/2026/aug/16/the-guardian-view-on-the-changed-world-of-job-interviews-missing-the-human-factor",
+    "https://www.theguardian.com/australia-news/2026/aug/17/deepfake-anthony-albanese-used-in-celebrity-scams-duping-australians-out-of-74m-asic-warns",
+    "https://www.theguardian.com/film/2026/aug/16/directors-embracing-ai-film-making",
     "https://www.theguardian.com/us-news/2026/aug/16/california-openai-protester-wynd-kaufman",
-    "https://www.theguardian.com/global-development/2026/aug/16/ai-cheating-leaked-papers-marking-errors-how-exam-protests-went-global",
-    "https://www.theguardian.com/money/2026/aug/16/scam-ai-holiday-photos-instagram-facebook"
+    "https://www.theguardian.com/global-development/2026/aug/16/ai-cheating-leaked-papers-marking-errors-how-exam-protests-went-global"
   ],
-  "generatedAt": "2026-08-16T11:18:03.570Z"
+  "generatedAt": "2026-08-16T23:12:58.856Z"
 }
