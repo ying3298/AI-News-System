@@ -2,9 +2,9 @@
   "date": "2026-08-20",
   "dateFormatted": "August 20, 2026",
   "headline": {
-    "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-    "summary": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.",
-    "sourceUrl": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+    "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+    "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+    "sourceUrl": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
     "sourceName": "TechCrunch AI"
   },
   "simpleSummary": [
@@ -15,95 +15,95 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-        "summary": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.",
-        "content": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor.",
+        "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+        "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
+        "content": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+        "sourceUrl": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Thu, 20 Aug 2026 09:30:00 +0000",
+        "publishedAt": "Thu, 20 Aug 2026 22:36:37 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-002",
-        "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
-        "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
-        "content": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
+        "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+        "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
+        "content": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+        "sourceUrl": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Wed, 19 Aug 2026 23:32:00 +0000",
+        "publishedAt": "Thu, 20 Aug 2026 22:09:51 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-003",
-        "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-        "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
-        "content": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+        "title": "OK, can we actually cool data centers with our pee?",
+        "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
+        "content": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+        "sourceUrl": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Wed, 19 Aug 2026 22:10:46 +0000",
+        "publishedAt": "Thu, 20 Aug 2026 20:53:13 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-004",
-        "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-        "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
-        "content": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+        "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+        "summary": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
+        "content": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+        "sourceUrl": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Wed, 19 Aug 2026 21:51:23 +0000",
+        "publishedAt": "Thu, 20 Aug 2026 19:18:21 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-005",
-        "title": "AI was supposed to win people over by now — it hasn’t",
-        "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
-        "content": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
+        "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
+        "summary": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
+        "content": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+        "sourceUrl": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Wed, 19 Aug 2026 19:11:40 +0000",
+        "publishedAt": "Thu, 20 Aug 2026 19:15:05 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
@@ -112,95 +112,95 @@
     "creative": [
       {
         "id": "AI-006",
-        "title": "Anthropic's most capable model, codenamed \"Model 2,\" is for internal use only",
-        "summary": "Anthropic uses an unpublished AI model internally that is more powerful than any publicly available version of Claude.\nThe article Anthropic's most capable model, codenamed \"Model 2,\" is for internal use only appeared first on The Decoder.",
-        "content": "Anthropic uses an unpublished AI model internally that is more powerful than any publicly available version of Claude.\nThe article Anthropic's most capable model, codenamed \"Model 2,\" is for internal use only appeared first on The Decoder.",
+        "title": "Adobe Firefly adds AI audio tools and Google's Gemini Omni Flash",
+        "summary": "Adobe is making three AI audio tools broadly available in Firefly. Generate Music, Generate Speech, and Generate Sound Effects create royalty-free music, voiceovers, and sound effects for video projects. Adobe has also added Gemini Omni Flash to the ",
+        "content": "Adobe is making three AI audio tools broadly available in Firefly. Generate Music, Generate Speech, and Generate Sound Effects create royalty-free music, voiceovers, and sound effects for video projects. Adobe has also added Gemini Omni Flash to the platform.\nThe article Adobe Firefly adds AI audio tools and Google's Gemini Omni Flash appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/anthropic-uses-an-unpublished-ai-model-called-model-2-internally/",
+        "sourceUrl": "https://the-decoder.com/adobe-firefly-adds-ai-audio-tools-and-googles-gemini-omni-flash/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Thu, 20 Aug 2026 10:04:45 +0000",
+        "publishedAt": "Thu, 20 Aug 2026 19:29:34 +0000",
         "normalizedTags": [
           "the decoder"
         ]
       },
       {
         "id": "AI-007",
-        "title": "China now has its own AI circular financing scheme",
-        "summary": "Unitree Robotics rose 460 percent in its Shanghai IPO, hitting a valuation of around $50 billion. But an FT report shows much of the demand for its robots comes from state-backed training centers that buy the machines and sell the resulting data back",
-        "content": "Unitree Robotics rose 460 percent in its Shanghai IPO, hitting a valuation of around $50 billion. But an FT report shows much of the demand for its robots comes from state-backed training centers that buy the machines and sell the resulting data back to the manufacturers, a circular business model that echoes the Nvidia criticism in the US.\nThe article China now has its own AI circular financing scheme appeared first on The Decoder.",
+        "title": "LLMs could write like humans but post-training guardrails make their text detectable",
+        "summary": "LLMs don't write in a recognizable style because they can't do better. Post-training and safety guardrails sharply narrow their expressive range, argues Pangram CTO Bradley Emi. Base models without these constraints already write with far more variet",
+        "content": "LLMs don't write in a recognizable style because they can't do better. Post-training and safety guardrails sharply narrow their expressive range, argues Pangram CTO Bradley Emi. Base models without these constraints already write with far more variety.\nThe article LLMs could write like humans but post-training guardrails make their text detectable appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/china-now-has-its-own-ai-circular-financing-scheme/",
+        "sourceUrl": "https://the-decoder.com/llms-could-write-like-humans-but-post-training-guardrails-make-their-text-detectable/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Thu, 20 Aug 2026 09:23:37 +0000",
+        "publishedAt": "Thu, 20 Aug 2026 17:36:51 +0000",
         "normalizedTags": [
           "the decoder"
         ]
       },
       {
         "id": "AI-008",
-        "title": "Terence Tao says AI could trigger math's biggest crisis since Gödel",
-        "summary": "In a new essay, Terence Tao warns that AI could push mathematics into a crisis on par with the foundational upheaval around 1900. What's being tested this time isn't mathematical truth but the values of the field: what counts as a contribution, what ",
-        "content": "In a new essay, Terence Tao warns that AI could push mathematics into a crisis on par with the foundational upheaval around 1900. What's being tested this time isn't mathematical truth but the values of the field: what counts as a contribution, what gets rewarded, and who did the work. His rule of thumb: a proof that no human can explain should be considered incomplete.\nThe article Terence Tao says AI could trigger math's biggest crisis since Gödel appeared first on The Decoder.",
+        "title": "Frontier Radar #4: China has caught up, so what's left of the Western AI lead?",
+        "summary": "Kimi K3 and GLM-5.3 are now within striking distance of the best US models. Western labs blame distillation, and there's real evidence for it. But guilty or not, the conclusion is the same: a model lead can't be defended. This issue looks at what can",
+        "content": "Kimi K3 and GLM-5.3 are now within striking distance of the best US models. Western labs blame distillation, and there's real evidence for it. But guilty or not, the conclusion is the same: a model lead can't be defended. This issue looks at what can.\nThe article Frontier Radar #4: China has caught up, so what's left of the Western AI lead? appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/terence-tao-says-ai-could-trigger-maths-biggest-crisis-since-godel/",
+        "sourceUrl": "https://the-decoder.com/frontier-radar-4-china-has-caught-up-so-whats-left-of-the-western-ai-lead/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Thu, 20 Aug 2026 08:49:36 +0000",
+        "publishedAt": "Thu, 20 Aug 2026 14:08:14 +0000",
         "normalizedTags": [
           "the decoder"
         ]
       },
       {
         "id": "AI-009",
-        "title": "OpenAI builds safety system that catches misuse without storing customer data",
-        "summary": "OpenAI plans to offer its most advanced AI models to corporate customers without storing their data, while still detecting misuse.\nThe article OpenAI builds safety system that catches misuse without storing customer data appeared first on The Decoder",
-        "content": "OpenAI plans to offer its most advanced AI models to corporate customers without storing their data, while still detecting misuse.\nThe article OpenAI builds safety system that catches misuse without storing customer data appeared first on The Decoder.",
+        "title": "GEN-1.5: Generalist AI teaches robots new tasks from a single demo",
+        "summary": "Robotics startup Generalist AI has unveiled GEN-1.5, an AI model that teaches robots new tasks from a single demonstration.\nThe article GEN-1.5: Generalist AI teaches robots new tasks from a single demo appeared first on The Decoder.",
+        "content": "Robotics startup Generalist AI has unveiled GEN-1.5, an AI model that teaches robots new tasks from a single demonstration.\nThe article GEN-1.5: Generalist AI teaches robots new tasks from a single demo appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/openai-builds-safety-system-that-catches-misuse-without-storing-customer-data/",
+        "sourceUrl": "https://the-decoder.com/gen-1-5-generalist-ai-teaches-robots-new-tasks-from-a-single-demo/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Thu, 20 Aug 2026 08:01:18 +0000",
+        "publishedAt": "Thu, 20 Aug 2026 12:35:52 +0000",
         "normalizedTags": [
           "the decoder"
         ]
       },
       {
         "id": "AI-010",
-        "title": "Stripe declares we're living in the singularity and uses it as a reason not to IPO",
-        "summary": "In a letter to investors, Stripe declares January 1 the \"beginning of the singularity\" and uses that as a reason to stay private. Not that it needs one: revenue grew 41 percent in the first half of the year, and the company confirmed its $8 billion-p",
-        "content": "In a letter to investors, Stripe declares January 1 the \"beginning of the singularity\" and uses that as a reason to stay private. Not that it needs one: revenue grew 41 percent in the first half of the year, and the company confirmed its $8 billion-plus acquisition of OpenRouter. Declaring the singularity is in vogue right now. Hassabis, Altman, and Musk all say it's already here.\nThe article Stripe declares we're living in the singularity and uses it as a reason not to IPO appeared first on The",
+        "title": "KI-Pioneer Sutton calls synthetic data a \"big mistake\" in the face of an infinitely complex world",
+        "summary": "Turing Award winner Richard Sutton calls synthetic data a \"big mistake\" for scaling large language models. The world is infinitely complex, and any simulation of it is \"microscopic,\" with human expertise acting as a bottleneck that blocks real scalin",
+        "content": "Turing Award winner Richard Sutton calls synthetic data a \"big mistake\" for scaling large language models. The world is infinitely complex, and any simulation of it is \"microscopic,\" with human expertise acting as a bottleneck that blocks real scaling. Sutton's alternative is agents that learn continually from their own experience instead of relying on frozen models.\nThe article KI-Pioneer Sutton calls synthetic data a \"big mistake\" in the face of an infinitely complex world appeared first on Th",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/stripe-declares-were-living-in-the-singularity-and-uses-it-as-a-reason-not-to-ipo/",
+        "sourceUrl": "https://the-decoder.com/ki-pioneer-sutton-calls-synthetic-data-a-big-mistake-in-the-face-of-an-infinitely-complex-world/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Wed, 19 Aug 2026 20:03:20 +0000",
+        "publishedAt": "Thu, 20 Aug 2026 12:14:07 +0000",
         "normalizedTags": [
           "the decoder"
         ]
@@ -209,6 +209,44 @@
     "research": [
       {
         "id": "AI-011",
+        "title": "Debates over AI consciousness are a trap",
+        "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman pu",
+        "content": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” systems, while a separate faction, led by policy organizations…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 20 Aug 2026 15:42:39 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-012",
+        "title": "The Download: polycrisis support networks and a hydrogen gold rush",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Support networks aim to help kids through the polycrisis Sometime in the late 2000s, six-year-old Pim Sullivan-T",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Support networks aim to help kids through the polycrisis Sometime in the late 2000s, six-year-old Pim Sullivan-Tailyour was sitting in the back of a car in Thailand when she saw a…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 20 Aug 2026 12:10:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-013",
         "title": "The next big thing in hydrogen could be underground",
         "summary": "There’s a hunt for new sources of hydrogen, and the gas (or at least the right conditions to make it) could be hiding beneath our feet. Hydrogen can be used as a fuel in everything from large trucks to planes to steelmaking. It’s often hailed as a cl",
         "content": "There’s a hunt for new sources of hydrogen, and the gas (or at least the right conditions to make it) could be hiding beneath our feet. Hydrogen can be used as a fuel in everything from large trucks to planes to steelmaking. It’s often hailed as a climate solution because when burned, it produces water…",
@@ -227,7 +265,7 @@
         ]
       },
       {
-        "id": "AI-012",
+        "id": "AI-014",
         "title": "Unlocking hidden revenue streams with market models",
         "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variab",
         "content": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, season, time of day, current events, global markets, and competitor airline activity to name…",
@@ -246,7 +284,7 @@
         ]
       },
       {
-        "id": "AI-013",
+        "id": "AI-015",
         "title": "Support networks aim to help kids through the polycrisis",
         "summary": "Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-grandmother’s tiny town in the south of Thailand. She watched big mountains pass by out the window. She was just six years old but was about t",
         "content": "Sometime in the late 2000s, Pim Sullivan-Tailyour was sitting in the back of a car, headed toward her great-grandmother’s tiny town in the south of Thailand. She watched big mountains pass by out the window. She was just six years old but was about to be hit by an adult-size realization. “They were just quarried…",
@@ -263,139 +301,101 @@
         "normalizedTags": [
           "mit tech review"
         ]
-      },
-      {
-        "id": "AI-014",
-        "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI’s recursive self-improvement might not come so quickly after all The AI industry’s boldest promise right now ",
-        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI’s recursive self-improvement might not come so quickly after all The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight.…",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
-        "sourceName": "MIT Tech Review",
-        "tags": [
-          "MIT Tech Review"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Wed, 19 Aug 2026 12:10:00 +0000",
-        "normalizedTags": [
-          "mit tech review"
-        ]
-      },
-      {
-        "id": "AI-015",
-        "title": "Position: Collusion Risks Among AI Reasoning Agents Justify Certification Requirements for Making Market Decisions",
-        "summary": "arXiv:2608.18078v1 Announce Type: new \nAbstract: This position paper argues that AI agents with chain-of-thought reasoning capabilities are predisposed to exhibit collusive behavior and should be required to obtain behavioral certification before mak",
-        "content": "arXiv:2608.18078v1 Announce Type: new \nAbstract: This position paper argues that AI agents with chain-of-thought reasoning capabilities are predisposed to exhibit collusive behavior and should be required to obtain behavioral certification before making decisions that affect economic markets. This is because integrating these agents into society could collapse the legal evidentiary distinction between competition and collusion among independent firms without eroding the economic harm distinction",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://arxiv.org/abs/2608.18078",
-        "sourceName": "ArXiv CS.AI",
-        "tags": [
-          "ArXiv CS.AI"
-        ],
-        "section": "research",
-        "readTime": "2 min",
-        "publishedAt": "Thu, 20 Aug 2026 00:00:00 -0400",
-        "normalizedTags": [
-          "arxiv cs.ai"
-        ]
       }
     ],
     "applications": [],
     "business": [
       {
         "id": "AI-016",
-        "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
-        "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBea",
-        "content": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst and a founding analyst of VentureBeat Research. His arrival is the next step in a deliberate move at VentureBeat toward deeper specialization: analysis built for the technical decision-makers — the directors, VPs, CIOs, and CTOs — who are evaluating, buying, and deploying enterprise AI.\nThe enterprise AI stack is being rewritten in real time, and the decision",
+        "title": "Micron CEO: AI has 'totally changed' the equation for the boom-and-bust memory industry",
+        "summary": "Micron CEO Sanjay Mehrotra said on Thursday that AI has dramatically changed the memory business.",
+        "content": "Micron CEO Sanjay Mehrotra said on Thursday that AI has dramatically changed the memory business.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
-        "sourceName": "VentureBeat AI",
-        "tags": [
-          "VentureBeat AI"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Wed, 19 Aug 2026 14:18:12 GMT",
-        "normalizedTags": [
-          "venturebeat ai"
-        ]
-      },
-      {
-        "id": "AI-017",
-        "title": "How Micron's $50 billion Boise buildout is reshaping its hometown",
-        "summary": "Micron's AI-fueled rise and expansion are creating jobs and wealth in Boise, Idaho, while adding pressure to housing, traffic and the city's identity.",
-        "content": "Micron's AI-fueled rise and expansion are creating jobs and wealth in Boise, Idaho, while adding pressure to housing, traffic and the city's identity.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/08/20/micron-boise-chip-fab-expansion.html",
+        "sourceUrl": "https://www.cnbc.com/2026/08/20/micron-ceo-ai-changed-memory-industry.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Thu, 20 Aug 2026 11:00:01 GMT",
+        "publishedAt": "Thu, 20 Aug 2026 22:51:36 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-017",
+        "title": "Jim Cramer says there's an 'incredibly jarring gulf between stock prices and reality'",
+        "summary": "Worries about the state of the consumer, higher oil prices and elevated interest rates are overshadowing strong company fundamentals.",
+        "content": "Worries about the state of the consumer, higher oil prices and elevated interest rates are overshadowing strong company fundamentals.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/08/20/jim-cramer-jarring-gulf-stock-prices-reality.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 20 Aug 2026 22:28:26 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-018",
-        "title": "Alibaba shares fall 3% as AI spending drives 75% drop in net income",
-        "summary": "Alibaba's U.S. listed shares were volatile in premarket trading after posting a 75% drop in net income in the June quarter.",
-        "content": "Alibaba's U.S. listed shares were volatile in premarket trading after posting a 75% drop in net income in the June quarter.",
+        "title": "AI data center outrage is showing up everywhere from ads to elections",
+        "summary": "With less than three months until the midterm elections, opposition to AI data centers is becoming a bipartisan rallying cry in a growing number of states.",
+        "content": "With less than three months until the midterm elections, opposition to AI data centers is becoming a bipartisan rallying cry in a growing number of states.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/08/20/alibaba-cloud-revenue.html",
+        "sourceUrl": "https://www.cnbc.com/2026/08/20/ai-data-center-election-backlash.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Thu, 20 Aug 2026 11:14:16 GMT",
+        "publishedAt": "Thu, 20 Aug 2026 15:56:12 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-019",
-        "title": "Stripe to buy OpenRouter as fintech expands deeper into AI",
-        "summary": "Stripe said it's acquiring OpenRouter, as the payments company expands into the artificial intelligence model market.",
-        "content": "Stripe said it's acquiring OpenRouter, as the payments company expands into the artificial intelligence model market.",
+        "title": "Bitcoin surges 12% in two days as Trump, crypto execs lead last ditch effort for Clarity Act",
+        "summary": "Bitcoin is trading at its highest levels since early June as crypto execs joined with President Donald Trump push to get the Clarity Act over the finish line.",
+        "content": "Bitcoin is trading at its highest levels since early June as crypto execs joined with President Donald Trump push to get the Clarity Act over the finish line.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/08/19/stripe-openrouter-fintech-ai-model-marketplace-.html",
+        "sourceUrl": "https://www.cnbc.com/2026/08/20/bitcoin-surges-as-trump-crypto-execs-lead-final-push-for-clarity-act.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Wed, 19 Aug 2026 20:10:01 GMT",
+        "publishedAt": "Thu, 20 Aug 2026 16:07:53 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-020",
-        "title": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees",
-        "summary": "In an all hands meeting, Friar told employees not worry about rival Anthropic's IPO timeline.",
-        "content": "In an all hands meeting, Friar told employees not worry about rival Anthropic's IPO timeline.",
+        "title": "The Treasury's debt buyback, Walmart earnings, Boise's AI boom and more in Morning Squawk",
+        "summary": "Here are five key things investors need to know to start the trading day.",
+        "content": "Here are five key things investors need to know to start the trading day.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html",
+        "sourceUrl": "https://www.cnbc.com/2026/08/20/5-things-to-know-before-the-stock-market-opens.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Wed, 19 Aug 2026 20:07:09 GMT",
+        "publishedAt": "Thu, 20 Aug 2026 12:29:36 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
@@ -404,95 +404,57 @@
     "policy": [
       {
         "id": "AI-021",
-        "title": "Stripe Buys A.I. Start-Up OpenRouter for $7.5 Billion",
-        "summary": "The deal is significant for the artificial intelligence industry, uniting Stripe’s payments business with OpenRouter’s helping businesses direct their spending on A.I. models.",
-        "content": "The deal is significant for the artificial intelligence industry, uniting Stripe’s payments business with OpenRouter’s helping businesses direct their spending on A.I. models.",
+        "title": "New Jersey Teenager Drops Bellwether Social Media Addiction Lawsuit",
+        "summary": "The case was the third of nine major personal injury cases that could expose Meta, YouTube, Snap and TikTok to financial damages and force them to change the designs of their platforms.",
+        "content": "The case was the third of nine major personal injury cases that could expose Meta, YouTube, Snap and TikTok to financial damages and force them to change the designs of their platforms.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/08/19/business/stripe-openrouter-ai.html",
+        "sourceUrl": "https://www.nytimes.com/2026/08/20/technology/social-media-addiction-lawsuit-dropped.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Wed, 19 Aug 2026 20:02:11 +0000",
+        "publishedAt": "Thu, 20 Aug 2026 22:46:15 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
       },
       {
         "id": "AI-022",
-        "title": "Google’s Pixel 11 Comes With Plenty of A.I. Does Anyone Want That?",
-        "summary": "The phone’s artificial intelligence can order groceries, book tables and take photos on a user’s behalf. But is it something people really want?",
-        "content": "The phone’s artificial intelligence can order groceries, book tables and take photos on a user’s behalf. But is it something people really want?",
+        "title": "Two Binance Employees Detained in the U.A.E. Amid Police Inquiries",
+        "summary": "The detentions of the workers, who have been released, are a sign of legal pressure that the world’s largest crypto exchange faces in the Emirates, which is home to its main regulator.",
+        "content": "The detentions of the workers, who have been released, are a sign of legal pressure that the world’s largest crypto exchange faces in the Emirates, which is home to its main regulator.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html",
+        "sourceUrl": "https://www.nytimes.com/2026/08/20/technology/two-binance-employees-detained-uae.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Wed, 19 Aug 2026 19:06:05 +0000",
+        "publishedAt": "Thu, 20 Aug 2026 19:57:52 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
       },
       {
         "id": "AI-023",
-        "title": "A County Got Rich From Data Centers. Some Question ‘At What Cost?’",
-        "summary": "Loudoun County, Va., hosts more than 250 data centers that bring in huge tax revenues. But some officials and residents worry the county has become too dependent on that cash.",
-        "content": "Loudoun County, Va., hosts more than 250 data centers that bring in huge tax revenues. But some officials and residents worry the county has become too dependent on that cash.",
+        "title": "The Funny Way That Stand-Up Comics Are Posting on Social Media",
+        "summary": "Comedians used to post footage of their performances to build a following. Now, some are finding that comic strip-style panels with captions pack a bigger punch.",
+        "content": "Comedians used to post footage of their performances to build a following. Now, some are finding that comic strip-style panels with captions pack a bigger punch.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/08/19/technology/data-centers-backlash-loudoun-virginia.html",
+        "sourceUrl": "https://www.nytimes.com/2026/08/19/arts/comedians-social-media-photos-captions.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Wed, 19 Aug 2026 16:50:35 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-024",
-        "title": "Voters Aren’t Waiting for November to Try Ousting Officials Over Data Centers",
-        "summary": "As a backlash grows over data centers, more local officials are facing recall elections for their support of the computing sites.",
-        "content": "As a backlash grows over data centers, more local officials are facing recall elections for their support of the computing sites.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/08/19/technology/data-centers-voter-concerns-independence-missouri.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Wed, 19 Aug 2026 20:05:47 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-025",
-        "title": "Chinese Start-Up Lands Reusable Rocket for the First Time",
-        "summary": "The milestone by the private company, LandSpace, could put China closer to challenging SpaceX’s rule in lower-cost spaceflight.",
-        "content": "The milestone by the private company, LandSpace, could put China closer to challenging SpaceX’s rule in lower-cost spaceflight.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/08/19/world/asia/china-rocket-first-stage-recovery-land.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Wed, 19 Aug 2026 21:49:10 +0000",
+        "publishedAt": "Thu, 20 Aug 2026 18:34:00 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
@@ -501,7 +463,26 @@
     "concerns": [],
     "culture": [
       {
-        "id": "AI-026",
+        "id": "AI-024",
+        "title": "UK cinemas look at banning Meta smart glasses over piracy fears",
+        "summary": "Trade body says local chains would have to balance concerns with potential benefits of AI-enabled technology\nCinemas across the UK are considering banning customers from wearing Meta’s smart glasses amid fears they could be used to pirate films.\nThe ",
+        "content": "Trade body says local chains would have to balance concerns with potential benefits of AI-enabled technology\nCinemas across the UK are considering banning customers from wearing Meta’s smart glasses amid fears they could be used to pirate films.\nThe UK Cinema Association (UKCA) trade body said that a number of local chains could end up introducing policies that restrict camera-enabled smart glasses at the big screen, adding to a growing list of venues concerned about covert use.\n Continue readin",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/aug/20/piracy-fears-prompt-calls-for-ban-on-meta-smart-glasses-in-uk-cinemas",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Thu, 20 Aug 2026 14:57:25 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-025",
         "title": "Frustrated GP patients hang up as Yorkshire accent baffles AI receptionist",
         "summary": "‘Emma’ the Rotherham chatbot has 17 languages says AI firm – but health watchdog says system struggling with local ‘twangs’\nPatients in a South Yorkshire town are frustrated by an AI GP receptionist not understanding their “broad accents”, a health w",
         "content": "‘Emma’ the Rotherham chatbot has 17 languages says AI firm – but health watchdog says system struggling with local ‘twangs’\nPatients in a South Yorkshire town are frustrated by an AI GP receptionist not understanding their “broad accents”, a health watchdog has said.\nHealthwatch Rotherham, a local health and social care watchdog, said a number of practices in the area had introduced a new AI receptionist called Emma.\n Continue reading...",
@@ -520,7 +501,7 @@
         ]
       },
       {
-        "id": "AI-027",
+        "id": "AI-026",
         "title": "It used to be our imperfect bodies that made us insecure. With AI, it’s our minds as well",
         "summary": "For most of modern history, technology sought to imitate humans. Humans increasingly seek to imitate technology\nTwo faces that appeared on my Instagram feed in recent months gave me pause. One belonged to John Travolta at Cannes. The other to Carla B",
         "content": "For most of modern history, technology sought to imitate humans. Humans increasingly seek to imitate technology\nTwo faces that appeared on my Instagram feed in recent months gave me pause. One belonged to John Travolta at Cannes. The other to Carla Bruni on a date night with her husband, former French President Nicolas Sarkozy. Both looked recognisably themselves, yet, they both also looked oddly unfamiliar. Their looks have provoked speculation about cosmetic enhancement, though never acknowled",
@@ -539,7 +520,7 @@
         ]
       },
       {
-        "id": "AI-028",
+        "id": "AI-027",
         "title": "UC Berkeley professor admits to using AI to edit op-ed on students’ math skills",
         "summary": "Zvezdelina Stankova says she used AI to ‘help edit’ an article about some of her students being ‘five to eight years’ behind\nA math professor at the University of California, Berkeley, criticizing a “severe” math deficiency among students in an op-ed",
         "content": "Zvezdelina Stankova says she used AI to ‘help edit’ an article about some of her students being ‘five to eight years’ behind\nA math professor at the University of California, Berkeley, criticizing a “severe” math deficiency among students in an op-ed for the San Francisco Standard, admitted to using artificial intelligence to help edit the piece.\nThe Standard published a 2,000-word piece by Zvezdelina Stankova last week, in which the professor said some of her math students were “five to eight y",
@@ -558,39 +539,20 @@
         ]
       },
       {
-        "id": "AI-029",
-        "title": "Did someone wearing Meta Glasses film you today? Are you sure?",
-        "summary": "People say they’ve been secretly filmed in their own homes, at concerts and at work. Are the wildly popular smartglasses the final nail in the coffin of personal privacy?\n“I’ve had one person who told me that their intentions were creepy,” a man tell",
-        "content": "People say they’ve been secretly filmed in their own homes, at concerts and at work. Are the wildly popular smartglasses the final nail in the coffin of personal privacy?\n“I’ve had one person who told me that their intentions were creepy,” a man tells me over a video call, on condition of anonymity. He’s based in Los Angeles, and while we speak, he eats what appears to be tuna directly out of the can. “He said: ‘I go to strip clubs, and I want to record the strippers … Normally I put my phone in",
+        "id": "AI-028",
+        "title": "Silicon Valley Doesn't Get Why You Hate AI",
+        "summary": "Technology leaders don’t seem to understand society’s gripes about AI, but boy, are they posting through it.",
+        "content": "Technology leaders don’t seem to understand society’s gripes about AI, but boy, are they posting through it.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/ng-interactive/2026/aug/19/meta-glasses-privacy-surveillance",
-        "sourceName": "The Guardian AI",
-        "tags": [
-          "The Guardian AI"
-        ],
-        "section": "culture",
-        "readTime": "2 min",
-        "publishedAt": "Wed, 19 Aug 2026 14:13:08 GMT",
-        "normalizedTags": [
-          "the guardian ai"
-        ]
-      },
-      {
-        "id": "AI-030",
-        "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
-        "summary": "During a recent visit to Generalist AI, I watched a robotic arm improvise and use a banana as a tool.",
-        "content": "During a recent visit to Generalist AI, I watched a robotic arm improvise and use a banana as a tool.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
+        "sourceUrl": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
         "sourceName": "Wired AI",
         "tags": [
           "Wired AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Wed, 19 Aug 2026 19:30:00 +0000",
+        "publishedAt": "Thu, 20 Aug 2026 18:49:07 +0000",
         "normalizedTags": [
           "wired ai"
         ]
@@ -603,36 +565,34 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
-    "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
-    "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
-    "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
-    "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
-    "https://the-decoder.com/anthropic-uses-an-unpublished-ai-model-called-model-2-internally/",
-    "https://the-decoder.com/china-now-has-its-own-ai-circular-financing-scheme/",
-    "https://the-decoder.com/terence-tao-says-ai-could-trigger-maths-biggest-crisis-since-godel/",
-    "https://the-decoder.com/openai-builds-safety-system-that-catches-misuse-without-storing-customer-data/",
-    "https://the-decoder.com/stripe-declares-were-living-in-the-singularity-and-uses-it-as-a-reason-not-to-ipo/",
+    "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+    "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+    "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
+    "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+    "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
+    "https://the-decoder.com/adobe-firefly-adds-ai-audio-tools-and-googles-gemini-omni-flash/",
+    "https://the-decoder.com/llms-could-write-like-humans-but-post-training-guardrails-make-their-text-detectable/",
+    "https://the-decoder.com/frontier-radar-4-china-has-caught-up-so-whats-left-of-the-western-ai-lead/",
+    "https://the-decoder.com/gen-1-5-generalist-ai-teaches-robots-new-tasks-from-a-single-demo/",
+    "https://the-decoder.com/ki-pioneer-sutton-calls-synthetic-data-a-big-mistake-in-the-face-of-an-infinitely-complex-world/",
+    "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+    "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
     "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
     "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
     "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/",
-    "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
-    "https://arxiv.org/abs/2608.18078",
-    "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
-    "https://www.cnbc.com/2026/08/20/micron-boise-chip-fab-expansion.html",
-    "https://www.cnbc.com/2026/08/20/alibaba-cloud-revenue.html",
-    "https://www.cnbc.com/2026/08/19/stripe-openrouter-fintech-ai-model-marketplace-.html",
-    "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html",
-    "https://www.nytimes.com/2026/08/19/business/stripe-openrouter-ai.html",
-    "https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html",
-    "https://www.nytimes.com/2026/08/19/technology/data-centers-backlash-loudoun-virginia.html",
-    "https://www.nytimes.com/2026/08/19/technology/data-centers-voter-concerns-independence-missouri.html",
-    "https://www.nytimes.com/2026/08/19/world/asia/china-rocket-first-stage-recovery-land.html",
+    "https://www.cnbc.com/2026/08/20/micron-ceo-ai-changed-memory-industry.html",
+    "https://www.cnbc.com/2026/08/20/jim-cramer-jarring-gulf-stock-prices-reality.html",
+    "https://www.cnbc.com/2026/08/20/ai-data-center-election-backlash.html",
+    "https://www.cnbc.com/2026/08/20/bitcoin-surges-as-trump-crypto-execs-lead-final-push-for-clarity-act.html",
+    "https://www.cnbc.com/2026/08/20/5-things-to-know-before-the-stock-market-opens.html",
+    "https://www.nytimes.com/2026/08/20/technology/social-media-addiction-lawsuit-dropped.html",
+    "https://www.nytimes.com/2026/08/20/technology/two-binance-employees-detained-uae.html",
+    "https://www.nytimes.com/2026/08/19/arts/comedians-social-media-photos-captions.html",
+    "https://www.theguardian.com/technology/2026/aug/20/piracy-fears-prompt-calls-for-ban-on-meta-smart-glasses-in-uk-cinemas",
     "https://www.theguardian.com/society/2026/aug/20/yorkshire-rotherham-ai-gp-receptionist-cannot-understand-accent",
     "https://www.theguardian.com/commentisfree/2026/aug/20/bodies-ai-minds-history-technology-humans",
     "https://www.theguardian.com/us-news/2026/aug/19/uc-berkeley-professor-ai",
-    "https://www.theguardian.com/technology/ng-interactive/2026/aug/19/meta-glasses-privacy-surveillance",
-    "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/"
+    "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/"
   ],
-  "generatedAt": "2026-08-20T11:24:11.441Z"
+  "generatedAt": "2026-08-20T23:18:49.151Z"
 }
