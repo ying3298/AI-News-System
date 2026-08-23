@@ -2,9 +2,9 @@
   "date": "2026-08-23",
   "dateFormatted": "August 23, 2026",
   "headline": {
-    "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-    "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
-    "sourceUrl": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+    "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+    "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+    "sourceUrl": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
     "sourceName": "TechCrunch AI"
   },
   "simpleSummary": [
@@ -15,76 +15,76 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-        "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
-        "content": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+        "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+        "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+        "content": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+        "sourceUrl": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Sat, 22 Aug 2026 21:46:56 +0000",
+        "publishedAt": "Sun, 23 Aug 2026 20:01:36 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-002",
-        "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-        "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
-        "content": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation.",
+        "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+        "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
+        "content": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+        "sourceUrl": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Sat, 22 Aug 2026 19:00:00 +0000",
+        "publishedAt": "Sun, 23 Aug 2026 19:14:08 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-003",
-        "title": "OpenAI says California should strengthen its AI safety bill",
-        "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
-        "content": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+        "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+        "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
+        "content": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+        "sourceUrl": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Sat, 22 Aug 2026 16:30:34 +0000",
+        "publishedAt": "Sun, 23 Aug 2026 15:30:00 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-004",
-        "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-        "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
-        "content": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+        "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+        "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+        "content": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+        "sourceUrl": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Sat, 22 Aug 2026 16:00:00 +0000",
+        "publishedAt": "Sun, 23 Aug 2026 15:00:00 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
@@ -93,6 +93,25 @@
     "creative": [
       {
         "id": "AI-005",
+        "title": "An AI boss fired its first employee but only after humans reminded it of its own rules",
+        "summary": "Andon Labs' AI agent Luna fired a human employee at a San Francisco store for the first time but needed a clear push from the operators to do it. When the scenario was replayed with seven models, more capable AIs recommended termination more consiste",
+        "content": "Andon Labs' AI agent Luna fired a human employee at a San Francisco store for the first time but needed a clear push from the operators to do it. When the scenario was replayed with seven models, more capable AIs recommended termination more consistently, while weaker ones hesitated. When it came to hiring, nearly all models were uncritical.\nThe article An AI boss fired its first employee but only after humans reminded it of its own rules appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/an-ai-boss-fired-its-first-employee-but-only-after-humans-reminded-it-of-its-own-rules/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 23 Aug 2026 12:31:59 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-006",
         "title": "AI is becoming AI's biggest customer as agentic token usage jumps 14x on OpenRouter",
         "summary": "AI agents have consumed more tokens than humans on OpenRouter since February 6, 2025. Agentic usage has grown 14x since then, while human usage is up just 2.8x. Nearly 70 percent of agent token consumption comes from cheap cached prompts, though, so ",
         "content": "AI agents have consumed more tokens than humans on OpenRouter since February 6, 2025. Agentic usage has grown 14x since then, while human usage is up just 2.8x. Nearly 70 percent of agent token consumption comes from cheap cached prompts, though, so actual costs are rising far more slowly than the raw numbers suggest.\nThe article AI is becoming AI's biggest customer as agentic token usage jumps 14x on OpenRouter appeared first on The Decoder.",
@@ -111,7 +130,7 @@
         ]
       },
       {
-        "id": "AI-006",
+        "id": "AI-007",
         "title": "AI could make scientists do more work less well, not less work better, study argues",
         "summary": "Even if language models worked perfectly, they could make research worse, not better. A new theoretical study argues that because AI saves time, researchers' remaining hours become more valuable and get funneled into starting new projects instead of ",
         "content": "Even if language models worked perfectly, they could make research worse, not better. A new theoretical study argues that because AI saves time, researchers' remaining hours become more valuable and get funneled into starting new projects instead of improving existing ones. In two out of three modeled scenarios, the quality of individual publications drops.\nThe article AI could make scientists do more work less well, not less work better, study argues appeared first on The Decoder.",
@@ -130,7 +149,7 @@
         ]
       },
       {
-        "id": "AI-007",
+        "id": "AI-008",
         "title": "Memory shortage reportedly drives Nvidia AI server prices up about 15 percent",
         "summary": "Nvidia servers with Vera Rubin and Grace Blackwell chips are set to cost about 15 percent more due to an ongoing DRAM shortage from Samsung, SK Hynix, and Micron, Bloomberg reports. The price hikes hit cloud giants like Microsoft, Google, and Meta, w",
         "content": "Nvidia servers with Vera Rubin and Grace Blackwell chips are set to cost about 15 percent more due to an ongoing DRAM shortage from Samsung, SK Hynix, and Micron, Bloomberg reports. The price hikes hit cloud giants like Microsoft, Google, and Meta, which are pouring billions into AI infrastructure while bankrolling the market power of the very supplier they're trying to break free from.\nThe article Memory shortage reportedly drives Nvidia AI server prices up about 15 percent appeared first on Th",
@@ -149,7 +168,7 @@
         ]
       },
       {
-        "id": "AI-008",
+        "id": "AI-009",
         "title": "How China's gray market sells Claude tokens at a fraction of the price",
         "summary": "Anthropic's strict access controls against China, from geoblocking to selfie verification, are being systematically bypassed through a thriving network of so-called \"transfer stations.\" Chinese developers can buy Claude tokens for as little as ten pe",
         "content": "Anthropic's strict access controls against China, from geoblocking to selfie verification, are being systematically bypassed through a thriving network of so-called \"transfer stations.\" Chinese developers can buy Claude tokens for as little as ten percent of the list price. Analyst Zilan Qian warns that the circumvention infrastructure weakens export controls and Anthropic's own safety systems.\nThe article How China's gray market sells Claude tokens at a fraction of the price appeared first on T",
@@ -166,25 +185,6 @@
         "normalizedTags": [
           "the decoder"
         ]
-      },
-      {
-        "id": "AI-009",
-        "title": "Study explains why AI agents benefit from \"skills\" and when they fail",
-        "summary": "A study from researchers at Princeton University and UC San Diego finds that so-called skills make AI agents better mainly through structured workflows, not through added knowledge. But as the skill library grows, agents have a harder and harder time",
-        "content": "A study from researchers at Princeton University and UC San Diego finds that so-called skills make AI agents better mainly through structured workflows, not through added knowledge. But as the skill library grows, agents have a harder and harder time finding the right set of instructions.\nThe article Study explains why AI agents benefit from \"skills\" and when they fail appeared first on The Decoder.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/study-explains-why-ai-agents-benefit-from-skills-and-when-they-fail/",
-        "sourceName": "The Decoder",
-        "tags": [
-          "The Decoder"
-        ],
-        "section": "creative",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 22 Aug 2026 12:15:10 +0000",
-        "normalizedTags": [
-          "the decoder"
-        ]
       }
     ],
     "research": [],
@@ -192,57 +192,38 @@
     "business": [
       {
         "id": "AI-010",
-        "title": "Nvidia customers reportedly warned about AI-related price hikes ",
-        "summary": "The chipmaker has told some of its largest customers that the prices of servers containing its AI chips could move more than 15% higher, Bloomberg News reported.",
-        "content": "The chipmaker has told some of its largest customers that the prices of servers containing its AI chips could move more than 15% higher, Bloomberg News reported.",
+        "title": "America's AI backlash: How the effort to keep worker trust is evolving inside companies",
+        "summary": "Trust remains the cornerstone of an ideal AI communication strategy, whether for an AI-native startup or legacy enterprise facing yet another cultural shift.",
+        "content": "Trust remains the cornerstone of an ideal AI communication strategy, whether for an AI-native startup or legacy enterprise facing yet another cultural shift.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html",
+        "sourceUrl": "https://www.cnbc.com/2026/08/23/ai-backlash-workers-job-losses.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Sat, 22 Aug 2026 20:26:44 GMT",
+        "publishedAt": "Sun, 23 Aug 2026 14:42:28 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-011",
-        "title": "Rising yields rattled the market, but we’re sticking with our favorite AI and retail stocks",
-        "summary": "Stocks took their cue from the bond market this week.",
-        "content": "Stocks took their cue from the bond market this week.",
+        "title": "Small UK power generator shut down after cyberattack linked to Iran: Telegraph",
+        "summary": "The U.K. government says the incident did not pose a risk to the country's energy system, adding that it briefed CEOs of companies in the sector with advice.",
+        "content": "The U.K. government says the incident did not pose a risk to the country's energy system, adding that it briefed CEOs of companies in the sector with advice.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/08/22/rising-yields-rattled-the-market-but-were-sticking-with-our-favorite-ai-and-retail-stocks.html",
+        "sourceUrl": "https://www.cnbc.com/2026/08/23/small-uk-power-plant-shut-down-after-iran-linked-cyberattack-report.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Sat, 22 Aug 2026 15:08:54 GMT",
-        "normalizedTags": [
-          "cnbc tech"
-        ]
-      },
-      {
-        "id": "AI-012",
-        "title": "Meta is the latest tech giant to land in her courtroom. Meet Judge Yvonne Gonzalez Rogers",
-        "summary": "Judge Yvonne Gonzalez Rogers has presided over a series of landmark tech trials and is now overseeing a case that could have a huge impact on Meta's future.",
-        "content": "Judge Yvonne Gonzalez Rogers has presided over a series of landmark tech trials and is now overseeing a case that could have a huge impact on Meta's future.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/08/22/meet-yvonne-gonzalez-rogers-judge-taking-on-meta.html",
-        "sourceName": "CNBC Tech",
-        "tags": [
-          "CNBC Tech"
-        ],
-        "section": "business",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 22 Aug 2026 12:12:03 GMT",
+        "publishedAt": "Sun, 23 Aug 2026 12:46:01 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
@@ -250,26 +231,7 @@
     ],
     "policy": [
       {
-        "id": "AI-013",
-        "title": "Mark Zuckerberg Buys an Irish Castle",
-        "summary": "The prominent landowner has added a nearly 200-year-old estate to his holdings. Archival information says it can take “a brisk walk of 4½ minutes to reach the dining room from the kitchen.”",
-        "content": "The prominent landowner has added a nearly 200-year-old estate to his holdings. Archival information says it can take “a brisk walk of 4½ minutes to reach the dining room from the kitchen.”",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/08/21/world/europe/zuckerberg-castle-ireland.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Sat, 22 Aug 2026 13:28:51 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-014",
+        "id": "AI-012",
         "title": "How Big Tech Captured American Schools",
         "summary": "Companies like Google and Microsoft have used their money, their might and their massive reach to influence nearly every step of the education supply chain.",
         "content": "Companies like Google and Microsoft have used their money, their might and their massive reach to influence nearly every step of the education supply chain.",
@@ -282,7 +244,45 @@
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Sun, 23 Aug 2026 09:01:05 +0000",
+        "publishedAt": "Sun, 23 Aug 2026 11:13:40 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-013",
+        "title": "The Data Center Backlash Bursts Into the Midterms",
+        "summary": "With opposition to the centers mounting, many Democrats and a growing number of Republicans are campaigning against them.",
+        "content": "With opposition to the centers mounting, many Democrats and a growing number of Republicans are campaigning against them.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/08/23/us/politics/data-centers-midterm-elections.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 23 Aug 2026 09:01:58 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-014",
+        "title": "The U.S. Start-Up Making Low-Cost Interceptors for the Iran War",
+        "summary": "For Florida-based Powerus, becoming a global supplier of counterdrone technology has meant involving the Trumps, a golf course and a new way of doing business.",
+        "content": "For Florida-based Powerus, becoming a global supplier of counterdrone technology has meant involving the Trumps, a golf course and a new way of doing business.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/08/23/business/powerus-counter-drone-iran-war.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 23 Aug 2026 09:00:19 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
@@ -308,26 +308,103 @@
       },
       {
         "id": "AI-016",
-        "title": "Sick of Constant Pings, They’re Sending Texts at the Speed of Carrier Pigeon",
-        "summary": "Apps that let users send digital messages at ultraslow speeds have taken off, with users reveling in a slower pace of life. (Just don’t use the them to make dinner plans.)",
-        "content": "Apps that let users send digital messages at ultraslow speeds have taken off, with users reveling in a slower pace of life. (Just don’t use the them to make dinner plans.)",
+        "title": "See the moment when Republican politicians turned against data centers",
+        "summary": "In the past six months, Republicans' public statements about data centers have turned sharply negative, according to a Washington Post analysis.",
+        "content": "In the past six months, Republicans' public statements about data centers have turned sharply negative, according to a Washington Post analysis.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/08/22/technology/carrier-pigeon-app-texting-technology.html",
-        "sourceName": "NYT Technology",
+        "sourceUrl": "https://www.washingtonpost.com/technology/2026/08/23/most-gop-politicians-now-talk-negatively-about-data-centers-data-shows/",
+        "sourceName": "Washington Post Tech",
         "tags": [
-          "NYT Technology"
+          "Washington Post Tech"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Sat, 22 Aug 2026 15:34:31 +0000",
+        "publishedAt": "Sun, 23 Aug 2026 09:00:00 +0000",
         "normalizedTags": [
-          "nyt technology"
+          "washington post tech"
         ]
       }
     ],
     "concerns": [],
-    "culture": []
+    "culture": [
+      {
+        "id": "AI-017",
+        "title": "An AI ‘debt bomb’ crisis? No. This isn’t Enron 2.0 | Gene Marks",
+        "summary": "Fears of a datacenter buildout debt crisis are exaggerated. The risks are different than in the past and they are recoverable\nSome experts are warning of a looming “debt bomb” crisis because big datacenter builders such as Meta, Oracle, xAI and CoreW",
+        "content": "Fears of a datacenter buildout debt crisis are exaggerated. The risks are different than in the past and they are recoverable\nSome experts are warning of a looming “debt bomb” crisis because big datacenter builders such as Meta, Oracle, xAI and CoreWeave are not only raising billions to construct these facilities but are also not recognizing these long-term debt obligations on their balance sheets.\nShould we be concerned? No. I know because I’ve seen this movie before.\n Continue reading...",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 23 Aug 2026 14:00:34 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-018",
+        "title": "Ella Baron on AI and the drought – cartoon",
+        "summary": "Continue reading...",
+        "content": "Continue reading...",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/commentisfree/picture/2026/aug/23/ella-baron-on-ai-and-the-drought-cartoon",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 23 Aug 2026 17:03:48 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-019",
+        "title": "It’s unwise to end local scrutiny of NHS trusts  | Letters",
+        "summary": "Abolishing the role of statutory governors is ill-advised, says Jean Flanagan. Plus a letter from Jonathan Phillips on the abolition of Healthwatch\nI wonder how many members of the public are aware that the latest health plan for England, due to be r",
+        "content": "Abolishing the role of statutory governors is ill-advised, says Jean Flanagan. Plus a letter from Jonathan Phillips on the abolition of Healthwatch\nI wonder how many members of the public are aware that the latest health plan for England, due to be ratified by parliament this autumn, abolishes the role of statutory governors on all of its constituent health trusts?\nFor a number of years I have volunteered to act as a governor at two hospital trusts in Yorkshire. As a former health professional a",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/society/2026/aug/23/its-unwise-to-end-local-scrutiny-of-nhs-trusts",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 23 Aug 2026 16:57:19 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-020",
+        "title": "‘We are hitting a different chapter’: OpenAI leader warns of threat of ‘persistent’ AI cyber-attacks",
+        "summary": "Chris Lehane tells Guardian of need to implement new safety standards as critics say AI firms acting ‘recklessly’\nA senior leader at OpenAI has said people should prepare to defend against “ongoing, persistent” cyber-attacks from AIs, as cutting-edge",
+        "content": "Chris Lehane tells Guardian of need to implement new safety standards as critics say AI firms acting ‘recklessly’\nA senior leader at OpenAI has said people should prepare to defend against “ongoing, persistent” cyber-attacks from AIs, as cutting-edge artificial intelligence models gain advanced capabilities to plan and launch offensives.\nThe leading AI company this week announced a pause in development of its most advanced internal models amid rising safety fears, and Chris Lehane, its chief glo",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Sun, 23 Aug 2026 08:00:27 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      }
+    ]
   },
   "quote": {
     "text": "The best way to predict the future is to invent it.",
@@ -335,22 +412,26 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-    "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-    "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-    "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+    "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+    "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+    "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+    "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+    "https://the-decoder.com/an-ai-boss-fired-its-first-employee-but-only-after-humans-reminded-it-of-its-own-rules/",
     "https://the-decoder.com/ai-is-becoming-ais-biggest-customer-as-agentic-token-usage-jumps-14x-on-openrouter/",
     "https://the-decoder.com/ai-could-make-scientists-do-more-work-less-well-not-less-work-better-study-argues/",
     "https://the-decoder.com/memory-shortage-reportedly-drives-nvidia-ai-server-prices-up-about-15-percent/",
     "https://the-decoder.com/how-chinas-gray-market-sells-claude-tokens-at-a-fraction-of-the-price/",
-    "https://the-decoder.com/study-explains-why-ai-agents-benefit-from-skills-and-when-they-fail/",
-    "https://www.cnbc.com/2026/08/22/nvidia-customers-reportedly-warned-about-ai-related-price-hikes-.html",
-    "https://www.cnbc.com/2026/08/22/rising-yields-rattled-the-market-but-were-sticking-with-our-favorite-ai-and-retail-stocks.html",
-    "https://www.cnbc.com/2026/08/22/meet-yvonne-gonzalez-rogers-judge-taking-on-meta.html",
-    "https://www.nytimes.com/2026/08/21/world/europe/zuckerberg-castle-ireland.html",
+    "https://www.cnbc.com/2026/08/23/ai-backlash-workers-job-losses.html",
+    "https://www.cnbc.com/2026/08/23/small-uk-power-plant-shut-down-after-iran-linked-cyberattack-report.html",
     "https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html",
+    "https://www.nytimes.com/2026/08/23/us/politics/data-centers-midterm-elections.html",
+    "https://www.nytimes.com/2026/08/23/business/powerus-counter-drone-iran-war.html",
     "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
-    "https://www.nytimes.com/2026/08/22/technology/carrier-pigeon-app-texting-technology.html"
+    "https://www.washingtonpost.com/technology/2026/08/23/most-gop-politicians-now-talk-negatively-about-data-centers-data-shows/",
+    "https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis",
+    "https://www.theguardian.com/commentisfree/picture/2026/aug/23/ella-baron-on-ai-and-the-drought-cartoon",
+    "https://www.theguardian.com/society/2026/aug/23/its-unwise-to-end-local-scrutiny-of-nhs-trusts",
+    "https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane"
   ],
-  "generatedAt": "2026-08-23T11:19:05.130Z"
+  "generatedAt": "2026-08-23T23:13:39.559Z"
 }
