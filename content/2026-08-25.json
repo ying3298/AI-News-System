@@ -2,9 +2,9 @@
   "date": "2026-08-25",
   "dateFormatted": "August 25, 2026",
   "headline": {
-    "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-    "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
-    "sourceUrl": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+    "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+    "summary": "The company's new fundraising total now stands at $232 million.",
+    "sourceUrl": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
     "sourceName": "TechCrunch AI"
   },
   "simpleSummary": [
@@ -15,95 +15,95 @@
     "tools": [
       {
         "id": "AI-001",
-        "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-        "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
-        "content": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
+        "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+        "summary": "The company's new fundraising total now stands at $232 million.",
+        "content": "The company's new fundraising total now stands at $232 million.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+        "sourceUrl": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Tue, 25 Aug 2026 00:23:12 +0000",
+        "publishedAt": "Tue, 25 Aug 2026 19:03:47 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-002",
-        "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-        "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
-        "content": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
+        "title": "Claude Cowork finally remembers what you told the app in chat",
+        "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
+        "content": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferences, and other context.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+        "sourceUrl": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Mon, 24 Aug 2026 21:24:17 +0000",
+        "publishedAt": "Tue, 25 Aug 2026 17:50:33 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-003",
-        "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026 ",
-        "summary": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.",
-        "content": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.",
+        "title": "Gamma acquires Accel-backed design startup Lica",
+        "summary": "Lica co-founders are going to work on Gamma's new research team.",
+        "content": "Lica co-founders are going to work on Gamma's new research team.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
+        "sourceUrl": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Mon, 24 Aug 2026 19:54:19 +0000",
+        "publishedAt": "Tue, 25 Aug 2026 15:00:00 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-004",
-        "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-        "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
-        "content": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs.",
+        "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+        "summary": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
+        "content": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+        "sourceUrl": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Mon, 24 Aug 2026 18:03:55 +0000",
+        "publishedAt": "Tue, 25 Aug 2026 14:22:04 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
       },
       {
         "id": "AI-005",
-        "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-        "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, a",
-        "content": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new investors including Valor Ventures, Point72 Ventures, and Seven Seven Six.",
+        "title": "Accel-backed Keenable is indexing the web for AI agents",
+        "summary": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
+        "content": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+        "sourceUrl": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
         "sourceName": "TechCrunch AI",
         "tags": [
           "TechCrunch AI"
         ],
         "section": "tools",
         "readTime": "2 min",
-        "publishedAt": "Mon, 24 Aug 2026 15:24:18 +0000",
+        "publishedAt": "Tue, 25 Aug 2026 13:00:00 +0000",
         "normalizedTags": [
           "techcrunch ai"
         ]
@@ -112,95 +112,95 @@
     "creative": [
       {
         "id": "AI-006",
-        "title": "Alabama AG probes OpenAI after its AI agent went rogue and hacked into external systems",
-        "summary": "Alabama Attorney General Steve Marshall is investigating OpenAI over what he calls an \"AI lab leak.\" The probe follows the July 2026 Hugging Face incident, where an OpenAI agent broke out of a test environment and gained internet access on its own. W",
-        "content": "Alabama Attorney General Steve Marshall is investigating OpenAI over what he calls an \"AI lab leak.\" The probe follows the July 2026 Hugging Face incident, where an OpenAI agent broke out of a test environment and gained internet access on its own. Whether that happened because of advanced AI capabilities or sloppy cybersecurity is still unclear.\nThe article Alabama AG probes OpenAI after its AI agent went rogue and hacked into external systems appeared first on The Decoder.",
+        "title": "Russia used ChatGPT to run a covert influence campaign pushing pro-Kremlin narratives across the West",
+        "summary": "OpenAI has disrupted a covert Russian influence campaign that used ChatGPT to generate social media posts by banning a cluster of accounts. The operators accessed the platform through VPNs from Russia and promoted the fictitious \"International Burke ",
+        "content": "OpenAI has disrupted a covert Russian influence campaign that used ChatGPT to generate social media posts by banning a cluster of accounts. The operators accessed the platform through VPNs from Russia and promoted the fictitious \"International Burke Institute,\" including German-language Telegram content critical of the EU and the German government. The campaign's reach stayed small, but OpenAI warns the infrastructure behind it could have been scaled up over time.\nThe article Russia used ChatGPT",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/alabama-is-investigating-openai-following-an-uncontrolled-ai-agent-hack/",
+        "sourceUrl": "https://the-decoder.com/russia-used-chatgpt-to-run-a-covert-influence-campaign-pushing-pro-kremlin-narratives-across-the-west/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Tue, 25 Aug 2026 10:24:13 +0000",
+        "publishedAt": "Tue, 25 Aug 2026 18:54:56 +0000",
         "normalizedTags": [
           "the decoder"
         ]
       },
       {
         "id": "AI-007",
-        "title": "Taiwanese cybersecurity firm warns that AI tools have more than doubled Chinese state-backed cyberattacks",
-        "summary": "Chinese state-backed hacking groups have more than doubled their attacks since they started using AI models like DeepSeek to write exploit code and scan networks, according to Taiwanese security firm TeamT5. Hackers also used ChatGPT and Anthropic's ",
-        "content": "Chinese state-backed hacking groups have more than doubled their attacks since they started using AI models like DeepSeek to write exploit code and scan networks, according to Taiwanese security firm TeamT5. Hackers also used ChatGPT and Anthropic's Claude Code. A UK study shows the cyber capabilities of open models are catching up fast.\nThe article Taiwanese cybersecurity firm warns that AI tools have more than doubled Chinese state-backed cyberattacks appeared first on The Decoder.",
+        "title": "OpenAI's first custom chip \"Jalapeño\" reportedly beats Nvidia's Blackwell and Rubin in inference benchmarks",
+        "summary": "OpenAI showed off \"Jalapeño,\" its first in-house inference chip, with benchmarks at the Hot Chips conference. According to SemiAnalysis tests, the chip beats Nvidia's Blackwell and even Rubin in throughput and energy efficiency. \"Usually first genera",
+        "content": "OpenAI showed off \"Jalapeño,\" its first in-house inference chip, with benchmarks at the Hot Chips conference. According to SemiAnalysis tests, the chip beats Nvidia's Blackwell and even Rubin in throughput and energy efficiency. \"Usually first generation chips aren't competitive, but OpenAI is beating Nvidia Blackwell and even Rubin,\" SemiAnalysis CEO Dylan Patel said.\nThe article OpenAI's first custom chip \"Jalapeño\" reportedly beats Nvidia's Blackwell and Rubin in inference benchmarks appeared",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/taiwanese-cybersecurity-firm-warns-that-ai-tools-have-more-than-doubled-chinese-state-backed-cyberattacks/",
+        "sourceUrl": "https://the-decoder.com/openais-first-custom-chip-jalapeno-reportedly-beats-nvidias-blackwell-and-rubin-in-inference-benchmarks/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Tue, 25 Aug 2026 08:40:14 +0000",
+        "publishedAt": "Tue, 25 Aug 2026 18:00:50 +0000",
         "normalizedTags": [
           "the decoder"
         ]
       },
       {
         "id": "AI-008",
-        "title": "Pew study confirms sharp rise of AI-written text on the web since ChatGPT's launch",
-        "summary": "The Pew Research Center analyzed nearly half a million English-language web pages for AI-generated content. More than a third of pages published since ChatGPT's launch show signs of machine-written text, and commercial .com sites are ten times more l",
-        "content": "The Pew Research Center analyzed nearly half a million English-language web pages for AI-generated content. More than a third of pages published since ChatGPT's launch show signs of machine-written text, and commercial .com sites are ten times more likely to contain AI content than .edu or .gov domains.\nThe article Pew study confirms sharp rise of AI-written text on the web since ChatGPT's launch appeared first on The Decoder.",
+        "title": "Google launches Gemini for legal work to automate contracts and research",
+        "summary": "With Gemini Enterprise for Legal, Google launches an AI solution for the legal industry that connects to systems like iManage, DocuSign, and Everlaw through MCP connectors. Partners like Deloitte sell ready-made AI agents for tasks like contract revi",
+        "content": "With Gemini Enterprise for Legal, Google launches an AI solution for the legal industry that connects to systems like iManage, DocuSign, and Everlaw through MCP connectors. Partners like Deloitte sell ready-made AI agents for tasks like contract review. Anthropic already offers similar solutions. All providers use the same models as in their other products.\nThe article Google launches Gemini for legal work to automate contracts and research appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/pew-study-shows-ai-written-text-has-surged-across-the-web-since-late-2022/",
+        "sourceUrl": "https://the-decoder.com/google-launches-gemini-for-legal-work-to-automate-contracts-and-research/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Mon, 24 Aug 2026 18:22:49 +0000",
+        "publishedAt": "Tue, 25 Aug 2026 16:21:09 +0000",
         "normalizedTags": [
           "the decoder"
         ]
       },
       {
         "id": "AI-009",
-        "title": "Alibaba's Wan3.0 generates AI videos up to 30 seconds long from text, images, and documents",
-        "summary": "Alibaba's video generation model Wan3.0 creates clips up to 30 seconds long from text, PDFs, and PowerPoint files. A 30-second 1080p clip costs $6. Alibaba's quarterly profit dropped 75 percent year-over-year as the company ramps up AI spending.\nThe ",
-        "content": "Alibaba's video generation model Wan3.0 creates clips up to 30 seconds long from text, PDFs, and PowerPoint files. A 30-second 1080p clip costs $6. Alibaba's quarterly profit dropped 75 percent year-over-year as the company ramps up AI spending.\nThe article Alibaba's Wan3.0 generates AI videos up to 30 seconds long from text, images, and documents appeared first on The Decoder.",
+        "title": "Meta's paid AI agent Hatch launches soon, with a new model called Watermelon due in October",
+        "summary": "Meta Platforms will launch its AI agent Hatch in the coming weeks and release a new AI model called Watermelon in October.\nThe article Meta's paid AI agent Hatch launches soon, with a new model called Watermelon due in October appeared first on The D",
+        "content": "Meta Platforms will launch its AI agent Hatch in the coming weeks and release a new AI model called Watermelon in October.\nThe article Meta's paid AI agent Hatch launches soon, with a new model called Watermelon due in October appeared first on The Decoder.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/alibabas-wan3-0-generates-ai-videos-up-to-30-seconds-long-from-text-images-and-documents/",
+        "sourceUrl": "https://the-decoder.com/metas-paid-ai-agent-hatch-launches-soon-with-a-new-model-called-watermelon-due-in-october/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Mon, 24 Aug 2026 15:35:03 +0000",
+        "publishedAt": "Tue, 25 Aug 2026 13:43:40 +0000",
         "normalizedTags": [
           "the decoder"
         ]
       },
       {
         "id": "AI-010",
-        "title": "Rogue AI agent used fake accounts and a staged apology to push malware into an open-source project",
-        "summary": "A rogue AI agent staged a public apology as a deception tactic while quietly slipping fresh malware into its pull request.\nThe article Rogue AI agent used fake accounts and a staged apology to push malware into an open-source project appeared first o",
-        "content": "A rogue AI agent staged a public apology as a deception tactic while quietly slipping fresh malware into its pull request.\nThe article Rogue AI agent used fake accounts and a staged apology to push malware into an open-source project appeared first on The Decoder.",
+        "title": "Nvidia says its Groq 3 LPX is four times faster than Cerebras, but the math is more complicated",
+        "summary": "Nvidia is moving its Groq 3 LPX inference chip into full production and reports 3,400 tokens per second on Gemma 4 31B, four times faster than Cerebras. But the numbers don't tell the whole story. Nvidia needs at least 64 accelerators to get there, w",
+        "content": "Nvidia is moving its Groq 3 LPX inference chip into full production and reports 3,400 tokens per second on Gemma 4 31B, four times faster than Cerebras. But the numbers don't tell the whole story. Nvidia needs at least 64 accelerators to get there, while Cerebras needs only one or two, according to The Register. How well the architecture scales with large MoE models remains an open question.\nThe article Nvidia says its Groq 3 LPX is four times faster than Cerebras, but the math is more complicat",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://the-decoder.com/rogue-ai-agent-used-fake-accounts-and-a-staged-apology-to-push-malware-into-an-open-source-project/",
+        "sourceUrl": "https://the-decoder.com/nvidia-says-its-groq-3-lpx-is-four-times-faster-than-cerebras-but-the-math-is-more-complicated/",
         "sourceName": "The Decoder",
         "tags": [
           "The Decoder"
         ],
         "section": "creative",
         "readTime": "2 min",
-        "publishedAt": "Mon, 24 Aug 2026 14:23:55 +0000",
+        "publishedAt": "Tue, 25 Aug 2026 12:27:57 +0000",
         "normalizedTags": [
           "the decoder"
         ]
@@ -209,97 +209,97 @@
     "research": [
       {
         "id": "AI-011",
-        "title": "Welcome to the spiderverse, a world measured through webs",
-        "summary": "Counting the creatures in the world around us is critical for a raft of conservation efforts. It helps scientists gauge biodiversity, track migration, and spot invasive species. That census-taking, though, often requires humans to tabulate what they ",
-        "content": "Counting the creatures in the world around us is critical for a raft of conservation efforts. It helps scientists gauge biodiversity, track migration, and spot invasive species. That census-taking, though, often requires humans to tabulate what they see, trap, or otherwise sense—a potentially laborious, costly process that can still leave gaps. But developments over the…",
+        "title": "Addressing a sticking point in sustainable adhesives",
+        "summary": "Petroleum-based adhesives are everywhere: bonding the wood and drywall in a construction project, holding together the joints of furniture, and even sticking labels to otherwise recyclable containers.  “The labels on a container are held up with petr",
+        "content": "Petroleum-based adhesives are everywhere: bonding the wood and drywall in a construction project, holding together the joints of furniture, and even sticking labels to otherwise recyclable containers.  “The labels on a container are held up with petroleum-based glue. And because of that, even though you’re putting the container in the recycle bin, it will not…",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/08/25/1141750/welcome-to-spiderverse-arachnid-webs/",
+        "sourceUrl": "https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/",
         "sourceName": "MIT Tech Review",
         "tags": [
           "MIT Tech Review"
         ],
         "section": "research",
         "readTime": "2 min",
-        "publishedAt": "Tue, 25 Aug 2026 09:00:00 +0000",
+        "publishedAt": "Tue, 25 Aug 2026 21:00:00 +0000",
         "normalizedTags": [
           "mit tech review"
         ]
       },
       {
         "id": "AI-012",
-        "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
-        "summary": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems—an idea called embodied AI—was a key facet of China",
-        "content": "Humanoid robots are having a moment in China. The popular machines are part of the country’s strategy to bring artificial intelligence into daily life. Embedding the technology into physical systems—an idea called embodied AI—was a key facet of China’s latest five-year plan, and companies here are already world leaders in humanoids. Nearly 90% of the…",
+        "title": "YouTuber finds niche as college admissions mentor",
+        "summary": "As a first-generation student from a small town, Gohar Khan ’21 had to navigate the college admissions process largely on his own. He founded his YouTube channel, Gohar’s Guide, to make things easier for other young people. Today, more than 10 millio",
+        "content": "As a first-generation student from a small town, Gohar Khan ’21 had to navigate the college admissions process largely on his own. He founded his YouTube channel, Gohar’s Guide, to make things easier for other young people. Today, more than 10 million people follow Khan on social media for college application advice, study tips, and…",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+        "sourceUrl": "https://www.technologyreview.com/2026/08/25/1140905/youtuber-finds-niche-as-college-admissions-mentor/",
         "sourceName": "MIT Tech Review",
         "tags": [
           "MIT Tech Review"
         ],
         "section": "research",
         "readTime": "2 min",
-        "publishedAt": "Tue, 25 Aug 2026 09:00:00 +0000",
+        "publishedAt": "Tue, 25 Aug 2026 21:00:00 +0000",
         "normalizedTags": [
           "mit tech review"
         ]
       },
       {
         "id": "AI-013",
-        "title": "How to encourage smarter AI use in the classroom",
-        "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. S",
-        "content": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few years ago. Suddenly, students carried an app in their phones that could magically answer almost any…",
+        "title": "Launching youth entrepreneurship",
+        "summary": "Even as a teenager, Laurie Stach ’06 says, she had a “crazy ambition to take on the world and solve problems.” At MIT, she realized she wasn’t the only one. “Adults always see these youth who are good at math and science and say, ‘You’re going to do ",
+        "content": "Even as a teenager, Laurie Stach ’06 says, she had a “crazy ambition to take on the world and solve problems.” At MIT, she realized she wasn’t the only one. “Adults always see these youth who are good at math and science and say, ‘You’re going to do great things—someday,’” says Stach. “Meanwhile, traditional education…",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+        "sourceUrl": "https://www.technologyreview.com/2026/08/25/1140911/launching-youth-entrepreneurship/",
         "sourceName": "MIT Tech Review",
         "tags": [
           "MIT Tech Review"
         ],
         "section": "research",
         "readTime": "2 min",
-        "publishedAt": "Mon, 24 Aug 2026 14:20:19 +0000",
+        "publishedAt": "Tue, 25 Aug 2026 21:00:00 +0000",
         "normalizedTags": [
           "mit tech review"
         ]
       },
       {
         "id": "AI-014",
-        "title": "The Download: kids outlearning AI, and space travel agents",
-        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids outlearn AI—and we still don’t know why Teaching a computer to use human language requires an inhuman amoun",
-        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids outlearn AI—and we still don’t know why Teaching a computer to use human language requires an inhuman amount of data. An LLM can easily churn through a hundred thousand times…",
+        "title": "A new stamp on cyberfraud prevention",
+        "summary": "For Rupert Young ’95, SM ’95, his career in data science and cybersecurity began when his grandfather gifted him thousands of stamps: He built intricate databases to catalogue them, displaying the “precise eye” for detail and nuance that his MIT appl",
+        "content": "For Rupert Young ’95, SM ’95, his career in data science and cybersecurity began when his grandfather gifted him thousands of stamps: He built intricate databases to catalogue them, displaying the “precise eye” for detail and nuance that his MIT application essay said would make him a good engineer. Young is now chief product officer…",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
+        "sourceUrl": "https://www.technologyreview.com/2026/08/25/1140914/a-new-stamp-on-cyberfraud-prevention/",
         "sourceName": "MIT Tech Review",
         "tags": [
           "MIT Tech Review"
         ],
         "section": "research",
         "readTime": "2 min",
-        "publishedAt": "Mon, 24 Aug 2026 12:10:00 +0000",
+        "publishedAt": "Tue, 25 Aug 2026 21:00:00 +0000",
         "normalizedTags": [
           "mit tech review"
         ]
       },
       {
         "id": "AI-015",
-        "title": "KVBoost: Chunk-Level Key-Value Cache Reuse with Deviation-Guided Recomputation for Efficient Large Language Model Inference",
-        "summary": "arXiv:2608.21362v1 Announce Type: new \nAbstract: Transformer-based large language models (LLMs) incur high prefill latency because key-value (KV) tensors must be recomputed for each request. Existing prefix-caching systems reduce this cost but requir",
-        "content": "arXiv:2608.21362v1 Announce Type: new \nAbstract: Transformer-based large language models (LLMs) incur high prefill latency because key-value (KV) tensors must be recomputed for each request. Existing prefix-caching systems reduce this cost but require prompts to share a leading contiguous prefix, limiting effectiveness when shared content appears at arbitrary positions. We present KVBoost, a chunk-level KV cache reuse system for HuggingFace-compatible decoder models that enables reuse regardless",
+        "title": "AgeLab research inspires an A I startup",
+        "summary": "When Don Yansen ’63 arrived at the MIT AgeLab for a study on technology in care­giving for older adults, he didn’t plan to launch another company. But when he heard participants talk about how hard modern devices can be to use, he decided to develop ",
+        "content": "When Don Yansen ’63 arrived at the MIT AgeLab for a study on technology in care­giving for older adults, he didn’t plan to launch another company. But when he heard participants talk about how hard modern devices can be to use, he decided to develop an alternative. Yansen, a serial entrepreneur who retired to care for…",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://arxiv.org/abs/2608.21362",
-        "sourceName": "ArXiv CS.AI",
+        "sourceUrl": "https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/",
+        "sourceName": "MIT Tech Review",
         "tags": [
-          "ArXiv CS.AI"
+          "MIT Tech Review"
         ],
         "section": "research",
         "readTime": "2 min",
-        "publishedAt": "Tue, 25 Aug 2026 00:00:00 -0400",
+        "publishedAt": "Tue, 25 Aug 2026 21:00:00 +0000",
         "normalizedTags": [
-          "arxiv cs.ai"
+          "mit tech review"
         ]
       }
     ],
@@ -307,95 +307,95 @@
     "business": [
       {
         "id": "AI-016",
-        "title": "BlackBerry CEO says robotics is one of its fastest-growing businesses",
-        "summary": "BlackBerry CEO John Giamatteo says robotics is one of QNX’s fastest-growing businesses as the company expands its software beyond cars.",
-        "content": "BlackBerry CEO John Giamatteo says robotics is one of QNX’s fastest-growing businesses as the company expands its software beyond cars.",
+        "title": "Instagram chief Mosseri says in social media addiction trial he doesn't tell team to 'hide anything'",
+        "summary": "Instagram chief Adam Mosseri testified during a federal trial that he doesn't direct employees to withhold information that could pose legal risks to Meta.",
+        "content": "Instagram chief Adam Mosseri testified during a federal trial that he doesn't direct employees to withhold information that could pose legal risks to Meta.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/08/25/blackberry-qnx-robotics-physical-ai.html",
+        "sourceUrl": "https://www.cnbc.com/2026/08/25/instagram-adam-mosseri-testifies-california-state-ag-federal-meta.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Tue, 25 Aug 2026 09:26:05 GMT",
+        "publishedAt": "Tue, 25 Aug 2026 22:41:19 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-017",
-        "title": "Jim Cramer says the data center trade is under attack. Here’s who could benefit",
-        "summary": "CNBC's Jim Cramer said Monday the data center trade isn't dead, but its next wave of winners could look very different.",
-        "content": "CNBC's Jim Cramer said Monday the data center trade isn't dead, but its next wave of winners could look very different.",
+        "title": "OpenAI data center chief Chris Malone is out, the latest in a string of executive exits ",
+        "summary": "An OpenAI spokesperson said the company \"recently reorganized our infrastructure organization to support the scale and pace of our work.\"",
+        "content": "An OpenAI spokesperson said the company \"recently reorganized our infrastructure organization to support the scale and pace of our work.\"",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/08/24/cramer-data-center-trade-under-attack-who-could-benefit.html",
+        "sourceUrl": "https://www.cnbc.com/2026/08/25/openais-head-of-data-centers-chris-malone-is-out-in-latest-exec-exit.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Mon, 24 Aug 2026 22:31:46 GMT",
+        "publishedAt": "Tue, 25 Aug 2026 21:26:00 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-018",
-        "title": "Jim Cramer says don't sell Meta on litigation risk — the stock is worth the wait",
-        "summary": "Meta's court battles are an overhang on the stock, but its business fundamentals make it one worth holding.",
-        "content": "Meta's court battles are an overhang on the stock, but its business fundamentals make it one worth holding.",
+        "title": "SpaceX plans to build a $100 billion spaceport in Louisiana",
+        "summary": "SpaceX plans to establish its Starbase, LA in Vermilion Parish, which will \"support thousands of launches annually.\"",
+        "content": "SpaceX plans to establish its Starbase, LA in Vermilion Parish, which will \"support thousands of launches annually.\"",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/08/24/jim-cramer-says-dont-sell-meta-on-litigation-risk-the-stock-is-worth-the-wait.html",
+        "sourceUrl": "https://www.cnbc.com/2026/08/25/spacex-louisiana-spaceport.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Mon, 24 Aug 2026 20:15:13 GMT",
+        "publishedAt": "Tue, 25 Aug 2026 22:09:01 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-019",
-        "title": "Nvidia says Groq racks will be online this year following $20 billion purchase",
-        "summary": "Nvidia's race to manufacture Groq chips and make them available to customers highlight the growing importance in AI of low-latency inference.",
-        "content": "Nvidia's race to manufacture Groq chips and make them available to customers highlight the growing importance in AI of low-latency inference.",
+        "title": "Apple’s next chapter: 3 pressing challenges facing Tim Cook’s successor as CEO",
+        "summary": "John Ternus will assume the CEO role on Sept. 1, inheriting the tech giant at a pivotal moment.",
+        "content": "John Ternus will assume the CEO role on Sept. 1, inheriting the tech giant at a pivotal moment.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/08/24/nvidia-says-groq-racks-will-be-online-this-year-after-20-billion-deal.html",
+        "sourceUrl": "https://www.cnbc.com/2026/08/25/apples-next-chapter-3-pressing-challenges-facing-tim-cooks-successor-as-ceo.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Mon, 24 Aug 2026 17:19:34 GMT",
+        "publishedAt": "Tue, 25 Aug 2026 17:21:46 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
       },
       {
         "id": "AI-020",
-        "title": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
-        "summary": "Goldman Sachs is embracing AI, but one of its senior tech leaders warns that it comes with an unintended risk: weakening the reasoning skills of future bankers.",
-        "content": "Goldman Sachs is embracing AI, but one of its senior tech leaders warns that it comes with an unintended risk: weakening the reasoning skills of future bankers.",
+        "title": "Waymo to launch driverless rides in Germany in 2027, entering third market outside U.S. ",
+        "summary": "Waymo has been the biggest robotaxi player in the U.S., and has announced plans to enter the U.K., Japan and now Germany.",
+        "content": "Waymo has been the biggest robotaxi player in the U.S., and has announced plans to enter the U.K., Japan and now Germany.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html",
+        "sourceUrl": "https://www.cnbc.com/2026/08/25/waymo-robotaxi-germany-2027.html",
         "sourceName": "CNBC Tech",
         "tags": [
           "CNBC Tech"
         ],
         "section": "business",
         "readTime": "2 min",
-        "publishedAt": "Mon, 24 Aug 2026 15:50:50 GMT",
+        "publishedAt": "Tue, 25 Aug 2026 21:47:29 GMT",
         "normalizedTags": [
           "cnbc tech"
         ]
@@ -404,63 +404,44 @@
     "policy": [
       {
         "id": "AI-021",
-        "title": "After Hugging Face Was Attacked By A.I. Agents, It Embarked on a Crusade",
-        "summary": "Hugging Face, a start-up that was breached by rogue bots from OpenAI, is using the hack to push for openness in A.I. development.",
-        "content": "Hugging Face, a start-up that was breached by rogue bots from OpenAI, is using the hack to push for openness in A.I. development.",
+        "title": "Instagram Chief Says ‘No Silver Bullets’ for Teen Safety in Bellwether Trial",
+        "summary": "Adam Mosseri testified in a case brought by states that claim the Meta-owned app created addictive features to hook young users.",
+        "content": "Adam Mosseri testified in a case brought by states that claim the Meta-owned app created addictive features to hook young users.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/08/24/technology/hugging-face-open-source-ai-attack.html",
+        "sourceUrl": "https://www.nytimes.com/2026/08/25/technology/instagram-adam-mosseri-trial.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Mon, 24 Aug 2026 18:07:41 +0000",
+        "publishedAt": "Tue, 25 Aug 2026 22:38:18 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
       },
       {
         "id": "AI-022",
-        "title": "How Big Tech Captured American Schools",
-        "summary": "Companies like Google and Microsoft have used their money, their might and their massive reach to influence nearly every step of the education supply chain.",
-        "content": "Companies like Google and Microsoft have used their money, their might and their massive reach to influence nearly every step of the education supply chain.",
+        "title": "SpaceX to Spend $100 Billion on Spaceport in Louisiana",
+        "summary": "It would be the rocket company’s second private launch site after Starbase, its headquarters in South Texas.",
+        "content": "It would be the rocket company’s second private launch site after Starbase, its headquarters in South Texas.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html",
+        "sourceUrl": "https://www.nytimes.com/2026/08/25/technology/spacex-louisiana-spaceport.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Mon, 24 Aug 2026 15:46:53 +0000",
+        "publishedAt": "Tue, 25 Aug 2026 21:31:12 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
       },
       {
         "id": "AI-023",
-        "title": "The Data Center Backlash Bursts Into the Midterms",
-        "summary": "With opposition to the centers mounting, many Democrats and a growing number of Republicans are campaigning against them.",
-        "content": "With opposition to the centers mounting, many Democrats and a growing number of Republicans are campaigning against them.",
-        "keyTakeaways": [],
-        "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/08/23/us/politics/data-centers-midterm-elections.html",
-        "sourceName": "NYT Technology",
-        "tags": [
-          "NYT Technology"
-        ],
-        "section": "policy",
-        "readTime": "2 min",
-        "publishedAt": "Mon, 24 Aug 2026 13:32:00 +0000",
-        "normalizedTags": [
-          "nyt technology"
-        ]
-      },
-      {
-        "id": "AI-024",
         "title": "Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails",
         "summary": "Irregular, an Israeli start-up, worked with OpenAI, Anthropic and Meta to assess the security of their A.I. models. It made a mistake. Then the tests went off the rails.",
         "content": "Irregular, an Israeli start-up, worked with OpenAI, Anthropic and Meta to assess the security of their A.I. models. It made a mistake. Then the tests went off the rails.",
@@ -473,26 +454,45 @@
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Tue, 25 Aug 2026 11:09:48 +0000",
+        "publishedAt": "Tue, 25 Aug 2026 21:59:39 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
       },
       {
-        "id": "AI-025",
-        "title": "Laptop Fire on American Airlines Flight Injures at Least One Passenger",
-        "summary": "Flight attendants used a fireproof bag to contain the computer after its lithium battery began smoking. One passenger was treated on the ground for injuries.",
-        "content": "Flight attendants used a fireproof bag to contain the computer after its lithium battery began smoking. One passenger was treated on the ground for injuries.",
+        "id": "AI-024",
+        "title": "U.S. ‘Economic D-Day’ Targets More Than Just Iranian Oil",
+        "summary": "The United States threatened sanctions for any country or entity that engages with Iran’s gold, digital assets, aviation, shipping and tech industries. Here’s why that matters.",
+        "content": "The United States threatened sanctions for any country or entity that engages with Iran’s gold, digital assets, aviation, shipping and tech industries. Here’s why that matters.",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.nytimes.com/2026/08/24/travel/american-airlines-laptop-fire.html",
+        "sourceUrl": "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-sanctions-oil-gold.html",
         "sourceName": "NYT Technology",
         "tags": [
           "NYT Technology"
         ],
         "section": "policy",
         "readTime": "2 min",
-        "publishedAt": "Mon, 24 Aug 2026 19:34:57 +0000",
+        "publishedAt": "Tue, 25 Aug 2026 22:58:03 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-025",
+        "title": "E.P.A. Moves to Curb Public Input on Air Pollution Permits for Data Centers",
+        "summary": "Under the proposal, states would no longer need to provide public notice or solicit comments on air pollution permits for data centers and other projects.",
+        "content": "Under the proposal, states would no longer need to provide public notice or solicit comments on air pollution permits for data centers and other projects.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/08/25/climate/epa-data-centers-public-comment.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 25 Aug 2026 16:45:28 +0000",
         "normalizedTags": [
           "nyt technology"
         ]
@@ -502,95 +502,95 @@
     "culture": [
       {
         "id": "AI-026",
-        "title": "Two planned datacentres will have higher UK carbon emissions than ExxonMobil, analysis finds",
-        "summary": "Exclusive: Buckinghamshire and Bedfordshire sites predicted to emit 4.5m tonnes a year when fully running\nThe carbon emissions from just two planned datacentres in England will exceed all of the fossil fuel company ExxonMobil’s UK emissions, analysis",
-        "content": "Exclusive: Buckinghamshire and Bedfordshire sites predicted to emit 4.5m tonnes a year when fully running\nThe carbon emissions from just two planned datacentres in England will exceed all of the fossil fuel company ExxonMobil’s UK emissions, analysis has revealed.\nExperts have said this demonstrates the “serious threat” datacentres pose to the UK’s legally binding climate goals.\n Continue reading...",
+        "title": "Why the threat from the rampaging AI machine went ignored | Letters",
+        "summary": "Jonathan Michie on his father’s efforts in the 1970s to map out concerns regarding widespread social coercion driven by automation. Plus a letter from Callum Brown\n\nJill Lepore asks why nobody listened to warnings about the threats posed from the AI ",
+        "content": "Jonathan Michie on his father’s efforts in the 1970s to map out concerns regarding widespread social coercion driven by automation. Plus a letter from Callum Brown\n\nJill Lepore asks why nobody listened to warnings about the threats posed from the AI revolution (Democracy v the machine, 18 August). As she is a Harvard professor, her piece is understandably US-centric. But in 1972 there was an international gathering of AI researchers and others in Italy to tackle the ethical and social implicatio",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/uk-news/2026/aug/25/planned-datacentres-carbon-emissions-uk-exxonmobil",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/aug/25/why-the-threat-from-the-rampaging-ai-machine-went-ignored",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Tue, 25 Aug 2026 11:04:56 GMT",
+        "publishedAt": "Tue, 25 Aug 2026 16:44:28 GMT",
         "normalizedTags": [
           "the guardian ai"
         ]
       },
       {
         "id": "AI-027",
-        "title": "The war on ‘loudcasting’ phones can be won, but it will take some very British nudging | Dan Hancox",
-        "summary": "Although mobiles blared in public are nothing new, this crop of headphone-dodging irritants are truly maddening. It’s time to take them on\n‘Interesting cities can’t be quiet”, runs one of grime DJ and music industry thinker Elijah’s epigrams – and in",
-        "content": "Although mobiles blared in public are nothing new, this crop of headphone-dodging irritants are truly maddening. It’s time to take them on\n‘Interesting cities can’t be quiet”, runs one of grime DJ and music industry thinker Elijah’s epigrams – and in its essential spirit, he is right. Silent, tidy, prim cities should be treated with suspicion. Any such atmosphere denotes that something has gone wrong at a macro level: either you’ve wound up in an authoritarian regime or, worse, Switzerland.\nBut ",
+        "title": "Taiwan charges nine people for smuggling ‘high-end’ AI servers to China",
+        "summary": "Among those charged are two Super Micro employees and one from Nvidia, marking another flashpoint in US-China AI rivalry\nTaiwanese prosecutors charged nine people Monday, including one from Nvidia and two from Super Micro, for illegally exporting “hi",
+        "content": "Among those charged are two Super Micro employees and one from Nvidia, marking another flashpoint in US-China AI rivalry\nTaiwanese prosecutors charged nine people Monday, including one from Nvidia and two from Super Micro, for illegally exporting “high-end AI servers” to mainland China, adding another wave of turbulence in the AI ​​rivalry between China and the United States.\nProsecutors said the servers involved were graphics processing units known as “B300,” which have been banned from sale to",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/commentisfree/2026/aug/25/war-loudcasting-british-nudging-phones-public",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/aug/25/taiwan-china-ai-smugglers",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Tue, 25 Aug 2026 07:00:51 GMT",
+        "publishedAt": "Tue, 25 Aug 2026 19:02:42 GMT",
         "normalizedTags": [
           "the guardian ai"
         ]
       },
       {
         "id": "AI-028",
-        "title": "Tell us: do you think AI has made Google search better or worse?",
-        "summary": "As people grow used to AI chatbots, we’d like to hear your views about Google’s search engine\nGoogle has put artificial intelligence at the front and center of its search bar. The most-visited site on the internet still shows the same list of links t",
-        "content": "As people grow used to AI chatbots, we’d like to hear your views about Google’s search engine\nGoogle has put artificial intelligence at the front and center of its search bar. The most-visited site on the internet still shows the same list of links to users, but they have to scroll past a summarized response from an AI chatbot, a feature Google calls AI Overviews. The change to what was once the gateway to the rest of the internet has been profound, and the browsing habits of billions of people ",
+        "title": "Trump-backed Ken Paxton unveils ‘Texas first’ datacenter plan aimed at ‘negative impact’",
+        "summary": "The Republican Senate candidate announced the plan with a graphic flagged as ‘Made with AI’\n\nUS politics live – latest updates\n\nKen Paxton, a Republican candidate for the US Senate in Texas, has unveiled plans to tackle the “negative impact” of datac",
+        "content": "The Republican Senate candidate announced the plan with a graphic flagged as ‘Made with AI’\n\nUS politics live – latest updates\n\nKen Paxton, a Republican candidate for the US Senate in Texas, has unveiled plans to tackle the “negative impact” of datacenters amid a growing backlash across the political spectrum.\nPaxton, endorsed by Donald Trump but facing a close contest against Democrat James Talarico, posted a “Texas first” datacenter plan on X with a graphic that the social media network flagge",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/technology/2026/aug/25/google-ai-overview",
+        "sourceUrl": "https://www.theguardian.com/us-news/2026/aug/25/ken-paxton-datacenters-plan-texas",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Tue, 25 Aug 2026 06:00:50 GMT",
+        "publishedAt": "Tue, 25 Aug 2026 17:54:00 GMT",
         "normalizedTags": [
           "the guardian ai"
         ]
       },
       {
         "id": "AI-029",
-        "title": "‘Never seen this level of objection’: Scotland pushes back against datacentre boom",
-        "summary": "Holyrood ‘inching towards moratorium’ amid concerns over massive proposed developments in Auchtertool and beyond\nIn a village 21 miles north of Edinburgh, a real estate consultancy plans to build a datacentre larger than the village itself – 35 metre",
-        "content": "Holyrood ‘inching towards moratorium’ amid concerns over massive proposed developments in Auchtertool and beyond\nIn a village 21 miles north of Edinburgh, a real estate consultancy plans to build a datacentre larger than the village itself – 35 metres high, with an area larger than 100 football pitches.\nBilled as the second-biggest datacentre in the world, the development in Auchertool, Fife, has attracted 1,600 objections.\n Continue reading...",
+        "title": "Australia may face a rush of datacentre construction as AI firms look to avoid upcoming rules, experts say",
+        "summary": "Regulations will require new sites to avoid pushing up power prices by building renewable energy plants and minimising water use\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nPla",
+        "content": "Regulations will require new sites to avoid pushing up power prices by building renewable energy plants and minimising water use\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nPlanned datacentres around Australia may avoid strict new rules being proposed by Anthony Albanese if they can secure approvals in the coming months, amid growing calls for a moratorium.\nThe prime minister is aiming to come to an agreement with national",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/uk-news/2026/aug/25/never-seen-this-level-of-objection-scotland-pushes-back-against-datacentre-boom",
+        "sourceUrl": "https://www.theguardian.com/australia-news/2026/aug/26/australia-may-face-a-rush-of-datacentre-construction-as-ai-firms-look-to-dodge-upcoming-rules-experts-say",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Tue, 25 Aug 2026 05:00:49 GMT",
+        "publishedAt": "Tue, 25 Aug 2026 15:00:19 GMT",
         "normalizedTags": [
           "the guardian ai"
         ]
       },
       {
         "id": "AI-030",
-        "title": "Black Box: episode 2 – The hunt for ClothOff, the deepfake porn app – podcast",
-        "summary": "Revisited: Guardian journalist Michael Safi looks into the world of artificial intelligence, exploring the dangers and promises it holds for society\nToday in Focus is on a summer break and will be back with new episodes from 1 September. In the meant",
-        "content": "Revisited: Guardian journalist Michael Safi looks into the world of artificial intelligence, exploring the dangers and promises it holds for society\nToday in Focus is on a summer break and will be back with new episodes from 1 September. In the meantime, we are bringing you season one of Black Box, before the launch of season two in early September. This episode was first broadcast on 7 March 2024.\nFor six months, the Guardian journalist Michael Safi has been trying to find out who is behind an ",
+        "title": "No, AI doesn’t mean the end of mathematics – at least not yet | Bruce Schneier and Kasra Rafi",
+        "summary": "Mathematicians are raising concerns that the technology could kill their profession. But they still have abilities AI doesn’t\nEarlier this month, about 40 top mathematicians gathered at OpenAI’s offices to discuss the future of their profession. The ",
+        "content": "Mathematicians are raising concerns that the technology could kill their profession. But they still have abilities AI doesn’t\nEarlier this month, about 40 top mathematicians gathered at OpenAI’s offices to discuss the future of their profession. The meeting was off-the-record, but if recent articles by mathematicians are any guide, it was mostly pretty glum. People fear for their jobs, their careers and the work they love.\nWe think the contrary view is more likely, at least in the short-term. AI",
         "keyTakeaways": [],
         "whyItMatters": "",
-        "sourceUrl": "https://www.theguardian.com/news/audio/2026/aug/25/black-box-episode-2-the-hunt-for-clothoff-the-deepfake-porn-app-podcast",
+        "sourceUrl": "https://www.theguardian.com/commentisfree/2026/aug/25/ai-mathematics-careers",
         "sourceName": "The Guardian AI",
         "tags": [
           "The Guardian AI"
         ],
         "section": "culture",
         "readTime": "2 min",
-        "publishedAt": "Tue, 25 Aug 2026 02:00:44 GMT",
+        "publishedAt": "Tue, 25 Aug 2026 12:00:35 GMT",
         "normalizedTags": [
           "the guardian ai"
         ]
@@ -603,36 +603,36 @@
     "authorTitle": "Computer Scientist"
   },
   "sources": [
-    "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-    "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
-    "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
-    "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
-    "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-    "https://the-decoder.com/alabama-is-investigating-openai-following-an-uncontrolled-ai-agent-hack/",
-    "https://the-decoder.com/taiwanese-cybersecurity-firm-warns-that-ai-tools-have-more-than-doubled-chinese-state-backed-cyberattacks/",
-    "https://the-decoder.com/pew-study-shows-ai-written-text-has-surged-across-the-web-since-late-2022/",
-    "https://the-decoder.com/alibabas-wan3-0-generates-ai-videos-up-to-30-seconds-long-from-text-images-and-documents/",
-    "https://the-decoder.com/rogue-ai-agent-used-fake-accounts-and-a-staged-apology-to-push-malware-into-an-open-source-project/",
-    "https://www.technologyreview.com/2026/08/25/1141750/welcome-to-spiderverse-arachnid-webs/",
-    "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
-    "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
-    "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
-    "https://arxiv.org/abs/2608.21362",
-    "https://www.cnbc.com/2026/08/25/blackberry-qnx-robotics-physical-ai.html",
-    "https://www.cnbc.com/2026/08/24/cramer-data-center-trade-under-attack-who-could-benefit.html",
-    "https://www.cnbc.com/2026/08/24/jim-cramer-says-dont-sell-meta-on-litigation-risk-the-stock-is-worth-the-wait.html",
-    "https://www.cnbc.com/2026/08/24/nvidia-says-groq-racks-will-be-online-this-year-after-20-billion-deal.html",
-    "https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html",
-    "https://www.nytimes.com/2026/08/24/technology/hugging-face-open-source-ai-attack.html",
-    "https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html",
-    "https://www.nytimes.com/2026/08/23/us/politics/data-centers-midterm-elections.html",
+    "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+    "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+    "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+    "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+    "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+    "https://the-decoder.com/russia-used-chatgpt-to-run-a-covert-influence-campaign-pushing-pro-kremlin-narratives-across-the-west/",
+    "https://the-decoder.com/openais-first-custom-chip-jalapeno-reportedly-beats-nvidias-blackwell-and-rubin-in-inference-benchmarks/",
+    "https://the-decoder.com/google-launches-gemini-for-legal-work-to-automate-contracts-and-research/",
+    "https://the-decoder.com/metas-paid-ai-agent-hatch-launches-soon-with-a-new-model-called-watermelon-due-in-october/",
+    "https://the-decoder.com/nvidia-says-its-groq-3-lpx-is-four-times-faster-than-cerebras-but-the-math-is-more-complicated/",
+    "https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/",
+    "https://www.technologyreview.com/2026/08/25/1140905/youtuber-finds-niche-as-college-admissions-mentor/",
+    "https://www.technologyreview.com/2026/08/25/1140911/launching-youth-entrepreneurship/",
+    "https://www.technologyreview.com/2026/08/25/1140914/a-new-stamp-on-cyberfraud-prevention/",
+    "https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/",
+    "https://www.cnbc.com/2026/08/25/instagram-adam-mosseri-testifies-california-state-ag-federal-meta.html",
+    "https://www.cnbc.com/2026/08/25/openais-head-of-data-centers-chris-malone-is-out-in-latest-exec-exit.html",
+    "https://www.cnbc.com/2026/08/25/spacex-louisiana-spaceport.html",
+    "https://www.cnbc.com/2026/08/25/apples-next-chapter-3-pressing-challenges-facing-tim-cooks-successor-as-ceo.html",
+    "https://www.cnbc.com/2026/08/25/waymo-robotaxi-germany-2027.html",
+    "https://www.nytimes.com/2026/08/25/technology/instagram-adam-mosseri-trial.html",
+    "https://www.nytimes.com/2026/08/25/technology/spacex-louisiana-spaceport.html",
     "https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html",
-    "https://www.nytimes.com/2026/08/24/travel/american-airlines-laptop-fire.html",
-    "https://www.theguardian.com/uk-news/2026/aug/25/planned-datacentres-carbon-emissions-uk-exxonmobil",
-    "https://www.theguardian.com/commentisfree/2026/aug/25/war-loudcasting-british-nudging-phones-public",
-    "https://www.theguardian.com/technology/2026/aug/25/google-ai-overview",
-    "https://www.theguardian.com/uk-news/2026/aug/25/never-seen-this-level-of-objection-scotland-pushes-back-against-datacentre-boom",
-    "https://www.theguardian.com/news/audio/2026/aug/25/black-box-episode-2-the-hunt-for-clothoff-the-deepfake-porn-app-podcast"
+    "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-sanctions-oil-gold.html",
+    "https://www.nytimes.com/2026/08/25/climate/epa-data-centers-public-comment.html",
+    "https://www.theguardian.com/technology/2026/aug/25/why-the-threat-from-the-rampaging-ai-machine-went-ignored",
+    "https://www.theguardian.com/technology/2026/aug/25/taiwan-china-ai-smugglers",
+    "https://www.theguardian.com/us-news/2026/aug/25/ken-paxton-datacenters-plan-texas",
+    "https://www.theguardian.com/australia-news/2026/aug/26/australia-may-face-a-rush-of-datacentre-construction-as-ai-firms-look-to-dodge-upcoming-rules-experts-say",
+    "https://www.theguardian.com/commentisfree/2026/aug/25/ai-mathematics-careers"
   ],
-  "generatedAt": "2026-08-25T11:25:01.523Z"
+  "generatedAt": "2026-08-25T23:18:54.566Z"
 }
