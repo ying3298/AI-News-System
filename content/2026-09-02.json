@@ -1,0 +1,618 @@
+{
+  "date": "2026-09-02",
+  "dateFormatted": "September 2, 2026",
+  "headline": {
+    "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+    "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+    "sourceUrl": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+    "sourceName": "TechCrunch AI"
+  },
+  "simpleSummary": [
+    "Today's edition was assembled directly from RSS feeds without AI curation.",
+    "Browse the stories below for the latest AI news."
+  ],
+  "sections": {
+    "tools": [
+      {
+        "id": "AI-001",
+        "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+        "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+        "content": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 01 Sep 2026 22:08:24 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-002",
+        "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+        "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+        "content": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 01 Sep 2026 21:06:24 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-003",
+        "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+        "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
+        "content": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 01 Sep 2026 20:53:05 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-004",
+        "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+        "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
+        "content": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 01 Sep 2026 19:39:22 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-005",
+        "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+        "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
+        "content": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 01 Sep 2026 17:35:37 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      }
+    ],
+    "creative": [
+      {
+        "id": "AI-006",
+        "title": "Anthropic opens Claude AI text detection to regulators, media, fact-checkers, and others",
+        "summary": "Anthropic is launching an API that lets regulators, media outlets, and researchers check whether text carries Claude's digital watermark. The EU AI Act now requires invisible watermarks in AI-generated text. Critics warn the technology could hurt tex",
+        "content": "Anthropic is launching an API that lets regulators, media outlets, and researchers check whether text carries Claude's digital watermark. The EU AI Act now requires invisible watermarks in AI-generated text. Critics warn the technology could hurt text quality and create transparency problems where contracts ban AI use.\nThe article Anthropic opens Claude AI text detection to regulators, media, fact-checkers, and others appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/anthropic-opens-claude-ai-text-detection-to-regulators-media-fact-checkers-and-others/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 01 Sep 2026 20:40:36 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-007",
+        "title": "Anthropic's Claude Fable 5.1 promises better coding and research at up to 45 percent less",
+        "summary": "Anthropic launches Claude Fable 5.1 and Mythos 5.1, its most capable AI models yet. Fable 5.1 doubles its predecessor's score on Terminal-Bench-Science and improves agentic coding by over 30 percent. Costs drop by up to 45 percent for long, autonomou",
+        "content": "Anthropic launches Claude Fable 5.1 and Mythos 5.1, its most capable AI models yet. Fable 5.1 doubles its predecessor's score on Terminal-Bench-Science and improves agentic coding by over 30 percent. Costs drop by up to 45 percent for long, autonomous runs with many tool calls.\nThe article Anthropic's Claude Fable 5.1 promises better coding and research at up to 45 percent less appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/anthropics-claude-fable-5-1-promises-better-coding-and-research-at-up-to-45-percent-less/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 01 Sep 2026 20:32:55 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-008",
+        "title": "Google Deepmind's new chief says frontier AI leadership is the only thing that matters",
+        "summary": "Google Deepmind chief Koray Kavukcuoglu admits Google's current models are \"a little bit below the frontier\" but says he's \"100% certain that we will be at the frontier.\" He didn't share any concrete frontier news to back that up, though.\nThe article",
+        "content": "Google Deepmind chief Koray Kavukcuoglu admits Google's current models are \"a little bit below the frontier\" but says he's \"100% certain that we will be at the frontier.\" He didn't share any concrete frontier news to back that up, though.\nThe article Google Deepmind's new chief says frontier AI leadership is the only thing that matters appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/google-deepminds-new-chief-says-frontier-ai-leadership-is-the-only-thing-that-matters/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 01 Sep 2026 16:49:11 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-009",
+        "title": "Google's election AI Overviews are opaque, rely on few sources, and sometimes take sides",
+        "summary": "Using access granted under the EU's Digital Services Act, the German advocacy group AlgorithmWatch ran 4,480 election-related search queries on Google and analyzed the AI Overviews that came back. Google showed the overviews inconsistently and leaned",
+        "content": "Using access granted under the EU's Digital Services Act, the German advocacy group AlgorithmWatch ran 4,480 election-related search queries on Google and analyzed the AI Overviews that came back. Google showed the overviews inconsistently and leaned on a small pool of sources, chief among them its own platform YouTube. Whether earlier safeguards against AI answers on election questions still apply, Google left open.\nThe article Google's election AI Overviews are opaque, rely on few sources, and",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/googles-election-ai-overviews-are-opaque-rely-on-few-sources-and-sometimes-take-sides/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 01 Sep 2026 13:03:17 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-010",
+        "title": "Runway's Solaris is an AI system that generates software interfaces in real time",
+        "summary": "AI company Runway has unveiled Solaris, the first model in a new category it calls \"Interface World Models.\" Instead of running code, the system generates the user interface frame by frame as you interact with it.\nThe article Runway's Solaris is an A",
+        "content": "AI company Runway has unveiled Solaris, the first model in a new category it calls \"Interface World Models.\" Instead of running code, the system generates the user interface frame by frame as you interact with it.\nThe article Runway's Solaris is an AI system that generates software interfaces in real time appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/runways-solaris-is-an-ai-system-that-generates-software-interfaces-in-real-time/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 01 Sep 2026 12:53:46 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      }
+    ],
+    "research": [
+      {
+        "id": "AI-011",
+        "title": "How AI plotted an interstellar journey to Alpha Centauri",
+        "summary": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029.  It’s a hugely ambitious mission—if all goes well, the spacecraft could take up to 80,000",
+        "content": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029.  It’s a hugely ambitious mission—if all goes well, the spacecraft could take up to 80,000 years to arrive at Alpha Centauri, which is 4.4 light-years away. And the…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 01 Sep 2026 19:10:36 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-012",
+        "title": "Making the AI-powered case for legacy modernization",
+        "summary": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could make modernization feel like a disruption to mana",
+        "content": "For years, legacy technology has been a problem companies knew they needed to solve, but one they often struggled to tackle. The cost, complexity, and risk of replacing business-critical systems could make modernization feel like a disruption to manage instead of an opportunity to pursue. But with the rise in customer expectations and the changes…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 01 Sep 2026 14:00:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-013",
+        "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How engineered microbes could help feed the world’s crops Fertilizer is crucial for the global food supply, but ",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How engineered microbes could help feed the world’s crops Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions.…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 01 Sep 2026 12:10:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-014",
+        "title": "How engineered microbes could help feed the world’s crops",
+        "summary": "Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions. Some companies hope microbes can help. A growing body of research shows that seeding the soil around a crop’s roots with beneficial ",
+        "content": "Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions. Some companies hope microbes can help. A growing body of research shows that seeding the soil around a crop’s roots with beneficial microbes can help feed the plant, providing crucial nitrogen to help…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 01 Sep 2026 09:00:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-015",
+        "title": "Time Capsule of Testable Human Knowledge: 41 Years of Jeopardy! in a Single Free Local Model",
+        "summary": "arXiv:2608.27459v1 Announce Type: new \nAbstract: In 2011, IBM's Watson was something like a sealed capsule of its era's queryable knowledge. Its DeepQA system defeated the strongest human Jeopardy! champions, but the knowledge that let it do so lived",
+        "content": "arXiv:2608.27459v1 Announce Type: new \nAbstract: In 2011, IBM's Watson was something like a sealed capsule of its era's queryable knowledge. Its DeepQA system defeated the strongest human Jeopardy! champions, but the knowledge that let it do so lived in a curated billion-document corpus running on a cluster of POWER7 servers, frozen at build time and impossible to move or copy. We show that the same kind of artifact, a snapshot of what a culture can answer, is now portable and essentially free. ",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2608.27459",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 01 Sep 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ]
+      }
+    ],
+    "applications": [],
+    "business": [
+      {
+        "id": "AI-016",
+        "title": "Palo Alto CEO says $1 trillion of cybersecurity infrastructure isn’t ready for AI",
+        "summary": "Palo Alto CEO Nikesh Arora said AI is forcing companies to modernize roughly $1 trillion of aging cybersecurity infrastructure that isn’t equipped for attacks.",
+        "content": "Palo Alto CEO Nikesh Arora said AI is forcing companies to modernize roughly $1 trillion of aging cybersecurity infrastructure that isn’t equipped for attacks.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/09/01/palo-alto-ceo-says-1-trillion-of-cybersecurity-infrastructure-isnt-ready-for-ai.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 01 Sep 2026 23:20:44 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-017",
+        "title": "Palo Alto Networks beats quarterly estimates on AI demand, continues acquisition spree",
+        "summary": "Palo Alto Networks' stock has nearly doubled this year as AI boosts demand for security detection and response tools",
+        "content": "Palo Alto Networks' stock has nearly doubled this year as AI boosts demand for security detection and response tools",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/09/01/palo-alto-networks-panw-q4-2026-earnings.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 01 Sep 2026 21:41:15 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-018",
+        "title": "OpenAI says Astra AI model is its first that crosses 'Critical' cybersecurity capability",
+        "summary": "OpenAI said it will make Astra available \"soon,\" but access to its cybersecurity capabilities will be limited.",
+        "content": "OpenAI said it will make Astra available \"soon,\" but access to its cybersecurity capabilities will be limited.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/09/01/open-ai-astra-cyber-model.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 01 Sep 2026 20:20:50 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-019",
+        "title": "Dell surges 9% after lifting fiscal 2027 forecast on AI server strength",
+        "summary": "Dell sees AI server revenue tripling in fiscal 2027. Six months ago, it was looking for the number to double.",
+        "content": "Dell sees AI server revenue tripling in fiscal 2027. Six months ago, it was looking for the number to double.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/09/01/dell-q2-earnings-report-2027.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 01 Sep 2026 21:40:18 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-020",
+        "title": "GoPro joins AI bonanza with pivot into data centers as shares skyrocket 40%",
+        "summary": "Action camera maker GoPro is merging with private photonics company Starman Optical and joining the AI wave.",
+        "content": "Action camera maker GoPro is merging with private photonics company Starman Optical and joining the AI wave.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/09/01/gopro-stock-ai-data-centers.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 01 Sep 2026 20:28:08 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      }
+    ],
+    "policy": [
+      {
+        "id": "AI-021",
+        "title": "John Ternus Replaces Tim Cook as Apple CEO",
+        "summary": "Big technology and management changes are greeting John Ternus, whose long-serving predecessor, Tim Cook, will stay on as executive chair.",
+        "content": "Big technology and management changes are greeting John Ternus, whose long-serving predecessor, Tim Cook, will stay on as executive chair.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/09/01/technology/apple-tim-cook-john-ternus.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 01 Sep 2026 09:01:55 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-022",
+        "title": "Map Apps Are Handling Trump’s Renaming of Lake Ontario to Lake America Differently",
+        "summary": "Navigation companies face a new dilemma after President Trump ordered Lake Ontario to be renamed Lake America.",
+        "content": "Navigation companies face a new dilemma after President Trump ordered Lake Ontario to be renamed Lake America.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/09/01/us/lake-ontario-america-name-apple-maps-mapquest.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 01 Sep 2026 22:03:00 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-023",
+        "title": "Palantir CEO sets sights on Ukraine as next target",
+        "summary": "The venture intends to be a company that leverages the lessons Ukrainians have learned from their war with Russia, and turn it into technology available in Ukraine and other countries.",
+        "content": "The venture intends to be a company that leverages the lessons Ukrainians have learned from their war with Russia, and turn it into technology available in Ukraine and other countries.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.washingtonpost.com/technology/2026/09/01/palantir-ceo-sets-sights-ukraine-next-target/",
+        "sourceName": "Washington Post Tech",
+        "tags": [
+          "Washington Post Tech"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 01 Sep 2026 20:00:00 +0000",
+        "normalizedTags": [
+          "washington post tech"
+        ]
+      },
+      {
+        "id": "AI-024",
+        "title": "Who is John Ternus, Apple’s new CEO?",
+        "summary": "The veteran hardware executive takes over as the $4.7 trillion company has struggled to compete with rivals in artificial intelligence.",
+        "content": "The veteran hardware executive takes over as the $4.7 trillion company has struggled to compete with rivals in artificial intelligence.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.washingtonpost.com/technology/2026/09/01/john-ternus-takes-over-apple-ceo-tim-cook-amid-ai-challenges/",
+        "sourceName": "Washington Post Tech",
+        "tags": [
+          "Washington Post Tech"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 01 Sep 2026 18:18:44 +0000",
+        "normalizedTags": [
+          "washington post tech"
+        ]
+      }
+    ],
+    "concerns": [],
+    "culture": [
+      {
+        "id": "AI-025",
+        "title": "Macquarie University swaps in-person psychology classes with AI chatbot for two subjects",
+        "summary": "University’s move is part of trend that critics within academia say will lead to further staff cuts and loss of ‘everything that makes the job worth doing’\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app",
+        "content": "University’s move is part of trend that critics within academia say will lead to further staff cuts and loss of ‘everything that makes the job worth doing’\n\nFollow our Australia news live blog for latest updates\n\nGet our breaking news email, free app or daily news podcast\n\nAn Australian university has swapped in-person classes with an AI chatbot, online quizzes and optional online tutorials in two subjects as institutions give the technology more teaching responsibilities.\nMacquarie University’s",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/sep/02/macquarie-university-using-ai-chatbot-tutorials",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 01 Sep 2026 15:00:02 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-026",
+        "title": "Pentagon official overseeing military AI sold millions worth of stock in AI firm",
+        "summary": "Exclusive: financial disclosures from Emil Michael – who also reaped millions from xAI stock earlier this year – show he sold his Perplexity stock for up to $25m\nThe top Pentagon official overseeing military artificial intelligence policy, who reaped",
+        "content": "Exclusive: financial disclosures from Emil Michael – who also reaped millions from xAI stock earlier this year – show he sold his Perplexity stock for up to $25m\nThe top Pentagon official overseeing military artificial intelligence policy, who reaped profits earlier this year of up to $24m selling his private investment in Elon Musk’s AI company, has now sold his holdings in another AI company for between $5m and $25m, according to records seen by the Guardian. (Federal financial records show ra",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/us-news/2026/sep/01/top-pentagon-official-ai-stock-holdings",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 01 Sep 2026 19:17:49 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-027",
+        "title": "Why does everyone hate datacentres?",
+        "summary": "AI datacentres are almost universally unpopular. They are loud, unsightly and drain environmental resources, with most of the profits generated flowing back to the US companies that build them – and the statistics against them are piling up.\nGuardian",
+        "content": "AI datacentres are almost universally unpopular. They are loud, unsightly and drain environmental resources, with most of the profits generated flowing back to the US companies that build them – and the statistics against them are piling up.\nGuardian reporter Hettie O’Brien visits Brick Lane in east London, where people are trying to resist plans for a 5,200-sq metre datacentre being pushed through by the government, to find out why people hate them so much\n Continue reading...",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/uk-news/video/2026/sep/01/why-does-everyone-hate-datacentres",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 01 Sep 2026 17:04:20 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-028",
+        "title": "‘Not perfectly aligned’ with human values: Anthropic admits security failures behind AI hacking incidents",
+        "summary": "US owner of Claude chatbot previously said its models had hacked three organisations during testing\nThe US startup behind the Claude chatbot has admitted a series of hacking incidents involving its models reflected a “failure of operational security”",
+        "content": "US owner of Claude chatbot previously said its models had hacked three organisations during testing\nThe US startup behind the Claude chatbot has admitted a series of hacking incidents involving its models reflected a “failure of operational security” and said it has tightened its testing procedures.\nAnthropic revealed in July that its models had accessed the open internet three times and gained unauthorised access to the systems of three organisations.\n Continue reading...",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/sep/01/anthropic-claude-ai-hacking-human-values",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 01 Sep 2026 15:18:10 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-029",
+        "title": "From Bill Gates to Bernie Sanders, most agree the AI arms race is disastrous. Only Europe can make it stop | Alexander Hurst",
+        "summary": "An EU export ban on Dutch tech giant ASML’s machines could force the pause we all need\nAt this point, it should be clear that AI is a choose-your-own-adventure book where every option ends in disaster. Exploding carbon emissions and ecological collap",
+        "content": "An EU export ban on Dutch tech giant ASML’s machines could force the pause we all need\nAt this point, it should be clear that AI is a choose-your-own-adventure book where every option ends in disaster. Exploding carbon emissions and ecological collapse? Turn to page 37. Other outcomes include some or all of: the bubble bursting and an ensuing financial crisis; mass unemployment via automation; the end of democracy and the rise of authoritarian surveillance states; raving cults who believe the pa",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/commentisfree/2026/sep/01/from-bill-gates-to-bernie-sanders-most-agree-the-ai-arms-race-is-disastrous-only-europe-can-make-it-stop",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 01 Sep 2026 04:00:45 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      }
+    ]
+  },
+  "quote": {
+    "text": "The best way to predict the future is to invent it.",
+    "author": "Alan Kay",
+    "authorTitle": "Computer Scientist"
+  },
+  "sources": [
+    "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+    "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+    "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+    "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+    "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+    "https://the-decoder.com/anthropic-opens-claude-ai-text-detection-to-regulators-media-fact-checkers-and-others/",
+    "https://the-decoder.com/anthropics-claude-fable-5-1-promises-better-coding-and-research-at-up-to-45-percent-less/",
+    "https://the-decoder.com/google-deepminds-new-chief-says-frontier-ai-leadership-is-the-only-thing-that-matters/",
+    "https://the-decoder.com/googles-election-ai-overviews-are-opaque-rely-on-few-sources-and-sometimes-take-sides/",
+    "https://the-decoder.com/runways-solaris-is-an-ai-system-that-generates-software-interfaces-in-real-time/",
+    "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+    "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
+    "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
+    "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/",
+    "https://arxiv.org/abs/2608.27459",
+    "https://www.cnbc.com/2026/09/01/palo-alto-ceo-says-1-trillion-of-cybersecurity-infrastructure-isnt-ready-for-ai.html",
+    "https://www.cnbc.com/2026/09/01/palo-alto-networks-panw-q4-2026-earnings.html",
+    "https://www.cnbc.com/2026/09/01/open-ai-astra-cyber-model.html",
+    "https://www.cnbc.com/2026/09/01/dell-q2-earnings-report-2027.html",
+    "https://www.cnbc.com/2026/09/01/gopro-stock-ai-data-centers.html",
+    "https://www.nytimes.com/2026/09/01/technology/apple-tim-cook-john-ternus.html",
+    "https://www.nytimes.com/2026/09/01/us/lake-ontario-america-name-apple-maps-mapquest.html",
+    "https://www.washingtonpost.com/technology/2026/09/01/palantir-ceo-sets-sights-ukraine-next-target/",
+    "https://www.washingtonpost.com/technology/2026/09/01/john-ternus-takes-over-apple-ceo-tim-cook-amid-ai-challenges/",
+    "https://www.theguardian.com/technology/2026/sep/02/macquarie-university-using-ai-chatbot-tutorials",
+    "https://www.theguardian.com/us-news/2026/sep/01/top-pentagon-official-ai-stock-holdings",
+    "https://www.theguardian.com/uk-news/video/2026/sep/01/why-does-everyone-hate-datacentres",
+    "https://www.theguardian.com/technology/2026/sep/01/anthropic-claude-ai-hacking-human-values",
+    "https://www.theguardian.com/commentisfree/2026/sep/01/from-bill-gates-to-bernie-sanders-most-agree-the-ai-arms-race-is-disastrous-only-europe-can-make-it-stop"
+  ],
+  "generatedAt": "2026-09-02T00:42:48.492Z"
+}
