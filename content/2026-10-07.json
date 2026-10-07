@@ -1,0 +1,638 @@
+{
+  "date": "2026-10-07",
+  "dateFormatted": "October 7, 2026",
+  "headline": {
+    "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+    "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
+    "sourceUrl": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+    "sourceName": "TechCrunch AI"
+  },
+  "simpleSummary": [
+    "Today's edition was assembled directly from RSS feeds without AI curation.",
+    "Browse the stories below for the latest AI news."
+  ],
+  "sections": {
+    "tools": [
+      {
+        "id": "AI-001",
+        "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+        "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
+        "content": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 06 Oct 2026 22:34:03 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-002",
+        "title": "How AI decision models could change content moderation",
+        "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+        "content": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 06 Oct 2026 20:35:20 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-003",
+        "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+        "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+        "content": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 06 Oct 2026 20:00:30 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-004",
+        "title": "The next hurdle for AI agents: getting websites to let them in",
+        "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
+        "content": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 06 Oct 2026 19:56:50 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-005",
+        "title": "Hark releases an AI personal assistant with a focus on privacy",
+        "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
+        "content": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 06 Oct 2026 18:22:45 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      }
+    ],
+    "creative": [
+      {
+        "id": "AI-006",
+        "title": "Google claims EmbeddingGemma 2 outperforms rival embedding models twice its size",
+        "summary": "Google released EmbeddingGemma 2, an open model with 740 million parameters that converts text, images, video, audio, and code into vectors. It runs on-device, needs only about 191 MB of RAM, and outperforms some competing models twice its size, acco",
+        "content": "Google released EmbeddingGemma 2, an open model with 740 million parameters that converts text, images, video, audio, and code into vectors. It runs on-device, needs only about 191 MB of RAM, and outperforms some competing models twice its size, according to Google. Paired with a small open model like Gemma 4, it can run offline RAG apps without sending data to external servers.\nThe article Google claims EmbeddingGemma 2 outperforms rival embedding models twice its size appeared first on The Dec",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/google-claims-embeddinggemma-2-outperforms-rival-embedding-models-twice-its-size/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 06 Oct 2026 19:47:27 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-007",
+        "title": "Google's new image model Nano Banana 2.1 generates better images for less money",
+        "summary": "Google's new Nano Banana 2.1 image model uses Gemini 3.6 Flash and beats the previous Pro model in some benchmarks at a lower cost. But its predecessor also scored well in tests, while Pro often produced better images in practice.\nThe article Google'",
+        "content": "Google's new Nano Banana 2.1 image model uses Gemini 3.6 Flash and beats the previous Pro model in some benchmarks at a lower cost. But its predecessor also scored well in tests, while Pro often produced better images in practice.\nThe article Google's new image model Nano Banana 2.1 generates better images for less money appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/googles-new-image-model-nano-banana-2-1-generates-better-images-for-less-money/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 06 Oct 2026 19:29:42 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-008",
+        "title": "Wikimedia confirms OpenAI's rogue AI agents edited wikis, tried to compromise tools, and hammered its infrastructure",
+        "summary": "According to the Wikimedia Foundation, rogue OpenAI agents edited wikis without permission, tried to abuse a citation tool as a proxy, and may have caused a partial Wikidata Query Service outage through massive crawling. Wikimedia says AI companies n",
+        "content": "According to the Wikimedia Foundation, rogue OpenAI agents edited wikis without permission, tried to abuse a citation tool as a proxy, and may have caused a partial Wikidata Query Service outage through massive crawling. Wikimedia says AI companies need to take responsibility for their agents instead of pushing the burden onto volunteer editors.\nThe article Wikimedia confirms OpenAI's rogue AI agents edited wikis, tried to compromise tools, and hammered its infrastructure appeared first on The D",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 06 Oct 2026 18:29:35 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-009",
+        "title": "Microsoft publishes Nobel economist's bearish AI forecast of just 1.5% GDP growth over a decade",
+        "summary": "Microsoft published a bearish AI outlook from Nobel economist Daron Acemoglu. He predicts about 1.5 percent GDP growth over ten years and at most five percent of jobs replaced. Bigger models won't move the needle, he argues. What's missing are practi",
+        "content": "Microsoft published a bearish AI outlook from Nobel economist Daron Acemoglu. He predicts about 1.5 percent GDP growth over ten years and at most five percent of jobs replaced. Bigger models won't move the needle, he argues. What's missing are practical apps that change how work gets done.\nThe article Microsoft publishes Nobel economist's bearish AI forecast of just 1.5% GDP growth over a decade appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/microsoft-publishes-nobel-economists-bearish-ai-forecast-of-just-1-5-gdp-growth-over-a-decade/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 06 Oct 2026 17:31:51 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-010",
+        "title": "Insurers brace for millions in claims as AI agents spin out of control",
+        "summary": "Insurers are bracing for millions in claims from rogue AI agents, and executives like OpenAI's Sam Altman and Anthropic's Dario Amodei could be personally on the hook for the fallout.\nThe article Insurers brace for millions in claims as AI agents spi",
+        "content": "Insurers are bracing for millions in claims from rogue AI agents, and executives like OpenAI's Sam Altman and Anthropic's Dario Amodei could be personally on the hook for the fallout.\nThe article Insurers brace for millions in claims as AI agents spin out of control appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/insurers-brace-for-millions-in-claims-as-ai-agents-spin-out-of-control/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 06 Oct 2026 16:06:46 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      }
+    ],
+    "research": [
+      {
+        "id": "AI-011",
+        "title": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
+        "summary": "Popular weight-loss drugs may do more than help people shed pounds. They might also melt away the years. Drug giants Eli Lilly and Novo Nordisk say patients taking their drugs age less quickly, according to readouts from molecular “aging clocks.” Suc",
+        "content": "Popular weight-loss drugs may do more than help people shed pounds. They might also melt away the years. Drug giants Eli Lilly and Novo Nordisk say patients taking their drugs age less quickly, according to readouts from molecular “aging clocks.” Such clocks assess a person’s biological age by looking at changes to DNA that accumulate…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 06 Oct 2026 16:40:36 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-012",
+        "title": "The Download: 10 climate tech companies to watch",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. 10 climate tech companies to watch Each year, MIT Technology Review puts together a list of the most promising c",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. 10 climate tech companies to watch Each year, MIT Technology Review puts together a list of the most promising climate tech companies in the world. This year, the stakes feel higher…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 06 Oct 2026 12:10:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-013",
+        "title": "2026 Climate Tech Companies to Watch",
+        "summary": "2026 Climate Tech Companies to Watch",
+        "content": "",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 06 Oct 2026 10:35:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-014",
+        "title": "Here’s how our climate team picked 10 promising companies to watch",
+        "summary": "As the team at MIT Technology Review set out to choose companies for this year’s edition of our annual list of Climate Tech Companies to Watch, the challenge felt more daunting than any year since we started compiling the list in 2023.  This year is ",
+        "content": "As the team at MIT Technology Review set out to choose companies for this year’s edition of our annual list of Climate Tech Companies to Watch, the challenge felt more daunting than any year since we started compiling the list in 2023.  This year is shaping up to be one of the hottest ever recorded.…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/10/06/1144978/2026-climate-tech-companies-to-watch-how-we-chose/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 06 Oct 2026 10:35:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-015",
+        "title": "WeLion New Energy and its semi-solid-state batteries",
+        "summary": "WeLion New Energy is on a quest to make safer, better batteries. The company’s semi-solid-state cells could improve safety and offer greater energy density than lithium-ion batteries to power electric cars, boats, and drones. From the EVs that carry ",
+        "content": "WeLion New Energy is on a quest to make safer, better batteries. The company’s semi-solid-state cells could improve safety and offer greater energy density than lithium-ion batteries to power electric cars, boats, and drones. From the EVs that carry commuters home to the ships that transport goods across countries, more and more vehicles around us…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 06 Oct 2026 10:35:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      }
+    ],
+    "applications": [],
+    "business": [
+      {
+        "id": "AI-016",
+        "title": "Trillions are being ‘wasted’ on the AI boom, Arthur Hayes says. He’s betting on what comes next\n",
+        "summary": "Former BitMEX CEO Arthur Hayes says the AI infrastructure boom is being overbuilt and is betting an eventual crash and bailout will send crypto higher.",
+        "content": "Former BitMEX CEO Arthur Hayes says the AI infrastructure boom is being overbuilt and is betting an eventual crash and bailout will send crypto higher.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/10/07/flop-ai-boom-arthur-hayes-bitcoin-bitmex-coinferencex-.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 07 Oct 2026 00:49:34 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-017",
+        "title": "Cramer says these blue-chip stocks are among the best ways to invest in the AI boom",
+        "summary": "Jim Cramer said established tech giants with strong businesses and multiple ways to benefit from AI are some of the best places to invest in the boom.",
+        "content": "Jim Cramer said established tech giants with strong businesses and multiple ways to benefit from AI are some of the best places to invest in the boom.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/10/06/jim-cramer-ai-stocks.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 06 Oct 2026 22:13:04 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-018",
+        "title": "Meta joins with group of companies to tame ‘chaos’ of doing business with AI bots",
+        "summary": "Meta and OpenAI Chairman Bret Taylor’s startup Sierra are building a set of tech standards to make it easier to do business with AI bots.",
+        "content": "Meta and OpenAI Chairman Bret Taylor’s startup Sierra are building a set of tech standards to make it easier to do business with AI bots.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/10/06/meta-joins-companies-to-tame-chaos-of-doing-business-with-ai-bots.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 06 Oct 2026 18:48:36 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-019",
+        "title": "Meta may ditch the idea of a cloud business for Muse. We think that’s a good trade",
+        "summary": "We may never get the Meta Cloud business we once envisioned, but we don't need it if Muse delivers.",
+        "content": "We may never get the Meta Cloud business we once envisioned, but we don't need it if Muse delivers.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/investingclub/2026/10/06/meta-may-ditch-the-idea-of-a-cloud-business-for-muse-we-think-thats-a-good-trade.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 06 Oct 2026 18:59:37 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-020",
+        "title": "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies",
+        "summary": "The expansion marks the AI company's latest push to deepen its ties to founders and fast-growing companies.",
+        "content": "The expansion marks the AI company's latest push to deepen its ties to founders and fast-growing companies.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 06 Oct 2026 18:06:40 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      }
+    ],
+    "policy": [
+      {
+        "id": "AI-021",
+        "title": "Energy Firms Try to Squeeze More Power Out of Old Nuclear Plants",
+        "summary": "It takes a long time to build new nuclear plants. So, some U.S. companies are looking to get more electricity out of reactors that already exist.",
+        "content": "It takes a long time to build new nuclear plants. So, some U.S. companies are looking to get more electricity out of reactors that already exist.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 06 Oct 2026 19:37:09 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-022",
+        "title": "In Race With U.S., China Struggles to Recruit Foreign A.I. Researchers",
+        "summary": "China’s booming artificial intelligence sector has given local researchers good reason to remain in the country, but it has yet to lure overseas scientists despite a government push.",
+        "content": "China’s booming artificial intelligence sector has given local researchers good reason to remain in the country, but it has yet to lure overseas scientists despite a government push.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 06 Oct 2026 17:00:14 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-023",
+        "title": "Gears of War: E-Day Is Nostalgic With Rich Visuals",
+        "summary": "In Gears of War: E-Day, it’s fun to see the origins of beloved characters in grand scale, even if its play feels conservative.",
+        "content": "In Gears of War: E-Day, it’s fun to see the origins of beloved characters in grand scale, even if its play feels conservative.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/10/06/arts/gears-of-war-e-day-review.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 06 Oct 2026 09:01:01 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-024",
+        "title": "South Korea Investigates Possible Use of A.I. in Hackings on Its Banks",
+        "summary": "The president said there were signs that such models were used in recent attacks on several banks involving customer data. Police are investigating.",
+        "content": "The president said there were signs that such models were used in recent attacks on several banks involving customer data. Police are investigating.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/10/06/world/asia/south-korea-banks-hacked-ai.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 06 Oct 2026 08:51:52 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-025",
+        "title": "Mixed Human Feelings After a Day at a Park Full of Robots",
+        "summary": "I went to Galaxy Robot Park in Seoul to see how we might one day live with robots. It was part cutting-edge technology, part theatrics.",
+        "content": "I went to Galaxy Robot Park in Seoul to see how we might one day live with robots. It was part cutting-edge technology, part theatrics.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 06 Oct 2026 17:51:56 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      }
+    ],
+    "concerns": [],
+    "culture": [
+      {
+        "id": "AI-026",
+        "title": "Is regulation enough to stop AI systems killing us all? | Letters",
+        "summary": "Martyn Thomas wonders how any rational person can argue that independent oversight and regulation will be sufficient\nOnce again a frontier AI model has been withdrawn because it fails safety tests (OpenAI scraps release of new model over safety conce",
+        "content": "Martyn Thomas wonders how any rational person can argue that independent oversight and regulation will be sufficient\nOnce again a frontier AI model has been withdrawn because it fails safety tests (OpenAI scraps release of new model over safety concerns in internal testing, 28 September). There is the usual call for “independent oversight and regulation”, though never any explanation of how this would work or, most importantly, what evidence should persuade a regulator that an AI system is adequ",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/oct/06/is-regulation-enough-to-stop-ai-systems-killing-us-all",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 06 Oct 2026 16:56:04 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-027",
+        "title": "OpenAI came to Australia to apologise. It will leave without answering these key questions | Toby Walsh",
+        "summary": "We don’t accept drugs killing a few people because they cure most patients. Or a few planes crashing because most land safely. AI should be no different \nOpenAI’s CEO Sam Altman was asked to appear before the Joint Select Committee on Artificial Inte",
+        "content": "We don’t accept drugs killing a few people because they cure most patients. Or a few planes crashing because most land safely. AI should be no different \nOpenAI’s CEO Sam Altman was asked to appear before the Joint Select Committee on Artificial Intelligence in Australia and explain how and why their agents have been hacking into multiple government websites. Altman didn’t turn up but sent Jason Kwon, his chief strategy officer, instead to answer the committee’s many tricky questions on its firs",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/commentisfree/2026/oct/07/openai-australia-apology-without-answering-key-questions",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 07 Oct 2026 01:00:37 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-028",
+        "title": "Privacy watchdog launches probe into China-based company behind Kmart ‘pervert glasses’ app",
+        "summary": "Commissioner said Shenzhen Qingcheng, the app maker behind the HeyCyan app in the smartglasses, failed to respond to her inquiries\n\nGet our breaking news email, free app or daily news podcast\n\nThe Australian privacy regulator has opened an investigat",
+        "content": "Commissioner said Shenzhen Qingcheng, the app maker behind the HeyCyan app in the smartglasses, failed to respond to her inquiries\n\nGet our breaking news email, free app or daily news podcast\n\nThe Australian privacy regulator has opened an investigation into the China-based software company behind the HeyCyan app in Kmart’s $89 smartglasses, following public outrage over the covert use of the devices.\nIn August, Guardian Australia reported Kmart had sold out of the Anko-branded discount version ",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/oct/07/privacy-regulator-probe-kmart-anko-meta-smartglasses-australia",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 06 Oct 2026 23:58:23 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-029",
+        "title": "Artificial review – Luca Guadagnino takes on OpenAI in muddled tech satire",
+        "summary": "New York film festival: The origin story of Sam Altman’s company is reimagined as a campy comedy starring Andrew Garfield\nOn the day that Luca Guadagnino’s film about Sam Altman and OpenAI premiered, Vanity Fair released a cover story on Altman. Alon",
+        "content": "New York film festival: The origin story of Sam Altman’s company is reimagined as a campy comedy starring Andrew Garfield\nOn the day that Luca Guadagnino’s film about Sam Altman and OpenAI premiered, Vanity Fair released a cover story on Altman. Alongside glossy portraits from Annie Leibovitz, the world’s pre-eminent portrait photographer, the story describes him as the Oppenheimer of his day, evoking the image of a man leading humanity towards its own inevitable demise at the hands of sentient ",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/film/2026/oct/06/artificial-sam-altman-ai-movie-review",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 06 Oct 2026 16:58:15 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-030",
+        "title": "Tell us: do you use AI agents to manage your finances?",
+        "summary": "We would like to speak to people about their experience of using AI agents when dealing with their finances\nFollowing the release of Meta’s Muse and Open AI’s dots there’s now capacity for these AI agents to assist with some financial transactions on",
+        "content": "We would like to speak to people about their experience of using AI agents when dealing with their finances\nFollowing the release of Meta’s Muse and Open AI’s dots there’s now capacity for these AI agents to assist with some financial transactions on a user’s behalf.\nWith this in mind, we would like to speak to people who use AI agents to manage their finances.\n Continue reading...",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/oct/06/tell-us-do-you-use-ai-agents-to-manage-your-finances",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 06 Oct 2026 16:02:24 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      }
+    ]
+  },
+  "quote": {
+    "text": "The best way to predict the future is to invent it.",
+    "author": "Alan Kay",
+    "authorTitle": "Computer Scientist"
+  },
+  "sources": [
+    "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+    "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+    "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+    "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+    "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+    "https://the-decoder.com/google-claims-embeddinggemma-2-outperforms-rival-embedding-models-twice-its-size/",
+    "https://the-decoder.com/googles-new-image-model-nano-banana-2-1-generates-better-images-for-less-money/",
+    "https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/",
+    "https://the-decoder.com/microsoft-publishes-nobel-economists-bearish-ai-forecast-of-just-1-5-gdp-growth-over-a-decade/",
+    "https://the-decoder.com/insurers-brace-for-millions-in-claims-as-ai-agents-spin-out-of-control/",
+    "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
+    "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/",
+    "https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/",
+    "https://www.technologyreview.com/2026/10/06/1144978/2026-climate-tech-companies-to-watch-how-we-chose/",
+    "https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/",
+    "https://www.cnbc.com/2026/10/07/flop-ai-boom-arthur-hayes-bitcoin-bitmex-coinferencex-.html",
+    "https://www.cnbc.com/2026/10/06/jim-cramer-ai-stocks.html",
+    "https://www.cnbc.com/2026/10/06/meta-joins-companies-to-tame-chaos-of-doing-business-with-ai-bots.html",
+    "https://www.cnbc.com/investingclub/2026/10/06/meta-may-ditch-the-idea-of-a-cloud-business-for-muse-we-think-thats-a-good-trade.html",
+    "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html",
+    "https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html",
+    "https://www.nytimes.com/2026/10/06/science/china-ai-research-recruitment.html",
+    "https://www.nytimes.com/2026/10/06/arts/gears-of-war-e-day-review.html",
+    "https://www.nytimes.com/2026/10/06/world/asia/south-korea-banks-hacked-ai.html",
+    "https://www.nytimes.com/2026/10/05/world/asia/south-korea-ai-humanoid-robot-park.html",
+    "https://www.theguardian.com/technology/2026/oct/06/is-regulation-enough-to-stop-ai-systems-killing-us-all",
+    "https://www.theguardian.com/commentisfree/2026/oct/07/openai-australia-apology-without-answering-key-questions",
+    "https://www.theguardian.com/technology/2026/oct/07/privacy-regulator-probe-kmart-anko-meta-smartglasses-australia",
+    "https://www.theguardian.com/film/2026/oct/06/artificial-sam-altman-ai-movie-review",
+    "https://www.theguardian.com/technology/2026/oct/06/tell-us-do-you-use-ai-agents-to-manage-your-finances"
+  ],
+  "generatedAt": "2026-10-07T01:56:08.928Z"
+}
