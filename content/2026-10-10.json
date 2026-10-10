@@ -1,0 +1,638 @@
+{
+  "date": "2026-10-10",
+  "dateFormatted": "October 10, 2026",
+  "headline": {
+    "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+    "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+    "sourceUrl": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+    "sourceName": "TechCrunch AI"
+  },
+  "simpleSummary": [
+    "Today's edition was assembled directly from RSS feeds without AI curation.",
+    "Browse the stories below for the latest AI news."
+  ],
+  "sections": {
+    "tools": [
+      {
+        "id": "AI-001",
+        "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+        "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+        "content": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 10 Oct 2026 00:18:32 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-002",
+        "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+        "summary": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+        "content": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 09 Oct 2026 21:41:29 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-003",
+        "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+        "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+        "content": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 09 Oct 2026 19:36:56 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-004",
+        "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+        "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hund",
+        "content": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access […]",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 09 Oct 2026 16:56:42 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-005",
+        "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+        "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hund",
+        "content": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access […]",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 09 Oct 2026 16:53:02 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      }
+    ],
+    "creative": [
+      {
+        "id": "AI-006",
+        "title": "Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows",
+        "summary": "Anthropic is adding dynamic workflows to Claude Managed Agents, letting a lead agent distribute tasks across up to 1,000 sub-agents at once. In testing, a single agent found at most 27 of 70 hidden bugs in a codebase, while the multi-agent workflow c",
+        "content": "Anthropic is adding dynamic workflows to Claude Managed Agents, letting a lead agent distribute tasks across up to 1,000 sub-agents at once. In testing, a single agent found at most 27 of 70 hidden bugs in a codebase, while the multi-agent workflow consistently caught 66.\nThe article Anthropic's Claude can now orchestrate up to 1,000 AI agents in parallel through dynamic workflows appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/anthropics-claude-can-now-orchestrate-up-to-1000-ai-agents-in-parallel-through-dynamic-workflows/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 09 Oct 2026 18:28:25 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-007",
+        "title": "Anthropic launches a free AI scanner for open-source projects",
+        "summary": "Anthropic has launched \"Cyber Mission,\" a program to protect critical infrastructure and open-source software from cyberattacks. Partners like CrowdStrike and Palo Alto Networks will help secure power grids and water systems, while a free AI scanner ",
+        "content": "Anthropic has launched \"Cyber Mission,\" a program to protect critical infrastructure and open-source software from cyberattacks. Partners like CrowdStrike and Palo Alto Networks will help secure power grids and water systems, while a free AI scanner automatically checks open-source projects for vulnerabilities with an expected accuracy above 90 percent.\nThe article Anthropic launches a free AI scanner for open-source projects appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/anthropic-launches-a-free-ai-scanner-for-open-source-projects/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 09 Oct 2026 17:54:44 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-008",
+        "title": "OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
+        "summary": "OpenAI's annualized revenue rate sits at about $50 billion, well below the initially reported $70 billion figure that was based on a different accounting method. The correction sent chip stocks sliding. Meanwhile, OpenAI is negotiating at least $30 b",
+        "content": "OpenAI's annualized revenue rate sits at about $50 billion, well below the initially reported $70 billion figure that was based on a different accounting method. The correction sent chip stocks sliding. Meanwhile, OpenAI is negotiating at least $30 billion in fresh capital at a $1.4 trillion valuation.\nThe article OpenAI revenue keeps surging as company seeks $30 billion in fresh capital appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 09 Oct 2026 17:20:34 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-009",
+        "title": "OpenAI's safety crisis keeps getting worse and the company keeps making it worse",
+        "summary": "OpenAI fired three safety researchers who helped investigate the Hugging Face hack. In an open letter, they warn that the firings are scaring remaining staff and eroding safety culture. OpenAI claims they violated policies but won't say how.\nThe arti",
+        "content": "OpenAI fired three safety researchers who helped investigate the Hugging Face hack. In an open letter, they warn that the firings are scaring remaining staff and eroding safety culture. OpenAI claims they violated policies but won't say how.\nThe article OpenAI's safety crisis keeps getting worse and the company keeps making it worse appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/openais-safety-crisis-keeps-getting-worse-and-the-company-keeps-making-it-worse/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 09 Oct 2026 11:45:04 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-010",
+        "title": "Anthropic's Claude Science creates the first complete ultraviolet map of the sky",
+        "summary": "Astrophysicist Brice Ménard of Johns Hopkins University used Anthropic's Claude Science to map the entire sky in ultraviolet light for the first time. AI agents downloaded data from multiple space missions, calibrated it, and filled in gaps using inp",
+        "content": "Astrophysicist Brice Ménard of Johns Hopkins University used Anthropic's Claude Science to map the entire sky in ultraviolet light for the first time. AI agents downloaded data from multiple space missions, calibrated it, and filled in gaps using inpainting. Predictions averaged about ten percent deviation from actual measurements. Ménard sees the project as an example of research that simply wouldn't have gotten done without AI.\nThe article Anthropic's Claude Science creates the first complete ",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/anthropics-claude-science-creates-the-first-complete-ultraviolet-map-of-the-sky/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 09 Oct 2026 09:22:25 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      }
+    ],
+    "research": [
+      {
+        "id": "AI-011",
+        "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s AI models are trained to refuse a vast number of ",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s AI models are trained to refuse a vast number of prompts. If you ask your chatbot how to poison…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 09 Oct 2026 12:10:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-012",
+        "title": "We’re putting too much faith in AI’s ability to say no",
+        "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of the",
+        "content": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.  But recently, the idea that AI shouldn’t…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 09 Oct 2026 09:00:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-013",
+        "title": "Job titles of the future: Delivery drone air traffic controller",
+        "summary": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says. “I just immediately wanted to be a part of it.” Wischnewsky is now an RPIC, or “",
+        "content": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says. “I just immediately wanted to be a part of it.” Wischnewsky is now an RPIC, or “remote pilot in command,” at a company called FlyTrex. An RPIC is…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 09 Oct 2026 09:00:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-014",
+        "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
+        "summary": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some measures of biological age. Overweight and diabetic ",
+        "content": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some measures of biological age. Overweight and diabetic people who take GLP-1s have a biological age around two to three years younger than similar…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 09 Oct 2026 09:00:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-015",
+        "title": "An Explainable Header-Centric Framework for Large-Scale Semantic Table Interpretation and Data Quality Assessment",
+        "summary": "arXiv:2610.10541v1 Announce Type: new \nAbstract: Knowledge Graph (KG) quality depends not only on downstream graph validation, but also on the quality of tabular metadata used before integration. In metadata-only Semantic Table Interpretation (STI), ",
+        "content": "arXiv:2610.10541v1 Announce Type: new \nAbstract: Knowledge Graph (KG) quality depends not only on downstream graph validation, but also on the quality of tabular metadata used before integration. In metadata-only Semantic Table Interpretation (STI), where cell values are unavailable, noisy, or unsuitable, column headers become a critical source of semantic evidence for traceable KG preparation.\n  We present an explainable, header-centric framework for metadata-only Column Type Annotation (CTA) a",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2610.10541",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 09 Oct 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ]
+      }
+    ],
+    "applications": [],
+    "business": [
+      {
+        "id": "AI-016",
+        "title": "Cramer’s week ahead: Earnings kick off as banks and chipmakers face big tests",
+        "summary": "CNBC’s Jim Cramer said next week’s earnings reports will give investors a clearer picture of corporate performance and the strength of the AI trade.",
+        "content": "CNBC’s Jim Cramer said next week’s earnings reports will give investors a clearer picture of corporate performance and the strength of the AI trade.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/10/09/jim-cramer-week-ahead-bank-earnings-ai-chips.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 09 Oct 2026 22:22:35 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-017",
+        "title": "Tesla drops 'Full Self-Driving' brand name in Europe after regulator pushback",
+        "summary": "German regulators called Tesla's \"Full Self-Driving\" brand name \"somewhat misleading.\"",
+        "content": "German regulators called Tesla's \"Full Self-Driving\" brand name \"somewhat misleading.\"",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/10/09/tesla-full-self-driving-europe-regulator.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 09 Oct 2026 19:21:14 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-018",
+        "title": "Verizon posts worst day since 2002 as SpaceX U.S. network plans whack cell provider stocks",
+        "summary": "SpaceX announced the spectrum deal Thursday, as the company aims to push deeper into the telecom market through its Starlink service.",
+        "content": "SpaceX announced the spectrum deal Thursday, as the company aims to push deeper into the telecom market through its Starlink service.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/10/09/verizon-att-tmobile-stocks-spacex-network.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 09 Oct 2026 20:16:58 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-019",
+        "title": "AI agents like Muse can shop for you. Here's what that means for retail stocks",
+        "summary": "For Amazon, Costco, and TJX, the rise of AI shopping agents presents challenges — and some surprising advantages.",
+        "content": "For Amazon, Costco, and TJX, the rise of AI shopping agents presents challenges — and some surprising advantages.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/investingclub/2026/10/09/ai-agents-could-soon-shop-for-consumers-what-it-means-for-retail-stocks.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 09 Oct 2026 14:15:38 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-020",
+        "title": "Wall Street is pitching data centers as a major real estate bet. The risks are piling up",
+        "summary": "Wall Street firms are bringing AI data center investments to public markets as political, liquidity and project risks grow.",
+        "content": "Wall Street firms are bringing AI data center investments to public markets as political, liquidity and project risks grow.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/10/09/ai-data-centers-investing.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 09 Oct 2026 15:08:20 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      }
+    ],
+    "policy": [
+      {
+        "id": "AI-021",
+        "title": "Inside Mark Zuckerberg’s Decision to Pull the Trigger on Meta’s A.I. Agent",
+        "summary": "Meta had delayed releasing Muse, its A.I. agent app, for months over safety concerns. Then new competition forced Mr. Zuckerberg’s hand.",
+        "content": "Meta had delayed releasing Muse, its A.I. agent app, for months over safety concerns. Then new competition forced Mr. Zuckerberg’s hand.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/10/09/technology/inside-mark-zuckerbergs-decision-to-pull-the-trigger-on-metas-ai-agent.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 09 Oct 2026 09:03:46 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-022",
+        "title": "Anthropic’s Quest to Give A.I. Morals",
+        "summary": "“For Anthropic, it was part research and part evangelism.”",
+        "content": "“For Anthropic, it was part research and part evangelism.”",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/10/09/podcasts/hardfork-anthropic-ai-morals.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 09 Oct 2026 11:01:21 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-023",
+        "title": "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
+        "summary": "The Philadelphia Police Department said the agents had also sent in a false homicide tip. The incidents led the White House to call for better disclosure of rogue A.I. behavior.",
+        "content": "The Philadelphia Police Department said the agents had also sent in a false homicide tip. The incidents led the White House to call for better disclosure of rogue A.I. behavior.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Sat, 10 Oct 2026 01:19:55 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-024",
+        "title": "Airlines Are Upgrading Wi-Fi. Not All Are Using Elon Musk’s Service.",
+        "summary": "Mr. Musk, whose company SpaceX owns Starlink, has attacked the top executive of Delta Air Lines for not selecting the internet provider.",
+        "content": "Mr. Musk, whose company SpaceX owns Starlink, has attacked the top executive of Delta Air Lines for not selecting the internet provider.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/10/09/business/elon-musk-delta-starlink-wifi.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 09 Oct 2026 13:28:00 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-025",
+        "title": "In Alex Gibney’s ‘Musk’, the Answer to the Trillionaire’s Power Is Unsatisfying.",
+        "summary": "Alex Gibney’s nearly four-hour documentary is deeply researched. But because the mogul has long been in the spotlight, little is new.",
+        "content": "Alex Gibney’s nearly four-hour documentary is deeply researched. But because the mogul has long been in the spotlight, little is new.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/10/09/movies/musk-documentary-alex-gibney.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 09 Oct 2026 09:03:28 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      }
+    ],
+    "concerns": [],
+    "culture": [
+      {
+        "id": "AI-026",
+        "title": "AI surveillance startup Flock to cut several hundred jobs amid backlash, sources say",
+        "summary": "Company, which grown rapidly in recent years, has been under scrutiny as privacy concerns grow\nFlock Safety plans to shed about 18% of its employees, people with direct ⁠knowledge of the plans said on Thursday, as the maker of AI-powered surveillance",
+        "content": "Company, which grown rapidly in recent years, has been under scrutiny as privacy concerns grow\nFlock Safety plans to shed about 18% of its employees, people with direct ⁠knowledge of the plans said on Thursday, as the maker of AI-powered surveillance cameras and license-plate readers faces mounting opposition to its products from communities and ⁠lawmakers.\nThe people said the job ⁠cuts came after ​a voluntary buyout program and were expected to affect roughly 270 employees at Flock, a surveilla",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/world/2026/oct/09/flock-job-cuts",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 09 Oct 2026 19:46:53 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-027",
+        "title": "Lost generation: the AI threat to Britain’s next great directors",
+        "summary": "Commercials once launched careers from Ridley Scott to Guy Ritchie, now automated production is cutting costs – and the chance to learn by doing\nWhen Ridley Scott was awarded the UK’s highest accolade for a glittering career directing films from Alie",
+        "content": "Commercials once launched careers from Ridley Scott to Guy Ritchie, now automated production is cutting costs – and the chance to learn by doing\nWhen Ridley Scott was awarded the UK’s highest accolade for a glittering career directing films from Alien and Blade Runner to Gladiator and The Martian, he reminded those attending the Bafta event eight years ago that making commercials had been his “film school”.\nThe advertising industry has long been a breeding ground for British film and TV talent w",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/film/2026/oct/09/ai-threat-britain-directors-ridley-scott-guy-ritchie",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 09 Oct 2026 15:00:31 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-028",
+        "title": "AI and the climate crisis pose existential risks. The law offers a way to reduce them | Robert Reich",
+        "summary": "Liability lawsuits have held tobacco, oil and pharma companies to account in the past. AI investors won’t ignore this threat\nThe most basic function of government is to protect people from harm. Two growing phenomena – the climate crisis and AI – pos",
+        "content": "Liability lawsuits have held tobacco, oil and pharma companies to account in the past. AI investors won’t ignore this threat\nThe most basic function of government is to protect people from harm. Two growing phenomena – the climate crisis and AI – pose escalating risks of extraordinary harm.\nThe climate crisis is already causing floods, wildfires, drought and record heat. AI agents are already escaping super-secure environments to hack into systems they’re supposed to avoid.\nRobert Reich, a forme",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/commentisfree/2026/oct/09/ai-climate-change-liability-lawsuits",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 09 Oct 2026 11:00:26 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-029",
+        "title": "OpenAI projected to bring in $20bn less in revenue than expected",
+        "summary": "Questions raised over AI growth as ChatGPT maker forecasts this year’s revenue at $50bn, way below the $70bn signalled before\n\nBusiness live – latest updates\n\nOpenAI has revealed that it is making about $20bn less in projected revenue than it had rec",
+        "content": "Questions raised over AI growth as ChatGPT maker forecasts this year’s revenue at $50bn, way below the $70bn signalled before\n\nBusiness live – latest updates\n\nOpenAI has revealed that it is making about $20bn less in projected revenue than it had recently indicated to investors, raising questions about the break-neck growth rate in demand for AI.\nThe ChatGPT-maker company has told investors that its revenues for this year would reach $50bn (£37bn), a projection based on sales up to the end of Se",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/oct/09/openai-forecast-revenue-gap",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 09 Oct 2026 08:06:09 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-030",
+        "title": "Palantir’s Tom Watson says ‘mob rule’ must not dictate awarding of government contracts",
+        "summary": "Former Labour deputy leader says tech firm would work with a Reform UK government on immigration crackdowns\nTom Watson, the former Labour deputy leader who recently joined Palantir, has warned against “mob rule” when it comes to awarding public contr",
+        "content": "Former Labour deputy leader says tech firm would work with a Reform UK government on immigration crackdowns\nTom Watson, the former Labour deputy leader who recently joined Palantir, has warned against “mob rule” when it comes to awarding public contracts.\nLord Watson, now a senior vice-president at the US tech corporation, said UK ministers could get themselves “in a lot of trouble” as he was questioned about concerns raised about the government working with his new employer.\n Continue reading..",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/oct/09/palantir-tom-watson-mob-rule-government-contracts",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Fri, 09 Oct 2026 07:20:33 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      }
+    ]
+  },
+  "quote": {
+    "text": "The best way to predict the future is to invent it.",
+    "author": "Alan Kay",
+    "authorTitle": "Computer Scientist"
+  },
+  "sources": [
+    "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+    "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+    "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+    "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+    "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+    "https://the-decoder.com/anthropics-claude-can-now-orchestrate-up-to-1000-ai-agents-in-parallel-through-dynamic-workflows/",
+    "https://the-decoder.com/anthropic-launches-a-free-ai-scanner-for-open-source-projects/",
+    "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital/",
+    "https://the-decoder.com/openais-safety-crisis-keeps-getting-worse-and-the-company-keeps-making-it-worse/",
+    "https://the-decoder.com/anthropics-claude-science-creates-the-first-complete-ultraviolet-map-of-the-sky/",
+    "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
+    "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+    "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
+    "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
+    "https://arxiv.org/abs/2610.10541",
+    "https://www.cnbc.com/2026/10/09/jim-cramer-week-ahead-bank-earnings-ai-chips.html",
+    "https://www.cnbc.com/2026/10/09/tesla-full-self-driving-europe-regulator.html",
+    "https://www.cnbc.com/2026/10/09/verizon-att-tmobile-stocks-spacex-network.html",
+    "https://www.cnbc.com/investingclub/2026/10/09/ai-agents-could-soon-shop-for-consumers-what-it-means-for-retail-stocks.html",
+    "https://www.cnbc.com/2026/10/09/ai-data-centers-investing.html",
+    "https://www.nytimes.com/2026/10/09/technology/inside-mark-zuckerbergs-decision-to-pull-the-trigger-on-metas-ai-agent.html",
+    "https://www.nytimes.com/2026/10/09/podcasts/hardfork-anthropic-ai-morals.html",
+    "https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html",
+    "https://www.nytimes.com/2026/10/09/business/elon-musk-delta-starlink-wifi.html",
+    "https://www.nytimes.com/2026/10/09/movies/musk-documentary-alex-gibney.html",
+    "https://www.theguardian.com/world/2026/oct/09/flock-job-cuts",
+    "https://www.theguardian.com/film/2026/oct/09/ai-threat-britain-directors-ridley-scott-guy-ritchie",
+    "https://www.theguardian.com/commentisfree/2026/oct/09/ai-climate-change-liability-lawsuits",
+    "https://www.theguardian.com/technology/2026/oct/09/openai-forecast-revenue-gap",
+    "https://www.theguardian.com/technology/2026/oct/09/palantir-tom-watson-mob-rule-government-contracts"
+  ],
+  "generatedAt": "2026-10-10T02:01:32.467Z"
+}
