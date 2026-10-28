@@ -1,0 +1,618 @@
+{
+  "date": "2026-10-28",
+  "dateFormatted": "October 28, 2026",
+  "headline": {
+    "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+    "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+    "sourceUrl": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+    "sourceName": "TechCrunch AI"
+  },
+  "simpleSummary": [
+    "Today's edition was assembled directly from RSS feeds without AI curation.",
+    "Browse the stories below for the latest AI news."
+  ],
+  "sections": {
+    "tools": [
+      {
+        "id": "AI-001",
+        "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+        "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+        "content": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 28 Oct 2026 01:15:28 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-002",
+        "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+        "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+        "content": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 27 Oct 2026 23:34:27 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-003",
+        "title": "The data center boom has an upside: innovation for the US grid",
+        "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+        "content": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 27 Oct 2026 22:55:41 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-004",
+        "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+        "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+        "content": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 27 Oct 2026 21:44:34 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      },
+      {
+        "id": "AI-005",
+        "title": "Who’s really in charge at Anthropic after the IPO?",
+        "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+        "content": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+        "sourceName": "TechCrunch AI",
+        "tags": [
+          "TechCrunch AI"
+        ],
+        "section": "tools",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 27 Oct 2026 21:38:28 +0000",
+        "normalizedTags": [
+          "techcrunch ai"
+        ]
+      }
+    ],
+    "creative": [
+      {
+        "id": "AI-006",
+        "title": "Alibaba's latest Qwen models routed some requests through company servers, researchers find",
+        "summary": "Alibaba's Qwen 3.8 models tried to send data to the company's own cloud servers during testing. Palisade Research finds the behavior in three models from the 3.8 generation, while older models aren't affected. The likely cause: Alibaba's training inf",
+        "content": "Alibaba's Qwen 3.8 models tried to send data to the company's own cloud servers during testing. Palisade Research finds the behavior in three models from the 3.8 generation, while older models aren't affected. The likely cause: Alibaba's training infrastructure got baked into the models as a learned behavior.\nThe article Alibaba's latest Qwen models routed some requests through company servers, researchers find appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/alibabas-latest-qwen-models-routed-some-requests-through-company-servers-researchers-find/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 27 Oct 2026 19:45:49 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-007",
+        "title": "Google Deepmind's Genie 4 puts a modern spin on agent designs that predate LLMs",
+        "summary": "Google Deepmind has introduced Genie 4, a real-time world model that simulates interactive 3D worlds with sound and talking characters. Gemini models help plan in the background to keep the simulation consistent. Genie 4 is still an early research mo",
+        "content": "Google Deepmind has introduced Genie 4, a real-time world model that simulates interactive 3D worlds with sound and talking characters. Gemini models help plan in the background to keep the simulation consistent. Genie 4 is still an early research model, and longer sessions lead to visual inconsistencies.\nThe article Google Deepmind's Genie 4 puts a modern spin on agent designs that predate LLMs appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/google-deepminds-genie-4-puts-a-modern-spin-on-agent-designs-that-predate-llms/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 27 Oct 2026 17:25:09 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-008",
+        "title": "Former Deepmind researcher thinks AlphaGo's playbook can cure AI hallucinations",
+        "summary": "Former Deepmind researcher Thore Graepel wants his startup Metis Reasoning to bring AlphaGo's search principle to general reasoning. Instead of locking knowledge inside model weights, an explicit knowledge ledger would make every conclusion checkable",
+        "content": "Former Deepmind researcher Thore Graepel wants his startup Metis Reasoning to bring AlphaGo's search principle to general reasoning. Instead of locking knowledge inside model weights, an explicit knowledge ledger would make every conclusion checkable against evidence. So far, though, there's no working system and no benchmarks.\nThe article Former Deepmind researcher thinks AlphaGo's playbook can cure AI hallucinations appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/former-deepmind-researcher-thinks-alphagos-playbook-can-cure-ai-hallucinations/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 27 Oct 2026 13:55:24 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-009",
+        "title": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
+        "summary": "OpenAI says its internal AI models have cracked three major open questions in math, computer science, and physics. One of them is part of a famous Millennium Prize Problem, each of which carries a $1 million prize. Outside experts, including a Nobel ",
+        "content": "OpenAI says its internal AI models have cracked three major open questions in math, computer science, and physics. One of them is part of a famous Millennium Prize Problem, each of which carries a $1 million prize. Outside experts, including a Nobel laureate, are now checking whether the proofs hold up. If the computer science proof holds on its own, hundreds of research papers lose their foundation.\nThe article OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI prod",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 27 Oct 2026 12:37:24 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      },
+      {
+        "id": "AI-010",
+        "title": "OpenAI's partner content arrives in ChatGPT pre-summarized while the rest of the web gets raw scraps",
+        "summary": "Content from OpenAI's licensing partners appears to flow into ChatGPT through a dedicated pipeline that gives it priority over the rest of the web.\nThe article OpenAI's partner content arrives in ChatGPT pre-summarized while the rest of the web gets ",
+        "content": "Content from OpenAI's licensing partners appears to flow into ChatGPT through a dedicated pipeline that gives it priority over the rest of the web.\nThe article OpenAI's partner content arrives in ChatGPT pre-summarized while the rest of the web gets raw scraps appeared first on The Decoder.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://the-decoder.com/openais-partner-content-arrives-in-chatgpt-pre-summarized-while-the-rest-of-the-web-gets-raw-scraps/",
+        "sourceName": "The Decoder",
+        "tags": [
+          "The Decoder"
+        ],
+        "section": "creative",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 27 Oct 2026 11:39:24 +0000",
+        "normalizedTags": [
+          "the decoder"
+        ]
+      }
+    ],
+    "research": [
+      {
+        "id": "AI-011",
+        "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospe",
+        "content": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 27 Oct 2026 12:10:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-012",
+        "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+        "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so",
+        "content": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, what happened during the previous shift, and when an apparently minor…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 27 Oct 2026 11:19:18 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-013",
+        "title": "How solid-state transformers could help power the AI boom",
+        "summary": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic design hasn’t changed much for about a century, t",
+        "content": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic design hasn’t changed much for about a century, they could use an upgrade.  As the world races to meet rising electricity demand from…",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
+        "sourceName": "MIT Tech Review",
+        "tags": [
+          "MIT Tech Review"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 27 Oct 2026 09:00:00 +0000",
+        "normalizedTags": [
+          "mit tech review"
+        ]
+      },
+      {
+        "id": "AI-014",
+        "title": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
+        "summary": "arXiv:2610.31701v1 Announce Type: new \nAbstract: Enterprise customer journeys are shaped not only by product experiences and marketing, but also by recurring resource-allocation decisions. In B2B go-to-market (GTM) organizations, territory carving de",
+        "content": "arXiv:2610.31701v1 Announce Type: new \nAbstract: Enterprise customer journeys are shaped not only by product experiences and marketing, but also by recurring resource-allocation decisions. In B2B go-to-market (GTM) organizations, territory carving determines which accounts receive seller coverage, which seller-account relationships are preserved, and how limited field capacity is distributed. Yet the process often remains manual, making it difficult to compare opportunities, value continuity, an",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2610.31701",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 27 Oct 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ]
+      },
+      {
+        "id": "AI-015",
+        "title": "Phronix: The Capability-Centric Learning Paradigm for Agents",
+        "summary": "arXiv:2610.31789v1 Announce Type: new \nAbstract: Scientific computing increasingly relies on large language model-based agents for performance engineering tasks such as instrumentation, analysis, and workflow porting. However, agent effectiveness dep",
+        "content": "arXiv:2610.31789v1 Announce Type: new \nAbstract: Scientific computing increasingly relies on large language model-based agents for performance engineering tasks such as instrumentation, analysis, and workflow porting. However, agent effectiveness depends heavily on the surrounding harness, which typically relies on manually written skills and curated memory. This limits autonomous learning, forcing agents to repeatedly rediscover solutions rather than retain and reuse knowledge from prior execut",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://arxiv.org/abs/2610.31789",
+        "sourceName": "ArXiv CS.AI",
+        "tags": [
+          "ArXiv CS.AI"
+        ],
+        "section": "research",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 27 Oct 2026 00:00:00 -0400",
+        "normalizedTags": [
+          "arxiv cs.ai"
+        ]
+      }
+    ],
+    "applications": [],
+    "business": [
+      {
+        "id": "AI-016",
+        "title": "SK Hynix shares jump over 8% as third-quarter profit beats, chipmaker to return over $25 billion to investors",
+        "summary": "Shares of South Korean chipmaker SK Hynix jumped over 8% on Wednesday as third-quarter profit sharply beats estimates.",
+        "content": "Shares of South Korean chipmaker SK Hynix jumped over 8% on Wednesday as third-quarter profit sharply beats estimates.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Wed, 28 Oct 2026 01:50:58 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-017",
+        "title": "Jim Cramer warns investors not to get fooled by the latest AI stock rally",
+        "summary": "CNBC’s Jim Cramer warned that the latest rally in AI stocks doesn't mean the data center trade is out of the woods.",
+        "content": "CNBC’s Jim Cramer warned that the latest rally in AI stocks doesn't mean the data center trade is out of the woods.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/10/27/jim-cramer-ai-trade-financing-risks.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 27 Oct 2026 22:24:19 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-018",
+        "title": "Chart: Anthropic's cash pile towers over nearly every U.S. company",
+        "summary": "Anthropic's cash pile of $131.7 billion is more than every non-bank U.S. company except for Berkshire Hathaway and Alphabet.",
+        "content": "Anthropic's cash pile of $131.7 billion is more than every non-bank U.S. company except for Berkshire Hathaway and Alphabet.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/10/27/anthropic-cash-investments-ipo.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 27 Oct 2026 23:03:09 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-019",
+        "title": "Walmart says AI training is boosting confidence with the technology among its 2.1 million associates",
+        "summary": "Walmart says training from OpenAI and Google is helping its 2.1 million associates feel more confident using AI and digital tools.",
+        "content": "Walmart says training from OpenAI and Google is helping its 2.1 million associates feel more confident using AI and digital tools.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/10/27/walmart-ai-training-workers.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 27 Oct 2026 21:15:35 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      },
+      {
+        "id": "AI-020",
+        "title": "Robinhood shares fall 4% as crypto slump weighs on profits, offsetting gains in new businesses",
+        "summary": "Robinhood's third-quarter revenue met expectations, fueled by the company's expansion into options, predictions markets and other financial services.",
+        "content": "Robinhood's third-quarter revenue met expectations, fueled by the company's expansion into options, predictions markets and other financial services.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html",
+        "sourceName": "CNBC Tech",
+        "tags": [
+          "CNBC Tech"
+        ],
+        "section": "business",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 27 Oct 2026 21:07:51 GMT",
+        "normalizedTags": [
+          "cnbc tech"
+        ]
+      }
+    ],
+    "policy": [
+      {
+        "id": "AI-021",
+        "title": "How Billionaires Are Fighting the Prop 40 California Wealth Tax",
+        "summary": "The latest Silicon Valley billionaire club is a $333 million political ad machine that is heavily engaged in next week’s elections.",
+        "content": "The latest Silicon Valley billionaire club is a $333 million political ad machine that is heavily engaged in next week’s elections.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/10/27/technology/proposition-40-california-billionaire-tax.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 27 Oct 2026 14:55:35 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-022",
+        "title": "Wanted: Robot-Dog Walkers. $20/Hour.",
+        "summary": "No pooper scooper required.",
+        "content": "No pooper scooper required.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/10/27/technology/robot-dog-walkers.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 27 Oct 2026 18:20:48 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-023",
+        "title": "GM Is Leaving NYSE for the Nasdaq After More Than 100 Years",
+        "summary": "After more than 100 years on the New York Stock Exchange, the automaker is shifting its listing to the Nasdaq, which is home to many technology companies.",
+        "content": "After more than 100 years on the New York Stock Exchange, the automaker is shifting its listing to the Nasdaq, which is home to many technology companies.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/10/27/business/general-motors-nasdaq-nyse.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 27 Oct 2026 17:46:24 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      },
+      {
+        "id": "AI-024",
+        "title": "In the A.I. ‘Robogym,’ Machines Train to Be More Like Humans",
+        "summary": "Germany’s Neura is one of the companies at the forefront of efforts to use artificial intelligence in robotics, and crucial to whether Europe can close the gap with China.",
+        "content": "Germany’s Neura is one of the companies at the forefront of efforts to use artificial intelligence in robotics, and crucial to whether Europe can close the gap with China.",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.nytimes.com/2026/10/27/business/neura-robotics-germany-china-ai.html",
+        "sourceName": "NYT Technology",
+        "tags": [
+          "NYT Technology"
+        ],
+        "section": "policy",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 27 Oct 2026 09:02:37 +0000",
+        "normalizedTags": [
+          "nyt technology"
+        ]
+      }
+    ],
+    "concerns": [],
+    "culture": [
+      {
+        "id": "AI-025",
+        "title": "AI bots flooded 2023 UK government consultation on disposable vapes ban",
+        "summary": "Three-quarters of all responses were machine-generated in failed attempt to stop bill from passing into law, research finds\nAI bots flooded a government consultation with tens of thousands of fake responses in a failed attempt to stop the UK’s ban on",
+        "content": "Three-quarters of all responses were machine-generated in failed attempt to stop bill from passing into law, research finds\nAI bots flooded a government consultation with tens of thousands of fake responses in a failed attempt to stop the UK’s ban on disposable vapes.\nThree-quarters of all the responses to the 2023 consultation on the tobacco and vapes bill were machine-generated, in what is thought to be the first coordinated attempt to use AI to derail health policymaking in the UK.\n Continue ",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/society/2026/oct/27/ai-bots-flooded-2023-uk-government-consultation-disposable-vapes-ban",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 27 Oct 2026 22:30:45 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-026",
+        "title": "Elon Musk says he has ‘cyber psychosis’. Do you too? | Arwa Mahdawi",
+        "summary": "Whether using chatbots for childcare or taking up smoking, a new affliction is sweeping through the tech world. Here are the signs\nIn the least surprising news you’ll hear all week, Elon Musk has said he’s not entirely right in the head. “I’ve got a ",
+        "content": "Whether using chatbots for childcare or taking up smoking, a new affliction is sweeping through the tech world. Here are the signs\nIn the least surprising news you’ll hear all week, Elon Musk has said he’s not entirely right in the head. “I’ve got a little bit of cyber psychosis,” the world’s richest and most irritating man explained during an event this month. “Maybe a lot actually.” Musk added that, over “various points this year”, he’s had “AI or SI psychosis probably half a dozen times”. SI,",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/commentisfree/2026/oct/27/elon-musk-cyber-psychosis-ai-tech",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 27 Oct 2026 15:01:14 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-027",
+        "title": "‘Meaningless as a laptop screensaver’: reviewers slate Musk’s AI-made Odyssey film",
+        "summary": "Tesla tycoon launched Grok project after criticising Christoper Nolan’s diverse casting for his Homeric blockbuster\nElon Musk has released an AI-generated rival to Christopher Nolan’s The Odyssey after pledging to make a version “true to the art of H",
+        "content": "Tesla tycoon launched Grok project after criticising Christoper Nolan’s diverse casting for his Homeric blockbuster\nElon Musk has released an AI-generated rival to Christopher Nolan’s The Odyssey after pledging to make a version “true to the art of Homer”.\nHaving criticised the hit movie in the summer, the tycoon said he would use Grok Imagine to make a “historically accurate” adaptation.\n Continue reading...",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/technology/2026/oct/27/reviewers-slate-musk-ai-grok-odyssey-film-nolan",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 27 Oct 2026 14:08:41 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-028",
+        "title": "Elon Musk’s AI Odyssey review – the dullest, most pointless riposte possible to Christopher Nolan’s brilliant epic",
+        "summary": "It is hardly a shock that Grok AI’s interpretation of Homer is as meaningless as a laptop screensaver. The only surprise would be if Musk accepted defeat graciously. Which he won’t\nThink back. Do you remember when Elon Musk, in a weird online tantrum",
+        "content": "It is hardly a shock that Grok AI’s interpretation of Homer is as meaningless as a laptop screensaver. The only surprise would be if Musk accepted defeat graciously. Which he won’t\nThink back. Do you remember when Elon Musk, in a weird online tantrum, and without having seen the film, condemned the supposed wokery in Christopher Nolan’s The Odyssey, for getting Elliot Page to play Sinon and Lupita Nyong’o to play Helen of Troy? As the plaudits and the box-office receipts for Nolan’s Odyssey pile",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/film/2026/oct/27/elon-musk-ai-odyssey-movie-grok-christopher-nolan",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 27 Oct 2026 13:01:46 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      },
+      {
+        "id": "AI-029",
+        "title": "AI-driven disinformation running rampant on social media before US midterms, experts warn",
+        "summary": "Social media companies including Meta have pulled back on efforts to protect voters from election-meddling lies\nSocial media feeds are awash with an unprecedented flood of AI-driven disinformation ahead of November’s US midterm elections, according t",
+        "content": "Social media companies including Meta have pulled back on efforts to protect voters from election-meddling lies\nSocial media feeds are awash with an unprecedented flood of AI-driven disinformation ahead of November’s US midterm elections, according to experts, who warn many posts are probably “slipping through the cracks”.\nAs tens of millions of Americans prepare to cast their vote, social media companies have scaled back their efforts to protect voters from lies meant to manipulate elections.\n ",
+        "keyTakeaways": [],
+        "whyItMatters": "",
+        "sourceUrl": "https://www.theguardian.com/us-news/2026/oct/27/ai-disinformation-social-media-midterm-elections",
+        "sourceName": "The Guardian AI",
+        "tags": [
+          "The Guardian AI"
+        ],
+        "section": "culture",
+        "readTime": "2 min",
+        "publishedAt": "Tue, 27 Oct 2026 10:00:10 GMT",
+        "normalizedTags": [
+          "the guardian ai"
+        ]
+      }
+    ]
+  },
+  "quote": {
+    "text": "The best way to predict the future is to invent it.",
+    "author": "Alan Kay",
+    "authorTitle": "Computer Scientist"
+  },
+  "sources": [
+    "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+    "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+    "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+    "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+    "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+    "https://the-decoder.com/alibabas-latest-qwen-models-routed-some-requests-through-company-servers-researchers-find/",
+    "https://the-decoder.com/google-deepminds-genie-4-puts-a-modern-spin-on-agent-designs-that-predate-llms/",
+    "https://the-decoder.com/former-deepmind-researcher-thinks-alphagos-playbook-can-cure-ai-hallucinations/",
+    "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics/",
+    "https://the-decoder.com/openais-partner-content-arrives-in-chatgpt-pre-summarized-while-the-rest-of-the-web-gets-raw-scraps/",
+    "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
+    "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+    "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
+    "https://arxiv.org/abs/2610.31701",
+    "https://arxiv.org/abs/2610.31789",
+    "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
+    "https://www.cnbc.com/2026/10/27/jim-cramer-ai-trade-financing-risks.html",
+    "https://www.cnbc.com/2026/10/27/anthropic-cash-investments-ipo.html",
+    "https://www.cnbc.com/2026/10/27/walmart-ai-training-workers.html",
+    "https://www.cnbc.com/2026/10/27/robinhood-hood-q3-2026-earnings.html",
+    "https://www.nytimes.com/2026/10/27/technology/proposition-40-california-billionaire-tax.html",
+    "https://www.nytimes.com/2026/10/27/technology/robot-dog-walkers.html",
+    "https://www.nytimes.com/2026/10/27/business/general-motors-nasdaq-nyse.html",
+    "https://www.nytimes.com/2026/10/27/business/neura-robotics-germany-china-ai.html",
+    "https://www.theguardian.com/society/2026/oct/27/ai-bots-flooded-2023-uk-government-consultation-disposable-vapes-ban",
+    "https://www.theguardian.com/commentisfree/2026/oct/27/elon-musk-cyber-psychosis-ai-tech",
+    "https://www.theguardian.com/technology/2026/oct/27/reviewers-slate-musk-ai-grok-odyssey-film-nolan",
+    "https://www.theguardian.com/film/2026/oct/27/elon-musk-ai-odyssey-movie-grok-christopher-nolan",
+    "https://www.theguardian.com/us-news/2026/oct/27/ai-disinformation-social-media-midterm-elections"
+  ],
+  "generatedAt": "2026-10-28T01:57:28.631Z"
+}
